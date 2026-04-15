@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>UW Course & Professor Finder</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Fraunces:opsz,wght@9..144,600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="bg-shape bg-shape-1"></div>
+    <div class="bg-shape bg-shape-2"></div>
+
+    <main class="app">
+      <header class="hero">
+        <p class="badge">UW Course Teaching History</p>
+        <h1>Find who taught what, and when.</h1>
+        <p class="subtitle">
+          Search across all UW campuses, departments, and quarters.
+        </p>
+      </header>
+
+      <!-- ── Breadcrumb ─────────────────────────────────────────────────── -->
+      <nav class="breadcrumb" id="breadcrumb" aria-label="Selection breadcrumb">
+        <span class="crumb crumb-campus" id="crumbCampus"></span>
+        <span class="crumb-sep" id="crumbSep1">›</span>
+        <span class="crumb crumb-dept" id="crumbDept"></span>
+        <span class="crumb-sep" id="crumbSep2">›</span>
+        <span class="crumb crumb-filter">Filter</span>
+      </nav>
+
+      <!-- ── Step 1: Campus ─────────────────────────────────────────────── -->
+      <section class="step" id="stepCampus">
+        <p class="step-label">Select a campus</p>
+        <div class="campus-cards" id="campusCards">
+          <!-- filled by JS -->
+        </div>
+        <p class="loading-msg" id="campusLoading">Loading campus list…</p>
+      </section>
+
+      <!-- ── Step 2: Department ─────────────────────────────────────────── -->
+      <section class="step hidden" id="stepDept">
+        <p class="step-label">
+          <button class="back-btn" id="backToCampus" type="button">← Campuses</button>
+          Select a department
+        </p>
+        <div class="dept-search-wrap">
+          <input
+            id="deptSearch"
+            type="search"
+            placeholder="Search departments…"
+            autocomplete="off"
+            aria-label="Search departments"
+          />
+        </div>
+        <div class="dept-list" id="deptList">
+          <!-- filled by JS -->
+        </div>
+      </section>
+
+      <!-- ── Step 3: Filter ─────────────────────────────────────────────── -->
+      <section class="step hidden" id="stepFilter">
+        <p class="step-label">
+          <button class="back-btn" id="backToDept" type="button">← Departments</button>
+        </p>
+
+        <section class="controls">
+          <div class="control-field">
+            <label>Course</label>
+            <div class="filter-dropdown" id="courseDropdown"></div>
+          </div>
+
+          <div class="control-field">
+            <label>Professor</label>
+            <div class="filter-dropdown" id="professorDropdown"></div>
+          </div>
+
+          <div class="control-field compact-field">
+            <label>Year</label>
+            <div class="filter-dropdown" id="yearDropdown"></div>
+          </div>
+
+          <div class="control-field compact-field">
+            <label>Quarter</label>
+            <div class="filter-dropdown" id="quarterDropdown"></div>
+          </div>
+        </section>
+
+        <section class="status-row">
+          <p id="summaryText">Loading data…</p>
+          <button id="clearBtn" type="button">Clear</button>
+        </section>
+
+        <section class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Course</th>
+                <th>Title</th>
+                <th>Instructor</th>
+                <th>Year</th>
+                <th>Quarter</th>
+              </tr>
+            </thead>
+            <tbody id="resultsBody"></tbody>
+          </table>
+        </section>
+
+        <section class="pager" aria-label="Results pagination">
+          <button id="prevPageBtn" type="button">Previous</button>
+          <p id="pageText">Page 1 of 1</p>
+          <button id="nextPageBtn" type="button">Next</button>
+        </section>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

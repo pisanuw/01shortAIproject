@@ -1,0 +1,928 @@
+{
+  "generatedAt": "2026-04-15T15:51:12Z",
+  "campus": "T",
+  "dept": "tphil",
+  "deptName": "Philosophy",
+  "records": [
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2020",
+      "course": "T PHIL 101",
+      "courseTitle": "INTRO TO PHILOSOPHY",
+      "section": "A",
+      "instructor": "Nascimento,Amos"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2020",
+      "course": "T PHIL 250",
+      "courseTitle": "PRACTICAL REASONING",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2020",
+      "course": "T PHIL 251",
+      "courseTitle": "DATA & DISCOURSE",
+      "section": "A",
+      "instructor": "Baird,Katie"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2020",
+      "course": "T PHIL 361",
+      "courseTitle": "ETHICS IN SOCIETY",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2020",
+      "course": "T PHIL 456",
+      "courseTitle": "ENVIRONMENTL ETHICS",
+      "section": "A",
+      "instructor": "Nascimento,Amos"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2021",
+      "course": "T PHIL 200",
+      "courseTitle": "INTR PHIL HUM RIGHT",
+      "section": "A",
+      "instructor": "Nascimento,Amos"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2021",
+      "course": "T PHIL 240",
+      "courseTitle": "INTRO TO ETHICS",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2021",
+      "course": "T PHIL 250",
+      "courseTitle": "PRACTICAL REASONING",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2021",
+      "course": "T PHIL 251",
+      "courseTitle": "DATA & DISCOURSE",
+      "section": "A",
+      "instructor": "Baird,Katie"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2021",
+      "course": "T PHIL 358",
+      "courseTitle": "HIST OF PHILOSOPHY",
+      "section": "A",
+      "instructor": "Nascimento,Amos"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SPR2021",
+      "course": "T PHIL 101",
+      "courseTitle": "INTRO TO PHILOSOPHY",
+      "section": "A",
+      "instructor": "Nascimento,Amos"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SPR2021",
+      "course": "T PHIL 240",
+      "courseTitle": "INTRO TO ETHICS",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SPR2021",
+      "course": "T PHIL 250",
+      "courseTitle": "PRACTICAL REASONING",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SPR2021",
+      "course": "T PHIL 251",
+      "courseTitle": "DATA & DISCOURSE",
+      "section": "A",
+      "instructor": "Baird,Katie"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SPR2021",
+      "course": "T PHIL 361",
+      "courseTitle": "ETHICS IN SOCIETY",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SUM2021",
+      "course": "T PHIL 466",
+      "courseTitle": "PHILOSOPHY OF FUTURE",
+      "section": "A",
+      "instructor": "Meiches,Benjamin A"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2021",
+      "course": "T PHIL 101",
+      "courseTitle": "INTRO TO PHILOSOPHY",
+      "section": "A",
+      "instructor": "Nascimento,Amos"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2021",
+      "course": "T PHIL 250",
+      "courseTitle": "PRACTICAL REASONING",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2021",
+      "course": "T PHIL 251",
+      "courseTitle": "DATA & DISCOURSE",
+      "section": "A",
+      "instructor": "Baird,Katie"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2021",
+      "course": "T PHIL 361",
+      "courseTitle": "ETHICS IN SOCIETY",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2022",
+      "course": "T PHIL 240",
+      "courseTitle": "INTRO TO ETHICS",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2022",
+      "course": "T PHIL 250",
+      "courseTitle": "PRACTICAL REASONING",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2022",
+      "course": "T PHIL 251",
+      "courseTitle": "DATA & DISCOURSE",
+      "section": "A",
+      "instructor": "Baird,Katie"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2022",
+      "course": "T PHIL 358",
+      "courseTitle": "HIST OF PHILOSOPHY",
+      "section": "A",
+      "instructor": "Spruel,Ricky William"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2022",
+      "course": "T PHIL 456",
+      "courseTitle": "ENVIRONMENTL ETHICS",
+      "section": "A",
+      "instructor": "Nascimento,Amos"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SUM2022",
+      "course": "T PHIL 355",
+      "courseTitle": "THE MODERN MIND",
+      "section": "A",
+      "instructor": "Forman,Michael"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2022",
+      "course": "T PHIL 200",
+      "courseTitle": "INTR PHIL HUM RIGHT",
+      "section": "A",
+      "instructor": "Nascimento,Amos"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2022",
+      "course": "T PHIL 250",
+      "courseTitle": "PRACTICAL REASONING",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2022",
+      "course": "T PHIL 250",
+      "courseTitle": "PRACTICAL REASONING",
+      "section": "B",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2022",
+      "course": "T PHIL 251",
+      "courseTitle": "DATA & DISCOURSE",
+      "section": "A",
+      "instructor": "Khalil,Sana"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2022",
+      "course": "T PHIL 361",
+      "courseTitle": "ETHICS IN SOCIETY",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2022",
+      "course": "T PHIL 456",
+      "courseTitle": "ENVIRONMENTL ETHICS",
+      "section": "A",
+      "instructor": "Nascimento,Amos"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2023",
+      "course": "T PHIL 101",
+      "courseTitle": "INTRO TO PHILOSOPHY",
+      "section": "A",
+      "instructor": "Spruel,Ricky William"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2023",
+      "course": "T PHIL 250",
+      "courseTitle": "PRACTICAL REASONING",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2023",
+      "course": "T PHIL 251",
+      "courseTitle": "DATA & DISCOURSE",
+      "section": "A",
+      "instructor": "Lovasz,Anna"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2023",
+      "course": "T PHIL 361",
+      "courseTitle": "ETHICS IN SOCIETY",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2023",
+      "course": "T PHIL 453",
+      "courseTitle": "POL THEORY OF HR",
+      "section": "A",
+      "instructor": "Forman,Michael"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SPR2023",
+      "course": "T PHIL 240",
+      "courseTitle": "INTRO TO ETHICS",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SPR2023",
+      "course": "T PHIL 250",
+      "courseTitle": "PRACTICAL REASONING",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SPR2023",
+      "course": "T PHIL 251",
+      "courseTitle": "DATA & DISCOURSE",
+      "section": "A",
+      "instructor": "Khalil,Sana"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SPR2023",
+      "course": "T PHIL 315",
+      "courseTitle": "CHINESE PHILOSOPHY",
+      "section": "A",
+      "instructor": "Li,Y"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SUM2023",
+      "course": "T PHIL 355",
+      "courseTitle": "THE MODERN MIND",
+      "section": "A",
+      "instructor": "Forman,Michael"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2023",
+      "course": "T PHIL 101",
+      "courseTitle": "INTRO TO PHILOSOPHY",
+      "section": "A",
+      "instructor": "Nascimento,Amos"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2023",
+      "course": "T PHIL 250",
+      "courseTitle": "PRACTICAL REASONING",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2023",
+      "course": "T PHIL 250",
+      "courseTitle": "PRACTICAL REASONING",
+      "section": "B",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2023",
+      "course": "T PHIL 251",
+      "courseTitle": "DATA & DISCOURSE",
+      "section": "A",
+      "instructor": "Khalil,Sana"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2023",
+      "course": "T PHIL 361",
+      "courseTitle": "ETHICS IN SOCIETY",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2023",
+      "course": "T PHIL 456",
+      "courseTitle": "ENVIRONMENTL ETHICS",
+      "section": "A",
+      "instructor": "Nascimento,Amos"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2024",
+      "course": "T PHIL 240",
+      "courseTitle": "INTRO TO ETHICS",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2024",
+      "course": "T PHIL 250",
+      "courseTitle": "PRACTICAL REASONING",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2024",
+      "course": "T PHIL 251",
+      "courseTitle": "DATA & DISCOURSE",
+      "section": "A",
+      "instructor": "Khalil,Sana"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2024",
+      "course": "T PHIL 360",
+      "courseTitle": "HIST OF PHIL:MODERN",
+      "section": "A",
+      "instructor": "Nascimento,Amos"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SPR2024",
+      "course": "T PHIL 101",
+      "courseTitle": "INTRO TO PHILOSOPHY",
+      "section": "A",
+      "instructor": "Nascimento,Amos"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SPR2024",
+      "course": "T PHIL 200",
+      "courseTitle": "INTR PHIL HUM RIGHT",
+      "section": "A",
+      "instructor": "Nascimento,Amos"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SPR2024",
+      "course": "T PHIL 240",
+      "courseTitle": "INTRO TO ETHICS",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SPR2024",
+      "course": "T PHIL 251",
+      "courseTitle": "DATA & DISCOURSE",
+      "section": "A",
+      "instructor": "Scharks,Tim"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SPR2024",
+      "course": "T PHIL 453",
+      "courseTitle": "POL THEORY OF HR",
+      "section": "A",
+      "instructor": "Forman,Michael"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SUM2024",
+      "course": "T PHIL 251",
+      "courseTitle": "DATA & DISCOURSE",
+      "section": "A",
+      "instructor": "Khalil,Sana"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SUM2024",
+      "course": "T PHIL 355",
+      "courseTitle": "THE MODERN MIND",
+      "section": "A",
+      "instructor": "Forman,Michael"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2024",
+      "course": "T PHIL 101",
+      "courseTitle": "INTRO TO PHILOSOPHY",
+      "section": "A",
+      "instructor": "Nascimento,Amos"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2024",
+      "course": "T PHIL 250",
+      "courseTitle": "PRACTICAL REASONING",
+      "section": "A",
+      "instructor": "Werrett,Ian C"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2024",
+      "course": "T PHIL 250",
+      "courseTitle": "PRACTICAL REASONING",
+      "section": "B",
+      "instructor": "Werrett,Ian C"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2024",
+      "course": "T PHIL 251",
+      "courseTitle": "DATA & DISCOURSE",
+      "section": "A",
+      "instructor": "Scharks,Tim"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2024",
+      "course": "T PHIL 358",
+      "courseTitle": "HIST OF PHILOSOPHY",
+      "section": "A",
+      "instructor": "Nascimento,Amos"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2024",
+      "course": "T PHIL 361",
+      "courseTitle": "ETHICS IN SOCIETY",
+      "section": "A",
+      "instructor": "Nascimento,Amos"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2025",
+      "course": "T PHIL 240",
+      "courseTitle": "INTRO TO ETHICS",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2025",
+      "course": "T PHIL 250",
+      "courseTitle": "PRACTICAL REASONING",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2025",
+      "course": "T PHIL 251",
+      "courseTitle": "DATA & DISCOURSE",
+      "section": "A",
+      "instructor": "Khalil,Sana"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2025",
+      "course": "T PHIL 361",
+      "courseTitle": "ETHICS IN SOCIETY",
+      "section": "B",
+      "instructor": "Nascimento,Amos"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2025",
+      "course": "T PHIL 451",
+      "courseTitle": "THE ENLIGHTENMENT",
+      "section": "A",
+      "instructor": "Forman,Michael"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SPR2025",
+      "course": "T PHIL 101",
+      "courseTitle": "INTRO TO PHILOSOPHY",
+      "section": "A",
+      "instructor": "Nascimento,Amos"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SPR2025",
+      "course": "T PHIL 251",
+      "courseTitle": "DATA & DISCOURSE",
+      "section": "A",
+      "instructor": "Khalil,Sana"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SPR2025",
+      "course": "T PHIL 361",
+      "courseTitle": "ETHICS IN SOCIETY",
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SPR2025",
+      "course": "T PHIL 453",
+      "courseTitle": "POL THEORY OF HR",
+      "section": "A",
+      "instructor": "Forman,Michael"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SPR2025",
+      "course": "T PHIL 456",
+      "courseTitle": "ENVIRONMENTL ETHICS",
+      "section": "A",
+      "instructor": "Nascimento,Amos"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SUM2025",
+      "course": "T PHIL 251",
+      "courseTitle": "DATA & DISCOURSE",
+      "section": "A",
+      "instructor": "Khalil,Sana"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SUM2025",
+      "course": "T PHIL 355",
+      "courseTitle": "THE MODERN MIND",
+      "section": "A",
+      "instructor": "Forman,Michael"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2025",
+      "course": "T PHIL 250",
+      "courseTitle": "PRACTICAL REASONING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2025",
+      "course": "T PHIL 250",
+      "courseTitle": "PRACTICAL REASONING",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2025",
+      "course": "T PHIL 251",
+      "courseTitle": "DATA & DISCOURSE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2025",
+      "course": "T PHIL 361",
+      "courseTitle": "ETHICS IN SOCIETY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "AUT2025",
+      "course": "T PHIL 451",
+      "courseTitle": "THE ENLIGHTENMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2026",
+      "course": "T PHIL 101",
+      "courseTitle": "INTRO TO PHILOSOPHY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2026",
+      "course": "T PHIL 250",
+      "courseTitle": "PRACTICAL REASONING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2026",
+      "course": "T PHIL 251",
+      "courseTitle": "DATA & DISCOURSE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2026",
+      "course": "T PHIL 358",
+      "courseTitle": "HIST OF PHILOSOPHY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2026",
+      "course": "T PHIL 361",
+      "courseTitle": "ETHICS IN SOCIETY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SPR2026",
+      "course": "T PHIL 240",
+      "courseTitle": "INTRO TO ETHICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SPR2026",
+      "course": "T PHIL 251",
+      "courseTitle": "DATA & DISCOURSE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SPR2026",
+      "course": "T PHIL 361",
+      "courseTitle": "ETHICS IN SOCIETY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SPR2026",
+      "course": "T PHIL 453",
+      "courseTitle": "POL THEORY OF HR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "T",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "SPR2026",
+      "course": "T PHIL 456",
+      "courseTitle": "ENVIRONMENTL ETHICS",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
+}

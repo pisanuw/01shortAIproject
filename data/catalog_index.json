@@ -1,0 +1,1785 @@
+{
+  "generatedAt": "2026-04-15T16:28:02Z",
+  "campuses": {
+    "B": {
+      "name": "Bothell",
+      "schools": [
+        {
+          "name": "Degrees &amp; programs",
+          "depts": [
+            {
+              "code": "bcore",
+              "name": "University Studies and Programs",
+              "recordCount": 426
+            },
+            {
+              "code": "bcusp",
+              "name": "University Studies and Programs",
+              "recordCount": 66
+            },
+            {
+              "code": "blead",
+              "name": "Leadership",
+              "recordCount": 26
+            },
+            {
+              "code": "bwrit",
+              "name": "Writing",
+              "recordCount": 453
+            },
+            {
+              "code": "bbus",
+              "name": "Business",
+              "recordCount": 1759
+            },
+            {
+              "code": "bbecn",
+              "name": "Business Economics",
+              "recordCount": 36
+            },
+            {
+              "code": "bacct",
+              "name": "Master of Science in Accounting",
+              "recordCount": 4
+            },
+            {
+              "code": "beduc",
+              "name": "Education",
+              "recordCount": 753
+            },
+            {
+              "code": "lede",
+              "name": "Leadership Development for Educators",
+              "recordCount": 19
+            },
+            {
+              "code": "bis",
+              "name": "Interdisciplinary Studies",
+              "recordCount": 1647
+            },
+            {
+              "code": "bisskl",
+              "name": "Interdisciplinary Study Skills",
+              "recordCount": 69
+            },
+            {
+              "code": "bisaes",
+              "name": "American & Ethnic Studies",
+              "recordCount": 20
+            },
+            {
+              "code": "biscla",
+              "name": "Culture Literature and the Arts",
+              "recordCount": 16
+            },
+            {
+              "code": "bdata",
+              "name": "Data Analytics and Visualization",
+              "recordCount": 31
+            },
+            {
+              "code": "bearth",
+              "name": "Earth System Science",
+              "recordCount": 89
+            },
+            {
+              "code": "bes",
+              "name": "Environmental Science",
+              "recordCount": 183
+            },
+            {
+              "code": "bisgws",
+              "name": "Gender Women and Sexuality Studies",
+              "recordCount": 27
+            },
+            {
+              "code": "bisgst",
+              "name": "Global Studies",
+              "recordCount": 22
+            },
+            {
+              "code": "bisia",
+              "name": "Interdisciplinary Arts",
+              "recordCount": 208
+            },
+            {
+              "code": "bislep",
+              "name": "Law Economics and Public Policy",
+              "recordCount": 27
+            },
+            {
+              "code": "bismcs",
+              "name": "Media and Communication Studies",
+              "recordCount": 137
+            },
+            {
+              "code": "bispsy",
+              "name": "Psychology",
+              "recordCount": 18
+            },
+            {
+              "code": "bissts",
+              "name": "Science Technology and Society",
+              "recordCount": 43
+            },
+            {
+              "code": "bpolst",
+              "name": "Master of Policy Studies",
+              "recordCount": 130
+            },
+            {
+              "code": "bhlth",
+              "name": "Health Electives",
+              "recordCount": 369
+            },
+            {
+              "code": "bhs",
+              "name": "Health Studies",
+              "recordCount": 233
+            },
+            {
+              "code": "bnurs",
+              "name": "Nursing",
+              "recordCount": 418
+            }
+          ]
+        },
+        {
+          "name": "Interdisciplinary",
+          "depts": [
+            {
+              "code": "bst",
+              "name": "Science and Technology",
+              "recordCount": 141
+            }
+          ]
+        },
+        {
+          "name": "Department of Biological Sciences",
+          "depts": [
+            {
+              "code": "bbio",
+              "name": "Biology",
+              "recordCount": 568
+            }
+          ]
+        },
+        {
+          "name": "Department of Computing &amp; Software Systems",
+          "depts": [
+            {
+              "code": "css",
+              "name": "Computing and Software Systems",
+              "recordCount": 1529
+            },
+            {
+              "code": "cssskl",
+              "name": "Computing and Software Systems Skills",
+              "recordCount": 167
+            }
+          ]
+        },
+        {
+          "name": "Department of Engineering &amp; Mathematics",
+          "depts": [
+            {
+              "code": "bce",
+              "name": "Computer Engineering",
+              "recordCount": 207
+            },
+            {
+              "code": "bengr",
+              "name": "Engineering",
+              "recordCount": 115
+            },
+            {
+              "code": "bee",
+              "name": "Electrical Engineering",
+              "recordCount": 550
+            },
+            {
+              "code": "bmath",
+              "name": "Mathematics",
+              "recordCount": 207
+            },
+            {
+              "code": "stmath",
+              "name": "Mathematics",
+              "recordCount": 643
+            },
+            {
+              "code": "bme",
+              "name": "Mechanical Engineering",
+              "recordCount": 346
+            }
+          ]
+        },
+        {
+          "name": "Department of Physical Sciences",
+          "depts": [
+            {
+              "code": "bchem",
+              "name": "Chemistry",
+              "recordCount": 566
+            },
+            {
+              "code": "bphys",
+              "name": "Physics",
+              "recordCount": 444
+            }
+          ]
+        }
+      ]
+    },
+    "T": {
+      "name": "Tacoma",
+      "schools": [
+        {
+          "name": "Milgard School of Business",
+          "depts": [
+            {
+              "code": "tacct",
+              "name": "Accounting",
+              "recordCount": 669
+            },
+            {
+              "code": "tbus",
+              "name": "Business Administration",
+              "recordCount": 522
+            },
+            {
+              "code": "tbanlt",
+              "name": "Business Analytics",
+              "recordCount": 236
+            },
+            {
+              "code": "tbecon",
+              "name": "Business Economics",
+              "recordCount": 54
+            },
+            {
+              "code": "tbgen",
+              "name": "Business",
+              "recordCount": 56
+            },
+            {
+              "code": "tfin",
+              "name": "Finance",
+              "recordCount": 43
+            },
+            {
+              "code": "tmgmt",
+              "name": "Management",
+              "recordCount": 123
+            },
+            {
+              "code": "tmktg",
+              "name": "Marketing",
+              "recordCount": 81
+            },
+            {
+              "code": "tcore",
+              "name": "Core Courses",
+              "recordCount": 225
+            },
+            {
+              "code": "tuniv",
+              "name": "University Studies",
+              "recordCount": 85
+            }
+          ]
+        },
+        {
+          "name": "School of Education",
+          "depts": [
+            {
+              "code": "teduc",
+              "name": "Education",
+              "recordCount": 516
+            },
+            {
+              "code": "tedadm",
+              "name": "Educational Administration",
+              "recordCount": 101
+            },
+            {
+              "code": "tedld",
+              "name": "Educational Leadership",
+              "recordCount": 197
+            },
+            {
+              "code": "tspsy",
+              "name": "School Psychology",
+              "recordCount": 65
+            },
+            {
+              "code": "tedsm",
+              "name": "Secondary Mathematics Education",
+              "recordCount": 12
+            },
+            {
+              "code": "tedss",
+              "name": "Secondary Science Education",
+              "recordCount": 12
+            },
+            {
+              "code": "tedsp",
+              "name": "Special Education",
+              "recordCount": 150
+            }
+          ]
+        },
+        {
+          "name": "School of Engineering and Technology",
+          "depts": [
+            {
+              "code": "tce",
+              "name": "Civil Engineering",
+              "recordCount": 118
+            },
+            {
+              "code": "tces",
+              "name": "Computer Engineering and Systems",
+              "recordCount": 236
+            },
+            {
+              "code": "tcss",
+              "name": "Computer Science and Systems",
+              "recordCount": 1151
+            },
+            {
+              "code": "tcsl",
+              "name": "Cybersecurity and Leadership",
+              "recordCount": 85
+            },
+            {
+              "code": "tece",
+              "name": "Electrical and Computer Engineering",
+              "recordCount": 132
+            },
+            {
+              "code": "tee",
+              "name": "Electrical Engineering",
+              "recordCount": 170
+            },
+            {
+              "code": "tinfo",
+              "name": "Information Technology and Systems",
+              "recordCount": 410
+            },
+            {
+              "code": "tinst",
+              "name": "Institute of Technology",
+              "recordCount": 39
+            },
+            {
+              "code": "tme",
+              "name": "Mechanical Engineering",
+              "recordCount": 280
+            }
+          ]
+        },
+        {
+          "name": "Global Affairs",
+          "depts": [
+            {
+              "code": "tintl",
+              "name": "International Programs",
+              "recordCount": 58
+            }
+          ]
+        },
+        {
+          "name": "Institute for Innovation and Global Engagement",
+          "depts": [
+            {
+              "code": "tgh",
+              "name": "Global Honors",
+              "recordCount": 155
+            },
+            {
+              "code": "tgid",
+              "name": "Global Innovation and Design",
+              "recordCount": 30
+            }
+          ]
+        },
+        {
+          "name": "School of Interdisciplinary Arts and Sciences",
+          "depts": [
+            {
+              "code": "tamst",
+              "name": "American Studies",
+              "recordCount": 49
+            },
+            {
+              "code": "tanth",
+              "name": "Anthropology",
+              "recordCount": 2
+            },
+            {
+              "code": "tarts",
+              "name": "Arts",
+              "recordCount": 209
+            },
+            {
+              "code": "tbiol",
+              "name": "Biology",
+              "recordCount": 392
+            },
+            {
+              "code": "tbiomd",
+              "name": "Biomedical Sciences",
+              "recordCount": 612
+            },
+            {
+              "code": "tchem",
+              "name": "Chemistry",
+              "recordCount": 251
+            },
+            {
+              "code": "tchin",
+              "name": "Chinese",
+              "recordCount": 7
+            },
+            {
+              "code": "tcom",
+              "name": "Communication",
+              "recordCount": 334
+            },
+            {
+              "code": "tecon",
+              "name": "Economics",
+              "recordCount": 133
+            },
+            {
+              "code": "tesc",
+              "name": "Environmental Science",
+              "recordCount": 431
+            },
+            {
+              "code": "test",
+              "name": "Environmental Sustainability",
+              "recordCount": 18
+            },
+            {
+              "code": "tegl",
+              "name": "Ethnic, Gender, and Labor Studies",
+              "recordCount": 117
+            },
+            {
+              "code": "tfilm",
+              "name": "Film Studies",
+              "recordCount": 143
+            },
+            {
+              "code": "tgeos",
+              "name": "Geosciences",
+              "recordCount": 89
+            },
+            {
+              "code": "thist",
+              "name": "History",
+              "recordCount": 200
+            },
+            {
+              "code": "tias",
+              "name": "Interdisciplinary Arts and Sciences",
+              "recordCount": 384
+            },
+            {
+              "code": "tlax",
+              "name": "Latino/a and Latin American Studies",
+              "recordCount": 62
+            },
+            {
+              "code": "tlaw",
+              "name": "Law",
+              "recordCount": 118
+            },
+            {
+              "code": "tlit",
+              "name": "Literature",
+              "recordCount": 191
+            },
+            {
+              "code": "tmath",
+              "name": "Mathematics",
+              "recordCount": 1065
+            },
+            {
+              "code": "tnprft",
+              "name": "Non-Profit Studies",
+              "recordCount": 2
+            },
+            {
+              "code": "tphil",
+              "name": "Philosophy",
+              "recordCount": 92
+            },
+            {
+              "code": "tphys",
+              "name": "Physics",
+              "recordCount": 105
+            },
+            {
+              "code": "tpols",
+              "name": "Political Science",
+              "recordCount": 144
+            },
+            {
+              "code": "tpsych",
+              "name": "Psychology",
+              "recordCount": 630
+            },
+            {
+              "code": "trelig",
+              "name": "Religion",
+              "recordCount": 47
+            },
+            {
+              "code": "tsoc",
+              "name": "Sociology",
+              "recordCount": 138
+            },
+            {
+              "code": "tspan",
+              "name": "Spanish",
+              "recordCount": 125
+            },
+            {
+              "code": "twomn",
+              "name": "Women Studies",
+              "recordCount": 68
+            },
+            {
+              "code": "twrt",
+              "name": "Writing Instruction",
+              "recordCount": 485
+            }
+          ]
+        },
+        {
+          "name": "School of Nursing and Healthcare Leadership",
+          "depts": [
+            {
+              "code": "thlth",
+              "name": "Health",
+              "recordCount": 111
+            },
+            {
+              "code": "thlead",
+              "name": "Healthcare Leadership",
+              "recordCount": 85
+            },
+            {
+              "code": "tnurs",
+              "name": "Nursing",
+              "recordCount": 428
+            }
+          ]
+        },
+        {
+          "name": "School of Social Work and Criminal Justice",
+          "depts": [
+            {
+              "code": "tcrim",
+              "name": "Criminal Justice",
+              "recordCount": 364
+            },
+            {
+              "code": "tsocwf",
+              "name": "Social Welfare",
+              "recordCount": 311
+            },
+            {
+              "code": "tsocw",
+              "name": "Social Work",
+              "recordCount": 448
+            }
+          ]
+        },
+        {
+          "name": "School of Urban Studies",
+          "depts": [
+            {
+              "code": "tcmp",
+              "name": "Community Planning",
+              "recordCount": 69
+            },
+            {
+              "code": "tgis",
+              "name": "Geographic Information Systems",
+              "recordCount": 99
+            },
+            {
+              "code": "tsud",
+              "name": "Sustainable Urban Development",
+              "recordCount": 84
+            },
+            {
+              "code": "tude",
+              "name": "Urban Design",
+              "recordCount": 59
+            },
+            {
+              "code": "turb",
+              "name": "Urban Studies",
+              "recordCount": 252
+            }
+          ]
+        }
+      ]
+    },
+    "S": {
+      "name": "Seattle",
+      "schools": [
+        {
+          "name": "Undergraduate Interdisciplinary Programs",
+          "depts": [
+            {
+              "code": "arctic",
+              "name": "Arctic Studies",
+              "recordCount": 37
+            },
+            {
+              "code": "lead",
+              "name": "Leadership",
+              "recordCount": 56
+            },
+            {
+              "code": "academ",
+              "name": "University Academy",
+              "recordCount": 6
+            }
+          ]
+        },
+        {
+          "name": "College of Arts and Sciences",
+          "depts": [
+            {
+              "code": "aes",
+              "name": "American Ethnic Studies",
+              "recordCount": 172
+            },
+            {
+              "code": "swa",
+              "name": "Swahili",
+              "recordCount": 50
+            },
+            {
+              "code": "taglg",
+              "name": "Tagalog",
+              "recordCount": 54
+            },
+            {
+              "code": "ais",
+              "name": "American Indian Studies",
+              "recordCount": 272
+            },
+            {
+              "code": "cfrm",
+              "name": "Computational Finance and Risk Management",
+              "recordCount": 149
+            },
+            {
+              "code": "art",
+              "name": "Art",
+              "recordCount": 902
+            },
+            {
+              "code": "design",
+              "name": "Design",
+              "recordCount": 490
+            },
+            {
+              "code": "artsci",
+              "name": "Arts and Sciences",
+              "recordCount": 15
+            },
+            {
+              "code": "arts",
+              "name": "Arts Program",
+              "recordCount": 1
+            },
+            {
+              "code": "beng",
+              "name": "Bengali",
+              "recordCount": 46
+            },
+            {
+              "code": "hindi",
+              "name": "Hindi",
+              "recordCount": 91
+            },
+            {
+              "code": "indo",
+              "name": "Indonesian",
+              "recordCount": 62
+            },
+            {
+              "code": "khmer",
+              "name": "Khmer",
+              "recordCount": 15
+            },
+            {
+              "code": "korean",
+              "name": "Korean",
+              "recordCount": 119
+            },
+            {
+              "code": "seasia",
+              "name": "Southeast Asia",
+              "recordCount": 3
+            },
+            {
+              "code": "urdu",
+              "name": "Urdu",
+              "recordCount": 83
+            },
+            {
+              "code": "viet",
+              "name": "Vietnamese",
+              "recordCount": 102
+            },
+            {
+              "code": "astbio",
+              "name": "Astrobiology",
+              "recordCount": 49
+            },
+            {
+              "code": "csde",
+              "name": "Center for Studies in Demography and Ecology",
+              "recordCount": 44
+            },
+            {
+              "code": "chem",
+              "name": "Chemistry",
+              "recordCount": 1226
+            },
+            {
+              "code": "cms",
+              "name": "Cinema and Media Studies",
+              "recordCount": 436
+            },
+            {
+              "code": "clas",
+              "name": "Classics",
+              "recordCount": 423
+            },
+            {
+              "code": "greek",
+              "name": "Greek",
+              "recordCount": 151
+            },
+            {
+              "code": "latin",
+              "name": "Latin",
+              "recordCount": 164
+            },
+            {
+              "code": "com",
+              "name": "Communication",
+              "recordCount": 894
+            },
+            {
+              "code": "chid",
+              "name": "Comparative History of Ideas",
+              "recordCount": 516
+            },
+            {
+              "code": "cse",
+              "name": "-- see Computer Science and Engineering",
+              "recordCount": 2512
+            },
+            {
+              "code": "dance",
+              "name": "Dance",
+              "recordCount": 663
+            },
+            {
+              "code": "dxarts",
+              "name": "Digital Arts and Experimental Media",
+              "recordCount": 171
+            },
+            {
+              "code": "disst",
+              "name": "Disability Studies",
+              "recordCount": 150
+            },
+            {
+              "code": "drama",
+              "name": "Drama",
+              "recordCount": 927
+            },
+            {
+              "code": "econ",
+              "name": "Economics",
+              "recordCount": 819
+            },
+            {
+              "code": "engl",
+              "name": "English",
+              "recordCount": 2594
+            },
+            {
+              "code": "french",
+              "name": "French",
+              "recordCount": 419
+            },
+            {
+              "code": "txtds",
+              "name": "Textual and Digital Studies",
+              "recordCount": 68
+            },
+            {
+              "code": "gwss",
+              "name": "Gender, Women, and Sexuality Studies",
+              "recordCount": 520
+            },
+            {
+              "code": "genst",
+              "name": "General Studies",
+              "recordCount": 737
+            },
+            {
+              "code": "indiv",
+              "name": "Individualized Studies",
+              "recordCount": 18
+            },
+            {
+              "code": "genome",
+              "name": "Genome Sciences",
+              "recordCount": 369
+            },
+            {
+              "code": "geog",
+              "name": "Geography",
+              "recordCount": 567
+            },
+            {
+              "code": "jsise",
+              "name": "Greek",
+              "recordCount": 96
+            },
+            {
+              "code": "hstcmp",
+              "name": "Comparative and Transregional History",
+              "recordCount": 142
+            },
+            {
+              "code": "hstafm",
+              "name": "History of Africa and the Middle East",
+              "recordCount": 41
+            },
+            {
+              "code": "hstlac",
+              "name": "History of Latin America and the Caribbean",
+              "recordCount": 24
+            },
+            {
+              "code": "hstry",
+              "name": "History Seminars and Independent Studies",
+              "recordCount": 278
+            },
+            {
+              "code": "jsis",
+              "name": "International Studies Core and Gateway Courses",
+              "recordCount": 466
+            },
+            {
+              "code": "jsisa",
+              "name": "International Studies Area Studies",
+              "recordCount": 436
+            },
+            {
+              "code": "jsisb",
+              "name": "International Studies Global/Thematic Courses",
+              "recordCount": 320
+            },
+            {
+              "code": "jsisd",
+              "name": "International Studies",
+              "recordCount": 8
+            },
+            {
+              "code": "jewst",
+              "name": "Jewish Studies",
+              "recordCount": 93
+            },
+            {
+              "code": "thai",
+              "name": "Thai",
+              "recordCount": 7
+            },
+            {
+              "code": "labor",
+              "name": "Labor Studies",
+              "recordCount": 40
+            },
+            {
+              "code": "lsj",
+              "name": "Law, Societies, and Justice",
+              "recordCount": 340
+            },
+            {
+              "code": "asl",
+              "name": "American Sign Language",
+              "recordCount": 174
+            },
+            {
+              "code": "ling",
+              "name": "Linguistics",
+              "recordCount": 671
+            },
+            {
+              "code": "lit",
+              "name": "Literature",
+              "recordCount": 10
+            },
+            {
+              "code": "math",
+              "name": "Mathematics",
+              "recordCount": 1939
+            },
+            {
+              "code": "amhar",
+              "name": "Amharic",
+              "recordCount": 7
+            },
+            {
+              "code": "aramic",
+              "name": "Aramaic",
+              "recordCount": 4
+            },
+            {
+              "code": "coptic",
+              "name": "Coptic",
+              "recordCount": 1
+            },
+            {
+              "code": "egypt",
+              "name": "Egyptian",
+              "recordCount": 12
+            },
+            {
+              "code": "geez",
+              "name": "Ge'ez",
+              "recordCount": 1
+            },
+            {
+              "code": "bibheb",
+              "name": "Biblical Hebrew",
+              "recordCount": 86
+            },
+            {
+              "code": "modheb",
+              "name": "Modern Hebrew",
+              "recordCount": 141
+            },
+            {
+              "code": "ladino",
+              "name": "Ladino",
+              "recordCount": 5
+            },
+            {
+              "code": "melc",
+              "name": "Middle Eastern Languages and Cultures",
+              "recordCount": 215
+            },
+            {
+              "code": "chgtai",
+              "name": "Chagatai",
+              "recordCount": 1
+            },
+            {
+              "code": "kazakh",
+              "name": "Kazakh",
+              "recordCount": 29
+            },
+            {
+              "code": "uygur",
+              "name": "Uygur",
+              "recordCount": 18
+            },
+            {
+              "code": "uzbek",
+              "name": "Uzbek",
+              "recordCount": 15
+            },
+            {
+              "code": "ugarit",
+              "name": "Ugaritic",
+              "recordCount": 6
+            },
+            {
+              "code": "music",
+              "name": "Music",
+              "recordCount": 1206
+            },
+            {
+              "code": "mused",
+              "name": "Music Education",
+              "recordCount": 72
+            },
+            {
+              "code": "musicp",
+              "name": "Music Performance",
+              "recordCount": 2095
+            },
+            {
+              "code": "mustec",
+              "name": "Music Technology",
+              "recordCount": 11
+            },
+            {
+              "code": "neusci",
+              "name": "Neuroscience",
+              "recordCount": 141
+            },
+            {
+              "code": "ethics",
+              "name": "Ethics",
+              "recordCount": 25
+            },
+            {
+              "code": "hps",
+              "name": "History and Philosophy of Science",
+              "recordCount": 6
+            },
+            {
+              "code": "phil",
+              "name": "Philosophy",
+              "recordCount": 512
+            },
+            {
+              "code": "phys",
+              "name": "Physics",
+              "recordCount": 1255
+            },
+            {
+              "code": "psycln",
+              "name": "Clinical Psychology",
+              "recordCount": 446
+            },
+            {
+              "code": "psych",
+              "name": "Psychology",
+              "recordCount": 1487
+            },
+            {
+              "code": "danish",
+              "name": "Danish",
+              "recordCount": 49
+            },
+            {
+              "code": "lith",
+              "name": "Lithuanian",
+              "recordCount": 70
+            },
+            {
+              "code": "scand",
+              "name": "Scandinavian",
+              "recordCount": 361
+            },
+            {
+              "code": "bcms",
+              "name": "Bosnian/Croatian/Montenegrin/Serbian",
+              "recordCount": 17
+            },
+            {
+              "code": "glits",
+              "name": "Global Literary Studies",
+              "recordCount": 144
+            },
+            {
+              "code": "slavic",
+              "name": "Slavic Languages and Literatures",
+              "recordCount": 160
+            },
+            {
+              "code": "slvn",
+              "name": "Slovenian",
+              "recordCount": 11
+            },
+            {
+              "code": "soc",
+              "name": "Sociology",
+              "recordCount": 663
+            },
+            {
+              "code": "port",
+              "name": "Portuguese",
+              "recordCount": 61
+            },
+            {
+              "code": "sphsc",
+              "name": "Speech and Hearing Sciences",
+              "recordCount": 718
+            },
+            {
+              "code": "stat",
+              "name": "Statistics",
+              "recordCount": 619
+            }
+          ]
+        },
+        {
+          "name": "College of Built Environments",
+          "depts": [
+            {
+              "code": "be",
+              "name": "Built Environment",
+              "recordCount": 185
+            },
+            {
+              "code": "re",
+              "name": "Real Estate",
+              "recordCount": 477
+            },
+            {
+              "code": "urban",
+              "name": "Urban",
+              "recordCount": 147
+            }
+          ]
+        },
+        {
+          "name": "Foster School of Business Administration",
+          "depts": [
+            {
+              "code": "acctg",
+              "name": "Accounting",
+              "recordCount": 634
+            },
+            {
+              "code": "ba",
+              "name": "Business Administration",
+              "recordCount": 278
+            },
+            {
+              "code": "barm",
+              "name": "Business Administration Research Methods",
+              "recordCount": 5
+            },
+            {
+              "code": "busan",
+              "name": "Business Analytics",
+              "recordCount": 184
+            },
+            {
+              "code": "entre",
+              "name": "Entrepreneurship",
+              "recordCount": 552
+            },
+            {
+              "code": "msis",
+              "name": "Information Systems Master of Science",
+              "recordCount": 249
+            },
+            {
+              "code": "mgmt",
+              "name": "Management",
+              "recordCount": 894
+            },
+            {
+              "code": "mktg",
+              "name": "Marketing",
+              "recordCount": 713
+            },
+            {
+              "code": "qmeth",
+              "name": "Quantitative Methods",
+              "recordCount": 229
+            },
+            {
+              "code": "scm",
+              "name": "Supply Chain Management",
+              "recordCount": 115
+            }
+          ]
+        },
+        {
+          "name": "School of Dentistry",
+          "depts": [
+            {
+              "code": "dentcl",
+              "name": "Dental Clerkship",
+              "recordCount": 220
+            },
+            {
+              "code": "dentel",
+              "name": "Dental Electives",
+              "recordCount": 72
+            },
+            {
+              "code": "dentfn",
+              "name": "Dental Foundations",
+              "recordCount": 158
+            },
+            {
+              "code": "dentgp",
+              "name": "Dental General Practice",
+              "recordCount": 113
+            },
+            {
+              "code": "dentpc",
+              "name": "Dental Pre-Clinical",
+              "recordCount": 331
+            },
+            {
+              "code": "dentsl",
+              "name": "Dental Selectives",
+              "recordCount": 63
+            },
+            {
+              "code": "dent",
+              "name": "Dentistry",
+              "recordCount": 51
+            },
+            {
+              "code": "endo",
+              "name": "Endodontics",
+              "recordCount": 205
+            },
+            {
+              "code": "ohs",
+              "name": "Oral Health Sciences",
+              "recordCount": 290
+            },
+            {
+              "code": "oralm",
+              "name": "Oral Medicine",
+              "recordCount": 487
+            },
+            {
+              "code": "os",
+              "name": "Oral Surgery",
+              "recordCount": 151
+            },
+            {
+              "code": "perio",
+              "name": "Periodontics",
+              "recordCount": 285
+            },
+            {
+              "code": "pros",
+              "name": "Prosthodontics",
+              "recordCount": 52
+            }
+          ]
+        },
+        {
+          "name": "College of Education",
+          "depts": [
+            {
+              "code": "ece",
+              "name": "Early Care and Education",
+              "recordCount": 1
+            },
+            {
+              "code": "ecfs",
+              "name": "Early Childhood and Family Studies",
+              "recordCount": 216
+            },
+            {
+              "code": "edpsy",
+              "name": "Educational Psychology",
+              "recordCount": 491
+            }
+          ]
+        },
+        {
+          "name": "College of Engineering",
+          "depts": [
+            {
+              "code": "aa",
+              "name": "Aeronautics and Astronautics",
+              "recordCount": 585
+            },
+            {
+              "code": "ae",
+              "name": "Aerospace Engineering",
+              "recordCount": 67
+            },
+            {
+              "code": "nme",
+              "name": "Nanoscience and Molecular Engineering",
+              "recordCount": 8
+            },
+            {
+              "code": "cee",
+              "name": "Civil and Environmental Engineering",
+              "recordCount": 679
+            },
+            {
+              "code": "cesi",
+              "name": "Construction, Energy, and Sustainable Infrastructure",
+              "recordCount": 147
+            },
+            {
+              "code": "cewa",
+              "name": "Environmental Engineering",
+              "recordCount": 137
+            },
+            {
+              "code": "cesg",
+              "name": "Structural and Geotechnical Engineering and Mechanics",
+              "recordCount": 145
+            },
+            {
+              "code": "cet",
+              "name": "Transportation Engineering",
+              "recordCount": 101
+            },
+            {
+              "code": "ee",
+              "name": "Electrical and Computer Engineering",
+              "recordCount": 1204
+            },
+            {
+              "code": "engr",
+              "name": "Engineering",
+              "recordCount": 711
+            },
+            {
+              "code": "techin",
+              "name": "Technology Innovation",
+              "recordCount": 8
+            },
+            {
+              "code": "hcde",
+              "name": "Human Centered Design and Engineering",
+              "recordCount": 620
+            },
+            {
+              "code": "inde",
+              "name": "Industrial Engineering",
+              "recordCount": 414
+            },
+            {
+              "code": "mse",
+              "name": "Materials Science and Engineering",
+              "recordCount": 712
+            },
+            {
+              "code": "esms",
+              "name": "Energy Storage Manufacturing Science",
+              "recordCount": 1
+            }
+          ]
+        },
+        {
+          "name": "College of the Environment",
+          "depts": [
+            {
+              "code": "fish",
+              "name": "Aquatic and Fishery Sciences",
+              "recordCount": 621
+            },
+            {
+              "code": "cenv",
+              "name": "College of the Environment",
+              "recordCount": 46
+            },
+            {
+              "code": "ess",
+              "name": "Earth and Space Sciences",
+              "recordCount": 1018
+            },
+            {
+              "code": "sbse",
+              "name": "see Sustainable Bioresource Systems Engineering",
+              "recordCount": 29
+            },
+            {
+              "code": "esrm",
+              "name": "Environmental Science and Resource Management",
+              "recordCount": 772
+            },
+            {
+              "code": "sefs",
+              "name": "School of Environmental and Forest Sciences",
+              "recordCount": 325
+            },
+            {
+              "code": "fhl",
+              "name": "Friday Harbor Labs",
+              "recordCount": 78
+            },
+            {
+              "code": "smea",
+              "name": "School of Marine and Environmental Affairs",
+              "recordCount": 261
+            },
+            {
+              "code": "marbio",
+              "name": "Marine Biology",
+              "recordCount": 73
+            },
+            {
+              "code": "ocean",
+              "name": "Oceanography",
+              "recordCount": 822
+            }
+          ]
+        },
+        {
+          "name": "The Information School",
+          "depts": [
+            {
+              "code": "info",
+              "name": "Informatics",
+              "recordCount": 987
+            },
+            {
+              "code": "insc",
+              "name": "Information Science",
+              "recordCount": 295
+            },
+            {
+              "code": "imt",
+              "name": "Information Management",
+              "recordCount": 91
+            },
+            {
+              "code": "lis",
+              "name": "Library and Information Science",
+              "recordCount": 69
+            },
+            {
+              "code": "museum",
+              "name": "Museology",
+              "recordCount": 69
+            }
+          ]
+        },
+        {
+          "name": "Interdisciplinary Graduate Programs",
+          "depts": [
+            {
+              "code": "bpsd",
+              "name": "Biological Physics, Structure, and Design",
+              "recordCount": 51
+            },
+            {
+              "code": "hcid",
+              "name": "Human-Computer Interaction Design",
+              "recordCount": 12
+            },
+            {
+              "code": "iphd",
+              "name": "Individual PhD",
+              "recordCount": 42
+            },
+            {
+              "code": "mcb",
+              "name": "Molecular and Cellular Biology",
+              "recordCount": 199
+            },
+            {
+              "code": "moleng",
+              "name": "Molecular Engineering",
+              "recordCount": 130
+            },
+            {
+              "code": "neuro",
+              "name": "Neuroscience",
+              "recordCount": 201
+            },
+            {
+              "code": "pubsch",
+              "name": "Public Scholarship",
+              "recordCount": 55
+            },
+            {
+              "code": "stss",
+              "name": "Science, Technology, and Society Studies",
+              "recordCount": 22
+            }
+          ]
+        },
+        {
+          "name": "Interschool or Intercollege Programs",
+          "depts": [
+            {
+              "code": "pharbe",
+              "name": "Pharmaceutical Bioengineering",
+              "recordCount": 6
+            },
+            {
+              "code": "gh",
+              "name": "Global Health",
+              "recordCount": 714
+            }
+          ]
+        },
+        {
+          "name": "School of Law",
+          "depts": [
+            {
+              "code": "law",
+              "name": "Law",
+              "recordCount": 555
+            },
+            {
+              "code": "lawa",
+              "name": "Law A",
+              "recordCount": 1419
+            },
+            {
+              "code": "lawb",
+              "name": "Law B",
+              "recordCount": 1728
+            },
+            {
+              "code": "lawc",
+              "name": "Law C",
+              "recordCount": 115
+            },
+            {
+              "code": "lawe",
+              "name": "Law E",
+              "recordCount": 1098
+            },
+            {
+              "code": "lawh",
+              "name": "Law",
+              "recordCount": 492
+            },
+            {
+              "code": "lawp",
+              "name": "Law",
+              "recordCount": 557
+            },
+            {
+              "code": "lawt",
+              "name": "Law",
+              "recordCount": 455
+            }
+          ]
+        },
+        {
+          "name": "School of Medicine",
+          "depts": [
+            {
+              "code": "anest",
+              "name": "Anesthesiology",
+              "recordCount": 596
+            },
+            {
+              "code": "bh",
+              "name": "Bioethics and Humanities",
+              "recordCount": 252
+            },
+            {
+              "code": "bime",
+              "name": "Biomedical Informatics and Medical Education",
+              "recordCount": 228
+            },
+            {
+              "code": "conj",
+              "name": "Conjoint Courses",
+              "recordCount": 825
+            },
+            {
+              "code": "derm",
+              "name": "Dermatology",
+              "recordCount": 85
+            },
+            {
+              "code": "famed",
+              "name": "Family Medicine",
+              "recordCount": 973
+            },
+            {
+              "code": "medlic",
+              "name": "Longitudinal Integrated Clerkship",
+              "recordCount": 8
+            },
+            {
+              "code": "hms",
+              "name": "Health Metrics Sciences",
+              "recordCount": 136
+            },
+            {
+              "code": "immun",
+              "name": "Immunology",
+              "recordCount": 792
+            },
+            {
+              "code": "mstp",
+              "name": "Medical Sciences in Translational Pathology",
+              "recordCount": 6
+            },
+            {
+              "code": "medsci",
+              "name": "Medical Science",
+              "recordCount": 580
+            },
+            {
+              "code": "medem",
+              "name": "Emergency Medicine",
+              "recordCount": 646
+            },
+            {
+              "code": "gcnsl",
+              "name": "Genetic Counseling",
+              "recordCount": 2
+            },
+            {
+              "code": "medeck",
+              "name": "Medicine Elective Clerkships",
+              "recordCount": 1725
+            },
+            {
+              "code": "medrck",
+              "name": "Medicine Required Clerkships",
+              "recordCount": 783
+            },
+            {
+              "code": "molmed",
+              "name": "Molecular Medicine",
+              "recordCount": 41
+            },
+            {
+              "code": "neubio",
+              "name": "Neurobiology and Biophysics",
+              "recordCount": 2
+            },
+            {
+              "code": "neurl",
+              "name": "Neurology",
+              "recordCount": 1133
+            },
+            {
+              "code": "obgyn",
+              "name": "Obstetrics and Gynecology",
+              "recordCount": 954
+            },
+            {
+              "code": "rhbpo",
+              "name": "Prosthetics and Orthotics",
+              "recordCount": 154
+            },
+            {
+              "code": "rehab",
+              "name": "Rehabilitation Medicine",
+              "recordCount": 844
+            },
+            {
+              "code": "surg",
+              "name": "Surgery",
+              "recordCount": 1029
+            }
+          ]
+        },
+        {
+          "name": "School of Nursing",
+          "depts": [
+            {
+              "code": "iecmh",
+              "name": "Infant and Early Childhood Mental Health",
+              "recordCount": 35
+            },
+            {
+              "code": "nsg",
+              "name": "Nursing",
+              "recordCount": 137
+            }
+          ]
+        },
+        {
+          "name": "School of Pharmacy",
+          "depts": [
+            {
+              "code": "heor",
+              "name": "Health Economic Outcomes Research",
+              "recordCount": 147
+            },
+            {
+              "code": "phrmsc",
+              "name": "Pharmaceutical Sciences",
+              "recordCount": 11
+            },
+            {
+              "code": "phrmcy",
+              "name": "Pharmacy",
+              "recordCount": 153
+            },
+            {
+              "code": "pharmp",
+              "name": "Pharmacy Practice",
+              "recordCount": 190
+            },
+            {
+              "code": "phrmpr",
+              "name": "Pharmacy Practice",
+              "recordCount": 236
+            },
+            {
+              "code": "phrmra",
+              "name": "Pharmacy Regulatory Affairs",
+              "recordCount": 25
+            }
+          ]
+        },
+        {
+          "name": "Evans School of Public Policy and Governance",
+          "depts": [
+            {
+              "code": "pubpol",
+              "name": "Public Policy",
+              "recordCount": 751
+            },
+            {
+              "code": "ppm",
+              "name": "Public Policy and Management",
+              "recordCount": 141
+            }
+          ]
+        },
+        {
+          "name": "School of Public Health",
+          "depts": [
+            {
+              "code": "envh",
+              "name": "Environmental Health",
+              "recordCount": 913
+            },
+            {
+              "code": "hsmgmt",
+              "name": "Health Services Management",
+              "recordCount": 15
+            },
+            {
+              "code": "phg",
+              "name": "Public Health Genetics",
+              "recordCount": 165
+            },
+            {
+              "code": "phi",
+              "name": "Public Health Interdisciplinary",
+              "recordCount": 92
+            },
+            {
+              "code": "sph",
+              "name": "School of Public Health",
+              "recordCount": 227
+            }
+          ]
+        },
+        {
+          "name": "School of Social Work",
+          "depts": [
+            {
+              "code": "socwl",
+              "name": "Social Welfare",
+              "recordCount": 236
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

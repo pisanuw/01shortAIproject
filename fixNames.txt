@@ -1,0 +1,1526 @@
+# Map incorrect instructor names to corrected names.
+# Format: incorrect=correct
+# run this command after edits: npm run build:data
+
+Chen,M=Chen,Min
+Folsom,Tyler C=Folsom,Tyler
+FOLSOM,TYLER C.=Folsom,Tyler
+Folsom,T=Folsom,Tyler
+Retik,Arieh A=Retik,Arkady
+Retik,A=Retik,Arkady
+Anderson,L=Anderson,Laurie
+Anderson,Laurie Joy=Anderson,Laurie
+Stiber,Michael D=Stiber,Michael
+Thamilarasu,Geethapriya=THAMILARASU,GEETHA
+Thamilarasu,Geetha=THAMILARASU,GEETHA
+THAMILARASU,G=THAMILARASU,GEETHA
+Sung,Kelvin H.=Sung,Kelvin
+Sung,K=Sung,Kelvin
+
+# --- capitalization (25) ---
+# Daruwala,Khushroo P. (26x)
+DARUWALA,KHUSHROO P.=Daruwala,Khushroo P.
+# Ketcham,Jessica (20x)
+KETCHAM,JESSICA=Ketcham,Jessica
+# Brown,Michael (18x)
+BROWN,MICHAEL=Brown,Michael
+# Laux-Bachand,Leanne (15x)
+Laux-Bachand,LeAnne=Laux-Bachand,Leanne
+# alcorn,frederick douglass (14x)
+alcorn,frederick Douglass=alcorn,frederick douglass
+# CLARK,JONATHAN (10x)
+Clark,Jonathan=CLARK,JONATHAN
+# HANLEY,LAURYN (9x)
+Hanley,Lauryn=HANLEY,LAURYN
+# Chung,Whasun Oh (8x)
+CHUNG,WHASUN OH=Chung,Whasun Oh
+# Li,Richard (5x)
+LI,RICHARD=Li,Richard
+# Peter,Simon (5x)
+PETER,SIMON=Peter,Simon
+# JEGATHEESAN,BRINDA INDIA (4x)
+Jegatheesan,Brinda India=JEGATHEESAN,BRINDA INDIA
+# Lum,Timothy Wai-Hong (4x)
+LUM,TIMOTHY WAI-HONG=Lum,Timothy Wai-Hong
+# GRANGER,JACKIE (4x)
+Granger,Jackie=GRANGER,JACKIE
+# COLAIANNE,CARLA MARIE (3x)
+Colaianne,Carla Marie=COLAIANNE,CARLA MARIE
+# BARKER,AARON (3x)
+Barker,Aaron=BARKER,AARON
+# Potluri,Venkatesh (3x)
+POTLURI,VENKATESH=Potluri,Venkatesh
+# BERNSTEIN,GILBERT L (2x)
+Bernstein,Gilbert L=BERNSTEIN,GILBERT L
+# Frantece,BrittNEY (2x)
+Frantece,Brittney=Frantece,BrittNEY
+# Losoya,Joshua (2x)
+LOSOYA,JOSHUA=Losoya,Joshua
+# MASYUKO,SARAH (2x)
+Masyuko,Sarah=MASYUKO,SARAH
+# PARKHURST,ANNA (2x)
+Parkhurst,Anna=PARKHURST,ANNA
+# UDBYE,ANDREAS (2x)
+Udbye,Andreas=UDBYE,ANDREAS
+# Yanson,Alexandra (2x)
+YANSON,ALEXANDRA=Yanson,Alexandra
+# GILBERT,ALYCIA (1x)
+Gilbert,Alycia=GILBERT,ALYCIA
+# KEOPPEN,ERIN (1x)
+Keoppen,Erin=KEOPPEN,ERIN
+
+# --- middle name added (72) ---
+# Bryan,Charles F (58x)
+Bryan,Charles=Bryan,Charles F
+# Doyle,Gavin (46x)
+Doyle,Gavin T=Doyle,Gavin
+# Haneline,Derek (40x)
+Haneline,Derek Lee=Haneline,Derek
+# Fleming,Brandon (31x)
+Fleming,Brandon Edward=Fleming,Brandon
+# Tomlinson,Jaimy (29x)
+Tomlinson,Jaimy Nicholle=Tomlinson,Jaimy
+# Kmail,Zaher (22x)
+Kmail,Zaher M=Kmail,Zaher
+# Iverson Cabral,Stefanie (21x)
+Iverson Cabral,Stefanie L=Iverson Cabral,Stefanie
+# Pitt,Pah-tu (19x)
+Pitt,Pah-Tu Elizabeth=Pitt,Pah-tu
+# Neal,Diana Odland (18x)
+Neal,Diana=Neal,Diana Odland
+# Chaffee,Leighann Renee (16x)
+Chaffee,Leighann=Chaffee,Leighann Renee
+# Florczyk,Piotr (16x)
+Florczyk,Piotr B=Florczyk,Piotr
+# Cram,Shannon C (15x)
+Cram,Shannon=Cram,Shannon C
+# Rozelle,Lorna (13x)
+Rozelle,Lorna Grace=Rozelle,Lorna
+# Seroy,Sasha (13x)
+Seroy,Sasha K.=Seroy,Sasha
+# Kruckeberg,Kurt E (12x)
+Kruckeberg,Kurt=Kruckeberg,Kurt E
+# Mathis,Dan V. (12x)
+Mathis,Dan=Mathis,Dan V.
+# Fogarty,James A (10x)
+Fogarty,James=Fogarty,James A
+# Shimabukuro,Mira Chieko (10x)
+Shimabukuro,Mira=Shimabukuro,Mira Chieko
+# Fleming,Robin (10x)
+fleming,Robin J=Fleming,Robin
+# McCann,Jeff (10x)
+McCann,Jeff John=McCann,Jeff
+# Tyman,Shannon (10x)
+Tyman,Shannon K.=Tyman,Shannon
+# Donion,Paul (9x)
+Donion,Paul Michael=Donion,Paul
+# Klapaki,Nektaria (9x)
+Klapaki,Nektaria G.=Klapaki,Nektaria
+# Bishop,Asia (9x)
+Bishop,Asia Sarah=Bishop,Asia
+# Craft,Brock R (9x)
+Craft,Brock=Craft,Brock R
+# Emlet,Charles (9x)
+Emlet,Charles A=Emlet,Charles
+# Mastrangelo,Christina (9x)
+Mastrangelo,Christina M.=Mastrangelo,Christina
+# Duvall,Alison (8x)
+Duvall,Alison R=Duvall,Alison
+# Kitali,Angela E (8x)
+Kitali,Angela=Kitali,Angela E
+# Gillis,Ian (7x)
+Gillis,Ian Matthew=Gillis,Ian
+# Reinke,Matthew (6x)
+Reinke,Matthew Thomas=Reinke,Matthew
+# Lawarree,Jacques P (5x)
+Lawarree,Jacques=Lawarree,Jacques P
+# Schmidt,David (5x)
+Schmidt,David A=Schmidt,David
+# Carnell,Eric (5x)
+Carnell,Eric S.=Carnell,Eric
+# Brown,Andrew (5x)
+Brown,Andrew Ivan=Brown,Andrew
+# Hill,Benjamin Mako (4x)
+Hill,Benjamin=Hill,Benjamin Mako
+# Scheips,Derek Karl (4x)
+Scheips,Derek=Scheips,Derek Karl
+# Wood,Alan T (4x)
+Wood,Alan=Wood,Alan T
+# Myrick,Joseph (4x)
+Myrick,Joseph Kim=Myrick,Joseph
+# Russo,Christopher (4x)
+Russo,Christopher F=Russo,Christopher
+# Borough-Kim,David L (3x)
+Borough-Kim,David=Borough-Kim,David L
+# Clark,Neils (3x)
+CLARK,NEILS L.=Clark,Neils
+# FRANCO,JANELLE ELIZABETH (3x)
+Franco,Janelle=FRANCO,JANELLE ELIZABETH
+# Martin,Ruth A. (3x)
+Martin,Ruth=Martin,Ruth A.
+# Pace,Amy E (3x)
+Pace,Amy=Pace,Amy E
+# Collins,Cameron J. (3x)
+Collins,Cameron=Collins,Cameron J.
+# Ghosh,Sourojit (3x)
+Ghosh,Sourojit G=Ghosh,Sourojit
+# MOZELESKI,AMBER (3x)
+Mozeleski,Amber L.=MOZELESKI,AMBER
+# Magee,Justin Loren (3x)
+Magee,Justin=Magee,Justin Loren
+# Nusbaum,Emily A. (3x)
+Nusbaum,Emily=Nusbaum,Emily A.
+# Wood,Chelsea (3x)
+Wood,Chelsea L.=Wood,Chelsea
+# Gill,Ninderjit Kaur (2x)
+GILL,NINDERJIT=Gill,Ninderjit Kaur
+# Asbjornsen,Samantha (2x)
+Asbjornsen,Samantha J=Asbjornsen,Samantha
+# BELOV,ALEKSEY (2x)
+Belov,Aleksey V.=BELOV,ALEKSEY
+# Coker,Mark Harrison (2x)
+Coker,Mark=Coker,Mark Harrison
+# Dye,Jennifer (2x)
+Dye,Jennifer E.=Dye,Jennifer
+# Fowler,David (2x)
+Fowler,David Stratton=Fowler,David
+# HAM,THOMAS RICHARD ALLEN (2x)
+Ham,Thomas=HAM,THOMAS RICHARD ALLEN
+# Koehnlein,Katja A (2x)
+KOEHNLEIN,KATJA=Koehnlein,Katja A
+# Montopoli,Daniel (2x)
+Montopoli,Daniel Carmen=Montopoli,Daniel
+# Parks,Jeremy (2x)
+Parks,Jeremy A=Parks,Jeremy
+# Raplee,Charles Walter (2x)
+Raplee,Charles=Raplee,Charles Walter
+# Smith,Michael (2x)
+Smith,Michael Patrick=Smith,Michael
+# Vogt,Daniel (2x)
+Vogt,Daniel J=Vogt,Daniel
+# Wobbrock,Jacob O. (2x)
+Wobbrock,Jacob=Wobbrock,Jacob O.
+# Zenone,Marco Antonio (2x)
+Zenone,Marco=Zenone,Marco Antonio
+# Durran,Dale R (1x)
+Durran,Dale=Durran,Dale R
+# Gephart,Jessica Ann (1x)
+Gephart,Jessica=Gephart,Jessica Ann
+# Hernandez,Jessica L (1x)
+Hernandez,Jessica=Hernandez,Jessica L
+# Ince,Jelani Irwyn (1x)
+Ince,Jelani=Ince,Jelani Irwyn
+# Moritz,Chet T (1x)
+Moritz,Chet=Moritz,Chet T
+# Neubert,Paul M (1x)
+Neubert,Paul=Neubert,Paul M
+
+# --- middle initial→full (22) ---
+# roehr,bryan c (11x)
+Roehr,Bryan Clay=roehr,bryan c
+# Withers,Suzanne Davies (10x)
+Withers,Suzanne D=Withers,Suzanne Davies
+# Hall,Chad P (7x)
+Hall,Chad Philip=Hall,Chad P
+# Nguyen,Diem T (6x)
+Nguyen,Diem Thi=Nguyen,Diem T
+# Moore,Chelsea L. (5x)
+Moore,Chelsea L=Moore,Chelsea L.
+# Sibbett,Lisa Ann (5x)
+Sibbett,Lisa A=Sibbett,Lisa Ann
+# Blachly,Bonnie L. (4x)
+Blachly,Bonnie L=Blachly,Bonnie L.
+# Depies,Matthew R (4x)
+Depies,Matthew R.=Depies,Matthew R
+# Stephanik,Brian Michael (3x)
+STEPHANIK,BRIAN M.=Stephanik,Brian Michael
+# Abugbilla,Francis M. (3x)
+ABUGBILLA,FRANCIS M=Abugbilla,Francis M.
+# Chandekar,Amruta M (3x)
+Chandekar,Amruta M.=Chandekar,Amruta M
+# Michael,Susanna Marie (3x)
+Michael,Susanna M=Michael,Susanna Marie
+# Young,Bessie A. (3x)
+Young,Bessie Ann=Young,Bessie A.
+# Detroit,Patrick A (2x)
+Detroit,Patrick A.=Detroit,Patrick A
+# Salmon,James Jason (2x)
+Salmon,James J=Salmon,James Jason
+# Schenold,Terrence E. (2x)
+Schenold,Terrence E=Schenold,Terrence E.
+# Spieth,Eric A (2x)
+Spieth,Eric Anthony=Spieth,Eric A
+# Williams,Alan M. (2x)
+Williams,Alan M=Williams,Alan M.
+# McCloskey,Megan Ellen (1x)
+McCloskey,Megan E=McCloskey,Megan Ellen
+# Polimis,Kivan Yohan (1x)
+Polimis,Kivan Y.=Polimis,Kivan Yohan
+# Weber,Jamie Lenae (1x)
+Weber,Jamie L.=Weber,Jamie Lenae
+# Zumsteg,Jennifer M. (1x)
+Zumsteg,Jennifer M=Zumsteg,Jennifer M.
+
+# --- initial→full first (631) ---
+# Paauw,Douglas S (177x)
+Paauw,D=Paauw,Douglas S
+# Mendiratta,Vicki (153x)
+Mendiratta,V=Mendiratta,Vicki
+# Viers,Gary (64x)
+Viers,G=Viers,Gary
+# Nedita,Codrin (62x)
+Nedita,C=Nedita,Codrin
+# Branahl,James E (59x)
+Branahl,J=Branahl,James E
+# Anderson,Peter (49x)
+Anderson,P=Anderson,Peter
+# Thimmaiah,Murali (49x)
+Thimmaiah,M=Thimmaiah,Murali
+# Lubatti,Henry J (48x)
+Lubatti,H=Lubatti,Henry J
+# Goda,Bryan S (46x)
+Goda,B=Goda,Bryan S
+# Skipper,Haley (46x)
+Skipper,H=Skipper,Haley
+# Shatunova,Olga (45x)
+Shatunova,O=Shatunova,Olga
+# Stanev,Roger (45x)
+Stanev,R=Stanev,Roger
+# Novan,George (43x)
+Novan,G=Novan,George
+# Machine,Augie (41x)
+Machine,A=Machine,Augie
+# carpenter,gary (41x)
+carpenter,g=carpenter,gary
+# Nielubowicz,Daniel (40x)
+Nielubowicz,D=Nielubowicz,Daniel
+# Shukla,Sarita (39x)
+Shukla,S=Shukla,Sarita
+# Schuessler,David L (38x)
+Schuessler,D=Schuessler,David L
+# Budge,Tyler (37x)
+Budge,T=Budge,Tyler
+# Panagiotides,Heracles S. (35x)
+Panagiotides,H=Panagiotides,Heracles S.
+# Follmer,Elizabeth H (35x)
+Follmer,E=Follmer,Elizabeth H
+# Bian,Yue (35x)
+Bian,Y=Bian,Yue
+# Modarres,Andrea (35x)
+Modarres,A=Modarres,Andrea
+# Anthony,Andrea (34x)
+Anthony,A=Anthony,Andrea
+# Finley,Brandon D (34x)
+Finley,B=Finley,Brandon D
+# So,Hui Suk (34x)
+So,H=So,Hui Suk
+# Blair,Nicole (34x)
+Blair,N=Blair,Nicole
+# Wang,Johnny (33x)
+Wang,J=Wang,Johnny
+# Musselman,Clark (33x)
+Musselman,C=Musselman,Clark
+# Johnson,James D (32x)
+Johnson,J=Johnson,James D
+# Sakpal,Raghavi (32x)
+Sakpal,R=Sakpal,Raghavi
+# NIXON,DAVID (32x)
+NIXON,D=NIXON,DAVID
+# Francetich,Alejandro (32x)
+Francetich,A=Francetich,Alejandro
+# Reusch,Johann JK (32x)
+Reusch,J=Reusch,Johann JK
+# Nichols,Randy (32x)
+Nichols,R=Nichols,Randy
+# Nayak,Deveeshree (31x)
+Nayak,D=Nayak,Deveeshree
+# Shaw,David S. (31x)
+Shaw,D=Shaw,David S.
+# Costarella,Charles (30x)
+Costarella,C=Costarella,Charles
+# Davenport,Kim (30x)
+Davenport,K=Davenport,Kim
+# Sharkey,Emmett (30x)
+Sharkey,E=Sharkey,Emmett
+# Fowler,Alan (30x)
+Fowler,A=Fowler,Alan
+# Kuszler,Patricia C. (30x)
+Kuszler,P=Kuszler,Patricia C.
+# Miller,Alex (30x)
+Miller,A=Miller,Alex
+# Galindo,Heather M (29x)
+Galindo,H=Galindo,Heather M
+# Xu,Xiaodong (29x)
+Xu,X=Xu,Xiaodong
+# Myers Baran,Jennifer (28x)
+Myers Baran,J=Myers Baran,Jennifer
+# Lee,Nathanie A (28x)
+Lee,N=Lee,Nathanie A
+# Al-Masri,Eyhab (28x)
+Al-Masri,E=Al-Masri,Eyhab
+# Bhattacharya,Anindita (27x)
+Bhattacharya,A=Bhattacharya,Anindita
+# Chi,Donald L (27x)
+Chi,D=Chi,Donald L
+# Grant,D.C. (27x)
+Grant,D=Grant,D.C.
+# Horakova,Ingrid (27x)
+Horakova,I=Horakova,Ingrid
+# Bryan,Daniel (26x)
+Bryan,D=Bryan,Daniel
+# Hastings,Aaron (26x)
+Hastings,A=Hastings,Aaron
+# Ramachandran,Subramanian (26x)
+Ramachandran,S=Ramachandran,Subramanian
+# Aintablian,Harry (26x)
+Aintablian,H=Aintablian,Harry
+# Cruz,Kenneth Alexander (26x)
+Cruz,K=Cruz,Kenneth Alexander
+# Nutter,Alexandra Leah (26x)
+Nutter,A=Nutter,Alexandra Leah
+# Nitta,Keith (26x)
+Nitta,K=Nitta,Keith
+# Falit-Baiamonte,Anthony (25x)
+Falit-Baiamonte,A=Falit-Baiamonte,Anthony
+# Compson,Jane (25x)
+Compson,J=Compson,Jane
+# Dargahi,Vahid (25x)
+Dargahi,V=Dargahi,Vahid
+# Mallik,Bidisha (25x)
+Mallik,B=Mallik,Bidisha
+# De La Cruz,Sonia (25x)
+De La Cruz,S=De La Cruz,Sonia
+# Hershberg,Rachel (25x)
+Hershberg,R=Hershberg,Rachel
+# Romero,Adam (25x)
+Romero,A=Romero,Adam
+# Davalos,Sergio V. (24x)
+Davalos,S=Davalos,Sergio V.
+# Forman,Michael (24x)
+Forman,M=Forman,Michael
+# Dimpsey,Robert (24x)
+Dimpsey,R=Dimpsey,Robert
+# Hill,Andrea L. (24x)
+Hill,A=Hill,Andrea L.
+# RAISDANAI,ORCHIDEH (23x)
+RAISDANAI,O=RAISDANAI,ORCHIDEH
+# Barreto,Paulo (23x)
+Barreto,P=Barreto,Paulo
+# San Nicolas,Ronald (23x)
+San Nicolas,R=San Nicolas,Ronald
+# Clarke Dillman,Joanne (23x)
+Clarke Dillman,J=Clarke Dillman,Joanne
+# Johnson,J (23x)
+Johnson,John R=Johnson,J
+# Taufen,Anne (23x)
+Taufen,A=Taufen,Anne
+# Burghart,William (23x)
+Burghart,W=Burghart,William
+# Paparella,Pietro (23x)
+Paparella,P=Paparella,Pietro
+# Kunz,Bill (23x)
+Kunz,B=Kunz,Bill
+# Nishihara,Ceri (22x)
+Nishihara,C=Nishihara,Ceri
+# Marriott,Chris (22x)
+Marriott,C=Marriott,Chris
+# Ahn,Ji-Hyun (22x)
+Ahn,J=Ahn,Ji-Hyun
+# West,Carolyn (22x)
+West,C=West,Carolyn
+# Hathaway,Deborah A. (22x)
+Hathaway,D=Hathaway,Deborah A.
+# Li,Ying (22x)
+Li,Y=Li,Ying
+# Naranjo,Jason M (22x)
+Naranjo,J=Naranjo,Jason M
+# Dierwechter,Yonn (21x)
+Dierwechter,Y=Dierwechter,Yonn
+# Dawn,Debasis (21x)
+Dawn,D=Dawn,Debasis
+# Al-Noori,Salwa (21x)
+Al-Noori,S=Al-Noori,Salwa
+# Pendras,Mark (21x)
+Pendras,M=Pendras,Mark
+# Parsons,Erika (21x)
+Parsons,E=Parsons,Erika
+# Charczenko,Walter (20x)
+Charczenko,W=Charczenko,Walter
+# Mariam,Misha (20x)
+Mariam,M=Mariam,Misha
+# Sperry,Betsy (20x)
+Sperry,B=Sperry,Betsy
+# Hoffman,Lisa (20x)
+Hoffman,L=Hoffman,Lisa
+# Iyer,Sunita (20x)
+Iyer,S=Iyer,Sunita
+# Kochanski,Mark (20x)
+Kochanski,M=Kochanski,Mark
+# Kelley,Matthew J (19x)
+Kelley,M=Kelley,Matthew J
+# Logenthiran,Thillainathan (19x)
+Logenthiran,T=Logenthiran,Thillainathan
+# Wei,Xiahua Anny (19x)
+Wei,X=Wei,Xiahua Anny
+# Zhang,Eliza X. (19x)
+Zhang,E=Zhang,Eliza X.
+# Nie,Kaibao (19x)
+Nie,K=Nie,Kaibao
+# Norman,Stephen (19x)
+Norman,S=Norman,Stephen
+# Gennari,John (19x)
+Gennari,J=Gennari,John
+# Teredesai,Ankur (19x)
+Teredesai,A=Teredesai,Ankur
+# Howson,Cynthia (19x)
+Howson,C=Howson,Cynthia
+# Nelson,Alshakim (19x)
+Nelson,A=Nelson,Alshakim
+# Robins,Lori (19x)
+Robins,L=Robins,Lori
+# Bridge,John W (19x)
+Bridge,J=Bridge,John W
+# Dincer,Kivanc A (19x)
+Dincer,K=Dincer,Kivanc A
+# Hanneman,Mary (18x)
+Hanneman,M=Hanneman,Mary
+# Shear,Sarah Beth (18x)
+Shear,S=Shear,Sarah Beth
+# Li,Wei (18x)
+Li,W=Li,Wei
+# Garner,Michelle D. (18x)
+Garner,M=Garner,Michelle D.
+# Safarova,Bara (18x)
+Safarova,B=Safarova,Bara
+# Koontz,Tomas (18x)
+Koontz,T=Koontz,Tomas
+# Price,Michele B. (18x)
+Price,M=Price,Michele B.
+# Winter,Kristi G (18x)
+Winter,K=Winter,Kristi G
+# Rose,Gregory (18x)
+Rose,G=Rose,Gregory
+# White,Bryan (18x)
+White,B=White,Bryan
+# Juan,Kell Rigueros (18x)
+Juan,K=Juan,Kell Rigueros
+# Laddomada,Massimiliano (17x)
+Laddomada,M=Laddomada,Massimiliano
+# Williams,Charles (17x)
+Williams,C=Williams,Charles
+# Cheng,Wei (17x)
+Cheng,W=Cheng,Wei
+# Erickson,Barry (17x)
+Erickson,B=Erickson,Barry
+# Gomez,Juan Camilo (17x)
+Gomez,J=Gomez,Juan Camilo
+# Sheng,Jie (17x)
+Sheng,J=Sheng,Jie
+# Sun,Huatong (17x)
+Sun,H=Sun,Huatong
+# Bejan,Camelia (17x)
+Bejan,C=Bejan,Camelia
+# Meschke,John Scott (17x)
+Meschke,J=Meschke,John Scott
+# Pawlak,Alanna (17x)
+Pawlak,A=Pawlak,Alanna
+# Stocco,Andrea (17x)
+Stocco,A=Stocco,Andrea
+# Tripathy,Arindam (17x)
+Tripathy,A=Tripathy,Arindam
+# Beaudreau,Anne H. (17x)
+Beaudreau,A=Beaudreau,Anne H.
+# Ghofrani,Mahmoud (17x)
+Ghofrani,M=Ghofrani,Mahmoud
+# Heller,Jutta B. (17x)
+Heller,J=Heller,Jutta B.
+# Hovis,Emily (17x)
+Hovis,E=Hovis,Emily
+# Mann,Casey (17x)
+Mann,C=Mann,Casey
+# West,Maureen P. (17x)
+West,M=West,Maureen P.
+# Jindal,Rupinder P (16x)
+Jindal,R=Jindal,Rupinder P
+# Jones,Stephen (16x)
+Jones,S=Jones,Stephen
+# Demaske,Chris (16x)
+Demaske,C=Demaske,Chris
+# Spaulding,Sue (16x)
+Spaulding,S=Spaulding,Sue
+# Myers,Randy (16x)
+Myers,R=Myers,Randy
+# McCourt,Mike (16x)
+McCourt,M=McCourt,Mike
+# Jolly,Natalie (16x)
+Jolly,N=Jolly,Natalie
+# Loreto,Milagros C (16x)
+Loreto,M=Loreto,Milagros C
+# Toth,Sandor F. (16x)
+Toth,S=Toth,Sandor F.
+# Key,Joey Shapiro (16x)
+Key,J=Key,Joey Shapiro
+# Saudagaran,Shahrokh (15x)
+Saudagaran,S=Saudagaran,Shahrokh
+# Suri,Ankur (15x)
+Suri,A=Suri,Ankur
+# Demirkan,Haluk (15x)
+Demirkan,H=Demirkan,Haluk
+# Eberly,Marion B. (15x)
+Eberly,M=Eberly,Marion B.
+# Sandjaja,Desiana Pauli (15x)
+Sandjaja,D=Sandjaja,Desiana Pauli
+# Luks,Andrew M (15x)
+Luks,A=Luks,Andrew M
+# Barsness,Zoe (15x)
+Barsness,Z=Barsness,Zoe
+# Tenenberg,Josh (15x)
+Tenenberg,J=Tenenberg,Josh
+# Casas,Ruben (15x)
+Casas,R=Casas,Ruben
+# Doty,Sharon L. (15x)
+Doty,S=Doty,Sharon L.
+# Hohn,Tami (15x)
+Hohn,T=Hohn,Tami
+# Zhang,Luna (14x)
+Zhang,L=Zhang,Luna
+# Ali,Mohamed (14x)
+Ali,M=Ali,Mohamed
+# Ahmad,Jameel (14x)
+Ahmad,J=Ahmad,Jameel
+# DeGroot,Keri (14x)
+DeGroot,K=DeGroot,Keri
+# McGowan,Veronica Cassone (14x)
+McGowan,V=McGowan,Veronica Cassone
+# Ozkan-Seely,G (14x)
+Ozkan-Seely,Gulru=Ozkan-Seely,G
+# Forshay,Lance (14x)
+Forshay,L=Forshay,Lance
+# Block,Jewel (14x)
+Block,J=Block,Jewel
+# Jensen,Jeffrey (14x)
+Jensen,J=Jensen,Jeffrey
+# LAM,LAWRENCE (14x)
+LAM,L=LAM,LAWRENCE
+# Noegel,Scott B. (14x)
+Noegel,S=Noegel,Scott B.
+# Roberts,Frank A. (14x)
+Roberts,F=Roberts,Frank A.
+# Sesko,Amanda (14x)
+Sesko,A=Sesko,Amanda
+# Banks,Patricia (14x)
+Banks,P=Banks,Patricia
+# Ingalls,Anitra E. (14x)
+Ingalls,A=Ingalls,Anitra E.
+# Joshi,Sanjay (14x)
+Joshi,S=Joshi,Sanjay
+# Meiches,Benjamin A (14x)
+Meiches,B=Meiches,Benjamin A
+# Zaneveld,Jesse (14x)
+Zaneveld,J=Zaneveld,Jesse
+# Lund,G (13x)
+Lund,Gregory=Lund,G
+# Kim,J (13x)
+Kim,Jeansok J=Kim,J
+# Kim,J (13x)
+Kim,John T.=Kim,J
+# Tolentino,Matthew Edward (13x)
+Tolentino,M=Tolentino,Matthew Edward
+# Bai,Yan (13x)
+Bai,Y=Bai,Yan
+# Kim,J (13x)
+Kim,JaeRan=Kim,J
+# Gao,Chunming (13x)
+Gao,C=Gao,Chunming
+# McLane,Don (13x)
+McLane,D=McLane,Don
+# Kim,J (13x)
+Kim,Jungyoun=Kim,J
+# Noronha,Gregory (13x)
+Noronha,G=Noronha,Gregory
+# OH,GUNWHA (13x)
+OH,G=OH,GUNWHA
+# Abraham,Menaka (13x)
+Abraham,M=Abraham,Menaka
+# Dalessio,Julie (13x)
+Dalessio,J=Dalessio,Julie
+# Kim,J (13x)
+Kim,Ji-Soo=Kim,J
+# Kim,J (13x)
+Kim,James=Kim,J
+# Leroy,Sophie C. Avila (13x)
+Leroy,S=Leroy,Sophie C. Avila
+# Selkin,Peter A (13x)
+Selkin,P=Selkin,Peter A
+# Emert,Stan (13x)
+Emert,S=Emert,Stan
+# Gautam,Durga Prasad (13x)
+Gautam,D=Gautam,Durga Prasad
+# Kennison,Holly (13x)
+Kennison,H=Kennison,Holly
+# Lidster,William (13x)
+Lidster,W=Lidster,William
+# NGUYEN,T (13x)
+Nguyen,Tram=NGUYEN,T
+# Griesse,Margaret (12x)
+Griesse,M=Griesse,Margaret
+# Jago,Arthur (12x)
+Jago,A=Jago,Arthur
+# Dillon,Jasjit K (12x)
+Dillon,J=Dillon,Jasjit K
+# Leng,F (12x)
+Leng,Fei=Leng,F
+# Ni,Jinlan (12x)
+Ni,J=Ni,Jinlan
+# Kraus,Eric E. (12x)
+Kraus,E=Kraus,Eric E.
+# Marsh,Tyson E.J. (12x)
+Marsh,T=Marsh,Tyson E.J.
+# Abedin,N (12x)
+Abedin,Nandini=Abedin,N
+# Oda,Dolphine (12x)
+Oda,D=Oda,Dolphine
+# Boloori,Alireza (12x)
+Boloori,A=Boloori,Alireza
+# Butman,David E. (12x)
+Butman,D=Butman,David E.
+# De Cock,Martine I (12x)
+De Cock,M=De Cock,Martine I
+# Fine,Ione (12x)
+Fine,I=Fine,Ione
+# Frost,Ann C (12x)
+Frost,A=Frost,Ann C
+# Krishnan,Murgie (12x)
+Krishnan,M=Krishnan,Murgie
+# Montgomery,Scott L. (12x)
+Montgomery,S=Montgomery,Scott L.
+# Pekkanen,Robert J (12x)
+Pekkanen,R=Pekkanen,Robert J
+# Sobolewska,Monika (12x)
+Sobolewska,M=Sobolewska,Monika
+# Swanson,Terry W (12x)
+Swanson,T=Swanson,Terry W
+# Walsh,Walter J (12x)
+Walsh,W=Walsh,Walter J
+# Trapido,Denis (11x)
+Trapido,D=Trapido,Denis
+# Atwood,Derek (11x)
+Atwood,D=Atwood,Derek
+# Furman,Rich (11x)
+Furman,R=Furman,Rich
+# Rodriguez Hidalgo,Paola (11x)
+Rodriguez Hidalgo,P=Rodriguez Hidalgo,Paola
+# Thatcher,J (11x)
+Thatcher,Jim=Thatcher,J
+# Abkowitz,Janis L. (11x)
+Abkowitz,J=Abkowitz,Janis L.
+# Dorsey,Shannon (11x)
+Dorsey,S=Dorsey,Shannon
+# Feroz,Ehsan H (11x)
+Feroz,E=Feroz,Ehsan H
+# Pathak,Surya D (11x)
+Pathak,S=Pathak,Surya D
+# Tait Wojno,Elia (11x)
+Tait Wojno,E=Tait Wojno,Elia
+# Truelove,Edmond L (11x)
+Truelove,E=Truelove,Edmond L
+# Zhao,Bo (11x)
+Zhao,B=Zhao,Bo
+# Anantram,Anant M. P. (11x)
+Anantram,A=Anantram,Anant M. P.
+# Clauss,James J (11x)
+Clauss,J=Clauss,James J
+# Wacker,Douglas (11x)
+Wacker,D=Wacker,Douglas
+# Bravo,Patricia (11x)
+Bravo,P=Bravo,Patricia
+# Buick,Roger (11x)
+Buick,R=Buick,Roger
+# Gunnerson,Kim (11x)
+Gunnerson,K=Gunnerson,Kim
+# Kraft,MD, George H. (10x)
+Kraft,M=Kraft,MD, George H.
+# Sellmaier,Claudia (10x)
+Sellmaier,C=Sellmaier,Claudia
+# Slager,E (10x)
+Slager,Emma=Slager,E
+# Hu,Juhua (10x)
+Hu,J=Hu,Juhua
+# Rabotyagov,Sergey (10x)
+Rabotyagov,S=Rabotyagov,Sergey
+# Salathe,Eric P (10x)
+Salathe,E=Salathe,Eric P
+# Evans,Betsy E (10x)
+Evans,B=Evans,Betsy E
+# Faustman,Elaine M (10x)
+Faustman,E=Faustman,Elaine M
+# Woodard,Davon (10x)
+Woodard,D=Woodard,Davon
+# Ceccarelli,Leah M (10x)
+Ceccarelli,L=Ceccarelli,Leah M
+# Khalil,Fahad (10x)
+Khalil,F=Khalil,Fahad
+# Kim,Chang-Jin (10x)
+Kim,C=Kim,Chang-Jin
+# McKenzie,Tylir J (10x)
+McKenzie,T=McKenzie,Tylir J
+# Sprenger,Cynthia (10x)
+Sprenger,C=Sprenger,Cynthia
+# Barthold,Douglas (10x)
+Barthold,D=Barthold,Douglas
+# Coldwell,Susan (10x)
+Coldwell,S=Coldwell,Susan
+# Fukuda,Munehiro (10x)
+Fukuda,M=Fukuda,Munehiro
+# Harrison,Oliver J. (10x)
+Harrison,O=Harrison,Oliver J.
+# Hujoel,Philippe (10x)
+Hujoel,P=Hujoel,Philippe
+# Kelley,M (10x)
+Kelley,Matt=Kelley,M
+# Khazzam-Horovitz,Hadar (10x)
+Khazzam-Horovitz,H=Khazzam-Horovitz,Hadar
+# Subramanian,Naeha (10x)
+Subramanian,N=Subramanian,Naeha
+# Takahashi,Yuya (10x)
+Takahashi,Y=Takahashi,Yuya
+# Turnblom,Eric (10x)
+Turnblom,E=Turnblom,Eric
+# Collins,Steven (9x)
+Collins,S=Collins,Steven
+# Fry,Andrew (9x)
+Fry,A=Fry,Andrew
+# Wells,Kara (9x)
+Wells,K=Wells,Kara
+# Jain,S (9x)
+Jain,Shalini S.=Jain,S
+# Underwood,Douglas M (9x)
+Underwood,D=Underwood,Douglas M
+# Appelbaum,Frederick R. (9x)
+Appelbaum,F=Appelbaum,Frederick R.
+# Diehm,Tom (9x)
+Diehm,T=Diehm,Tom
+# Elkon,Keith B (9x)
+Elkon,K=Elkon,Keith B
+# Glenny,Robb W (9x)
+Glenny,R=Glenny,Robb W
+# Golden,Matthew (9x)
+Golden,M=Golden,Matthew
+# Harrington,Robert D. (9x)
+Harrington,R=Harrington,Robert D.
+# McDonald,Erik (9x)
+McDonald,E=McDonald,Erik
+# Meyers,Ellen B (9x)
+Meyers,E=Meyers,Ellen B
+# Shankland,Stuart J. (9x)
+Shankland,S=Shankland,Stuart J.
+# Van Voorhis,Wesley C (9x)
+Van Voorhis,W=Van Voorhis,Wesley C
+# Waita,Jacqueline (9x)
+Waita,J=Waita,Jacqueline
+# Weigle,Scott (9x)
+Weigle,S=Weigle,Scott
+# Asuncion,Hazeline (9x)
+Asuncion,H=Asuncion,Hazeline
+# Bender,Melissa A (9x)
+Bender,M=Bender,Melissa A
+# Lewis,Alaron A (9x)
+Lewis,A=Lewis,Alaron A
+# Shao,Lian (9x)
+Shao,L=Shao,Lian
+# Badshah,Akhtar (9x)
+Badshah,A=Badshah,Akhtar
+# Bakker,Jon (9x)
+Bakker,J=Bakker,Jon
+# Forrest,Kyle (9x)
+Forrest,K=Forrest,Kyle
+# Gerner,Michael Y (9x)
+Gerner,M=Gerner,Michael Y
+# Lapierre,Myriam (9x)
+Lapierre,M=Lapierre,Myriam
+# Meyers,Stephen (9x)
+Meyers,S=Meyers,Stephen
+# Parker,S (9x)
+Parker,Samuel=Parker,S
+# Prlic,Martin (9x)
+Prlic,M=Prlic,Martin
+# Ritcey,James A (9x)
+Ritcey,J=Ritcey,James A
+# Savan,Ram (9x)
+Savan,R=Savan,Ram
+# Stetson,Daniel B. (9x)
+Stetson,D=Stetson,Daniel B.
+# Urdahl,Kevin B. (9x)
+Urdahl,K=Urdahl,Kevin B.
+# Von Moltke,Jakob (9x)
+Von Moltke,J=Von Moltke,Jakob
+# WIBOWO,KO SUGENG (9x)
+WIBOWO,K=WIBOWO,KO SUGENG
+# Webb,Isabella (9x)
+Webb,I=Webb,Isabella
+# Zander,Carol (9x)
+Zander,C=Zander,Carol
+# Carlson,Tim (9x)
+Carlson,T=Carlson,Tim
+# Gonza,Alejandra (9x)
+Gonza,A=Gonza,Alejandra
+# Greaney,Brian (9x)
+Greaney,B=Greaney,Brian
+# Jaffe,Dan (9x)
+Jaffe,D=Jaffe,Dan
+# Jain,S (9x)
+Jain,Shailendra P=Jain,S
+# Naish,Kerry (9x)
+Naish,K=Naish,Kerry
+# Schnapper,Eric (9x)
+Schnapper,E=Schnapper,Eric
+# Gorman-Lewis,Drew J (8x)
+Gorman-Lewis,D=Gorman-Lewis,Drew J
+# Loveless,Mindy (8x)
+Loveless,M=Loveless,Mindy
+# Abrous,Abdelouahab (8x)
+Abrous,A=Abrous,Abdelouahab
+# Carmean,Colleen (8x)
+Carmean,C=Carmean,Colleen
+# Dudakov,Jarrod (8x)
+Dudakov,J=Dudakov,Jarrod
+# HEADLEY,MARK B. (8x)
+HEADLEY,M=HEADLEY,MARK B.
+# Hamerman,Jessica A. (8x)
+Hamerman,J=Hamerman,Jessica A.
+# Jones,S (8x)
+Jones,Stacia Marie=Jones,S
+# KOCH,MEGHAN A. (8x)
+KOCH,M=KOCH,MEGHAN A.
+# Lacy-Hulbert,Adam (8x)
+Lacy-Hulbert,A=Lacy-Hulbert,Adam
+# Oberst,Andrew A (8x)
+Oberst,A=Oberst,Andrew A
+# Pepper,Marion (8x)
+Pepper,M=Pepper,Marion
+# Rawlings,David J (8x)
+Rawlings,D=Rawlings,David J
+# Rongvaux,Anthony (8x)
+Rongvaux,A=Rongvaux,Anthony
+# Seto,Edmund (8x)
+Seto,E=Seto,Edmund
+# West,Dr. Jim (8x)
+West,D=West,Dr. Jim
+# Ziegler,Steven F. (8x)
+Ziegler,S=Ziegler,Steven F.
+# Abadi,Shima (8x)
+Abadi,S=Abadi,Shima
+# Ales,John (8x)
+Ales,J=Ales,John
+# Austin,Elena (8x)
+Austin,E=Austin,Elena
+# Gordon,Cheryl Faye (8x)
+Gordon,C=Gordon,Cheryl Faye
+# Heckman,J (8x)
+Heckman,Jennifer L.=Heckman,J
+# Jones,Christopher D (8x)
+Jones,C=Jones,Christopher D
+# Jones,Jamalia (8x)
+Jones,J=Jones,Jamalia
+# Saha,Subrata (8x)
+Saha,S=Saha,Subrata
+# Starr,Ariel (8x)
+Starr,A=Starr,Ariel
+# Stiber,Michael (8x)
+Stiber,M=Stiber,Michael
+# Aceves Bueno,Erendira (8x)
+Aceves Bueno,E=Aceves Bueno,Erendira
+# Adams,Jared E (8x)
+Adams,J=Adams,Jared E
+# Affholter,Shannon R. (8x)
+Affholter,S=Affholter,Shannon R.
+# Dinglasan-Panlilio,Joyce (8x)
+Dinglasan-Panlilio,J=Dinglasan-Panlilio,Joyce
+# Dupuis,Marc J. (8x)
+Dupuis,M=Dupuis,Marc J.
+# Fattah,Hossam (8x)
+Fattah,H=Fattah,Hossam
+# Fogelberg,Don (8x)
+Fogelberg,D=Fogelberg,Don
+# Gray,Alison R. (8x)
+Gray,A=Gray,Alison R.
+# Kuzma,Bobby (8x)
+Kuzma,B=Kuzma,Bobby
+# Masura,Julie E. (8x)
+Masura,J=Masura,Julie E.
+# Maurer,Brett (8x)
+Maurer,B=Maurer,Brett
+# Mendoza,Jose Jorge (8x)
+Mendoza,J=Mendoza,Jose Jorge
+# Nuwer,Mikelle (8x)
+Nuwer,M=Nuwer,Mikelle
+# Rodda,Amy (8x)
+Rodda,A=Rodda,Amy
+# Tarczy-Hornoch,Peter (8x)
+Tarczy-Hornoch,P=Tarczy-Hornoch,Peter
+# Dunham,Scott T. (7x)
+Dunham,S=Dunham,Scott T.
+# Marriott,C (7x)
+Marriott,Christopher=Marriott,C
+# Elwood-Faustino,Sarah (7x)
+Elwood-Faustino,S=Elwood-Faustino,Sarah
+# Gale,Michael J (7x)
+Gale,M=Gale,Michael J
+# Moazeni,Sajjad (7x)
+Moazeni,S=Moazeni,Sajjad
+# Schmidt,Sean G. (7x)
+Schmidt,S=Schmidt,Sean G.
+# Shlizerman,Eli (7x)
+Shlizerman,E=Shlizerman,Eli
+# Terasaki,Genji (7x)
+Terasaki,G=Terasaki,Genji
+# Tobin,Patrick C (7x)
+Tobin,P=Tobin,Patrick C
+# George,William H (7x)
+George,W=George,William H
+# Jecker,Nancy S. (7x)
+Jecker,N=Jecker,Nancy S.
+# Li,W (7x)
+Li,William=Li,W
+# Pedram,Hossein (7x)
+Pedram,H=Pedram,Hossein
+# Percinkova-Patton,Irena (7x)
+Percinkova-Patton,I=Percinkova-Patton,Irena
+# Bruce,James E. (7x)
+Bruce,J=Bruce,James E.
+# Brusseau,Karen A. (7x)
+Brusseau,K=Brusseau,Karen A.
+# Cote,Charlotte (7x)
+Cote,C=Cote,Charlotte
+# Dolsak,Nives (7x)
+Dolsak,N=Dolsak,Nives
+# Erdly,Bill (7x)
+Erdly,B=Erdly,Bill
+# Fehr,Ryan (7x)
+Fehr,R=Fehr,Ryan
+# Gandara,Beatrice K (7x)
+Gandara,B=Gandara,Beatrice K
+# Gill,Justin (7x)
+Gill,J=Gill,Justin
+# Jardine,Sunny L. (7x)
+Jardine,S=Jardine,Sunny L.
+# Loverde,Marilena (7x)
+Loverde,M=Loverde,Marilena
+# Marshall,Colin (7x)
+Marshall,C=Marshall,Colin
+# Nassif,Afif (7x)
+Nassif,A=Nassif,Afif
+# Oswal,Sushil K. (7x)
+Oswal,S=Oswal,Sushil K.
+# Phillips,Thomas (7x)
+Phillips,T=Phillips,Thomas
+# Ghironi,Fabio P (6x)
+Ghironi,F=Ghironi,Fabio P
+# Seaton,C (6x)
+Seaton,Charles=Seaton,C
+# Daniel,David (6x)
+Daniel,D=Daniel,David
+# Loge,Ronald V (6x)
+Loge,R=Loge,Ronald V
+# Morgan,James F (6x)
+Morgan,J=Morgan,James F
+# Rao,Deepa (6x)
+Rao,D=Rao,Deepa
+# Riddell,Stanley R. (6x)
+Riddell,S=Riddell,Stanley R.
+# Robison,Wendell J (6x)
+Robison,W=Robison,Wendell J
+# Rosenberg,Karen (6x)
+Rosenberg,K=Rosenberg,Karen
+# Casey,Erin (6x)
+Casey,E=Casey,Erin
+# Hess,Jeremy Johnson (6x)
+Hess,J=Hess,Jeremy Johnson
+# Simonsen,Linda (6x)
+Simonsen,L=Simonsen,Linda
+# Tsai,Jenny Hsin-Chun (6x)
+Tsai,J=Tsai,Jenny Hsin-Chun
+# Bundy,Randie (6x)
+Bundy,R=Bundy,Randie
+# Chen,Annie T (6x)
+Chen,A=Chen,Annie T
+# Jenner,Lars (6x)
+Jenner,L=Jenner,Lars
+# Kamen,Deborah E (6x)
+Kamen,D=Kamen,Deborah E
+# Nolan,Danny (6x)
+Nolan,D=Nolan,Danny
+# Olson,Clark (6x)
+Olson,C=Olson,Clark
+# Perone,Tony (6x)
+Perone,T=Perone,Tony
+# Poyer,Lauren (6x)
+Poyer,L=Poyer,Lauren
+# Seminario,Ana Lucia (6x)
+Seminario,A=Seminario,Ana Lucia
+# Shen,Yi (6x)
+Shen,Y=Shen,Yi
+# Zhang,L (6x)
+Zhang,Leo=Zhang,L
+# Brewer,Bonita J (5x)
+Brewer,B=Brewer,Bonita J
+# Eun,Dong-Jae (5x)
+Eun,D=Eun,Dong-Jae
+# Felak,James R (5x)
+Felak,J=Felak,James R
+# Hu,J (5x)
+Hu,Jingwei=Hu,J
+# Lee,Danbi (5x)
+Lee,D=Lee,Danbi
+# Metzler,M (5x)
+Metzler,Mark=Metzler,M
+# O'Dea,Dennis (5x)
+O'Dea,D=O'Dea,Dennis
+# Rieke,Fred (5x)
+Rieke,F=Rieke,Fred
+# Stager,John (5x)
+Stager,J=Stager,John
+# Allen,Suzanne M. (5x)
+Allen,S=Allen,Suzanne M.
+# Hintz,Allison Beth (5x)
+Hintz,A=Hintz,Allison Beth
+# Hogg,Jim (5x)
+Hogg,J=Hogg,Jim
+# Nighswander,Thomas S. (5x)
+Nighswander,T=Nighswander,Thomas S.
+# Powers,Matthew J (5x)
+Powers,M=Powers,Matthew J
+# Ryan,Clare (5x)
+Ryan,C=Ryan,Clare
+# Woiak,Joanne (5x)
+Woiak,J=Woiak,Joanne
+# Yeung,Dan (5x)
+Yeung,D=Yeung,Dan
+# Ali,M (5x)
+Ali,Murtaza=Ali,M
+# Au,Wayne (5x)
+Au,W=Au,Wayne
+# Bailey,Karen (5x)
+Bailey,K=Bailey,Karen
+# Baker,Marissa (5x)
+Baker,M=Baker,Marissa
+# Covey,Ellen (5x)
+Covey,E=Covey,Ellen
+# Cui,Julia (5x)
+Cui,J=Cui,Julia
+# Eaton,Linda (5x)
+Eaton,L=Eaton,Linda
+# Edwards,Scott M. (5x)
+Edwards,S=Edwards,Scott M.
+# Ghirmai,Tadesse (5x)
+Ghirmai,T=Ghirmai,Tadesse
+# Hsiao,Yuan (5x)
+Hsiao,Y=Hsiao,Yuan
+# Lee,N (5x)
+Lee,Nancy R=Lee,N
+# Levy,Rona L (5x)
+Levy,R=Levy,Rona L
+# Marsillach,Judit (5x)
+Marsillach,J=Marsillach,Judit
+# Mitzelfelt,Katie A. (5x)
+Mitzelfelt,K=Mitzelfelt,Katie A.
+# Price,Rebecca M. (5x)
+Price,R=Price,Rebecca M.
+# Pursell,Fred (5x)
+Pursell,F=Pursell,Fred
+# Rayermann,Scott (5x)
+Rayermann,S=Rayermann,Scott
+# Roberts,Steven (5x)
+Roberts,S=Roberts,Steven
+# Slater,Moniquetra (5x)
+Slater,M=Slater,Moniquetra
+# So,Connie C. (5x)
+So,C=So,Connie C.
+# Turns,Jennifer A. (5x)
+Turns,J=Turns,Jennifer A.
+# Wagner,Michael R (5x)
+Wagner,M=Wagner,Michael R
+# Weir,Bruce S (5x)
+Weir,B=Weir,Bruce S
+# Yeung,Ka Yee (5x)
+Yeung,K=Yeung,Ka Yee
+# Zhang,E (5x)
+Zhang,Eric=Zhang,E
+# Fan,Yanqin (4x)
+Fan,Y=Fan,Yanqin
+# Johnston,C (4x)
+Johnston,Charles G=Johnston,C
+# LI,Lily (4x)
+LI,L=LI,Lily
+# Mead,Nathan (4x)
+Mead,N=Mead,Nathan
+# Olerud,J (4x)
+Olerud,John E=Olerud,J
+# Rocap,Gabrielle (4x)
+Rocap,G=Rocap,Gabrielle
+# Zheng,Ning (4x)
+Zheng,N=Zheng,Ning
+# Benson,Judy A. (4x)
+Benson,J=Benson,Judy A.
+# Bratman,Gregory (4x)
+Bratman,G=Bratman,Gregory
+# Chambers,Dwayne (4x)
+Chambers,D=Chambers,Dwayne
+# Conn,David (4x)
+Conn,D=Conn,David
+# Czerniecki,Joseph (4x)
+Czerniecki,J=Czerniecki,Joseph
+# Dannenberg,Andrew L. (4x)
+Dannenberg,A=Dannenberg,Andrew L.
+# Gerstner,Steven J. (4x)
+Gerstner,S=Gerstner,Steven J.
+# Kennedy,D (4x)
+Kennedy,Deanna M=Kennedy,D
+# King,Mary-Claire (4x)
+King,M=King,Mary-Claire
+# Liu,Jun (4x)
+Liu,J=Liu,Jun
+# Loeffelholz,James (4x)
+Loeffelholz,J=Loeffelholz,James
+# McCullough,Janis (4x)
+McCullough,J=McCullough,Janis
+# Monsen,Maren (4x)
+Monsen,M=Monsen,Maren
+# Pengra,David B. (4x)
+Pengra,D=Pengra,David B.
+# Smith,Becky (4x)
+Smith,B=Smith,Becky
+# Stoddard,Victoria V (4x)
+Stoddard,V=Stoddard,Victoria V
+# Swanson,Judy G (4x)
+Swanson,J=Swanson,Judy G
+# Tapia,Christina P. (4x)
+Tapia,C=Tapia,Christina P.
+# Taylor,Will (4x)
+Taylor,W=Taylor,Will
+# Tilden,Ron (4x)
+Tilden,R=Tilden,Ron
+# Wang,J (4x)
+Wang,Joanna=Wang,J
+# Childs,Mary E (4x)
+Childs,M=Childs,Mary E
+# Deming,Jody W (4x)
+Deming,J=Deming,Jody W
+# Deschene,Marie (4x)
+Deschene,M=Deschene,Marie
+# Dhavan,Purnima (4x)
+Dhavan,P=Dhavan,Purnima
+# Disston,M (4x)
+Disston,Matthew=Disston,M
+# Dusche,Michael (4x)
+Dusche,M=Dusche,Michael
+# Foster,Clifford D (4x)
+Foster,C=Foster,Clifford D
+# Kartha,Neelakantan (4x)
+Kartha,N=Kartha,Neelakantan
+# Kayaoglu,Turan (4x)
+Kayaoglu,T=Kayaoglu,Turan
+# Kelly,Ryan (4x)
+Kelly,R=Kelly,Ryan
+# Kirkpatrick,Neil (4x)
+Kirkpatrick,N=Kirkpatrick,Neil
+# LaRue,Dean (4x)
+LaRue,D=LaRue,Dean
+# Levin,Carol (4x)
+Levin,C=Levin,Carol
+# Nguyen,Kim (4x)
+Nguyen,K=Nguyen,Kim
+# Turnovsky,Stephen J (4x)
+Turnovsky,S=Turnovsky,Stephen J
+# Veenstra,David (4x)
+Veenstra,D=Veenstra,David
+# Warren,Adam W (4x)
+Warren,A=Warren,Adam W
+# Whitaker,Dan (4x)
+Whitaker,D=Whitaker,Dan
+# Crispe,Ian N. (3x)
+Crispe,I=Crispe,Ian N.
+# Uduehi,Esther (3x)
+Uduehi,E=Uduehi,Esther
+# Balakrishnan,P.V. Sundar (3x)
+Balakrishnan,P=Balakrishnan,P.V. Sundar
+# Cao,Z (3x)
+Cao,Zhiyan=Cao,Z
+# Dietrich,Lynn (3x)
+Dietrich,L=Dietrich,Lynn
+# Ettl,Gregory John (3x)
+Ettl,G=Ettl,Gregory John
+# Hagopian,Amy (3x)
+Hagopian,A=Hagopian,Amy
+# Knox,Melissa A (3x)
+Knox,M=Knox,Melissa A
+# LI,L (3x)
+Li,Leonard Leye=LI,L
+# Lindo,Edwin G (3x)
+Lindo,E=Lindo,Edwin G
+# Marzluff,John M. (3x)
+Marzluff,J=Marzluff,John M.
+# McDonald,C (3x)
+McDonald,Cody L=McDonald,C
+# Miller,M (3x)
+Miller,Marc L=Miller,M
+# O'Malley,Gabrielle (3x)
+O'Malley,G=O'Malley,Gabrielle
+# Olson,Allen (3x)
+Olson,A=Olson,Allen
+# Phillips,Paul E. M. (3x)
+Phillips,P=Phillips,Paul E. M.
+# Shaffer,Peter (3x)
+Shaffer,P=Shaffer,Peter
+# Taylor,J (3x)
+Taylor,Justin=Taylor,J
+# Turner,A (3x)
+Turner,Anne M=Turner,A
+# Abernethy,Neil F (3x)
+Abernethy,N=Abernethy,Neil F
+# Anderson,J Martin (3x)
+Anderson,Jordan=Anderson,J Martin
+# Bachman,David M (3x)
+Bachman,D=Bachman,David M
+# Brown,Dan (3x)
+Brown,D=Brown,Dan
+# Ceze,Luis H (3x)
+Ceze,L=Ceze,Luis H
+# Cole,Toby (3x)
+Cole,T=Cole,Toby
+# Denamur,Nicole L (3x)
+Denamur,N=Denamur,Nicole L
+# Fourie,Carina (3x)
+Fourie,C=Fourie,Carina
+# Golden,Sam A. (3x)
+Golden,S=Golden,Sam A.
+# Goli,Ali (3x)
+Goli,A=Goli,Ali
+# Gough,Heidi Lois (3x)
+Gough,H=Gough,Heidi Lois
+# Kolodziej,Edward P (3x)
+Kolodziej,E=Kolodziej,Edward P
+# Larimer,Mary E (3x)
+Larimer,M=Larimer,Mary E
+# Lee,D (3x)
+Lee,Damian=Lee,D
+# Lee,D (3x)
+Lee,David L=Lee,D
+# McCourt,M (3x)
+MCCOURT,MICHAEL JAMES=McCourt,M
+# McInturff,Alex (3x)
+McInturff,A=McInturff,Alex
+# Munson,Sean A (3x)
+Munson,S=Munson,Sean A
+# O'Keefe,Melissa (3x)
+O'Keefe,M=O'Keefe,Melissa
+# Oppenheim,Willy (3x)
+Oppenheim,W=Oppenheim,Willy
+# Price,M (3x)
+Price,Maria=Price,M
+# Safioti,Luciana (3x)
+Safioti,L=Safioti,Luciana
+# Scher,Steven (3x)
+Scher,S=Scher,Steven
+# Schubert,Mark M (3x)
+Schubert,M=Schubert,Mark M
+# Shaikh,Sarah A (3x)
+Shaikh,S=Shaikh,Sarah A
+# Sheppard,Lianne (3x)
+Sheppard,L=Sheppard,Lianne
+# Smallwood,Stephanie (3x)
+Smallwood,S=Smallwood,Stephanie
+# Spencer,Kristie (3x)
+Spencer,K=Spencer,Kristie
+# Trapnell,Cole (3x)
+Trapnell,C=Trapnell,Cole
+# Trask,Valerie (3x)
+Trask,V=Trask,Valerie
+# Turner,A (3x)
+Turner,Alex=Turner,A
+# Turner,A (3x)
+Turner,Aliyah=Turner,A
+# Turnovsky,Michelle H L (3x)
+Turnovsky,M=Turnovsky,Michelle H L
+# Bellini,Marco (2x)
+Bellini,M=Bellini,Marco
+# Brobbey,Gordon (2x)
+Brobbey,G=Brobbey,Gordon
+# Duvvuri,Sri Devi (2x)
+Duvvuri,S=Duvvuri,Sri Devi
+# Fishman,Paul A (2x)
+Fishman,P=Fishman,Paul A
+# Lane,Jeff (2x)
+Lane,J=Lane,Jeff
+# Lund,Arnie (2x)
+Lund,A=Lund,Arnie
+# Resnick,Jerelyn A. (2x)
+Resnick,J=Resnick,Jerelyn A.
+# Wong,Kar-Yiu (2x)
+Wong,K=Wong,Kar-Yiu
+# Blinov,Boris (2x)
+Blinov,B=Blinov,Boris
+# CHOI,YOON (2x)
+Choi,Y=CHOI,YOON
+# Christie,Patrick John (2x)
+Christie,P=Christie,Patrick John
+# Colburn,Gregg (2x)
+Colburn,G=Colburn,Gregg
+# Dasher,Nickolas (2x)
+Dasher,N=Dasher,Nickolas
+# Dembrow,Nikolai (2x)
+Dembrow,N=Dembrow,Nikolai
+# Den Nijs,Marcel P (2x)
+Den Nijs,M=Den Nijs,Marcel P
+# Dhaka,Ajay K (2x)
+Dhaka,A=Dhaka,Ajay K
+# Esselman,Peter C (2x)
+Esselman,P=Esselman,Peter C
+# Foster,Robin L. (2x)
+Foster,R=Foster,Robin L.
+# Grabowski,Thomas J (2x)
+Grabowski,T=Grabowski,Thomas J
+# Gross,Nell (2x)
+Gross,N=Gross,Nell
+# Hafner,Brian J (2x)
+Hafner,B=Hafner,Brian J
+# Harrington,James W. (2x)
+Harrington,J=Harrington,James W.
+# Harwood,Carrie (2x)
+Harwood,C=Harwood,Carrie
+# Jennings,Erik (2x)
+Jennings,E=Jennings,Erik
+# Johnson,Kurt L (2x)
+Johnson,K=Johnson,Kurt L
+# Kim,H (2x)
+Kim,Hyun-Jun=Kim,H
+# Kim,S (2x)
+Kim,Seonah=Kim,S
+# Kim,Taehyoun (2x)
+Kim,T=Kim,Taehyoun
+# Kirven,Lawrence (2x)
+Kirven,L=Kirven,Lawrence
+# Kurosaka,Mitsuru (2x)
+Kurosaka,M=Kurosaka,Mitsuru
+# Kyu,Hmwe Hmwe (2x)
+Kyu,H=Kyu,Hmwe Hmwe
+# Laing,Sharon S. (2x)
+Laing,S=Laing,Sharon S.
+# Li,Y (2x)
+Li,Yi=Li,Y
+# Liu,J (2x)
+Liu,Jiun-Yu=Liu,J
+# Mar,Therese F (2x)
+Mar,T=Mar,Therese F
+# Martinez,Vicente (2x)
+Martinez,V=Martinez,Vicente
+# Miller,G (2x)
+Miller,Garret=Miller,G
+# Miller,G (2x)
+Miller,Gerald A.=Miller,G
+# Modarres,A (2x)
+Modarres,Ali=Modarres,A
+# Montgomery,S (2x)
+Montgomery,Stephen W.=Montgomery,S
+# Mroz,Tracy (2x)
+Mroz,T=Mroz,Tracy
+# Mulligan,Kate (2x)
+Mulligan,K=Mulligan,Kate
+# Newman,Carrie (2x)
+Newman,C=Newman,Carrie
+# Nurius,Paula (2x)
+Nurius,P=Nurius,Paula
+# Paquette,Natalie (2x)
+Paquette,N=Paquette,Natalie
+# Pollack,Robert David (2x)
+Pollack,R=Pollack,Robert David
+# Polyak,Stephen J. (2x)
+Polyak,S=Polyak,Stephen J.
+# Quinn,T (2x)
+Quinn,Thomas P.=Quinn,T
+# Savage,Martin J. (2x)
+Savage,M=Savage,Martin J.
+# Sidhu,Jessica Kaur (2x)
+Sidhu,J=Sidhu,Jessica Kaur
+# Sierschynski,Jarek (2x)
+Sierschynski,J=Sierschynski,Jarek
+# Stearns,Elizabeth (2x)
+Stearns,E=Stearns,Elizabeth
+# Stevens,Christine (2x)
+Stevens,C=Stevens,Christine
+# Stiber,M (2x)
+Stiber,Maia=Stiber,M
+# Thronson,Renata (2x)
+Thronson,R=Thronson,Renata
+# Wang,F (2x)
+Wang,Francis C=Wang,F
+# Wheiler,Kent (2x)
+Wheiler,K=Wheiler,Kent
+# Winnett,R (2x)
+Winnett,Ren=Winnett,R
+# Wood,R (2x)
+Wood,Robert=Wood,R
+# Yan,Chiwei (2x)
+Yan,C=Yan,Chiwei
+# Zweifel,Larry (2x)
+Zweifel,L=Zweifel,Larry
+# Abustan,Paulina (1x)
+Abustan,P=Abustan,Paulina
+# Alfonso,Stacey Marie (1x)
+Alfonso,S=Alfonso,Stacey Marie
+# Anderson,Alex (1x)
+Anderson,A=Anderson,Alex
+# Baryakhtar,Masha (1x)
+Baryakhtar,M=Baryakhtar,Masha
+# Bellman,Scott (1x)
+Bellman,S=Bellman,Scott
+# Chakwin,Ann A (1x)
+Chakwin,A=Chakwin,Ann A
+# Decker,Louanne (1x)
+Decker,L=Decker,Louanne
+# Diekema,Douglas S. (1x)
+Diekema,D=Diekema,Douglas S.
+# Fidkowski,Lukasz Michal (1x)
+Fidkowski,L=Fidkowski,Lukasz Michal
+# Foot,Kirsten (1x)
+Foot,K=Foot,Kirsten
+# Gold,Warren G (1x)
+Gold,W=Gold,Warren G
+# Graham,Bradley (1x)
+Graham,B=Graham,Bradley
+# Gupta,Subhadeep (1x)
+Gupta,S=Gupta,Subhadeep
+# Harris,Kelley (1x)
+Harris,K=Harris,Kelley
+# Hartzler,Andrea L (1x)
+Hartzler,A=Hartzler,Andrea L
+# Hill,Heather D (1x)
+Hill,H=Hill,Heather D
+# Holland,Steve (1x)
+Holland,S=Holland,Steve
+# Hossain,Faisal (1x)
+Hossain,F=Hossain,Faisal
+# Klavins,Eric (1x)
+Klavins,E=Klavins,Eric
+# Kleisath,Christina M (1x)
+Kleisath,C=Kleisath,Christina M
+# Kohlsdorf,Kai Westley (1x)
+Kohlsdorf,K.=Kohlsdorf,Kai Westley
+# Kroll,Douglas R (1x)
+Kroll,D=Kroll,Douglas R
+# Meltzoff,Andrew N (1x)
+Meltzoff,A=Meltzoff,Andrew N
+# Nourmohammad,Armita (1x)
+Nourmohammad,A=Nourmohammad,Armita
+# Payne,Thomas H (1x)
+Payne,T=Payne,Thomas H
+# Peter,Donald M (1x)
+Peter,D=Peter,Donald M
+# Pierszalowski,Sophie (1x)
+Pierszalowski,S=Pierszalowski,Sophie
+# Pinkham,Scott (1x)
+Pinkham,S=Pinkham,Scott
+# Villen,Judit (1x)
+Villen,J=Villen,Judit
+# Yorkston,Kathryn M (1x)
+Yorkston,K=Yorkston,Kathryn M

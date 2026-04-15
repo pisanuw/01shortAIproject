@@ -1,0 +1,21 @@
+# Deployment-unneeded local folders
+.netlify/
+.venv/
+.vscode/
+
+# Python cache folders
+__pycache__/
+scripts/__pycache__/
+
+# Downloaded and intermediate data (not needed to run deployed app)
+data/raw/
+data/depts/
+
+# Local auth/cookie files
+cookies.json
+*cookies*.json
+*cookies*.txt
+
+# Common local artifacts
+.DS_Store
+node_modules/

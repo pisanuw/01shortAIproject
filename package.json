@@ -1,0 +1,23 @@
+{
+  "name": "uw-course-professor-finder",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Search UW courses by professor across Bothell, Seattle, and Tacoma campuses.",
+  "scripts": {
+    "download:data": "python3 scripts/download_catalog.py",
+    "download:all": "python3 scripts/download_catalog.py --campus all",
+    "download:bothell": "python3 scripts/download_catalog.py --campus B",
+    "download:tacoma": "python3 scripts/download_catalog.py --campus T",
+    "download:seattle": "python3 scripts/download_catalog.py --campus S",
+    "download:add:sum2026": "python3 scripts/download_catalog.py --campus all --add-term SUM2026",
+    "build:data": "python3 scripts/build_catalog.py",
+    "build:bothell": "python3 scripts/build_catalog.py --campus B",
+    "build:tacoma": "python3 scripts/build_catalog.py --campus T",
+    "build:seattle": "python3 scripts/build_catalog.py --campus S",
+    "build:add:sum2026": "python3 scripts/build_catalog.py --campus all --add-term SUM2026",
+    "build:all": "python3 scripts/build_catalog.py --campus all",
+    "refresh:data": "npm run download:data && npm run build:data",
+    "refresh:all": "npm run download:all && npm run build:all",
+    "dev": "python3 scripts/admin_server.py --port ${PORT:-4173}"
+  }
+}
