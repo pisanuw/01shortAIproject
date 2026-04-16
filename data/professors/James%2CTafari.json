@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "JAMES%2CTAFARI",
+  "professor": "JAMES,TAFARI",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "AUT2021",
+      "course": "MATH 207",
+      "courseTitle": "INTRO TO DIFF EQ",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SPR2021",
+      "course": "MATH 307",
+      "courseTitle": "INTRO TO DIFF EQ",
+      "section": "J"
+    }
+  ]
+}

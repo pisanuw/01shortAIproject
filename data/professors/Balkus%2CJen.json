@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Balkus%2CJen",
+  "professor": "Balkus,Jen",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phi",
+      "deptName": "Public Health Interdisciplinary",
+      "term": "AUT2021",
+      "course": "PHI 511",
+      "courseTitle": "FDN OF PUBLIC HEALTH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "AUT2021",
+      "course": "EPI 591",
+      "courseTitle": "CURRENT LIT IN EPI",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phi",
+      "deptName": "Public Health Interdisciplinary",
+      "term": "AUT2020",
+      "course": "PHI 511",
+      "courseTitle": "FDN OF PUBLIC HEALTH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "AUT2020",
+      "course": "EPI 591",
+      "courseTitle": "CURRENT LIT IN EPI",
+      "section": "A"
+    }
+  ]
+}

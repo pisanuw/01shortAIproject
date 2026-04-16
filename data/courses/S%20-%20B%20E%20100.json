@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-04-16T02:57:22Z",
+  "id": "S%20-%20B%20E%20100",
+  "course": "S - B E 100",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "be",
+      "deptName": "Built Environment",
+      "term": "WIN2026",
+      "course": "B E 100",
+      "courseTitle": "INTR SEATTLE BLT ENV",
+      "section": "A",
+      "instructor": "Ochsner,Jeffrey Karl"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "be",
+      "deptName": "Built Environment",
+      "term": "WIN2025",
+      "course": "B E 100",
+      "courseTitle": "INTR SEATTLE BLT ENV",
+      "section": "A",
+      "instructor": "Ochsner,Jeffrey Karl"
+    }
+  ]
+}

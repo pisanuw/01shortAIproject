@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "LIAO%2CYUFEI",
+  "professor": "LIAO,YUFEI",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2022",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "G"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2022",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2021",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "I"
+    }
+  ]
+}

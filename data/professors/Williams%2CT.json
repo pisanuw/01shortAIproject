@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Williams%2CT",
+  "professor": "Williams,T",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "patho",
+      "deptName": "Pathology",
+      "term": "SUM2022",
+      "course": "PATH 683P",
+      "courseTitle": "P-FOR PATH-MED EX",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "patho",
+      "deptName": "Pathology",
+      "term": "AUT2021",
+      "course": "PATH 683P",
+      "courseTitle": "P-FOR PATH-MED EX",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "patho",
+      "deptName": "Pathology",
+      "term": "SUM2021",
+      "course": "PATH 683P",
+      "courseTitle": "P-FOR PATH-MED EX",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "patho",
+      "deptName": "Pathology",
+      "term": "SPR2021",
+      "course": "PATH 683P",
+      "courseTitle": "P-FOR PATH-MED EX",
+      "section": "A"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:24:45Z",
+  "generatedAt": "2026-04-16T02:57:09Z",
   "campus": "B",
   "dept": "bmath",
   "deptName": "Mathematics",
@@ -372,7 +372,7 @@
       "course": "B MATH 144",
       "courseTitle": "CALC FOR LIFE SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
     },
     {
       "campus": "B",
@@ -382,7 +382,7 @@
       "course": "B MATH 144",
       "courseTitle": "CALC FOR LIFE SCI",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
     },
     {
       "campus": "B",
@@ -772,7 +772,7 @@
       "course": "B MATH 123",
       "courseTitle": "PRECALC II",
       "section": "A",
-      "instructor": "Hoover,Nicole A"
+      "instructor": "B Hoover,Nicole A"
     },
     {
       "campus": "B",
@@ -1022,7 +1022,7 @@
       "course": "B MATH 123",
       "courseTitle": "PRECALC II",
       "section": "B",
-      "instructor": "Hoover,Nicole A"
+      "instructor": "B Hoover,Nicole A"
     },
     {
       "campus": "B",
@@ -1792,7 +1792,7 @@
       "course": "B MATH 121",
       "courseTitle": "ALG & QUANT REAS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Williams,Debby"
     },
     {
       "campus": "B",
@@ -1802,7 +1802,7 @@
       "course": "B MATH 122",
       "courseTitle": "PRECALC I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Moraiti,Marina"
     },
     {
       "campus": "B",
@@ -1812,27 +1812,7 @@
       "course": "B MATH 122",
       "courseTitle": "PRECALC I",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bmath",
-      "deptName": "Mathematics",
-      "term": "AUT2025",
-      "course": "B MATH 123",
-      "courseTitle": "PRECALC II",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bmath",
-      "deptName": "Mathematics",
-      "term": "AUT2025",
-      "course": "B MATH 123",
-      "courseTitle": "PRECALC II",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Williams,Debby"
     },
     {
       "campus": "B",
@@ -1842,7 +1822,7 @@
       "course": "B MATH 123",
       "courseTitle": "PRECALC II",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Abian,Andrew"
     },
     {
       "campus": "B",
@@ -1852,7 +1832,27 @@
       "course": "B MATH 123",
       "courseTitle": "PRECALC II",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Abudiab,Mufid"
+    },
+    {
+      "campus": "B",
+      "dept": "bmath",
+      "deptName": "Mathematics",
+      "term": "AUT2025",
+      "course": "B MATH 123",
+      "courseTitle": "PRECALC II",
+      "section": "A",
+      "instructor": "Hoover,Nicole A"
+    },
+    {
+      "campus": "B",
+      "dept": "bmath",
+      "deptName": "Mathematics",
+      "term": "AUT2025",
+      "course": "B MATH 123",
+      "courseTitle": "PRECALC II",
+      "section": "B",
+      "instructor": "Hoover,Nicole A"
     },
     {
       "campus": "B",
@@ -1862,7 +1862,7 @@
       "course": "B MATH 144",
       "courseTitle": "CALC FOR LIFE SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stiber,Bilin Z"
     },
     {
       "campus": "B",
@@ -1872,7 +1872,7 @@
       "course": "B MATH 144",
       "courseTitle": "CALC FOR LIFE SCI",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Stiber,Bilin Z"
     },
     {
       "campus": "B",
@@ -1882,7 +1882,7 @@
       "course": "B MATH 215",
       "courseTitle": "HEALTH STATISTICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anderson,Baaska"
     },
     {
       "campus": "B",
@@ -1892,7 +1892,7 @@
       "course": "B MATH 215",
       "courseTitle": "HEALTH STATISTICS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Anderson,Baaska"
     },
     {
       "campus": "B",
@@ -1902,7 +1902,7 @@
       "course": "B MATH 215",
       "courseTitle": "HEALTH STATISTICS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Arian,Eyal"
     },
     {
       "campus": "B",
@@ -1912,7 +1912,7 @@
       "course": "B MATH 121",
       "courseTitle": "ALG & QUANT REAS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Williams,Debby"
     },
     {
       "campus": "B",
@@ -1922,7 +1922,7 @@
       "course": "B MATH 122",
       "courseTitle": "PRECALC I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Williams,Debby"
     },
     {
       "campus": "B",
@@ -1932,7 +1932,7 @@
       "course": "B MATH 123",
       "courseTitle": "PRECALC II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stiber,Bilin Z"
     },
     {
       "campus": "B",
@@ -1942,7 +1942,7 @@
       "course": "B MATH 123",
       "courseTitle": "PRECALC II",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Stiber,Bilin Z"
     },
     {
       "campus": "B",
@@ -1952,7 +1952,7 @@
       "course": "B MATH 123",
       "courseTitle": "PRECALC II",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Stiber,Bilin Z"
     },
     {
       "campus": "B",
@@ -1962,7 +1962,7 @@
       "course": "B MATH 144",
       "courseTitle": "CALC FOR LIFE SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Akapame,Rejoice"
     },
     {
       "campus": "B",
@@ -1972,7 +1972,7 @@
       "course": "B MATH 144",
       "courseTitle": "CALC FOR LIFE SCI",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Akapame,Rejoice"
     },
     {
       "campus": "B",
@@ -1982,7 +1982,7 @@
       "course": "B MATH 215",
       "courseTitle": "HEALTH STATISTICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anderson,Baaska"
     },
     {
       "campus": "B",
@@ -1992,7 +1992,7 @@
       "course": "B MATH 215",
       "courseTitle": "HEALTH STATISTICS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Anderson,Baaska"
     },
     {
       "campus": "B",
@@ -2002,7 +2002,7 @@
       "course": "B MATH 215",
       "courseTitle": "HEALTH STATISTICS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Arian,Eyal"
     },
     {
       "campus": "B",
@@ -2012,7 +2012,7 @@
       "course": "B MATH 122",
       "courseTitle": "PRECALC I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stiber,Bilin Z"
     },
     {
       "campus": "B",
@@ -2022,7 +2022,7 @@
       "course": "B MATH 123",
       "courseTitle": "PRECALC II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hockstra,Dale"
     },
     {
       "campus": "B",
@@ -2032,7 +2032,7 @@
       "course": "B MATH 123",
       "courseTitle": "PRECALC II",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Hockstra,Dale"
     },
     {
       "campus": "B",
@@ -2042,17 +2042,7 @@
       "course": "B MATH 144",
       "courseTitle": "CALC FOR LIFE SCI",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bmath",
-      "deptName": "Mathematics",
-      "term": "SPR2026",
-      "course": "B MATH 215",
-      "courseTitle": "HEALTH STATISTICS",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rajopadhye,Shubha"
     },
     {
       "campus": "B",
@@ -2062,7 +2052,17 @@
       "course": "B MATH 215",
       "courseTitle": "HEALTH STATISTICS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Anderson,Baaska"
+    },
+    {
+      "campus": "B",
+      "dept": "bmath",
+      "deptName": "Mathematics",
+      "term": "SPR2026",
+      "course": "B MATH 215",
+      "courseTitle": "HEALTH STATISTICS",
+      "section": "A",
+      "instructor": "Stiber,Bilin Z"
     },
     {
       "campus": "B",
@@ -2072,7 +2072,7 @@
       "course": "B MATH 215",
       "courseTitle": "HEALTH STATISTICS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Stiber,Bilin Z"
     }
   ]
 }

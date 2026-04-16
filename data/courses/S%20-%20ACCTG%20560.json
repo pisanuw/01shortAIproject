@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-04-16T02:57:22Z",
+  "id": "S%20-%20ACCTG%20560",
+  "course": "S - ACCTG 560",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "SUM2024",
+      "course": "ACCTG 560",
+      "courseTitle": "TOPICS/PROF ACCTG",
+      "section": "A",
+      "instructor": "Quinn,Phil"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "SUM2023",
+      "course": "ACCTG 560",
+      "courseTitle": "TOPICS/PROF ACCTG",
+      "section": "A",
+      "instructor": "Quinn,Phil"
+    }
+  ]
+}

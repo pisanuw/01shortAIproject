@@ -1,7 +1,5778 @@
 {
-  "generatedAt": "2026-04-15T16:27:59Z",
+  "generatedAt": "2026-04-16T02:57:15Z",
   "campus": "S",
   "dept": "envst",
   "deptName": "Program on the Environment",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 100",
+      "courseTitle": "INTRO ENV STUDIES",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 101",
+      "courseTitle": "ORIENTATION TO ENVIR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 200",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "A",
+      "instructor": "Rubinsky,Leah"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 239",
+      "courseTitle": "SUSTAINABLE CHOICES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 250",
+      "courseTitle": "RES METHODS ENV ST",
+      "section": "A",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 280",
+      "courseTitle": "NAT HIST PUGET SOUND",
+      "section": "A",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 295",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 300",
+      "courseTitle": "ANALYSIS ENV CASES",
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 350",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 362",
+      "courseTitle": "INTRO REST ECOL",
+      "section": "A",
+      "instructor": "Bakker,Jon"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 379",
+      "courseTitle": "ENVIRON SOCIOLOGY",
+      "section": "A",
+      "instructor": "Asah,Stanley Tanyi"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 384",
+      "courseTitle": "GLOBAL ENV POLITICS",
+      "section": "A",
+      "instructor": "Litfin,Karen T"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 480",
+      "courseTitle": "SUSTNABILITY STUDIO",
+      "section": "A",
+      "instructor": "Schreier,A"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 489",
+      "courseTitle": "PEER TEACHING ENVIR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 490",
+      "courseTitle": "CAPSTONE PREP",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 491",
+      "courseTitle": "CAPSTONE INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 492",
+      "courseTitle": "CAPSTONE SYNTHESIS",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "A",
+      "instructor": "HAGEN-LUKENS,DEBORAH"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "D",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "E",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 497",
+      "courseTitle": "ENVIR STUDIES SEMR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2020",
+      "course": "ENVIR 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 100",
+      "courseTitle": "INTRO ENV STUDIES",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 101",
+      "courseTitle": "ORIENTATION TO ENVIR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 200",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "B",
+      "instructor": "Alzaroo,Lubna"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 200",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "A",
+      "instructor": "Rubinsky,Leah"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 201",
+      "courseTitle": "CLIMATE GOVERNANCE",
+      "section": "A",
+      "instructor": "Dolsak,Nives"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 239",
+      "courseTitle": "SUSTAINABLE CHOICES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 243",
+      "courseTitle": "ENVIRONMENTAL ETHICS",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 250",
+      "courseTitle": "RES METHODS ENV ST",
+      "section": "A",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 295",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 300",
+      "courseTitle": "ANALYSIS ENV CASES",
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 308",
+      "courseTitle": "AMER INDIAN & ENVIRO",
+      "section": "A",
+      "instructor": "Reid,Joshua L"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 313",
+      "courseTitle": "ENVIR EARTH SCI",
+      "section": "A",
+      "instructor": "Swanson,Terry W"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 315",
+      "courseTitle": "ENVIR PEDAGOGY",
+      "section": "A",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 350",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 400",
+      "courseTitle": "PROFESSIONAL ENV COM",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 431",
+      "courseTitle": "ECOPSYCHOLOGY",
+      "section": "A",
+      "instructor": "Kahn,P"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 439",
+      "courseTitle": "SUSTAINABLE SOCIETY",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 478",
+      "courseTitle": "SUSTAINABLE FISH",
+      "section": "A",
+      "instructor": "Schindler,Daniel"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 480",
+      "courseTitle": "SUSTNABILITY STUDIO",
+      "section": "A",
+      "instructor": "Schreier,Alexa"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 489",
+      "courseTitle": "PEER TEACHING ENVIR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 491",
+      "courseTitle": "CAPSTONE INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "D",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "C",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 100",
+      "courseTitle": "INTRO ENV STUDIES",
+      "section": "A",
+      "instructor": "SB"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 101",
+      "courseTitle": "ORIENTATION TO ENVIR",
+      "section": "A",
+      "instructor": "Wieman,Ana"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 103",
+      "courseTitle": "SOCIETY & THE OCEANS",
+      "section": "A",
+      "instructor": "Christie,Patrick John"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 200",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "A",
+      "instructor": "Alzaroo,Lubna"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 200",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "B",
+      "instructor": "Rubinsky,Leah"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 221",
+      "courseTitle": "US ENVIRON HISTORY",
+      "section": "A",
+      "instructor": "Nash,Linda"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 235",
+      "courseTitle": "INTRO ENVIRO ECON",
+      "section": "A",
+      "instructor": "Rabotyagov,Sergey"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 239",
+      "courseTitle": "SUSTAINABLE CHOICES",
+      "section": "A",
+      "instructor": "Schreier,Alexa"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 240",
+      "courseTitle": "THE URBAN FARM",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 250",
+      "courseTitle": "RES METHODS ENV ST",
+      "section": "A",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 280",
+      "courseTitle": "NAT HIST PUGET SOUND",
+      "section": "A",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 300",
+      "courseTitle": "ANALYSIS ENV CASES",
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 310",
+      "courseTitle": "ENVIR DATA ANALYSIS",
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 312",
+      "courseTitle": "FOOD SYS RESILIENCE",
+      "section": "A",
+      "instructor": "Collier,Sarah M"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 350",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 385",
+      "courseTitle": "WORLD FOOD POLITICS",
+      "section": "A",
+      "instructor": "Litfin,Karen T"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 415",
+      "courseTitle": "DESIGN FOR ENVIR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 418",
+      "courseTitle": "COM & ENVIRONMENT",
+      "section": "A",
+      "instructor": "Russell,Adrienne Marie"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 439",
+      "courseTitle": "SUSTAINABLE SOCIETY",
+      "section": "A",
+      "instructor": "Handwerk,Gary"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 460",
+      "courseTitle": "PWR PRIV & PRSERV",
+      "section": "A",
+      "instructor": "LeCompte,Joyce K."
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 489",
+      "courseTitle": "PEER TEACHING ENVIR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 490",
+      "courseTitle": "CAPSTONE PREP",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 491",
+      "courseTitle": "CAPSTONE INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 492",
+      "courseTitle": "CAPSTONE SYNTHESIS",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "D",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 497",
+      "courseTitle": "ENVIR STUDIES SEMR",
+      "section": "A",
+      "instructor": "Montgomery,David R"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2021",
+      "course": "ENVIR 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2021",
+      "course": "ENVIR 100",
+      "courseTitle": "INTRO ENV STUDIES",
+      "section": "A",
+      "instructor": "Straus,Kristi"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2021",
+      "course": "ENVIR 200",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "A",
+      "instructor": "Rubinsky,Leah"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2021",
+      "course": "ENVIR 235",
+      "courseTitle": "INTRO ENVIRO ECON",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2021",
+      "course": "ENVIR 239",
+      "courseTitle": "SUSTAINABLE CHOICES",
+      "section": "A",
+      "instructor": "Schreier,A"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2021",
+      "course": "ENVIR 240",
+      "courseTitle": "THE URBAN FARM",
+      "section": "A",
+      "instructor": "BRISTOL,MADISON ROSE"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2021",
+      "course": "ENVIR 310",
+      "courseTitle": "ENVIR DATA ANALYSIS",
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2021",
+      "course": "ENVIR 350",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2021",
+      "course": "ENVIR 380",
+      "courseTitle": "WILD ANTHROPOCENE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2021",
+      "course": "ENVIR 384",
+      "courseTitle": "GLOBAL ENV POLITICS",
+      "section": "A",
+      "instructor": "Dubeau,Mathieu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2021",
+      "course": "ENVIR 420",
+      "courseTitle": "SUSTAINABLE CANNABIS",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2021",
+      "course": "ENVIR 460",
+      "courseTitle": "PWR PRIV & PRSERV",
+      "section": "A",
+      "instructor": "LeCompte,Joyce K."
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2021",
+      "course": "ENVIR 489",
+      "courseTitle": "PEER TEACHING ENVIR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2021",
+      "course": "ENVIR 491",
+      "courseTitle": "CAPSTONE INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2021",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2021",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "A",
+      "instructor": "Wheat,E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2021",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2021",
+      "course": "ENVIR 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 100",
+      "courseTitle": "INTRO ENV STUDIES",
+      "section": "A",
+      "instructor": "SB"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 101",
+      "courseTitle": "ORIENTATION TO ENVIR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 200",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "A",
+      "instructor": "Alzaroo,Lubna"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 200",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "B",
+      "instructor": "Rubinsky,Leah"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 239",
+      "courseTitle": "SUSTAINABLE CHOICES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 250",
+      "courseTitle": "RES METHODS ENV ST",
+      "section": "A",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 280",
+      "courseTitle": "NAT HIST PUGET SOUND",
+      "section": "A",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 300",
+      "courseTitle": "ANALYSIS ENV CASES",
+      "section": "A",
+      "instructor": "Straus,Kristi"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 350",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 362",
+      "courseTitle": "INTRO REST ECOL",
+      "section": "A",
+      "instructor": "Bakker,Jon"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 418",
+      "courseTitle": "COM & ENVIRONMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 480",
+      "courseTitle": "SUSTNABILITY STUDIO",
+      "section": "A",
+      "instructor": "Schreier,A"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 489",
+      "courseTitle": "PEER TEACHING ENVIR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 490",
+      "courseTitle": "CAPSTONE PREP",
+      "section": "A",
+      "instructor": "McDonald,P"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 491",
+      "courseTitle": "CAPSTONE INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 492",
+      "courseTitle": "CAPSTONE SYNTHESIS",
+      "section": "A",
+      "instructor": "McDonald,P"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "I",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "A",
+      "instructor": "Metcalfe,Chris Primack"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "E",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 100",
+      "courseTitle": "INTRO ENV STUDIES",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 101",
+      "courseTitle": "ORIENTATION TO ENVIR",
+      "section": "A",
+      "instructor": "Wieman,A"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 211",
+      "courseTitle": "ENVIR JUSTICE",
+      "section": "A",
+      "instructor": "Pena,Devon G"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 221",
+      "courseTitle": "US ENVIRON HISTORY",
+      "section": "A",
+      "instructor": "Coen,Ross A."
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 239",
+      "courseTitle": "SUSTAINABLE CHOICES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 243",
+      "courseTitle": "ENVIRONMENTAL ETHICS",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 301",
+      "courseTitle": "RES METHODS ENV ST",
+      "section": "A",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "A",
+      "instructor": "Alzaroo,Lubna"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "B",
+      "instructor": "WB"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 313",
+      "courseTitle": "ENVIR EARTH SCI",
+      "section": "A",
+      "instructor": "Swanson,Terry W"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 315",
+      "courseTitle": "ENVIR PEDAGOGY",
+      "section": "A",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 350",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 379",
+      "courseTitle": "ENVIRON SOCIOLOGY",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 400",
+      "courseTitle": "PROFESSIONAL ENV COM",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 401",
+      "courseTitle": "ANALYSIS ENV CASES",
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 439",
+      "courseTitle": "SUSTAINABLE SOCIETY",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 478",
+      "courseTitle": "SUSTAINABLE FISH",
+      "section": "A",
+      "instructor": "Schindler,Daniel"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 480",
+      "courseTitle": "SUSTNABILITY STUDIO",
+      "section": "A",
+      "instructor": "Schreier,A"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 489",
+      "courseTitle": "PEER TEACHING ENVIR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 491",
+      "courseTitle": "CAPSTONE INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "C",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "D",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 100",
+      "courseTitle": "INTRO ENV STUDIES",
+      "section": "A",
+      "instructor": "SB"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 101",
+      "courseTitle": "ORIENTATION TO ENVIR",
+      "section": "A",
+      "instructor": "Straus,Kristi"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 103",
+      "courseTitle": "SOCIETY & THE OCEANS",
+      "section": "A",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 201",
+      "courseTitle": "CLIMATE GOVERNANCE",
+      "section": "A",
+      "instructor": "Dolsak,Nives"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 235",
+      "courseTitle": "INTRO ENVIRO ECON",
+      "section": "A",
+      "instructor": "Rabotyagov,Sergey"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 239",
+      "courseTitle": "SUSTAINABLE CHOICES",
+      "section": "A",
+      "instructor": "PELACH,BRYAN"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 240",
+      "courseTitle": "THE URBAN FARM",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 280",
+      "courseTitle": "NAT HIST PUGET SOUND",
+      "section": "A",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 301",
+      "courseTitle": "RES METHODS ENV ST",
+      "section": "A",
+      "instructor": "Cruz,Caitlin"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "A",
+      "instructor": "Alzaroo,Lubna"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "B",
+      "instructor": "Gilbert,Erin"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 310",
+      "courseTitle": "ENVIR DATA ANALYSIS",
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 312",
+      "courseTitle": "FOOD SYS RESILIENCE",
+      "section": "A",
+      "instructor": "Collier,Sarah M"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 350",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 384",
+      "courseTitle": "GLOBAL ENV POLITICS",
+      "section": "A",
+      "instructor": "Litfin,Karen T"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 401",
+      "courseTitle": "ANALYSIS ENV CASES",
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 418",
+      "courseTitle": "COM & ENVIRONMENT",
+      "section": "A",
+      "instructor": "Russell,A"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 431",
+      "courseTitle": "ECOPSYCHOLOGY",
+      "section": "A",
+      "instructor": "Kahn,Peter"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 460",
+      "courseTitle": "PWR PRIV & PRSERV",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 480",
+      "courseTitle": "SUSTNABILITY STUDIO",
+      "section": "A",
+      "instructor": "Schreier,Alexa"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 489",
+      "courseTitle": "PEER TEACHING ENVIR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 490",
+      "courseTitle": "CAPSTONE PREP",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 491",
+      "courseTitle": "CAPSTONE INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 492",
+      "courseTitle": "CAPSTONE SYNTHESIS",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "D",
+      "instructor": "Packard,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 497",
+      "courseTitle": "ENVIR STUDIES SEMR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 497",
+      "courseTitle": "ENVIR STUDIES SEMR",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 497",
+      "courseTitle": "ENVIR STUDIES SEMR",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 497",
+      "courseTitle": "ENVIR STUDIES SEMR",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
+      "course": "ENVIR 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2022",
+      "course": "ENVIR 100",
+      "courseTitle": "INTRO ENV STUDIES",
+      "section": "A",
+      "instructor": "SO"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2022",
+      "course": "ENVIR 235",
+      "courseTitle": "INTRO ENVIRO ECON",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2022",
+      "course": "ENVIR 240",
+      "courseTitle": "THE URBAN FARM",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2022",
+      "course": "ENVIR 243",
+      "courseTitle": "ENVIRONMENTAL ETHICS",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2022",
+      "course": "ENVIR 310",
+      "courseTitle": "ENVIR DATA ANALYSIS",
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2022",
+      "course": "ENVIR 350",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2022",
+      "course": "ENVIR 380",
+      "courseTitle": "WILD ANTHROPOCENE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2022",
+      "course": "ENVIR 384",
+      "courseTitle": "GLOBAL ENV POLITICS",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2022",
+      "course": "ENVIR 420",
+      "courseTitle": "SUSTAINABLE CANNABIS",
+      "section": "A",
+      "instructor": "McDonald,P"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2022",
+      "course": "ENVIR 460",
+      "courseTitle": "PWR PRIV & PRSERV",
+      "section": "A",
+      "instructor": "LeCompte,J"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2022",
+      "course": "ENVIR 489",
+      "courseTitle": "PEER TEACHING ENVIR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2022",
+      "course": "ENVIR 491",
+      "courseTitle": "CAPSTONE INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2022",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2022",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2022",
+      "course": "ENVIR 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 100",
+      "courseTitle": "INTRO ENV STUDIES",
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 101",
+      "courseTitle": "ORIENTATION TO ENVIR",
+      "section": "A",
+      "instructor": "Straus,Kristi"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 103",
+      "courseTitle": "SOCIETY & THE OCEANS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 221",
+      "courseTitle": "US ENVIRON HISTORY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 239",
+      "courseTitle": "SUSTAINABLE CHOICES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 280",
+      "courseTitle": "NAT HIST PUGET SOUND",
+      "section": "A",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 301",
+      "courseTitle": "RES METHODS ENV ST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 350",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 362",
+      "courseTitle": "INTRO REST ECOL",
+      "section": "A",
+      "instructor": "Bakker,Jon"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 401",
+      "courseTitle": "ANALYSIS ENV CASES",
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 418",
+      "courseTitle": "COM & ENVIRONMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 460",
+      "courseTitle": "PWR PRIV & PRSERV",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 480",
+      "courseTitle": "SUSTNABILITY STUDIO",
+      "section": "A",
+      "instructor": "Ozeryansky,Larisa"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 489",
+      "courseTitle": "PEER TEACHING ENVIR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 490",
+      "courseTitle": "CAPSTONE PREP",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 491",
+      "courseTitle": "CAPSTONE INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 492",
+      "courseTitle": "CAPSTONE SYNTHESIS",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "I",
+      "instructor": "Handwerk,Gary"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "A",
+      "instructor": "Metcalfe,Christian Primack"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "E",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2022",
+      "course": "ENVIR 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 100",
+      "courseTitle": "INTRO ENV STUDIES",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 101",
+      "courseTitle": "ORIENTATION TO ENVIR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 239",
+      "courseTitle": "SUSTAINABLE CHOICES",
+      "section": "A",
+      "instructor": "Pelach,Bryan"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 243",
+      "courseTitle": "ENVIRONMENTAL ETHICS",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 301",
+      "courseTitle": "RES METHODS ENV ST",
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "A",
+      "instructor": "Alzaroo,L"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "B",
+      "instructor": "Gilbert,Erin M"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 313",
+      "courseTitle": "ENVIR EARTH SCI",
+      "section": "A",
+      "instructor": "Swanson,Terry W"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 315",
+      "courseTitle": "ENVIR PEDAGOGY",
+      "section": "A",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 341",
+      "courseTitle": "ENERGY & ENVIRON",
+      "section": "A",
+      "instructor": "Stuve,Eric M."
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 350",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 387",
+      "courseTitle": "ENVIR COM SEMINAR",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 400",
+      "courseTitle": "PROFESSIONAL ENV COM",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 401",
+      "courseTitle": "ANALYSIS ENV CASES",
+      "section": "A",
+      "instructor": "Straus,Kristi"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 430",
+      "courseTitle": "REGIONAL ENV ISSUES",
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 439",
+      "courseTitle": "SUSTAINABLE SOCIETY",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 460",
+      "courseTitle": "PWR PRIV & PRSERV",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 478",
+      "courseTitle": "SUSTAINABLE FISH",
+      "section": "A",
+      "instructor": "Schindler,Daniel"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 480",
+      "courseTitle": "SUSTAIN CONSULT PRAC",
+      "section": "A",
+      "instructor": "Ozeryansky,Larisa"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 489",
+      "courseTitle": "PEER TEACHING ENVIR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 491",
+      "courseTitle": "CAPSTONE INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "G",
+      "instructor": "Groves,Jason"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "F",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
+      "course": "ENVIR 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 100",
+      "courseTitle": "INTRO ENV STUDIES",
+      "section": "A",
+      "instructor": "SB"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 101",
+      "courseTitle": "ORIENTATION TO ENVIR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 103",
+      "courseTitle": "SOCIETY & THE OCEANS",
+      "section": "A",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 201",
+      "courseTitle": "CLIMATE GOVERNANCE",
+      "section": "A",
+      "instructor": "Dolsak,Nives"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 221",
+      "courseTitle": "US ENVIRON HISTORY",
+      "section": "A",
+      "instructor": "Coen,Ross"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 235",
+      "courseTitle": "INTRO ENVIRO ECON",
+      "section": "A",
+      "instructor": "Rabotyagov,Sergey"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 240",
+      "courseTitle": "THE URBAN FARM",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 280",
+      "courseTitle": "NAT HIST PUGET SOUND",
+      "section": "A",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 295",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 301",
+      "courseTitle": "RES METHODS ENV ST",
+      "section": "A",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "A",
+      "instructor": "Alzaroo,Lubna"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "B",
+      "instructor": "Gilbert,Erin"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 310",
+      "courseTitle": "ENVIR DATA ANALYSIS",
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 350",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 384",
+      "courseTitle": "GLOBAL ENV POLITICS",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 401",
+      "courseTitle": "ANALYSIS ENV CASES",
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 418",
+      "courseTitle": "COM & ENVIRONMENT",
+      "section": "A",
+      "instructor": "Russell,Adrienne Marie"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 460",
+      "courseTitle": "PWR PRIV & PRSERV",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 480",
+      "courseTitle": "SUSTAIN CONSULT PRAC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 490",
+      "courseTitle": "CAPSTONE PREP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 491",
+      "courseTitle": "CAPSTONE INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 492",
+      "courseTitle": "CAPSTONE SYNTHESIS",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "D",
+      "instructor": "Handwerk,Gary"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 497",
+      "courseTitle": "ENVIR STUDIES SEMR",
+      "section": "B",
+      "instructor": "Handwerk,Gary"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 497",
+      "courseTitle": "ENVIR STUDIES SEMR",
+      "section": "A",
+      "instructor": "Montgomery,D"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 497",
+      "courseTitle": "ENVIR STUDIES SEMR",
+      "section": "C",
+      "instructor": "WATTERS,LAWRENCE"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2023",
+      "course": "ENVIR 600",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2023",
+      "course": "ENVIR 235",
+      "courseTitle": "INTRO ENVIRO ECON",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2023",
+      "course": "ENVIR 240",
+      "courseTitle": "THE URBAN FARM",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2023",
+      "course": "ENVIR 295",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2023",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "A",
+      "instructor": "Gilbert,Erin"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2023",
+      "course": "ENVIR 310",
+      "courseTitle": "ENVIR DATA ANALYSIS",
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2023",
+      "course": "ENVIR 350",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2023",
+      "course": "ENVIR 380",
+      "courseTitle": "WILD ANTHROPOCENE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2023",
+      "course": "ENVIR 420",
+      "courseTitle": "SUSTAINABLE CANNABIS",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2023",
+      "course": "ENVIR 491",
+      "courseTitle": "CAPSTONE INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2023",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2023",
+      "course": "ENVIR 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2023",
+      "course": "ENVIR 600",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2023",
+      "course": "ENVIR 100",
+      "courseTitle": "INTRO ENV STUDIES",
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2023",
+      "course": "ENVIR 101",
+      "courseTitle": "ORIENTATION TO ENVIR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2023",
+      "course": "ENVIR 240",
+      "courseTitle": "THE URBAN FARM",
+      "section": "A",
+      "instructor": "Horwedel,Olivia Lane"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2023",
+      "course": "ENVIR 280",
+      "courseTitle": "NAT HIST PUGET SOUND",
+      "section": "A",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2023",
+      "course": "ENVIR 301",
+      "courseTitle": "RES METHODS ENV ST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2023",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "A",
+      "instructor": "Alzaroo,Lubna"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2023",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "B",
+      "instructor": "Gilbert,Erin"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2023",
+      "course": "ENVIR 350",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2023",
+      "course": "ENVIR 362",
+      "courseTitle": "INTRO REST ECOL",
+      "section": "A",
+      "instructor": "Bakker,Jon"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2023",
+      "course": "ENVIR 401",
+      "courseTitle": "ANALYSIS ENV CASES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2023",
+      "course": "ENVIR 460",
+      "courseTitle": "PWR PRIV & PRSERV",
+      "section": "A",
+      "instructor": "Alzaroo,Lubna"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2023",
+      "course": "ENVIR 490",
+      "courseTitle": "CAPSTONE PREP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2023",
+      "course": "ENVIR 491",
+      "courseTitle": "CAPSTONE INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2023",
+      "course": "ENVIR 492",
+      "courseTitle": "CAPSTONE SYNTHESIS",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2023",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "I",
+      "instructor": "Handwerk,Gary"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2023",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "A",
+      "instructor": "Metcalfe,Christian Primack"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2023",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2023",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2023",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "E",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2023",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2023",
+      "course": "ENVIR 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2024",
+      "course": "ENVIR 100",
+      "courseTitle": "INTRO ENV STUDIES",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2024",
+      "course": "ENVIR 101",
+      "courseTitle": "ORIENTATION TO ENVIR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2024",
+      "course": "ENVIR 239",
+      "courseTitle": "SUSTAINABLE CHOICES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2024",
+      "course": "ENVIR 243",
+      "courseTitle": "ENVIRONMENTAL ETHICS",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2024",
+      "course": "ENVIR 310",
+      "courseTitle": "ENVIR DATA ANALYSIS",
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2024",
+      "course": "ENVIR 313",
+      "courseTitle": "ENVIR EARTH SCI",
+      "section": "A",
+      "instructor": "Swanson,Terry W"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2024",
+      "course": "ENVIR 315",
+      "courseTitle": "ENVIR PEDAGOGY",
+      "section": "A",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2024",
+      "course": "ENVIR 341",
+      "courseTitle": "ENERGY & ENVIRON",
+      "section": "A",
+      "instructor": "Stuve,Eric M."
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2024",
+      "course": "ENVIR 350",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2024",
+      "course": "ENVIR 379",
+      "courseTitle": "ENVIRON SOCIOLOGY",
+      "section": "A",
+      "instructor": "SANTANA,FRANCISCA N"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2024",
+      "course": "ENVIR 387",
+      "courseTitle": "ENVIR COM SEMINAR",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2024",
+      "course": "ENVIR 401",
+      "courseTitle": "ANALYSIS ENV CASES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2024",
+      "course": "ENVIR 417",
+      "courseTitle": "ENVIRONMENTAL PHIL",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2024",
+      "course": "ENVIR 439",
+      "courseTitle": "SUSTAINABLE SOCIETY",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2024",
+      "course": "ENVIR 478",
+      "courseTitle": "SUSTAINABLE FISH",
+      "section": "A",
+      "instructor": "Schindler,Daniel"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2024",
+      "course": "ENVIR 491",
+      "courseTitle": "CAPSTONE INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2024",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2024",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2024",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "F",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2024",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2024",
+      "course": "ENVIR 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 100",
+      "courseTitle": "INTRO ENV STUDIES",
+      "section": "A",
+      "instructor": "SB"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 101",
+      "courseTitle": "ORIENTATION TO ENVIR",
+      "section": "A",
+      "instructor": "Straus,Kristi"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 103",
+      "courseTitle": "SOCIETY & THE OCEANS",
+      "section": "A",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 201",
+      "courseTitle": "CLIMATE GOVERNANCE",
+      "section": "A",
+      "instructor": "Dolsak,Nives"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 221",
+      "courseTitle": "US ENVIRON HISTORY",
+      "section": "A",
+      "instructor": "Coen,Ross"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 235",
+      "courseTitle": "INTRO ENVIRO ECON",
+      "section": "A",
+      "instructor": "Rabotyagov,Sergey"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 240",
+      "courseTitle": "THE URBAN FARM",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 280",
+      "courseTitle": "NAT HIST PUGET SOUND",
+      "section": "A",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 301",
+      "courseTitle": "RES METHODS ENV ST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "A",
+      "instructor": "Alzaroo,Lubna"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "B",
+      "instructor": "Gilbert,Erin"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 312",
+      "courseTitle": "FOOD SYS RESILIENCE",
+      "section": "A",
+      "instructor": "Collier,Sarah M"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 350",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 384",
+      "courseTitle": "GLOBAL ENV POLITICS",
+      "section": "A",
+      "instructor": "Litfin,Karen T"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 388",
+      "courseTitle": "SUSTAINABILITY SEMNR",
+      "section": "A",
+      "instructor": "Packard,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 401",
+      "courseTitle": "ANALYSIS ENV CASES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 430",
+      "courseTitle": "REGIONAL ENV ISSUES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 431",
+      "courseTitle": "ECOPSYCHOLOGY",
+      "section": "A",
+      "instructor": "Kahn,Peter"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 460",
+      "courseTitle": "PWR PRIV & PRSERV",
+      "section": "A",
+      "instructor": "Alzaroo,Lubna"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 480",
+      "courseTitle": "SUSTAIN CONSULT PRAC",
+      "section": "A",
+      "instructor": "Pursell,Fred"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 490",
+      "courseTitle": "CAPSTONE PREP",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 491",
+      "courseTitle": "CAPSTONE INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 492",
+      "courseTitle": "CAPSTONE SYNTHESIS",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "F",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 497",
+      "courseTitle": "ENVIR STUDIES SEMR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 497",
+      "courseTitle": "ENVIR STUDIES SEMR",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 497",
+      "courseTitle": "ENVIR STUDIES SEMR",
+      "section": "C",
+      "instructor": "WATTERS,LAWRENCE"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2024",
+      "course": "ENVIR 550",
+      "courseTitle": "GLOB COMENVIR TECH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2024",
+      "course": "ENVIR 100",
+      "courseTitle": "INTRO ENV STUDIES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2024",
+      "course": "ENVIR 235",
+      "courseTitle": "INTRO ENVIRO ECON",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2024",
+      "course": "ENVIR 240",
+      "courseTitle": "THE URBAN FARM",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2024",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "A",
+      "instructor": "WO"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2024",
+      "course": "ENVIR 310",
+      "courseTitle": "ENVIR DATA ANALYSIS",
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2024",
+      "course": "ENVIR 340",
+      "courseTitle": "FARM PRACTICUM",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2024",
+      "course": "ENVIR 350",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2024",
+      "course": "ENVIR 380",
+      "courseTitle": "WILD ANTHROPOCENE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2024",
+      "course": "ENVIR 420",
+      "courseTitle": "SUSTAINABLE CANNABIS",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2024",
+      "course": "ENVIR 460",
+      "courseTitle": "PWR PRIV & PRSERV",
+      "section": "A",
+      "instructor": "Alzaroo,Lubna"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2024",
+      "course": "ENVIR 491",
+      "courseTitle": "CAPSTONE INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2024",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2024",
+      "course": "ENVIR 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2024",
+      "course": "ENVIR 100",
+      "courseTitle": "INTRO ENV STUDIES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2024",
+      "course": "ENVIR 101",
+      "courseTitle": "ORIENTATION TO ENVIR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2024",
+      "course": "ENVIR 240",
+      "courseTitle": "THE URBAN FARM",
+      "section": "A",
+      "instructor": "Horwedel,Olivia Lane"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2024",
+      "course": "ENVIR 301",
+      "courseTitle": "RES METHODS ENV ST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2024",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "A",
+      "instructor": "Alzaroo,Lubna"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2024",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2024",
+      "course": "ENVIR 310",
+      "courseTitle": "ENVIR DATA ANALYSIS",
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2024",
+      "course": "ENVIR 350",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2024",
+      "course": "ENVIR 362",
+      "courseTitle": "INTRO REST ECOL",
+      "section": "A",
+      "instructor": "Larson,Julie"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2024",
+      "course": "ENVIR 386",
+      "courseTitle": "ENV JUSTICE SEMINAR",
+      "section": "B",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2024",
+      "course": "ENVIR 386",
+      "courseTitle": "ENV JUSTICE SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2024",
+      "course": "ENVIR 389",
+      "courseTitle": "AG & URBAN FOOD SEM",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2024",
+      "course": "ENVIR 401",
+      "courseTitle": "ANALYSIS ENV CASES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2024",
+      "course": "ENVIR 435",
+      "courseTitle": "CLIMATE JUST AT UNIV",
+      "section": "A",
+      "instructor": "Al-Saleh,Danya"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2024",
+      "course": "ENVIR 460",
+      "courseTitle": "PWR PRIV & PRSERV",
+      "section": "A",
+      "instructor": "Alzaroo,Lubna"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2024",
+      "course": "ENVIR 490",
+      "courseTitle": "CAPSTONE PREP",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2024",
+      "course": "ENVIR 491",
+      "courseTitle": "CAPSTONE INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2024",
+      "course": "ENVIR 492",
+      "courseTitle": "CAPSTONE SYNTHESIS",
+      "section": "A",
+      "instructor": "WB"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2024",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "A",
+      "instructor": "Metcalfe,Christian Primack"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2024",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2024",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2024",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2024",
+      "course": "ENVIR 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2024",
+      "course": "ENVIR 600",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 100",
+      "courseTitle": "INTRO ENV STUDIES",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 101",
+      "courseTitle": "ORIENTATION TO ENVIR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 110",
+      "courseTitle": "FOOD & ENVIRONMENT",
+      "section": "A",
+      "instructor": "Gephart,Jessica Ann"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 211",
+      "courseTitle": "ENVIR JUSTICE",
+      "section": "A",
+      "instructor": "Pena,Devon G"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 221",
+      "courseTitle": "US ENVIRON HISTORY",
+      "section": "A",
+      "instructor": "Coen,Ross"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 239",
+      "courseTitle": "SUSTAINABLE CHOICES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 243",
+      "courseTitle": "ENVIRONMENTAL ETHICS",
+      "section": "A",
+      "instructor": "Gardiner,Stephen M."
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 301",
+      "courseTitle": "RES METHODS ENV ST",
+      "section": "A",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "B",
+      "instructor": "Alzaroo,Lubna"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "A",
+      "instructor": "MacFarland,Sarah Knox"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 310",
+      "courseTitle": "ENVIR DATA ANALYSIS",
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 315",
+      "courseTitle": "ENVIR PEDAGOGY",
+      "section": "A",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 341",
+      "courseTitle": "ENERGY & ENVIRON",
+      "section": "A",
+      "instructor": "Stuve,Eric M."
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 350",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 379",
+      "courseTitle": "ENVIRON SOCIOLOGY",
+      "section": "A",
+      "instructor": "SANTANA,FRANCISCA N"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 379",
+      "courseTitle": "ENVIRON SOCIOLOGY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 387",
+      "courseTitle": "ENVIR COM SEMINAR",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 387",
+      "courseTitle": "ENVIR COM SEMINAR",
+      "section": "B",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 389",
+      "courseTitle": "AG & URBAN FOOD SEM",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 400",
+      "courseTitle": "PROFESSIONAL ENV COM",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 401",
+      "courseTitle": "ANALYSIS ENV CASES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 430",
+      "courseTitle": "REGIONAL ENV ISSUES",
+      "section": "A",
+      "instructor": "Alzaroo,Lubna"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 433",
+      "courseTitle": "ENVIR DEGRAD TROPIC",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 439",
+      "courseTitle": "SUSTAINABLE SOCIETY",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 491",
+      "courseTitle": "CAPSTONE INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "D",
+      "instructor": "Ben Ami,Shai David"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "C",
+      "instructor": "Groves,Jason"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2025",
+      "course": "ENVIR 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 100",
+      "courseTitle": "INTRO ENV STUDIES",
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 101",
+      "courseTitle": "ORIENTATION TO ENVIR",
+      "section": "A",
+      "instructor": "Straus,Kristi"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 103",
+      "courseTitle": "SOCIETY & THE OCEANS",
+      "section": "A",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 201",
+      "courseTitle": "CLIMATE GOVERNANCE",
+      "section": "A",
+      "instructor": "Dolsak,Nives"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 235",
+      "courseTitle": "INTRO ENVIRO ECON",
+      "section": "A",
+      "instructor": "Rabotyagov,Sergey"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 240",
+      "courseTitle": "THE URBAN FARM",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 280",
+      "courseTitle": "NAT HIST PUGET SOUND",
+      "section": "A",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 295",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 301",
+      "courseTitle": "RES METHODS ENV ST",
+      "section": "A",
+      "instructor": "Straus,Kristi"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "B",
+      "instructor": "Alzaroo,Lubna"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "A",
+      "instructor": "MacFarland,Sarah Knox"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 312",
+      "courseTitle": "FOOD SYS RESILIENCE",
+      "section": "A",
+      "instructor": "Collier,Sarah M"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 350",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 388",
+      "courseTitle": "SUSTAINABILITY SEMNR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 388",
+      "courseTitle": "SUSTAINABILITY SEMNR",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 401",
+      "courseTitle": "ANALYSIS ENV CASES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 405",
+      "courseTitle": "FOSSL FUEL MID EAST",
+      "section": "A",
+      "instructor": "Al-Saleh,Danya"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 418",
+      "courseTitle": "COM & ENVIRONMENT",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 430",
+      "courseTitle": "REGIONAL ENV ISSUES",
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 431",
+      "courseTitle": "ECOPSYCHOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 460",
+      "courseTitle": "PWR, PRIV & PRSERV",
+      "section": "A",
+      "instructor": "Alzaroo,Lubna"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 466",
+      "courseTitle": "CLIMATE JUSTICE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 480",
+      "courseTitle": "SUSTAIN CONSULT PRAC",
+      "section": "A",
+      "instructor": "Pursell,Fred"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 490",
+      "courseTitle": "CAPSTONE PREP",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 491",
+      "courseTitle": "CAPSTONE INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 492",
+      "courseTitle": "CAPSTONE SYNTHESIS",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "A",
+      "instructor": "Montgomery,David R"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 497",
+      "courseTitle": "ENVIR STUDIES SEMR",
+      "section": "B",
+      "instructor": "Handwerk,Gary"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 497",
+      "courseTitle": "ENVIR STUDIES SEMR",
+      "section": "C",
+      "instructor": "WATTERS,LAWRENCE"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2025",
+      "course": "ENVIR 550",
+      "courseTitle": "GLOB COMENVIR TECH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2025",
+      "course": "ENVIR 100",
+      "courseTitle": "INTRO ENV STUDIES",
+      "section": "A",
+      "instructor": "EA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2025",
+      "course": "ENVIR 235",
+      "courseTitle": "INTRO ENVIRO ECON",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2025",
+      "course": "ENVIR 235",
+      "courseTitle": "INTRO ENVIRO ECON",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2025",
+      "course": "ENVIR 240",
+      "courseTitle": "THE URBAN FARM",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2025",
+      "course": "ENVIR 310",
+      "courseTitle": "ENVIR DATA ANALYSIS",
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2025",
+      "course": "ENVIR 340",
+      "courseTitle": "FARM PRACTICUM",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2025",
+      "course": "ENVIR 350",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2025",
+      "course": "ENVIR 380",
+      "courseTitle": "WILD ANTHROPOCENE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2025",
+      "course": "ENVIR 384",
+      "courseTitle": "GLOBAL ENV POLITICS",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2025",
+      "course": "ENVIR 420",
+      "courseTitle": "SUSTAINABLE CANNABIS",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2025",
+      "course": "ENVIR 460",
+      "courseTitle": "PWR, PRIV & PRSERV",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2025",
+      "course": "ENVIR 491",
+      "courseTitle": "CAPSTONE INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2025",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2025",
+      "course": "ENVIR 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 100",
+      "courseTitle": "INTRO ENV STUDIES",
+      "section": "A",
+      "instructor": "Straus,Kristi"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 101",
+      "courseTitle": "ORIENTATION TO ENVIR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 200",
+      "courseTitle": "SUSTAIN & ENVIR JUST",
+      "section": "A",
+      "instructor": "Taylor,Jesse Oak"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 212",
+      "courseTitle": "GLBL ENVIRO JUSTICE",
+      "section": "A",
+      "instructor": "Daro Minarchek,Rebakah"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 212",
+      "courseTitle": "GLBL ENVIRO JUSTICE",
+      "section": "B",
+      "instructor": "Daro Minarchek,Rebakah"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 240",
+      "courseTitle": "THE URBAN FARM",
+      "section": "A",
+      "instructor": "Horwedel,Olivia Lane"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 301",
+      "courseTitle": "RES METHODS ENV ST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "A",
+      "instructor": "MacFarland,Sarah Knox"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 310",
+      "courseTitle": "ENVIR DATA ANALYSIS",
+      "section": "A",
+      "instructor": "Patrone,Will"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 315",
+      "courseTitle": "ENVIR PEDAGOGY",
+      "section": "A",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 350",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 362",
+      "courseTitle": "INTRO REST ECOL",
+      "section": "A",
+      "instructor": "Bakker,Jon"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 386",
+      "courseTitle": "ENV JUSTICE SEMINAR",
+      "section": "B",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 386",
+      "courseTitle": "ENV JUSTICE SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 389",
+      "courseTitle": "AG & URBAN FOOD SEM",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 401",
+      "courseTitle": "ANALYSIS ENV CASES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 490",
+      "courseTitle": "CAPSTONE PREP",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 491",
+      "courseTitle": "CAPSTONE INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 492",
+      "courseTitle": "CAPSTONE SYNTHESIS",
+      "section": "A",
+      "instructor": "WB"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "A",
+      "instructor": "Metcalfe,Christian Primack"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2025",
+      "course": "ENVIR 600",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 100",
+      "courseTitle": "INTRO ENV STUDIES",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 101",
+      "courseTitle": "ORIENTATION TO ENVIR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 103",
+      "courseTitle": "SOCIETY & THE OCEANS",
+      "section": "A",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 110",
+      "courseTitle": "FOOD & ENVIRONMENT",
+      "section": "A",
+      "instructor": "Gephart,Jessica Ann"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 200",
+      "courseTitle": "SUSTAIN & ENVIR JUST",
+      "section": "A",
+      "instructor": "Groves,Jason"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 221",
+      "courseTitle": "US ENVIRON HISTORY",
+      "section": "A",
+      "instructor": "Coen,Ross"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 239",
+      "courseTitle": "SUSTAINABLE CHOICES",
+      "section": "A",
+      "instructor": "Straus,Kristi"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 243",
+      "courseTitle": "ENVIRONMENTAL ETHICS",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 295",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Groves,Jason"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 301",
+      "courseTitle": "RES METHODS ENV ST",
+      "section": "A",
+      "instructor": "Pickett,Bea E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "A",
+      "instructor": "MacFarland,Sarah Knox"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 308",
+      "courseTitle": "AMER INDIAN & ENVIRO",
+      "section": "A",
+      "instructor": "Reid,Joshua L"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 341",
+      "courseTitle": "ENERGY & ENVIRON",
+      "section": "A",
+      "instructor": "Stuve,Eric M."
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 350",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 361",
+      "courseTitle": "ENV JUSTICE ISSUES",
+      "section": "A",
+      "instructor": "Alzaroo,Lubna"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 384",
+      "courseTitle": "GLOBAL ENV POLITICS",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 387",
+      "courseTitle": "ENVIR COM SEMINAR",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 387",
+      "courseTitle": "ENVIR COM SEMINAR",
+      "section": "B",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 389",
+      "courseTitle": "AG & URBAN FOOD SEM",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 400",
+      "courseTitle": "PROFESSIONAL ENV COM",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 401",
+      "courseTitle": "ANALYSIS ENV CASES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 439",
+      "courseTitle": "SUSTAINABLE SOCIETY",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 460",
+      "courseTitle": "PWR, PRIV & PRSERV",
+      "section": "A",
+      "instructor": "Alzaroo,Lubna"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 478",
+      "courseTitle": "SUSTAINABLE FISH",
+      "section": "A",
+      "instructor": "Schindler,Daniel"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 491",
+      "courseTitle": "CAPSTONE INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 497",
+      "courseTitle": "ENVIR STUDIES SEMR",
+      "section": "A",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2026",
+      "course": "ENVIR 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 100",
+      "courseTitle": "INTRO ENV STUDIES",
+      "section": "A",
+      "instructor": "EB"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 101",
+      "courseTitle": "ORIENTATION TO ENVIR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 200",
+      "courseTitle": "SUSTAIN & ENVIR JUST",
+      "section": "A",
+      "instructor": "Alzaroo,Lubna"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 201",
+      "courseTitle": "CLIMATE GOVERNANCE",
+      "section": "A",
+      "instructor": "Dolsak,Nives"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 235",
+      "courseTitle": "INTRO ENVIRO ECON",
+      "section": "A",
+      "instructor": "Rabotyagov,Sergey"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 240",
+      "courseTitle": "THE URBAN FARM",
+      "section": "A",
+      "instructor": "Wheat,Eli E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 280",
+      "courseTitle": "NAT HIST PUGET SOUND",
+      "section": "A",
+      "instructor": "Billo,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 295",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 301",
+      "courseTitle": "RES METHODS ENV ST",
+      "section": "A",
+      "instructor": "Pickett,Bea E"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "A",
+      "instructor": "MacFarland,Sarah Knox"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 310",
+      "courseTitle": "ENVIR DATA ANALYSIS",
+      "section": "A",
+      "instructor": "Patrone,Will"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 310",
+      "courseTitle": "ENVIR DATA ANALYSIS",
+      "section": "B",
+      "instructor": "Patrone,Will"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 312",
+      "courseTitle": "FOOD SYS RESILIENCE",
+      "section": "A",
+      "instructor": "Collier,Sarah M"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 350",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 388",
+      "courseTitle": "SUSTAINABILITY SEMNR",
+      "section": "A",
+      "instructor": "Packard,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 388",
+      "courseTitle": "SUSTAINABILITY SEMNR",
+      "section": "B",
+      "instructor": "Packard,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 401",
+      "courseTitle": "ANALYSIS ENV CASES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 418",
+      "courseTitle": "COM & ENVIRONMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 431",
+      "courseTitle": "ECOPSYCHOLOGY",
+      "section": "A",
+      "instructor": "Kahn,Peter"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 433",
+      "courseTitle": "ENVIR DEGRAD TROPIC",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 490",
+      "courseTitle": "CAPSTONE PREP",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 491",
+      "courseTitle": "CAPSTONE INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 492",
+      "courseTitle": "CAPSTONE SYNTHESIS",
+      "section": "A",
+      "instructor": "McDonald,P. Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 497",
+      "courseTitle": "ENVIR STUDIES SEMR",
+      "section": "A",
+      "instructor": "Packard,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 498",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2026",
+      "course": "ENVIR 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
 }

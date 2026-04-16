@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Cook%2CC",
+  "professor": "Cook,C",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "polisci",
+      "deptName": "Political Science",
+      "term": "SPR2021",
+      "course": "POL S 461",
+      "courseTitle": "MASS MEDIA LAW",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "SPR2021",
+      "course": "COM 440",
+      "courseTitle": "MASS MEDIA LAW",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Lindbloom-Airey%2CSam",
+  "professor": "Lindbloom-Airey,Sam",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2022",
+      "course": "MATH 125",
+      "courseTitle": "CALC ANALYT GEOM II",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "AUT2021",
+      "course": "MATH 207",
+      "courseTitle": "INTRO TO DIFF EQ",
+      "section": "I"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2021",
+      "course": "MATH 307",
+      "courseTitle": "INTRO TO DIFF EQ",
+      "section": "C"
+    }
+  ]
+}

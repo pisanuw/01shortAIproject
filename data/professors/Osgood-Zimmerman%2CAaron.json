@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Osgood-Zimmerman%2CAaron",
+  "professor": "Osgood-Zimmerman,Aaron",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2021",
+      "course": "STAT 394",
+      "courseTitle": "PROBABILITY I",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "soc",
+      "deptName": "Sociology",
+      "term": "WIN2021",
+      "course": "SOC 512",
+      "courseTitle": "MATH FOR SOC SCIS",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Clare%2CAvery",
+  "professor": "Clare,Avery",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "glits",
+      "deptName": "Global Literary Studies",
+      "term": "SPR2025",
+      "course": "GLITS 311",
+      "courseTitle": "LIT ACROSS TIMES",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2025",
+      "course": "CHIN 373",
+      "courseTitle": "CHINESE POETRY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "complit",
+      "deptName": "Comparative Literature",
+      "term": "SPR2025",
+      "course": "C LIT 322",
+      "courseTitle": "ASIAN & WESTERN LIT",
+      "section": "D"
+    }
+  ]
+}

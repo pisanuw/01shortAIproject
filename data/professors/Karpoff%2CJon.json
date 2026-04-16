@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Karpoff%2CJon",
+  "professor": "Karpoff,Jon",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "finance",
+      "deptName": "Finance",
+      "term": "WIN2024",
+      "course": "FIN 591",
+      "courseTitle": "CORPORATE FINANCE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "finance",
+      "deptName": "Finance",
+      "term": "WIN2023",
+      "course": "FIN 589",
+      "courseTitle": "ADV TOPICS FINANCE",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "finance",
+      "deptName": "Finance",
+      "term": "AUT2022",
+      "course": "FIN 591",
+      "courseTitle": "CORPORATE FINANCE",
+      "section": "A"
+    }
+  ]
+}

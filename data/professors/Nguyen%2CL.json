@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Nguyen%2CL",
+  "professor": "Nguyen,L",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "medeck",
+      "deptName": "Medicine Elective Clerkships",
+      "term": "AUT2022",
+      "course": "MEDECK 624",
+      "courseTitle": "HOSP SUB I SEA",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "medeck",
+      "deptName": "Medicine Elective Clerkships",
+      "term": "AUT2021",
+      "course": "MEDECK 624",
+      "courseTitle": "HOSP SUB I SEA",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "medeck",
+      "deptName": "Medicine Elective Clerkships",
+      "term": "AUT2020",
+      "course": "MEDECK 624",
+      "courseTitle": "HOSP SUB I SEA",
+      "section": "A"
+    }
+  ]
+}

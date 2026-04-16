@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Li%2CAng",
+  "professor": "Li,Ang",
+  "recordCount": 8,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "WIN2026",
+      "course": "E E 525",
+      "courseTitle": "VLSI II",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "WIN2026",
+      "course": "E E 477",
+      "courseTitle": "VLSI II",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "WIN2026",
+      "course": "CSE 567",
+      "courseTitle": "DIGITAL SYST DESIGN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "AUT2025",
+      "course": "E E 476",
+      "courseTitle": "INTRO VLSI DESIGN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "SPR2025",
+      "course": "E E 526",
+      "courseTitle": "DIG DESIGN PROJECTS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "SPR2025",
+      "course": "E E 478",
+      "courseTitle": "DIG DESIGN PROJECTS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "WIN2025",
+      "course": "E E 538",
+      "courseTitle": "TOP ELECT CIR DES",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "AUT2024",
+      "course": "E E 476",
+      "courseTitle": "INTRO VLSI DESIGN",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Branch%2CT",
+  "professor": "Branch,T",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fish",
+      "deptName": "Aquatic and Fishery Sciences",
+      "term": "WIN2022",
+      "course": "FISH 554",
+      "courseTitle": "GRAPHICS IN R",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fish",
+      "deptName": "Aquatic and Fishery Sciences",
+      "term": "WIN2021",
+      "course": "FISH 554",
+      "courseTitle": "GRAPHICS IN R",
+      "section": "A"
+    }
+  ]
+}

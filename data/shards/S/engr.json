@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:59Z",
+  "generatedAt": "2026-04-16T02:57:14Z",
   "campus": "S",
   "dept": "engr",
   "deptName": "Engineering",
@@ -692,7 +692,7 @@
       "course": "ENGR 105",
       "courseTitle": "INTRO ENGR DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Caudle,D"
     },
     {
       "campus": "S",
@@ -3662,7 +3662,7 @@
       "course": "ENGR 498",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Metcalfe,Christian Primack"
     },
     {
       "campus": "S",
@@ -3881,8 +3881,8 @@
       "term": "WIN2023",
       "course": "ENGR 202",
       "courseTitle": "SPECIAL TOPICS",
-      "section": "B",
-      "instructor": "More,Michael S"
+      "section": "A",
+      "instructor": "Caudle,D"
     },
     {
       "campus": "S",
@@ -3891,8 +3891,8 @@
       "term": "WIN2023",
       "course": "ENGR 202",
       "courseTitle": "SPECIAL TOPICS",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "More,Michael S"
     },
     {
       "campus": "S",
@@ -4262,7 +4262,7 @@
       "course": "ENGR 202",
       "courseTitle": "SPECIAL TOPICS",
       "section": "C",
-      "instructor": "More,Michael S"
+      "instructor": "A More,Michael S"
     },
     {
       "campus": "S",
@@ -4612,7 +4612,7 @@
       "course": "ENGR 106",
       "courseTitle": "EXPERIENCE ENGR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Caudle,Dei"
     },
     {
       "campus": "S",
@@ -4842,7 +4842,7 @@
       "course": "ENGR 297",
       "courseTitle": "VERT INT PROJECTS",
       "section": "A",
-      "instructor": "Whittington,Jan"
+      "instructor": "C Whittington,Jan"
     },
     {
       "campus": "S",
@@ -4922,7 +4922,7 @@
       "course": "ENGR 497",
       "courseTitle": "VERT INT PROJECTS",
       "section": "A",
-      "instructor": "Whittington,Jan"
+      "instructor": "C Whittington,Jan"
     },
     {
       "campus": "S",
@@ -4932,7 +4932,7 @@
       "course": "ENGR 498",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Metcalfe,Christian Primack"
     },
     {
       "campus": "S",
@@ -5859,6 +5859,376 @@
       "dept": "engr",
       "deptName": "Engineering",
       "term": "SUM2024",
+      "course": "ENGR 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 101",
+      "courseTitle": "ENGR EXPLORATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 101",
+      "courseTitle": "ENGR EXPLORATION",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 106",
+      "courseTitle": "EXPERIENCE ENGR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 120",
+      "courseTitle": "STARS MATH PROBSOLV",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 191",
+      "courseTitle": "MATH PROB SOLV ENGR",
+      "section": "D",
+      "instructor": "Brodkin,Peter"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 191",
+      "courseTitle": "MATH PROB SOLV ENGR",
+      "section": "E",
+      "instructor": "Brodkin,Peter"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 191",
+      "courseTitle": "MATH PROB SOLV ENGR",
+      "section": "I",
+      "instructor": "Hermann,Lilliana"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 191",
+      "courseTitle": "MATH PROB SOLV ENGR",
+      "section": "A",
+      "instructor": "Ho,Peter Trung"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 191",
+      "courseTitle": "MATH PROB SOLV ENGR",
+      "section": "B",
+      "instructor": "Ho,Peter Trung"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 191",
+      "courseTitle": "MATH PROB SOLV ENGR",
+      "section": "F",
+      "instructor": "Ito,Millie"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 191",
+      "courseTitle": "MATH PROB SOLV ENGR",
+      "section": "G",
+      "instructor": "Ito,Millie"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 191",
+      "courseTitle": "MATH PROB SOLV ENGR",
+      "section": "H",
+      "instructor": "Ito,Millie"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 191",
+      "courseTitle": "MATH PROB SOLV ENGR",
+      "section": "C",
+      "instructor": "Levias,Sheldon R"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 192",
+      "courseTitle": "CHEM PROB SOLV ENGR",
+      "section": "B",
+      "instructor": "Hermann,Lilliana"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 192",
+      "courseTitle": "CHEM PROB SOLV ENGR",
+      "section": "A",
+      "instructor": "Spencer,Lynne"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 192",
+      "courseTitle": "CHEM PROB SOLV ENGR",
+      "section": "E",
+      "instructor": "Spencer,Lynne"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 192",
+      "courseTitle": "CHEM PROB SOLV ENGR",
+      "section": "G",
+      "instructor": "Spencer,Lynne"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 193",
+      "courseTitle": "PHYS PROB SOLV ENGR",
+      "section": "A",
+      "instructor": "Brodkin,Peter"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 193",
+      "courseTitle": "PHYS PROB SOLV ENGR",
+      "section": "B",
+      "instructor": "Ho,Peter Trung"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 197",
+      "courseTitle": "ENGR STARS PROB SOLV",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 197",
+      "courseTitle": "ENGR STARS PROB SOLV",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 297",
+      "courseTitle": "VERT INT PROJECTS",
+      "section": "A",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 320",
+      "courseTitle": "ENGR CO-OP EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 320",
+      "courseTitle": "ENGR CO-OP EDUC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 321",
+      "courseTitle": "ENGR INTERN EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 321",
+      "courseTitle": "ENGR INTERN EDUC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 401",
+      "courseTitle": "PEERS: ENGR EQUITY",
+      "section": "A",
+      "instructor": "Desing,Renee"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 490",
+      "courseTitle": "ENGR LEADERSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 491",
+      "courseTitle": "PEER EDUC PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 497",
+      "courseTitle": "VERT INT PROJECTS",
+      "section": "A",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Metcalfe,Christian Primack"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 591",
+      "courseTitle": "DATA SCIENCE SEMINAR",
+      "section": "A",
+      "instructor": "Cristea,Nicoleta C"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
+      "course": "ENGR 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2024",
       "course": "ENGR 601",
       "courseTitle": "INTERNSHIP",
       "section": "B",
@@ -6192,7 +6562,7 @@
       "course": "ENGR 591",
       "courseTitle": "DATA SCIENCE SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cristea,Nicoleta C"
     },
     {
       "campus": "S",
@@ -6209,6 +6579,326 @@
       "dept": "engr",
       "deptName": "Engineering",
       "term": "WIN2025",
+      "course": "ENGR 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 106",
+      "courseTitle": "EXPERIENCE ENGR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 160",
+      "courseTitle": "ENGR CAREER FNDMNTLS",
+      "section": "A",
+      "instructor": "Takahashi,Curtis"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 160",
+      "courseTitle": "ENGR CAREER FNDMNTLS",
+      "section": "B",
+      "instructor": "Takahashi,Curtis"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 191",
+      "courseTitle": "MATH PROB SOLV ENGR",
+      "section": "A",
+      "instructor": "Brodkin,Peter"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 191",
+      "courseTitle": "MATH PROB SOLV ENGR",
+      "section": "B",
+      "instructor": "CHALIFOUR,MATTHIEU"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 191",
+      "courseTitle": "MATH PROB SOLV ENGR",
+      "section": "C",
+      "instructor": "CHALIFOUR,MATTHIEU"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 191",
+      "courseTitle": "MATH PROB SOLV ENGR",
+      "section": "D",
+      "instructor": "Ito,Millie"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 191",
+      "courseTitle": "MATH PROB SOLV ENGR",
+      "section": "E",
+      "instructor": "Ito,Millie"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 191",
+      "courseTitle": "MATH PROB SOLV ENGR",
+      "section": "F",
+      "instructor": "Ito,Millie"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 192",
+      "courseTitle": "CHEM PROB SOLV ENGR",
+      "section": "A",
+      "instructor": "Hermann,Lilliana"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 192",
+      "courseTitle": "CHEM PROB SOLV ENGR",
+      "section": "B",
+      "instructor": "Hermann,Lilliana"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 192",
+      "courseTitle": "CHEM PROB SOLV ENGR",
+      "section": "C",
+      "instructor": "Spencer,Lynne"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 193",
+      "courseTitle": "PHYS PROB SOLV ENGR",
+      "section": "A",
+      "instructor": "Brodkin,Peter"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 193",
+      "courseTitle": "PHYS PROB SOLV ENGR",
+      "section": "B",
+      "instructor": "Brodkin,Peter"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 194",
+      "courseTitle": "ENGR FUND PROB SOL",
+      "section": "A",
+      "instructor": "Brodkin,Peter"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 197",
+      "courseTitle": "ENGR STARS PROB SOLV",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 197",
+      "courseTitle": "ENGR STARS PROB SOLV",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 197",
+      "courseTitle": "ENGR STARS PROB SOLV",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 321",
+      "courseTitle": "ENGR INTERN EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 321",
+      "courseTitle": "ENGR INTERN EDUC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 401",
+      "courseTitle": "PEERS: ENGR EQUITY",
+      "section": "A",
+      "instructor": "Desing,Renee"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 490",
+      "courseTitle": "ENGR LEADERSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 490",
+      "courseTitle": "ENGR LEADERSHIP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 490",
+      "courseTitle": "ENGR LEADERSHIP",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 520",
+      "courseTitle": "PHYS-INFORM MCHN LRN",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 591",
+      "courseTitle": "DATA SCIENCE SEMINAR",
+      "section": "A",
+      "instructor": "Cristea,Nicoleta C"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
+      "course": "ENGR 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2025",
       "course": "ENGR 601",
       "courseTitle": "INTERNSHIP",
       "section": "B",
@@ -6301,8 +6991,18 @@
       "term": "AUT2025",
       "course": "ENGR 191",
       "courseTitle": "MATH PROB SOLV ENGR",
+      "section": "G",
+      "instructor": "A Ito,Millie"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2025",
+      "course": "ENGR 191",
+      "courseTitle": "MATH PROB SOLV ENGR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brodkin,Peter"
     },
     {
       "campus": "S",
@@ -6312,17 +7012,7 @@
       "course": "ENGR 191",
       "courseTitle": "MATH PROB SOLV ENGR",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "engr",
-      "deptName": "Engineering",
-      "term": "AUT2025",
-      "course": "ENGR 191",
-      "courseTitle": "MATH PROB SOLV ENGR",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Brodkin,Peter"
     },
     {
       "campus": "S",
@@ -6332,7 +7022,7 @@
       "course": "ENGR 191",
       "courseTitle": "MATH PROB SOLV ENGR",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Hernandez,Miguel B."
     },
     {
       "campus": "S",
@@ -6342,7 +7032,7 @@
       "course": "ENGR 191",
       "courseTitle": "MATH PROB SOLV ENGR",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Hernandez,Miguel B."
     },
     {
       "campus": "S",
@@ -6352,17 +7042,7 @@
       "course": "ENGR 191",
       "courseTitle": "MATH PROB SOLV ENGR",
       "section": "F",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "engr",
-      "deptName": "Engineering",
-      "term": "AUT2025",
-      "course": "ENGR 191",
-      "courseTitle": "MATH PROB SOLV ENGR",
-      "section": "G",
-      "instructor": "TBA"
+      "instructor": "Ito,Millie"
     },
     {
       "campus": "S",
@@ -6372,7 +7052,17 @@
       "course": "ENGR 191",
       "courseTitle": "MATH PROB SOLV ENGR",
       "section": "H",
-      "instructor": "TBA"
+      "instructor": "Ito,Millie"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2025",
+      "course": "ENGR 191",
+      "courseTitle": "MATH PROB SOLV ENGR",
+      "section": "C",
+      "instructor": "Levias,Sheldon R"
     },
     {
       "campus": "S",
@@ -6382,7 +7072,7 @@
       "course": "ENGR 192",
       "courseTitle": "CHEM PROB SOLV ENGR",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "A Spencer,Lynne"
     },
     {
       "campus": "S",
@@ -6392,17 +7082,7 @@
       "course": "ENGR 192",
       "courseTitle": "CHEM PROB SOLV ENGR",
       "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "engr",
-      "deptName": "Engineering",
-      "term": "AUT2025",
-      "course": "ENGR 192",
-      "courseTitle": "CHEM PROB SOLV ENGR",
-      "section": "D",
-      "instructor": "TBA"
+      "instructor": "A Spencer,Lynne"
     },
     {
       "campus": "S",
@@ -6412,7 +7092,7 @@
       "course": "ENGR 192",
       "courseTitle": "CHEM PROB SOLV ENGR",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "A Spencer,Lynne"
     },
     {
       "campus": "S",
@@ -6422,7 +7102,17 @@
       "course": "ENGR 192",
       "courseTitle": "CHEM PROB SOLV ENGR",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Spencer,Lynne"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2025",
+      "course": "ENGR 192",
+      "courseTitle": "CHEM PROB SOLV ENGR",
+      "section": "D",
+      "instructor": "Um,Joon"
     },
     {
       "campus": "S",
@@ -6432,7 +7122,7 @@
       "course": "ENGR 197",
       "courseTitle": "ENGR STARS PROB SOLV",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Cho,Ali"
     },
     {
       "campus": "S",
@@ -6442,7 +7132,7 @@
       "course": "ENGR 197",
       "courseTitle": "ENGR STARS PROB SOLV",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Cho,Ali"
     },
     {
       "campus": "S",
@@ -6462,7 +7152,7 @@
       "course": "ENGR 297",
       "courseTitle": "VERT INT PROJECTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "C Ratner,Daniel M."
     },
     {
       "campus": "S",
@@ -6492,7 +7182,7 @@
       "course": "ENGR 401",
       "courseTitle": "PEERS: ENGR EQUITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Desing,Renee"
     },
     {
       "campus": "S",
@@ -6512,7 +7202,7 @@
       "course": "ENGR 497",
       "courseTitle": "VERT INT PROJECTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "C Ratner,Daniel M."
     },
     {
       "campus": "S",
@@ -6522,7 +7212,7 @@
       "course": "ENGR 498",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Metcalfe,Christian Primack"
     },
     {
       "campus": "S",
@@ -6532,7 +7222,7 @@
       "course": "ENGR 591",
       "courseTitle": "DATA SCIENCE SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cristea,Nicoleta C"
     },
     {
       "campus": "S",
@@ -6602,7 +7292,7 @@
       "course": "ENGR 160",
       "courseTitle": "ENGR CAREER FNDMNTLS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Howell,Jeramy"
     },
     {
       "campus": "S",
@@ -6612,7 +7302,7 @@
       "course": "ENGR 160",
       "courseTitle": "ENGR CAREER FNDMNTLS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Takahashi,Curtis"
     },
     {
       "campus": "S",
@@ -6671,6 +7361,26 @@
       "term": "WIN2026",
       "course": "ENGR 192",
       "courseTitle": "CHEM PROB SOLV ENGR",
+      "section": "E",
+      "instructor": "Spencer,Lynne"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "WIN2026",
+      "course": "ENGR 192",
+      "courseTitle": "CHEM PROB SOLV ENGR",
+      "section": "F",
+      "instructor": "Spencer,Lynne"
+    },
+    {
+      "campus": "S",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "WIN2026",
+      "course": "ENGR 192",
+      "courseTitle": "CHEM PROB SOLV ENGR",
       "section": "A",
       "instructor": "TBA"
     },
@@ -6702,26 +7412,6 @@
       "course": "ENGR 192",
       "courseTitle": "CHEM PROB SOLV ENGR",
       "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "engr",
-      "deptName": "Engineering",
-      "term": "WIN2026",
-      "course": "ENGR 192",
-      "courseTitle": "CHEM PROB SOLV ENGR",
-      "section": "E",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "engr",
-      "deptName": "Engineering",
-      "term": "WIN2026",
-      "course": "ENGR 192",
-      "courseTitle": "CHEM PROB SOLV ENGR",
-      "section": "F",
       "instructor": "TBA"
     },
     {
@@ -6772,7 +7462,7 @@
       "course": "ENGR 401",
       "courseTitle": "PEERS: ENGR EQUITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Desing,Renee"
     },
     {
       "campus": "S",
@@ -6792,7 +7482,7 @@
       "course": "ENGR 591",
       "courseTitle": "DATA SCIENCE SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cristea,Nicoleta C"
     },
     {
       "campus": "S",
@@ -6842,7 +7532,7 @@
       "course": "ENGR 160",
       "courseTitle": "ENGR CAREER FNDMNTLS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Howell,Jeramy"
     },
     {
       "campus": "S",
@@ -6852,7 +7542,7 @@
       "course": "ENGR 160",
       "courseTitle": "ENGR CAREER FNDMNTLS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Takahashi,Curtis"
     },
     {
       "campus": "S",
@@ -7032,7 +7722,7 @@
       "course": "ENGR 401",
       "courseTitle": "PEERS: ENGR EQUITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Desing,Renee"
     },
     {
       "campus": "S",
@@ -7081,8 +7771,8 @@
       "term": "SPR2026",
       "course": "ENGR 591",
       "courseTitle": "DATA SCIENCE SEMINAR",
-      "section": "B",
-      "instructor": "JO"
+      "section": "A",
+      "instructor": "Cristea,Nicoleta C"
     },
     {
       "campus": "S",
@@ -7091,8 +7781,8 @@
       "term": "SPR2026",
       "course": "ENGR 591",
       "courseTitle": "DATA SCIENCE SEMINAR",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "JO"
     },
     {
       "campus": "S",

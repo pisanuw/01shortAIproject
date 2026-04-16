@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Black%2CD",
+  "professor": "Black,D",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phrmcy",
+      "deptName": "Pharmacy",
+      "term": "SPR2023",
+      "course": "PHRMCY 532",
+      "courseTitle": "PHARMACOTHERA II",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "pharmacy",
+      "deptName": "Pharmacy",
+      "term": "SUM2022",
+      "course": "PHARM 519",
+      "courseTitle": "PHARM INF DIS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phrmcy",
+      "deptName": "Pharmacy",
+      "term": "SPR2022",
+      "course": "PHRMCY 532",
+      "courseTitle": "PHARMACOTHERA II",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "pharmacy",
+      "deptName": "Pharmacy",
+      "term": "SUM2021",
+      "course": "PHARM 519",
+      "courseTitle": "PHARM INF DIS",
+      "section": "A"
+    }
+  ]
+}

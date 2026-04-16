@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Mahoney%2CB",
+  "professor": "Mahoney,B",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "patho",
+      "deptName": "Pathology",
+      "term": "AUT2022",
+      "course": "PATH 511",
+      "courseTitle": "TOPICS IN PATHOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "patho",
+      "deptName": "Pathology",
+      "term": "AUT2022",
+      "course": "PATH 507",
+      "courseTitle": "PATHOLOGY RESERACH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "patho",
+      "deptName": "Pathology",
+      "term": "SPR2022",
+      "course": "PATH 515",
+      "courseTitle": "HEART/VESSL DISEASE",
+      "section": "A"
+    }
+  ]
+}

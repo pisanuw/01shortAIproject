@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Roy%2CSumit",
+  "professor": "Roy,Sumit",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "AUT2025",
+      "course": "E E 505",
+      "courseTitle": "PROB & RAND PROCESS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "SPR2025",
+      "course": "E E 242",
+      "courseTitle": "SGNLS SYST & DATA I",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "AUT2024",
+      "course": "E E 505",
+      "courseTitle": "PROB & RAND PROCESS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "SPR2024",
+      "course": "E E 242",
+      "courseTitle": "SGNLS SYST & DATA I",
+      "section": "A"
+    }
+  ]
+}

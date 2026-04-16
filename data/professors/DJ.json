@@ -1,0 +1,1768 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "DJ",
+  "professor": "DJ",
+  "recordCount": 176,
+  "records": [
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "WIN2022",
+      "course": "TMATH 110",
+      "courseTitle": "INTRO STAT APPLICTNS",
+      "section": "H"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "WIN2022",
+      "course": "TMATH 110",
+      "courseTitle": "INTRO STAT APPLICTNS",
+      "section": "G"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tcss",
+      "deptName": "Computer Science and Systems",
+      "term": "WIN2022",
+      "course": "TCSS 564",
+      "courseTitle": "DB SYS INTERNALS",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "twomn",
+      "deptName": "Women Studies",
+      "term": "WIN2022",
+      "course": "T WOMN 101",
+      "courseTitle": "INTRO WOMENS STDYS",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "twomn",
+      "deptName": "Women Studies",
+      "term": "WIN2022",
+      "course": "T WOMN 101",
+      "courseTitle": "INTRO WOMENS STDYS",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tsoc",
+      "deptName": "Sociology",
+      "term": "WIN2022",
+      "course": "T SOC 165",
+      "courseTitle": "INTRO SOCIOLOGY",
+      "section": "D"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tsoc",
+      "deptName": "Sociology",
+      "term": "WIN2022",
+      "course": "T SOC 165",
+      "courseTitle": "INTRO SOCIOLOGY",
+      "section": "C"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tsoc",
+      "deptName": "Sociology",
+      "term": "WIN2022",
+      "course": "T SOC 165",
+      "courseTitle": "INTRO SOCIOLOGY",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tsoc",
+      "deptName": "Sociology",
+      "term": "WIN2022",
+      "course": "T SOC 165",
+      "courseTitle": "INTRO SOCIOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tcrim",
+      "deptName": "Criminal Justice",
+      "term": "WIN2022",
+      "course": "T CRIM 374",
+      "courseTitle": "HUMAN TRAFFICKING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 579",
+      "courseTitle": "R E CAPITAL MARKETS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "WIN2022",
+      "course": "STAT 571",
+      "courseTitle": "REGR METHODS: DEPT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwk",
+      "deptName": "Social Work",
+      "term": "WIN2022",
+      "course": "SOC W 519",
+      "courseTitle": "POLICY/SRVCS: H/MH",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "soc",
+      "deptName": "Sociology",
+      "term": "WIN2022",
+      "course": "SOC 260",
+      "courseTitle": "AF-AM FAMILIES",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "WIN2022",
+      "course": "R E 541",
+      "courseTitle": "R E CAPITAL MARKETS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2022",
+      "course": "NMETH 535",
+      "courseTitle": "NURSING INQUIRY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2022",
+      "course": "NMETH 528",
+      "courseTitle": "COMPUTING FUNDAMENT",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2022",
+      "course": "NMETH 524",
+      "courseTitle": "HEALTH SYS & EHR",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "lis",
+      "deptName": "Library and Information Science",
+      "term": "WIN2022",
+      "course": "LIS 598",
+      "courseTitle": "SPEC TOPICS INFO/LIB",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "WIN2022",
+      "course": "LING 581",
+      "courseTitle": "MORPHOLOGY",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "WIN2022",
+      "course": "LING 550",
+      "courseTitle": "INTRO LING PHONET",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "jsis",
+      "deptName": "International Studies Core and Gateway Courses",
+      "term": "WIN2022",
+      "course": "JSIS 123",
+      "courseTitle": "INTRO GLOBALIZATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2022",
+      "course": "INFO 370",
+      "courseTitle": "DATA SCIENCE METHDS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2022",
+      "course": "INFO 370",
+      "courseTitle": "DATA SCIENCE METHDS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2022",
+      "course": "GEOG 123",
+      "courseTitle": "INTRO GLOBALIZATION",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2022",
+      "course": "GEOG 123",
+      "courseTitle": "INTRO GLOBALIZATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "WIN2022",
+      "course": "CONJ 550P",
+      "courseTitle": "P-CLIN INFEC DIS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "WIN2022",
+      "course": "CONJ 550P",
+      "courseTitle": "P-CLIN INFEC DIS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 588",
+      "courseTitle": "CONST OPNS AND PROD",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "WIN2022",
+      "course": "CLAS 430",
+      "courseTitle": "GRK & ROM MYTHOLOGY",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "WIN2022",
+      "course": "CLAS 430",
+      "courseTitle": "GRK & ROM MYTHOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "WIN2022",
+      "course": "CFRM 410",
+      "courseTitle": "COMP FIN PROB STATS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cesi",
+      "deptName": "Construction, Energy, and Sustainable Infrastructure",
+      "term": "WIN2022",
+      "course": "CESI 513",
+      "courseTitle": "OP AND MAINT WIND",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cesi",
+      "deptName": "Construction, Energy, and Sustainable Infrastructure",
+      "term": "WIN2022",
+      "course": "CESI 511",
+      "courseTitle": "GRID INTEGRATION",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cesi",
+      "deptName": "Construction, Energy, and Sustainable Infrastructure",
+      "term": "WIN2022",
+      "course": "CESI 505",
+      "courseTitle": "AIR POLL CNTRL",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "WIN2022",
+      "course": "BIOST 571",
+      "courseTitle": "REGR METHODS: DEPT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "afamst",
+      "deptName": "African American Studies",
+      "term": "WIN2022",
+      "course": "AFRAM 260",
+      "courseTitle": "AF-AM FAMILIES",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bhlth",
+      "deptName": "Health Electives",
+      "term": "WIN2022",
+      "course": "B HLTH 426",
+      "courseTitle": "HLTH HUMNTY TOPICS",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bhlth",
+      "deptName": "Health Electives",
+      "term": "WIN2022",
+      "course": "B HLTH 426",
+      "courseTitle": "HLTH HUMNTY TOPICS",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "AUT2021",
+      "course": "TMATH 110",
+      "courseTitle": "INTRO STAT APPLICTNS",
+      "section": "J"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "AUT2021",
+      "course": "TMATH 110",
+      "courseTitle": "INTRO STAT APPLICTNS",
+      "section": "I"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "AUT2021",
+      "course": "TMATH 110",
+      "courseTitle": "INTRO STAT APPLICTNS",
+      "section": "H"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "AUT2021",
+      "course": "TMATH 110",
+      "courseTitle": "INTRO STAT APPLICTNS",
+      "section": "G"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tcss",
+      "deptName": "Computer Science and Systems",
+      "term": "AUT2021",
+      "course": "TCSS 435",
+      "courseTitle": "AI & KNOWLEDGE ACQ",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "turb",
+      "deptName": "Urban Studies",
+      "term": "AUT2021",
+      "course": "T URB 103",
+      "courseTitle": "URB STDYS PRACTICE",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "turb",
+      "deptName": "Urban Studies",
+      "term": "AUT2021",
+      "course": "T URB 103",
+      "courseTitle": "URB STDYS PRACTICE",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "turb",
+      "deptName": "Urban Studies",
+      "term": "AUT2021",
+      "course": "T URB 101",
+      "courseTitle": "EXPLORING CITIES",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "turb",
+      "deptName": "Urban Studies",
+      "term": "AUT2021",
+      "course": "T URB 101",
+      "courseTitle": "EXPLORING CITIES",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tsoc",
+      "deptName": "Sociology",
+      "term": "AUT2021",
+      "course": "T SOC 165",
+      "courseTitle": "INTRO SOCIOLOGY",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tsoc",
+      "deptName": "Sociology",
+      "term": "AUT2021",
+      "course": "T SOC 165",
+      "courseTitle": "INTRO SOCIOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tbiol",
+      "deptName": "Biology",
+      "term": "AUT2021",
+      "course": "T BIOL 120",
+      "courseTitle": "INTRO BIOLOGY I",
+      "section": "M"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tbiol",
+      "deptName": "Biology",
+      "term": "AUT2021",
+      "course": "T BIOL 120",
+      "courseTitle": "INTRO BIOLOGY I",
+      "section": "L"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tbiol",
+      "deptName": "Biology",
+      "term": "AUT2021",
+      "course": "T BIOL 110",
+      "courseTitle": "GENERAL BIOLOGY",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tbiol",
+      "deptName": "Biology",
+      "term": "AUT2021",
+      "course": "T BIOL 110",
+      "courseTitle": "GENERAL BIOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwlbasw",
+      "deptName": "Social Welfare BASW",
+      "term": "AUT2021",
+      "course": "SOC WF 390",
+      "courseTitle": "SOC WELFARE RESEARCH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwk",
+      "deptName": "Social Work",
+      "term": "AUT2021",
+      "course": "SOC W 593",
+      "courseTitle": "CHEMDEP:ASSESS/CNSL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2021",
+      "course": "PRSAN 521",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2021",
+      "course": "PRSAN 511",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2021",
+      "course": "PRSAN 201",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2021",
+      "course": "PRSAN 101",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nsg",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NSG 557",
+      "courseTitle": "PHYS PATHOPHYS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2021",
+      "course": "NMETH 527",
+      "courseTitle": "INTRO CLIN INFORMAT",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "lis",
+      "deptName": "Library and Information Science",
+      "term": "AUT2021",
+      "course": "LIS 580",
+      "courseTitle": "MGMT OF INFO ORGS",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "lis",
+      "deptName": "Library and Information Science",
+      "term": "AUT2021",
+      "course": "LIS 537",
+      "courseTitle": "CONSTRUC INDEX LANG",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2021",
+      "course": "LAW A 599",
+      "courseTitle": "LEGAL RSRCH MTHDS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2021",
+      "course": "LAW A 530",
+      "courseTitle": "INDIV INCOME TAX",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2021",
+      "course": "LAW A 530",
+      "courseTitle": "INDIV INCOME TAX",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2021",
+      "course": "LAW A 530",
+      "courseTitle": "INDIV INCOME TAX",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2021",
+      "course": "INFO 474",
+      "courseTitle": "INTERACTIVE INFO VIS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2021",
+      "course": "INFO 474",
+      "courseTitle": "INTERACTIVE INFO VIS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2021",
+      "course": "INFO 474",
+      "courseTitle": "INTERACTIVE INFO VIS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fish",
+      "deptName": "Aquatic and Fishery Sciences",
+      "term": "AUT2021",
+      "course": "FISH 473",
+      "courseTitle": "LIMNOLOGY",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fish",
+      "deptName": "Aquatic and Fishery Sciences",
+      "term": "AUT2021",
+      "course": "FISH 473",
+      "courseTitle": "LIMNOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "edlp",
+      "deptName": "Educational Leadership and Policy Studies",
+      "term": "AUT2021",
+      "course": "EDLPS 560",
+      "courseTitle": "ED POLICY&PRACTICE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2021",
+      "course": "CHIN 561",
+      "courseTitle": "HISTORY CHINESE LIT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2021",
+      "course": "CHIN 461",
+      "courseTitle": "HISTORY CHIN LIT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "AUT2021",
+      "course": "CFRM 542",
+      "courseTitle": "CREDIT RISK MGMT",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cesi",
+      "deptName": "Construction, Energy, and Sustainable Infrastructure",
+      "term": "AUT2021",
+      "course": "CESI 524",
+      "courseTitle": "STAT FOR CONST",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cesi",
+      "deptName": "Construction, Energy, and Sustainable Infrastructure",
+      "term": "AUT2021",
+      "course": "CESI 520",
+      "courseTitle": "ELEC FUNDAMENTALS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cesi",
+      "deptName": "Construction, Energy, and Sustainable Infrastructure",
+      "term": "AUT2021",
+      "course": "CESI 510",
+      "courseTitle": "ELECTRIC GRIDS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cesi",
+      "deptName": "Construction, Energy, and Sustainable Infrastructure",
+      "term": "AUT2021",
+      "course": "CESI 502",
+      "courseTitle": "GEOMATICS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "AUT2021",
+      "course": "BIOL 473",
+      "courseTitle": "LIMNOLOGY",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "AUT2021",
+      "course": "BIOL 473",
+      "courseTitle": "LIMNOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bibheb",
+      "deptName": "Biblical Hebrew",
+      "term": "AUT2021",
+      "course": "BIBHEB 521",
+      "courseTitle": "BIBLICL HEBR POETRY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bibheb",
+      "deptName": "Biblical Hebrew",
+      "term": "AUT2021",
+      "course": "BIBHEB 201",
+      "courseTitle": "BIBL HEBREW POETRY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "anthro",
+      "deptName": "Anthropology",
+      "term": "AUT2021",
+      "course": "ANTH 524",
+      "courseTitle": "MED ANTH & GLOBL HLT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "anthro",
+      "deptName": "Anthropology",
+      "term": "AUT2021",
+      "course": "ANTH 324",
+      "courseTitle": "MED ANTH & GLOBL HLT",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tsocwf",
+      "deptName": "Social Welfare",
+      "term": "SUM2021",
+      "course": "TSOCWF 363",
+      "courseTitle": "CRIM OF IMMIGRATION",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "SUM2021",
+      "course": "TMATH 110",
+      "courseTitle": "INTRO STAT APPLICTNS",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "SUM2021",
+      "course": "TMATH 110",
+      "courseTitle": "INTRO STAT APPLICTNS",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tcrim",
+      "deptName": "Criminal Justice",
+      "term": "SUM2021",
+      "course": "T CRIM 363",
+      "courseTitle": "CRIM OF IMMIGRATION",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tcrim",
+      "deptName": "Criminal Justice",
+      "term": "SUM2021",
+      "course": "T CRIM 361",
+      "courseTitle": "MNTL HLTH SUBSTAN CJ",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nsg",
+      "deptName": "Nursing",
+      "term": "SUM2021",
+      "course": "NSG 540",
+      "courseTitle": "TELEHEALTH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "jsis",
+      "deptName": "International Studies Core and Gateway Courses",
+      "term": "SUM2021",
+      "course": "JSIS 123",
+      "courseTitle": "INTRO GLOBALIZATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "gwss",
+      "deptName": "Gender, Women, and Sexuality Studies",
+      "term": "SUM2021",
+      "course": "GWSS 389",
+      "courseTitle": "RACE/GENDR/SEXUALTY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2021",
+      "course": "GEOG 123",
+      "courseTitle": "INTRO GLOBALIZATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "SUM2021",
+      "course": "COM 389",
+      "courseTitle": "RACE/GENDR/SEXUALTY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cesi",
+      "deptName": "Construction, Energy, and Sustainable Infrastructure",
+      "term": "SUM2021",
+      "course": "CESI 594",
+      "courseTitle": "COMPT-AIDED CONSTR",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cesi",
+      "deptName": "Construction, Energy, and Sustainable Infrastructure",
+      "term": "SUM2021",
+      "course": "CESI 522",
+      "courseTitle": "INTRO AUTOTURN",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cesi",
+      "deptName": "Construction, Energy, and Sustainable Infrastructure",
+      "term": "SUM2021",
+      "course": "CESI 521",
+      "courseTitle": "INTRO ACAD BLUEBEAM",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cesi",
+      "deptName": "Construction, Energy, and Sustainable Infrastructure",
+      "term": "SUM2021",
+      "course": "CESI 504",
+      "courseTitle": "BLDG LEED ENERGY",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bime",
+      "deptName": "Biomedical Informatics and Medical Education",
+      "term": "SUM2021",
+      "course": "BIME 581",
+      "courseTitle": "TELEHEALTH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "aes",
+      "deptName": "American Ethnic Studies",
+      "term": "SUM2021",
+      "course": "AES 389",
+      "courseTitle": "RACE/GENDR/SEXUALTY",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tsoc",
+      "deptName": "Sociology",
+      "term": "SPR2021",
+      "course": "T SOC 165",
+      "courseTitle": "INTRO SOCIOLOGY",
+      "section": "D"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tsoc",
+      "deptName": "Sociology",
+      "term": "SPR2021",
+      "course": "T SOC 165",
+      "courseTitle": "INTRO SOCIOLOGY",
+      "section": "C"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tlit",
+      "deptName": "Literature",
+      "term": "SPR2021",
+      "course": "T LIT 101",
+      "courseTitle": "UNDERSTANDING LIT",
+      "section": "D"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tlit",
+      "deptName": "Literature",
+      "term": "SPR2021",
+      "course": "T LIT 101",
+      "courseTitle": "UNDERSTANDING LIT",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2021",
+      "course": "LING 575",
+      "courseTitle": "COMPUT LING TOPICS",
+      "section": "L"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "jsis",
+      "deptName": "International Studies Core and Gateway Courses",
+      "term": "SPR2021",
+      "course": "JSIS 123",
+      "courseTitle": "INTRO GLOBALIZATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "SPR2021",
+      "course": "IND E 583",
+      "courseTitle": "DECISION ANALYSIS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 123",
+      "courseTitle": "INTRO GLOBALIZATION",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 123",
+      "courseTitle": "INTRO GLOBALIZATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "SPR2021",
+      "course": "EDUC 170",
+      "courseTitle": "MATH ELEM TEACHERS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "SPR2021",
+      "course": "EDUC 170",
+      "courseTitle": "MATH ELEM TEACHERS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 525",
+      "courseTitle": "AUTISM AND SOC DIS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bnurs",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "B NURS 297",
+      "courseTitle": "BLDG HEALTH SKILLS",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bnurs",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "B NURS 297",
+      "courseTitle": "BLDG HEALTH SKILLS",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tsocwf",
+      "deptName": "Social Welfare",
+      "term": "WIN2021",
+      "course": "TSOCWF 363",
+      "courseTitle": "CRIM OF IMMIGRATION",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tsocwf",
+      "deptName": "Social Welfare",
+      "term": "WIN2021",
+      "course": "TSOCWF 361",
+      "courseTitle": "MNTL HLTH SUBSTAN CJ",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "WIN2021",
+      "course": "TMATH 110",
+      "courseTitle": "INTRO STAT APPLICTNS",
+      "section": "H"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "WIN2021",
+      "course": "TMATH 110",
+      "courseTitle": "INTRO STAT APPLICTNS",
+      "section": "G"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "twomn",
+      "deptName": "Women Studies",
+      "term": "WIN2021",
+      "course": "T WOMN 101",
+      "courseTitle": "INTRO WOMENS STDYS",
+      "section": "D"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "twomn",
+      "deptName": "Women Studies",
+      "term": "WIN2021",
+      "course": "T WOMN 101",
+      "courseTitle": "INTRO WOMENS STDYS",
+      "section": "C"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tsoc",
+      "deptName": "Sociology",
+      "term": "WIN2021",
+      "course": "T SOC 165",
+      "courseTitle": "INTRO SOCIOLOGY",
+      "section": "D"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tsoc",
+      "deptName": "Sociology",
+      "term": "WIN2021",
+      "course": "T SOC 165",
+      "courseTitle": "INTRO SOCIOLOGY",
+      "section": "C"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tcrim",
+      "deptName": "Criminal Justice",
+      "term": "WIN2021",
+      "course": "T CRIM 363",
+      "courseTitle": "CRIM OF IMMIGRATION",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tcrim",
+      "deptName": "Criminal Justice",
+      "term": "WIN2021",
+      "course": "T CRIM 361",
+      "courseTitle": "MNTL HLTH SUBSTAN CJ",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tarts",
+      "deptName": "Arts",
+      "term": "WIN2021",
+      "course": "T ARTS 225",
+      "courseTitle": "MUSIC HIST TACOMA",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tarts",
+      "deptName": "Arts",
+      "term": "WIN2021",
+      "course": "T ARTS 225",
+      "courseTitle": "MUSIC HIST TACOMA",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2021",
+      "course": "NMETH 535",
+      "courseTitle": "NURSING INQUIRY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2021",
+      "course": "NMETH 528",
+      "courseTitle": "COMPUTING FUNDAMENT",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2021",
+      "course": "NMETH 524",
+      "courseTitle": "HEALTH SYS & EHR",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "lis",
+      "deptName": "Library and Information Science",
+      "term": "WIN2021",
+      "course": "LIS 598",
+      "courseTitle": "SPEC TOPICS INFO/LIB",
+      "section": "J"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "lis",
+      "deptName": "Library and Information Science",
+      "term": "WIN2021",
+      "course": "LIS 568",
+      "courseTitle": "INFO LIT IN DIG AGE",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "jsis",
+      "deptName": "International Studies Core and Gateway Courses",
+      "term": "WIN2021",
+      "course": "JSIS 123",
+      "courseTitle": "INTRO GLOBALIZATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2021",
+      "course": "GEOG 123",
+      "courseTitle": "INTRO GLOBALIZATION",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2021",
+      "course": "GEOG 123",
+      "courseTitle": "INTRO GLOBALIZATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "WIN2021",
+      "course": "CONJ 550P",
+      "courseTitle": "P-CLIN INFEC DIS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 588",
+      "courseTitle": "CONST OPNS AND PROD",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cesi",
+      "deptName": "Construction, Energy, and Sustainable Infrastructure",
+      "term": "WIN2021",
+      "course": "CESI 513",
+      "courseTitle": "OP AND MAINT WIND",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cesi",
+      "deptName": "Construction, Energy, and Sustainable Infrastructure",
+      "term": "WIN2021",
+      "course": "CESI 511",
+      "courseTitle": "GRID INTEGRATION",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cesi",
+      "deptName": "Construction, Energy, and Sustainable Infrastructure",
+      "term": "WIN2021",
+      "course": "CESI 505",
+      "courseTitle": "AIR POLL CNTRL",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tsoc",
+      "deptName": "Sociology",
+      "term": "AUT2020",
+      "course": "T SOC 555",
+      "courseTitle": "SOCIOLOGY OF GENDER",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tsoc",
+      "deptName": "Sociology",
+      "term": "AUT2020",
+      "course": "T SOC 455",
+      "courseTitle": "SOCIOLOGY OF GENDER",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tsoc",
+      "deptName": "Sociology",
+      "term": "AUT2020",
+      "course": "T SOC 165",
+      "courseTitle": "INTRO SOCIOLOGY",
+      "section": "D"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tsoc",
+      "deptName": "Sociology",
+      "term": "AUT2020",
+      "course": "T SOC 165",
+      "courseTitle": "INTRO SOCIOLOGY",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nsg",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NSG 557",
+      "courseTitle": "PHYS PATHOPHYS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2020",
+      "course": "NMETH 527",
+      "courseTitle": "INTRO CLIN INFORMAT",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "music",
+      "deptName": "Music",
+      "term": "AUT2020",
+      "course": "MUSIC 216",
+      "courseTitle": "INTRODUCTORY COMP",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "lawb",
+      "deptName": "Law B",
+      "term": "AUT2020",
+      "course": "LAW B 596",
+      "courseTitle": "INTL HUMAN RIGHTS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "jsis",
+      "deptName": "International Studies Core and Gateway Courses",
+      "term": "AUT2020",
+      "course": "JSIS 123",
+      "courseTitle": "INTRO GLOBALIZATION",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "jsis",
+      "deptName": "International Studies Core and Gateway Courses",
+      "term": "AUT2020",
+      "course": "JSIS 123",
+      "courseTitle": "INTRO GLOBALIZATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "AUT2020",
+      "course": "GEOG 123",
+      "courseTitle": "INTRO GLOBALIZATION",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "AUT2020",
+      "course": "GEOG 123",
+      "courseTitle": "INTRO GLOBALIZATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "AUT2020",
+      "course": "FAMED 559",
+      "courseTitle": "TOBAC HEALTH DISPAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "AUT2020",
+      "course": "CFRM 542",
+      "courseTitle": "CREDIT RISK MGMT",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "AUT2020",
+      "course": "CFRM 405",
+      "courseTitle": "MATH METHODS FOR QF",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cesi",
+      "deptName": "Construction, Energy, and Sustainable Infrastructure",
+      "term": "AUT2020",
+      "course": "CESI 524",
+      "courseTitle": "STAT FOR CONST",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cesi",
+      "deptName": "Construction, Energy, and Sustainable Infrastructure",
+      "term": "AUT2020",
+      "course": "CESI 520",
+      "courseTitle": "ELEC FUNDAMENTALS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cesi",
+      "deptName": "Construction, Energy, and Sustainable Infrastructure",
+      "term": "AUT2020",
+      "course": "CESI 510",
+      "courseTitle": "ELECTRIC GRIDS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cesi",
+      "deptName": "Construction, Energy, and Sustainable Infrastructure",
+      "term": "AUT2020",
+      "course": "CESI 502",
+      "courseTitle": "GEOMATICS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "anthro",
+      "deptName": "Anthropology",
+      "term": "AUT2020",
+      "course": "ANTH 324",
+      "courseTitle": "MED ANTH & GLOBL HLT",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bnurs",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "B NURS 297",
+      "courseTitle": "BLDG HEALTH SKILLS",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bnurs",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "B NURS 297",
+      "courseTitle": "BLDG HEALTH SKILLS",
+      "section": "A"
+    }
+  ]
+}

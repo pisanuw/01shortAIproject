@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Mamani%2CHamed",
+  "professor": "Mamani,Hamed",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "scm",
+      "deptName": "Supply Chain Management",
+      "term": "AUT2024",
+      "course": "SCM 532",
+      "courseTitle": "GLOBAL SC & LOG",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2022",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2021",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "C"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Henry%2CB",
+  "professor": "Henry,B",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "russian",
+      "deptName": "Russian",
+      "term": "WIN2023",
+      "course": "RUSS 522",
+      "courseTitle": "RUSS LIT 19TH CENT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "russian",
+      "deptName": "Russian",
+      "term": "WIN2023",
+      "course": "RUSS 322",
+      "courseTitle": "19TH C RUSS LIT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "complit",
+      "deptName": "Comparative Literature",
+      "term": "WIN2023",
+      "course": "C LIT 320",
+      "courseTitle": "EUROPEAN LIT",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "russian",
+      "deptName": "Russian",
+      "term": "AUT2022",
+      "course": "RUSS 110",
+      "courseTitle": "INTRO RUSS CUL/CIV",
+      "section": "A"
+    }
+  ]
+}

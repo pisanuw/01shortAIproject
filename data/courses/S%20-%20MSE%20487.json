@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20MSE%20487",
+  "course": "S - MSE 487",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mse",
+      "deptName": "Materials Science and Engineering",
+      "term": "WIN2026",
+      "course": "MSE 487",
+      "courseTitle": "COMP ENG PROD & MAIN",
+      "section": "A",
+      "instructor": "Seaton,C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mse",
+      "deptName": "Materials Science and Engineering",
+      "term": "WIN2025",
+      "course": "MSE 487",
+      "courseTitle": "COMP ENG PROD & MAIN",
+      "section": "A",
+      "instructor": "Seaton,C"
+    }
+  ]
+}

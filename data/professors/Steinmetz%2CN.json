@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Steinmetz%2CN",
+  "professor": "Steinmetz,N",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "neusci",
+      "deptName": "Neuroscience",
+      "term": "AUT2022",
+      "course": "NEUSCI 490",
+      "courseTitle": "COMPUTAL NEUROSCI",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "neusci",
+      "deptName": "Neuroscience",
+      "term": "AUT2021",
+      "course": "NEUSCI 490",
+      "courseTitle": "COMPUTAL NEUROSCI",
+      "section": "A"
+    }
+  ]
+}

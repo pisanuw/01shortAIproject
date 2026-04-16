@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:24:45Z",
+  "generatedAt": "2026-04-16T02:57:09Z",
   "campus": "B",
   "dept": "stmath",
   "deptName": "Mathematics",
@@ -702,7 +702,7 @@
       "course": "STMATH 124",
       "courseTitle": "CALCULUS I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
     },
     {
       "campus": "B",
@@ -712,7 +712,7 @@
       "course": "STMATH 124",
       "courseTitle": "CALCULUS I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
     },
     {
       "campus": "B",
@@ -942,7 +942,7 @@
       "course": "STMATH 124",
       "courseTitle": "CALCULUS I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
     },
     {
       "campus": "B",
@@ -1101,6 +1101,26 @@
       "term": "AUT2021",
       "course": "STMATH 124",
       "courseTitle": "CALCULUS I",
+      "section": "A",
+      "instructor": "Musselman,Alexandria Theak"
+    },
+    {
+      "campus": "B",
+      "dept": "stmath",
+      "deptName": "Mathematics",
+      "term": "AUT2021",
+      "course": "STMATH 124",
+      "courseTitle": "CALCULUS I",
+      "section": "B",
+      "instructor": "Musselman,Alexandria Theak"
+    },
+    {
+      "campus": "B",
+      "dept": "stmath",
+      "deptName": "Mathematics",
+      "term": "AUT2021",
+      "course": "STMATH 124",
+      "courseTitle": "CALCULUS I",
       "section": "C",
       "instructor": "Rajopadhye,Shubha"
     },
@@ -1113,26 +1133,6 @@
       "courseTitle": "CALCULUS I",
       "section": "D",
       "instructor": "Rajopadhye,Shubha"
-    },
-    {
-      "campus": "B",
-      "dept": "stmath",
-      "deptName": "Mathematics",
-      "term": "AUT2021",
-      "course": "STMATH 124",
-      "courseTitle": "CALCULUS I",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "stmath",
-      "deptName": "Mathematics",
-      "term": "AUT2021",
-      "course": "STMATH 124",
-      "courseTitle": "CALCULUS I",
-      "section": "B",
-      "instructor": "TBA"
     },
     {
       "campus": "B",
@@ -1451,6 +1451,16 @@
       "term": "WIN2022",
       "course": "STMATH 125",
       "courseTitle": "CALCULUS II",
+      "section": "A",
+      "instructor": "Musselman,Alexandria Theak"
+    },
+    {
+      "campus": "B",
+      "dept": "stmath",
+      "deptName": "Mathematics",
+      "term": "WIN2022",
+      "course": "STMATH 125",
+      "courseTitle": "CALCULUS II",
       "section": "B",
       "instructor": "Musselman,Clark"
     },
@@ -1473,16 +1483,6 @@
       "courseTitle": "CALCULUS II",
       "section": "D",
       "instructor": "Stiber,Bilin Z"
-    },
-    {
-      "campus": "B",
-      "dept": "stmath",
-      "deptName": "Mathematics",
-      "term": "WIN2022",
-      "course": "STMATH 125",
-      "courseTitle": "CALCULUS II",
-      "section": "A",
-      "instructor": "TBA"
     },
     {
       "campus": "B",
@@ -2742,7 +2742,7 @@
       "course": "STMATH 124",
       "courseTitle": "CALCULUS I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
     },
     {
       "campus": "B",
@@ -2752,7 +2752,7 @@
       "course": "STMATH 124",
       "courseTitle": "CALCULUS I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
     },
     {
       "campus": "B",
@@ -2952,7 +2952,7 @@
       "course": "STMATH 466",
       "courseTitle": "FOSTERING GEOMETRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
     },
     {
       "campus": "B",
@@ -3012,7 +3012,7 @@
       "course": "STMATH 125",
       "courseTitle": "CALCULUS II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
     },
     {
       "campus": "B",
@@ -3222,7 +3222,7 @@
       "course": "STMATH 124",
       "courseTitle": "CALCULUS I",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
     },
     {
       "campus": "B",
@@ -3442,7 +3442,7 @@
       "course": "STMATH 420",
       "courseTitle": "HISTORY OF MATH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
     },
     {
       "campus": "B",
@@ -3611,18 +3611,8 @@
       "term": "WIN2024",
       "course": "STMATH 125",
       "courseTitle": "CALCULUS II",
-      "section": "F",
-      "instructor": "Rajopadhye,Shubha"
-    },
-    {
-      "campus": "B",
-      "dept": "stmath",
-      "deptName": "Mathematics",
-      "term": "WIN2024",
-      "course": "STMATH 125",
-      "courseTitle": "CALCULUS II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
     },
     {
       "campus": "B",
@@ -3632,7 +3622,17 @@
       "course": "STMATH 125",
       "courseTitle": "CALCULUS II",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
+    },
+    {
+      "campus": "B",
+      "dept": "stmath",
+      "deptName": "Mathematics",
+      "term": "WIN2024",
+      "course": "STMATH 125",
+      "courseTitle": "CALCULUS II",
+      "section": "F",
+      "instructor": "Rajopadhye,Shubha"
     },
     {
       "campus": "B",
@@ -3852,7 +3852,7 @@
       "course": "STMATH 124",
       "courseTitle": "CALCULUS I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
     },
     {
       "campus": "B",
@@ -3862,7 +3862,7 @@
       "course": "STMATH 124",
       "courseTitle": "CALCULUS I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
     },
     {
       "campus": "B",
@@ -3901,8 +3901,8 @@
       "term": "SPR2024",
       "course": "STMATH 125",
       "courseTitle": "CALCULUS II",
-      "section": "D",
-      "instructor": "Rajopadhye,Shubha"
+      "section": "C",
+      "instructor": "Musselman,Alexandria Theak"
     },
     {
       "campus": "B",
@@ -3911,8 +3911,8 @@
       "term": "SPR2024",
       "course": "STMATH 125",
       "courseTitle": "CALCULUS II",
-      "section": "C",
-      "instructor": "TBA"
+      "section": "D",
+      "instructor": "Rajopadhye,Shubha"
     },
     {
       "campus": "B",
@@ -4152,7 +4152,7 @@
       "course": "STMATH 124",
       "courseTitle": "CALCULUS I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
     },
     {
       "campus": "B",
@@ -4162,7 +4162,7 @@
       "course": "STMATH 125",
       "courseTitle": "CALCULUS II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
     },
     {
       "campus": "B",
@@ -5252,7 +5252,7 @@
       "course": "STMATH 125",
       "courseTitle": "CALCULUS II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
     },
     {
       "campus": "B",
@@ -5372,7 +5372,7 @@
       "course": "STMATH 113",
       "courseTitle": "CALC I: STRETCH I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gismervig,Emily"
     },
     {
       "campus": "B",
@@ -5392,7 +5392,7 @@
       "course": "STMATH 124",
       "courseTitle": "CALCULUS I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Barchechat,Alexandre"
     },
     {
       "campus": "B",
@@ -5402,27 +5402,7 @@
       "course": "STMATH 124",
       "courseTitle": "CALCULUS I",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "stmath",
-      "deptName": "Mathematics",
-      "term": "AUT2025",
-      "course": "STMATH 124",
-      "courseTitle": "CALCULUS I",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "stmath",
-      "deptName": "Mathematics",
-      "term": "AUT2025",
-      "course": "STMATH 124",
-      "courseTitle": "CALCULUS I",
-      "section": "D",
-      "instructor": "TBA"
+      "instructor": "Barchechat,Alexandre"
     },
     {
       "campus": "B",
@@ -5432,7 +5412,7 @@
       "course": "STMATH 124",
       "courseTitle": "CALCULUS I",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Field,Elizabeth"
     },
     {
       "campus": "B",
@@ -5442,7 +5422,27 @@
       "course": "STMATH 124",
       "courseTitle": "CALCULUS I",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Field,Elizabeth"
+    },
+    {
+      "campus": "B",
+      "dept": "stmath",
+      "deptName": "Mathematics",
+      "term": "AUT2025",
+      "course": "STMATH 124",
+      "courseTitle": "CALCULUS I",
+      "section": "C",
+      "instructor": "Hockstra,Dale"
+    },
+    {
+      "campus": "B",
+      "dept": "stmath",
+      "deptName": "Mathematics",
+      "term": "AUT2025",
+      "course": "STMATH 124",
+      "courseTitle": "CALCULUS I",
+      "section": "D",
+      "instructor": "Hockstra,Dale"
     },
     {
       "campus": "B",
@@ -5452,7 +5452,7 @@
       "course": "STMATH 124",
       "courseTitle": "CALCULUS I",
       "section": "G",
-      "instructor": "TBA"
+      "instructor": "Moraiti,Marina"
     },
     {
       "campus": "B",
@@ -5462,37 +5462,7 @@
       "course": "STMATH 124",
       "courseTitle": "CALCULUS I",
       "section": "H",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "stmath",
-      "deptName": "Mathematics",
-      "term": "AUT2025",
-      "course": "STMATH 125",
-      "courseTitle": "CALCULUS II",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "stmath",
-      "deptName": "Mathematics",
-      "term": "AUT2025",
-      "course": "STMATH 125",
-      "courseTitle": "CALCULUS II",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "stmath",
-      "deptName": "Mathematics",
-      "term": "AUT2025",
-      "course": "STMATH 125",
-      "courseTitle": "CALCULUS II",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Moraiti,Marina"
     },
     {
       "campus": "B",
@@ -5502,7 +5472,37 @@
       "course": "STMATH 125",
       "courseTitle": "CALCULUS II",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Barchechat,Alexandre"
+    },
+    {
+      "campus": "B",
+      "dept": "stmath",
+      "deptName": "Mathematics",
+      "term": "AUT2025",
+      "course": "STMATH 125",
+      "courseTitle": "CALCULUS II",
+      "section": "C",
+      "instructor": "Musselman,Clark"
+    },
+    {
+      "campus": "B",
+      "dept": "stmath",
+      "deptName": "Mathematics",
+      "term": "AUT2025",
+      "course": "STMATH 125",
+      "courseTitle": "CALCULUS II",
+      "section": "A",
+      "instructor": "Paparella,Pietro"
+    },
+    {
+      "campus": "B",
+      "dept": "stmath",
+      "deptName": "Mathematics",
+      "term": "AUT2025",
+      "course": "STMATH 125",
+      "courseTitle": "CALCULUS II",
+      "section": "B",
+      "instructor": "Paparella,Pietro"
     },
     {
       "campus": "B",
@@ -5512,7 +5512,7 @@
       "course": "STMATH 126",
       "courseTitle": "CALCULUS III",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kirson,Antonio"
     },
     {
       "campus": "B",
@@ -5522,7 +5522,7 @@
       "course": "STMATH 126",
       "courseTitle": "CALCULUS III",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Kirson,Antonio"
     },
     {
       "campus": "B",
@@ -5532,7 +5532,7 @@
       "course": "STMATH 207",
       "courseTitle": "INTRO TO DIFF EQ",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Abian,Andrew"
     },
     {
       "campus": "B",
@@ -5542,17 +5542,7 @@
       "course": "STMATH 207",
       "courseTitle": "INTRO TO DIFF EQ",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "stmath",
-      "deptName": "Mathematics",
-      "term": "AUT2025",
-      "course": "STMATH 208",
-      "courseTitle": "MATRIX ALGEBRA",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Abian,Andrew"
     },
     {
       "campus": "B",
@@ -5562,7 +5552,17 @@
       "course": "STMATH 208",
       "courseTitle": "MATRIX ALGEBRA",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Abudiab,Mufid"
+    },
+    {
+      "campus": "B",
+      "dept": "stmath",
+      "deptName": "Mathematics",
+      "term": "AUT2025",
+      "course": "STMATH 208",
+      "courseTitle": "MATRIX ALGEBRA",
+      "section": "A",
+      "instructor": "Humphries,Thomas"
     },
     {
       "campus": "B",
@@ -5572,7 +5572,7 @@
       "course": "STMATH 224",
       "courseTitle": "MULTIVAR CALCULUS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Musselman,Clark"
     },
     {
       "campus": "B",
@@ -5582,7 +5582,7 @@
       "course": "STMATH 224",
       "courseTitle": "MULTIVAR CALCULUS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Musselman,Clark"
     },
     {
       "campus": "B",
@@ -5592,7 +5592,7 @@
       "course": "STMATH 300",
       "courseTitle": "FNDTNS OF MDRN MATH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mann,Casey"
     },
     {
       "campus": "B",
@@ -5602,7 +5602,7 @@
       "course": "STMATH 301",
       "courseTitle": "INTRO TO PROF MATH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
     },
     {
       "campus": "B",
@@ -5612,17 +5612,7 @@
       "course": "STMATH 330",
       "courseTitle": "FINANC MATH",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "stmath",
-      "deptName": "Mathematics",
-      "term": "AUT2025",
-      "course": "STMATH 341",
-      "courseTitle": "STATISTICAL INFER",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dundon,Ariana F."
     },
     {
       "campus": "B",
@@ -5632,7 +5622,17 @@
       "course": "STMATH 341",
       "courseTitle": "STATISTICAL INFER",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Rajopadhye,Shubha"
+    },
+    {
+      "campus": "B",
+      "dept": "stmath",
+      "deptName": "Mathematics",
+      "term": "AUT2025",
+      "course": "STMATH 341",
+      "courseTitle": "STATISTICAL INFER",
+      "section": "A",
+      "instructor": "Simonsen,Linda"
     },
     {
       "campus": "B",
@@ -5642,7 +5642,7 @@
       "course": "STMATH 390",
       "courseTitle": "PROB AND STATS ENG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Akapame,Rejoice"
     },
     {
       "campus": "B",
@@ -5652,7 +5652,7 @@
       "course": "STMATH 405",
       "courseTitle": "NUM ANALYSIS I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Humphries,Thomas"
     },
     {
       "campus": "B",
@@ -5662,7 +5662,7 @@
       "course": "STMATH 407",
       "courseTitle": "LINEAR PROGRAMMING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Humphries,Thomas"
     },
     {
       "campus": "B",
@@ -5672,7 +5672,7 @@
       "course": "STMATH 420",
       "courseTitle": "HISTORY OF MATH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
     },
     {
       "campus": "B",
@@ -5682,7 +5682,7 @@
       "course": "STMATH 424",
       "courseTitle": "REAL ANALYSIS I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mann,Casey"
     },
     {
       "campus": "B",
@@ -5692,7 +5692,7 @@
       "course": "STMATH 424",
       "courseTitle": "REAL ANALYSIS I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Mann,Casey"
     },
     {
       "campus": "B",
@@ -5742,7 +5742,7 @@
       "course": "STMATH 114",
       "courseTitle": "CALC I: STRETCH II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gismervig,Emily"
     },
     {
       "campus": "B",
@@ -5752,47 +5752,7 @@
       "course": "STMATH 114",
       "courseTitle": "CALC I: STRETCH II",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "stmath",
-      "deptName": "Mathematics",
-      "term": "WIN2026",
-      "course": "STMATH 124",
-      "courseTitle": "CALCULUS I",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "stmath",
-      "deptName": "Mathematics",
-      "term": "WIN2026",
-      "course": "STMATH 124",
-      "courseTitle": "CALCULUS I",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "stmath",
-      "deptName": "Mathematics",
-      "term": "WIN2026",
-      "course": "STMATH 124",
-      "courseTitle": "CALCULUS I",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "stmath",
-      "deptName": "Mathematics",
-      "term": "WIN2026",
-      "course": "STMATH 124",
-      "courseTitle": "CALCULUS I",
-      "section": "D",
-      "instructor": "TBA"
+      "instructor": "Gismervig,Emily"
     },
     {
       "campus": "B",
@@ -5802,7 +5762,47 @@
       "course": "STMATH 124",
       "courseTitle": "CALCULUS I",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Field,Elizabeth"
+    },
+    {
+      "campus": "B",
+      "dept": "stmath",
+      "deptName": "Mathematics",
+      "term": "WIN2026",
+      "course": "STMATH 124",
+      "courseTitle": "CALCULUS I",
+      "section": "C",
+      "instructor": "Hockstra,Dale"
+    },
+    {
+      "campus": "B",
+      "dept": "stmath",
+      "deptName": "Mathematics",
+      "term": "WIN2026",
+      "course": "STMATH 124",
+      "courseTitle": "CALCULUS I",
+      "section": "D",
+      "instructor": "Hockstra,Dale"
+    },
+    {
+      "campus": "B",
+      "dept": "stmath",
+      "deptName": "Mathematics",
+      "term": "WIN2026",
+      "course": "STMATH 124",
+      "courseTitle": "CALCULUS I",
+      "section": "A",
+      "instructor": "Moraiti,Marina"
+    },
+    {
+      "campus": "B",
+      "dept": "stmath",
+      "deptName": "Mathematics",
+      "term": "WIN2026",
+      "course": "STMATH 124",
+      "courseTitle": "CALCULUS I",
+      "section": "B",
+      "instructor": "Moraiti,Marina"
     },
     {
       "campus": "B",
@@ -5812,37 +5812,7 @@
       "course": "STMATH 124",
       "courseTitle": "CALCULUS I",
       "section": "G",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "stmath",
-      "deptName": "Mathematics",
-      "term": "WIN2026",
-      "course": "STMATH 125",
-      "courseTitle": "CALCULUS II",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "stmath",
-      "deptName": "Mathematics",
-      "term": "WIN2026",
-      "course": "STMATH 125",
-      "courseTitle": "CALCULUS II",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "stmath",
-      "deptName": "Mathematics",
-      "term": "WIN2026",
-      "course": "STMATH 125",
-      "courseTitle": "CALCULUS II",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Moraiti,Marina"
     },
     {
       "campus": "B",
@@ -5852,7 +5822,17 @@
       "course": "STMATH 125",
       "courseTitle": "CALCULUS II",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Abudiab,Mufid"
+    },
+    {
+      "campus": "B",
+      "dept": "stmath",
+      "deptName": "Mathematics",
+      "term": "WIN2026",
+      "course": "STMATH 125",
+      "courseTitle": "CALCULUS II",
+      "section": "C",
+      "instructor": "Dundon,Ariana F."
     },
     {
       "campus": "B",
@@ -5862,7 +5842,7 @@
       "course": "STMATH 125",
       "courseTitle": "CALCULUS II",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Dundon,Ariana F."
     },
     {
       "campus": "B",
@@ -5872,7 +5852,27 @@
       "course": "STMATH 125",
       "courseTitle": "CALCULUS II",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
+    },
+    {
+      "campus": "B",
+      "dept": "stmath",
+      "deptName": "Mathematics",
+      "term": "WIN2026",
+      "course": "STMATH 125",
+      "courseTitle": "CALCULUS II",
+      "section": "A",
+      "instructor": "Rajopadhye,Shubha"
+    },
+    {
+      "campus": "B",
+      "dept": "stmath",
+      "deptName": "Mathematics",
+      "term": "WIN2026",
+      "course": "STMATH 125",
+      "courseTitle": "CALCULUS II",
+      "section": "B",
+      "instructor": "Rajopadhye,Shubha"
     },
     {
       "campus": "B",
@@ -5882,7 +5882,7 @@
       "course": "STMATH 126",
       "courseTitle": "CALCULUS III",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Barchechat,Alexandre"
     },
     {
       "campus": "B",
@@ -5892,7 +5892,7 @@
       "course": "STMATH 126",
       "courseTitle": "CALCULUS III",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Barchechat,Alexandre"
     },
     {
       "campus": "B",
@@ -5902,7 +5902,7 @@
       "course": "STMATH 126",
       "courseTitle": "CALCULUS III",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Gismervig,Emily"
     },
     {
       "campus": "B",
@@ -5912,7 +5912,7 @@
       "course": "STMATH 207",
       "courseTitle": "INTRO TO DIFF EQ",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Musselman,Clark"
     },
     {
       "campus": "B",
@@ -5922,17 +5922,7 @@
       "course": "STMATH 207",
       "courseTitle": "INTRO TO DIFF EQ",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "stmath",
-      "deptName": "Mathematics",
-      "term": "WIN2026",
-      "course": "STMATH 208",
-      "courseTitle": "MATRIX ALGEBRA",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Musselman,Clark"
     },
     {
       "campus": "B",
@@ -5942,7 +5932,7 @@
       "course": "STMATH 208",
       "courseTitle": "MATRIX ALGEBRA",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Abian,Andrew"
     },
     {
       "campus": "B",
@@ -5952,7 +5942,17 @@
       "course": "STMATH 208",
       "courseTitle": "MATRIX ALGEBRA",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Abudiab,Mufid"
+    },
+    {
+      "campus": "B",
+      "dept": "stmath",
+      "deptName": "Mathematics",
+      "term": "WIN2026",
+      "course": "STMATH 208",
+      "courseTitle": "MATRIX ALGEBRA",
+      "section": "A",
+      "instructor": "Paparella,Pietro"
     },
     {
       "campus": "B",
@@ -5962,7 +5962,7 @@
       "course": "STMATH 224",
       "courseTitle": "MULTIVAR CALCULUS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Abian,Andrew"
     },
     {
       "campus": "B",
@@ -5972,7 +5972,7 @@
       "course": "STMATH 224",
       "courseTitle": "MULTIVAR CALCULUS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Abian,Andrew"
     },
     {
       "campus": "B",
@@ -5982,7 +5982,7 @@
       "course": "STMATH 300",
       "courseTitle": "FNDTNS OF MDRN MATH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Field,Elizabeth"
     },
     {
       "campus": "B",
@@ -5992,7 +5992,7 @@
       "course": "STMATH 301",
       "courseTitle": "INTRO TO PROF MATH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
     },
     {
       "campus": "B",
@@ -6002,7 +6002,7 @@
       "course": "STMATH 341",
       "courseTitle": "STATISTICAL INFER",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rajopadhye,Shubha"
     },
     {
       "campus": "B",
@@ -6012,7 +6012,7 @@
       "course": "STMATH 390",
       "courseTitle": "PROB AND STATS ENG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kirson,Antonio"
     },
     {
       "campus": "B",
@@ -6022,7 +6022,7 @@
       "course": "STMATH 390",
       "courseTitle": "PROB AND STATS ENG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Kirson,Antonio"
     },
     {
       "campus": "B",
@@ -6032,7 +6032,7 @@
       "course": "STMATH 392",
       "courseTitle": "PROBABILITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Musselman,Clark"
     },
     {
       "campus": "B",
@@ -6042,7 +6042,7 @@
       "course": "STMATH 402",
       "courseTitle": "ABSTRACT ALGEBRA I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mann,Casey"
     },
     {
       "campus": "B",
@@ -6052,7 +6052,7 @@
       "course": "STMATH 402",
       "courseTitle": "ABSTRACT ALGEBRA I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Mann,Casey"
     },
     {
       "campus": "B",
@@ -6062,7 +6062,7 @@
       "course": "STMATH 406",
       "courseTitle": "NUM ANALYSIS II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Humphries,Thomas"
     },
     {
       "campus": "B",
@@ -6072,7 +6072,7 @@
       "course": "STMATH 424",
       "courseTitle": "REAL ANALYSIS I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Loreto,Milagros"
     },
     {
       "campus": "B",
@@ -6082,7 +6082,7 @@
       "course": "STMATH 427",
       "courseTitle": "COMPLEX ANALYSIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Paparella,Pietro"
     },
     {
       "campus": "B",
@@ -6132,7 +6132,7 @@
       "course": "STMATH 124",
       "courseTitle": "CALCULUS I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nash,Brady"
     },
     {
       "campus": "B",
@@ -6142,7 +6142,7 @@
       "course": "STMATH 124",
       "courseTitle": "CALCULUS I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Nash,Brady"
     },
     {
       "campus": "B",
@@ -6152,37 +6152,7 @@
       "course": "STMATH 124",
       "courseTitle": "CALCULUS I",
       "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "stmath",
-      "deptName": "Mathematics",
-      "term": "SPR2026",
-      "course": "STMATH 125",
-      "courseTitle": "CALCULUS II",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "stmath",
-      "deptName": "Mathematics",
-      "term": "SPR2026",
-      "course": "STMATH 125",
-      "courseTitle": "CALCULUS II",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "stmath",
-      "deptName": "Mathematics",
-      "term": "SPR2026",
-      "course": "STMATH 125",
-      "courseTitle": "CALCULUS II",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Rajopadhye,Shubha"
     },
     {
       "campus": "B",
@@ -6192,7 +6162,7 @@
       "course": "STMATH 125",
       "courseTitle": "CALCULUS II",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Gismervig,Emily"
     },
     {
       "campus": "B",
@@ -6202,27 +6172,37 @@
       "course": "STMATH 125",
       "courseTitle": "CALCULUS II",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Gismervig,Emily"
     },
     {
       "campus": "B",
       "dept": "stmath",
       "deptName": "Mathematics",
       "term": "SPR2026",
-      "course": "STMATH 126",
-      "courseTitle": "CALCULUS III",
+      "course": "STMATH 125",
+      "courseTitle": "CALCULUS II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
     },
     {
       "campus": "B",
       "dept": "stmath",
       "deptName": "Mathematics",
       "term": "SPR2026",
-      "course": "STMATH 126",
-      "courseTitle": "CALCULUS III",
+      "course": "STMATH 125",
+      "courseTitle": "CALCULUS II",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
+    },
+    {
+      "campus": "B",
+      "dept": "stmath",
+      "deptName": "Mathematics",
+      "term": "SPR2026",
+      "course": "STMATH 125",
+      "courseTitle": "CALCULUS II",
+      "section": "C",
+      "instructor": "Musselman,Clark"
     },
     {
       "campus": "B",
@@ -6232,7 +6212,7 @@
       "course": "STMATH 126",
       "courseTitle": "CALCULUS III",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Abudiab,Mufid"
     },
     {
       "campus": "B",
@@ -6242,7 +6222,27 @@
       "course": "STMATH 126",
       "courseTitle": "CALCULUS III",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Abudiab,Mufid"
+    },
+    {
+      "campus": "B",
+      "dept": "stmath",
+      "deptName": "Mathematics",
+      "term": "SPR2026",
+      "course": "STMATH 126",
+      "courseTitle": "CALCULUS III",
+      "section": "A",
+      "instructor": "Stevenson,Kristina"
+    },
+    {
+      "campus": "B",
+      "dept": "stmath",
+      "deptName": "Mathematics",
+      "term": "SPR2026",
+      "course": "STMATH 126",
+      "courseTitle": "CALCULUS III",
+      "section": "B",
+      "instructor": "Stevenson,Kristina"
     },
     {
       "campus": "B",
@@ -6252,7 +6252,7 @@
       "course": "STMATH 207",
       "courseTitle": "INTRO TO DIFF EQ",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Moraiti,Marina"
     },
     {
       "campus": "B",
@@ -6262,7 +6262,7 @@
       "course": "STMATH 207",
       "courseTitle": "INTRO TO DIFF EQ",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Moraiti,Marina"
     },
     {
       "campus": "B",
@@ -6272,7 +6272,7 @@
       "course": "STMATH 208",
       "courseTitle": "MATRIX ALGEBRA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Loreto,Milagros"
     },
     {
       "campus": "B",
@@ -6282,7 +6282,7 @@
       "course": "STMATH 208",
       "courseTitle": "MATRIX ALGEBRA",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Loreto,Milagros"
     },
     {
       "campus": "B",
@@ -6292,7 +6292,7 @@
       "course": "STMATH 224",
       "courseTitle": "MULTIVAR CALCULUS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Abian,Andrew"
     },
     {
       "campus": "B",
@@ -6302,7 +6302,7 @@
       "course": "STMATH 224",
       "courseTitle": "MULTIVAR CALCULUS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Abian,Andrew"
     },
     {
       "campus": "B",
@@ -6312,7 +6312,7 @@
       "course": "STMATH 300",
       "courseTitle": "FNDTNS OF MDRN MATH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Field,Elizabeth"
     },
     {
       "campus": "B",
@@ -6322,7 +6322,7 @@
       "course": "STMATH 341",
       "courseTitle": "STATISTICAL INFER",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Simonsen,Linda"
     },
     {
       "campus": "B",
@@ -6332,7 +6332,7 @@
       "course": "STMATH 341",
       "courseTitle": "STATISTICAL INFER",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Simonsen,Linda"
     },
     {
       "campus": "B",
@@ -6342,7 +6342,7 @@
       "course": "STMATH 381",
       "courseTitle": "DISCRETE MATH MODEL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Musselman,Clark"
     },
     {
       "campus": "B",
@@ -6352,7 +6352,7 @@
       "course": "STMATH 390",
       "courseTitle": "PROB AND STATS ENG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dundon,Ariana F."
     },
     {
       "campus": "B",
@@ -6362,7 +6362,7 @@
       "course": "STMATH 390",
       "courseTitle": "PROB AND STATS ENG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Dundon,Ariana F."
     },
     {
       "campus": "B",
@@ -6372,7 +6372,7 @@
       "course": "STMATH 402",
       "courseTitle": "ABSTRACT ALGEBRA I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Paparella,Pietro"
     },
     {
       "campus": "B",
@@ -6382,7 +6382,7 @@
       "course": "STMATH 403",
       "courseTitle": "ABSTRACT ALGEBRA II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mann,Casey"
     },
     {
       "campus": "B",
@@ -6392,7 +6392,7 @@
       "course": "STMATH 465",
       "courseTitle": "FOSTERING ALGEBRA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Musselman,Alexandria Theak"
     },
     {
       "campus": "B",

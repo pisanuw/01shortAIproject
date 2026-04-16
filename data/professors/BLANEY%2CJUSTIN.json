@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "BLANEY%2CJUSTIN",
+  "professor": "BLANEY,JUSTIN",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mktg",
+      "deptName": "Marketing",
+      "term": "SPR2022",
+      "course": "MKTG 490",
+      "courseTitle": "SPC TPCS A ISS MKTG",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mktg",
+      "deptName": "Marketing",
+      "term": "SPR2021",
+      "course": "MKTG 490",
+      "courseTitle": "SPC TPCS A ISS MKTG",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "entre",
+      "deptName": "Entrepreneurship",
+      "term": "SPR2021",
+      "course": "ENTRE 490",
+      "courseTitle": "SPECIAL TOPICS ENTRE",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Garrison%2CM",
+  "professor": "Garrison,M",
+  "recordCount": 5,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hlthsvcs",
+      "deptName": "Health Services",
+      "term": "WIN2022",
+      "course": "HSERV 592",
+      "courseTitle": "PROGRAM SEMINARS",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hlthsvcs",
+      "deptName": "Health Services",
+      "term": "WIN2022",
+      "course": "HSERV 230",
+      "courseTitle": "SLEEP & POP HEALTH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "WIN2022",
+      "course": "EPI 592",
+      "courseTitle": "PROGRAM SEMINARS",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hlthsvcs",
+      "deptName": "Health Services",
+      "term": "SPR2021",
+      "course": "HSERV 592",
+      "courseTitle": "PROGRAM SEMINARS",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "SPR2021",
+      "course": "EPI 592",
+      "courseTitle": "PROGRAM SEMINARS",
+      "section": "D"
+    }
+  ]
+}

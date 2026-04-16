@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Tran%2CNancy",
+  "professor": "Tran,Nancy",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SUM2023",
+      "course": "INFO 498",
+      "courseTitle": "TOPIC INFORMATICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2022",
+      "course": "INFO 498",
+      "courseTitle": "TOPIC INFORMATICS",
+      "section": "B"
+    }
+  ]
+}

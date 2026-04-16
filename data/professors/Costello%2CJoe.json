@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Costello%2CJoe",
+  "professor": "Costello,Joe",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2021",
+      "course": "DESIGN 318",
+      "courseTitle": "INTRMD ID STUDIO 2",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "AUT2020",
+      "course": "DESIGN 316",
+      "courseTitle": "INTRO INDUST DESIGN",
+      "section": "A"
+    }
+  ]
+}

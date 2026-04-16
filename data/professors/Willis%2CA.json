@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Willis%2CA",
+  "professor": "Willis,A",
+  "recordCount": 5,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "WIN2023",
+      "course": "BIOST 518",
+      "courseTitle": "APPLIED BIOSTAT II",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "WIN2023",
+      "course": "BIOST 515",
+      "courseTitle": "BIOSTATISTICS II",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "WIN2022",
+      "course": "BIOST 518",
+      "courseTitle": "APPLIED BIOSTAT II",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "WIN2022",
+      "course": "BIOST 515",
+      "courseTitle": "BIOSTATISTICS II",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "AUT2020",
+      "course": "BIOST 509",
+      "courseTitle": "R FOR HEALTH DATA",
+      "section": "A"
+    }
+  ]
+}

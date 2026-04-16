@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:24:45Z",
+  "generatedAt": "2026-04-16T02:57:08Z",
   "campus": "B",
   "dept": "bhs",
   "deptName": "Health Studies",
@@ -31,6 +31,16 @@
       "term": "AUT2020",
       "course": "BHS 201",
       "courseTitle": "INTRO PUBLIC HLTH",
+      "section": "C",
+      "instructor": "Breckwich Vasquez,Victoria"
+    },
+    {
+      "campus": "B",
+      "dept": "bhs",
+      "deptName": "Health Studies",
+      "term": "AUT2020",
+      "course": "BHS 201",
+      "courseTitle": "INTRO PUBLIC HLTH",
       "section": "A",
       "instructor": "Daniel-Ulloa,Jason"
     },
@@ -43,16 +53,6 @@
       "courseTitle": "INTRO PUBLIC HLTH",
       "section": "D",
       "instructor": "Daniel-Ulloa,Jason"
-    },
-    {
-      "campus": "B",
-      "dept": "bhs",
-      "deptName": "Health Studies",
-      "term": "AUT2020",
-      "course": "BHS 201",
-      "courseTitle": "INTRO PUBLIC HLTH",
-      "section": "C",
-      "instructor": "TBA"
     },
     {
       "campus": "B",
@@ -702,7 +702,7 @@
       "course": "BHS 210",
       "courseTitle": "HLTH PROMO & COMM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Breckwich Vasquez,Victoria"
     },
     {
       "campus": "B",
@@ -721,8 +721,8 @@
       "term": "SPR2022",
       "course": "BHS 302",
       "courseTitle": "SOC DIMEN OF HEALTH",
-      "section": "B",
-      "instructor": "Segadelli,Jen"
+      "section": "A",
+      "instructor": "ROOSMA-GOLDSTEIN,SHANNON L"
     },
     {
       "campus": "B",
@@ -731,8 +731,8 @@
       "term": "SPR2022",
       "course": "BHS 302",
       "courseTitle": "SOC DIMEN OF HEALTH",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Segadelli,Jen"
     },
     {
       "campus": "B",
@@ -1981,8 +1981,8 @@
       "term": "AUT2025",
       "course": "BHS 201",
       "courseTitle": "INTRO PUBLIC HLTH",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Karlsson,Cynthia"
     },
     {
       "campus": "B",
@@ -1991,8 +1991,8 @@
       "term": "AUT2025",
       "course": "BHS 201",
       "courseTitle": "INTRO PUBLIC HLTH",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Stone,Andrea L"
     },
     {
       "campus": "B",
@@ -2002,7 +2002,7 @@
       "course": "BHS 210",
       "courseTitle": "HLTH PROMO & COMM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Blancas,Maria T."
     },
     {
       "campus": "B",
@@ -2012,7 +2012,7 @@
       "course": "BHS 300",
       "courseTitle": "HEALTH RESEARCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dworkin,Shari L."
     },
     {
       "campus": "B",
@@ -2022,7 +2022,7 @@
       "course": "BHS 302",
       "courseTitle": "SOC DIMEN OF HEALTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gorbman,Celia Rose"
     },
     {
       "campus": "B",
@@ -2032,7 +2032,7 @@
       "course": "BHS 305",
       "courseTitle": "INTRO HLTH POL SYST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Segadelli,Jen"
     },
     {
       "campus": "B",
@@ -2042,7 +2042,7 @@
       "course": "BHS 403",
       "courseTitle": "INTRO EPIDEMIOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Iverson Cabral,Stefanie"
     },
     {
       "campus": "B",
@@ -2062,7 +2062,7 @@
       "course": "BHS 501",
       "courseTitle": "SOC JUSTICE & ETHICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dworkin,Shari L."
     },
     {
       "campus": "B",
@@ -2072,7 +2072,7 @@
       "course": "BHS 502",
       "courseTitle": "HIST & FNDN COM HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Runnerstrom,Miryha Gould"
     },
     {
       "campus": "B",
@@ -2082,7 +2082,7 @@
       "course": "BHS 515",
       "courseTitle": "SOC JUS LDRSHP & MGT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anderson,Eric S"
     },
     {
       "campus": "B",
@@ -2092,17 +2092,7 @@
       "course": "BHS 521",
       "courseTitle": "SOCIAL EPIDEMIOLOGY",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bhs",
-      "deptName": "Health Studies",
-      "term": "WIN2026",
-      "course": "BHS 201",
-      "courseTitle": "INTRO PUBLIC HLTH",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stone,Andrea L"
     },
     {
       "campus": "B",
@@ -2112,7 +2102,17 @@
       "course": "BHS 201",
       "courseTitle": "INTRO PUBLIC HLTH",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Goode,Tara"
+    },
+    {
+      "campus": "B",
+      "dept": "bhs",
+      "deptName": "Health Studies",
+      "term": "WIN2026",
+      "course": "BHS 201",
+      "courseTitle": "INTRO PUBLIC HLTH",
+      "section": "A",
+      "instructor": "Karlsson,Cynthia"
     },
     {
       "campus": "B",
@@ -2152,7 +2152,7 @@
       "course": "BHS 302",
       "courseTitle": "SOC DIMEN OF HEALTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Espinoza,Damarys"
     },
     {
       "campus": "B",
@@ -2162,7 +2162,7 @@
       "course": "BHS 305",
       "courseTitle": "INTRO HLTH POL SYST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Iyer,Sunita"
     },
     {
       "campus": "B",
@@ -2182,7 +2182,7 @@
       "course": "BHS 505",
       "courseTitle": "CRIT APPR HLTH COMM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Early,Jody O."
     },
     {
       "campus": "B",
@@ -2192,7 +2192,7 @@
       "course": "BHS 510",
       "courseTitle": "HLTH POL & ADVOCACY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kenworthy,Nora"
     },
     {
       "campus": "B",
@@ -2202,7 +2202,7 @@
       "course": "BHS 525",
       "courseTitle": "PROG PLN/IMPLMT/EVAL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fenn,Robin"
     },
     {
       "campus": "B",
@@ -2212,7 +2212,7 @@
       "course": "BHS 529",
       "courseTitle": "CAPSTONE EXP I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dworkin,Shari L."
     },
     {
       "campus": "B",
@@ -2222,7 +2222,7 @@
       "course": "BHS 201",
       "courseTitle": "INTRO PUBLIC HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Aramori,Miae"
     },
     {
       "campus": "B",
@@ -2232,7 +2232,7 @@
       "course": "BHS 201",
       "courseTitle": "INTRO PUBLIC HLTH",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Davis,Lora B."
     },
     {
       "campus": "B",
@@ -2252,7 +2252,7 @@
       "course": "BHS 300",
       "courseTitle": "HEALTH RESEARCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "James,Tara"
     },
     {
       "campus": "B",
@@ -2262,7 +2262,7 @@
       "course": "BHS 302",
       "courseTitle": "SOC DIMEN OF HEALTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Espinoza,Damarys"
     },
     {
       "campus": "B",
@@ -2272,7 +2272,7 @@
       "course": "BHS 305",
       "courseTitle": "HLTH SYS/PLCY/ADVOCY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Yi,Joanna"
     },
     {
       "campus": "B",
@@ -2282,7 +2282,7 @@
       "course": "BHS 403",
       "courseTitle": "INTRO EPIDEMIOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stone,Andrea L"
     },
     {
       "campus": "B",
@@ -2312,7 +2312,7 @@
       "course": "BHS 515",
       "courseTitle": "SOC JUS LDRSHP & MGT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Iyer,Sunita"
     },
     {
       "campus": "B",
@@ -2322,7 +2322,7 @@
       "course": "BHS 520",
       "courseTitle": "RSRCH, MTHDS & PRAC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wade,Christopher H"
     },
     {
       "campus": "B",
@@ -2332,7 +2332,7 @@
       "course": "BHS 530",
       "courseTitle": "CAPSTONE EXP II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dworkin,Shari L."
     }
   ]
 }

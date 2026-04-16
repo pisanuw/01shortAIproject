@@ -15,7 +15,7 @@ from datetime import datetime, timezone
 from html import unescape
 from pathlib import Path
 from typing import Optional
-from urllib.parse import urlparse
+from urllib.parse import quote, urlparse
 
 from terms import (
     ADDITIONAL_TERM_URLS,
@@ -32,6 +32,10 @@ DEPTS_DIR = ROOT / "data" / "depts"
 SHARDS_DIR = ROOT / "data" / "shards"
 OUT_PATH = ROOT / "data" / "catalog.json"          # legacy
 INDEX_PATH = ROOT / "data" / "catalog_index.json"  # new multi-campus
+PROFESSOR_INDEX_PATH = ROOT / "data" / "professor_index.json"
+PROFESSOR_DIR = ROOT / "data" / "professors"
+COURSE_INDEX_PATH = ROOT / "data" / "course_index.json"
+COURSE_DIR = ROOT / "data" / "courses"
 FIX_NAMES_PATH = ROOT / "fixNames.txt"
 
 
@@ -65,6 +69,11 @@ INSTRUCTOR_TAIL_RE = re.compile(
     r"\s+(?P<instructor>[A-Za-z][A-Za-z,.' -]*[A-Za-z.])\s*$",
     re.IGNORECASE,
 )
+INSTRUCTOR_BEFORE_STATUS_RE = re.compile(
+    r"(?P<instructor>[A-Za-z][A-Za-z,.' -]*,[A-Za-z][A-Za-z,.' -]*)\s+"
+    r"(?:Open|Closed|Full|Cancelled)\s+\d{1,4}\s*/\s*\d{1,4}[A-Z]?",
+    re.IGNORECASE,
+)
 
 
 def make_course_header_re(anchor_prefix: str) -> re.Pattern:
@@ -81,6 +90,12 @@ def make_course_header_re(anchor_prefix: str) -> re.Pattern:
     )
 
 
+GENERIC_COURSE_HEADER_RE = re.compile(
+    r'<A\s+NAME=[a-z0-9]+(?P<num>\d+)>(?P<display>[^<]+)</A>(?:&nbsp;|\s)*<A\s+HREF=[^>]+>(?P<title>[^<]+)</A>',
+    re.IGNORECASE,
+)
+
+
 # ── Text cleaning ──────────────────────────────────────────────────────────────
 
 def clean_text(value: str) -> str:
@@ -94,6 +109,11 @@ def strip_tags_preserve_spacing(value: str) -> str:
     value = re.sub(r"<[^>]+>", " ", value)
     value = unescape(value)
     return value.replace("\xa0", " ")
+
+
+def normalize_wrapped_anchor_tags(value: str) -> str:
+    """Join anchor tags split across lines, e.g. '<A HREF=...\n>LABEL</A>'."""
+    return re.sub(r"(<A\s+HREF=[^>\n]+)\s*\n\s*>", r"\1>", value, flags=re.IGNORECASE)
 
 
 # ── Name fixes ─────────────────────────────────────────────────────────────────
@@ -153,6 +173,14 @@ def extract_instructor(text_line: str) -> str:
         if is_instructor_candidate(candidate):
             return candidate
 
+    # Packed single-line rows often place instructor immediately before
+    # status/enrollment, e.g. "... Ou,Shaosong Open 98/130".
+    before_status = INSTRUCTOR_BEFORE_STATUS_RE.search(normalized_line)
+    if before_status:
+        candidate = before_status.group("instructor").strip()
+        if is_instructor_candidate(candidate):
+            return candidate
+
     # Current UW schedule format puts enrollment as a reliable anchor before
     # optional grade/fee columns and the instructor token at the far right.
     enrollment_idx = next((i for i, chunk in enumerate(chunks) if ENROLLMENT_RE.search(chunk)), None)
@@ -191,6 +219,10 @@ def parse_dept_html(
     header_re = make_course_header_re(anchor_prefix)
     items: list[dict] = []
     headers = list(header_re.finditer(html))
+    # Some pages use an anchor stem that differs from discovered dept code
+    # (e.g., infosys page anchors use "is###"). Fall back to a generic matcher.
+    if not headers:
+        headers = list(GENERIC_COURSE_HEADER_RE.finditer(html))
 
     for i, header in enumerate(headers):
         course_num = header.group("num")
@@ -198,7 +230,7 @@ def parse_dept_html(
         course_title = clean_text(header.group("title"))
         start = header.end()
         end = headers[i + 1].start() if i + 1 < len(headers) else len(html)
-        block = html[start:end]
+        block = normalize_wrapped_anchor_tags(html[start:end])
 
         for line in block.splitlines():
             if not SLN_LINE_RE.search(line):
@@ -296,6 +328,62 @@ def load_depts_for_campus(campus: str) -> list[dict]:
     return json.loads(term_files[0].read_text(encoding="utf-8"))
 
 
+def merge_instructors_by_section(primary: list[dict], fallback: list[dict]) -> list[dict]:
+    """
+    Fill TBA instructors in primary records with non-TBA values from fallback.
+    Match key: (term, course, section).
+    """
+    fallback_map: dict[tuple[str, str, str], str] = {}
+    for row in fallback:
+        instructor = str(row.get("instructor") or "").strip()
+        if not instructor or instructor == "TBA":
+            continue
+        key = (row.get("term", ""), row.get("course", ""), row.get("section", ""))
+        fallback_map[key] = instructor
+
+    merged: list[dict] = []
+    for row in primary:
+        out = dict(row)
+        if str(out.get("instructor") or "").strip() == "TBA":
+            key = (out.get("term", ""), out.get("course", ""), out.get("section", ""))
+            replacement = fallback_map.get(key)
+            if replacement:
+                out["instructor"] = replacement
+        merged.append(out)
+    return merged
+
+
+def load_bothell_css_legacy_fallback(
+    term_code: str,
+    name_fixes: dict[str, str],
+    anchor_prefix: str,
+    dept_code: str,
+    dept_name: str,
+) -> list[dict]:
+    """Load legacy flat raw files for Bothell CSS and parse as fallback records."""
+    items: list[dict] = []
+    for flat_code in (dept_code, f"95{dept_code}"):
+        flat_path = RAW_DIR / f"{term_code}_{flat_code}.html"
+        if not flat_path.exists():
+            continue
+        html = flat_path.read_text(encoding="utf-8", errors="replace")
+        items.extend(parse_dept_html(
+            term_code,
+            html,
+            name_fixes,
+            anchor_prefix=anchor_prefix,
+            campus="B",
+            dept_code=dept_code,
+            dept_name=dept_name,
+        ))
+
+    unique: dict[tuple, dict] = {}
+    for item in items:
+        key = (item["term"], item["course"], item["section"], item["instructor"])
+        unique[key] = item
+    return list(unique.values())
+
+
 def build_shard(campus: str, dept: dict, all_term_codes: list[str],
                 name_fixes: dict[str, str]) -> tuple[list[dict], int]:
     """Build the records for one dept shard. Returns (records, file_count)."""
@@ -308,37 +396,50 @@ def build_shard(campus: str, dept: dict, all_term_codes: list[str],
     all_items: list[dict] = []
     file_count = 0
 
-    for term_code in all_term_codes:
-        raw_path = raw_campus_dir / f"{term_code}_{dept_code}.html"
-        if not raw_path.exists():
-            continue
-        html = raw_path.read_text(encoding="utf-8", errors="replace")
-        items = parse_dept_html(
-            term_code, html, name_fixes,
-            anchor_prefix=anchor_prefix,
-            campus=campus,
-            dept_code=dept_code,
-            dept_name=dept_name,
-        )
-        all_items.extend(items)
-        file_count += 1
-
-    # Also check for 95{dept} fee-based variant
     fee_code = f"95{dept_code}"
     for term_code in all_term_codes:
-        raw_path = raw_campus_dir / f"{term_code}_{fee_code}.html"
-        if not raw_path.exists():
-            continue
-        html = raw_path.read_text(encoding="utf-8", errors="replace")
-        items = parse_dept_html(
-            term_code, html, name_fixes,
-            anchor_prefix=anchor_prefix,
-            campus=campus,
-            dept_code=dept_code,
-            dept_name=dept_name,
-        )
-        all_items.extend(items)
-        file_count += 1
+        term_items: list[dict] = []
+
+        raw_path = raw_campus_dir / f"{term_code}_{dept_code}.html"
+        if raw_path.exists():
+            html = raw_path.read_text(encoding="utf-8", errors="replace")
+            term_items.extend(parse_dept_html(
+                term_code, html, name_fixes,
+                anchor_prefix=anchor_prefix,
+                campus=campus,
+                dept_code=dept_code,
+                dept_name=dept_name,
+            ))
+            file_count += 1
+
+        fee_path = raw_campus_dir / f"{term_code}_{fee_code}.html"
+        if fee_path.exists():
+            html = fee_path.read_text(encoding="utf-8", errors="replace")
+            term_items.extend(parse_dept_html(
+                term_code, html, name_fixes,
+                anchor_prefix=anchor_prefix,
+                campus=campus,
+                dept_code=dept_code,
+                dept_name=dept_name,
+            ))
+            file_count += 1
+
+        # Bothell CSS has both legacy flat raws and campus raws in this repo.
+        # For some recent terms, campus raws omit instructor text while legacy
+        # raws still include it. Fill TBA rows from legacy files when available.
+        if campus == "B" and dept_code == "css" and term_items:
+            if any((row.get("instructor") == "TBA") for row in term_items):
+                legacy_items = load_bothell_css_legacy_fallback(
+                    term_code,
+                    name_fixes,
+                    anchor_prefix,
+                    dept_code,
+                    dept_name,
+                )
+                if legacy_items:
+                    term_items = merge_instructors_by_section(term_items, legacy_items)
+
+        all_items.extend(term_items)
 
     # Deduplicate across all terms
     unique: dict[tuple, dict] = {}
@@ -439,6 +540,169 @@ def build_catalog_index(campus_summaries: dict[str, list[dict]]) -> None:
     }
     INDEX_PATH.write_text(json.dumps(payload, indent=2), encoding="utf-8")
     print(f"\nWrote catalog_index.json with {len(campuses_data)} campus(es)")
+
+
+def build_professor_artifacts() -> None:
+    """Write a global professor index and per-professor record files from shard data."""
+    professor_map: dict[str, list[dict]] = {}
+
+    for shard_path in sorted(SHARDS_DIR.glob("*/*.json")):
+        try:
+            payload = json.loads(shard_path.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+
+        for row in payload.get("records", []):
+            professor = str(row.get("instructor") or "").strip()
+            if not professor or professor == "TBA":
+                continue
+
+            campus_code = str(row.get("campus") or "").strip()
+            professor_map.setdefault(professor, []).append({
+                "campus": campus_code,
+                "campusName": CAMPUSES.get(campus_code, campus_code),
+                "dept": row.get("dept", ""),
+                "deptName": row.get("deptName", ""),
+                "term": row.get("term", ""),
+                "course": row.get("course", ""),
+                "courseTitle": row.get("courseTitle", ""),
+                "section": row.get("section", ""),
+            })
+
+    PROFESSOR_DIR.mkdir(parents=True, exist_ok=True)
+    for existing in PROFESSOR_DIR.glob("*.json"):
+        existing.unlink()
+
+    professor_index: list[dict] = []
+    for professor in sorted(professor_map.keys(), key=lambda value: value.lower()):
+        raw_records = professor_map[professor]
+        unique: dict[tuple, dict] = {}
+        for row in raw_records:
+            key = (
+                row["campus"], row["dept"], row["term"], row["course"], row["section"],
+            )
+            unique[key] = row
+
+        records = sorted(
+            unique.values(),
+            key=lambda row: (
+                term_sort_key(row["term"]), row["campus"], row["course"], row["section"],
+            ),
+            reverse=True,
+        )
+        professor_id = quote(professor, safe="")
+        campuses = sorted({row["campusName"] for row in records}, key=lambda value: value.lower())
+
+        (PROFESSOR_DIR / f"{professor_id}.json").write_text(
+            json.dumps({
+                "generatedAt": _now_iso(),
+                "id": professor_id,
+                "professor": professor,
+                "recordCount": len(records),
+                "records": records,
+            }, indent=2),
+            encoding="utf-8",
+        )
+
+        professor_index.append({
+            "id": professor_id,
+            "name": professor,
+            "recordCount": len(records),
+            "campuses": campuses,
+        })
+
+    PROFESSOR_INDEX_PATH.write_text(
+        json.dumps({
+            "generatedAt": _now_iso(),
+            "professors": professor_index,
+        }, indent=2),
+        encoding="utf-8",
+    )
+    print(f"Wrote professor_index.json with {len(professor_index)} professor(s)")
+
+
+def build_course_artifacts() -> None:
+    """Write a global course index and per-course offering files from shard data."""
+    course_map: dict[str, list[dict]] = {}
+
+    for shard_path in sorted(SHARDS_DIR.glob("*/*.json")):
+        try:
+            payload = json.loads(shard_path.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+
+        for row in payload.get("records", []):
+            campus_code = str(row.get("campus") or "").strip()
+            course_code = str(row.get("course") or "").strip()
+            if not campus_code or not course_code:
+                continue
+
+            course_name = f"{campus_code} - {course_code}"
+            course_map.setdefault(course_name, []).append({
+                "campus": campus_code,
+                "campusName": CAMPUSES.get(campus_code, campus_code),
+                "dept": row.get("dept", ""),
+                "deptName": row.get("deptName", ""),
+                "term": row.get("term", ""),
+                "course": course_code,
+                "courseTitle": row.get("courseTitle", ""),
+                "section": row.get("section", ""),
+                "instructor": row.get("instructor", "TBA"),
+            })
+
+    COURSE_DIR.mkdir(parents=True, exist_ok=True)
+    for existing in COURSE_DIR.glob("*.json"):
+        existing.unlink()
+
+    course_index: list[dict] = []
+    for course_name in sorted(course_map.keys(), key=lambda value: value.lower()):
+        raw_records = course_map[course_name]
+        unique: dict[tuple, dict] = {}
+        for row in raw_records:
+            key = (
+                row["campus"], row["dept"], row["term"], row["course"], row["section"], row["instructor"],
+            )
+            unique[key] = row
+
+        records = sorted(
+            unique.values(),
+            key=lambda row: (
+                term_sort_key(row["term"]), row["instructor"], row["section"],
+            ),
+            reverse=True,
+        )
+        course_id = quote(course_name, safe="")
+        professors = sorted(
+            {row["instructor"] for row in records if str(row.get("instructor") or "").strip() and row.get("instructor") != "TBA"},
+            key=lambda value: value.lower(),
+        )
+
+        (COURSE_DIR / f"{course_id}.json").write_text(
+            json.dumps({
+                "generatedAt": _now_iso(),
+                "id": course_id,
+                "course": course_name,
+                "recordCount": len(records),
+                "records": records,
+            }, indent=2),
+            encoding="utf-8",
+        )
+
+        course_index.append({
+            "id": course_id,
+            "name": course_name,
+            "recordCount": len(records),
+            "professorCount": len(professors),
+        })
+
+    COURSE_INDEX_PATH.write_text(
+        json.dumps({
+            "generatedAt": _now_iso(),
+            "courses": course_index,
+        }, indent=2),
+        encoding="utf-8",
+    )
+    print(f"Wrote course_index.json with {len(course_index)} course(s)")
 
 
 def _now_iso() -> str:
@@ -588,6 +852,9 @@ def main() -> None:
 
         merged: dict[str, list[dict]] = {**existing_index, **all_summaries}
         build_catalog_index(merged)
+
+    build_professor_artifacts()
+    build_course_artifacts()
 
 
 if __name__ == "__main__":

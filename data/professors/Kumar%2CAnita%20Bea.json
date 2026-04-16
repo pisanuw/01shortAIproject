@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Kumar%2CAnita%20Bea",
+  "professor": "Kumar,Anita Bea",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mused",
+      "deptName": "Music Education",
+      "term": "SPR2024",
+      "course": "MUSED 496",
+      "courseTitle": "SPEC MUS ED TOPICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mused",
+      "deptName": "Music Education",
+      "term": "WIN2024",
+      "course": "MUSED 432",
+      "courseTitle": "COMP MUS SEC SCHOOL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mused",
+      "deptName": "Music Education",
+      "term": "AUT2022",
+      "course": "MUSED 540",
+      "courseTitle": "HISTORY MUSIC EDUC",
+      "section": "A"
+    }
+  ]
+}

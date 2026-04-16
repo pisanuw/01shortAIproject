@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Dirac%2CMae",
+  "professor": "Dirac,Mae",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hms",
+      "deptName": "Health Metrics Sciences",
+      "term": "SPR2025",
+      "course": "HMS 530",
+      "courseTitle": "GBD MTHDS & RESULTS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hms",
+      "deptName": "Health Metrics Sciences",
+      "term": "SPR2024",
+      "course": "HMS 530",
+      "courseTitle": "GBD MTHDS & RESULTS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2022",
+      "course": "G H 592",
+      "courseTitle": "PROGRAM SEMINARS",
+      "section": "A"
+    }
+  ]
+}

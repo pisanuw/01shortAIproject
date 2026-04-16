@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:58Z",
+  "generatedAt": "2026-04-16T02:57:13Z",
   "campus": "S",
   "dept": "barm",
   "deptName": "Business Administration Research Methods",
@@ -38,6 +38,16 @@
       "campus": "S",
       "dept": "barm",
       "deptName": "Business Administration Research Methods",
+      "term": "AUT2023",
+      "course": "BA RM 590",
+      "courseTitle": "BEHAVRL RSCH-THEORY",
+      "section": "A",
+      "instructor": "Barnes,Christopher"
+    },
+    {
+      "campus": "S",
+      "dept": "barm",
+      "deptName": "Business Administration Research Methods",
       "term": "AUT2024",
       "course": "BA RM 591",
       "courseTitle": "BEHAVRL RSCH-APPLIC",
@@ -52,7 +62,7 @@
       "course": "BA RM 590",
       "courseTitle": "BEHAVRL RSCH-THEORY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Johnson,Michael"
     }
   ]
 }

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Shethar%2CJ",
+  "professor": "Shethar,J",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "SPR2023",
+      "course": "R E 411",
+      "courseTitle": "RE APPRAISAL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "WIN2023",
+      "course": "R E 411",
+      "courseTitle": "RE APPRAISAL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2021",
+      "course": "R E 411",
+      "courseTitle": "RE APPRAISAL",
+      "section": "A"
+    }
+  ]
+}

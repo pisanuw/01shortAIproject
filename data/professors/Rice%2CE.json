@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Rice%2CE",
+  "professor": "Rice,E",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ba",
+      "deptName": "Business Administration",
+      "term": "SUM2022",
+      "course": "B A 580",
+      "courseTitle": "PROBS IN MICROECON",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ba",
+      "deptName": "Business Administration",
+      "term": "SUM2021",
+      "course": "B A 580",
+      "courseTitle": "PROBS IN MICROECON",
+      "section": "A"
+    }
+  ]
+}

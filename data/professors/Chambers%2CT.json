@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Chambers%2CT",
+  "professor": "Chambers,T",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 429",
+      "courseTitle": "CONSTSUPER",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 429",
+      "courseTitle": "CONSTSUPER",
+      "section": "A"
+    }
+  ]
+}

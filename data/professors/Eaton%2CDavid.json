@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Eaton%2CDavid",
+  "professor": "Eaton,David",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "WIN2025",
+      "course": "ARCH 528",
+      "courseTitle": "DIG DES FAB & CONST",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "WIN2025",
+      "course": "ARCH 528",
+      "courseTitle": "DIG DES FAB & CONST",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "AUT2024",
+      "course": "ARCH 586",
+      "courseTitle": "COMP AND DESIGN SEM",
+      "section": "A"
+    }
+  ]
+}

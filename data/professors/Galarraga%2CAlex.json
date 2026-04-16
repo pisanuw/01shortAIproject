@@ -1,0 +1,68 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Galarraga%2CAlex",
+  "professor": "Galarraga,Alex",
+  "recordCount": 6,
+  "records": [
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "WIN2026",
+      "course": "TMATH 120",
+      "courseTitle": "PRECALCULUS",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "WIN2026",
+      "course": "TMATH 120",
+      "courseTitle": "PRECALCULUS",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "AUT2025",
+      "course": "TMATH 125",
+      "courseTitle": "CALC ANALYT GEOM II",
+      "section": "D"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "AUT2025",
+      "course": "TMATH 125",
+      "courseTitle": "CALC ANALYT GEOM II",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2025",
+      "course": "MATH 125",
+      "courseTitle": "CALC ANALYT GEOM II",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2024",
+      "course": "MATH 125",
+      "courseTitle": "CALC ANALYT GEOM II",
+      "section": "B"
+    }
+  ]
+}

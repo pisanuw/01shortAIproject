@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Steeger%2CJer",
+  "professor": "Steeger,Jer",
+  "recordCount": 5,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "WIN2024",
+      "course": "PHIL 470",
+      "courseTitle": "INTERMEDIATE LOGIC",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "WIN2024",
+      "course": "PHIL 100",
+      "courseTitle": "INTRO TO PHILOSOPHY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "AUT2023",
+      "course": "PHIL 460",
+      "courseTitle": "PHIL OF SCIENCE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "AUT2023",
+      "course": "PHIL 100",
+      "courseTitle": "INTRO TO PHILOSOPHY",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "SPR2023",
+      "course": "PHIL 471",
+      "courseTitle": "ADVANCED LOGIC",
+      "section": "A"
+    }
+  ]
+}

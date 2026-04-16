@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20CHEM%20E%20535",
+  "course": "S - CHEM E 535",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 535",
+      "courseTitle": "NANOMAT CHEM ENGR",
+      "section": "A",
+      "instructor": "Holmberg,Vincent C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 535",
+      "courseTitle": "NANOMAT CHEM ENGR",
+      "section": "A",
+      "instructor": "Holmberg,Vincent C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 535",
+      "courseTitle": "NANOMAT CHEM ENGR",
+      "section": "A",
+      "instructor": "Holmberg,Vincent C"
+    }
+  ]
+}

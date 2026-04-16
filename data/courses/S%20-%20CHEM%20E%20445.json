@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20CHEM%20E%20445",
+  "course": "S - CHEM E 445",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 445",
+      "courseTitle": "FUEL CELL ENGR",
+      "section": "A",
+      "instructor": "Adler,Stuart B."
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 445",
+      "courseTitle": "FUEL CELL ENGR",
+      "section": "A",
+      "instructor": "Adler,S"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 445",
+      "courseTitle": "FUEL CELL ENGR",
+      "section": "A",
+      "instructor": "Adler,S"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20ESS%20456",
+  "course": "S - ESS 456",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ess",
+      "deptName": "Earth and Space Sciences",
+      "term": "SPR2025",
+      "course": "ESS 456",
+      "courseTitle": "SED GEO",
+      "section": "A",
+      "instructor": "Mehra,Akshay K"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ess",
+      "deptName": "Earth and Space Sciences",
+      "term": "WIN2024",
+      "course": "ESS 456",
+      "courseTitle": "SED GEO",
+      "section": "A",
+      "instructor": "Mehra,Akshay K"
+    }
+  ]
+}

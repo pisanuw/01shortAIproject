@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Carlson%2CS",
+  "professor": "Carlson,S",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "neuro",
+      "deptName": "Neuroscience",
+      "term": "AUT2021",
+      "course": "NEURO 501",
+      "courseTitle": "INTRO NEUROBIOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "neuro",
+      "deptName": "Neuroscience",
+      "term": "AUT2020",
+      "course": "NEURO 501",
+      "courseTitle": "INTRO NEUROBIOLOGY",
+      "section": "A"
+    }
+  ]
+}

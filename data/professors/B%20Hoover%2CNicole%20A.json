@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "B%20Hoover%2CNicole%20A",
+  "professor": "B Hoover,Nicole A",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bmath",
+      "deptName": "Mathematics",
+      "term": "WIN2023",
+      "course": "B MATH 123",
+      "courseTitle": "PRECALC II",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bst",
+      "deptName": "Science and Technology",
+      "term": "AUT2022",
+      "course": "BST 205",
+      "courseTitle": "WOMEN IN STEM",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bmath",
+      "deptName": "Mathematics",
+      "term": "SPR2022",
+      "course": "B MATH 123",
+      "courseTitle": "PRECALC II",
+      "section": "A"
+    }
+  ]
+}

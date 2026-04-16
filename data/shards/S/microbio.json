@@ -1,7 +1,4928 @@
 {
-  "generatedAt": "2026-04-15T16:28:01Z",
+  "generatedAt": "2026-04-16T02:57:16Z",
   "campus": "S",
   "dept": "microbio",
   "deptName": "Microbiology",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 301",
+      "courseTitle": "GEN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "Bumgarner,R"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "F",
+      "instructor": "Gray,Kendall M"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "I",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 410",
+      "courseTitle": "FUND OF GEN MICRO I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 435",
+      "courseTitle": "MICROBIAL ECOLOGY",
+      "section": "A",
+      "instructor": "Mittler,J"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 443",
+      "courseTitle": "MED BACTERIOLOGY LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 482",
+      "courseTitle": "PEER TEACHING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 495",
+      "courseTitle": "HONORS UNDERGR RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 496",
+      "courseTitle": "UNDERGRAD LIBR RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 499",
+      "courseTitle": "UNDERGRAD LAB RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 500",
+      "courseTitle": "INTRO TO RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 520",
+      "courseTitle": "SEMINAR",
+      "section": "A",
+      "instructor": "Mougous,Joseph D"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 522",
+      "courseTitle": "CURR RES MICRO",
+      "section": "A",
+      "instructor": "Parsek,M"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 529",
+      "courseTitle": "RES IN BACT PATH",
+      "section": "A",
+      "instructor": "Fang,F"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 534",
+      "courseTitle": "BACT PATHOGENESIS",
+      "section": "A",
+      "instructor": "Fang,F"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 540",
+      "courseTitle": "VIROLOGY",
+      "section": "A",
+      "instructor": "Lagunoff,Michael"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 555",
+      "courseTitle": "ADV CLINICAL MICRO",
+      "section": "A",
+      "instructor": "Cookson,B"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 599",
+      "courseTitle": "RSRCH PRESENTATIONS",
+      "section": "A",
+      "instructor": "Pardo,A"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2021",
+      "course": "MICROM 411",
+      "courseTitle": "BACTERIAL GENETICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2021",
+      "course": "MICROM 431",
+      "courseTitle": "RECOMB DNA TECH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2021",
+      "course": "MICROM 442",
+      "courseTitle": "MED BACTERIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2021",
+      "course": "MICROM 443",
+      "courseTitle": "MED BACTERIOLOGY LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2021",
+      "course": "MICROM 482",
+      "courseTitle": "PEER TEACHING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2021",
+      "course": "MICROM 495",
+      "courseTitle": "HONORS UNDERGR RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2021",
+      "course": "MICROM 496",
+      "courseTitle": "UNDERGRAD LIBR RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2021",
+      "course": "MICROM 499",
+      "courseTitle": "UNDERGRAD LAB RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2021",
+      "course": "MICROM 500",
+      "courseTitle": "INTRO TO RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2021",
+      "course": "MICROM 520",
+      "courseTitle": "SEMINAR",
+      "section": "A",
+      "instructor": "Mougous,Joseph D"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2021",
+      "course": "MICROM 522",
+      "courseTitle": "CURR RES MICRO",
+      "section": "A",
+      "instructor": "Lagunoff,Michael"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2021",
+      "course": "MICROM 534",
+      "courseTitle": "BACT PATHOGENESIS",
+      "section": "A",
+      "instructor": "Fang,F"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2021",
+      "course": "MICROM 555",
+      "courseTitle": "ADV CLINICAL MICRO",
+      "section": "A",
+      "instructor": "Murphy,S"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2021",
+      "course": "MICROM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2021",
+      "course": "MICROM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2021",
+      "course": "MICROM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 301",
+      "courseTitle": "GEN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "C",
+      "instructor": "Gray,Kendall M"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 412",
+      "courseTitle": "PROKARYOTIC DIVERS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 445",
+      "courseTitle": "MEDICAL VIROLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 460",
+      "courseTitle": "MED MYC & PARASIT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 461",
+      "courseTitle": "MED MYC&PARASIT LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 461",
+      "courseTitle": "MED MYC&PARASIT LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 482",
+      "courseTitle": "PEER TEACHING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 495",
+      "courseTitle": "HONORS UNDERGR RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 496",
+      "courseTitle": "UNDERGRAD LIBR RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 499",
+      "courseTitle": "UNDERGRAD LAB RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 500",
+      "courseTitle": "INTRO TO RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 520",
+      "courseTitle": "SEMINAR",
+      "section": "A",
+      "instructor": "Mougous,Joseph D"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 522",
+      "courseTitle": "CURR RES MICRO",
+      "section": "A",
+      "instructor": "Hyde,Jennifer"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 529",
+      "courseTitle": "RES IN BACT PATH",
+      "section": "A",
+      "instructor": "Fang,F"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 534",
+      "courseTitle": "BACT PATHOGENESIS",
+      "section": "A",
+      "instructor": "Fang,F"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 553",
+      "courseTitle": "MOLE MECH BACT PATH",
+      "section": "A",
+      "instructor": "Mougous,Joseph D"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 555",
+      "courseTitle": "ADV CLINICAL MICRO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2021",
+      "course": "MICROM 301",
+      "courseTitle": "GEN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2021",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2021",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2021",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2021",
+      "course": "MICROM 482",
+      "courseTitle": "PEER TEACHING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2021",
+      "course": "MICROM 495",
+      "courseTitle": "HONORS UNDERGR RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2021",
+      "course": "MICROM 496",
+      "courseTitle": "UNDERGRAD LIBR RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2021",
+      "course": "MICROM 499",
+      "courseTitle": "UNDERGRAD LAB RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2021",
+      "course": "MICROM 500",
+      "courseTitle": "INTRO TO RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2021",
+      "course": "MICROM 534",
+      "courseTitle": "BACT PATHOGENESIS",
+      "section": "A",
+      "instructor": "Fang,F"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2021",
+      "course": "MICROM 555",
+      "courseTitle": "ADV CLINICAL MICRO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2021",
+      "course": "MICROM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2021",
+      "course": "MICROM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2021",
+      "course": "MICROM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 301",
+      "courseTitle": "GEN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "Bumgarner,R"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "F",
+      "instructor": "Gray,Kendall M"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "A",
+      "instructor": "Thickman,Karen R"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "C",
+      "instructor": "Thickman,Karen R"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 410",
+      "courseTitle": "FUND OF GEN MICRO I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 435",
+      "courseTitle": "MICROBIAL ECOLOGY",
+      "section": "A",
+      "instructor": "Mittler,J"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 443",
+      "courseTitle": "MED BACTERIOLOGY LAB",
+      "section": "A",
+      "instructor": "Chandler,M"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 482",
+      "courseTitle": "PEER TEACHING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 495",
+      "courseTitle": "HONORS UNDERGR RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 496",
+      "courseTitle": "UNDERGRAD LIBR RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 499",
+      "courseTitle": "UNDERGRAD LAB RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 500",
+      "courseTitle": "INTRO TO RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 520",
+      "courseTitle": "SEMINAR",
+      "section": "A",
+      "instructor": "Mougous,J"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 522",
+      "courseTitle": "CURR RES MICRO",
+      "section": "A",
+      "instructor": "Hyde,Jennifer"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 529",
+      "courseTitle": "RES IN BACT PATH",
+      "section": "A",
+      "instructor": "Fang,F"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 534",
+      "courseTitle": "BACT PATHOGENESIS",
+      "section": "A",
+      "instructor": "A Fang,F"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 555",
+      "courseTitle": "ADV CLINICAL MICRO",
+      "section": "A",
+      "instructor": "Cookson,B"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 599",
+      "courseTitle": "RSRCH PRESENTATIONS",
+      "section": "A",
+      "instructor": "Pardo,A"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2022",
+      "course": "MICROM 411",
+      "courseTitle": "BACTERIAL GENETICS",
+      "section": "A",
+      "instructor": "Traxler,Beth"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2022",
+      "course": "MICROM 431",
+      "courseTitle": "RECOMB DNA TECH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2022",
+      "course": "MICROM 442",
+      "courseTitle": "MED BACTERIOLOGY",
+      "section": "A",
+      "instructor": "Cookson,B"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2022",
+      "course": "MICROM 443",
+      "courseTitle": "MED BACTERIOLOGY LAB",
+      "section": "A",
+      "instructor": "Beins,A"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2022",
+      "course": "MICROM 450",
+      "courseTitle": "MOLEC BIOL VIR",
+      "section": "A",
+      "instructor": "Lagunoff,Michael"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2022",
+      "course": "MICROM 482",
+      "courseTitle": "PEER TEACHING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2022",
+      "course": "MICROM 495",
+      "courseTitle": "HONORS UNDERGR RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2022",
+      "course": "MICROM 496",
+      "courseTitle": "UNDERGRAD LIBR RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2022",
+      "course": "MICROM 499",
+      "courseTitle": "UNDERGRAD LAB RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2022",
+      "course": "MICROM 500",
+      "courseTitle": "INTRO TO RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2022",
+      "course": "MICROM 520",
+      "courseTitle": "SEMINAR",
+      "section": "A",
+      "instructor": "Mougous,J"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2022",
+      "course": "MICROM 522",
+      "courseTitle": "CURR RES MICRO",
+      "section": "A",
+      "instructor": "Hyde,J"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2022",
+      "course": "MICROM 534",
+      "courseTitle": "BACT PATHOGENESIS",
+      "section": "A",
+      "instructor": "A Fang,F"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2022",
+      "course": "MICROM 555",
+      "courseTitle": "ADV CLINICAL MICRO",
+      "section": "A",
+      "instructor": "Murphy,S"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2022",
+      "course": "MICROM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2022",
+      "course": "MICROM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2022",
+      "course": "MICROM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 301",
+      "courseTitle": "GEN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "H",
+      "instructor": "Thickman,Karen R"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 412",
+      "courseTitle": "PROKARYOTIC DIVERS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 445",
+      "courseTitle": "MEDICAL VIROLOGY",
+      "section": "A",
+      "instructor": "Smith,J"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 460",
+      "courseTitle": "MED MYC & PARASIT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 461",
+      "courseTitle": "MED MYC&PARASIT LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 461",
+      "courseTitle": "MED MYC&PARASIT LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 482",
+      "courseTitle": "PEER TEACHING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 495",
+      "courseTitle": "HONORS UNDERGR RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 496",
+      "courseTitle": "UNDERGRAD LIBR RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 499",
+      "courseTitle": "UNDERGRAD LAB RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 500",
+      "courseTitle": "INTRO TO RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 520",
+      "courseTitle": "SEMINAR",
+      "section": "A",
+      "instructor": "Mougous,J"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 522",
+      "courseTitle": "CURR RES MICRO",
+      "section": "A",
+      "instructor": "Hyde,J"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 529",
+      "courseTitle": "RES IN BACT PATH",
+      "section": "A",
+      "instructor": "Fang,F"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 534",
+      "courseTitle": "BACT PATHOGENESIS",
+      "section": "A",
+      "instructor": "A Fang,F"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 555",
+      "courseTitle": "ADV CLINICAL MICRO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2022",
+      "course": "MICROM 301",
+      "courseTitle": "GEN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2022",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2022",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2022",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2022",
+      "course": "MICROM 482",
+      "courseTitle": "PEER TEACHING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2022",
+      "course": "MICROM 495",
+      "courseTitle": "HONORS UNDERGR RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2022",
+      "course": "MICROM 496",
+      "courseTitle": "UNDERGRAD LIBR RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2022",
+      "course": "MICROM 499",
+      "courseTitle": "UNDERGRAD LAB RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2022",
+      "course": "MICROM 500",
+      "courseTitle": "INTRO TO RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2022",
+      "course": "MICROM 534",
+      "courseTitle": "BACT PATHOGENESIS",
+      "section": "A",
+      "instructor": "A Fang,F"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2022",
+      "course": "MICROM 555",
+      "courseTitle": "ADV CLINICAL MICRO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2022",
+      "course": "MICROM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2022",
+      "course": "MICROM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2022",
+      "course": "MICROM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 301",
+      "courseTitle": "GEN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "Bumgarner,Roger"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "A",
+      "instructor": "Thickman,Karen R"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "C",
+      "instructor": "Thickman,Karen R"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 410",
+      "courseTitle": "FUND OF GEN MICRO I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 435",
+      "courseTitle": "MICROBIAL ECOLOGY",
+      "section": "A",
+      "instructor": "Winkler,Mari"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 443",
+      "courseTitle": "MED BACTERIOLOGY LAB",
+      "section": "A",
+      "instructor": "Chandler,Mark S"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 482",
+      "courseTitle": "PEER TEACHING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 495",
+      "courseTitle": "HONORS UNDERGR RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 496",
+      "courseTitle": "UNDERGRAD LIBR RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 499",
+      "courseTitle": "UNDERGRAD LAB RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 500",
+      "courseTitle": "INTRO TO RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 520",
+      "courseTitle": "SEMINAR",
+      "section": "A",
+      "instructor": "Sherman,David"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 522",
+      "courseTitle": "CURR RES MICRO",
+      "section": "A",
+      "instructor": "Hyde,Jennifer"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 534",
+      "courseTitle": "BACT PATHOGENESIS",
+      "section": "A",
+      "instructor": "A Fang,F"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 540",
+      "courseTitle": "VIROLOGY",
+      "section": "A",
+      "instructor": "Lagunoff,M"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 555",
+      "courseTitle": "ADV CLINICAL MICRO",
+      "section": "A",
+      "instructor": "Cookson,B"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 599",
+      "courseTitle": "RSRCH PRESENTATIONS",
+      "section": "A",
+      "instructor": "Pardo,A"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2023",
+      "course": "MICROM 411",
+      "courseTitle": "BACTERIAL GENETICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2023",
+      "course": "MICROM 431",
+      "courseTitle": "RECOMB DNA TECH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2023",
+      "course": "MICROM 442",
+      "courseTitle": "MED BACTERIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2023",
+      "course": "MICROM 443",
+      "courseTitle": "MED BACTERIOLOGY LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2023",
+      "course": "MICROM 450",
+      "courseTitle": "MOLEC BIOL VIR",
+      "section": "A",
+      "instructor": "Lagunoff,M"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2023",
+      "course": "MICROM 482",
+      "courseTitle": "PEER TEACHING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2023",
+      "course": "MICROM 495",
+      "courseTitle": "HONORS UNDERGR RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2023",
+      "course": "MICROM 496",
+      "courseTitle": "UNDERGRAD LIBR RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2023",
+      "course": "MICROM 499",
+      "courseTitle": "UNDERGRAD LAB RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2023",
+      "course": "MICROM 500",
+      "courseTitle": "INTRO TO RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2023",
+      "course": "MICROM 520",
+      "courseTitle": "SEMINAR",
+      "section": "A",
+      "instructor": "Sherman,David"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2023",
+      "course": "MICROM 522",
+      "courseTitle": "CURR RES MICRO",
+      "section": "A",
+      "instructor": "Hyde,J"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2023",
+      "course": "MICROM 534",
+      "courseTitle": "BACT PATHOGENESIS",
+      "section": "A",
+      "instructor": "A Fang,F"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2023",
+      "course": "MICROM 555",
+      "courseTitle": "ADV CLINICAL MICRO",
+      "section": "A",
+      "instructor": "Murphy,S"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2023",
+      "course": "MICROM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2023",
+      "course": "MICROM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2023",
+      "course": "MICROM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 301",
+      "courseTitle": "GEN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 412",
+      "courseTitle": "PROKARYOTIC DIVERS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 445",
+      "courseTitle": "MEDICAL VIROLOGY",
+      "section": "A",
+      "instructor": "Smith,J"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 460",
+      "courseTitle": "MED MYC & PARASIT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 461",
+      "courseTitle": "MED MYC&PARASIT LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 461",
+      "courseTitle": "MED MYC&PARASIT LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 482",
+      "courseTitle": "PEER TEACHING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 495",
+      "courseTitle": "HONORS UNDERGR RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 496",
+      "courseTitle": "UNDERGRAD LIBR RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 499",
+      "courseTitle": "UNDERGRAD LAB RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 500",
+      "courseTitle": "INTRO TO RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 520",
+      "courseTitle": "SEMINAR",
+      "section": "A",
+      "instructor": "Mougous,J"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 522",
+      "courseTitle": "CURR RES MICRO",
+      "section": "A",
+      "instructor": "Hyde,J"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 534",
+      "courseTitle": "BACT PATHOGENESIS",
+      "section": "A",
+      "instructor": "A Fang,F"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 555",
+      "courseTitle": "ADV CLINICAL MICRO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2023",
+      "course": "MICROM 301",
+      "courseTitle": "GEN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2023",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2023",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2023",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2023",
+      "course": "MICROM 482",
+      "courseTitle": "PEER TEACHING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2023",
+      "course": "MICROM 495",
+      "courseTitle": "HONORS UNDERGR RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2023",
+      "course": "MICROM 496",
+      "courseTitle": "UNDERGRAD LIBR RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2023",
+      "course": "MICROM 499",
+      "courseTitle": "UNDERGRAD LAB RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2023",
+      "course": "MICROM 500",
+      "courseTitle": "INTRO TO RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2023",
+      "course": "MICROM 534",
+      "courseTitle": "BACT PATHOGENESIS",
+      "section": "A",
+      "instructor": "A Fang,Ferric C."
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2023",
+      "course": "MICROM 555",
+      "courseTitle": "ADV CLINICAL MICRO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2023",
+      "course": "MICROM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2023",
+      "course": "MICROM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2023",
+      "course": "MICROM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 301",
+      "courseTitle": "GEN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "Bumgarner,Roger"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "F",
+      "instructor": "Beins,Almira S"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "A",
+      "instructor": "Thickman,Karen R"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "C",
+      "instructor": "Thickman,Karen R"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 410",
+      "courseTitle": "FUND OF GEN MICRO I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 435",
+      "courseTitle": "MICROBIAL ECOLOGY",
+      "section": "A",
+      "instructor": "Winkler,Mari"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 443",
+      "courseTitle": "MED BACTERIOLOGY LAB",
+      "section": "A",
+      "instructor": "Achterman,Rebecca Rashid"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 482",
+      "courseTitle": "PEER TEACHING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 495",
+      "courseTitle": "HONORS UNDERGR RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 496",
+      "courseTitle": "UNDERGRAD LIBR RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 499",
+      "courseTitle": "UNDERGRAD LAB RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 500",
+      "courseTitle": "INTRO TO RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 520",
+      "courseTitle": "SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 522",
+      "courseTitle": "CURR RES MICRO",
+      "section": "A",
+      "instructor": "Hyde,Jennifer"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 534",
+      "courseTitle": "BACT PATHOGENESIS",
+      "section": "A",
+      "instructor": "A Fang,Ferric C."
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 555",
+      "courseTitle": "ADV CLINICAL MICRO",
+      "section": "A",
+      "instructor": "Cookson,Brad T"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 599",
+      "courseTitle": "RSRCH PRESENTATIONS",
+      "section": "A",
+      "instructor": "Gundlach Ritter,Amy"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2024",
+      "course": "MICROM 411",
+      "courseTitle": "BACTERIAL GENETICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2024",
+      "course": "MICROM 431",
+      "courseTitle": "RECOMB DNA TECH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2024",
+      "course": "MICROM 442",
+      "courseTitle": "MED BACTERIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2024",
+      "course": "MICROM 443",
+      "courseTitle": "MED BACTERIOLOGY LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2024",
+      "course": "MICROM 450",
+      "courseTitle": "MOLEC BIOL VIR",
+      "section": "A",
+      "instructor": "Lagunoff,Michael"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2024",
+      "course": "MICROM 482",
+      "courseTitle": "PEER TEACHING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2024",
+      "course": "MICROM 495",
+      "courseTitle": "HONORS UNDERGR RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2024",
+      "course": "MICROM 496",
+      "courseTitle": "UNDERGRAD LIBR RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2024",
+      "course": "MICROM 499",
+      "courseTitle": "UNDERGRAD LAB RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2024",
+      "course": "MICROM 500",
+      "courseTitle": "INTRO TO RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2024",
+      "course": "MICROM 520",
+      "courseTitle": "SEMINAR",
+      "section": "A",
+      "instructor": "Reniere,Michelle"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2024",
+      "course": "MICROM 522",
+      "courseTitle": "CURR RES MICRO",
+      "section": "A",
+      "instructor": "Hyde,Jennifer"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2024",
+      "course": "MICROM 534",
+      "courseTitle": "BACT PATHOGENESIS",
+      "section": "A",
+      "instructor": "A Fang,Ferric C."
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2024",
+      "course": "MICROM 555",
+      "courseTitle": "ADV CLINICAL MICRO",
+      "section": "A",
+      "instructor": "Murphy,Sean C"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2024",
+      "course": "MICROM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2024",
+      "course": "MICROM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2024",
+      "course": "MICROM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 301",
+      "courseTitle": "GEN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 412",
+      "courseTitle": "PROKARYOTIC DIVERS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 445",
+      "courseTitle": "MEDICAL VIROLOGY",
+      "section": "A",
+      "instructor": "Smith,Jason G"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 460",
+      "courseTitle": "MED MYC & PARASIT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 461",
+      "courseTitle": "MED MYC&PARASIT LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 461",
+      "courseTitle": "MED MYC&PARASIT LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 482",
+      "courseTitle": "PEER TEACHING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 495",
+      "courseTitle": "HONORS UNDERGR RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 496",
+      "courseTitle": "UNDERGRAD LIBR RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 499",
+      "courseTitle": "UNDERGRAD LAB RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 500",
+      "courseTitle": "INTRO TO RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 520",
+      "courseTitle": "SEMINAR",
+      "section": "A",
+      "instructor": "Reniere,Michelle"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 522",
+      "courseTitle": "CURR RES MICRO",
+      "section": "A",
+      "instructor": "Hyde,Jennifer"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 534",
+      "courseTitle": "BACT PATHOGENESIS",
+      "section": "A",
+      "instructor": "A Fang,Ferric C."
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 555",
+      "courseTitle": "ADV CLINICAL MICRO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2024",
+      "course": "MICROM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2024",
+      "course": "MICROM 482",
+      "courseTitle": "PEER TEACHING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2024",
+      "course": "MICROM 495",
+      "courseTitle": "HONORS UNDERGR RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2024",
+      "course": "MICROM 496",
+      "courseTitle": "UNDERGRAD LIBR RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2024",
+      "course": "MICROM 499",
+      "courseTitle": "UNDERGRAD LAB RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2024",
+      "course": "MICROM 500",
+      "courseTitle": "INTRO TO RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2024",
+      "course": "MICROM 534",
+      "courseTitle": "BACT PATHOGENESIS",
+      "section": "A",
+      "instructor": "A Fang,Ferric C."
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2024",
+      "course": "MICROM 555",
+      "courseTitle": "ADV CLINICAL MICRO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2024",
+      "course": "MICROM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2024",
+      "course": "MICROM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2024",
+      "course": "MICROM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 301",
+      "courseTitle": "GEN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "F",
+      "instructor": "Beins,Almira S"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "A",
+      "instructor": "Thickman,Karen R"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "C",
+      "instructor": "Thickman,Karen R"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 410",
+      "courseTitle": "FUND OF GEN MICRO I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 435",
+      "courseTitle": "MICROBIAL ECOLOGY",
+      "section": "A",
+      "instructor": "Bumgarner,Roger"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 443",
+      "courseTitle": "MED BACTERIOLOGY LAB",
+      "section": "A",
+      "instructor": "Achterman,Rebecca Rashid"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 482",
+      "courseTitle": "PEER TEACHING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 495",
+      "courseTitle": "HONORS UNDERGR RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 496",
+      "courseTitle": "UNDERGRAD LIBR RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 499",
+      "courseTitle": "UNDERGRAD LAB RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 500",
+      "courseTitle": "INTRO TO RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 520",
+      "courseTitle": "SEMINAR",
+      "section": "A",
+      "instructor": "Reniere,Michelle"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 522",
+      "courseTitle": "CURR RES MICRO",
+      "section": "A",
+      "instructor": "Sherman,David"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 534",
+      "courseTitle": "BACT PATHOGENESIS",
+      "section": "A",
+      "instructor": "A Fang,Ferric C."
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 540",
+      "courseTitle": "VIROLOGY",
+      "section": "A",
+      "instructor": "Smith,Jason G"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 555",
+      "courseTitle": "ADV CLINICAL MICRO",
+      "section": "A",
+      "instructor": "Cookson,Brad T"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 599",
+      "courseTitle": "RSRCH PRESENTATIONS",
+      "section": "A",
+      "instructor": "Smith,Jason G"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2025",
+      "course": "MICROM 411",
+      "courseTitle": "BACTERIAL GENETICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2025",
+      "course": "MICROM 413",
+      "courseTitle": "TOPICS IN MICRO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2025",
+      "course": "MICROM 431",
+      "courseTitle": "RECOMB DNA TECH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2025",
+      "course": "MICROM 442",
+      "courseTitle": "MED BACTERIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2025",
+      "course": "MICROM 443",
+      "courseTitle": "MED BACTERIOLOGY LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2025",
+      "course": "MICROM 450",
+      "courseTitle": "MOLEC BIOL VIR",
+      "section": "A",
+      "instructor": "Lagunoff,Michael"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2025",
+      "course": "MICROM 482",
+      "courseTitle": "PEER TEACHING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2025",
+      "course": "MICROM 495",
+      "courseTitle": "HONORS UNDERGR RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2025",
+      "course": "MICROM 496",
+      "courseTitle": "UNDERGRAD LIBR RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2025",
+      "course": "MICROM 499",
+      "courseTitle": "UNDERGRAD LAB RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2025",
+      "course": "MICROM 500",
+      "courseTitle": "INTRO TO RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2025",
+      "course": "MICROM 520",
+      "courseTitle": "SEMINAR",
+      "section": "A",
+      "instructor": "Reniere,Michelle"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2025",
+      "course": "MICROM 522",
+      "courseTitle": "CURR RES MICRO",
+      "section": "A",
+      "instructor": "Sherman,David"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2025",
+      "course": "MICROM 534",
+      "courseTitle": "BACT PATHOGENESIS",
+      "section": "A",
+      "instructor": "A Fang,Ferric C."
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2025",
+      "course": "MICROM 555",
+      "courseTitle": "ADV CLINICAL MICRO",
+      "section": "A",
+      "instructor": "Fang,Ferric C."
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2025",
+      "course": "MICROM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2025",
+      "course": "MICROM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2025",
+      "course": "MICROM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 301",
+      "courseTitle": "GEN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 412",
+      "courseTitle": "PROKARYOTIC DIVERS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 445",
+      "courseTitle": "MEDICAL VIROLOGY",
+      "section": "A",
+      "instructor": "Smith,Jason G"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 460",
+      "courseTitle": "MED MYC & PARASIT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 461",
+      "courseTitle": "MED MYC&PARASIT LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 461",
+      "courseTitle": "MED MYC&PARASIT LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 482",
+      "courseTitle": "PEER TEACHING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 495",
+      "courseTitle": "HONORS UNDERGR RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 496",
+      "courseTitle": "UNDERGRAD LIBR RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 499",
+      "courseTitle": "UNDERGRAD LAB RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 500",
+      "courseTitle": "INTRO TO RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 520",
+      "courseTitle": "SEMINAR",
+      "section": "A",
+      "instructor": "Reniere,Michelle"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 522",
+      "courseTitle": "CURR RES MICRO",
+      "section": "A",
+      "instructor": "Sherman,David"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 534",
+      "courseTitle": "BACT PATHOGENESIS",
+      "section": "A",
+      "instructor": "A Fang,Ferric C."
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 555",
+      "courseTitle": "ADV CLINICAL MICRO",
+      "section": "A",
+      "instructor": "Fang,Ferric C."
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2025",
+      "course": "MICROM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2025",
+      "course": "MICROM 482",
+      "courseTitle": "PEER TEACHING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2025",
+      "course": "MICROM 495",
+      "courseTitle": "HONORS UNDERGR RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2025",
+      "course": "MICROM 496",
+      "courseTitle": "UNDERGRAD LIBR RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2025",
+      "course": "MICROM 499",
+      "courseTitle": "UNDERGRAD LAB RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2025",
+      "course": "MICROM 500",
+      "courseTitle": "INTRO TO RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2025",
+      "course": "MICROM 534",
+      "courseTitle": "BACT PATHOGENESIS",
+      "section": "A",
+      "instructor": "A Fang,Ferric C."
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2025",
+      "course": "MICROM 555",
+      "courseTitle": "ADV CLINICAL MICRO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2025",
+      "course": "MICROM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2025",
+      "course": "MICROM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SUM2025",
+      "course": "MICROM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2025",
+      "course": "MICROM 301",
+      "courseTitle": "GEN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2025",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "F",
+      "instructor": "Beins,Almira S"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2025",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2025",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2025",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2025",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2025",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2025",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2025",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "A",
+      "instructor": "Thickman,Karen R"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2025",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "C",
+      "instructor": "Thickman,Karen R"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2025",
+      "course": "MICROM 410",
+      "courseTitle": "FUND OF GEN MICRO I",
+      "section": "A",
+      "instructor": "Woodward,Joshua J"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2025",
+      "course": "MICROM 443",
+      "courseTitle": "MED BACTERIOLOGY LAB",
+      "section": "A",
+      "instructor": "Achterman,Rebecca Rashid"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2025",
+      "course": "MICROM 482",
+      "courseTitle": "PEER TEACHING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2025",
+      "course": "MICROM 495",
+      "courseTitle": "HONORS UNDERGR RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2025",
+      "course": "MICROM 496",
+      "courseTitle": "UNDERGRAD LIBR RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2025",
+      "course": "MICROM 499",
+      "courseTitle": "UNDERGRAD LAB RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2025",
+      "course": "MICROM 500",
+      "courseTitle": "INTRO TO RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2025",
+      "course": "MICROM 520",
+      "courseTitle": "SEMINAR",
+      "section": "A",
+      "instructor": "Jordan,Tristan"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2025",
+      "course": "MICROM 522",
+      "courseTitle": "CURR RES MICRO",
+      "section": "A",
+      "instructor": "Sherman,David"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2025",
+      "course": "MICROM 534",
+      "courseTitle": "BACT PATHOGENESIS",
+      "section": "A",
+      "instructor": "A Fang,Ferric C."
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2025",
+      "course": "MICROM 555",
+      "courseTitle": "ADV CLINICAL MICRO",
+      "section": "A",
+      "instructor": "Cookson,Brad T"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2025",
+      "course": "MICROM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2025",
+      "course": "MICROM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2025",
+      "course": "MICROM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2026",
+      "course": "MICROM 411",
+      "courseTitle": "BACTERIAL GENETICS",
+      "section": "A",
+      "instructor": "Traxler,Beth"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2026",
+      "course": "MICROM 413",
+      "courseTitle": "TOPICS IN MICRO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2026",
+      "course": "MICROM 442",
+      "courseTitle": "MED BACTERIOLOGY",
+      "section": "A",
+      "instructor": "Cookson,Brad T"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2026",
+      "course": "MICROM 443",
+      "courseTitle": "MED BACTERIOLOGY LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2026",
+      "course": "MICROM 450",
+      "courseTitle": "MOLEC BIOL VIR",
+      "section": "A",
+      "instructor": "Lagunoff,Michael"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2026",
+      "course": "MICROM 482",
+      "courseTitle": "PEER TEACHING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2026",
+      "course": "MICROM 495",
+      "courseTitle": "HONORS UNDERGR RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2026",
+      "course": "MICROM 496",
+      "courseTitle": "UNDERGRAD LIBR RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2026",
+      "course": "MICROM 499",
+      "courseTitle": "UNDERGRAD LAB RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2026",
+      "course": "MICROM 500",
+      "courseTitle": "INTRO TO RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2026",
+      "course": "MICROM 520",
+      "courseTitle": "SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2026",
+      "course": "MICROM 522",
+      "courseTitle": "CURR RES MICRO",
+      "section": "A",
+      "instructor": "Sherman,David"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2026",
+      "course": "MICROM 534",
+      "courseTitle": "BACT PATHOGENESIS",
+      "section": "A",
+      "instructor": "A Fang,Ferric C."
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2026",
+      "course": "MICROM 555",
+      "courseTitle": "ADV CLINICAL MICRO",
+      "section": "A",
+      "instructor": "Fang,Ferric C."
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2026",
+      "course": "MICROM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2026",
+      "course": "MICROM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "WIN2026",
+      "course": "MICROM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 301",
+      "courseTitle": "GEN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 412",
+      "courseTitle": "PROKARYOTIC DIVERS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 431",
+      "courseTitle": "RECOMB DNA TECH",
+      "section": "A",
+      "instructor": "Thickman,Karen R"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 445",
+      "courseTitle": "MEDICAL VIROLOGY",
+      "section": "A",
+      "instructor": "Smith,Jason G"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 460",
+      "courseTitle": "MED MYC & PARASIT",
+      "section": "A",
+      "instructor": "Beins,Almira S"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 482",
+      "courseTitle": "PEER TEACHING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 495",
+      "courseTitle": "HONORS UNDERGR RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 496",
+      "courseTitle": "UNDERGRAD LIBR RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 499",
+      "courseTitle": "UNDERGRAD LAB RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 500",
+      "courseTitle": "INTRO TO RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 520",
+      "courseTitle": "SEMINAR",
+      "section": "A",
+      "instructor": "Jordan,Tristan"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 522",
+      "courseTitle": "CURR RES MICRO",
+      "section": "A",
+      "instructor": "Sherman,David"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 534",
+      "courseTitle": "BACT PATHOGENESIS",
+      "section": "A",
+      "instructor": "A Fang,Ferric C."
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 553",
+      "courseTitle": "MOLE MECH BACT PATH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 555",
+      "courseTitle": "ADV CLINICAL MICRO",
+      "section": "A",
+      "instructor": "Fang,Ferric C."
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2026",
+      "course": "MICROM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
 }

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Prabha%2CSwayam",
+  "professor": "Prabha,Swayam",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "pharmceu",
+      "deptName": "Pharmaceutics",
+      "term": "SPR2026",
+      "course": "PCEUT 583",
+      "courseTitle": "TOPICS IN PCEUT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "pharmceu",
+      "deptName": "Pharmaceutics",
+      "term": "SPR2026",
+      "course": "PCEUT 570",
+      "courseTitle": "ADV RESEARCH TOPICS",
+      "section": "K"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phrmsc",
+      "deptName": "Pharmaceutical Sciences",
+      "term": "AUT2025",
+      "course": "PHRMSC 313",
+      "courseTitle": "DRUG DISP & DELIVERY",
+      "section": "A"
+    }
+  ]
+}

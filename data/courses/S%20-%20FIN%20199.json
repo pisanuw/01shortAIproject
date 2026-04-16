@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20FIN%20199",
+  "course": "S - FIN 199",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "finance",
+      "deptName": "Finance",
+      "term": "SPR2024",
+      "course": "FIN 199",
+      "courseTitle": "PERS FIN APPLICATION",
+      "section": "A",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "finance",
+      "deptName": "Finance",
+      "term": "WIN2023",
+      "course": "FIN 199",
+      "courseTitle": "PERS FIN APPLICATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "finance",
+      "deptName": "Finance",
+      "term": "AUT2022",
+      "course": "FIN 199",
+      "courseTitle": "PERS FIN APPLICATION",
+      "section": "A",
+      "instructor": "Graves,Jennifer DeWhitt"
+    }
+  ]
+}

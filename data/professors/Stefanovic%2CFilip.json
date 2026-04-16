@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Stefanovic%2CFilip",
+  "professor": "Stefanovic,Filip",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2026",
+      "course": "CHEM 221",
+      "courseTitle": "PRINCIPLES CHEM III",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2026",
+      "course": "CHEM 162",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "A"
+    }
+  ]
+}

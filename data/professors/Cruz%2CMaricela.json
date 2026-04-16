@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Cruz%2CMaricela",
+  "professor": "Cruz,Maricela",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "SPR2025",
+      "course": "BIOST 582",
+      "courseTitle": "STUDENT SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hlthsvcs",
+      "deptName": "Health Services",
+      "term": "SPR2022",
+      "course": "HSERV 525",
+      "courseTitle": "ADV RSCH METH III",
+      "section": "A"
+    }
+  ]
+}

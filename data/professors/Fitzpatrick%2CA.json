@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Fitzpatrick%2CA",
+  "professor": "Fitzpatrick,A",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hlthsvcs",
+      "deptName": "Health Services",
+      "term": "SPR2021",
+      "course": "HSERV 578",
+      "courseTitle": "WRIT RSCH PROPOSALS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "SPR2021",
+      "course": "EPI 588",
+      "courseTitle": "WRIT RSCH PROPOSALS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hlthsvcs",
+      "deptName": "Health Services",
+      "term": "WIN2021",
+      "course": "HSERV 592",
+      "courseTitle": "PROGRAM SEMINARS",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "WIN2021",
+      "course": "EPI 592",
+      "courseTitle": "PROGRAM SEMINARS",
+      "section": "D"
+    }
+  ]
+}

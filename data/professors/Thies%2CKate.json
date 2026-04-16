@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Thies%2CKate",
+  "professor": "Thies,Kate",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "SPR2023",
+      "course": "EDUC 280",
+      "courseTitle": "INTRO TO ECO",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "SPR2022",
+      "course": "EDUC 280",
+      "courseTitle": "INTRO TO ECO",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "WIN2022",
+      "course": "EDUC 280",
+      "courseTitle": "INTRO TO ECO",
+      "section": "A"
+    }
+  ]
+}

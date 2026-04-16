@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Holm%2CL",
+  "professor": "Holm,L",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 312",
+      "courseTitle": "CONSTR ACCOUNTING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 311",
+      "courseTitle": "CONST DOCUMENTS",
+      "section": "A"
+    }
+  ]
+}

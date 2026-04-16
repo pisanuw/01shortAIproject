@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:56Z",
+  "generatedAt": "2026-04-16T02:57:12Z",
   "campus": "S",
   "dept": "hstry",
   "deptName": "History Seminars and Independent Studies",
@@ -418,6 +418,56 @@
       "campus": "S",
       "dept": "hstry",
       "deptName": "History Seminars and Independent Studies",
+      "term": "SUM2021",
+      "course": "HSTRY 495",
+      "courseTitle": "HISTORY INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "hstry",
+      "deptName": "History Seminars and Independent Studies",
+      "term": "SUM2021",
+      "course": "HSTRY 498",
+      "courseTitle": "COLLOQUIUM IN HIST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "hstry",
+      "deptName": "History Seminars and Independent Studies",
+      "term": "SUM2021",
+      "course": "HSTRY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "hstry",
+      "deptName": "History Seminars and Independent Studies",
+      "term": "SUM2021",
+      "course": "HSTRY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "hstry",
+      "deptName": "History Seminars and Independent Studies",
+      "term": "SUM2021",
+      "course": "HSTRY 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "hstry",
+      "deptName": "History Seminars and Independent Studies",
       "term": "AUT2021",
       "course": "HSTRY 388",
       "courseTitle": "INTRO TO HISTORY",
@@ -772,7 +822,7 @@
       "course": "HSTRY 489",
       "courseTitle": "DIGITAL HISTORY",
       "section": "A",
-      "instructor": "O'Mara,Margaret"
+      "instructor": "E O'Mara,Margaret"
     },
     {
       "campus": "S",
@@ -1939,6 +1989,156 @@
       "dept": "hstry",
       "deptName": "History Seminars and Independent Studies",
       "term": "SUM2024",
+      "course": "HSTRY 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "hstry",
+      "deptName": "History Seminars and Independent Studies",
+      "term": "AUT2024",
+      "course": "HSTRY 388",
+      "courseTitle": "INTRO TO HISTORY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "hstry",
+      "deptName": "History Seminars and Independent Studies",
+      "term": "AUT2024",
+      "course": "HSTRY 388",
+      "courseTitle": "INTRO TO HISTORY",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "hstry",
+      "deptName": "History Seminars and Independent Studies",
+      "term": "AUT2024",
+      "course": "HSTRY 388",
+      "courseTitle": "INTRO TO HISTORY",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "hstry",
+      "deptName": "History Seminars and Independent Studies",
+      "term": "AUT2024",
+      "course": "HSTRY 491",
+      "courseTitle": "H-HISTORICAL MTHD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "hstry",
+      "deptName": "History Seminars and Independent Studies",
+      "term": "AUT2024",
+      "course": "HSTRY 495",
+      "courseTitle": "HISTORY INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "hstry",
+      "deptName": "History Seminars and Independent Studies",
+      "term": "AUT2024",
+      "course": "HSTRY 495",
+      "courseTitle": "HISTORY INTERNSHIP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "hstry",
+      "deptName": "History Seminars and Independent Studies",
+      "term": "AUT2024",
+      "course": "HSTRY 498",
+      "courseTitle": "COLLOQUIUM IN HIST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "hstry",
+      "deptName": "History Seminars and Independent Studies",
+      "term": "AUT2024",
+      "course": "HSTRY 498",
+      "courseTitle": "COLLOQUIUM IN HIST",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "hstry",
+      "deptName": "History Seminars and Independent Studies",
+      "term": "AUT2024",
+      "course": "HSTRY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "hstry",
+      "deptName": "History Seminars and Independent Studies",
+      "term": "AUT2024",
+      "course": "HSTRY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "hstry",
+      "deptName": "History Seminars and Independent Studies",
+      "term": "AUT2024",
+      "course": "HSTRY 500",
+      "courseTitle": "HIST PERSPECTIVES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "hstry",
+      "deptName": "History Seminars and Independent Studies",
+      "term": "AUT2024",
+      "course": "HSTRY 570",
+      "courseTitle": "TEACHING HISTORY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "hstry",
+      "deptName": "History Seminars and Independent Studies",
+      "term": "AUT2024",
+      "course": "HSTRY 596",
+      "courseTitle": "RESEARCH SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "hstry",
+      "deptName": "History Seminars and Independent Studies",
+      "term": "AUT2024",
+      "course": "HSTRY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "hstry",
+      "deptName": "History Seminars and Independent Studies",
+      "term": "AUT2024",
       "course": "HSTRY 800",
       "courseTitle": "DOCTORAL DISSERTATN",
       "section": "A",

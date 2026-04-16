@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Rasmussen%2CJ",
+  "professor": "Rasmussen,J",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "WIN2023",
+      "course": "BIOL 541",
+      "courseTitle": "TOPICS IN MCD BIO",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "WIN2023",
+      "course": "BIOL 540",
+      "courseTitle": "SEMINAR IN MCD BIO",
+      "section": "A"
+    }
+  ]
+}

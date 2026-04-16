@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20PHYS%20541",
+  "course": "S - PHYS 541",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "SPR2026",
+      "course": "PHYS 541",
+      "courseTitle": "APPL OF QUANT PHYS",
+      "section": "A",
+      "instructor": "Garcia,Alejandro"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "SPR2024",
+      "course": "PHYS 541",
+      "courseTitle": "APPL OF QUANT PHYS",
+      "section": "A",
+      "instructor": "Garcia,Alejandro"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "SPR2022",
+      "course": "PHYS 541",
+      "courseTitle": "APPL OF QUANT PHYS",
+      "section": "A",
+      "instructor": "Gupta,Subhadeep"
+    }
+  ]
+}

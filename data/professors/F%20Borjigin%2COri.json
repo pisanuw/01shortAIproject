@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "F%20Borjigin%2COri",
+  "professor": "F Borjigin,Ori",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "B"
+    }
+  ]
+}

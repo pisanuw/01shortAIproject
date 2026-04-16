@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Hayward%2CL",
+  "professor": "Hayward,L",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "envh",
+      "deptName": "Environmental Health",
+      "term": "SPR2022",
+      "course": "ENV H 521",
+      "courseTitle": "ENV PUBLIC HLTH COMM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "envh",
+      "deptName": "Environmental Health",
+      "term": "SPR2021",
+      "course": "ENV H 521",
+      "courseTitle": "ENV PUBLIC HLTH COMM",
+      "section": "A"
+    }
+  ]
+}

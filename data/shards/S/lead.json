@@ -1,9 +1,49 @@
 {
-  "generatedAt": "2026-04-15T16:27:54Z",
+  "generatedAt": "2026-04-16T02:57:10Z",
   "campus": "S",
   "dept": "lead",
   "deptName": "Leadership",
   "records": [
+    {
+      "campus": "S",
+      "dept": "lead",
+      "deptName": "Leadership",
+      "term": "AUT2020",
+      "course": "LEAD 298",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lead",
+      "deptName": "Leadership",
+      "term": "AUT2020",
+      "course": "LEAD 298",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lead",
+      "deptName": "Leadership",
+      "term": "AUT2020",
+      "course": "LEAD 298",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lead",
+      "deptName": "Leadership",
+      "term": "AUT2020",
+      "course": "LEAD 298",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Taylor,Ed"
+    },
     {
       "campus": "S",
       "dept": "lead",
@@ -368,6 +408,36 @@
       "campus": "S",
       "dept": "lead",
       "deptName": "Leadership",
+      "term": "SPR2024",
+      "course": "LEAD 495",
+      "courseTitle": "LEAD CAPSTONE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lead",
+      "deptName": "Leadership",
+      "term": "SPR2024",
+      "course": "LEAD 495",
+      "courseTitle": "LEAD CAPSTONE",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lead",
+      "deptName": "Leadership",
+      "term": "SPR2024",
+      "course": "LEAD 499",
+      "courseTitle": "LEADERSHIP PRACTICE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lead",
+      "deptName": "Leadership",
       "term": "SUM2024",
       "course": "LEAD 490",
       "courseTitle": "LEAD CERTIFICATE",
@@ -402,7 +472,7 @@
       "course": "LEAD 298",
       "courseTitle": "SPECIAL TOPICS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Taylor,Ed"
     },
     {
       "campus": "S",
@@ -468,11 +538,21 @@
       "campus": "S",
       "dept": "lead",
       "deptName": "Leadership",
+      "term": "SUM2025",
+      "course": "LEAD 499",
+      "courseTitle": "LEADERSHIP PRACTICE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lead",
+      "deptName": "Leadership",
       "term": "AUT2025",
       "course": "LEAD 100",
       "courseTitle": "LEARNING LEADERSHIP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lo,Francesca C."
     },
     {
       "campus": "S",
@@ -482,7 +562,7 @@
       "course": "LEAD 100",
       "courseTitle": "LEARNING LEADERSHIP",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Lo,Francesca C."
     },
     {
       "campus": "S",
@@ -492,7 +572,7 @@
       "course": "LEAD 298",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Taylor,Ed"
     },
     {
       "campus": "S",
@@ -512,7 +592,7 @@
       "course": "LEAD 100",
       "courseTitle": "LEARNING LEADERSHIP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jundt,Michaelann"
     },
     {
       "campus": "S",
@@ -552,7 +632,7 @@
       "course": "LEAD 498",
       "courseTitle": "ADV TPCS LDRSHP STDY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Laws,Chris"
     },
     {
       "campus": "S",

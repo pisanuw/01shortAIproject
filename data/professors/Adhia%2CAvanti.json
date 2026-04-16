@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Adhia%2CAvanti",
+  "professor": "Adhia,Avanti",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nsg",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NSG 573",
+      "courseTitle": "SYS THINK POP HLTH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nsg",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NSG 573",
+      "courseTitle": "SYS THINK POP HLTH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "SPR2022",
+      "course": "EPI 585",
+      "courseTitle": "INJURY AND VIOLENCE",
+      "section": "A"
+    }
+  ]
+}

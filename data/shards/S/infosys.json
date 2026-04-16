@@ -1,7 +1,3758 @@
 {
-  "generatedAt": "2026-04-15T16:27:58Z",
+  "generatedAt": "2026-04-16T02:57:13Z",
   "campus": "S",
   "dept": "infosys",
   "deptName": "Information Systems",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2020",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2020",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "B",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2020",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "C",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2020",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "A",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2020",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "B",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2020",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "A",
+      "instructor": "Lee,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2020",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "B",
+      "instructor": "Lee,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2020",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "A",
+      "instructor": "Hwang,Elina"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2020",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "B",
+      "instructor": "Hwang,Elina"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2020",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "B",
+      "instructor": "Dey,Deb"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2020",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "A",
+      "instructor": "Wang,Yingfei"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2020",
+      "course": "I S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2020",
+      "course": "I S 581",
+      "courseTitle": "ADV RSRCH TOPICSII",
+      "section": "A",
+      "instructor": "Dey,Deb"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2020",
+      "course": "I S 599",
+      "courseTitle": "DOC SEM IN INFO SYS",
+      "section": "A",
+      "instructor": "Hwang,Elina"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2020",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2020",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2021",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "A",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2021",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "B",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2021",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "C",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2021",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "A",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2021",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "B",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2021",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "A",
+      "instructor": "Yang,Mingwen"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2021",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "B",
+      "instructor": "Yang,Mingwen"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2021",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "A",
+      "instructor": "Hwang,Elina"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2021",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "B",
+      "instructor": "Hwang,Elina"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2021",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2021",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "B",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2021",
+      "course": "I S 460",
+      "courseTitle": "SYS ANLYS & DESGN",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2021",
+      "course": "I S 460",
+      "courseTitle": "SYS ANLYS & DESGN",
+      "section": "B",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2021",
+      "course": "I S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2021",
+      "course": "I S 580",
+      "courseTitle": "ADV RSRCH TOPICS I",
+      "section": "A",
+      "instructor": "Tan,Yong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2021",
+      "course": "I S 599",
+      "courseTitle": "DOC SEM IN INFO SYS",
+      "section": "A",
+      "instructor": "Nageswaran,Leela"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2021",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2021",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2021",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "B",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2021",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "C",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2021",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "A",
+      "instructor": "Parameswaran,M"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2021",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "B",
+      "instructor": "Parameswaran,M"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2021",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "A",
+      "instructor": "Yang,Mingwen"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2021",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "B",
+      "instructor": "Yang,Mingwen"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2021",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "A",
+      "instructor": "YU,YIFAN"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2021",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "B",
+      "instructor": "Zhou,Tongxin"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2021",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "A",
+      "instructor": "Dey,D"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2021",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "B",
+      "instructor": "Dey,D"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2021",
+      "course": "I S 460",
+      "courseTitle": "SYS ANLYS & DESGN",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2021",
+      "course": "I S 460",
+      "courseTitle": "SYS ANLYS & DESGN",
+      "section": "B",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2021",
+      "course": "I S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2021",
+      "course": "I S 599",
+      "courseTitle": "DOC SEM IN INFO SYS",
+      "section": "A",
+      "instructor": "Wang,Yingfei"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2021",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2021",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SUM2021",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SUM2021",
+      "course": "I S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SUM2021",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SUM2021",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2021",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "A",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2021",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "B",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2021",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "C",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2021",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "A",
+      "instructor": "Parameswaran,M"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2021",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "B",
+      "instructor": "Parameswaran,M"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2021",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "B",
+      "instructor": "Lee,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2021",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "A",
+      "instructor": "Yang,Mingwen"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2021",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "A",
+      "instructor": "Hwang,Elina"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2021",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "B",
+      "instructor": "Hwang,Elina"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2021",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "C",
+      "instructor": "Mamani,Hamed"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2021",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "B",
+      "instructor": "Mitkina,Maria"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2021",
+      "course": "I S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2021",
+      "course": "I S 582",
+      "courseTitle": "ADV RSRCH TOPICSIII",
+      "section": "A",
+      "instructor": "Yang,Mingwen"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2021",
+      "course": "I S 599",
+      "courseTitle": "DOC SEM IN INFO SYS",
+      "section": "A",
+      "instructor": "Ananthakrishnan,Uttara Mad"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2021",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2021",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2022",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2022",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "B",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2022",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "C",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2022",
+      "course": "I S 305",
+      "courseTitle": "INFO SYS FIN ESSNTLS",
+      "section": "A",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2022",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "A",
+      "instructor": "Parameswaran,M"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2022",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "B",
+      "instructor": "Parameswaran,M"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2022",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "A",
+      "instructor": "Lee,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2022",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "B",
+      "instructor": "Lee,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2022",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "A",
+      "instructor": "Hwang,E"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2022",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "B",
+      "instructor": "Hwang,E"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2022",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "A",
+      "instructor": "Dey,Deb"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2022",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "B",
+      "instructor": "Dey,Deb"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2022",
+      "course": "I S 460",
+      "courseTitle": "SYS ANLYS & DESGN",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2022",
+      "course": "I S 460",
+      "courseTitle": "SYS ANLYS & DESGN",
+      "section": "B",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2022",
+      "course": "I S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2022",
+      "course": "I S 580",
+      "courseTitle": "ADV RSRCH TOPICS I",
+      "section": "A",
+      "instructor": "Tan,Yong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2022",
+      "course": "I S 599",
+      "courseTitle": "DOC SEM IN INFO SYS",
+      "section": "A",
+      "instructor": "Nageswaran,Leela"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2022",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2022",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2022",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2022",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "B",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2022",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "C",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2022",
+      "course": "I S 305",
+      "courseTitle": "INFO SYS FIN ESSNTLS",
+      "section": "A",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2022",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "A",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2022",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "B",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2022",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2022",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2022",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "A",
+      "instructor": "Yang,Mingwen"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2022",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "B",
+      "instructor": "Yang,Mingwen"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2022",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "A",
+      "instructor": "DENG,JIAYING"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2022",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "B",
+      "instructor": "LIU,YUCHEN"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2022",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2022",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "B",
+      "instructor": "Dey,Deb"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2022",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "C",
+      "instructor": "Dey,Deb"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2022",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2022",
+      "course": "I S 460",
+      "courseTitle": "SYS ANLYS & DESGN",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2022",
+      "course": "I S 460",
+      "courseTitle": "SYS ANLYS & DESGN",
+      "section": "B",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2022",
+      "course": "I S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2022",
+      "course": "I S 599",
+      "courseTitle": "DOC SEM IN INFO SYS",
+      "section": "A",
+      "instructor": "Yang,Mingwen"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2022",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2022",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SUM2022",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "A",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SUM2022",
+      "course": "I S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SUM2022",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SUM2022",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2022",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2022",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "B",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2022",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "C",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2022",
+      "course": "I S 305",
+      "courseTitle": "INFO SYS FIN ESSNTLS",
+      "section": "A",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2022",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "A",
+      "instructor": "Parameswaran,M"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2022",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "B",
+      "instructor": "Parameswaran,M"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2022",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "B",
+      "instructor": "Lee,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2022",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "A",
+      "instructor": "Yang,Mingwen"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2022",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "A",
+      "instructor": "Hwang,Elina"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2022",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "B",
+      "instructor": "Hwang,Elina"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2022",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "A",
+      "instructor": "Mamani,Hamed"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2022",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "B",
+      "instructor": "Wang,Yingfei"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2022",
+      "course": "I S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2022",
+      "course": "I S 599",
+      "courseTitle": "DOC SEM IN INFO SYS",
+      "section": "A",
+      "instructor": "Chen,Wanning"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2022",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2022",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2023",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "A",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2023",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "B",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2023",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "C",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2023",
+      "course": "I S 305",
+      "courseTitle": "INFO SYS FIN ESSNTLS",
+      "section": "A",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2023",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "A",
+      "instructor": "Parameswaran,M"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2023",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "B",
+      "instructor": "Parameswaran,M"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2023",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "A",
+      "instructor": "Lee,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2023",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "B",
+      "instructor": "Lee,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2023",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "A",
+      "instructor": "Gao,Frank"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2023",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "B",
+      "instructor": "Gao,Frank"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2023",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "A",
+      "instructor": "Shunko,Masha"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2023",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "B",
+      "instructor": "Shunko,Masha"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2023",
+      "course": "I S 460",
+      "courseTitle": "SYS ANLYS & DESGN",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2023",
+      "course": "I S 460",
+      "courseTitle": "SYS ANLYS & DESGN",
+      "section": "B",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2023",
+      "course": "I S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2023",
+      "course": "I S 580",
+      "courseTitle": "ADV RSRCH TOPICS I",
+      "section": "A",
+      "instructor": "Tan,Y"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2023",
+      "course": "I S 581",
+      "courseTitle": "ADV RSRCH TOPICSII",
+      "section": "A",
+      "instructor": "Ananthakrishnan,Uttara Mad"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2023",
+      "course": "I S 599",
+      "courseTitle": "DOC SEM IN INFO SYS",
+      "section": "A",
+      "instructor": "Chen,Shi"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2023",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2023",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2023",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2023",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "B",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2023",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "C",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2023",
+      "course": "I S 305",
+      "courseTitle": "INFO SYS FIN ESSNTLS",
+      "section": "A",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2023",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "A",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2023",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "B",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2023",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "A",
+      "instructor": "Yang,M"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2023",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "B",
+      "instructor": "Yang,M"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2023",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "A",
+      "instructor": "Chen,Wanning"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2023",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "B",
+      "instructor": "Chen,Wanning"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2023",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "A",
+      "instructor": "Singh,Amandeep"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2023",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "B",
+      "instructor": "Singh,Amandeep"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2023",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "C",
+      "instructor": "Singh,Amandeep"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2023",
+      "course": "I S 460",
+      "courseTitle": "SYS ANLYS & DESGN",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2023",
+      "course": "I S 460",
+      "courseTitle": "SYS ANLYS & DESGN",
+      "section": "B",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2023",
+      "course": "I S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2023",
+      "course": "I S 504",
+      "courseTitle": "INFO SYST FOR MNGMT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2023",
+      "course": "I S 545",
+      "courseTitle": "DATABASE SYS & APP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2023",
+      "course": "I S 570",
+      "courseTitle": "BUS DATA COM & NET",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2023",
+      "course": "I S 599",
+      "courseTitle": "DOC SEM IN INFO SYS",
+      "section": "A",
+      "instructor": "Lee,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2023",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2023",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SUM2023",
+      "course": "I S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SUM2023",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SUM2023",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2023",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "A",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2023",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "B",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2023",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "C",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2023",
+      "course": "I S 305",
+      "courseTitle": "INFO SYS FIN ESSNTLS",
+      "section": "A",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2023",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "A",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2023",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "B",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2023",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "A",
+      "instructor": "Gao,Frank"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2023",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "B",
+      "instructor": "Gao,Frank"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2023",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "A",
+      "instructor": "Hwang,Elina"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2023",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "B",
+      "instructor": "Hwang,Elina"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2023",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "A",
+      "instructor": "Singh,Amandeep"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2023",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "B",
+      "instructor": "Singh,Amandeep"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2023",
+      "course": "I S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2023",
+      "course": "I S 599",
+      "courseTitle": "DOC SEM IN INFO SYS",
+      "section": "A",
+      "instructor": "Chen,Wanning"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2023",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2023",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2024",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2024",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "B",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2024",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "C",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2024",
+      "course": "I S 305",
+      "courseTitle": "INFO SYS FIN ESSNTLS",
+      "section": "A",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2024",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "A",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2024",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "B",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2024",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "A",
+      "instructor": "Gao,Frank"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2024",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "B",
+      "instructor": "Gao,Frank"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2024",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "A",
+      "instructor": "Gao,Frank"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2024",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "B",
+      "instructor": "Ma,Lijia"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2024",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "A",
+      "instructor": "Zhang,Ray"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2024",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "B",
+      "instructor": "Zhang,Ray"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2024",
+      "course": "I S 460",
+      "courseTitle": "SYS ANLYS & DESGN",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2024",
+      "course": "I S 460",
+      "courseTitle": "SYS ANLYS & DESGN",
+      "section": "B",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2024",
+      "course": "I S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2024",
+      "course": "I S 580",
+      "courseTitle": "ADV RSRCH TOPICS I",
+      "section": "A",
+      "instructor": "Tan,Yong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2024",
+      "course": "I S 599",
+      "courseTitle": "DOC SEM IN INFO SYS",
+      "section": "A",
+      "instructor": "Boussioux,Leonard"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2024",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2024",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "B",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "C",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 305",
+      "courseTitle": "INFO SYS FIN ESSNTLS",
+      "section": "A",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 305",
+      "courseTitle": "INFO SYS FIN ESSNTLS",
+      "section": "B",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "A",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "B",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "A",
+      "instructor": "Yang,Mingwen"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "B",
+      "instructor": "Yang,Mingwen"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "A",
+      "instructor": "Gao,Frank"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "B",
+      "instructor": "Gao,Frank"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "A",
+      "instructor": "Boussioux,Leonard"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "B",
+      "instructor": "Boussioux,Leonard"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "C",
+      "instructor": "Boussioux,Leonard"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 460",
+      "courseTitle": "SYS ANLYS & DESGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 460",
+      "courseTitle": "SYS ANLYS & DESGN",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 500",
+      "courseTitle": "DATA MGMT ANALYTICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 500",
+      "courseTitle": "DATA MGMT ANALYTICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 500",
+      "courseTitle": "DATA MGMT ANALYTICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 500",
+      "courseTitle": "DATA MGMT ANALYTICS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 504",
+      "courseTitle": "INFO SYST FOR MNGMT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 545",
+      "courseTitle": "DATABASE SYS & APP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 570",
+      "courseTitle": "BUS DATA COM & NET",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 582",
+      "courseTitle": "ADV RSRCH TOPICSIII",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 599",
+      "courseTitle": "DOC SEM IN INFO SYS",
+      "section": "A",
+      "instructor": "Wagner,Michael R"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2024",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SUM2024",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SUM2024",
+      "course": "I S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SUM2024",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SUM2024",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2024",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2024",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "B",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2024",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "C",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2024",
+      "course": "I S 305",
+      "courseTitle": "INFO SYS FIN ESSNTLS",
+      "section": "A",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2024",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "A",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2024",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "B",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2024",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "A",
+      "instructor": "Gao,Frank"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2024",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "B",
+      "instructor": "Lee,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2024",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "A",
+      "instructor": "Hwang,Elina"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2024",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "B",
+      "instructor": "Hwang,Elina"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2024",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "A",
+      "instructor": "Singh,Amandeep"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2024",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "B",
+      "instructor": "Singh,Amandeep"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2024",
+      "course": "I S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2024",
+      "course": "I S 582",
+      "courseTitle": "ADV RSRCH TOPICSIII",
+      "section": "A",
+      "instructor": "Singh,Amandeep"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2024",
+      "course": "I S 599",
+      "courseTitle": "DOC SEM IN INFO SYS",
+      "section": "A",
+      "instructor": "Wang,Yingfei"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2024",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2024",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2025",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2025",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "B",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2025",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "C",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2025",
+      "course": "I S 305",
+      "courseTitle": "INFO SYS FIN ESSNTLS",
+      "section": "A",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2025",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "A",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2025",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "B",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2025",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "A",
+      "instructor": "Lee,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2025",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "B",
+      "instructor": "Lee,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2025",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "B",
+      "instructor": "Chen,Wanning"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2025",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "A",
+      "instructor": "Gao,Frank"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2025",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "B",
+      "instructor": "Carlson,Kjiel Emil"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2025",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "A",
+      "instructor": "Wang,Yingfei"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2025",
+      "course": "I S 460",
+      "courseTitle": "SYS ANLYS & DESGN",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2025",
+      "course": "I S 460",
+      "courseTitle": "SYS ANLYS & DESGN",
+      "section": "B",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2025",
+      "course": "I S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2025",
+      "course": "I S 580",
+      "courseTitle": "ADV RSRCH TOPICS I",
+      "section": "A",
+      "instructor": "Tan,Yong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2025",
+      "course": "I S 599",
+      "courseTitle": "DOC SEM IN INFO SYS",
+      "section": "A",
+      "instructor": "Singh,Amandeep"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2025",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2025",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "A",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "B",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "C",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 305",
+      "courseTitle": "INFO SYS FIN ESSNTLS",
+      "section": "A",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 305",
+      "courseTitle": "INFO SYS FIN ESSNTLS",
+      "section": "B",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "A",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "B",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "A",
+      "instructor": "Yang,Mingwen"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "B",
+      "instructor": "Yang,Mingwen"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "A",
+      "instructor": "Gao,Frank"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "B",
+      "instructor": "Gao,Frank"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "A",
+      "instructor": "Ertan,Emre"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "B",
+      "instructor": "Ertan,Emre"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "C",
+      "instructor": "ZHANG,JINGWEN"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 460",
+      "courseTitle": "SYS ANLYS & DESGN",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 460",
+      "courseTitle": "SYS ANLYS & DESGN",
+      "section": "B",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 500",
+      "courseTitle": "DATA MGMT ANALYTICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 500",
+      "courseTitle": "DATA MGMT ANALYTICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 500",
+      "courseTitle": "DATA MGMT ANALYTICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 500",
+      "courseTitle": "DATA MGMT ANALYTICS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 504",
+      "courseTitle": "INFO SYST FOR MNGMT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 545",
+      "courseTitle": "DATABASE SYS & APP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 570",
+      "courseTitle": "BUS DATA COM & NET",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 599",
+      "courseTitle": "DOC SEM IN INFO SYS",
+      "section": "A",
+      "instructor": "Shunko,Masha"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SUM2025",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SUM2025",
+      "course": "I S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SUM2025",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SUM2025",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2025",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "B",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2025",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "C",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2025",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2025",
+      "course": "I S 305",
+      "courseTitle": "INFO SYS FIN ESSNTLS",
+      "section": "A",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2025",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "A",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2025",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "B",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2025",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "A",
+      "instructor": "Gao,Frank"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2025",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "B",
+      "instructor": "Gao,Frank"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2025",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "A",
+      "instructor": "Hwang,Elina"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2025",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "B",
+      "instructor": "Hwang,Elina"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2025",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "A",
+      "instructor": "Singh,Amandeep"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2025",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "B",
+      "instructor": "Singh,Amandeep"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2025",
+      "course": "I S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2025",
+      "course": "I S 582",
+      "courseTitle": "ADV RSRCH TOPICSIII",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2025",
+      "course": "I S 599",
+      "courseTitle": "DOC SEM IN INFO SYS",
+      "section": "A",
+      "instructor": "Nageswaran,Leela"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2025",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2025",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2026",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2026",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "B",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2026",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "C",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2026",
+      "course": "I S 305",
+      "courseTitle": "INFO SYS FIN ESSNTLS",
+      "section": "A",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2026",
+      "course": "I S 305",
+      "courseTitle": "INFO SYS FIN ESSNTLS",
+      "section": "B",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2026",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "A",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2026",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "B",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2026",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "A",
+      "instructor": "Lee,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2026",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "B",
+      "instructor": "Lee,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2026",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "A",
+      "instructor": "Gao,Frank"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2026",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "B",
+      "instructor": "Gao,Frank"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2026",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "A",
+      "instructor": "Wang,Yingfei"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2026",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "B",
+      "instructor": "Wang,Yingfei"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2026",
+      "course": "I S 460",
+      "courseTitle": "SYS ANLYS & DESGN",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2026",
+      "course": "I S 460",
+      "courseTitle": "SYS ANLYS & DESGN",
+      "section": "B",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2026",
+      "course": "I S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2026",
+      "course": "I S 580",
+      "courseTitle": "ADV RSRCH TOPICS I",
+      "section": "A",
+      "instructor": "Tan,Yong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2026",
+      "course": "I S 599",
+      "courseTitle": "DOC SEM IN INFO SYS",
+      "section": "A",
+      "instructor": "Hwang,Elina"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2026",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2026",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "A",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "B",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 300",
+      "courseTitle": "INTRO TO INFO SYS",
+      "section": "C",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 305",
+      "courseTitle": "INFO SYS FIN ESSNTLS",
+      "section": "A",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 305",
+      "courseTitle": "INFO SYS FIN ESSNTLS",
+      "section": "B",
+      "instructor": "Ou,Shaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "A",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 320",
+      "courseTitle": "FUND OF APPLIC PROG",
+      "section": "B",
+      "instructor": "Parameswaran,Manoj"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "B",
+      "instructor": "Coleman,Kelly"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 410",
+      "courseTitle": "NTWRKS CYBRSCRTY",
+      "section": "A",
+      "instructor": "Gao,Frank"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "A",
+      "instructor": "Aldridge,Michael"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 445",
+      "courseTitle": "DATABASE",
+      "section": "B",
+      "instructor": "Gao,Frank"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "A",
+      "instructor": "Carlson,Kjiel Emil"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "B",
+      "instructor": "Carlson,Kjiel Emil"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "C",
+      "instructor": "Xu,Xingchen"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 460",
+      "courseTitle": "SYS ANLYS & DESGN",
+      "section": "A",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 460",
+      "courseTitle": "SYS ANLYS & DESGN",
+      "section": "B",
+      "instructor": "Keskin,Tayfun"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 500",
+      "courseTitle": "DATA MGMT ANALYTICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 500",
+      "courseTitle": "DATA MGMT ANALYTICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 500",
+      "courseTitle": "DATA MGMT ANALYTICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 500",
+      "courseTitle": "DATA MGMT ANALYTICS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 504",
+      "courseTitle": "INFO SYST FOR MNGMT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 545",
+      "courseTitle": "DATABASE SYS & APP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 570",
+      "courseTitle": "BUS DATA COM & NET",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 581",
+      "courseTitle": "ADV RSRCH TOPICSII",
+      "section": "A",
+      "instructor": "Wang,Yingfei"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 599",
+      "courseTitle": "DOC SEM IN INFO SYS",
+      "section": "A",
+      "instructor": "Ananthakrishnan,Uttara Mad"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    }
+  ]
 }

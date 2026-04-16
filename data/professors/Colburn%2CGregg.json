@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Colburn%2CGregg",
+  "professor": "Colburn,Gregg",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2023",
+      "course": "R E 464",
+      "courseTitle": "AFFORDABLE HOUSING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "WIN2023",
+      "course": "R E 416",
+      "courseTitle": "RE MARKET ANALYSIS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "WIN2022",
+      "course": "R E 416",
+      "courseTitle": "RE MARKET ANALYSIS",
+      "section": "A"
+    }
+  ]
+}

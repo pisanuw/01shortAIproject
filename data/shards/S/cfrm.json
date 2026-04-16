@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:55Z",
+  "generatedAt": "2026-04-16T02:57:10Z",
   "campus": "S",
   "dept": "cfrm",
   "deptName": "Computational Finance and Risk Management",
@@ -11,8 +11,8 @@
       "term": "AUT2020",
       "course": "CFRM 405",
       "courseTitle": "MATH METHODS FOR QF",
-      "section": "C",
-      "instructor": "DJ"
+      "section": "B",
+      "instructor": "Adekoya,Oreoluwa Tanidabio"
     },
     {
       "campus": "S",
@@ -21,8 +21,8 @@
       "term": "AUT2020",
       "course": "CFRM 405",
       "courseTitle": "MATH METHODS FOR QF",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "DJ"
     },
     {
       "campus": "S",
@@ -968,6 +968,76 @@
       "campus": "S",
       "dept": "cfrm",
       "deptName": "Computational Finance and Risk Management",
+      "term": "SPR2024",
+      "course": "CFRM 415",
+      "courseTitle": "INTRO FIN MARKETS",
+      "section": "A",
+      "instructor": "Shirai,Yoshihiro"
+    },
+    {
+      "campus": "S",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "SPR2024",
+      "course": "CFRM 415",
+      "courseTitle": "INTRO FIN MARKETS",
+      "section": "B",
+      "instructor": "Shirai,Yoshihiro"
+    },
+    {
+      "campus": "S",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "SPR2024",
+      "course": "CFRM 421",
+      "courseTitle": "MACHINE LRN FINANCE",
+      "section": "A",
+      "instructor": "Shirai,Yoshihiro"
+    },
+    {
+      "campus": "S",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "SPR2024",
+      "course": "CFRM 503",
+      "courseTitle": "ASSET ALLOCATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "SPR2024",
+      "course": "CFRM 521",
+      "courseTitle": "MACHINE LRN FINANCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "SPR2024",
+      "course": "CFRM 523",
+      "courseTitle": "ADV TRADING SYSTEMS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "SPR2024",
+      "course": "CFRM 532",
+      "courseTitle": "ENDOW INVEST MGMT",
+      "section": "A",
+      "instructor": "Ferguson,Keith"
+    },
+    {
+      "campus": "S",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
       "term": "AUT2024",
       "course": "CFRM 405",
       "courseTitle": "MATH METHODS FOR QF",
@@ -1241,8 +1311,8 @@
       "term": "AUT2025",
       "course": "CFRM 405",
       "courseTitle": "MATH METHODS FOR QF",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Jung,Jiwon"
     },
     {
       "campus": "S",
@@ -1251,16 +1321,6 @@
       "term": "AUT2025",
       "course": "CFRM 405",
       "courseTitle": "MATH METHODS FOR QF",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "cfrm",
-      "deptName": "Computational Finance and Risk Management",
-      "term": "AUT2025",
-      "course": "CFRM 420",
-      "courseTitle": "INTRO CMPFIN/FINECN",
       "section": "A",
       "instructor": "TBA"
     },
@@ -1271,8 +1331,18 @@
       "term": "AUT2025",
       "course": "CFRM 420",
       "courseTitle": "INTRO CMPFIN/FINECN",
+      "section": "A",
+      "instructor": "Thompson,Lowell"
+    },
+    {
+      "campus": "S",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "AUT2025",
+      "course": "CFRM 420",
+      "courseTitle": "INTRO CMPFIN/FINECN",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Thompson,Lowell"
     },
     {
       "campus": "S",
@@ -1352,7 +1422,7 @@
       "course": "CFRM 410",
       "courseTitle": "COMP FIN PROB STATS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Thompson,Lowell"
     },
     {
       "campus": "S",
@@ -1362,7 +1432,7 @@
       "course": "CFRM 410",
       "courseTitle": "COMP FIN PROB STATS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Thompson,Lowell"
     },
     {
       "campus": "S",
@@ -1372,7 +1442,7 @@
       "course": "CFRM 422",
       "courseTitle": "TRADING SYSTEMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hansen,Benjamin"
     },
     {
       "campus": "S",
@@ -1382,7 +1452,7 @@
       "course": "CFRM 425",
       "courseTitle": "R PROG FOR QUANT FIN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jung,Jiwon"
     },
     {
       "campus": "S",
@@ -1392,7 +1462,7 @@
       "course": "CFRM 425",
       "courseTitle": "R PROG FOR QUANT FIN",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Jung,Jiwon"
     },
     {
       "campus": "S",
@@ -1422,7 +1492,7 @@
       "course": "CFRM 522",
       "courseTitle": "TRADING SYSTEMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hansen,Benjamin"
     },
     {
       "campus": "S",
@@ -1432,7 +1502,7 @@
       "course": "CFRM 415",
       "courseTitle": "INTRO FIN MARKETS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Thompson,Lowell"
     },
     {
       "campus": "S",
@@ -1442,7 +1512,7 @@
       "course": "CFRM 415",
       "courseTitle": "INTRO FIN MARKETS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Thompson,Lowell"
     },
     {
       "campus": "S",
@@ -1452,7 +1522,7 @@
       "course": "CFRM 421",
       "courseTitle": "MACH LRN APPL TO FIN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jung,Jiwon"
     },
     {
       "campus": "S",
@@ -1482,7 +1552,7 @@
       "course": "CFRM 532",
       "courseTitle": "ENDOW INVEST MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ferguson,Keith"
     },
     {
       "campus": "S",
@@ -1492,7 +1562,7 @@
       "course": "CFRM 586",
       "courseTitle": "FIN FORCAST METHOD",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Murray,Steven M."
     }
   ]
 }

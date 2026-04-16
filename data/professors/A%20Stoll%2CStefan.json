@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "A%20Stoll%2CStefan",
+  "professor": "A Stoll,Stefan",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2024",
+      "course": "CHEM 551",
+      "courseTitle": "INTRO QUANTUM CHEM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2023",
+      "course": "CHEM 551",
+      "courseTitle": "INTRO QUANTUM CHEM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2022",
+      "course": "CHEM 551",
+      "courseTitle": "INTRO QUANTUM CHEM",
+      "section": "A"
+    }
+  ]
+}

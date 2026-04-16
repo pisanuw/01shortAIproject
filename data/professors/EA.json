@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "EA",
+  "professor": "EA",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SUM2025",
+      "course": "ENVIR 100",
+      "courseTitle": "INTRO ENV STUDIES",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tcrim",
+      "deptName": "Criminal Justice",
+      "term": "AUT2024",
+      "course": "T CRIM 498",
+      "courseTitle": "INTERNSHIP",
+      "section": "B"
+    }
+  ]
+}

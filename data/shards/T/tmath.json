@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T15:51:12Z",
+  "generatedAt": "2026-04-16T02:57:09Z",
   "campus": "T",
   "dept": "tmath",
   "deptName": "Mathematics",
@@ -2021,8 +2021,8 @@
       "term": "AUT2021",
       "course": "TMATH 159",
       "courseTitle": "CALC COLLAB LRN",
-      "section": "A",
-      "instructor": "Skipper,Haley"
+      "section": "B",
+      "instructor": "A Skipper,Haley"
     },
     {
       "campus": "T",
@@ -2031,7 +2031,7 @@
       "term": "AUT2021",
       "course": "TMATH 159",
       "courseTitle": "CALC COLLAB LRN",
-      "section": "B",
+      "section": "A",
       "instructor": "Skipper,Haley"
     },
     {
@@ -2531,8 +2531,8 @@
       "term": "WIN2022",
       "course": "TMATH 159",
       "courseTitle": "CALC COLLAB LRN",
-      "section": "A",
-      "instructor": "Card,Ryan"
+      "section": "B",
+      "instructor": "A Card,Ryan"
     },
     {
       "campus": "T",
@@ -2541,7 +2541,7 @@
       "term": "WIN2022",
       "course": "TMATH 159",
       "courseTitle": "CALC COLLAB LRN",
-      "section": "B",
+      "section": "A",
       "instructor": "Card,Ryan"
     },
     {
@@ -4332,7 +4332,7 @@
       "course": "TMATH 159",
       "courseTitle": "CALC I COLLAB LRN",
       "section": "A",
-      "instructor": "Kennedy,Maureen C"
+      "instructor": "A Kennedy,Maureen C"
     },
     {
       "campus": "T",
@@ -7452,7 +7452,7 @@
       "course": "TMATH 159",
       "courseTitle": "CALC I COLLAB LRN",
       "section": "A",
-      "instructor": "Vanderpool,Ruth"
+      "instructor": "A Vanderpool,Ruth"
     },
     {
       "campus": "T",
@@ -8932,7 +8932,7 @@
       "course": "TMATH 109",
       "courseTitle": "FINANCE & MATH FOUND",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Than,Duong"
     },
     {
       "campus": "T",
@@ -8942,7 +8942,47 @@
       "course": "TMATH 109",
       "courseTitle": "FINANCE & MATH FOUND",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Than,Duong"
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "AUT2025",
+      "course": "TMATH 110",
+      "courseTitle": "INTRO STAT APPLICTNS",
+      "section": "G",
+      "instructor": "Card,Ryan"
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "AUT2025",
+      "course": "TMATH 110",
+      "courseTitle": "INTRO STAT APPLICTNS",
+      "section": "H",
+      "instructor": "Card,Ryan"
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "AUT2025",
+      "course": "TMATH 110",
+      "courseTitle": "INTRO STAT APPLICTNS",
+      "section": "C",
+      "instructor": "Eaton,Julia"
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "AUT2025",
+      "course": "TMATH 110",
+      "courseTitle": "INTRO STAT APPLICTNS",
+      "section": "D",
+      "instructor": "Eaton,Julia"
     },
     {
       "campus": "T",
@@ -8971,88 +9011,8 @@
       "term": "AUT2025",
       "course": "TMATH 110",
       "courseTitle": "INTRO STAT APPLICTNS",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "AUT2025",
-      "course": "TMATH 110",
-      "courseTitle": "INTRO STAT APPLICTNS",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "AUT2025",
-      "course": "TMATH 110",
-      "courseTitle": "INTRO STAT APPLICTNS",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "AUT2025",
-      "course": "TMATH 110",
-      "courseTitle": "INTRO STAT APPLICTNS",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "AUT2025",
-      "course": "TMATH 110",
-      "courseTitle": "INTRO STAT APPLICTNS",
-      "section": "E",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "AUT2025",
-      "course": "TMATH 110",
-      "courseTitle": "INTRO STAT APPLICTNS",
-      "section": "F",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "AUT2025",
-      "course": "TMATH 110",
-      "courseTitle": "INTRO STAT APPLICTNS",
-      "section": "G",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "AUT2025",
-      "course": "TMATH 110",
-      "courseTitle": "INTRO STAT APPLICTNS",
-      "section": "H",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "AUT2025",
-      "course": "TMATH 110",
-      "courseTitle": "INTRO STAT APPLICTNS",
       "section": "K",
-      "instructor": "TBA"
+      "instructor": "Kmail,Zaher"
     },
     {
       "campus": "T",
@@ -9062,7 +9022,47 @@
       "course": "TMATH 110",
       "courseTitle": "INTRO STAT APPLICTNS",
       "section": "L",
-      "instructor": "TBA"
+      "instructor": "Kmail,Zaher"
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "AUT2025",
+      "course": "TMATH 110",
+      "courseTitle": "INTRO STAT APPLICTNS",
+      "section": "E",
+      "instructor": "Mauney,Allen J."
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "AUT2025",
+      "course": "TMATH 110",
+      "courseTitle": "INTRO STAT APPLICTNS",
+      "section": "F",
+      "instructor": "Mauney,Allen J."
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "AUT2025",
+      "course": "TMATH 110",
+      "courseTitle": "INTRO STAT APPLICTNS",
+      "section": "A",
+      "instructor": "Skipper,Haley"
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "AUT2025",
+      "course": "TMATH 110",
+      "courseTitle": "INTRO STAT APPLICTNS",
+      "section": "B",
+      "instructor": "Skipper,Haley"
     },
     {
       "campus": "T",
@@ -9083,26 +9083,6 @@
       "courseTitle": "PRECALC I FUNCTIONS",
       "section": "B",
       "instructor": "BJ"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "AUT2025",
-      "course": "TMATH 115",
-      "courseTitle": "PRECALC I FUNCTIONS",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "AUT2025",
-      "course": "TMATH 115",
-      "courseTitle": "PRECALC I FUNCTIONS",
-      "section": "D",
-      "instructor": "TBA"
     },
     {
       "campus": "T",
@@ -9112,7 +9092,7 @@
       "course": "TMATH 115",
       "courseTitle": "PRECALC I FUNCTIONS",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Scherer,Asa"
     },
     {
       "campus": "T",
@@ -9122,7 +9102,27 @@
       "course": "TMATH 115",
       "courseTitle": "PRECALC I FUNCTIONS",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Scherer,Asa"
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "AUT2025",
+      "course": "TMATH 115",
+      "courseTitle": "PRECALC I FUNCTIONS",
+      "section": "C",
+      "instructor": "Slease,Greg"
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "AUT2025",
+      "course": "TMATH 115",
+      "courseTitle": "PRECALC I FUNCTIONS",
+      "section": "D",
+      "instructor": "Slease,Greg"
     },
     {
       "campus": "T",
@@ -9132,7 +9132,7 @@
       "course": "TMATH 116",
       "courseTitle": "PRECALC II TRIG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Slease,Greg"
     },
     {
       "campus": "T",
@@ -9142,7 +9142,7 @@
       "course": "TMATH 116",
       "courseTitle": "PRECALC II TRIG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Slease,Greg"
     },
     {
       "campus": "T",
@@ -9152,7 +9152,7 @@
       "course": "TMATH 116",
       "courseTitle": "PRECALC II TRIG",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Slease,Greg"
     },
     {
       "campus": "T",
@@ -9162,7 +9162,7 @@
       "course": "TMATH 116",
       "courseTitle": "PRECALC II TRIG",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Slease,Greg"
     },
     {
       "campus": "T",
@@ -9172,7 +9172,7 @@
       "course": "TMATH 120",
       "courseTitle": "PRECALCULUS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tou,Erik R."
     },
     {
       "campus": "T",
@@ -9182,7 +9182,7 @@
       "course": "TMATH 120",
       "courseTitle": "PRECALCULUS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Tou,Erik R."
     },
     {
       "campus": "T",
@@ -9212,7 +9212,7 @@
       "course": "TMATH 124",
       "courseTitle": "CALC ANALYT GEOM I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mauney,Allen J."
     },
     {
       "campus": "T",
@@ -9222,7 +9222,7 @@
       "course": "TMATH 124",
       "courseTitle": "CALC ANALYT GEOM I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Mauney,Allen J."
     },
     {
       "campus": "T",
@@ -9232,7 +9232,7 @@
       "course": "TMATH 124",
       "courseTitle": "CALC ANALYT GEOM I",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Mauney,Allen J."
     },
     {
       "campus": "T",
@@ -9242,7 +9242,7 @@
       "course": "TMATH 124",
       "courseTitle": "CALC ANALYT GEOM I",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Mauney,Allen J."
     },
     {
       "campus": "T",
@@ -9252,7 +9252,7 @@
       "course": "TMATH 124",
       "courseTitle": "CALC ANALYT GEOM I",
       "section": "G",
-      "instructor": "TBA"
+      "instructor": "Shatunova,Olga"
     },
     {
       "campus": "T",
@@ -9281,18 +9281,8 @@
       "term": "AUT2025",
       "course": "TMATH 125",
       "courseTitle": "CALC ANALYT GEOM II",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "AUT2025",
-      "course": "TMATH 125",
-      "courseTitle": "CALC ANALYT GEOM II",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "G",
+      "instructor": "Bartlett,Alan"
     },
     {
       "campus": "T",
@@ -9302,7 +9292,7 @@
       "course": "TMATH 125",
       "courseTitle": "CALC ANALYT GEOM II",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Galarraga,Alex"
     },
     {
       "campus": "T",
@@ -9312,7 +9302,7 @@
       "course": "TMATH 125",
       "courseTitle": "CALC ANALYT GEOM II",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Galarraga,Alex"
     },
     {
       "campus": "T",
@@ -9321,28 +9311,18 @@
       "term": "AUT2025",
       "course": "TMATH 125",
       "courseTitle": "CALC ANALYT GEOM II",
-      "section": "G",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "AUT2025",
-      "course": "TMATH 126",
-      "courseTitle": "CALC ANYL GEOM III",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kmail,Zaher"
     },
     {
       "campus": "T",
       "dept": "tmath",
       "deptName": "Mathematics",
       "term": "AUT2025",
-      "course": "TMATH 126",
-      "courseTitle": "CALC ANYL GEOM III",
+      "course": "TMATH 125",
+      "courseTitle": "CALC ANALYT GEOM II",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Kmail,Zaher"
     },
     {
       "campus": "T",
@@ -9352,7 +9332,27 @@
       "course": "TMATH 126",
       "courseTitle": "CALC ANYL GEOM III",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Rupert,Nina Michelle"
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "AUT2025",
+      "course": "TMATH 126",
+      "courseTitle": "CALC ANYL GEOM III",
+      "section": "A",
+      "instructor": "Vanderpool,Ruth"
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "AUT2025",
+      "course": "TMATH 126",
+      "courseTitle": "CALC ANYL GEOM III",
+      "section": "B",
+      "instructor": "Vanderpool,Ruth"
     },
     {
       "campus": "T",
@@ -9362,7 +9362,7 @@
       "course": "TMATH 159",
       "courseTitle": "CALC I COLLAB LRN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Vanderpool,Ruth"
     },
     {
       "campus": "T",
@@ -9372,7 +9372,7 @@
       "course": "TMATH 160",
       "courseTitle": "CALC II COLLAB LRN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Vanderpool,Ruth"
     },
     {
       "campus": "T",
@@ -9382,7 +9382,7 @@
       "course": "TMATH 171",
       "courseTitle": "MATH FOR TEACHERS 1",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Vanderpool,Ruth"
     },
     {
       "campus": "T",
@@ -9392,7 +9392,7 @@
       "course": "TMATH 207",
       "courseTitle": "INTRO TO DIFF EQ",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "An,Yajun"
     },
     {
       "campus": "T",
@@ -9402,7 +9402,7 @@
       "course": "TMATH 208",
       "courseTitle": "MATRIX ALGEBRA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rupert,Nina Michelle"
     },
     {
       "campus": "T",
@@ -9412,7 +9412,7 @@
       "course": "TMATH 208",
       "courseTitle": "MATRIX ALGEBRA",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Than,Duong"
     },
     {
       "campus": "T",
@@ -9422,7 +9422,7 @@
       "course": "TMATH 224",
       "courseTitle": "MULTIVAR CALCULUS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Card,Ryan"
     },
     {
       "campus": "T",
@@ -9432,7 +9432,7 @@
       "course": "TMATH 300",
       "courseTitle": "MATH REASONING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bartlett,Alan"
     },
     {
       "campus": "T",
@@ -9442,7 +9442,7 @@
       "course": "TMATH 302",
       "courseTitle": "MATH & SOC JUSTICE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tou,Erik R."
     },
     {
       "campus": "T",
@@ -9452,7 +9452,7 @@
       "course": "TMATH 390",
       "courseTitle": "PROB STAT ENG SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Arthur,David"
     },
     {
       "campus": "T",
@@ -9462,7 +9462,7 @@
       "course": "TMATH 390",
       "courseTitle": "PROB STAT ENG SCI",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Arthur,David"
     },
     {
       "campus": "T",
@@ -9472,7 +9472,7 @@
       "course": "TMATH 424",
       "courseTitle": "REAL ANALYSIS I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Eaton,Julia"
     },
     {
       "campus": "T",
@@ -9532,17 +9532,7 @@
       "course": "TMATH 109",
       "courseTitle": "FINANCE & MATH FOUND",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "WIN2026",
-      "course": "TMATH 109",
-      "courseTitle": "FINANCE & MATH FOUND",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Kennedy,Maureen C"
     },
     {
       "campus": "T",
@@ -9552,7 +9542,57 @@
       "course": "TMATH 109",
       "courseTitle": "FINANCE & MATH FOUND",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Scherer,Asa"
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "WIN2026",
+      "course": "TMATH 109",
+      "courseTitle": "FINANCE & MATH FOUND",
+      "section": "B",
+      "instructor": "Tou,Erik R."
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "WIN2026",
+      "course": "TMATH 110",
+      "courseTitle": "INTRO STAT APPLICTNS",
+      "section": "C",
+      "instructor": "Arthur,David"
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "WIN2026",
+      "course": "TMATH 110",
+      "courseTitle": "INTRO STAT APPLICTNS",
+      "section": "D",
+      "instructor": "Arthur,David"
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "WIN2026",
+      "course": "TMATH 110",
+      "courseTitle": "INTRO STAT APPLICTNS",
+      "section": "E",
+      "instructor": "Arthur,David"
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "WIN2026",
+      "course": "TMATH 110",
+      "courseTitle": "INTRO STAT APPLICTNS",
+      "section": "F",
+      "instructor": "Arthur,David"
     },
     {
       "campus": "T",
@@ -9582,7 +9622,7 @@
       "course": "TMATH 110",
       "courseTitle": "INTRO STAT APPLICTNS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kmail,Zaher"
     },
     {
       "campus": "T",
@@ -9592,47 +9632,7 @@
       "course": "TMATH 110",
       "courseTitle": "INTRO STAT APPLICTNS",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "WIN2026",
-      "course": "TMATH 110",
-      "courseTitle": "INTRO STAT APPLICTNS",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "WIN2026",
-      "course": "TMATH 110",
-      "courseTitle": "INTRO STAT APPLICTNS",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "WIN2026",
-      "course": "TMATH 110",
-      "courseTitle": "INTRO STAT APPLICTNS",
-      "section": "E",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "WIN2026",
-      "course": "TMATH 110",
-      "courseTitle": "INTRO STAT APPLICTNS",
-      "section": "F",
-      "instructor": "TBA"
+      "instructor": "Kmail,Zaher"
     },
     {
       "campus": "T",
@@ -9642,7 +9642,7 @@
       "course": "TMATH 110",
       "courseTitle": "INTRO STAT APPLICTNS",
       "section": "G",
-      "instructor": "TBA"
+      "instructor": "Mauney,Allen J."
     },
     {
       "campus": "T",
@@ -9652,27 +9652,7 @@
       "course": "TMATH 110",
       "courseTitle": "INTRO STAT APPLICTNS",
       "section": "H",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "WIN2026",
-      "course": "TMATH 115",
-      "courseTitle": "PRECALC I FUNCTIONS",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "WIN2026",
-      "course": "TMATH 115",
-      "courseTitle": "PRECALC I FUNCTIONS",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Mauney,Allen J."
     },
     {
       "campus": "T",
@@ -9682,7 +9662,7 @@
       "course": "TMATH 115",
       "courseTitle": "PRECALC I FUNCTIONS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Scherer,Asa"
     },
     {
       "campus": "T",
@@ -9692,7 +9672,27 @@
       "course": "TMATH 115",
       "courseTitle": "PRECALC I FUNCTIONS",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Scherer,Asa"
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "WIN2026",
+      "course": "TMATH 115",
+      "courseTitle": "PRECALC I FUNCTIONS",
+      "section": "A",
+      "instructor": "Slease,Greg"
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "WIN2026",
+      "course": "TMATH 115",
+      "courseTitle": "PRECALC I FUNCTIONS",
+      "section": "B",
+      "instructor": "Slease,Greg"
     },
     {
       "campus": "T",
@@ -9702,7 +9702,7 @@
       "course": "TMATH 116",
       "courseTitle": "PRECALC II TRIG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bartlett,Alan"
     },
     {
       "campus": "T",
@@ -9712,27 +9712,7 @@
       "course": "TMATH 116",
       "courseTitle": "PRECALC II TRIG",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "WIN2026",
-      "course": "TMATH 116",
-      "courseTitle": "PRECALC II TRIG",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "WIN2026",
-      "course": "TMATH 116",
-      "courseTitle": "PRECALC II TRIG",
-      "section": "D",
-      "instructor": "TBA"
+      "instructor": "Bartlett,Alan"
     },
     {
       "campus": "T",
@@ -9742,7 +9722,7 @@
       "course": "TMATH 116",
       "courseTitle": "PRECALC II TRIG",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Bartlett,Alan"
     },
     {
       "campus": "T",
@@ -9752,7 +9732,27 @@
       "course": "TMATH 116",
       "courseTitle": "PRECALC II TRIG",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Bartlett,Alan"
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "WIN2026",
+      "course": "TMATH 116",
+      "courseTitle": "PRECALC II TRIG",
+      "section": "C",
+      "instructor": "Leach,Brock"
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "WIN2026",
+      "course": "TMATH 116",
+      "courseTitle": "PRECALC II TRIG",
+      "section": "D",
+      "instructor": "Leach,Brock"
     },
     {
       "campus": "T",
@@ -9762,7 +9762,7 @@
       "course": "TMATH 120",
       "courseTitle": "PRECALCULUS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Galarraga,Alex"
     },
     {
       "campus": "T",
@@ -9772,27 +9772,7 @@
       "course": "TMATH 120",
       "courseTitle": "PRECALCULUS",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "WIN2026",
-      "course": "TMATH 124",
-      "courseTitle": "CALC ANALYT GEOM I",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "WIN2026",
-      "course": "TMATH 124",
-      "courseTitle": "CALC ANALYT GEOM I",
-      "section": "D",
-      "instructor": "TBA"
+      "instructor": "Galarraga,Alex"
     },
     {
       "campus": "T",
@@ -9802,7 +9782,7 @@
       "course": "TMATH 124",
       "courseTitle": "CALC ANALYT GEOM I",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Shatunova,Olga"
     },
     {
       "campus": "T",
@@ -9812,7 +9792,7 @@
       "course": "TMATH 124",
       "courseTitle": "CALC ANALYT GEOM I",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Shatunova,Olga"
     },
     {
       "campus": "T",
@@ -9822,7 +9802,7 @@
       "course": "TMATH 124",
       "courseTitle": "CALC ANALYT GEOM I",
       "section": "G",
-      "instructor": "TBA"
+      "instructor": "Shatunova,Olga"
     },
     {
       "campus": "T",
@@ -9832,27 +9812,27 @@
       "course": "TMATH 124",
       "courseTitle": "CALC ANALYT GEOM I",
       "section": "H",
-      "instructor": "TBA"
+      "instructor": "Shatunova,Olga"
     },
     {
       "campus": "T",
       "dept": "tmath",
       "deptName": "Mathematics",
       "term": "WIN2026",
-      "course": "TMATH 125",
-      "courseTitle": "CALC ANALYT GEOM II",
-      "section": "A",
-      "instructor": "TBA"
+      "course": "TMATH 124",
+      "courseTitle": "CALC ANALYT GEOM I",
+      "section": "C",
+      "instructor": "Tou,Erik R."
     },
     {
       "campus": "T",
       "dept": "tmath",
       "deptName": "Mathematics",
       "term": "WIN2026",
-      "course": "TMATH 125",
-      "courseTitle": "CALC ANALYT GEOM II",
-      "section": "B",
-      "instructor": "TBA"
+      "course": "TMATH 124",
+      "courseTitle": "CALC ANALYT GEOM I",
+      "section": "D",
+      "instructor": "Tou,Erik R."
     },
     {
       "campus": "T",
@@ -9862,7 +9842,7 @@
       "course": "TMATH 125",
       "courseTitle": "CALC ANALYT GEOM II",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Card,Ryan"
     },
     {
       "campus": "T",
@@ -9872,7 +9852,27 @@
       "course": "TMATH 125",
       "courseTitle": "CALC ANALYT GEOM II",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Card,Ryan"
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "WIN2026",
+      "course": "TMATH 125",
+      "courseTitle": "CALC ANALYT GEOM II",
+      "section": "A",
+      "instructor": "Slease,Greg"
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "WIN2026",
+      "course": "TMATH 125",
+      "courseTitle": "CALC ANALYT GEOM II",
+      "section": "B",
+      "instructor": "Slease,Greg"
     },
     {
       "campus": "T",
@@ -9882,7 +9882,7 @@
       "course": "TMATH 125",
       "courseTitle": "CALC ANALYT GEOM II",
       "section": "G",
-      "instructor": "TBA"
+      "instructor": "Slease,Greg"
     },
     {
       "campus": "T",
@@ -9892,7 +9892,7 @@
       "course": "TMATH 125",
       "courseTitle": "CALC ANALYT GEOM II",
       "section": "H",
-      "instructor": "TBA"
+      "instructor": "Slease,Greg"
     },
     {
       "campus": "T",
@@ -9902,7 +9902,7 @@
       "course": "TMATH 126",
       "courseTitle": "CALC ANYL GEOM III",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mauney,Allen J."
     },
     {
       "campus": "T",
@@ -9912,7 +9912,7 @@
       "course": "TMATH 126",
       "courseTitle": "CALC ANYL GEOM III",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Rupert,Nina Michelle"
     },
     {
       "campus": "T",
@@ -9922,7 +9922,7 @@
       "course": "TMATH 126",
       "courseTitle": "CALC ANYL GEOM III",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Rupert,Nina Michelle"
     },
     {
       "campus": "T",
@@ -9932,7 +9932,7 @@
       "course": "TMATH 159",
       "courseTitle": "CALC I COLLAB LRN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Vanderpool,Ruth"
     },
     {
       "campus": "T",
@@ -9942,7 +9942,7 @@
       "course": "TMATH 160",
       "courseTitle": "CALC II COLLAB LRN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Vanderpool,Ruth"
     },
     {
       "campus": "T",
@@ -9952,7 +9952,7 @@
       "course": "TMATH 171",
       "courseTitle": "MATH FOR TEACHERS 1",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Vanderpool,Ruth"
     },
     {
       "campus": "T",
@@ -9962,7 +9962,7 @@
       "course": "TMATH 172",
       "courseTitle": "MATH FOR TEACHERS 2",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Skipper,Haley"
     },
     {
       "campus": "T",
@@ -9972,7 +9972,7 @@
       "course": "TMATH 207",
       "courseTitle": "INTRO TO DIFF EQ",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "An,Yajun"
     },
     {
       "campus": "T",
@@ -9982,7 +9982,7 @@
       "course": "TMATH 208",
       "courseTitle": "MATRIX ALGEBRA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Card,Ryan"
     },
     {
       "campus": "T",
@@ -9992,7 +9992,7 @@
       "course": "TMATH 208",
       "courseTitle": "MATRIX ALGEBRA",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Card,Ryan"
     },
     {
       "campus": "T",
@@ -10002,7 +10002,7 @@
       "course": "TMATH 208",
       "courseTitle": "MATRIX ALGEBRA",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Rupert,Nina Michelle"
     },
     {
       "campus": "T",
@@ -10012,7 +10012,7 @@
       "course": "TMATH 210",
       "courseTitle": "INTERMEDIATE STATS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Skipper,Haley"
     },
     {
       "campus": "T",
@@ -10022,7 +10022,7 @@
       "course": "TMATH 350",
       "courseTitle": "MATH RSRCH FNDTNS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Eaton,Julia"
     },
     {
       "campus": "T",
@@ -10032,7 +10032,7 @@
       "course": "TMATH 351",
       "courseTitle": "MATH SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "An,Yajun"
     },
     {
       "campus": "T",
@@ -10042,7 +10042,7 @@
       "course": "TMATH 390",
       "courseTitle": "PROB STAT ENG SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kmail,Zaher"
     },
     {
       "campus": "T",
@@ -10052,7 +10052,7 @@
       "course": "TMATH 390",
       "courseTitle": "PROB STAT ENG SCI",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Kmail,Zaher"
     },
     {
       "campus": "T",
@@ -10062,7 +10062,7 @@
       "course": "TMATH 402",
       "courseTitle": "INTR ABSTRAT ALG I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Vanderpool,Ruth"
     },
     {
       "campus": "T",
@@ -10152,7 +10152,7 @@
       "course": "TMATH 110",
       "courseTitle": "INTRO STAT APPLICTNS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Kmail,Zaher"
     },
     {
       "campus": "T",
@@ -10162,7 +10162,7 @@
       "course": "TMATH 110",
       "courseTitle": "INTRO STAT APPLICTNS",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Kmail,Zaher"
     },
     {
       "campus": "T",
@@ -10172,7 +10172,7 @@
       "course": "TMATH 110",
       "courseTitle": "INTRO STAT APPLICTNS",
       "section": "G",
-      "instructor": "TBA"
+      "instructor": "Skipper,Haley"
     },
     {
       "campus": "T",
@@ -10182,7 +10182,7 @@
       "course": "TMATH 110",
       "courseTitle": "INTRO STAT APPLICTNS",
       "section": "H",
-      "instructor": "TBA"
+      "instructor": "Skipper,Haley"
     },
     {
       "campus": "T",
@@ -10192,7 +10192,7 @@
       "course": "TMATH 110",
       "courseTitle": "INTRO STAT APPLICTNS",
       "section": "I",
-      "instructor": "TBA"
+      "instructor": "Skipper,Haley"
     },
     {
       "campus": "T",
@@ -10202,7 +10202,7 @@
       "course": "TMATH 110",
       "courseTitle": "INTRO STAT APPLICTNS",
       "section": "J",
-      "instructor": "TBA"
+      "instructor": "Skipper,Haley"
     },
     {
       "campus": "T",
@@ -10212,7 +10212,7 @@
       "course": "TMATH 115",
       "courseTitle": "PRECALC I FUNCTIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mauney,Allen J."
     },
     {
       "campus": "T",
@@ -10222,7 +10222,7 @@
       "course": "TMATH 115",
       "courseTitle": "PRECALC I FUNCTIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Mauney,Allen J."
     },
     {
       "campus": "T",
@@ -10232,7 +10232,7 @@
       "course": "TMATH 115",
       "courseTitle": "PRECALC I FUNCTIONS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Mauney,Allen J."
     },
     {
       "campus": "T",
@@ -10242,7 +10242,7 @@
       "course": "TMATH 115",
       "courseTitle": "PRECALC I FUNCTIONS",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Mauney,Allen J."
     },
     {
       "campus": "T",
@@ -10252,7 +10252,7 @@
       "course": "TMATH 116",
       "courseTitle": "PRECALC II TRIG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bartlett,Alan"
     },
     {
       "campus": "T",
@@ -10262,7 +10262,7 @@
       "course": "TMATH 116",
       "courseTitle": "PRECALC II TRIG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Bartlett,Alan"
     },
     {
       "campus": "T",
@@ -10272,7 +10272,7 @@
       "course": "TMATH 116",
       "courseTitle": "PRECALC II TRIG",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Slease,Greg"
     },
     {
       "campus": "T",
@@ -10282,7 +10282,7 @@
       "course": "TMATH 116",
       "courseTitle": "PRECALC II TRIG",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Slease,Greg"
     },
     {
       "campus": "T",
@@ -10292,7 +10292,7 @@
       "course": "TMATH 120",
       "courseTitle": "PRECALCULUS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mauney,Allen J."
     },
     {
       "campus": "T",
@@ -10302,47 +10302,7 @@
       "course": "TMATH 120",
       "courseTitle": "PRECALCULUS",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "SPR2026",
-      "course": "TMATH 124",
-      "courseTitle": "CALC ANALYT GEOM I",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "SPR2026",
-      "course": "TMATH 124",
-      "courseTitle": "CALC ANALYT GEOM I",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "SPR2026",
-      "course": "TMATH 124",
-      "courseTitle": "CALC ANALYT GEOM I",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "SPR2026",
-      "course": "TMATH 124",
-      "courseTitle": "CALC ANALYT GEOM I",
-      "section": "D",
-      "instructor": "TBA"
+      "instructor": "Mauney,Allen J."
     },
     {
       "campus": "T",
@@ -10352,7 +10312,7 @@
       "course": "TMATH 124",
       "courseTitle": "CALC ANALYT GEOM I",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Bartlett,Alan"
     },
     {
       "campus": "T",
@@ -10362,27 +10322,47 @@
       "course": "TMATH 124",
       "courseTitle": "CALC ANALYT GEOM I",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Bartlett,Alan"
     },
     {
       "campus": "T",
       "dept": "tmath",
       "deptName": "Mathematics",
       "term": "SPR2026",
-      "course": "TMATH 125",
-      "courseTitle": "CALC ANALYT GEOM II",
+      "course": "TMATH 124",
+      "courseTitle": "CALC ANALYT GEOM I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Shatunova,Olga"
     },
     {
       "campus": "T",
       "dept": "tmath",
       "deptName": "Mathematics",
       "term": "SPR2026",
-      "course": "TMATH 125",
-      "courseTitle": "CALC ANALYT GEOM II",
+      "course": "TMATH 124",
+      "courseTitle": "CALC ANALYT GEOM I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Shatunova,Olga"
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "SPR2026",
+      "course": "TMATH 124",
+      "courseTitle": "CALC ANALYT GEOM I",
+      "section": "C",
+      "instructor": "Tou,Erik R."
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "SPR2026",
+      "course": "TMATH 124",
+      "courseTitle": "CALC ANALYT GEOM I",
+      "section": "D",
+      "instructor": "Tou,Erik R."
     },
     {
       "campus": "T",
@@ -10392,7 +10372,7 @@
       "course": "TMATH 125",
       "courseTitle": "CALC ANALYT GEOM II",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Card,Ryan"
     },
     {
       "campus": "T",
@@ -10402,7 +10382,27 @@
       "course": "TMATH 125",
       "courseTitle": "CALC ANALYT GEOM II",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Card,Ryan"
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "SPR2026",
+      "course": "TMATH 125",
+      "courseTitle": "CALC ANALYT GEOM II",
+      "section": "A",
+      "instructor": "Slease,Greg"
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "SPR2026",
+      "course": "TMATH 125",
+      "courseTitle": "CALC ANALYT GEOM II",
+      "section": "B",
+      "instructor": "Slease,Greg"
     },
     {
       "campus": "T",
@@ -10412,7 +10412,7 @@
       "course": "TMATH 125",
       "courseTitle": "CALC ANALYT GEOM II",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Vanderpool,Ruth"
     },
     {
       "campus": "T",
@@ -10422,7 +10422,7 @@
       "course": "TMATH 125",
       "courseTitle": "CALC ANALYT GEOM II",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Vanderpool,Ruth"
     },
     {
       "campus": "T",
@@ -10432,7 +10432,7 @@
       "course": "TMATH 126",
       "courseTitle": "CALC ANYL GEOM III",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Eaton,Julia"
     },
     {
       "campus": "T",
@@ -10442,7 +10442,7 @@
       "course": "TMATH 126",
       "courseTitle": "CALC ANYL GEOM III",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Eaton,Julia"
     },
     {
       "campus": "T",
@@ -10452,7 +10452,7 @@
       "course": "TMATH 126",
       "courseTitle": "CALC ANYL GEOM III",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Eaton,Julia"
     },
     {
       "campus": "T",
@@ -10462,7 +10462,7 @@
       "course": "TMATH 126",
       "courseTitle": "CALC ANYL GEOM III",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Eaton,Julia"
     },
     {
       "campus": "T",
@@ -10472,7 +10472,7 @@
       "course": "TMATH 159",
       "courseTitle": "CALC I COLLAB LRN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Vanderpool,Ruth"
     },
     {
       "campus": "T",
@@ -10482,7 +10482,7 @@
       "course": "TMATH 160",
       "courseTitle": "CALC II COLLAB LRN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Vanderpool,Ruth"
     },
     {
       "campus": "T",
@@ -10492,7 +10492,7 @@
       "course": "TMATH 173",
       "courseTitle": "MATH FOR TEACHERS 3",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Scherer,Asa"
     },
     {
       "campus": "T",
@@ -10502,7 +10502,7 @@
       "course": "TMATH 207",
       "courseTitle": "INTRO TO DIFF EQ",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "An,Yajun"
     },
     {
       "campus": "T",
@@ -10512,7 +10512,7 @@
       "course": "TMATH 207",
       "courseTitle": "INTRO TO DIFF EQ",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "An,Yajun"
     },
     {
       "campus": "T",
@@ -10522,7 +10522,7 @@
       "course": "TMATH 208",
       "courseTitle": "MATRIX ALGEBRA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rupert,Nina Michelle"
     },
     {
       "campus": "T",
@@ -10532,7 +10532,7 @@
       "course": "TMATH 208",
       "courseTitle": "MATRIX ALGEBRA",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Rupert,Nina Michelle"
     },
     {
       "campus": "T",
@@ -10542,7 +10542,7 @@
       "course": "TMATH 210",
       "courseTitle": "INTERMEDIATE STATS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Skipper,Haley"
     },
     {
       "campus": "T",
@@ -10552,7 +10552,7 @@
       "course": "TMATH 224",
       "courseTitle": "MULTIVAR CALCULUS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rupert,Nina Michelle"
     },
     {
       "campus": "T",
@@ -10562,17 +10562,7 @@
       "course": "TMATH 300",
       "courseTitle": "MATH REASONING",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tmath",
-      "deptName": "Mathematics",
-      "term": "SPR2026",
-      "course": "TMATH 390",
-      "courseTitle": "PROB STAT ENG SCI",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Card,Ryan"
     },
     {
       "campus": "T",
@@ -10582,7 +10572,17 @@
       "course": "TMATH 390",
       "courseTitle": "PROB STAT ENG SCI",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Arthur,David"
+    },
+    {
+      "campus": "T",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "SPR2026",
+      "course": "TMATH 390",
+      "courseTitle": "PROB STAT ENG SCI",
+      "section": "A",
+      "instructor": "Kmail,Zaher"
     },
     {
       "campus": "T",
@@ -10592,7 +10592,7 @@
       "course": "TMATH 403",
       "courseTitle": "ABSTRACT ALG II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Vanderpool,Ruth"
     },
     {
       "campus": "T",
@@ -10602,7 +10602,7 @@
       "course": "TMATH 420",
       "courseTitle": "HISTORY OF MATH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tou,Erik R."
     },
     {
       "campus": "T",

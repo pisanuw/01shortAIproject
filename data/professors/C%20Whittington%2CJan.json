@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "C%20Whittington%2CJan",
+  "professor": "C Whittington,Jan",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2023",
+      "course": "ENGR 497",
+      "courseTitle": "VERT INT PROJECTS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2023",
+      "course": "ENGR 297",
+      "courseTitle": "VERT INT PROJECTS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "N"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A"
+    }
+  ]
+}

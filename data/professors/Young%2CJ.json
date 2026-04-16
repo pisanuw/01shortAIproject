@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Young%2CJ",
+  "professor": "Young,J",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "arctic",
+      "deptName": "Arctic Studies",
+      "term": "AUT2022",
+      "course": "ARCTIC 200",
+      "courseTitle": "ARCTIC RELATIONS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "arctic",
+      "deptName": "Arctic Studies",
+      "term": "AUT2021",
+      "course": "ARCTIC 200",
+      "courseTitle": "ARCTIC RELATIONS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2020",
+      "course": "OCEAN 509",
+      "courseTitle": "SEMINAR",
+      "section": "A"
+    }
+  ]
+}

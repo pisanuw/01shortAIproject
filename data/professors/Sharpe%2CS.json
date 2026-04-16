@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Sharpe%2CS",
+  "professor": "Sharpe,S",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "AUT2021",
+      "course": "PHYS 517",
+      "courseTitle": "QUANTUM MECHANICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "SPR2021",
+      "course": "PHYS 519",
+      "courseTitle": "QUANTUM MECHANICS",
+      "section": "A"
+    }
+  ]
+}

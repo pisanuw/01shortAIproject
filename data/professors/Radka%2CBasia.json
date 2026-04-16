@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Radka%2CBasia",
+  "professor": "Radka,Basia",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "SPR2026",
+      "course": "CSE 481",
+      "courseTitle": "CAP SOFT DESIGN",
+      "section": "S"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "WIN2026",
+      "course": "CSE 484",
+      "courseTitle": "COMPUTER SECURITY",
+      "section": "A"
+    }
+  ]
+}

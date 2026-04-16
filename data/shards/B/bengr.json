@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:24:45Z",
+  "generatedAt": "2026-04-16T02:57:08Z",
   "campus": "B",
   "dept": "bengr",
   "deptName": "Engineering",
@@ -772,7 +772,7 @@
       "course": "B ENGR 320",
       "courseTitle": "FUND MATERIALS SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bridge,John W"
     },
     {
       "campus": "B",
@@ -782,17 +782,7 @@
       "course": "B ENGR 320",
       "courseTitle": "FUND MATERIALS SCI",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bengr",
-      "deptName": "Engineering",
-      "term": "AUT2025",
-      "course": "B ENGR 321",
-      "courseTitle": "MAT ENGR LAB",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bridge,John W"
     },
     {
       "campus": "B",
@@ -802,7 +792,7 @@
       "course": "B ENGR 321",
       "courseTitle": "MAT ENGR LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Balzan,Miguel"
     },
     {
       "campus": "B",
@@ -812,7 +802,17 @@
       "course": "B ENGR 321",
       "courseTitle": "MAT ENGR LAB",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Balzan,Miguel"
+    },
+    {
+      "campus": "B",
+      "dept": "bengr",
+      "deptName": "Engineering",
+      "term": "AUT2025",
+      "course": "B ENGR 321",
+      "courseTitle": "MAT ENGR LAB",
+      "section": "A",
+      "instructor": "Masoumi,Narges"
     },
     {
       "campus": "B",
@@ -822,7 +822,7 @@
       "course": "B ENGR 321",
       "courseTitle": "MAT ENGR LAB",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Masoumi,Narges"
     },
     {
       "campus": "B",
@@ -832,7 +832,7 @@
       "course": "B ENGR 321",
       "courseTitle": "MAT ENGR LAB",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Masoumi,Narges"
     },
     {
       "campus": "B",
@@ -842,7 +842,7 @@
       "course": "B ENGR 494",
       "courseTitle": "ENGR DESIGN & INNOV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hannachi,Imen"
     },
     {
       "campus": "B",
@@ -852,7 +852,7 @@
       "course": "B ENGR 494",
       "courseTitle": "ENGR DESIGN & INNOV",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Hannachi,Imen"
     },
     {
       "campus": "B",
@@ -862,7 +862,7 @@
       "course": "B ENGR 321",
       "courseTitle": "MAT ENGR LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Masoumi,Narges"
     },
     {
       "campus": "B",
@@ -872,7 +872,7 @@
       "course": "B ENGR 494",
       "courseTitle": "ENGR DESIGN & INNOV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hannachi,Imen"
     },
     {
       "campus": "B",
@@ -882,7 +882,7 @@
       "course": "B ENGR 495",
       "courseTitle": "ENGR CAPSTONE I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Abadi,Shima"
     },
     {
       "campus": "B",
@@ -892,47 +892,7 @@
       "course": "B ENGR 495",
       "courseTitle": "ENGR CAPSTONE I",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bengr",
-      "deptName": "Engineering",
-      "term": "WIN2026",
-      "course": "B ENGR 495",
-      "courseTitle": "ENGR CAPSTONE I",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bengr",
-      "deptName": "Engineering",
-      "term": "WIN2026",
-      "course": "B ENGR 495",
-      "courseTitle": "ENGR CAPSTONE I",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bengr",
-      "deptName": "Engineering",
-      "term": "WIN2026",
-      "course": "B ENGR 495",
-      "courseTitle": "ENGR CAPSTONE I",
-      "section": "E",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bengr",
-      "deptName": "Engineering",
-      "term": "WIN2026",
-      "course": "B ENGR 495",
-      "courseTitle": "ENGR CAPSTONE I",
-      "section": "F",
-      "instructor": "TBA"
+      "instructor": "Balzan,Miguel"
     },
     {
       "campus": "B",
@@ -942,7 +902,37 @@
       "course": "B ENGR 495",
       "courseTitle": "ENGR CAPSTONE I",
       "section": "G",
-      "instructor": "TBA"
+      "instructor": "Bridge,John W"
+    },
+    {
+      "campus": "B",
+      "dept": "bengr",
+      "deptName": "Engineering",
+      "term": "WIN2026",
+      "course": "B ENGR 495",
+      "courseTitle": "ENGR CAPSTONE I",
+      "section": "D",
+      "instructor": "Decuir,Joseph"
+    },
+    {
+      "campus": "B",
+      "dept": "bengr",
+      "deptName": "Engineering",
+      "term": "WIN2026",
+      "course": "B ENGR 495",
+      "courseTitle": "ENGR CAPSTONE I",
+      "section": "E",
+      "instructor": "Enten,Aaron"
+    },
+    {
+      "campus": "B",
+      "dept": "bengr",
+      "deptName": "Engineering",
+      "term": "WIN2026",
+      "course": "B ENGR 495",
+      "courseTitle": "ENGR CAPSTONE I",
+      "section": "F",
+      "instructor": "Folsom,Tyler"
     },
     {
       "campus": "B",
@@ -952,7 +942,17 @@
       "course": "B ENGR 495",
       "courseTitle": "ENGR CAPSTONE I",
       "section": "H",
-      "instructor": "TBA"
+      "instructor": "Hannachi,Imen"
+    },
+    {
+      "campus": "B",
+      "dept": "bengr",
+      "deptName": "Engineering",
+      "term": "WIN2026",
+      "course": "B ENGR 495",
+      "courseTitle": "ENGR CAPSTONE I",
+      "section": "C",
+      "instructor": "Kimura,Wayne"
     },
     {
       "campus": "B",
@@ -962,7 +962,7 @@
       "course": "B ENGR 495",
       "courseTitle": "ENGR CAPSTONE I",
       "section": "I",
-      "instructor": "TBA"
+      "instructor": "Lee,Sungho"
     },
     {
       "campus": "B",
@@ -972,7 +972,7 @@
       "course": "B ENGR 310",
       "courseTitle": "COMP PHYS MODELING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Masoumi,Narges"
     },
     {
       "campus": "B",
@@ -982,57 +982,7 @@
       "course": "B ENGR 310",
       "courseTitle": "COMP PHYS MODELING",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bengr",
-      "deptName": "Engineering",
-      "term": "SPR2026",
-      "course": "B ENGR 495",
-      "courseTitle": "ENGR CAPSTONE I",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bengr",
-      "deptName": "Engineering",
-      "term": "SPR2026",
-      "course": "B ENGR 495",
-      "courseTitle": "ENGR CAPSTONE I",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bengr",
-      "deptName": "Engineering",
-      "term": "SPR2026",
-      "course": "B ENGR 495",
-      "courseTitle": "ENGR CAPSTONE I",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bengr",
-      "deptName": "Engineering",
-      "term": "SPR2026",
-      "course": "B ENGR 495",
-      "courseTitle": "ENGR CAPSTONE I",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bengr",
-      "deptName": "Engineering",
-      "term": "SPR2026",
-      "course": "B ENGR 495",
-      "courseTitle": "ENGR CAPSTONE I",
-      "section": "E",
-      "instructor": "TBA"
+      "instructor": "Masoumi,Narges"
     },
     {
       "campus": "B",
@@ -1042,7 +992,57 @@
       "course": "B ENGR 495",
       "courseTitle": "ENGR CAPSTONE I",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Atov,Irena"
+    },
+    {
+      "campus": "B",
+      "dept": "bengr",
+      "deptName": "Engineering",
+      "term": "SPR2026",
+      "course": "B ENGR 495",
+      "courseTitle": "ENGR CAPSTONE I",
+      "section": "D",
+      "instructor": "Decuir,Joseph"
+    },
+    {
+      "campus": "B",
+      "dept": "bengr",
+      "deptName": "Engineering",
+      "term": "SPR2026",
+      "course": "B ENGR 495",
+      "courseTitle": "ENGR CAPSTONE I",
+      "section": "E",
+      "instructor": "Enten,Aaron"
+    },
+    {
+      "campus": "B",
+      "dept": "bengr",
+      "deptName": "Engineering",
+      "term": "SPR2026",
+      "course": "B ENGR 495",
+      "courseTitle": "ENGR CAPSTONE I",
+      "section": "C",
+      "instructor": "Kimura,Wayne"
+    },
+    {
+      "campus": "B",
+      "dept": "bengr",
+      "deptName": "Engineering",
+      "term": "SPR2026",
+      "course": "B ENGR 495",
+      "courseTitle": "ENGR CAPSTONE I",
+      "section": "A",
+      "instructor": "Nie,Kaibao"
+    },
+    {
+      "campus": "B",
+      "dept": "bengr",
+      "deptName": "Engineering",
+      "term": "SPR2026",
+      "course": "B ENGR 495",
+      "courseTitle": "ENGR CAPSTONE I",
+      "section": "B",
+      "instructor": "Ramachandran,Subramanian"
     },
     {
       "campus": "B",
@@ -1072,77 +1072,7 @@
       "course": "B ENGR 496",
       "courseTitle": "ENGR CAPSTONE II",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bengr",
-      "deptName": "Engineering",
-      "term": "SPR2026",
-      "course": "B ENGR 496",
-      "courseTitle": "ENGR CAPSTONE II",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bengr",
-      "deptName": "Engineering",
-      "term": "SPR2026",
-      "course": "B ENGR 496",
-      "courseTitle": "ENGR CAPSTONE II",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bengr",
-      "deptName": "Engineering",
-      "term": "SPR2026",
-      "course": "B ENGR 496",
-      "courseTitle": "ENGR CAPSTONE II",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bengr",
-      "deptName": "Engineering",
-      "term": "SPR2026",
-      "course": "B ENGR 496",
-      "courseTitle": "ENGR CAPSTONE II",
-      "section": "E",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bengr",
-      "deptName": "Engineering",
-      "term": "SPR2026",
-      "course": "B ENGR 496",
-      "courseTitle": "ENGR CAPSTONE II",
-      "section": "F",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bengr",
-      "deptName": "Engineering",
-      "term": "SPR2026",
-      "course": "B ENGR 496",
-      "courseTitle": "ENGR CAPSTONE II",
-      "section": "G",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bengr",
-      "deptName": "Engineering",
-      "term": "SPR2026",
-      "course": "B ENGR 496",
-      "courseTitle": "ENGR CAPSTONE II",
-      "section": "H",
-      "instructor": "TBA"
+      "instructor": "Abadi,Shima"
     },
     {
       "campus": "B",
@@ -1152,7 +1082,77 @@
       "course": "B ENGR 496",
       "courseTitle": "ENGR CAPSTONE II",
       "section": "I",
-      "instructor": "TBA"
+      "instructor": "Atov,Irena"
+    },
+    {
+      "campus": "B",
+      "dept": "bengr",
+      "deptName": "Engineering",
+      "term": "SPR2026",
+      "course": "B ENGR 496",
+      "courseTitle": "ENGR CAPSTONE II",
+      "section": "B",
+      "instructor": "Balzan,Miguel"
+    },
+    {
+      "campus": "B",
+      "dept": "bengr",
+      "deptName": "Engineering",
+      "term": "SPR2026",
+      "course": "B ENGR 496",
+      "courseTitle": "ENGR CAPSTONE II",
+      "section": "D",
+      "instructor": "Decuir,Joseph"
+    },
+    {
+      "campus": "B",
+      "dept": "bengr",
+      "deptName": "Engineering",
+      "term": "SPR2026",
+      "course": "B ENGR 496",
+      "courseTitle": "ENGR CAPSTONE II",
+      "section": "E",
+      "instructor": "Enten,Aaron"
+    },
+    {
+      "campus": "B",
+      "dept": "bengr",
+      "deptName": "Engineering",
+      "term": "SPR2026",
+      "course": "B ENGR 496",
+      "courseTitle": "ENGR CAPSTONE II",
+      "section": "F",
+      "instructor": "Folsom,Tyler"
+    },
+    {
+      "campus": "B",
+      "dept": "bengr",
+      "deptName": "Engineering",
+      "term": "SPR2026",
+      "course": "B ENGR 496",
+      "courseTitle": "ENGR CAPSTONE II",
+      "section": "H",
+      "instructor": "Hannachi,Imen"
+    },
+    {
+      "campus": "B",
+      "dept": "bengr",
+      "deptName": "Engineering",
+      "term": "SPR2026",
+      "course": "B ENGR 496",
+      "courseTitle": "ENGR CAPSTONE II",
+      "section": "C",
+      "instructor": "Kimura,Wayne"
+    },
+    {
+      "campus": "B",
+      "dept": "bengr",
+      "deptName": "Engineering",
+      "term": "SPR2026",
+      "course": "B ENGR 496",
+      "courseTitle": "ENGR CAPSTONE II",
+      "section": "G",
+      "instructor": "Lee,Sungho"
     }
   ]
 }

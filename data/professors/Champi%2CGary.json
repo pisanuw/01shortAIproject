@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Champi%2CGary",
+  "professor": "Champi,Gary",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dance",
+      "deptName": "Dance",
+      "term": "AUT2021",
+      "course": "DANCE 244",
+      "courseTitle": "TPCS MOVEMENT PRACS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dance",
+      "deptName": "Dance",
+      "term": "AUT2021",
+      "course": "DANCE 104",
+      "courseTitle": "BEG CONTEMP MODERN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dance",
+      "deptName": "Dance",
+      "term": "SUM2021",
+      "course": "DANCE 102",
+      "courseTitle": "INTRO CONTEMP MODERN",
+      "section": "B"
+    }
+  ]
+}

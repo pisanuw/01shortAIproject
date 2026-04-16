@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:28:00Z",
+  "generatedAt": "2026-04-16T02:57:15Z",
   "campus": "S",
   "dept": "lawh",
   "deptName": "Law",
@@ -4032,17 +4032,7 @@
       "course": "LAW H 504",
       "courseTitle": "LAW ETHICS IN PHG",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawh",
-      "deptName": "Law",
-      "term": "AUT2025",
-      "course": "LAW H 504",
-      "courseTitle": "LAW ETHICS IN PHG",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Karwaki,Tanya E"
     },
     {
       "campus": "S",
@@ -4052,7 +4042,7 @@
       "course": "LAW H 504",
       "courseTitle": "LAW ETHICS IN PHG",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Karwaki,Tanya E"
     },
     {
       "campus": "S",
@@ -4062,6 +4052,16 @@
       "course": "LAW H 504",
       "courseTitle": "LAW ETHICS IN PHG",
       "section": "D",
+      "instructor": "Karwaki,Tanya E"
+    },
+    {
+      "campus": "S",
+      "dept": "lawh",
+      "deptName": "Law",
+      "term": "AUT2025",
+      "course": "LAW H 504",
+      "courseTitle": "LAW ETHICS IN PHG",
+      "section": "B",
       "instructor": "TBA"
     },
     {
@@ -4082,7 +4082,27 @@
       "course": "LAW H 508",
       "courseTitle": "BEGINNING OF LIFE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kuszler,Patricia C."
+    },
+    {
+      "campus": "S",
+      "dept": "lawh",
+      "deptName": "Law",
+      "term": "AUT2025",
+      "course": "LAW H 508",
+      "courseTitle": "BEGINNING OF LIFE",
+      "section": "D",
+      "instructor": "Kuszler,Patricia C."
+    },
+    {
+      "campus": "S",
+      "dept": "lawh",
+      "deptName": "Law",
+      "term": "AUT2025",
+      "course": "LAW H 508",
+      "courseTitle": "BEGINNING OF LIFE",
+      "section": "E",
+      "instructor": "Kuszler,Patricia C."
     },
     {
       "campus": "S",
@@ -4102,26 +4122,6 @@
       "course": "LAW H 508",
       "courseTitle": "BEGINNING OF LIFE",
       "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawh",
-      "deptName": "Law",
-      "term": "AUT2025",
-      "course": "LAW H 508",
-      "courseTitle": "BEGINNING OF LIFE",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawh",
-      "deptName": "Law",
-      "term": "AUT2025",
-      "course": "LAW H 508",
-      "courseTitle": "BEGINNING OF LIFE",
-      "section": "E",
       "instructor": "TBA"
     },
     {
@@ -4201,16 +4201,6 @@
       "term": "AUT2025",
       "course": "LAW H 530",
       "courseTitle": "DISABILTY LAW&POLICY",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawh",
-      "deptName": "Law",
-      "term": "AUT2025",
-      "course": "LAW H 530",
-      "courseTitle": "DISABILTY LAW&POLICY",
       "section": "B",
       "instructor": "TBA"
     },
@@ -4222,26 +4212,6 @@
       "course": "LAW H 530",
       "courseTitle": "DISABILTY LAW&POLICY",
       "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawh",
-      "deptName": "Law",
-      "term": "AUT2025",
-      "course": "LAW H 530",
-      "courseTitle": "DISABILTY LAW&POLICY",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawh",
-      "deptName": "Law",
-      "term": "AUT2025",
-      "course": "LAW H 530",
-      "courseTitle": "DISABILTY LAW&POLICY",
-      "section": "E",
       "instructor": "TBA"
     },
     {
@@ -4259,10 +4229,60 @@
       "dept": "lawh",
       "deptName": "Law",
       "term": "AUT2025",
+      "course": "LAW H 530",
+      "courseTitle": "DISABILTY LAW&POLICY",
+      "section": "A",
+      "instructor": "THOMPSON,CHRISTINE L."
+    },
+    {
+      "campus": "S",
+      "dept": "lawh",
+      "deptName": "Law",
+      "term": "AUT2025",
+      "course": "LAW H 530",
+      "courseTitle": "DISABILTY LAW&POLICY",
+      "section": "D",
+      "instructor": "THOMPSON,CHRISTINE L."
+    },
+    {
+      "campus": "S",
+      "dept": "lawh",
+      "deptName": "Law",
+      "term": "AUT2025",
+      "course": "LAW H 530",
+      "courseTitle": "DISABILTY LAW&POLICY",
+      "section": "E",
+      "instructor": "THOMPSON,CHRISTINE L."
+    },
+    {
+      "campus": "S",
+      "dept": "lawh",
+      "deptName": "Law",
+      "term": "AUT2025",
       "course": "LAW H 534",
       "courseTitle": "MENTAL HEALTH & LAW",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Carney,Christopher"
+    },
+    {
+      "campus": "S",
+      "dept": "lawh",
+      "deptName": "Law",
+      "term": "AUT2025",
+      "course": "LAW H 534",
+      "courseTitle": "MENTAL HEALTH & LAW",
+      "section": "D",
+      "instructor": "Carney,Christopher"
+    },
+    {
+      "campus": "S",
+      "dept": "lawh",
+      "deptName": "Law",
+      "term": "AUT2025",
+      "course": "LAW H 534",
+      "courseTitle": "MENTAL HEALTH & LAW",
+      "section": "E",
+      "instructor": "Carney,Christopher"
     },
     {
       "campus": "S",
@@ -4282,26 +4302,6 @@
       "course": "LAW H 534",
       "courseTitle": "MENTAL HEALTH & LAW",
       "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawh",
-      "deptName": "Law",
-      "term": "AUT2025",
-      "course": "LAW H 534",
-      "courseTitle": "MENTAL HEALTH & LAW",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawh",
-      "deptName": "Law",
-      "term": "AUT2025",
-      "course": "LAW H 534",
-      "courseTitle": "MENTAL HEALTH & LAW",
-      "section": "E",
       "instructor": "TBA"
     },
     {
@@ -4321,18 +4321,8 @@
       "term": "WIN2026",
       "course": "LAW H 501",
       "courseTitle": "FNDMNTLS HEALTH LAW",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawh",
-      "deptName": "Law",
-      "term": "WIN2026",
-      "course": "LAW H 501",
-      "courseTitle": "FNDMNTLS HEALTH LAW",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Raza,Sara"
     },
     {
       "campus": "S",
@@ -4342,6 +4332,16 @@
       "course": "LAW H 501",
       "courseTitle": "FNDMNTLS HEALTH LAW",
       "section": "C",
+      "instructor": "Raza,Sara"
+    },
+    {
+      "campus": "S",
+      "dept": "lawh",
+      "deptName": "Law",
+      "term": "WIN2026",
+      "course": "LAW H 501",
+      "courseTitle": "FNDMNTLS HEALTH LAW",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -4372,17 +4372,7 @@
       "course": "LAW H 503",
       "courseTitle": "MED ETH & JURIS",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawh",
-      "deptName": "Law",
-      "term": "WIN2026",
-      "course": "LAW H 503",
-      "courseTitle": "MED ETH & JURIS",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "KETT,JENNIFER C."
     },
     {
       "campus": "S",
@@ -4392,7 +4382,7 @@
       "course": "LAW H 503",
       "courseTitle": "MED ETH & JURIS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "KETT,JENNIFER C."
     },
     {
       "campus": "S",
@@ -4402,6 +4392,16 @@
       "course": "LAW H 503",
       "courseTitle": "MED ETH & JURIS",
       "section": "D",
+      "instructor": "KETT,JENNIFER C."
+    },
+    {
+      "campus": "S",
+      "dept": "lawh",
+      "deptName": "Law",
+      "term": "WIN2026",
+      "course": "LAW H 503",
+      "courseTitle": "MED ETH & JURIS",
+      "section": "B",
       "instructor": "TBA"
     },
     {
@@ -4412,7 +4412,27 @@
       "course": "LAW H 510",
       "courseTitle": "TOPICS IN LAW & MED",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Calandrillo,Steve"
+    },
+    {
+      "campus": "S",
+      "dept": "lawh",
+      "deptName": "Law",
+      "term": "WIN2026",
+      "course": "LAW H 510",
+      "courseTitle": "TOPICS IN LAW & MED",
+      "section": "D",
+      "instructor": "Calandrillo,Steve"
+    },
+    {
+      "campus": "S",
+      "dept": "lawh",
+      "deptName": "Law",
+      "term": "WIN2026",
+      "course": "LAW H 510",
+      "courseTitle": "TOPICS IN LAW & MED",
+      "section": "E",
+      "instructor": "Calandrillo,Steve"
     },
     {
       "campus": "S",
@@ -4432,26 +4452,6 @@
       "course": "LAW H 510",
       "courseTitle": "TOPICS IN LAW & MED",
       "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawh",
-      "deptName": "Law",
-      "term": "WIN2026",
-      "course": "LAW H 510",
-      "courseTitle": "TOPICS IN LAW & MED",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawh",
-      "deptName": "Law",
-      "term": "WIN2026",
-      "course": "LAW H 510",
-      "courseTitle": "TOPICS IN LAW & MED",
-      "section": "E",
       "instructor": "TBA"
     },
     {
@@ -4472,17 +4472,7 @@
       "course": "LAW H 520",
       "courseTitle": "GENETICS & THE LAW",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawh",
-      "deptName": "Law",
-      "term": "WIN2026",
-      "course": "LAW H 520",
-      "courseTitle": "GENETICS & THE LAW",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Gordon,Matthew"
     },
     {
       "campus": "S",
@@ -4492,7 +4482,7 @@
       "course": "LAW H 520",
       "courseTitle": "GENETICS & THE LAW",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Gordon,Matthew"
     },
     {
       "campus": "S",
@@ -4502,6 +4492,16 @@
       "course": "LAW H 520",
       "courseTitle": "GENETICS & THE LAW",
       "section": "D",
+      "instructor": "Gordon,Matthew"
+    },
+    {
+      "campus": "S",
+      "dept": "lawh",
+      "deptName": "Law",
+      "term": "WIN2026",
+      "course": "LAW H 520",
+      "courseTitle": "GENETICS & THE LAW",
+      "section": "B",
       "instructor": "TBA"
     },
     {
@@ -4582,17 +4582,7 @@
       "course": "LAW H 545",
       "courseTitle": "FDA LAW",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawh",
-      "deptName": "Law",
-      "term": "WIN2026",
-      "course": "LAW H 545",
-      "courseTitle": "FDA LAW",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Jacobs,Cindy"
     },
     {
       "campus": "S",
@@ -4602,7 +4592,7 @@
       "course": "LAW H 545",
       "courseTitle": "FDA LAW",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Jacobs,Cindy"
     },
     {
       "campus": "S",
@@ -4612,6 +4602,16 @@
       "course": "LAW H 545",
       "courseTitle": "FDA LAW",
       "section": "D",
+      "instructor": "Jacobs,Cindy"
+    },
+    {
+      "campus": "S",
+      "dept": "lawh",
+      "deptName": "Law",
+      "term": "WIN2026",
+      "course": "LAW H 545",
+      "courseTitle": "FDA LAW",
+      "section": "B",
       "instructor": "TBA"
     },
     {
@@ -4632,17 +4632,7 @@
       "course": "LAW H 502",
       "courseTitle": "MEDICAL MALPRACTICE",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawh",
-      "deptName": "Law",
-      "term": "SPR2026",
-      "course": "LAW H 502",
-      "courseTitle": "MEDICAL MALPRACTICE",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Fronapfel,Rhianna M"
     },
     {
       "campus": "S",
@@ -4652,7 +4642,7 @@
       "course": "LAW H 502",
       "courseTitle": "MEDICAL MALPRACTICE",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Fronapfel,Rhianna M"
     },
     {
       "campus": "S",
@@ -4662,6 +4652,16 @@
       "course": "LAW H 502",
       "courseTitle": "MEDICAL MALPRACTICE",
       "section": "D",
+      "instructor": "Fronapfel,Rhianna M"
+    },
+    {
+      "campus": "S",
+      "dept": "lawh",
+      "deptName": "Law",
+      "term": "SPR2026",
+      "course": "LAW H 502",
+      "courseTitle": "MEDICAL MALPRACTICE",
+      "section": "B",
       "instructor": "TBA"
     },
     {
@@ -4672,7 +4672,27 @@
       "course": "LAW H 506",
       "courseTitle": "INTL ETHC JUS HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mucha,Katarina"
+    },
+    {
+      "campus": "S",
+      "dept": "lawh",
+      "deptName": "Law",
+      "term": "SPR2026",
+      "course": "LAW H 506",
+      "courseTitle": "INTL ETHC JUS HLTH",
+      "section": "D",
+      "instructor": "Mucha,Katarina"
+    },
+    {
+      "campus": "S",
+      "dept": "lawh",
+      "deptName": "Law",
+      "term": "SPR2026",
+      "course": "LAW H 506",
+      "courseTitle": "INTL ETHC JUS HLTH",
+      "section": "E",
+      "instructor": "Mucha,Katarina"
     },
     {
       "campus": "S",
@@ -4692,26 +4712,6 @@
       "course": "LAW H 506",
       "courseTitle": "INTL ETHC JUS HLTH",
       "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawh",
-      "deptName": "Law",
-      "term": "SPR2026",
-      "course": "LAW H 506",
-      "courseTitle": "INTL ETHC JUS HLTH",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawh",
-      "deptName": "Law",
-      "term": "SPR2026",
-      "course": "LAW H 506",
-      "courseTitle": "INTL ETHC JUS HLTH",
-      "section": "E",
       "instructor": "TBA"
     },
     {
@@ -4722,7 +4722,27 @@
       "course": "LAW H 510",
       "courseTitle": "TOPICS IN LAW & MED",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Calandrillo,Steve"
+    },
+    {
+      "campus": "S",
+      "dept": "lawh",
+      "deptName": "Law",
+      "term": "SPR2026",
+      "course": "LAW H 510",
+      "courseTitle": "TOPICS IN LAW & MED",
+      "section": "D",
+      "instructor": "Calandrillo,Steve"
+    },
+    {
+      "campus": "S",
+      "dept": "lawh",
+      "deptName": "Law",
+      "term": "SPR2026",
+      "course": "LAW H 510",
+      "courseTitle": "TOPICS IN LAW & MED",
+      "section": "E",
+      "instructor": "Calandrillo,Steve"
     },
     {
       "campus": "S",
@@ -4742,26 +4762,6 @@
       "course": "LAW H 510",
       "courseTitle": "TOPICS IN LAW & MED",
       "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawh",
-      "deptName": "Law",
-      "term": "SPR2026",
-      "course": "LAW H 510",
-      "courseTitle": "TOPICS IN LAW & MED",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawh",
-      "deptName": "Law",
-      "term": "SPR2026",
-      "course": "LAW H 510",
-      "courseTitle": "TOPICS IN LAW & MED",
-      "section": "E",
       "instructor": "TBA"
     },
     {
@@ -4882,7 +4882,7 @@
       "course": "LAW H 579",
       "courseTitle": "INTERACTIVE SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fohner,Alison"
     },
     {
       "campus": "S",
@@ -4892,17 +4892,7 @@
       "course": "LAW H 580",
       "courseTitle": "COMPTN IN HLTH CARE",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawh",
-      "deptName": "Law",
-      "term": "SPR2026",
-      "course": "LAW H 580",
-      "courseTitle": "COMPTN IN HLTH CARE",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Ross,Douglas C."
     },
     {
       "campus": "S",
@@ -4912,7 +4902,7 @@
       "course": "LAW H 580",
       "courseTitle": "COMPTN IN HLTH CARE",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Ross,Douglas C."
     },
     {
       "campus": "S",
@@ -4922,6 +4912,16 @@
       "course": "LAW H 580",
       "courseTitle": "COMPTN IN HLTH CARE",
       "section": "D",
+      "instructor": "Ross,Douglas C."
+    },
+    {
+      "campus": "S",
+      "dept": "lawh",
+      "deptName": "Law",
+      "term": "SPR2026",
+      "course": "LAW H 580",
+      "courseTitle": "COMPTN IN HLTH CARE",
+      "section": "B",
       "instructor": "TBA"
     }
   ]

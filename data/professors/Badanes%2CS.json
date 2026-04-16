@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Badanes%2CS",
+  "professor": "Badanes,S",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2023",
+      "course": "ARCH 505",
+      "courseTitle": "ARCH EXPLORATION I",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2023",
+      "course": "ARCH 402",
+      "courseTitle": "ARCH DESIGN VI",
+      "section": "D"
+    }
+  ]
+}

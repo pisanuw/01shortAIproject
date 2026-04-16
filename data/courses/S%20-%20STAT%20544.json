@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:25Z",
+  "id": "S%20-%20STAT%20544",
+  "course": "S - STAT 544",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "WIN2026",
+      "course": "STAT 544",
+      "courseTitle": "BAYES METHODS",
+      "section": "A",
+      "instructor": "Rodriguez,Abel"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SPR2024",
+      "course": "STAT 544",
+      "courseTitle": "BAYES METHODS",
+      "section": "A",
+      "instructor": "Dobra,Adrian"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "WIN2022",
+      "course": "STAT 544",
+      "courseTitle": "BAYES METHODS",
+      "section": "A",
+      "instructor": "Rodriguez,Abel"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Taylor%2CEd",
+  "professor": "Taylor,Ed",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "lead",
+      "deptName": "Leadership",
+      "term": "AUT2025",
+      "course": "LEAD 298",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "lead",
+      "deptName": "Leadership",
+      "term": "AUT2024",
+      "course": "LEAD 298",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "lead",
+      "deptName": "Leadership",
+      "term": "AUT2020",
+      "course": "LEAD 298",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "edlp",
+      "deptName": "Educational Leadership and Policy Studies",
+      "term": "AUT2020",
+      "course": "EDLPS 549",
+      "courseTitle": "SPEC TOP EDUC STDS",
+      "section": "B"
+    }
+  ]
+}

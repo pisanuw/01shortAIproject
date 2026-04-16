@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Rushing%2CRobert%20Scott",
+  "professor": "Rushing,Robert Scott",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "WIN2026",
+      "course": "M E 425",
+      "courseTitle": "HVAC",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "WIN2025",
+      "course": "M E 425",
+      "courseTitle": "HVAC",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "WIN2024",
+      "course": "M E 425",
+      "courseTitle": "HVAC",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Conrad%2CElizabeth",
+  "professor": "Conrad,Elizabeth",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2024",
+      "course": "LING 472",
+      "courseTitle": "INTR TO COMPUT LING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "SPR2024",
+      "course": "CSE 472",
+      "courseTitle": "INTR TO COMPUT LING",
+      "section": "A"
+    }
+  ]
+}

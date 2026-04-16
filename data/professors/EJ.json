@@ -1,0 +1,418 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "EJ",
+  "professor": "EJ",
+  "recordCount": 41,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engl",
+      "deptName": "English",
+      "term": "WIN2026",
+      "course": "ENGL 471",
+      "courseTitle": "TEACHING WRITING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "WIN2026",
+      "course": "EDUC 280",
+      "courseTitle": "INTRO TO ECO",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "WIN2026",
+      "course": "EDUC 280",
+      "courseTitle": "INTRO TO ECO",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "WIN2026",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "WIN2026",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "AUT2025",
+      "course": "EDUC 280",
+      "courseTitle": "INTRO TO ECO",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "AUT2025",
+      "course": "EDUC 280",
+      "courseTitle": "INTRO TO ECO",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "AUT2025",
+      "course": "EDUC 280",
+      "courseTitle": "INTRO TO ECO",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "AUT2025",
+      "course": "EDUC 240",
+      "courseTitle": "INTRO TO EDUCATION",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "AUT2025",
+      "course": "EDUC 240",
+      "courseTitle": "INTRO TO EDUCATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "AUT2025",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "AUT2025",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "AUT2025",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "AUT2025",
+      "course": "B EDUC 541",
+      "courseTitle": "SEC LANG ACQUISITION",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "AUT2025",
+      "course": "B EDUC 441",
+      "courseTitle": "SEC LANG ACQUISTION",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "AUT2025",
+      "course": "B CORE 110",
+      "courseTitle": "DISC CORE: NTRL SCI",
+      "section": "D"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "AUT2025",
+      "course": "B CORE 104",
+      "courseTitle": "DISC CORE: ART & HUM",
+      "section": "U"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "WIN2025",
+      "course": "EDUC 280",
+      "courseTitle": "INTRO TO ECO",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "WIN2025",
+      "course": "EDUC 280",
+      "courseTitle": "INTRO TO ECO",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "WIN2025",
+      "course": "B EDUC 542",
+      "courseTitle": "TEACHING ESOL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "AUT2024",
+      "course": "EDUC 280",
+      "courseTitle": "INTRO TO ECO",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "AUT2024",
+      "course": "EDUC 280",
+      "courseTitle": "INTRO TO ECO",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "AUT2024",
+      "course": "EDUC 240",
+      "courseTitle": "INTRO TO EDUCATION",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "AUT2024",
+      "course": "EDUC 240",
+      "courseTitle": "INTRO TO EDUCATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "AUT2024",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "AUT2024",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "AUT2024",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "AUT2024",
+      "course": "B EDUC 541",
+      "courseTitle": "SEC LANG ACQUISITION",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "AUT2024",
+      "course": "B EDUC 441",
+      "courseTitle": "SEC LANG ACQUISTION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "WIN2023",
+      "course": "R E 541",
+      "courseTitle": "R E CAPITAL MARKETS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "WIN2023",
+      "course": "R E 413",
+      "courseTitle": "RE FINANCE INVEST",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 554",
+      "courseTitle": "RE FINANCE INVEST",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "WIN2022",
+      "course": "R E 513",
+      "courseTitle": "RE FINANCE INVEST",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sefs",
+      "deptName": "School of Environmental and Forest Sciences",
+      "term": "SUM2021",
+      "course": "SEFS 520",
+      "courseTitle": "GEOG INFO SYSTEMS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "esrm",
+      "deptName": "Environmental Science and Resource Management",
+      "term": "SUM2021",
+      "course": "ESRM 250",
+      "courseTitle": "INTRO TO GIS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 551",
+      "courseTitle": "RE ASSET MGMT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "SPR2021",
+      "course": "R E 517",
+      "courseTitle": "RE ASSET MGMT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "SPR2021",
+      "course": "R E 516",
+      "courseTitle": "RE MARKET ANALYSIS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "SPR2021",
+      "course": "R E 416",
+      "courseTitle": "RE MARKET ANALYSIS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "WIN2021",
+      "course": "R E 597",
+      "courseTitle": "RE DATA MODELING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cee",
+      "deptName": "Civil and Environmental Engineering",
+      "term": "WIN2021",
+      "course": "CEE 500",
+      "courseTitle": "CEE SEMINARS",
+      "section": "C"
+    }
+  ]
+}

@@ -17,6 +17,13 @@ class CatalogHandler(SimpleHTTPRequestHandler):
         # Keep standard logs concise and explicit.
         super().log_message(fmt, *args)
 
+    def end_headers(self) -> None:
+        # Local development should always reflect latest file edits.
+        self.send_header("Cache-Control", "no-store, no-cache, must-revalidate, max-age=0")
+        self.send_header("Pragma", "no-cache")
+        self.send_header("Expires", "0")
+        super().end_headers()
+
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Run local static development server")

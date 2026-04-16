@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Frank%2CNatalie",
+  "professor": "Frank,Natalie",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "AUT2025",
+      "course": "AMATH 352",
+      "courseTitle": "LINR ALG & NUM ANLY",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "WIN2025",
+      "course": "AMATH 482",
+      "courseTitle": "COMP METH DATA ANLY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "AUT2024",
+      "course": "AMATH 352",
+      "courseTitle": "LINR ALG & NUM ANLY",
+      "section": "A"
+    }
+  ]
+}

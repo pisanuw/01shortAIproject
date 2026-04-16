@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:59Z",
+  "generatedAt": "2026-04-16T02:57:14Z",
   "campus": "S",
   "dept": "nme",
   "deptName": "Nanoscience and Molecular Engineering",
@@ -78,11 +78,21 @@
       "campus": "S",
       "dept": "nme",
       "deptName": "Nanoscience and Molecular Engineering",
+      "term": "SPR2025",
+      "course": "NME 220",
+      "courseTitle": "MOL/NANO PRINCIPLES",
+      "section": "A",
+      "instructor": "Naser,Nada Y"
+    },
+    {
+      "campus": "S",
+      "dept": "nme",
+      "deptName": "Nanoscience and Molecular Engineering",
       "term": "SPR2026",
       "course": "NME 220",
       "courseTitle": "MOL/NANO PRINCIPLES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Naser,Nada Y"
     }
   ]
 }

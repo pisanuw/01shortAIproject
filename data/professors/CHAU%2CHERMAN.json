@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "CHAU%2CHERMAN",
+  "professor": "CHAU,HERMAN",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2023",
+      "course": "MATH 381",
+      "courseTitle": "DISCRETE MATH MODEL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2022",
+      "course": "MATH 580",
+      "courseTitle": "CURRENT PROB SEM",
+      "section": "A"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:57Z",
+  "generatedAt": "2026-04-16T02:57:12Z",
   "campus": "S",
   "dept": "neusci",
   "deptName": "Neuroscience",
@@ -399,6 +399,66 @@
       "dept": "neusci",
       "deptName": "Neuroscience",
       "term": "SUM2022",
+      "course": "NEUSCI 499",
+      "courseTitle": "INDIV RES NEUROSCI",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neusci",
+      "deptName": "Neuroscience",
+      "term": "AUT2022",
+      "course": "NEUSCI 302",
+      "courseTitle": "INTRO SYSTEM NEURO",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neusci",
+      "deptName": "Neuroscience",
+      "term": "AUT2022",
+      "course": "NEUSCI 302",
+      "courseTitle": "INTRO SYSTEM NEURO",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "neusci",
+      "deptName": "Neuroscience",
+      "term": "AUT2022",
+      "course": "NEUSCI 490",
+      "courseTitle": "COMPUTAL NEUROSCI",
+      "section": "A",
+      "instructor": "Steinmetz,N"
+    },
+    {
+      "campus": "S",
+      "dept": "neusci",
+      "deptName": "Neuroscience",
+      "term": "AUT2022",
+      "course": "NEUSCI 496",
+      "courseTitle": "PEER FACILITATOR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neusci",
+      "deptName": "Neuroscience",
+      "term": "AUT2022",
+      "course": "NEUSCI 499",
+      "courseTitle": "INDIV RES NEUROSCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neusci",
+      "deptName": "Neuroscience",
+      "term": "AUT2022",
       "course": "NEUSCI 499",
       "courseTitle": "INDIV RES NEUROSCI",
       "section": "B",
@@ -1162,7 +1222,7 @@
       "course": "NEUSCI 440",
       "courseTitle": "TOPICS NEUROSCIENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Skutt-Kakaria,Kyobi"
     },
     {
       "campus": "S",
@@ -1172,7 +1232,7 @@
       "course": "NEUSCI 450",
       "courseTitle": "NEUROSCI PAPERS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ogg,Jordan Danielle"
     },
     {
       "campus": "S",
@@ -1182,7 +1242,7 @@
       "course": "NEUSCI 450",
       "courseTitle": "NEUROSCI PAPERS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Skutt-Kakaria,Kyobi"
     },
     {
       "campus": "S",
@@ -1192,7 +1252,7 @@
       "course": "NEUSCI 490",
       "courseTitle": "COMPUTAL NEUROSCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Steinmetz,Nick"
     },
     {
       "campus": "S",
@@ -1252,7 +1312,7 @@
       "course": "NEUSCI 402",
       "courseTitle": "NEURO DISEASE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Froehner,Stan"
     },
     {
       "campus": "S",
@@ -1262,7 +1322,7 @@
       "course": "NEUSCI 403",
       "courseTitle": "COMP NEURO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stocco,Andrea"
     },
     {
       "campus": "S",
@@ -1272,7 +1332,7 @@
       "course": "NEUSCI 440",
       "courseTitle": "TOPICS NEUROSCIENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Skutt-Kakaria,Kyobi"
     },
     {
       "campus": "S",
@@ -1282,17 +1342,7 @@
       "course": "NEUSCI 445",
       "courseTitle": "QUANT METH NEUROSCI",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "neusci",
-      "deptName": "Neuroscience",
-      "term": "WIN2026",
-      "course": "NEUSCI 450",
-      "courseTitle": "NEUROSCI PAPERS",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rieke,Fred"
     },
     {
       "campus": "S",
@@ -1302,7 +1352,17 @@
       "course": "NEUSCI 450",
       "courseTitle": "NEUROSCI PAPERS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Shvartsman,Gabby"
+    },
+    {
+      "campus": "S",
+      "dept": "neusci",
+      "deptName": "Neuroscience",
+      "term": "WIN2026",
+      "course": "NEUSCI 450",
+      "courseTitle": "NEUROSCI PAPERS",
+      "section": "A",
+      "instructor": "Skutt-Kakaria,Kyobi"
     },
     {
       "campus": "S",
@@ -1342,7 +1402,7 @@
       "course": "NEUSCI 401",
       "courseTitle": "SYSTEMS NEUROSCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Golden,Sam A."
     },
     {
       "campus": "S",
@@ -1352,7 +1412,7 @@
       "course": "NEUSCI 404",
       "courseTitle": "NEUROPHARMACOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stella,Nephi"
     },
     {
       "campus": "S",
@@ -1362,7 +1422,7 @@
       "course": "NEUSCI 450",
       "courseTitle": "NEUROSCI PAPERS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Peden-Asarch,Ari Mendel"
     },
     {
       "campus": "S",
@@ -1372,7 +1432,7 @@
       "course": "NEUSCI 450",
       "courseTitle": "NEUROSCI PAPERS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Skutt-Kakaria,Kyobi"
     },
     {
       "campus": "S",

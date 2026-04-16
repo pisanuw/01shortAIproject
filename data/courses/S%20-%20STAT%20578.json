@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:25Z",
+  "id": "S%20-%20STAT%20578",
+  "course": "S - STAT 578",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SPR2024",
+      "course": "STAT 578",
+      "courseTitle": "SPEC TOP ADV BIOST",
+      "section": "A",
+      "instructor": "Ye,Ting"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2021",
+      "course": "STAT 578",
+      "courseTitle": "SPEC TOP ADV BIOST",
+      "section": "A",
+      "instructor": "Janes,Holly E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2021",
+      "course": "STAT 578",
+      "courseTitle": "SPEC TOP ADV BIOST",
+      "section": "C",
+      "instructor": "TBA"
+    }
+  ]
+}

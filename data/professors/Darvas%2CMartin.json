@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Darvas%2CMartin",
+  "professor": "Darvas,Martin",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "patho",
+      "deptName": "Pathology",
+      "term": "AUT2025",
+      "course": "PATH 513",
+      "courseTitle": "NEURODEGENERATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "patho",
+      "deptName": "Pathology",
+      "term": "AUT2024",
+      "course": "PATH 513",
+      "courseTitle": "NEURODEGENERATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "patho",
+      "deptName": "Pathology",
+      "term": "AUT2023",
+      "course": "PATH 513",
+      "courseTitle": "NEURODEGENERATION",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "KAHVECI%2CIHSAN",
+  "professor": "KAHVECI,IHSAN",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2024",
+      "course": "STAT 321",
+      "courseTitle": "SOC DATA SCI STAT I",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "soc",
+      "deptName": "Sociology",
+      "term": "SUM2024",
+      "course": "SOC 321",
+      "courseTitle": "SOC DATA SCI STAT I",
+      "section": "A"
+    }
+  ]
+}

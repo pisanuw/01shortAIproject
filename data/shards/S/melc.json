@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:57Z",
+  "generatedAt": "2026-04-16T02:57:12Z",
   "campus": "S",
   "dept": "melc",
   "deptName": "Middle Eastern Languages and Cultures",
@@ -12,7 +12,7 @@
       "course": "MELC 101",
       "courseTitle": "MIDDLE EAST GATEWAY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Medill,Kathryn McConaughy"
     },
     {
       "campus": "S",
@@ -662,7 +662,7 @@
       "course": "MELC 596",
       "courseTitle": "SPECIAL STUDIES",
       "section": "A",
-      "instructor": "Bolel,Canan"
+      "instructor": "B Bolel,Canan"
     },
     {
       "campus": "S",
@@ -771,6 +771,206 @@
       "term": "SUM2024",
       "course": "MELC 600",
       "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "melc",
+      "deptName": "Middle Eastern Languages and Cultures",
+      "term": "AUT2024",
+      "course": "MELC 101",
+      "courseTitle": "MIDDLE EAST GATEWAY",
+      "section": "A",
+      "instructor": "Bolel,Canan"
+    },
+    {
+      "campus": "S",
+      "dept": "melc",
+      "deptName": "Middle Eastern Languages and Cultures",
+      "term": "AUT2024",
+      "course": "MELC 201",
+      "courseTitle": "ANCIENT NEAR EAST",
+      "section": "A",
+      "instructor": "Medill,Kathryn McConaughy"
+    },
+    {
+      "campus": "S",
+      "dept": "melc",
+      "deptName": "Middle Eastern Languages and Cultures",
+      "term": "AUT2024",
+      "course": "MELC 270",
+      "courseTitle": "DIVERSTY GLOBL TURKS",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "melc",
+      "deptName": "Middle Eastern Languages and Cultures",
+      "term": "AUT2024",
+      "course": "MELC 302",
+      "courseTitle": "RELIG ANCIENT WORLD",
+      "section": "A",
+      "instructor": "Noegel,Scott B."
+    },
+    {
+      "campus": "S",
+      "dept": "melc",
+      "deptName": "Middle Eastern Languages and Cultures",
+      "term": "AUT2024",
+      "course": "MELC 312",
+      "courseTitle": "LOOTING AND LOSS",
+      "section": "A",
+      "instructor": "Selover,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "melc",
+      "deptName": "Middle Eastern Languages and Cultures",
+      "term": "AUT2024",
+      "course": "MELC 316",
+      "courseTitle": "ISRAELI IDENTITIES",
+      "section": "A",
+      "instructor": "Ben Ami,Shai David"
+    },
+    {
+      "campus": "S",
+      "dept": "melc",
+      "deptName": "Middle Eastern Languages and Cultures",
+      "term": "AUT2024",
+      "course": "MELC 329",
+      "courseTitle": "CLAS ARAB LIT TRANS",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "melc",
+      "deptName": "Middle Eastern Languages and Cultures",
+      "term": "AUT2024",
+      "course": "MELC 331",
+      "courseTitle": "1001 NIGHTS",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "melc",
+      "deptName": "Middle Eastern Languages and Cultures",
+      "term": "AUT2024",
+      "course": "MELC 359",
+      "courseTitle": "LANG & ETHNICITY",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "melc",
+      "deptName": "Middle Eastern Languages and Cultures",
+      "term": "AUT2024",
+      "course": "MELC 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "melc",
+      "deptName": "Middle Eastern Languages and Cultures",
+      "term": "AUT2024",
+      "course": "MELC 491",
+      "courseTitle": "SEMINAR MIDDLE EAST",
+      "section": "A",
+      "instructor": "Kuru,Selim S."
+    },
+    {
+      "campus": "S",
+      "dept": "melc",
+      "deptName": "Middle Eastern Languages and Cultures",
+      "term": "AUT2024",
+      "course": "MELC 496",
+      "courseTitle": "ADVANCED STUDIES",
+      "section": "A",
+      "instructor": "Kuru,Selim S."
+    },
+    {
+      "campus": "S",
+      "dept": "melc",
+      "deptName": "Middle Eastern Languages and Cultures",
+      "term": "AUT2024",
+      "course": "MELC 498",
+      "courseTitle": "CAPSTONE ESSAY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "melc",
+      "deptName": "Middle Eastern Languages and Cultures",
+      "term": "AUT2024",
+      "course": "MELC 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "melc",
+      "deptName": "Middle Eastern Languages and Cultures",
+      "term": "AUT2024",
+      "course": "MELC 502",
+      "courseTitle": "RELIG ANCIENT WORLD",
+      "section": "A",
+      "instructor": "Noegel,Scott B."
+    },
+    {
+      "campus": "S",
+      "dept": "melc",
+      "deptName": "Middle Eastern Languages and Cultures",
+      "term": "AUT2024",
+      "course": "MELC 529",
+      "courseTitle": "CLAS ARAB LIT TRANS",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "melc",
+      "deptName": "Middle Eastern Languages and Cultures",
+      "term": "AUT2024",
+      "course": "MELC 531",
+      "courseTitle": "1001 NIGHTS",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "melc",
+      "deptName": "Middle Eastern Languages and Cultures",
+      "term": "AUT2024",
+      "course": "MELC 560",
+      "courseTitle": "LANG & ETHNICITY",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "melc",
+      "deptName": "Middle Eastern Languages and Cultures",
+      "term": "AUT2024",
+      "course": "MELC 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "melc",
+      "deptName": "Middle Eastern Languages and Cultures",
+      "term": "AUT2024",
+      "course": "MELC 700",
+      "courseTitle": "MASTER'S THESIS",
       "section": "A",
       "instructor": "TBA"
     },
@@ -1392,7 +1592,7 @@
       "course": "MELC 101",
       "courseTitle": "MIDDLE EAST GATEWAY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Medill,Kathryn McConaughy"
     },
     {
       "campus": "S",
@@ -1402,7 +1602,7 @@
       "course": "MELC 202",
       "courseTitle": "INTRO HEBREW BIBLE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Medill,Kathryn McConaughy"
     },
     {
       "campus": "S",
@@ -1412,7 +1612,7 @@
       "course": "MELC 268",
       "courseTitle": "SILK ROAD & GLBLZTN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mawkanuli,Talant"
     },
     {
       "campus": "S",
@@ -1422,7 +1622,7 @@
       "course": "MELC 286",
       "courseTitle": "THEMES MID EAST LIT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bolel,Canan"
     },
     {
       "campus": "S",
@@ -1432,7 +1632,7 @@
       "course": "MELC 301",
       "courseTitle": "ART ANCIENT NEAR E",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Noegel,Scott B."
     },
     {
       "campus": "S",
@@ -1442,7 +1642,7 @@
       "course": "MELC 311",
       "courseTitle": "ARCHY OF BIB ISRAEL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "NICHOLS,CORINNA"
     },
     {
       "campus": "S",
@@ -1452,7 +1652,7 @@
       "course": "MELC 316",
       "courseTitle": "ISRAELI IDENTITIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ben Ami,Shai David"
     },
     {
       "campus": "S",
@@ -1462,7 +1662,7 @@
       "course": "MELC 318",
       "courseTitle": "LIT & HOLOCAUST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sokoloff,Naomi B"
     },
     {
       "campus": "S",
@@ -1492,7 +1692,7 @@
       "course": "MELC 359",
       "courseTitle": "LANG & ETHNICITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mawkanuli,Talant"
     },
     {
       "campus": "S",
@@ -1502,7 +1702,7 @@
       "course": "MELC 396",
       "courseTitle": "INTERMED STUDIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Worku,Mehari Zemelak"
     },
     {
       "campus": "S",
@@ -1522,7 +1722,7 @@
       "course": "MELC 491",
       "courseTitle": "SEMINAR MIDDLE EAST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kuru,Selim S."
     },
     {
       "campus": "S",
@@ -1562,7 +1762,7 @@
       "course": "MELC 501",
       "courseTitle": "ART ANCIENT NEAR E",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Noegel,Scott B."
     },
     {
       "campus": "S",
@@ -1592,7 +1792,7 @@
       "course": "MELC 560",
       "courseTitle": "LANG & ETHNICITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mawkanuli,Talant"
     },
     {
       "campus": "S",
@@ -1602,7 +1802,7 @@
       "course": "MELC 596",
       "courseTitle": "SPECIAL STUDIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bolel,Canan"
     },
     {
       "campus": "S",
@@ -1612,7 +1812,7 @@
       "course": "MELC 596",
       "courseTitle": "SPECIAL STUDIES",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Worku,Mehari Zemelak"
     },
     {
       "campus": "S",
@@ -1642,7 +1842,7 @@
       "course": "MELC 207",
       "courseTitle": "ARCHY ANCIENT IRAN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Selover,Stephanie"
     },
     {
       "campus": "S",
@@ -1652,7 +1852,7 @@
       "course": "MELC 229",
       "courseTitle": "ISLAMIC CULTURES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McCabe,Lillian"
     },
     {
       "campus": "S",
@@ -1662,7 +1862,7 @@
       "course": "MELC 269",
       "courseTitle": "MUSIC CULTR SILK RD",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mawkanuli,Talant"
     },
     {
       "campus": "S",
@@ -1682,7 +1882,7 @@
       "course": "MELC 296",
       "courseTitle": "SPECIAL STUDIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Apa Pomeshikov,Ayda"
     },
     {
       "campus": "S",
@@ -1692,7 +1892,7 @@
       "course": "MELC 305",
       "courseTitle": "BIBLICAL PROPHETS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Medill,Kathryn McConaughy"
     },
     {
       "campus": "S",
@@ -1722,7 +1922,7 @@
       "course": "MELC 350",
       "courseTitle": "ARCH ANC NE WAR EMP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Medill,Kathryn McConaughy"
     },
     {
       "campus": "S",
@@ -1732,7 +1932,7 @@
       "course": "MELC 358",
       "courseTitle": "ISLAM IN CHINA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mawkanuli,Talant"
     },
     {
       "campus": "S",
@@ -1742,7 +1942,7 @@
       "course": "MELC 396",
       "courseTitle": "INTERMED STUDIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McCabe,Lillian"
     },
     {
       "campus": "S",
@@ -1752,7 +1952,7 @@
       "course": "MELC 415",
       "courseTitle": "HORN AFRIC HOLY PEOP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Worku,Mehari Zemelak"
     },
     {
       "campus": "S",
@@ -1792,7 +1992,7 @@
       "course": "MELC 505",
       "courseTitle": "BIBLICAL PROPHETS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Medill,Kathryn McConaughy"
     },
     {
       "campus": "S",
@@ -1812,7 +2012,7 @@
       "course": "MELC 559",
       "courseTitle": "ISLAM IN CHINA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mawkanuli,Talant"
     },
     {
       "campus": "S",
@@ -1832,7 +2032,7 @@
       "course": "MELC 590",
       "courseTitle": "SMNR MID EAST CLTRS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fani,Aria"
     },
     {
       "campus": "S",
@@ -1842,7 +2042,7 @@
       "course": "MELC 596",
       "courseTitle": "SPECIAL STUDIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bolel,Canan"
     },
     {
       "campus": "S",
@@ -1852,7 +2052,7 @@
       "course": "MELC 596",
       "courseTitle": "SPECIAL STUDIES",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Medill,Kathryn McConaughy"
     },
     {
       "campus": "S",
@@ -1862,7 +2062,7 @@
       "course": "MELC 596",
       "courseTitle": "SPECIAL STUDIES",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Worku,Mehari Zemelak"
     },
     {
       "campus": "S",
@@ -1892,7 +2092,7 @@
       "course": "MELC 196",
       "courseTitle": "INTRO STDY MID EAST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ahmed,Khalid A"
     },
     {
       "campus": "S",
@@ -1902,7 +2102,7 @@
       "course": "MELC 230",
       "courseTitle": "MUSLIM BLIEFS/PRACTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McCabe,Lillian"
     },
     {
       "campus": "S",
@@ -1912,7 +2112,7 @@
       "course": "MELC 270",
       "courseTitle": "DIVERSTY GLOBL TURKS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mawkanuli,Talant"
     },
     {
       "campus": "S",
@@ -1922,7 +2122,7 @@
       "course": "MELC 296",
       "courseTitle": "SPECIAL STUDIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "BASIBEK,TUNA"
     },
     {
       "campus": "S",
@@ -1932,7 +2132,7 @@
       "course": "MELC 307",
       "courseTitle": "ISRAELITES TO JEWS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Medill,Kathryn McConaughy"
     },
     {
       "campus": "S",
@@ -1942,7 +2142,7 @@
       "course": "MELC 310",
       "courseTitle": "JEWISH LITERATURE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sokoloff,Naomi B"
     },
     {
       "campus": "S",
@@ -1952,7 +2152,7 @@
       "course": "MELC 313",
       "courseTitle": "ANCIENT TECH NR EAST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Selover,Stephanie"
     },
     {
       "campus": "S",
@@ -1982,7 +2182,7 @@
       "course": "MELC 340",
       "courseTitle": "TRANSLATION STUDIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bolel,Canan"
     },
     {
       "campus": "S",
@@ -1992,7 +2192,7 @@
       "course": "MELC 352",
       "courseTitle": "BIBLE-ANCT WISDM LIT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Medill,Kathryn McConaughy"
     },
     {
       "campus": "S",
@@ -2002,7 +2202,7 @@
       "course": "MELC 365",
       "courseTitle": "MEDVL AFR LIT ETHIOP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Worku,Mehari Zemelak"
     },
     {
       "campus": "S",
@@ -2052,7 +2252,7 @@
       "course": "MELC 507",
       "courseTitle": "ISRAELITES TO JEWS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Medill,Kathryn McConaughy"
     },
     {
       "campus": "S",
@@ -2062,7 +2262,7 @@
       "course": "MELC 520",
       "courseTitle": "JEWISH POETRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sokoloff,Naomi B"
     },
     {
       "campus": "S",
@@ -2092,7 +2292,7 @@
       "course": "MELC 552",
       "courseTitle": "BIBLE-ANCT WISDM LIT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Medill,Kathryn McConaughy"
     },
     {
       "campus": "S",
@@ -2102,7 +2302,7 @@
       "course": "MELC 565",
       "courseTitle": "MEDVL AFR LIT ETHIOP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Worku,Mehari Zemelak"
     },
     {
       "campus": "S",

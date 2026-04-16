@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Metcalfe%2CChris%20Primack",
+  "professor": "Metcalfe,Chris Primack",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "AUT2021",
+      "course": "ENVIR 495",
+      "courseTitle": "ADVANCED TOPICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "entre",
+      "deptName": "Entrepreneurship",
+      "term": "AUT2021",
+      "course": "ENTRE 443",
+      "courseTitle": "ENVIR INNOVTN PRACT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2021",
+      "course": "ENGR 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A"
+    }
+  ]
+}

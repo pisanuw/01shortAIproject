@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20CHEM%20560",
+  "course": "S - CHEM 560",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 560",
+      "courseTitle": "CUR PROB PHYS CHEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2021",
+      "course": "CHEM 560",
+      "courseTitle": "CUR PROB PHYS CHEM",
+      "section": "A",
+      "instructor": "Sasaki,Tomikazu"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2020",
+      "course": "CHEM 560",
+      "courseTitle": "CUR PROB PHYS CHEM",
+      "section": "A",
+      "instructor": "Sasaki,Tomikazu"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Barker%2CScott",
+  "professor": "Barker,Scott",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SUM2021",
+      "course": "INFO 200",
+      "courseTitle": "INTELL FOUNDATIONS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2021",
+      "course": "INFO 200",
+      "courseTitle": "INTELL FOUNDATIONS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2021",
+      "course": "INFO 200",
+      "courseTitle": "INTELL FOUNDATIONS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2020",
+      "course": "INFO 200",
+      "courseTitle": "INTELL FOUNDATIONS",
+      "section": "B"
+    }
+  ]
+}

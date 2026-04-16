@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Beach%2CMichael%20W.",
+  "professor": "Beach,Michael W.",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hcde",
+      "deptName": "Human Centered Design and Engineering",
+      "term": "WIN2025",
+      "course": "HCDE 313",
+      "courseTitle": "INTRO USER RSRCH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hcde",
+      "deptName": "Human Centered Design and Engineering",
+      "term": "SPR2022",
+      "course": "HCDE 318",
+      "courseTitle": "INTRO USER CENT DES",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hcde",
+      "deptName": "Human Centered Design and Engineering",
+      "term": "WIN2022",
+      "course": "HCDE 451",
+      "courseTitle": "UX PROTOTYPING",
+      "section": "A"
+    }
+  ]
+}

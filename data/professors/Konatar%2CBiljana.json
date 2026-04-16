@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Konatar%2CBiljana",
+  "professor": "Konatar,Biljana",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "russian",
+      "deptName": "Russian",
+      "term": "WIN2023",
+      "course": "RUSS 102",
+      "courseTitle": "FIRST-YEAR RUSSIAN",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "russian",
+      "deptName": "Russian",
+      "term": "AUT2022",
+      "course": "RUSS 101",
+      "courseTitle": "FIRST-YEAR RUSSIAN",
+      "section": "C"
+    }
+  ]
+}

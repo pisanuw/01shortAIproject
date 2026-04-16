@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20CHSTU%20405",
+  "course": "S - CHSTU 405",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chist",
+      "deptName": "Chicano Studies",
+      "term": "SPR2026",
+      "course": "CHSTU 405",
+      "courseTitle": "ADV CHICANO SOCSCI",
+      "section": "A",
+      "instructor": "Pinedo-Turnovsky,Carolyn"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chist",
+      "deptName": "Chicano Studies",
+      "term": "SPR2025",
+      "course": "CHSTU 405",
+      "courseTitle": "ADV CHICANO SOCSCI",
+      "section": "A",
+      "instructor": "Pinedo-Turnovsky,Carolyn"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chist",
+      "deptName": "Chicano Studies",
+      "term": "WIN2023",
+      "course": "CHSTU 405",
+      "courseTitle": "ADV CHICANO SOCSCI",
+      "section": "A",
+      "instructor": "Pinedo-Turnovsky,Carolyn"
+    }
+  ]
+}

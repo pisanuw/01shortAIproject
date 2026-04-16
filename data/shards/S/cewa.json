@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:59Z",
+  "generatedAt": "2026-04-16T02:57:14Z",
   "campus": "S",
   "dept": "cewa",
   "deptName": "Environmental Engineering",
@@ -332,7 +332,7 @@
       "course": "CEWA 544",
       "courseTitle": "PHY CHEM PROC PRINC",
       "section": "A",
-      "instructor": "Korshin,G"
+      "instructor": "B Korshin,G"
     },
     {
       "campus": "S",
@@ -1138,6 +1138,76 @@
       "campus": "S",
       "dept": "cewa",
       "deptName": "Environmental Engineering",
+      "term": "SPR2025",
+      "course": "CEWA 537",
+      "courseTitle": "ADV SURV/GEOMATICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cewa",
+      "deptName": "Environmental Engineering",
+      "term": "SPR2025",
+      "course": "CEWA 545",
+      "courseTitle": "ENV ORG CHEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cewa",
+      "deptName": "Environmental Engineering",
+      "term": "SPR2025",
+      "course": "CEWA 549",
+      "courseTitle": "PHY CHEM TRT PROC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cewa",
+      "deptName": "Environmental Engineering",
+      "term": "SPR2025",
+      "course": "CEWA 572",
+      "courseTitle": "NUMERICAL MODELING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cewa",
+      "deptName": "Environmental Engineering",
+      "term": "SPR2025",
+      "course": "CEWA 573",
+      "courseTitle": "COAST WAVES FOR ENG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cewa",
+      "deptName": "Environmental Engineering",
+      "term": "SPR2025",
+      "course": "CEWA 574",
+      "courseTitle": "SEDIMENT TRANSPORT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cewa",
+      "deptName": "Environmental Engineering",
+      "term": "SPR2025",
+      "course": "CEWA 578",
+      "courseTitle": "WATER SYS MGMT & OP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cewa",
+      "deptName": "Environmental Engineering",
       "term": "AUT2025",
       "course": "CEWA 540",
       "courseTitle": "MICRO PROC FUND",
@@ -1221,8 +1291,8 @@
       "term": "AUT2025",
       "course": "CEWA 599",
       "courseTitle": "SPECIAL TOPICS",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Lundquist,Jessica D"
     },
     {
       "campus": "S",
@@ -1231,7 +1301,7 @@
       "term": "AUT2025",
       "course": "CEWA 599",
       "courseTitle": "SPECIAL TOPICS",
-      "section": "B",
+      "section": "A",
       "instructor": "TBA"
     },
     {

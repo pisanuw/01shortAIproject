@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Kaur%2CEkonkar",
+  "professor": "Kaur,Ekonkar",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "WIN2025",
+      "course": "MGMT 300",
+      "courseTitle": "LDRSHIP & ORG BEHAV",
+      "section": "F"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "WIN2023",
+      "course": "MGMT 300",
+      "courseTitle": "LDRSHIP & ORG BEHAV",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SPR2022",
+      "course": "MGMT 300",
+      "courseTitle": "LDRSHIP & ORG BEHAV",
+      "section": "C"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Gao%2CX",
+  "professor": "Gao,X",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "SPR2021",
+      "course": "BIOEN 599",
+      "courseTitle": "SPEC TOPICS BIOENG",
+      "section": "G"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "WIN2021",
+      "course": "BIOEN 587",
+      "courseTitle": "BIOE & NANOTECH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "WIN2021",
+      "course": "BIOEN 487",
+      "courseTitle": "BIOE & NANOTECH",
+      "section": "A"
+    }
+  ]
+}

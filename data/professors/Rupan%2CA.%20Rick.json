@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Rupan%2CA.%20Rick",
+  "professor": "Rupan,A. Rick",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "WIN2026",
+      "course": "OCEAN 462",
+      "courseTitle": "OCEAN TECH STUDIO",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SPR2025",
+      "course": "OCEAN 462",
+      "courseTitle": "OCEAN TECH STUDIO",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2021",
+      "course": "OCEAN 261",
+      "courseTitle": "INTRO OCEAN TECH",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Schwartz%2CJesse%20David%20Merto",
+  "professor": "Schwartz,Jesse David Merto",
+  "recordCount": 5,
+  "records": [
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tbiol",
+      "deptName": "Biology",
+      "term": "AUT2025",
+      "course": "T BIOL 232",
+      "courseTitle": "CONSERVATION BIOL",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tbiol",
+      "deptName": "Biology",
+      "term": "AUT2024",
+      "course": "T BIOL 232",
+      "courseTitle": "CONSERVATION BIOL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "WIN2024",
+      "course": "BIOL 350",
+      "courseTitle": "FOUNDTNS PHYSIOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "SPR2023",
+      "course": "BIOL 350",
+      "courseTitle": "FOUNDTNS PHYSIOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbio",
+      "deptName": "Biology",
+      "term": "WIN2023",
+      "course": "B BIO 466",
+      "courseTitle": "EVOLUTION",
+      "section": "A"
+    }
+  ]
+}

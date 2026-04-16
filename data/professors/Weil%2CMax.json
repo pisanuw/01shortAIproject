@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Weil%2CMax",
+  "professor": "Weil,Max",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 370",
+      "courseTitle": "DATA SCIENCE METHDS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 370",
+      "courseTitle": "DATA SCIENCE METHDS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2024",
+      "course": "INFO 478",
+      "courseTitle": "POP HEALTH INFO",
+      "section": "A"
+    }
+  ]
+}

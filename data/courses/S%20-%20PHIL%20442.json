@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20PHIL%20442",
+  "course": "S - PHIL 442",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "WIN2026",
+      "course": "PHIL 442",
+      "courseTitle": "NEUROETHICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "WIN2024",
+      "course": "PHIL 442",
+      "courseTitle": "NEUROETHICS",
+      "section": "A",
+      "instructor": "Brown,Andrew"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "SPR2021",
+      "course": "PHIL 442",
+      "courseTitle": "NEUROETHICS",
+      "section": "A",
+      "instructor": "Dasgupta,Ishan"
+    }
+  ]
+}

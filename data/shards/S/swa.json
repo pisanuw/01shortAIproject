@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-04-15T16:27:54Z",
+  "generatedAt": "2026-04-16T02:57:10Z",
   "campus": "S",
   "dept": "swa",
   "deptName": "Swahili",
   "records": [
+    {
+      "campus": "S",
+      "dept": "swa",
+      "deptName": "Swahili",
+      "term": "AUT2020",
+      "course": "SWA 101",
+      "courseTitle": "BASIC SWAHILI",
+      "section": "A",
+      "instructor": "Waita,Jacqueline"
+    },
+    {
+      "campus": "S",
+      "dept": "swa",
+      "deptName": "Swahili",
+      "term": "AUT2020",
+      "course": "SWA 101",
+      "courseTitle": "BASIC SWAHILI",
+      "section": "B",
+      "instructor": "Waita,Jacqueline"
+    },
+    {
+      "campus": "S",
+      "dept": "swa",
+      "deptName": "Swahili",
+      "term": "AUT2020",
+      "course": "SWA 201",
+      "courseTitle": "INTERMED SWAHILI",
+      "section": "A",
+      "instructor": "Waita,Jacqueline"
+    },
     {
       "campus": "S",
       "dept": "swa",
@@ -328,6 +358,36 @@
       "campus": "S",
       "dept": "swa",
       "deptName": "Swahili",
+      "term": "SPR2024",
+      "course": "SWA 103",
+      "courseTitle": "BASIC SWAHILI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "swa",
+      "deptName": "Swahili",
+      "term": "SPR2024",
+      "course": "SWA 103",
+      "courseTitle": "BASIC SWAHILI",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "swa",
+      "deptName": "Swahili",
+      "term": "SPR2024",
+      "course": "SWA 203",
+      "courseTitle": "INTERMED SWAHILI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "swa",
+      "deptName": "Swahili",
       "term": "AUT2024",
       "course": "SWA 101",
       "courseTitle": "BASIC SWAHILI",
@@ -418,11 +478,21 @@
       "campus": "S",
       "dept": "swa",
       "deptName": "Swahili",
+      "term": "SUM2025",
+      "course": "SWA 134",
+      "courseTitle": "INTENSIVE SWAHILI",
+      "section": "A",
+      "instructor": "Waita,Jacqueline"
+    },
+    {
+      "campus": "S",
+      "dept": "swa",
+      "deptName": "Swahili",
       "term": "AUT2025",
       "course": "SWA 101",
       "courseTitle": "BASIC SWAHILI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Waita,Jacqueline"
     },
     {
       "campus": "S",
@@ -432,7 +502,7 @@
       "course": "SWA 101",
       "courseTitle": "BASIC SWAHILI",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Waita,Jacqueline"
     },
     {
       "campus": "S",
@@ -442,7 +512,7 @@
       "course": "SWA 201",
       "courseTitle": "INTERMED SWAHILI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Waita,Jacqueline"
     },
     {
       "campus": "S",
@@ -472,7 +542,7 @@
       "course": "SWA 202",
       "courseTitle": "INTERMED SWAHILI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Waita,Jacqueline"
     },
     {
       "campus": "S",

@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Chen%2CAndy",
+  "professor": "Chen,Andy",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SPR2026",
+      "course": "STAT 220",
+      "courseTitle": "STAT REASONING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "WIN2026",
+      "course": "STAT 220",
+      "courseTitle": "STAT REASONING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2025",
+      "course": "STAT 220",
+      "courseTitle": "STAT REASONING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "WIN2024",
+      "course": "STAT 220",
+      "courseTitle": "STAT REASONING",
+      "section": "A"
+    }
+  ]
+}

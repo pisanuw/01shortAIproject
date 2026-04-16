@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20BIOST%20302",
+  "course": "S - BIOST 302",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "SPR2023",
+      "course": "BIOST 302",
+      "courseTitle": "FORENSIC GENETICS",
+      "section": "A",
+      "instructor": "Aalbers,Sanne"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "SPR2021",
+      "course": "BIOST 302",
+      "courseTitle": "FORENSIC GENETICS",
+      "section": "A",
+      "instructor": "Weir,Bruce S"
+    }
+  ]
+}

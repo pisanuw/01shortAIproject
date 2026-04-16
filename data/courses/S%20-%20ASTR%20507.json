@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:22Z",
+  "id": "S%20-%20ASTR%20507",
+  "course": "S - ASTR 507",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "astro",
+      "deptName": "Astronomy",
+      "term": "WIN2026",
+      "course": "ASTR 507",
+      "courseTitle": "ASTROPHYSICS I",
+      "section": "A",
+      "instructor": "Agol"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "astro",
+      "deptName": "Astronomy",
+      "term": "WIN2024",
+      "course": "ASTR 507",
+      "courseTitle": "ASTROPHYSICS I",
+      "section": "A",
+      "instructor": "Agol"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "astro",
+      "deptName": "Astronomy",
+      "term": "WIN2022",
+      "course": "ASTR 507",
+      "courseTitle": "ASTROPHYSICS I",
+      "section": "A",
+      "instructor": "Agol"
+    }
+  ]
+}

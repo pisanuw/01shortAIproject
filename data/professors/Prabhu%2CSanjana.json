@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Prabhu%2CSanjana",
+  "professor": "Prabhu,Sanjana",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SPR2024",
+      "course": "MGMT 430",
+      "courseTitle": "STRATEGIC MGMT",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SPR2023",
+      "course": "MGMT 430",
+      "courseTitle": "STRATEGIC MGMT",
+      "section": "F"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SPR2022",
+      "course": "MGMT 430",
+      "courseTitle": "STRATEGIC MGMT",
+      "section": "E"
+    }
+  ]
+}

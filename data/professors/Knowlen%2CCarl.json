@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Knowlen%2CCarl",
+  "professor": "Knowlen,Carl",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2026",
+      "course": "A A 260",
+      "courseTitle": "THERMODYNAMICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2025",
+      "course": "A A 460",
+      "courseTitle": "PROPULSION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2022",
+      "course": "A A 260",
+      "courseTitle": "THERMODYNAMICS",
+      "section": "A"
+    }
+  ]
+}

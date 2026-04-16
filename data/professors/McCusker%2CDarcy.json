@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "McCusker%2CDarcy",
+  "professor": "McCusker,Darcy",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "SUM2021",
+      "course": "PHIL 242",
+      "courseTitle": "MEDICAL ETHICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bh",
+      "deptName": "Bioethics and Humanities",
+      "term": "SPR2021",
+      "course": "B H 311",
+      "courseTitle": "ETHICAL ISS MOD MED",
+      "section": "A"
+    }
+  ]
+}

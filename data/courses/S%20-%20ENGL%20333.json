@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20ENGL%20333",
+  "course": "S - ENGL 333",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engl",
+      "deptName": "English",
+      "term": "WIN2026",
+      "course": "ENGL 333",
+      "courseTitle": "19TH CENTURY NOVEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engl",
+      "deptName": "English",
+      "term": "WIN2025",
+      "course": "ENGL 333",
+      "courseTitle": "19TH CENTURY NOVEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engl",
+      "deptName": "English",
+      "term": "AUT2022",
+      "course": "ENGL 333",
+      "courseTitle": "ENGLISH NOVEL",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
+}

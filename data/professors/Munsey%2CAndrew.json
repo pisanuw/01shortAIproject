@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Munsey%2CAndrew",
+  "professor": "Munsey,Andrew",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mustec",
+      "deptName": "Music Technology",
+      "term": "SPR2026",
+      "course": "MUSTEC 412",
+      "courseTitle": "STUDIO REC TECH III",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mustec",
+      "deptName": "Music Technology",
+      "term": "WIN2026",
+      "course": "MUSTEC 411",
+      "courseTitle": "STUDIO REC TECH II",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mustec",
+      "deptName": "Music Technology",
+      "term": "WIN2025",
+      "course": "MUSTEC 410",
+      "courseTitle": "STUDIO RECORD FUND",
+      "section": "A"
+    }
+  ]
+}

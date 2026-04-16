@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Kollu%2CSravanthi",
+  "professor": "Kollu,Sravanthi",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sasian",
+      "deptName": "South Asian",
+      "term": "SPR2026",
+      "course": "S ASIA 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "glits",
+      "deptName": "Global Literary Studies",
+      "term": "SPR2026",
+      "course": "GLITS 313",
+      "courseTitle": "LIT ACROSS PLACES",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "asianll",
+      "deptName": "Asian Languages and Literature",
+      "term": "WIN2026",
+      "course": "ASIAN 207",
+      "courseTitle": "LIT/CLTR SPEC TOP",
+      "section": "A"
+    }
+  ]
+}

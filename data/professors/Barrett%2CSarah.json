@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Barrett%2CSarah",
+  "professor": "Barrett,Sarah",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2025",
+      "course": "INFO 433",
+      "courseTitle": "CONTENT STRATEGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2023",
+      "course": "INFO 331",
+      "courseTitle": "INFO ARCHITECTURE",
+      "section": "A"
+    }
+  ]
+}

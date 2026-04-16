@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Hou%2CJack",
+  "professor": "Hou,Jack",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "orthod",
+      "deptName": "Orthodontics",
+      "term": "SUM2025",
+      "course": "ORTHO 598",
+      "courseTitle": "ARCHWIRE FORMATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "orthod",
+      "deptName": "Orthodontics",
+      "term": "SUM2024",
+      "course": "ORTHO 598",
+      "courseTitle": "ARCHWIRE FORMATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "orthod",
+      "deptName": "Orthodontics",
+      "term": "SUM2023",
+      "course": "ORTHO 598",
+      "courseTitle": "ARCHWIRE FORMATION",
+      "section": "A"
+    }
+  ]
+}

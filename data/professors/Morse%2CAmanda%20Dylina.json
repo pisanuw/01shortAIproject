@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Morse%2CAmanda%20Dylina",
+  "professor": "Morse,Amanda Dylina",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bhs",
+      "deptName": "Health Studies",
+      "term": "SUM2021",
+      "course": "BHS 201",
+      "courseTitle": "INTRO PUBLIC HLTH",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bhlth",
+      "deptName": "Health Electives",
+      "term": "WIN2021",
+      "course": "B HLTH 301",
+      "courseTitle": "GLBL HLTH PRACTICE",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bhlth",
+      "deptName": "Health Electives",
+      "term": "AUT2020",
+      "course": "B HLTH 201",
+      "courseTitle": "INTRO GLOBAL HEALTH",
+      "section": "A"
+    }
+  ]
+}

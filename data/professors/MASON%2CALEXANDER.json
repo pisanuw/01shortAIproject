@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "MASON%2CALEXANDER",
+  "professor": "MASON,ALEXANDER",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2023",
+      "course": "MATH 224",
+      "courseTitle": "ADV MULTIVAR CALC",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2021",
+      "course": "MATH 126",
+      "courseTitle": "CALC ANYL GEOM III",
+      "section": "F"
+    }
+  ]
+}

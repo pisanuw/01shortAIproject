@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Forgey%20III%2CLimuel",
+  "professor": "Forgey III,Limuel",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmus",
+      "deptName": "Music - Applied",
+      "term": "WIN2023",
+      "course": "MUSAP 138",
+      "courseTitle": "CLASS INSTR-VOICE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmus",
+      "deptName": "Music - Applied",
+      "term": "AUT2022",
+      "course": "MUSAP 137",
+      "courseTitle": "CLASS INSTR-VOICE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmus",
+      "deptName": "Music - Applied",
+      "term": "WIN2022",
+      "course": "MUSAP 139",
+      "courseTitle": "CLASS INSTR-VOICE",
+      "section": "A"
+    }
+  ]
+}

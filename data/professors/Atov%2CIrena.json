@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Atov%2CIrena",
+  "professor": "Atov,Irena",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bengr",
+      "deptName": "Engineering",
+      "term": "SPR2026",
+      "course": "B ENGR 496",
+      "courseTitle": "ENGR CAPSTONE II",
+      "section": "I"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bengr",
+      "deptName": "Engineering",
+      "term": "SPR2026",
+      "course": "B ENGR 495",
+      "courseTitle": "ENGR CAPSTONE I",
+      "section": "F"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "WIN2026",
+      "course": "CSS 432",
+      "courseTitle": "NTWRK DSGN & PRGRMNG",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bst",
+      "deptName": "Science and Technology",
+      "term": "WIN2026",
+      "course": "BST 205",
+      "courseTitle": "WOMEN IN STEM",
+      "section": "A"
+    }
+  ]
+}

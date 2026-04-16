@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20MGMT%20592",
+  "course": "S - MGMT 592",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "WIN2026",
+      "course": "MGMT 592",
+      "courseTitle": "CONTEMP RES--ST MGT",
+      "section": "A",
+      "instructor": "Sirmon,David G."
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 592",
+      "courseTitle": "CONTEMP RES--ST MGT",
+      "section": "A",
+      "instructor": "Sirmon,David G."
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2021",
+      "course": "MGMT 592",
+      "courseTitle": "CONTEMP RES--ST MGT",
+      "section": "A",
+      "instructor": "Sirmon,David G."
+    }
+  ]
+}

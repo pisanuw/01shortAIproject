@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Barrington%2CWendy%20E.",
+  "professor": "Barrington,Wendy E.",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nsg",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NSG 572",
+      "courseTitle": "COLLAB HEALTH EQTY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "SPR2021",
+      "course": "EPI 591",
+      "courseTitle": "CURRENT LIT IN EPI",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "AUT2020",
+      "course": "EPI 511",
+      "courseTitle": "INTRO TO EPIDEMIOL",
+      "section": "A"
+    }
+  ]
+}

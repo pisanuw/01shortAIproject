@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20ECFS%20495",
+  "course": "S - ECFS 495",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "SUM2021",
+      "course": "ECFS 495",
+      "courseTitle": "ADV ECFC SEMINAR",
+      "section": "A",
+      "instructor": "Joseph,Gail"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "SPR2021",
+      "course": "ECFS 495",
+      "courseTitle": "ADV ECFC SEMINAR",
+      "section": "B",
+      "instructor": "Hertzog,Nancy"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "WIN2021",
+      "course": "ECFS 495",
+      "courseTitle": "ADV ECFC SEMINAR",
+      "section": "A",
+      "instructor": "Hertzog,Nancy"
+    }
+  ]
+}

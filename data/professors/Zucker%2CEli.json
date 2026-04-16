@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Zucker%2CEli",
+  "professor": "Zucker,Eli",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwk",
+      "deptName": "Social Work",
+      "term": "WIN2023",
+      "course": "SOC W 511",
+      "courseTitle": "SW WITH FAM/GROUPS",
+      "section": "F"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwk",
+      "deptName": "Social Work",
+      "term": "AUT2022",
+      "course": "SOC W 510",
+      "courseTitle": "SW WITH INDIVIDUALS",
+      "section": "F"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwlbasw",
+      "deptName": "Social Welfare BASW",
+      "term": "WIN2022",
+      "course": "SOC WF 404",
+      "courseTitle": "CLTRL DIVRSTY/JSTCE",
+      "section": "B"
+    }
+  ]
+}

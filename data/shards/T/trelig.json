@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T15:51:12Z",
+  "generatedAt": "2026-04-16T02:57:10Z",
   "campus": "T",
   "dept": "trelig",
   "deptName": "Religion",
@@ -163,6 +163,46 @@
       "courseTitle": "BUDDHIST THOUGHT",
       "section": "A",
       "instructor": "Compson,Jane"
+    },
+    {
+      "campus": "T",
+      "dept": "trelig",
+      "deptName": "Religion",
+      "term": "SPR2022",
+      "course": "TRELIG 321",
+      "courseTitle": "COMP RELIGION",
+      "section": "A",
+      "instructor": "Compson,Jane"
+    },
+    {
+      "campus": "T",
+      "dept": "trelig",
+      "deptName": "Religion",
+      "term": "SPR2022",
+      "course": "TRELIG 350",
+      "courseTitle": "PHIL REL ENVIRON",
+      "section": "A",
+      "instructor": "Compson,Jane"
+    },
+    {
+      "campus": "T",
+      "dept": "trelig",
+      "deptName": "Religion",
+      "term": "SPR2022",
+      "course": "TRELIG 365",
+      "courseTitle": "HINDUISM & BUDDHISM",
+      "section": "A",
+      "instructor": "Parker,S"
+    },
+    {
+      "campus": "T",
+      "dept": "trelig",
+      "deptName": "Religion",
+      "term": "SPR2022",
+      "course": "TRELIG 366",
+      "courseTitle": "ISLAM",
+      "section": "A",
+      "instructor": "Kayaoglu,Turan"
     },
     {
       "campus": "T",
@@ -432,7 +472,7 @@
       "course": "TRELIG 105",
       "courseTitle": "INTRO TO REL STDY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Werrett,Ian C"
     },
     {
       "campus": "T",
@@ -442,7 +482,7 @@
       "course": "TRELIG 210",
       "courseTitle": "MOD THEORY OF RELIG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Werrett,Ian C"
     },
     {
       "campus": "T",
@@ -452,7 +492,7 @@
       "course": "TRELIG 321",
       "courseTitle": "COMP RELIGION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Werrett,Ian C"
     },
     {
       "campus": "T",
@@ -462,7 +502,7 @@
       "course": "TRELIG 333",
       "courseTitle": "BUDDHIST THOUGHT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Compson,Jane"
     },
     {
       "campus": "T",
@@ -472,7 +512,7 @@
       "course": "TRELIG 350",
       "courseTitle": "PHIL REL ENVIRON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Compson,Jane"
     }
   ]
 }

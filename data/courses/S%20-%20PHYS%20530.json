@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20PHYS%20530",
+  "course": "S - PHYS 530",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "SPR2023",
+      "course": "PHYS 530",
+      "courseTitle": "LASER PHYSICS",
+      "section": "B",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "SPR2021",
+      "course": "PHYS 530",
+      "courseTitle": "LASER PHYSICS",
+      "section": "A",
+      "instructor": "Garcia,Alejandro"
+    }
+  ]
+}

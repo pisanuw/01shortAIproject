@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Anderson%2CB",
+  "professor": "Anderson,B",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bengr",
+      "deptName": "Engineering",
+      "term": "SPR2022",
+      "course": "B ENGR 321",
+      "courseTitle": "MAT ENGR LAB",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bengr",
+      "deptName": "Engineering",
+      "term": "SPR2022",
+      "course": "B ENGR 321",
+      "courseTitle": "MAT ENGR LAB",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bmath",
+      "deptName": "Mathematics",
+      "term": "WIN2021",
+      "course": "B MATH 215",
+      "courseTitle": "HEALTH STATISTICS",
+      "section": "C"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bmath",
+      "deptName": "Mathematics",
+      "term": "WIN2021",
+      "course": "B MATH 215",
+      "courseTitle": "HEALTH STATISTICS",
+      "section": "A"
+    }
+  ]
+}

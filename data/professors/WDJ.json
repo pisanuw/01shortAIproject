@@ -1,0 +1,208 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "WDJ",
+  "professor": "WDJ",
+  "recordCount": 20,
+  "records": [
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "twrt",
+      "deptName": "Writing Instruction",
+      "term": "WIN2022",
+      "course": "TWRT 291",
+      "courseTitle": "TECHNICAL COMM",
+      "section": "D"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "twrt",
+      "deptName": "Writing Instruction",
+      "term": "WIN2022",
+      "course": "TWRT 291",
+      "courseTitle": "TECHNICAL COMM",
+      "section": "C"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "twrt",
+      "deptName": "Writing Instruction",
+      "term": "WIN2022",
+      "course": "TWRT 200",
+      "courseTitle": "INTRO CREATIVE WRIT",
+      "section": "C"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "twrt",
+      "deptName": "Writing Instruction",
+      "term": "WIN2022",
+      "course": "TWRT 200",
+      "courseTitle": "INTRO CREATIVE WRIT",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "WIN2022",
+      "course": "EDUC 251",
+      "courseTitle": "ED EQUITY/DIVERSITY",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "WIN2022",
+      "course": "EDUC 251",
+      "courseTitle": "ED EQUITY/DIVERSITY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "jsisb",
+      "deptName": "International Studies Global/Thematic Courses",
+      "term": "AUT2021",
+      "course": "JSIS B 180",
+      "courseTitle": "INTRO TO GLOBAL HLTH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2021",
+      "course": "JSIS A 205",
+      "courseTitle": "FILIPINO HISTORIES",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hstcmp",
+      "deptName": "Comparative and Transregional History",
+      "term": "AUT2021",
+      "course": "HSTCMP 205",
+      "courseTitle": "FILIPINO HISTORIES",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "AUT2021",
+      "course": "GEOG 180",
+      "courseTitle": "INTRO TO GLOBAL HLTH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "AUT2021",
+      "course": "G H 101",
+      "courseTitle": "INTRO TO GLOBAL HLTH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "AUT2021",
+      "course": "EDUC 251",
+      "courseTitle": "ED EQUITY/DIVERSITY",
+      "section": "H"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "AUT2021",
+      "course": "EDUC 251",
+      "courseTitle": "ED EQUITY/DIVERSITY",
+      "section": "G"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "twrt",
+      "deptName": "Writing Instruction",
+      "term": "SPR2021",
+      "course": "TWRT 291",
+      "courseTitle": "TECHNICAL COMM",
+      "section": "D"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "twrt",
+      "deptName": "Writing Instruction",
+      "term": "SPR2021",
+      "course": "TWRT 291",
+      "courseTitle": "TECHNICAL COMM",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2021",
+      "course": "JSIS A 205",
+      "courseTitle": "FILIPINO HISTORIES",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hstcmp",
+      "deptName": "Comparative and Transregional History",
+      "term": "WIN2021",
+      "course": "HSTCMP 205",
+      "courseTitle": "FILIPINO HISTORIES",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "jsisb",
+      "deptName": "International Studies Global/Thematic Courses",
+      "term": "AUT2020",
+      "course": "JSIS B 180",
+      "courseTitle": "INTRO TO GLOBAL HLTH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "AUT2020",
+      "course": "GEOG 180",
+      "courseTitle": "INTRO TO GLOBAL HLTH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "AUT2020",
+      "course": "G H 101",
+      "courseTitle": "INTRO TO GLOBAL HLTH",
+      "section": "A"
+    }
+  ]
+}

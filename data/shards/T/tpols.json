@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T15:51:12Z",
+  "generatedAt": "2026-04-16T02:57:09Z",
   "campus": "T",
   "dept": "tpols",
   "deptName": "Political Science",
@@ -401,6 +401,86 @@
       "term": "WIN2022",
       "course": "TPOL S 497",
       "courseTitle": "STATE INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "T",
+      "dept": "tpols",
+      "deptName": "Political Science",
+      "term": "SPR2022",
+      "course": "TPOL S 203",
+      "courseTitle": "INTRO INTERNATL REL",
+      "section": "A",
+      "instructor": "McCracken,Darrah"
+    },
+    {
+      "campus": "T",
+      "dept": "tpols",
+      "deptName": "Political Science",
+      "term": "SPR2022",
+      "course": "TPOL S 260",
+      "courseTitle": "AMERICAN POL THEORY",
+      "section": "A",
+      "instructor": "Williams,Charles"
+    },
+    {
+      "campus": "T",
+      "dept": "tpols",
+      "deptName": "Political Science",
+      "term": "SPR2022",
+      "course": "TPOL S 270",
+      "courseTitle": "INTRO TO POL ECON",
+      "section": "A",
+      "instructor": "Howson,Cynthia"
+    },
+    {
+      "campus": "T",
+      "dept": "tpols",
+      "deptName": "Political Science",
+      "term": "SPR2022",
+      "course": "TPOL S 310",
+      "courseTitle": "MOD EURO POL THEORY",
+      "section": "A",
+      "instructor": "Forman,Michael"
+    },
+    {
+      "campus": "T",
+      "dept": "tpols",
+      "deptName": "Political Science",
+      "term": "SPR2022",
+      "course": "TPOL S 343",
+      "courseTitle": "COMMUNITY/LABOR ORG",
+      "section": "A",
+      "instructor": "Williams,Charles"
+    },
+    {
+      "campus": "T",
+      "dept": "tpols",
+      "deptName": "Political Science",
+      "term": "SPR2022",
+      "course": "TPOL S 480",
+      "courseTitle": "PPPA SEMINAR",
+      "section": "B",
+      "instructor": "Forman,Michael"
+    },
+    {
+      "campus": "T",
+      "dept": "tpols",
+      "deptName": "Political Science",
+      "term": "SPR2022",
+      "course": "TPOL S 480",
+      "courseTitle": "PPPA SEMINAR",
+      "section": "A",
+      "instructor": "WB"
+    },
+    {
+      "campus": "T",
+      "dept": "tpols",
+      "deptName": "Political Science",
+      "term": "SPR2022",
+      "course": "TPOL S 496",
+      "courseTitle": "PPPA INTERNSHIP",
       "section": "A",
       "instructor": "TBA"
     },
@@ -1171,8 +1251,8 @@
       "term": "SPR2025",
       "course": "TPOL S 480",
       "courseTitle": "PPPA SEMINAR",
-      "section": "A",
-      "instructor": "Mallik,Bidisha"
+      "section": "B",
+      "instructor": "Cabrera Silva,Angel Gabrie"
     },
     {
       "campus": "T",
@@ -1181,8 +1261,8 @@
       "term": "SPR2025",
       "course": "TPOL S 480",
       "courseTitle": "PPPA SEMINAR",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Mallik,Bidisha"
     },
     {
       "campus": "T",
@@ -1222,7 +1302,7 @@
       "course": "TPOL S 201",
       "courseTitle": "INTRO POL VAL IDEAS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Forman,Michael"
     },
     {
       "campus": "T",
@@ -1232,7 +1312,7 @@
       "course": "TPOL S 204",
       "courseTitle": "INTRO TO COMPAR POL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ugur,Etga"
     },
     {
       "campus": "T",
@@ -1242,7 +1322,7 @@
       "course": "TPOL S 329",
       "courseTitle": "MAKING MOD AFRICA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Howson,Cynthia"
     },
     {
       "campus": "T",
@@ -1252,7 +1332,7 @@
       "course": "TPOL S 340",
       "courseTitle": "MID EAST POLITICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ugur,Etga"
     },
     {
       "campus": "T",
@@ -1262,7 +1342,7 @@
       "course": "TPOL S 480",
       "courseTitle": "PPPA SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Thuma,Emily"
     },
     {
       "campus": "T",
@@ -1292,7 +1372,7 @@
       "course": "TPOL S 202",
       "courseTitle": "INTRO TO AMER POL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pauli,Benjamin J"
     },
     {
       "campus": "T",
@@ -1302,7 +1382,7 @@
       "course": "TPOL S 204",
       "courseTitle": "INTRO TO COMPAR POL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ugur,Etga"
     },
     {
       "campus": "T",
@@ -1312,7 +1392,7 @@
       "course": "TPOL S 230",
       "courseTitle": "INTL HUMAN RIGHTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Forman,Michael"
     },
     {
       "campus": "T",
@@ -1322,7 +1402,7 @@
       "course": "TPOL S 343",
       "courseTitle": "COMMUNITY/LABOR ORG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Thuma,Emily"
     },
     {
       "campus": "T",
@@ -1332,7 +1412,7 @@
       "course": "TPOL S 480",
       "courseTitle": "PPPA SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ugur,Etga"
     },
     {
       "campus": "T",
@@ -1372,7 +1452,7 @@
       "course": "TPOL S 204",
       "courseTitle": "INTRO TO COMPAR POL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ugur,Etga"
     },
     {
       "campus": "T",
@@ -1382,7 +1462,7 @@
       "course": "TPOL S 260",
       "courseTitle": "AMERICAN POL THEORY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Williams,Charles"
     },
     {
       "campus": "T",
@@ -1392,7 +1472,7 @@
       "course": "TPOL S 270",
       "courseTitle": "INTRO TO POL ECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Howson,Cynthia"
     },
     {
       "campus": "T",
@@ -1402,7 +1482,7 @@
       "course": "TPOL S 310",
       "courseTitle": "MOD EURO POL THEORY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Forman,Michael"
     },
     {
       "campus": "T",
@@ -1412,7 +1492,7 @@
       "course": "TPOL S 341",
       "courseTitle": "CONFLCT & COOP MID E",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ugur,Etga"
     },
     {
       "campus": "T",
@@ -1422,7 +1502,7 @@
       "course": "TPOL S 480",
       "courseTitle": "PPPA SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mallik,Bidisha"
     },
     {
       "campus": "T",

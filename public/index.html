@@ -41,6 +41,30 @@
           <!-- filled by JS -->
         </div>
         <p class="loading-msg" id="campusLoading">Loading campus list…</p>
+
+        <section class="professor-launch" id="professorLaunch">
+          <p class="step-label">Select a professor</p>
+          <div class="professor-launch-card">
+            <div class="control-field">
+              <label>Professor</label>
+              <div class="filter-dropdown" id="landingProfessorDropdown"></div>
+            </div>
+            <button id="viewProfessorBtn" type="button" disabled>View courses</button>
+          </div>
+          <p class="loading-msg" id="professorLoading">Loading professor list…</p>
+        </section>
+
+        <section class="course-launch" id="courseLaunch">
+          <p class="step-label">Select a course</p>
+          <div class="course-launch-card">
+            <div class="control-field">
+              <label>Course</label>
+              <div class="filter-dropdown" id="landingCourseDropdown"></div>
+            </div>
+            <button id="viewCourseBtn" type="button" disabled>View offerings</button>
+          </div>
+          <p class="loading-msg" id="courseLoading">Loading course list…</p>
+        </section>
       </section>
 
       <!-- ── Step 2: Department ─────────────────────────────────────────── -->
@@ -101,6 +125,7 @@
             <thead>
               <tr>
                 <th>Course</th>
+                <th>Section</th>
                 <th>Title</th>
                 <th>Instructor</th>
                 <th>Year</th>
@@ -115,6 +140,73 @@
           <button id="prevPageBtn" type="button">Previous</button>
           <p id="pageText">Page 1 of 1</p>
           <button id="nextPageBtn" type="button">Next</button>
+        </section>
+      </section>
+
+      <section class="step hidden" id="stepProfessor">
+        <p class="step-label">
+          <button class="back-btn" id="backToHome" type="button">← Home</button>
+          <span id="professorResultsTitle">Professor courses</span>
+        </p>
+
+        <section class="status-row">
+          <p id="professorSummaryText">Loading professor data…</p>
+        </section>
+
+        <section class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Campus</th>
+                <th>Course</th>
+                <th>Section</th>
+                <th>Title</th>
+                <th>Year</th>
+                <th>Quarter</th>
+              </tr>
+            </thead>
+            <tbody id="professorResultsBody"></tbody>
+          </table>
+        </section>
+
+        <section class="pager" aria-label="Professor results pagination">
+          <button id="professorPrevPageBtn" type="button">Previous</button>
+          <p id="professorPageText">Page 1 of 1</p>
+          <button id="professorNextPageBtn" type="button">Next</button>
+        </section>
+      </section>
+
+      <section class="step hidden" id="stepCourse">
+        <p class="step-label">
+          <button class="back-btn" id="backToHomeFromCourse" type="button">← Home</button>
+          <span id="courseResultsTitle">Course offerings</span>
+        </p>
+
+        <section class="status-row">
+          <p id="courseSummaryText">Loading course data…</p>
+        </section>
+
+        <section class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Campus</th>
+                <th>Course</th>
+                <th>Section</th>
+                <th>Title</th>
+                <th>Professor</th>
+                <th>Year</th>
+                <th>Quarter</th>
+              </tr>
+            </thead>
+            <tbody id="courseResultsBody"></tbody>
+          </table>
+        </section>
+
+        <section class="pager" aria-label="Course results pagination">
+          <button id="coursePrevPageBtn" type="button">Previous</button>
+          <p id="coursePageText">Page 1 of 1</p>
+          <button id="courseNextPageBtn" type="button">Next</button>
         </section>
       </section>
     </main>

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Motley%2CMichael",
+  "professor": "Motley,Michael",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cee",
+      "deptName": "Civil and Environmental Engineering",
+      "term": "SPR2022",
+      "course": "CEE 442",
+      "courseTitle": "STRUCT GEO CAPSTONE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cee",
+      "deptName": "Civil and Environmental Engineering",
+      "term": "AUT2021",
+      "course": "CEE 220",
+      "courseTitle": "INTRO MECH OF MATLS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cee",
+      "deptName": "Civil and Environmental Engineering",
+      "term": "SPR2021",
+      "course": "CEE 500",
+      "courseTitle": "CEE SEMINARS",
+      "section": "A"
+    }
+  ]
+}

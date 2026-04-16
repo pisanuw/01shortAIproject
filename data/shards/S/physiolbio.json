@@ -1,7 +1,2528 @@
 {
-  "generatedAt": "2026-04-15T16:28:01Z",
+  "generatedAt": "2026-04-16T02:57:16Z",
   "campus": "S",
   "dept": "physiolbio",
   "deptName": "Physiology and Biophysics",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2020",
+      "course": "P BIO 375",
+      "courseTitle": "HUMAN PHYSIOLOGY",
+      "section": "A",
+      "instructor": "Melby,Anna"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2020",
+      "course": "P BIO 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2020",
+      "course": "P BIO 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2020",
+      "course": "P BIO 504",
+      "courseTitle": "BIOP NRV MSCL SYN",
+      "section": "A",
+      "instructor": "Sullivan,Jane"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2020",
+      "course": "P BIO 508",
+      "courseTitle": "PHYSIOLOGY LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2020",
+      "course": "P BIO 513",
+      "courseTitle": "TEACHING PHYSIOLOGY",
+      "section": "A",
+      "instructor": "Melby,Anna"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2020",
+      "course": "P BIO 520",
+      "courseTitle": "PHYSIOLOGY SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2020",
+      "course": "P BIO 521",
+      "courseTitle": "BIOPHYSICS SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2020",
+      "course": "P BIO 522",
+      "courseTitle": "SEL TOPICS RES PHYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2020",
+      "course": "P BIO 525",
+      "courseTitle": "RDGS ADV PHYS & BIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2020",
+      "course": "P BIO 540",
+      "courseTitle": "CARDIAC REMODELING",
+      "section": "A",
+      "instructor": "Liu,Q"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2020",
+      "course": "P BIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2020",
+      "course": "P BIO 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2020",
+      "course": "P BIO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2021",
+      "course": "P BIO 376",
+      "courseTitle": "HUMAN PHYSIOLOGY",
+      "section": "A",
+      "instructor": "Melby,A"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2021",
+      "course": "P BIO 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2021",
+      "course": "P BIO 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2021",
+      "course": "P BIO 508",
+      "courseTitle": "PHYSIOLOGY LAB",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2021",
+      "course": "P BIO 513",
+      "courseTitle": "TEACHING PHYSIOLOGY",
+      "section": "A",
+      "instructor": "Wordeman,L"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2021",
+      "course": "P BIO 520",
+      "courseTitle": "PHYSIOLOGY SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2021",
+      "course": "P BIO 521",
+      "courseTitle": "BIOPHYSICS SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2021",
+      "course": "P BIO 522",
+      "courseTitle": "SEL TOPICS RES PHYS",
+      "section": "A",
+      "instructor": "Hildebrandt,J"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2021",
+      "course": "P BIO 526",
+      "courseTitle": "RDGS ADV PHYS & BIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2021",
+      "course": "P BIO 545",
+      "courseTitle": "QUANT METH NEUROSCI",
+      "section": "A",
+      "instructor": "Rieke,Fred"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2021",
+      "course": "P BIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2021",
+      "course": "P BIO 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2021",
+      "course": "P BIO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2021",
+      "course": "P BIO 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2021",
+      "course": "P BIO 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2021",
+      "course": "P BIO 508",
+      "courseTitle": "PHYSIOLOGY LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2021",
+      "course": "P BIO 520",
+      "courseTitle": "PHYSIOLOGY SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2021",
+      "course": "P BIO 521",
+      "courseTitle": "BIOPHYSICS SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2021",
+      "course": "P BIO 522",
+      "courseTitle": "SEL TOPICS RES PHYS",
+      "section": "A",
+      "instructor": "Hildebrandt,J"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2021",
+      "course": "P BIO 527",
+      "courseTitle": "RDGS ADV PHYS & BIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2021",
+      "course": "P BIO 559",
+      "courseTitle": "NEUROBIOL DISEASE",
+      "section": "A",
+      "instructor": "Grabowski,Thomas J"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2021",
+      "course": "P BIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2021",
+      "course": "P BIO 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2021",
+      "course": "P BIO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2021",
+      "course": "P BIO 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2021",
+      "course": "P BIO 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2021",
+      "course": "P BIO 508",
+      "courseTitle": "PHYSIOLOGY LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2021",
+      "course": "P BIO 522",
+      "courseTitle": "SEL TOPICS RES PHYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2021",
+      "course": "P BIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2021",
+      "course": "P BIO 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2021",
+      "course": "P BIO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2021",
+      "course": "P BIO 375",
+      "courseTitle": "HUMAN PHYSIOLOGY",
+      "section": "A",
+      "instructor": "Melby,A"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2021",
+      "course": "P BIO 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2021",
+      "course": "P BIO 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2021",
+      "course": "P BIO 504",
+      "courseTitle": "BIOP NRV MSCL SYN",
+      "section": "A",
+      "instructor": "Sullivan,J"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2021",
+      "course": "P BIO 508",
+      "courseTitle": "PHYSIOLOGY LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2021",
+      "course": "P BIO 513",
+      "courseTitle": "TEACHING PHYSIOLOGY",
+      "section": "A",
+      "instructor": "Melby,A"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2021",
+      "course": "P BIO 520",
+      "courseTitle": "PHYSIOLOGY SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2021",
+      "course": "P BIO 521",
+      "courseTitle": "BIOPHYSICS SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2021",
+      "course": "P BIO 522",
+      "courseTitle": "SEL TOPICS RES PHYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2021",
+      "course": "P BIO 525",
+      "courseTitle": "RDGS ADV PHYS & BIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2021",
+      "course": "P BIO 540",
+      "courseTitle": "CARDIAC REMODELING",
+      "section": "A",
+      "instructor": "Liu,Q"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2021",
+      "course": "P BIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2021",
+      "course": "P BIO 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2021",
+      "course": "P BIO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2022",
+      "course": "P BIO 376",
+      "courseTitle": "HUMAN PHYSIOLOGY",
+      "section": "A",
+      "instructor": "Melby,A"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2022",
+      "course": "P BIO 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2022",
+      "course": "P BIO 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2022",
+      "course": "P BIO 508",
+      "courseTitle": "PHYSIOLOGY LAB",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2022",
+      "course": "P BIO 513",
+      "courseTitle": "TEACHING PHYSIOLOGY",
+      "section": "A",
+      "instructor": "Wordeman,L"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2022",
+      "course": "P BIO 520",
+      "courseTitle": "PHYSIOLOGY SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2022",
+      "course": "P BIO 521",
+      "courseTitle": "BIOPHYSICS SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2022",
+      "course": "P BIO 522",
+      "courseTitle": "SEL TOPICS RES PHYS",
+      "section": "A",
+      "instructor": "Hildebrandt,J"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2022",
+      "course": "P BIO 526",
+      "courseTitle": "RDGS ADV PHYS & BIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2022",
+      "course": "P BIO 545",
+      "courseTitle": "QUANT METH NEUROSCI",
+      "section": "A",
+      "instructor": "Rieke,Fred"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2022",
+      "course": "P BIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2022",
+      "course": "P BIO 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2022",
+      "course": "P BIO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2022",
+      "course": "P BIO 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2022",
+      "course": "P BIO 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2022",
+      "course": "P BIO 508",
+      "courseTitle": "PHYSIOLOGY LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2022",
+      "course": "P BIO 520",
+      "courseTitle": "PHYSIOLOGY SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2022",
+      "course": "P BIO 521",
+      "courseTitle": "BIOPHYSICS SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2022",
+      "course": "P BIO 522",
+      "courseTitle": "SEL TOPICS RES PHYS",
+      "section": "A",
+      "instructor": "Hildebrandt,J"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2022",
+      "course": "P BIO 527",
+      "courseTitle": "RDGS ADV PHYS & BIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2022",
+      "course": "P BIO 559",
+      "courseTitle": "NEUROBIOL DISEASE",
+      "section": "A",
+      "instructor": "Grabowski,Thomas J"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2022",
+      "course": "P BIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2022",
+      "course": "P BIO 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2022",
+      "course": "P BIO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2022",
+      "course": "P BIO 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2022",
+      "course": "P BIO 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2022",
+      "course": "P BIO 508",
+      "courseTitle": "PHYSIOLOGY LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2022",
+      "course": "P BIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2022",
+      "course": "P BIO 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2022",
+      "course": "P BIO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2022",
+      "course": "P BIO 375",
+      "courseTitle": "HUMAN PHYSIOLOGY",
+      "section": "A",
+      "instructor": "Melby,Anna"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2022",
+      "course": "P BIO 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2022",
+      "course": "P BIO 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2022",
+      "course": "P BIO 504",
+      "courseTitle": "BIOP NRV MSCL SYN",
+      "section": "A",
+      "instructor": "Zagotta,William N."
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2022",
+      "course": "P BIO 508",
+      "courseTitle": "PHYSIOLOGY LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2022",
+      "course": "P BIO 513",
+      "courseTitle": "TEACHING PHYSIOLOGY",
+      "section": "A",
+      "instructor": "Melby,Anna"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2022",
+      "course": "P BIO 520",
+      "courseTitle": "PHYSIOLOGY SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2022",
+      "course": "P BIO 521",
+      "courseTitle": "BIOPHYSICS SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2022",
+      "course": "P BIO 525",
+      "courseTitle": "RDGS ADV PHYS & BIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2022",
+      "course": "P BIO 540",
+      "courseTitle": "CARDIAC REMODELING",
+      "section": "A",
+      "instructor": "Liu,Q"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2022",
+      "course": "P BIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2022",
+      "course": "P BIO 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2022",
+      "course": "P BIO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2023",
+      "course": "P BIO 376",
+      "courseTitle": "HUMAN PHYSIOLOGY",
+      "section": "A",
+      "instructor": "Melby,A"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2023",
+      "course": "P BIO 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2023",
+      "course": "P BIO 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2023",
+      "course": "P BIO 508",
+      "courseTitle": "PHYSIOLOGY LAB",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2023",
+      "course": "P BIO 513",
+      "courseTitle": "TEACHING PHYSIOLOGY",
+      "section": "A",
+      "instructor": "Wordeman,L"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2023",
+      "course": "P BIO 520",
+      "courseTitle": "PHYSIOLOGY SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2023",
+      "course": "P BIO 521",
+      "courseTitle": "BIOPHYSICS SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2023",
+      "course": "P BIO 526",
+      "courseTitle": "RDGS ADV PHYS & BIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2023",
+      "course": "P BIO 545",
+      "courseTitle": "QUANT METH NEUROSCI",
+      "section": "A",
+      "instructor": "Rieke,Fred"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2023",
+      "course": "P BIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2023",
+      "course": "P BIO 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2023",
+      "course": "P BIO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2023",
+      "course": "P BIO 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2023",
+      "course": "P BIO 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2023",
+      "course": "P BIO 508",
+      "courseTitle": "PHYSIOLOGY LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2023",
+      "course": "P BIO 519",
+      "courseTitle": "MEM & MUS BIOPHY SM",
+      "section": "A",
+      "instructor": "Vivas,Oscar"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2023",
+      "course": "P BIO 520",
+      "courseTitle": "PHYSIOLOGY SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2023",
+      "course": "P BIO 521",
+      "courseTitle": "BIOPHYSICS SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2023",
+      "course": "P BIO 527",
+      "courseTitle": "RDGS ADV PHYS & BIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2023",
+      "course": "P BIO 559",
+      "courseTitle": "NEUROBIOL DISEASE",
+      "section": "A",
+      "instructor": "Grabowski,Thomas J"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2023",
+      "course": "P BIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2023",
+      "course": "P BIO 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2023",
+      "course": "P BIO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2023",
+      "course": "P BIO 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2023",
+      "course": "P BIO 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2023",
+      "course": "P BIO 508",
+      "courseTitle": "PHYSIOLOGY LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2023",
+      "course": "P BIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2023",
+      "course": "P BIO 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2023",
+      "course": "P BIO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2023",
+      "course": "P BIO 375",
+      "courseTitle": "HUMAN PHYSIOLOGY",
+      "section": "A",
+      "instructor": "Melby,Anna"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2023",
+      "course": "P BIO 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2023",
+      "course": "P BIO 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2023",
+      "course": "P BIO 504",
+      "courseTitle": "BIOP NRV MSCL SYN",
+      "section": "A",
+      "instructor": "Zagotta,William N."
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2023",
+      "course": "P BIO 508",
+      "courseTitle": "PHYSIOLOGY LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2023",
+      "course": "P BIO 513",
+      "courseTitle": "TEACHING PHYSIOLOGY",
+      "section": "A",
+      "instructor": "Melby,Anna"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2023",
+      "course": "P BIO 520",
+      "courseTitle": "PHYSIOLOGY SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2023",
+      "course": "P BIO 521",
+      "courseTitle": "BIOPHYSICS SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2023",
+      "course": "P BIO 522",
+      "courseTitle": "SEL TOPICS RES PHYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2023",
+      "course": "P BIO 525",
+      "courseTitle": "RDGS ADV PHYS & BIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2023",
+      "course": "P BIO 540",
+      "courseTitle": "CARDIAC REMODELING",
+      "section": "A",
+      "instructor": "Liu,Qinghang"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2023",
+      "course": "P BIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2023",
+      "course": "P BIO 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2023",
+      "course": "P BIO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2024",
+      "course": "P BIO 376",
+      "courseTitle": "HUMAN PHYSIOLOGY",
+      "section": "A",
+      "instructor": "Melby,Anna"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2024",
+      "course": "P BIO 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2024",
+      "course": "P BIO 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2024",
+      "course": "P BIO 508",
+      "courseTitle": "PHYSIOLOGY LAB",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2024",
+      "course": "P BIO 513",
+      "courseTitle": "TEACHING PHYSIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2024",
+      "course": "P BIO 520",
+      "courseTitle": "PHYSIOLOGY SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2024",
+      "course": "P BIO 521",
+      "courseTitle": "BIOPHYSICS SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2024",
+      "course": "P BIO 526",
+      "courseTitle": "RDGS ADV PHYS & BIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2024",
+      "course": "P BIO 545",
+      "courseTitle": "QUANT METH NEUROSCI",
+      "section": "A",
+      "instructor": "Rieke,Fred"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2024",
+      "course": "P BIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2024",
+      "course": "P BIO 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2024",
+      "course": "P BIO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2024",
+      "course": "P BIO 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2024",
+      "course": "P BIO 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2024",
+      "course": "P BIO 508",
+      "courseTitle": "PHYSIOLOGY LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2024",
+      "course": "P BIO 519",
+      "courseTitle": "MEM & MUS BIOPHY SM",
+      "section": "A",
+      "instructor": "Vivas,Oscar"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2024",
+      "course": "P BIO 520",
+      "courseTitle": "PHYSIOLOGY SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2024",
+      "course": "P BIO 521",
+      "courseTitle": "BIOPHYSICS SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2024",
+      "course": "P BIO 527",
+      "courseTitle": "RDGS ADV PHYS & BIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2024",
+      "course": "P BIO 559",
+      "courseTitle": "NEUROBIOL DISEASE",
+      "section": "A",
+      "instructor": "Carroll,Jeff"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2024",
+      "course": "P BIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2024",
+      "course": "P BIO 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2024",
+      "course": "P BIO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2024",
+      "course": "P BIO 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2024",
+      "course": "P BIO 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2024",
+      "course": "P BIO 508",
+      "courseTitle": "PHYSIOLOGY LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2024",
+      "course": "P BIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2024",
+      "course": "P BIO 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2024",
+      "course": "P BIO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2024",
+      "course": "P BIO 375",
+      "courseTitle": "HUMAN PHYSIOLOGY",
+      "section": "A",
+      "instructor": "Melby,Anna"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2024",
+      "course": "P BIO 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2024",
+      "course": "P BIO 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2024",
+      "course": "P BIO 504",
+      "courseTitle": "BIOP NRV MSCL SYN",
+      "section": "A",
+      "instructor": "Sullivan,Jane"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2024",
+      "course": "P BIO 508",
+      "courseTitle": "PHYSIOLOGY LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2024",
+      "course": "P BIO 513",
+      "courseTitle": "TEACHING PHYSIOLOGY",
+      "section": "A",
+      "instructor": "Melby,Anna"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2024",
+      "course": "P BIO 520",
+      "courseTitle": "PHYSIOLOGY SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2024",
+      "course": "P BIO 521",
+      "courseTitle": "BIOPHYSICS SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2024",
+      "course": "P BIO 525",
+      "courseTitle": "RDGS ADV PHYS & BIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2024",
+      "course": "P BIO 540",
+      "courseTitle": "CARDIAC REMODELING",
+      "section": "A",
+      "instructor": "Liu,Qinghang"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2024",
+      "course": "P BIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2024",
+      "course": "P BIO 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2024",
+      "course": "P BIO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2025",
+      "course": "P BIO 376",
+      "courseTitle": "HUMAN PHYSIOLOGY",
+      "section": "A",
+      "instructor": "Melby,Anna"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2025",
+      "course": "P BIO 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2025",
+      "course": "P BIO 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2025",
+      "course": "P BIO 508",
+      "courseTitle": "PHYSIOLOGY LAB",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2025",
+      "course": "P BIO 513",
+      "courseTitle": "TEACHING PHYSIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2025",
+      "course": "P BIO 520",
+      "courseTitle": "PHYSIOLOGY SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2025",
+      "course": "P BIO 521",
+      "courseTitle": "BIOPHYSICS SEMINAR",
+      "section": "A",
+      "instructor": "Fairhall,Adrienne L."
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2025",
+      "course": "P BIO 526",
+      "courseTitle": "RDGS ADV PHYS & BIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2025",
+      "course": "P BIO 545",
+      "courseTitle": "QUANT METH NEUROSCI",
+      "section": "A",
+      "instructor": "Rieke,Fred"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2025",
+      "course": "P BIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2025",
+      "course": "P BIO 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2025",
+      "course": "P BIO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2025",
+      "course": "P BIO 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2025",
+      "course": "P BIO 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2025",
+      "course": "P BIO 508",
+      "courseTitle": "PHYSIOLOGY LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2025",
+      "course": "P BIO 519",
+      "courseTitle": "MEM & MUS BIOPHY SM",
+      "section": "A",
+      "instructor": "Vivas,Oscar"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2025",
+      "course": "P BIO 520",
+      "courseTitle": "PHYSIOLOGY SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2025",
+      "course": "P BIO 521",
+      "courseTitle": "BIOPHYSICS SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2025",
+      "course": "P BIO 527",
+      "courseTitle": "RDGS ADV PHYS & BIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2025",
+      "course": "P BIO 559",
+      "courseTitle": "NEUROBIOL DISEASE",
+      "section": "A",
+      "instructor": "Carroll,Jeff"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2025",
+      "course": "P BIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2025",
+      "course": "P BIO 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2025",
+      "course": "P BIO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2025",
+      "course": "P BIO 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2025",
+      "course": "P BIO 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2025",
+      "course": "P BIO 508",
+      "courseTitle": "PHYSIOLOGY LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2025",
+      "course": "P BIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2025",
+      "course": "P BIO 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SUM2025",
+      "course": "P BIO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2025",
+      "course": "P BIO 375",
+      "courseTitle": "HUMAN PHYSIOLOGY",
+      "section": "A",
+      "instructor": "Melby,Anna"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2025",
+      "course": "P BIO 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2025",
+      "course": "P BIO 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2025",
+      "course": "P BIO 504",
+      "courseTitle": "BIOP NRV MSCL SYN",
+      "section": "A",
+      "instructor": "Sullivan,Jane"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2025",
+      "course": "P BIO 508",
+      "courseTitle": "PHYSIOLOGY LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2025",
+      "course": "P BIO 513",
+      "courseTitle": "TEACHING PHYSIOLOGY",
+      "section": "A",
+      "instructor": "Melby,Anna"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2025",
+      "course": "P BIO 520",
+      "courseTitle": "PHYSIOLOGY SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2025",
+      "course": "P BIO 521",
+      "courseTitle": "BIOPHYSICS SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2025",
+      "course": "P BIO 525",
+      "courseTitle": "RDGS ADV PHYS & BIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2025",
+      "course": "P BIO 540",
+      "courseTitle": "CARDIAC REMODELING",
+      "section": "A",
+      "instructor": "Liu,Qinghang"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2025",
+      "course": "P BIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2025",
+      "course": "P BIO 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "AUT2025",
+      "course": "P BIO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2026",
+      "course": "P BIO 376",
+      "courseTitle": "HUMAN PHYSIOLOGY",
+      "section": "A",
+      "instructor": "Melby,Anna"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2026",
+      "course": "P BIO 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2026",
+      "course": "P BIO 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2026",
+      "course": "P BIO 508",
+      "courseTitle": "PHYSIOLOGY LAB",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2026",
+      "course": "P BIO 513",
+      "courseTitle": "TEACHING PHYSIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2026",
+      "course": "P BIO 520",
+      "courseTitle": "PHYSIOLOGY SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2026",
+      "course": "P BIO 521",
+      "courseTitle": "BIOPHYSICS SEMINAR",
+      "section": "A",
+      "instructor": "Fairhall,Adrienne L."
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2026",
+      "course": "P BIO 526",
+      "courseTitle": "RDGS ADV PHYS & BIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2026",
+      "course": "P BIO 545",
+      "courseTitle": "QUANT MTHD NEUROSCI",
+      "section": "A",
+      "instructor": "Rieke,Fred"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2026",
+      "course": "P BIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2026",
+      "course": "P BIO 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "WIN2026",
+      "course": "P BIO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2026",
+      "course": "P BIO 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2026",
+      "course": "P BIO 508",
+      "courseTitle": "PHYSIOLOGY LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2026",
+      "course": "P BIO 519",
+      "courseTitle": "MEM & MUS BIOPHY SM",
+      "section": "A",
+      "instructor": "Vivas,Oscar"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2026",
+      "course": "P BIO 520",
+      "courseTitle": "PHYSIOLOGY SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2026",
+      "course": "P BIO 521",
+      "courseTitle": "BIOPHYSICS SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2026",
+      "course": "P BIO 527",
+      "courseTitle": "RDGS ADV PHYS & BIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2026",
+      "course": "P BIO 557",
+      "courseTitle": "ION CHANNEL GATING",
+      "section": "A",
+      "instructor": "Zagotta,William N."
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2026",
+      "course": "P BIO 559",
+      "courseTitle": "NEUROBIOL DISEASE",
+      "section": "A",
+      "instructor": "Jayadev,Suman"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2026",
+      "course": "P BIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2026",
+      "course": "P BIO 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "physiolbio",
+      "deptName": "Physiology and Biophysics",
+      "term": "SPR2026",
+      "course": "P BIO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
 }

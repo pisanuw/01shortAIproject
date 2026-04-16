@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "DAME%2CSTEVE",
+  "professor": "DAME,STEVE",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "WIN2026",
+      "course": "CSS 436",
+      "courseTitle": "CLOUD COMPUTING",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "WIN2026",
+      "course": "CSS 430",
+      "courseTitle": "OPERATING SYSTEMS",
+      "section": "C"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "WIN2025",
+      "course": "CSS 430",
+      "courseTitle": "OPERATING SYSTEMS",
+      "section": "A"
+    }
+  ]
+}

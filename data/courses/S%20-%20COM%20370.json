@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20COM%20370",
+  "course": "S - COM 370",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "WIN2026",
+      "course": "COM 370",
+      "courseTitle": "FAMILY COM",
+      "section": "A",
+      "instructor": "Williams,Savaughn Estelle"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "AUT2024",
+      "course": "COM 370",
+      "courseTitle": "FAMILY COM",
+      "section": "A",
+      "instructor": "Williams,Savaughn Estelle"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "AUT2023",
+      "course": "COM 370",
+      "courseTitle": "FAMILY COM",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
+}

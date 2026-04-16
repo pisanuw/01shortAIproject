@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Meyer%2CA",
+  "professor": "Meyer,A",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "norweg",
+      "deptName": "Norwegian",
+      "term": "AUT2021",
+      "course": "NORW 201",
+      "courseTitle": "SECOND-YEAR NORW",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "norweg",
+      "deptName": "Norwegian",
+      "term": "AUT2020",
+      "course": "NORW 201",
+      "courseTitle": "SECOND-YEAR NORW",
+      "section": "A"
+    }
+  ]
+}

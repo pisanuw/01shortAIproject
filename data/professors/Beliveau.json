@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Beliveau",
+  "professor": "Beliveau",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "genome",
+      "deptName": "Genome Sciences",
+      "term": "SPR2025",
+      "course": "GENOME 575",
+      "courseTitle": "FUND BIO INSTRM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "genome",
+      "deptName": "Genome Sciences",
+      "term": "SPR2024",
+      "course": "GENOME 575",
+      "courseTitle": "FUND BIO INSTRM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "genome",
+      "deptName": "Genome Sciences",
+      "term": "SPR2023",
+      "course": "GENOME 575",
+      "courseTitle": "FUND BIO INSTRM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "genome",
+      "deptName": "Genome Sciences",
+      "term": "SPR2022",
+      "course": "GENOME 575",
+      "courseTitle": "FUND BIO INSTRM",
+      "section": "A"
+    }
+  ]
+}

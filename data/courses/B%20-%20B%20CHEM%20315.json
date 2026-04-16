@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:22Z",
+  "id": "B%20-%20B%20CHEM%20315",
+  "course": "B - B CHEM 315",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bchem",
+      "deptName": "Chemistry",
+      "term": "AUT2022",
+      "course": "B CHEM 315",
+      "courseTitle": "QUANT ENV ANALYSIS",
+      "section": "A",
+      "instructor": "Jaffe,Dan"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bchem",
+      "deptName": "Chemistry",
+      "term": "AUT2021",
+      "course": "B CHEM 315",
+      "courseTitle": "QUANT ENV ANALYSIS",
+      "section": "A",
+      "instructor": "Finley,Brandon D"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bchem",
+      "deptName": "Chemistry",
+      "term": "AUT2020",
+      "course": "B CHEM 315",
+      "courseTitle": "QUANT ENV ANALYSIS",
+      "section": "A",
+      "instructor": "Jaffe,Dan"
+    }
+  ]
+}

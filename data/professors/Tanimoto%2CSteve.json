@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Tanimoto%2CSteve",
+  "professor": "Tanimoto,Steve",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "SPR2026",
+      "course": "CSE 590",
+      "courseTitle": "RESEARCH SEMINAR",
+      "section": "K"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "SPR2026",
+      "course": "CSE 415",
+      "courseTitle": "INTRO TO AI",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "AUT2025",
+      "course": "CSE 415",
+      "courseTitle": "INTRO TO AI",
+      "section": "A"
+    }
+  ]
+}

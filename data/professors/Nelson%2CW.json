@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Nelson%2CW",
+  "professor": "Nelson,W",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "medchem",
+      "deptName": "Medicinal Chemistry",
+      "term": "SPR2022",
+      "course": "MEDCH 552",
+      "courseTitle": "COMP PEPTIDE DESIGN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "medchem",
+      "deptName": "Medicinal Chemistry",
+      "term": "SUM2021",
+      "course": "MEDCH 552",
+      "courseTitle": "DRUG ACTION METAB",
+      "section": "A"
+    }
+  ]
+}

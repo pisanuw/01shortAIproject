@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Coupe%2CJames",
+  "professor": "Coupe,James",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "WIN2022",
+      "course": "GEN ST 197",
+      "courseTitle": "FRESHMAN SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dxarts",
+      "deptName": "Digital Arts and Experimental Media",
+      "term": "WIN2022",
+      "course": "DXARTS 500",
+      "courseTitle": "RESEARCH STUDIO",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dxarts",
+      "deptName": "Digital Arts and Experimental Media",
+      "term": "WIN2022",
+      "course": "DXARTS 451",
+      "courseTitle": "EXP VIDEO ART I",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "WIN2021",
+      "course": "GEN ST 197",
+      "courseTitle": "FRESHMAN SEMINAR",
+      "section": "C"
+    }
+  ]
+}

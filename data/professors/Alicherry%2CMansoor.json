@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Alicherry%2CMansoor",
+  "professor": "Alicherry,Mansoor",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "WIN2024",
+      "course": "CSS 422",
+      "courseTitle": "HARDWARE & COMP ORG",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "AUT2022",
+      "course": "CSS 434",
+      "courseTitle": "PARA DISTR COMPUTING",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "AUT2021",
+      "course": "CSS 422",
+      "courseTitle": "HARDWARE & COMP ORG",
+      "section": "B"
+    }
+  ]
+}

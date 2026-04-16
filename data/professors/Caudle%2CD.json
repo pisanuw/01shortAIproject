@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Caudle%2CD",
+  "professor": "Caudle,D",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "WIN2023",
+      "course": "ENGR 202",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "WIN2021",
+      "course": "ENGR 105",
+      "courseTitle": "INTRO ENGR DESIGN",
+      "section": "A"
+    }
+  ]
+}

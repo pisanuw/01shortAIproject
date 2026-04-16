@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Groom%2CJoseph%20Douglas",
+  "professor": "Groom,Joseph Douglas",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbio",
+      "deptName": "Biology",
+      "term": "WIN2022",
+      "course": "B BIO 370",
+      "courseTitle": "MICROBIOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bchem",
+      "deptName": "Chemistry",
+      "term": "AUT2021",
+      "course": "B CHEM 375",
+      "courseTitle": "MOLECULAR BIOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbio",
+      "deptName": "Biology",
+      "term": "AUT2021",
+      "course": "B BIO 375",
+      "courseTitle": "MOLECULAR BIOLOGY",
+      "section": "A"
+    }
+  ]
+}

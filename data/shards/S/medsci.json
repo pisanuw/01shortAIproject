@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:28:00Z",
+  "generatedAt": "2026-04-16T02:57:16Z",
   "campus": "S",
   "dept": "medsci",
   "deptName": "Medical Science",
@@ -11,7 +11,7 @@
       "term": "AUT2020",
       "course": "MEDSCI 500",
       "courseTitle": "RESEARCH METHODS",
-      "section": "C",
+      "section": "A",
       "instructor": "Kestenbaum,Bryan"
     },
     {
@@ -21,8 +21,8 @@
       "term": "AUT2020",
       "course": "MEDSCI 500",
       "courseTitle": "RESEARCH METHODS",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "Kestenbaum,Bryan"
     },
     {
       "campus": "S",
@@ -892,7 +892,7 @@
       "course": "MEDSCI 542",
       "courseTitle": "BLOOD & CANCER",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Keel,Sioban"
     },
     {
       "campus": "S",
@@ -902,7 +902,7 @@
       "course": "MEDSCI 542",
       "courseTitle": "BLOOD & CANCER",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Keel,Sioban"
     },
     {
       "campus": "S",
@@ -1411,7 +1411,7 @@
       "term": "AUT2021",
       "course": "MEDSCI 500",
       "courseTitle": "RESEARCH METHODS",
-      "section": "C",
+      "section": "A",
       "instructor": "Kestenbaum,Bryan"
     },
     {
@@ -1421,8 +1421,8 @@
       "term": "AUT2021",
       "course": "MEDSCI 500",
       "courseTitle": "RESEARCH METHODS",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "Kestenbaum,Bryan"
     },
     {
       "campus": "S",
@@ -1882,7 +1882,7 @@
       "course": "MEDSCI 525",
       "courseTitle": "THEME MED FOUND2",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Young,Bessie A."
     },
     {
       "campus": "S",
@@ -2251,7 +2251,7 @@
       "term": "SUM2022",
       "course": "MEDSCI 500",
       "courseTitle": "FOUNDATION CLIN MED",
-      "section": "C",
+      "section": "A",
       "instructor": "McDonough,Karen A."
     },
     {
@@ -2261,8 +2261,8 @@
       "term": "SUM2022",
       "course": "MEDSCI 500",
       "courseTitle": "FOUNDATION CLIN MED",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "McDonough,Karen A."
     },
     {
       "campus": "S",
@@ -2291,7 +2291,7 @@
       "term": "SUM2022",
       "course": "MEDSCI 510",
       "courseTitle": "FUND MED SCI RES",
-      "section": "C",
+      "section": "A",
       "instructor": "Kullberg,Max P"
     },
     {
@@ -2301,8 +2301,8 @@
       "term": "SUM2022",
       "course": "MEDSCI 510",
       "courseTitle": "FUND MED SCI RES",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "Kullberg,Max P"
     },
     {
       "campus": "S",
@@ -2571,7 +2571,7 @@
       "term": "AUT2022",
       "course": "MEDSCI 502",
       "courseTitle": "FOUNDATION CLIN MED",
-      "section": "C",
+      "section": "A",
       "instructor": "McDonough,Karen A."
     },
     {
@@ -2581,8 +2581,8 @@
       "term": "AUT2022",
       "course": "MEDSCI 502",
       "courseTitle": "FOUNDATION CLIN MED",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "McDonough,Karen A."
     },
     {
       "campus": "S",
@@ -2611,7 +2611,7 @@
       "term": "AUT2022",
       "course": "MEDSCI 508P",
       "courseTitle": "P-FOUNDATN CLIN MED",
-      "section": "C",
+      "section": "A",
       "instructor": "Cawse-Lucas,Jeanne"
     },
     {
@@ -2621,8 +2621,8 @@
       "term": "AUT2022",
       "course": "MEDSCI 508P",
       "courseTitle": "P-FOUNDATN CLIN MED",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "Cawse-Lucas,Jeanne"
     },
     {
       "campus": "S",
@@ -2651,7 +2651,7 @@
       "term": "AUT2022",
       "course": "MEDSCI 530P",
       "courseTitle": "P-INFECT AND IMMUNE",
-      "section": "C",
+      "section": "A",
       "instructor": "Hayward,Kristen"
     },
     {
@@ -2661,8 +2661,8 @@
       "term": "AUT2022",
       "course": "MEDSCI 530P",
       "courseTitle": "P-INFECT AND IMMUNE",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "Hayward,Kristen"
     },
     {
       "campus": "S",
@@ -2702,7 +2702,7 @@
       "course": "MEDSCI 560P",
       "courseTitle": "P-MIND BRAIN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wang,Leo"
     },
     {
       "campus": "S",
@@ -2722,7 +2722,17 @@
       "course": "MEDSCI 565",
       "courseTitle": "THEME MED PC 2",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Segerson,Karen E"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2022",
+      "course": "MEDSCI 570P",
+      "courseTitle": "P-LIFECYCLE",
+      "section": "A",
+      "instructor": "Steiner,Robert"
     },
     {
       "campus": "S",
@@ -2733,16 +2743,6 @@
       "courseTitle": "P-LIFECYCLE",
       "section": "C",
       "instructor": "Steiner,Robert"
-    },
-    {
-      "campus": "S",
-      "dept": "medsci",
-      "deptName": "Medical Science",
-      "term": "AUT2022",
-      "course": "MEDSCI 570P",
-      "courseTitle": "P-LIFECYCLE",
-      "section": "A",
-      "instructor": "TBA"
     },
     {
       "campus": "S",
@@ -2861,7 +2861,7 @@
       "term": "WIN2023",
       "course": "MEDSCI 504P",
       "courseTitle": "P-FOUNDATN CLIN MED",
-      "section": "C",
+      "section": "A",
       "instructor": "McDonough,Karen A."
     },
     {
@@ -2871,8 +2871,8 @@
       "term": "WIN2023",
       "course": "MEDSCI 504P",
       "courseTitle": "P-FOUNDATN CLIN MED",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "McDonough,Karen A."
     },
     {
       "campus": "S",
@@ -2882,7 +2882,7 @@
       "course": "MEDSCI 523P",
       "courseTitle": "P-MED HEALTH SOC I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Young,Bessie A."
     },
     {
       "campus": "S",
@@ -2893,6 +2893,16 @@
       "courseTitle": "P-MED HEALTH SOC I",
       "section": "C",
       "instructor": "Young,Bessie A."
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "WIN2023",
+      "course": "MEDSCI 540P",
+      "courseTitle": "P-MUSC JNT BONE SKIN",
+      "section": "A",
+      "instructor": "Krabak,Brian J"
     },
     {
       "campus": "S",
@@ -2919,10 +2929,10 @@
       "dept": "medsci",
       "deptName": "Medical Science",
       "term": "WIN2023",
-      "course": "MEDSCI 540P",
-      "courseTitle": "P-MUSC JNT BONE SKIN",
+      "course": "MEDSCI 550P",
+      "courseTitle": "P-CARDIO SYSTEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Savla,Jainy Jayantilal"
     },
     {
       "campus": "S",
@@ -2933,16 +2943,6 @@
       "courseTitle": "P-CARDIO SYSTEM",
       "section": "C",
       "instructor": "Savla,Jainy Jayantilal"
-    },
-    {
-      "campus": "S",
-      "dept": "medsci",
-      "deptName": "Medical Science",
-      "term": "WIN2023",
-      "course": "MEDSCI 550P",
-      "courseTitle": "P-CARDIO SYSTEM",
-      "section": "A",
-      "instructor": "TBA"
     },
     {
       "campus": "S",
@@ -3108,11 +3108,141 @@
       "campus": "S",
       "dept": "medsci",
       "deptName": "Medical Science",
-      "term": "SUM2023",
-      "course": "MEDSCI 500P",
+      "term": "SPR2023",
+      "course": "MEDSCI 506P",
+      "courseTitle": "P-FOUNDATN CLIN MED",
+      "section": "A",
+      "instructor": "McDonough,Karen A."
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "SPR2023",
+      "course": "MEDSCI 506P",
       "courseTitle": "P-FOUNDATN CLIN MED",
       "section": "C",
       "instructor": "McDonough,Karen A."
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "SPR2023",
+      "course": "MEDSCI 553P",
+      "courseTitle": "P-RESPIRATE REGULATE",
+      "section": "C",
+      "instructor": "Luks,Andrew M"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "SPR2023",
+      "course": "MEDSCI 553P",
+      "courseTitle": "P-RESPIRATE REGULATE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "SPR2023",
+      "course": "MEDSCI 556P",
+      "courseTitle": "P-HEAD NECK GUT",
+      "section": "C",
+      "instructor": "Silverstein,Bruce D."
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "SPR2023",
+      "course": "MEDSCI 556P",
+      "courseTitle": "P-HEAD NECK GUT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "SPR2023",
+      "course": "MEDSCI 582P",
+      "courseTitle": "P-CONSOLIDATION",
+      "section": "A",
+      "instructor": "Kiefer,Meghan M"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "SPR2023",
+      "course": "MEDSCI 583P",
+      "courseTitle": "P-TRANSITION CLERK",
+      "section": "A",
+      "instructor": "Kiefer,Meghan M"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "SPR2023",
+      "course": "MEDSCI 587P",
+      "courseTitle": "P-IND STDY THEME MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "SPR2023",
+      "course": "MEDSCI 597P",
+      "courseTitle": "P-USMLE 1 IND STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "SPR2023",
+      "course": "MEDSCI 598P",
+      "courseTitle": "P-USMLE 2 IND STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "SPR2023",
+      "course": "MEDSCI 599P",
+      "courseTitle": "P-IND STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "SPR2023",
+      "course": "MEDSCI 600P",
+      "courseTitle": "P-TRANS TO RESIDENCY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "SPR2023",
+      "course": "MEDSCI 699",
+      "courseTitle": "CLINICAL INDEP STUDY",
+      "section": "A",
+      "instructor": "TBA"
     },
     {
       "campus": "S",
@@ -3122,7 +3252,17 @@
       "course": "MEDSCI 500P",
       "courseTitle": "P-FOUNDATN CLIN MED",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McDonough,Karen A."
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "SUM2023",
+      "course": "MEDSCI 500P",
+      "courseTitle": "P-FOUNDATN CLIN MED",
+      "section": "C",
+      "instructor": "McDonough,Karen A."
     },
     {
       "campus": "S",
@@ -3162,7 +3302,7 @@
       "course": "MEDSCI 510P",
       "courseTitle": "P-FUND MED SCI RES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wisse,Brent"
     },
     {
       "campus": "S",
@@ -3202,7 +3342,7 @@
       "course": "MEDSCI 524P",
       "courseTitle": "P-MED HEALTH SOC II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Young,Bessie A."
     },
     {
       "campus": "S",
@@ -3418,6 +3558,226 @@
       "campus": "S",
       "dept": "medsci",
       "deptName": "Medical Science",
+      "term": "AUT2023",
+      "course": "MEDSCI 502P",
+      "courseTitle": "P-FOUNDATN CLIN MED",
+      "section": "A",
+      "instructor": "McDonough,Karen A."
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2023",
+      "course": "MEDSCI 502P",
+      "courseTitle": "P-FOUNDATN CLIN MED",
+      "section": "C",
+      "instructor": "McDonough,Karen A."
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2023",
+      "course": "MEDSCI 503P",
+      "courseTitle": "P-IND INVST INQ FNL",
+      "section": "C",
+      "instructor": "Sprenger,Cynthia"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2023",
+      "course": "MEDSCI 503P",
+      "courseTitle": "P-IND INVST INQ FNL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2023",
+      "course": "MEDSCI 508P",
+      "courseTitle": "P-FOUNDATN CLIN MED",
+      "section": "A",
+      "instructor": "Cawse-Lucas,Jeanne"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2023",
+      "course": "MEDSCI 508P",
+      "courseTitle": "P-FOUNDATN CLIN MED",
+      "section": "C",
+      "instructor": "Cawse-Lucas,Jeanne"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2023",
+      "course": "MEDSCI 520P",
+      "courseTitle": "P-CANCER HORMONE BLD",
+      "section": "C",
+      "instructor": "Hunter,Natasha"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2023",
+      "course": "MEDSCI 520P",
+      "courseTitle": "P-CANCER HORMONE BLD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2023",
+      "course": "MEDSCI 530P",
+      "courseTitle": "P-INFECT AND IMMUNE",
+      "section": "A",
+      "instructor": "Hayward,Kristen"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2023",
+      "course": "MEDSCI 530P",
+      "courseTitle": "P-INFECT AND IMMUNE",
+      "section": "C",
+      "instructor": "Hayward,Kristen"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2023",
+      "course": "MEDSCI 560P",
+      "courseTitle": "P-MIND BRAIN BEHAV",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2023",
+      "course": "MEDSCI 560P",
+      "courseTitle": "P-MIND BRAIN BEHAV",
+      "section": "C",
+      "instructor": "Wang,Leo"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2023",
+      "course": "MEDSCI 570P",
+      "courseTitle": "P-LIFECYCLE",
+      "section": "A",
+      "instructor": "Steiner,Robert"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2023",
+      "course": "MEDSCI 570P",
+      "courseTitle": "P-LIFECYCLE",
+      "section": "C",
+      "instructor": "Steiner,Robert"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2023",
+      "course": "MEDSCI 584P",
+      "courseTitle": "P-FCM IND STDY REM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2023",
+      "course": "MEDSCI 587P",
+      "courseTitle": "P-IND STDY THEME MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2023",
+      "course": "MEDSCI 597P",
+      "courseTitle": "P-USMLE 1 IND STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2023",
+      "course": "MEDSCI 598P",
+      "courseTitle": "P-USMLE 2 IND STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2023",
+      "course": "MEDSCI 599P",
+      "courseTitle": "P-IND STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2023",
+      "course": "MEDSCI 600P",
+      "courseTitle": "P-TRANS TO RESIDENCY",
+      "section": "A",
+      "instructor": "Pagalilauan,Genevieve L."
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2023",
+      "course": "MEDSCI 626",
+      "courseTitle": "FNDNS SCLSHP DISC",
+      "section": "A",
+      "instructor": "McDonough,Karen A."
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2023",
+      "course": "MEDSCI 699",
+      "courseTitle": "CLINICAL INDEP STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
       "term": "WIN2024",
       "course": "MEDSCI 501P",
       "courseTitle": "P-IND INV INQ",
@@ -3441,7 +3801,7 @@
       "term": "WIN2024",
       "course": "MEDSCI 504P",
       "courseTitle": "P-FOUNDATN CLIN MED",
-      "section": "C",
+      "section": "A",
       "instructor": "McDonough,Karen A."
     },
     {
@@ -3451,8 +3811,8 @@
       "term": "WIN2024",
       "course": "MEDSCI 504P",
       "courseTitle": "P-FOUNDATN CLIN MED",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "McDonough,Karen A."
     },
     {
       "campus": "S",
@@ -3462,7 +3822,7 @@
       "course": "MEDSCI 523P",
       "courseTitle": "P-MED HEALTH SOC I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Young,Bessie A."
     },
     {
       "campus": "S",
@@ -3481,7 +3841,7 @@
       "term": "WIN2024",
       "course": "MEDSCI 540P",
       "courseTitle": "P-MUSC JNT BONE SKIN",
-      "section": "C",
+      "section": "A",
       "instructor": "Krabak,Brian J"
     },
     {
@@ -3491,8 +3851,18 @@
       "term": "WIN2024",
       "course": "MEDSCI 540P",
       "courseTitle": "P-MUSC JNT BONE SKIN",
+      "section": "C",
+      "instructor": "Krabak,Brian J"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "WIN2024",
+      "course": "MEDSCI 550P",
+      "courseTitle": "P-CARDIO SYSTEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Farris,Stephen"
     },
     {
       "campus": "S",
@@ -3503,16 +3873,6 @@
       "courseTitle": "P-CARDIO SYSTEM",
       "section": "C",
       "instructor": "Farris,Stephen"
-    },
-    {
-      "campus": "S",
-      "dept": "medsci",
-      "deptName": "Medical Science",
-      "term": "WIN2024",
-      "course": "MEDSCI 550P",
-      "courseTitle": "P-CARDIO SYSTEM",
-      "section": "A",
-      "instructor": "TBA"
     },
     {
       "campus": "S",
@@ -3681,7 +4041,7 @@
       "term": "SPR2024",
       "course": "MEDSCI 506P",
       "courseTitle": "P-FOUNDATN CLIN MED",
-      "section": "C",
+      "section": "A",
       "instructor": "McDonough,Karen A."
     },
     {
@@ -3691,8 +4051,8 @@
       "term": "SPR2024",
       "course": "MEDSCI 506P",
       "courseTitle": "P-FOUNDATN CLIN MED",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "McDonough,Karen A."
     },
     {
       "campus": "S",
@@ -3821,7 +4181,7 @@
       "term": "SUM2024",
       "course": "MEDSCI 500P",
       "courseTitle": "P-FOUNDATN CLIN MED",
-      "section": "C",
+      "section": "A",
       "instructor": "McDonough,Karen A."
     },
     {
@@ -3831,8 +4191,8 @@
       "term": "SUM2024",
       "course": "MEDSCI 500P",
       "courseTitle": "P-FOUNDATN CLIN MED",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "McDonough,Karen A."
     },
     {
       "campus": "S",
@@ -3872,7 +4232,7 @@
       "course": "MEDSCI 510P",
       "courseTitle": "P-FUND MED SCI RES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wisse,Brent"
     },
     {
       "campus": "S",
@@ -3912,7 +4272,7 @@
       "course": "MEDSCI 524P",
       "courseTitle": "P-MED HEALTH SOC II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Young,Bessie A."
     },
     {
       "campus": "S",
@@ -4131,7 +4491,7 @@
       "term": "AUT2024",
       "course": "MEDSCI 502P",
       "courseTitle": "P-FOUNDATN CLIN MED",
-      "section": "C",
+      "section": "A",
       "instructor": "McDonough,Karen A."
     },
     {
@@ -4141,8 +4501,8 @@
       "term": "AUT2024",
       "course": "MEDSCI 502P",
       "courseTitle": "P-FOUNDATN CLIN MED",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "McDonough,Karen A."
     },
     {
       "campus": "S",
@@ -4171,7 +4531,7 @@
       "term": "AUT2024",
       "course": "MEDSCI 508P",
       "courseTitle": "P-FOUNDATN CLIN MED",
-      "section": "C",
+      "section": "A",
       "instructor": "Cawse-Lucas,Jeanne"
     },
     {
@@ -4181,8 +4541,18 @@
       "term": "AUT2024",
       "course": "MEDSCI 508P",
       "courseTitle": "P-FOUNDATN CLIN MED",
+      "section": "C",
+      "instructor": "Cawse-Lucas,Jeanne"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2024",
+      "course": "MEDSCI 516P",
+      "courseTitle": "P-INTEGRATION I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McDonough,Karen A."
     },
     {
       "campus": "S",
@@ -4193,16 +4563,6 @@
       "courseTitle": "P-INTEGRATION I",
       "section": "C",
       "instructor": "McDonough,Karen A."
-    },
-    {
-      "campus": "S",
-      "dept": "medsci",
-      "deptName": "Medical Science",
-      "term": "AUT2024",
-      "course": "MEDSCI 516P",
-      "courseTitle": "P-INTEGRATION I",
-      "section": "A",
-      "instructor": "TBA"
     },
     {
       "campus": "S",
@@ -4231,7 +4591,7 @@
       "term": "AUT2024",
       "course": "MEDSCI 530P",
       "courseTitle": "P-INFECT AND IMMUNE",
-      "section": "C",
+      "section": "A",
       "instructor": "Hayward,Kristen"
     },
     {
@@ -4241,8 +4601,8 @@
       "term": "AUT2024",
       "course": "MEDSCI 530P",
       "courseTitle": "P-INFECT AND IMMUNE",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "Hayward,Kristen"
     },
     {
       "campus": "S",
@@ -4271,7 +4631,7 @@
       "term": "AUT2024",
       "course": "MEDSCI 570P",
       "courseTitle": "P-REPRO & DEV",
-      "section": "C",
+      "section": "A",
       "instructor": "Stephenson-Famy,Alyssa"
     },
     {
@@ -4281,8 +4641,8 @@
       "term": "AUT2024",
       "course": "MEDSCI 570P",
       "courseTitle": "P-REPRO & DEV",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "Stephenson-Famy,Alyssa"
     },
     {
       "campus": "S",
@@ -4381,7 +4741,7 @@
       "term": "WIN2025",
       "course": "MEDSCI 504P",
       "courseTitle": "P-FOUNDATN CLIN MED",
-      "section": "C",
+      "section": "A",
       "instructor": "McDonough,Karen A."
     },
     {
@@ -4391,8 +4751,18 @@
       "term": "WIN2025",
       "course": "MEDSCI 504P",
       "courseTitle": "P-FOUNDATN CLIN MED",
+      "section": "C",
+      "instructor": "McDonough,Karen A."
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "WIN2025",
+      "course": "MEDSCI 523P",
+      "courseTitle": "P-MED HEALTH SOC I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gerrish,Sarah Galinato"
     },
     {
       "campus": "S",
@@ -4409,10 +4779,10 @@
       "dept": "medsci",
       "deptName": "Medical Science",
       "term": "WIN2025",
-      "course": "MEDSCI 523P",
-      "courseTitle": "P-MED HEALTH SOC I",
+      "course": "MEDSCI 540P",
+      "courseTitle": "P-MUSC JNT BONE SKIN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Krabak,Brian J"
     },
     {
       "campus": "S",
@@ -4423,16 +4793,6 @@
       "courseTitle": "P-MUSC JNT BONE SKIN",
       "section": "C",
       "instructor": "Krabak,Brian J"
-    },
-    {
-      "campus": "S",
-      "dept": "medsci",
-      "deptName": "Medical Science",
-      "term": "WIN2025",
-      "course": "MEDSCI 540P",
-      "courseTitle": "P-MUSC JNT BONE SKIN",
-      "section": "A",
-      "instructor": "TBA"
     },
     {
       "campus": "S",
@@ -4621,7 +4981,7 @@
       "term": "SPR2025",
       "course": "MEDSCI 506P",
       "courseTitle": "P-FOUNDATN CLIN MED",
-      "section": "C",
+      "section": "A",
       "instructor": "McDonough,Karen A."
     },
     {
@@ -4631,8 +4991,8 @@
       "term": "SPR2025",
       "course": "MEDSCI 506P",
       "courseTitle": "P-FOUNDATN CLIN MED",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "McDonough,Karen A."
     },
     {
       "campus": "S",
@@ -4801,7 +5161,7 @@
       "term": "SUM2025",
       "course": "MEDSCI 500P",
       "courseTitle": "P-FOUNDATN CLIN MED",
-      "section": "C",
+      "section": "A",
       "instructor": "McDonough,Karen A."
     },
     {
@@ -4811,8 +5171,8 @@
       "term": "SUM2025",
       "course": "MEDSCI 500P",
       "courseTitle": "P-FOUNDATN CLIN MED",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "McDonough,Karen A."
     },
     {
       "campus": "S",
@@ -4852,7 +5212,7 @@
       "course": "MEDSCI 510P",
       "courseTitle": "P-FUND MED SCI RES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wisse,Brent"
     },
     {
       "campus": "S",
@@ -5112,7 +5472,7 @@
       "course": "MEDSCI 502P",
       "courseTitle": "P-FOUNDATN CLIN MED",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McDonough,Karen A."
     },
     {
       "campus": "S",
@@ -5122,7 +5482,17 @@
       "course": "MEDSCI 502P",
       "courseTitle": "P-FOUNDATN CLIN MED",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "McDonough,Karen A."
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2025",
+      "course": "MEDSCI 503P",
+      "courseTitle": "P-IND INVST INQ FNL",
+      "section": "C",
+      "instructor": "Sprenger,Cynthia"
     },
     {
       "campus": "S",
@@ -5139,20 +5509,10 @@
       "dept": "medsci",
       "deptName": "Medical Science",
       "term": "AUT2025",
-      "course": "MEDSCI 503P",
-      "courseTitle": "P-IND INVST INQ FNL",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "medsci",
-      "deptName": "Medical Science",
-      "term": "AUT2025",
       "course": "MEDSCI 508P",
       "courseTitle": "P-FOUNDATN CLIN MED",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McDonough,Karen A."
     },
     {
       "campus": "S",
@@ -5162,7 +5522,17 @@
       "course": "MEDSCI 508P",
       "courseTitle": "P-FOUNDATN CLIN MED",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "McDonough,Karen A."
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2025",
+      "course": "MEDSCI 516P",
+      "courseTitle": "P-INTEGRATION I",
+      "section": "C",
+      "instructor": "McDonough,Karen A."
     },
     {
       "campus": "S",
@@ -5179,10 +5549,10 @@
       "dept": "medsci",
       "deptName": "Medical Science",
       "term": "AUT2025",
-      "course": "MEDSCI 516P",
-      "courseTitle": "P-INTEGRATION I",
+      "course": "MEDSCI 518P",
+      "courseTitle": "P-INTEGRATION III",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "McDonough,Karen A."
     },
     {
       "campus": "S",
@@ -5199,10 +5569,10 @@
       "dept": "medsci",
       "deptName": "Medical Science",
       "term": "AUT2025",
-      "course": "MEDSCI 518P",
-      "courseTitle": "P-INTEGRATION III",
+      "course": "MEDSCI 520P",
+      "courseTitle": "P-CANCER HORMONE BLD",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Burwick,Nicholas"
     },
     {
       "campus": "S",
@@ -5219,20 +5589,10 @@
       "dept": "medsci",
       "deptName": "Medical Science",
       "term": "AUT2025",
-      "course": "MEDSCI 520P",
-      "courseTitle": "P-CANCER HORMONE BLD",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "medsci",
-      "deptName": "Medical Science",
-      "term": "AUT2025",
       "course": "MEDSCI 530P",
       "courseTitle": "P-INFECT AND IMMUNE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hayward,Kristen"
     },
     {
       "campus": "S",
@@ -5242,7 +5602,7 @@
       "course": "MEDSCI 530P",
       "courseTitle": "P-INFECT AND IMMUNE",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Hayward,Kristen"
     },
     {
       "campus": "S",
@@ -5262,17 +5622,7 @@
       "course": "MEDSCI 560P",
       "courseTitle": "P-MIND BRAIN BEHAV",
       "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "medsci",
-      "deptName": "Medical Science",
-      "term": "AUT2025",
-      "course": "MEDSCI 570P",
-      "courseTitle": "P-REPRO & DEV",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wang,Leo"
     },
     {
       "campus": "S",
@@ -5282,6 +5632,16 @@
       "course": "MEDSCI 570P",
       "courseTitle": "P-REPRO & DEV",
       "section": "C",
+      "instructor": "Stephenson-Famy,Alyssa"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2025",
+      "course": "MEDSCI 570P",
+      "courseTitle": "P-REPRO & DEV",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -5342,7 +5702,7 @@
       "course": "MEDSCI 626",
       "courseTitle": "FNDNS SCLSHP DISC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McDonough,Karen A."
     },
     {
       "campus": "S",
@@ -5362,7 +5722,7 @@
       "course": "MEDSCI 501P",
       "courseTitle": "P-IND INV INQ",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sprenger,Cynthia"
     },
     {
       "campus": "S",
@@ -5372,7 +5732,7 @@
       "course": "MEDSCI 503P",
       "courseTitle": "P-IND INVST INQ FNL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sprenger,Cynthia"
     },
     {
       "campus": "S",
@@ -5382,7 +5742,7 @@
       "course": "MEDSCI 504P",
       "courseTitle": "P-FOUNDATN CLIN MED",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McDonough,Karen A."
     },
     {
       "campus": "S",
@@ -5392,7 +5752,7 @@
       "course": "MEDSCI 504P",
       "courseTitle": "P-FOUNDATN CLIN MED",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "McDonough,Karen A."
     },
     {
       "campus": "S",
@@ -5422,7 +5782,7 @@
       "course": "MEDSCI 523P",
       "courseTitle": "P-MED HEALTH SOC I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gerrish,Sarah Galinato"
     },
     {
       "campus": "S",
@@ -5432,7 +5792,7 @@
       "course": "MEDSCI 523P",
       "courseTitle": "P-MED HEALTH SOC I",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Gerrish,Sarah Galinato"
     },
     {
       "campus": "S",
@@ -5451,8 +5811,8 @@
       "term": "WIN2026",
       "course": "MEDSCI 540P",
       "courseTitle": "P-MUSC JNT BONE SKIN",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "Krabak,Brian J"
     },
     {
       "campus": "S",
@@ -5461,16 +5821,6 @@
       "term": "WIN2026",
       "course": "MEDSCI 540P",
       "courseTitle": "P-MUSC JNT BONE SKIN",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "medsci",
-      "deptName": "Medical Science",
-      "term": "WIN2026",
-      "course": "MEDSCI 550P",
-      "courseTitle": "P-CARDIO SYSTEM",
       "section": "A",
       "instructor": "TBA"
     },
@@ -5482,6 +5832,16 @@
       "course": "MEDSCI 550P",
       "courseTitle": "P-CARDIO SYSTEM",
       "section": "C",
+      "instructor": "Farris,Stephen"
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "WIN2026",
+      "course": "MEDSCI 550P",
+      "courseTitle": "P-CARDIO SYSTEM",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -5512,7 +5872,7 @@
       "course": "MEDSCI 582P",
       "courseTitle": "P-CONSOLIDATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kiefer,Meghan M"
     },
     {
       "campus": "S",
@@ -5522,7 +5882,7 @@
       "course": "MEDSCI 583P",
       "courseTitle": "P-TRANSITION CLERK",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kiefer,Meghan M"
     },
     {
       "campus": "S",
@@ -5612,7 +5972,7 @@
       "course": "MEDSCI 626",
       "courseTitle": "FNDNS SCLSHP DISC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McDonough,Karen A."
     },
     {
       "campus": "S",
@@ -5632,7 +5992,7 @@
       "course": "MEDSCI 506P",
       "courseTitle": "P-FOUNDATN CLIN MED",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McDonough,Karen A."
     },
     {
       "campus": "S",
@@ -5642,17 +6002,7 @@
       "course": "MEDSCI 506P",
       "courseTitle": "P-FOUNDATN CLIN MED",
       "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "medsci",
-      "deptName": "Medical Science",
-      "term": "SPR2026",
-      "course": "MEDSCI 517P",
-      "courseTitle": "P-INTEGRATION II",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "McDonough,Karen A."
     },
     {
       "campus": "S",
@@ -5662,6 +6012,16 @@
       "course": "MEDSCI 517P",
       "courseTitle": "P-INTEGRATION II",
       "section": "C",
+      "instructor": "McDonough,Karen A."
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "SPR2026",
+      "course": "MEDSCI 517P",
+      "courseTitle": "P-INTEGRATION II",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -5681,8 +6041,8 @@
       "term": "SPR2026",
       "course": "MEDSCI 553P",
       "courseTitle": "P-RESPIRATE REGULATE",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "Luks,Andrew M"
     },
     {
       "campus": "S",
@@ -5691,16 +6051,6 @@
       "term": "SPR2026",
       "course": "MEDSCI 553P",
       "courseTitle": "P-RESPIRATE REGULATE",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "medsci",
-      "deptName": "Medical Science",
-      "term": "SPR2026",
-      "course": "MEDSCI 556P",
-      "courseTitle": "P-HEAD NECK GUT",
       "section": "A",
       "instructor": "TBA"
     },
@@ -5712,6 +6062,16 @@
       "course": "MEDSCI 556P",
       "courseTitle": "P-HEAD NECK GUT",
       "section": "C",
+      "instructor": "Silverstein,Bruce D."
+    },
+    {
+      "campus": "S",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "SPR2026",
+      "course": "MEDSCI 556P",
+      "courseTitle": "P-HEAD NECK GUT",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -5722,7 +6082,7 @@
       "course": "MEDSCI 582P",
       "courseTitle": "P-CONSOLIDATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kiefer,Meghan M"
     },
     {
       "campus": "S",
@@ -5732,7 +6092,7 @@
       "course": "MEDSCI 583P",
       "courseTitle": "P-TRANSITION CLERK",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kiefer,Meghan M"
     },
     {
       "campus": "S",
@@ -5782,7 +6142,7 @@
       "course": "MEDSCI 626",
       "courseTitle": "FNDNS SCLSHP DISC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McDonough,Karen A."
     },
     {
       "campus": "S",
@@ -5792,7 +6152,7 @@
       "course": "MEDSCI 626",
       "courseTitle": "FNDNS SCLSHP DISC",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "McDonough,Karen A."
     },
     {
       "campus": "S",

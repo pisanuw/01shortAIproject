@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20ECON%20481",
+  "course": "S - ECON 481",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2026",
+      "course": "ECON 481",
+      "courseTitle": "DATA SCI FOR ECON",
+      "section": "A",
+      "instructor": "Eisenhauer,Philipp"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2024",
+      "course": "ECON 481",
+      "courseTitle": "DATA SCI FOR ECON",
+      "section": "A",
+      "instructor": "Hager,Lukas"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2022",
+      "course": "ECON 481",
+      "courseTitle": "DATA SCI FOR ECON",
+      "section": "A",
+      "instructor": "Erickson,Philip J"
+    }
+  ]
+}

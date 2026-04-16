@@ -1,0 +1,68 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Bumgarner%2CRoger",
+  "professor": "Bumgarner,Roger",
+  "recordCount": 6,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 435",
+      "courseTitle": "MICROBIAL ECOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 301",
+      "courseTitle": "GEN MICROBIOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "envh",
+      "deptName": "Environmental Health",
+      "term": "SPR2023",
+      "course": "ENV H 509",
+      "courseTitle": "MICROBIOME&ENV HLTH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "envh",
+      "deptName": "Environmental Health",
+      "term": "SPR2023",
+      "course": "ENV H 409",
+      "courseTitle": "MICROBIOME&ENV HLTH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 301",
+      "courseTitle": "GEN MICROBIOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "envh",
+      "deptName": "Environmental Health",
+      "term": "SPR2022",
+      "course": "ENV H 409",
+      "courseTitle": "MICROBIOME&ENV HLTH",
+      "section": "A"
+    }
+  ]
+}

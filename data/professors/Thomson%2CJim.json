@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Thomson%2CJim",
+  "professor": "Thomson,Jim",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cewa",
+      "deptName": "Environmental Engineering",
+      "term": "SPR2022",
+      "course": "CEWA 590",
+      "courseTitle": "FIELD MEAS HYDRO",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cewa",
+      "deptName": "Environmental Engineering",
+      "term": "SPR2021",
+      "course": "CEWA 573",
+      "courseTitle": "COAST WAVES FOR ENG",
+      "section": "A"
+    }
+  ]
+}

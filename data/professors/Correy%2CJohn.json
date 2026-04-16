@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Correy%2CJohn",
+  "professor": "Correy,John",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2025",
+      "course": "A A 320",
+      "courseTitle": "AEROSPACE INSTR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2025",
+      "course": "A A 210",
+      "courseTitle": "ENGR STATICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ess",
+      "deptName": "Earth and Space Sciences",
+      "term": "WIN2021",
+      "course": "ESS 472",
+      "courseTitle": "ROCKETS & INSTRUMNT",
+      "section": "A"
+    }
+  ]
+}

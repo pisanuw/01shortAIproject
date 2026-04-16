@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Boers%2CG",
+  "professor": "Boers,G",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "musensem",
+      "deptName": "Music Ensemble",
+      "term": "AUT2022",
+      "course": "MUSEN 201",
+      "courseTitle": "UW TREBLE CHORUS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "musensem",
+      "deptName": "Music Ensemble",
+      "term": "AUT2022",
+      "course": "MUSEN 200",
+      "courseTitle": "UW GLEE CLUB",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "musensem",
+      "deptName": "Music Ensemble",
+      "term": "AUT2022",
+      "course": "MUSEN 100",
+      "courseTitle": "UNIVERSITY SINGERS",
+      "section": "A"
+    }
+  ]
+}

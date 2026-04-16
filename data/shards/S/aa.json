@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:59Z",
+  "generatedAt": "2026-04-16T02:57:14Z",
   "campus": "S",
   "dept": "aa",
   "deptName": "Aeronautics and Astronautics",
@@ -12,7 +12,7 @@
       "course": "A A 210",
       "courseTitle": "ENGR STATICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hurlen,Erik"
     },
     {
       "campus": "S",
@@ -312,7 +312,7 @@
       "course": "A A 598",
       "courseTitle": "SPECIAL TOPICS",
       "section": "E",
-      "instructor": "Hacker,Danyel"
+      "instructor": "D Hacker,Danyel"
     },
     {
       "campus": "S",
@@ -372,7 +372,7 @@
       "course": "A A 210",
       "courseTitle": "ENGR STATICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hurlen,Erik"
     },
     {
       "campus": "S",
@@ -718,6 +718,316 @@
       "campus": "S",
       "dept": "aa",
       "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 210",
+      "courseTitle": "ENGR STATICS",
+      "section": "A",
+      "instructor": "Dabiri,Dana"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 260",
+      "courseTitle": "THERMODYNAMICS",
+      "section": "A",
+      "instructor": "Hermanson,Jim"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 301",
+      "courseTitle": "COMP AERODYNAMICS",
+      "section": "A",
+      "instructor": "Kurosaka,Mitsuru"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 322",
+      "courseTitle": "AEROSPACE LAB II",
+      "section": "A",
+      "instructor": "Hurlen,Erik"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 332",
+      "courseTitle": "AEROSPACE STRUCT II",
+      "section": "A",
+      "instructor": "Salviato,Marco"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 411",
+      "courseTitle": "AIRCRAFT DESIGN II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 421",
+      "courseTitle": "SPACE SYS DESIGN II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 447",
+      "courseTitle": "CONT IN AEROSP",
+      "section": "A",
+      "instructor": "Calderone,Daniel"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 490",
+      "courseTitle": "SPACE LAW & POLICY",
+      "section": "A",
+      "instructor": "Pekkanen,Saadia M."
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 501",
+      "courseTitle": "ADV GAS DYNAMICS",
+      "section": "A",
+      "instructor": "Kurosaka,Mitsuru"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 508",
+      "courseTitle": "TURBULENCE",
+      "section": "A",
+      "instructor": "Breidenthal,Robert E"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 529",
+      "courseTitle": "SPACE PROPULSION",
+      "section": "A",
+      "instructor": "Little,Justin M"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 535",
+      "courseTitle": "ADV COMPOSITE STRUC",
+      "section": "A",
+      "instructor": "Deleo,Francesco"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 545",
+      "courseTitle": "COMP MTHDS PLASMAS",
+      "section": "A",
+      "instructor": "Shumlak,Uri"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 548",
+      "courseTitle": "LIN MULTVAR CONTROL",
+      "section": "A",
+      "instructor": "Burden,Sam A"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 549",
+      "courseTitle": "ST EST & KALMAN FLTR",
+      "section": "A",
+      "instructor": "Calderone,Daniel"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 559",
+      "courseTitle": "PLASMA SCIENCE SMNR",
+      "section": "A",
+      "instructor": "Little,Justin M"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 581",
+      "courseTitle": "DIGITAL CONTROL SYS",
+      "section": "A",
+      "instructor": "Fuller,Sawyer Buckminster"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 590",
+      "courseTitle": "SPACE LAW & POLICY",
+      "section": "A",
+      "instructor": "Pekkanen,Saadia M."
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 599",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 599",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
       "term": "SUM2021",
       "course": "A A 210",
       "courseTitle": "ENGR STATICS",
@@ -842,7 +1152,7 @@
       "course": "A A 210",
       "courseTitle": "ENGR STATICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hurlen,Erik"
     },
     {
       "campus": "S",
@@ -1232,7 +1542,7 @@
       "course": "A A 210",
       "courseTitle": "ENGR STATICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hurlen,Erik"
     },
     {
       "campus": "S",
@@ -1322,7 +1632,7 @@
       "course": "A A 331",
       "courseTitle": "AEROSPACE STRUCT I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Habtour,Ed"
     },
     {
       "campus": "S",
@@ -1612,7 +1922,7 @@
       "course": "A A 210",
       "courseTitle": "ENGR STATICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Calderone,Daniel"
     },
     {
       "campus": "S",
@@ -1622,7 +1932,7 @@
       "course": "A A 260",
       "courseTitle": "THERMODYNAMICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Knowlen,Carl"
     },
     {
       "campus": "S",
@@ -2042,7 +2352,7 @@
       "course": "A A 210",
       "courseTitle": "ENGR STATICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hurlen,Erik"
     },
     {
       "campus": "S",
@@ -2422,7 +2732,7 @@
       "course": "A A 210",
       "courseTitle": "ENGR STATICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hurlen,Erik"
     },
     {
       "campus": "S",
@@ -2672,7 +2982,7 @@
       "course": "A A 528",
       "courseTitle": "SPACE DYN & CONTROL",
       "section": "A",
-      "instructor": "Mesbahi,Mehran"
+      "instructor": "A Mesbahi,Mehran"
     },
     {
       "campus": "S",
@@ -2819,6 +3129,386 @@
       "dept": "aa",
       "deptName": "Aeronautics and Astronautics",
       "term": "WIN2023",
+      "course": "A A 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 210",
+      "courseTitle": "ENGR STATICS",
+      "section": "A",
+      "instructor": "Hurlen,Erik"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 260",
+      "courseTitle": "THERMODYNAMICS",
+      "section": "A",
+      "instructor": "Hurlen,Erik"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 301",
+      "courseTitle": "COMP AERODYNAMICS",
+      "section": "A",
+      "instructor": "Dabiri,Dana"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 322",
+      "courseTitle": "AEROSPACE LAB II",
+      "section": "A",
+      "instructor": "Saenz Otero,Alvar"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 332",
+      "courseTitle": "AEROSPACE STRUCT II",
+      "section": "A",
+      "instructor": "Mackenzie-Helnwein,Peter"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 411",
+      "courseTitle": "AIRCRAFT DESIGN II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 421",
+      "courseTitle": "SPACE SYS DESIGN II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 447",
+      "courseTitle": "CONT IN AEROSP",
+      "section": "A",
+      "instructor": "BERG,JOHN"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 490",
+      "courseTitle": "SPACE LAW & POLICY",
+      "section": "A",
+      "instructor": "Pekkanen,Saadia M."
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 501",
+      "courseTitle": "ADV GAS DYNAMICS",
+      "section": "A",
+      "instructor": "Hermanson,Jim"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 529",
+      "courseTitle": "SPACE PROPULSION",
+      "section": "A",
+      "instructor": "Little,Justin M"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 535",
+      "courseTitle": "ADV COMPOSITE STRUC",
+      "section": "A",
+      "instructor": "Deleo,Francesco"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 543",
+      "courseTitle": "COMPRESSIBLE CFD",
+      "section": "A",
+      "instructor": "Ferrante,Antonino"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 545",
+      "courseTitle": "COMP MTHDS PLASMAS",
+      "section": "A",
+      "instructor": "Shumlak,Uri"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 548",
+      "courseTitle": "LIN MULTVAR CONTROL",
+      "section": "A",
+      "instructor": "Leung,Karen"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 549",
+      "courseTitle": "ST EST & KALMAN FLTR",
+      "section": "A",
+      "instructor": "Taghvaei,Amir"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 559",
+      "courseTitle": "PLASMA SCIENCE SMNR",
+      "section": "A",
+      "instructor": "Little,Justin M"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 581",
+      "courseTitle": "DIGITAL CONTROL SYS",
+      "section": "A",
+      "instructor": "Fuller,S"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 590",
+      "courseTitle": "SPACE LAW & POLICY",
+      "section": "A",
+      "instructor": "Pekkanen,Saadia M."
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 599",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 599",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
+      "course": "A A 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2023",
       "course": "A A 800",
       "courseTitle": "DOCTORAL DISSERTATN",
       "section": "A",
@@ -3002,7 +3692,7 @@
       "course": "A A 210",
       "courseTitle": "ENGR STATICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hurlen,Erik"
     },
     {
       "campus": "S",
@@ -3732,7 +4422,7 @@
       "course": "A A 210",
       "courseTitle": "ENGR STATICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hurlen,Erik"
     },
     {
       "campus": "S",
@@ -3742,7 +4432,7 @@
       "course": "A A 260",
       "courseTitle": "THERMODYNAMICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hermanson,Jim"
     },
     {
       "campus": "S",
@@ -4268,6 +4958,396 @@
       "campus": "S",
       "dept": "aa",
       "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 210",
+      "courseTitle": "ENGR STATICS",
+      "section": "A",
+      "instructor": "Hurlen,Erik"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 310",
+      "courseTitle": "ORB SPACE FLIGHT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 310",
+      "courseTitle": "ORB SPACE FLIGHT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 311",
+      "courseTitle": "ATM FLIGHT MECH",
+      "section": "A",
+      "instructor": "Ferrante,Antonino"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 311",
+      "courseTitle": "ATM FLIGHT MECH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 320",
+      "courseTitle": "AEROSPACE INSTR",
+      "section": "A",
+      "instructor": "Hurlen,Erik"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 395",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "A",
+      "instructor": "Morgansen,Kristi"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 402",
+      "courseTitle": "VISC FLUID MECHANICS",
+      "section": "A",
+      "instructor": "Dabiri,Dana"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 405",
+      "courseTitle": "AEROSPACE PLASMAS",
+      "section": "A",
+      "instructor": "Shumlak,Uri"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 406",
+      "courseTitle": "ELECTRIC PROPULSION",
+      "section": "A",
+      "instructor": "Little,Justin M"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 448",
+      "courseTitle": "CTRL SYS SEN & ACT",
+      "section": "A",
+      "instructor": "Szmuk,Miki"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 460",
+      "courseTitle": "PROPULSION",
+      "section": "A",
+      "instructor": "Hermanson,Jim"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 470",
+      "courseTitle": "SYSTEMS ENGINEERING",
+      "section": "A",
+      "instructor": "Saenz Otero,Alvar"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 503",
+      "courseTitle": "CONTINUUM MECH",
+      "section": "A",
+      "instructor": "Dabiri,Dana"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 504",
+      "courseTitle": "COMP FLUID MECH",
+      "section": "A",
+      "instructor": "Breidenthal,Bob"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 510",
+      "courseTitle": "MATH FOUND SYST THR",
+      "section": "A",
+      "instructor": "Manohar,Krithika"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 525",
+      "courseTitle": "ADV AIRBREATH PROPL",
+      "section": "A",
+      "instructor": "Breidenthal,Bob"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 527",
+      "courseTitle": "SPACE POWER SYSTEM",
+      "section": "A",
+      "instructor": "Venneri,Paolo"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 530",
+      "courseTitle": "MECHANICS OF SOLIDS",
+      "section": "A",
+      "instructor": "Vijay,Avin"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 532",
+      "courseTitle": "MECH COMP MATERIALS",
+      "section": "A",
+      "instructor": "Habtour,Ed"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 554",
+      "courseTitle": "AEROELASTICITY",
+      "section": "A",
+      "instructor": "Livne,Eli"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 559",
+      "courseTitle": "PLASMA SCIENCE SMNR",
+      "section": "A",
+      "instructor": "Little,Justin M"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 583",
+      "courseTitle": "NONLINEAR CONTR SYS",
+      "section": "A",
+      "instructor": "Devasia,Santosh"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Neubert,Paul M"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 599",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 599",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
       "term": "WIN2025",
       "course": "A A 210",
       "courseTitle": "ENGR STATICS",
@@ -4648,6 +5728,356 @@
       "campus": "S",
       "dept": "aa",
       "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 210",
+      "courseTitle": "ENGR STATICS",
+      "section": "A",
+      "instructor": "WORTHY,AMANDA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 260",
+      "courseTitle": "THERMODYNAMICS",
+      "section": "A",
+      "instructor": "Hurlen,Erik"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 301",
+      "courseTitle": "COMP AERODYNAMICS",
+      "section": "A",
+      "instructor": "Dabiri,Dana"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 322",
+      "courseTitle": "AEROSPACE LAB II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 332",
+      "courseTitle": "AEROSPACE STRUCT II",
+      "section": "A",
+      "instructor": "Vijay,Avin"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 411",
+      "courseTitle": "AIRCRAFT DESIGN II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 421",
+      "courseTitle": "SPACE SYS DESIGN II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 447",
+      "courseTitle": "CONT IN AEROSP",
+      "section": "A",
+      "instructor": "Nisser,Martin"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 490",
+      "courseTitle": "SPACE LAW & POLICY",
+      "section": "A",
+      "instructor": "Pekkanen,Saadia M."
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 508",
+      "courseTitle": "TURBULENCE",
+      "section": "A",
+      "instructor": "Breidenthal,Bob"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 529",
+      "courseTitle": "SPACE PROPULSION",
+      "section": "A",
+      "instructor": "Srinivasan,Bhuvana"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 541",
+      "courseTitle": "FINITE ELM ANLYS II",
+      "section": "A",
+      "instructor": "Salviato,Marco"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 543",
+      "courseTitle": "COMPRESSIBLE CFD",
+      "section": "A",
+      "instructor": "Ferrante,Antonino"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 545",
+      "courseTitle": "COMP MTHDS PLASMAS",
+      "section": "A",
+      "instructor": "Shumlak,Uri"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 548",
+      "courseTitle": "LIN MULTVAR CONTROL",
+      "section": "A",
+      "instructor": "Leung,Karen"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 549",
+      "courseTitle": "ST EST & KALMAN FLTR",
+      "section": "A",
+      "instructor": "Taghvaei,Amir"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 559",
+      "courseTitle": "PLASMA SCIENCE SMNR",
+      "section": "A",
+      "instructor": "Srinivasan,Bhuvana"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 590",
+      "courseTitle": "SPACE LAW & POLICY",
+      "section": "A",
+      "instructor": "Pekkanen,Saadia M."
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Habtour,Ed"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 599",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 599",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
       "term": "SUM2025",
       "course": "A A 210",
       "courseTitle": "ENGR STATICS",
@@ -4832,7 +6262,7 @@
       "course": "A A 210",
       "courseTitle": "ENGR STATICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Correy,John"
     },
     {
       "campus": "S",
@@ -4932,7 +6362,7 @@
       "course": "A A 311",
       "courseTitle": "ATM FLIGHT MECH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ferrante,Antonino"
     },
     {
       "campus": "S",
@@ -4952,7 +6382,7 @@
       "course": "A A 320",
       "courseTitle": "AEROSPACE INSTR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Correy,John"
     },
     {
       "campus": "S",
@@ -4962,7 +6392,7 @@
       "course": "A A 395",
       "courseTitle": "UNDERGRAD SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Morgansen,Kristi"
     },
     {
       "campus": "S",
@@ -4972,7 +6402,7 @@
       "course": "A A 402",
       "courseTitle": "VISC FLUID MECHANICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dabiri,Dana"
     },
     {
       "campus": "S",
@@ -4982,7 +6412,7 @@
       "course": "A A 405",
       "courseTitle": "AEROSPACE PLASMAS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Srinivasan,Bhuvana"
     },
     {
       "campus": "S",
@@ -4992,7 +6422,7 @@
       "course": "A A 406",
       "courseTitle": "ELECTRIC PROPULSION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Little,Justin M"
     },
     {
       "campus": "S",
@@ -5002,7 +6432,7 @@
       "course": "A A 448",
       "courseTitle": "CTRL SYS SEN & ACT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Szmuk,Miki"
     },
     {
       "campus": "S",
@@ -5012,7 +6442,7 @@
       "course": "A A 460",
       "courseTitle": "PROPULSION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Knowlen,Carl"
     },
     {
       "campus": "S",
@@ -5022,7 +6452,7 @@
       "course": "A A 470",
       "courseTitle": "SYSTEMS ENGINEERING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Saenz Otero,Alvar"
     },
     {
       "campus": "S",
@@ -5052,7 +6482,7 @@
       "course": "A A 504",
       "courseTitle": "COMP FLUID MECH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Breidenthal,Bob"
     },
     {
       "campus": "S",
@@ -5072,7 +6502,7 @@
       "course": "A A 530",
       "courseTitle": "MECHANICS OF SOLIDS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Vijay,Avin"
     },
     {
       "campus": "S",
@@ -5082,7 +6512,7 @@
       "course": "A A 532",
       "courseTitle": "MECH COMP MATERIALS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Habtour,Ed"
     },
     {
       "campus": "S",
@@ -5092,7 +6522,7 @@
       "course": "A A 538",
       "courseTitle": "STRUCTURAL OPTIM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Livne,Eli"
     },
     {
       "campus": "S",
@@ -5102,7 +6532,7 @@
       "course": "A A 550",
       "courseTitle": "NONLIN OPT CONTROL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Devasia,Santosh"
     },
     {
       "campus": "S",
@@ -5112,7 +6542,7 @@
       "course": "A A 559",
       "courseTitle": "PLASMA SCIENCE SMNR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Little,Justin M"
     },
     {
       "campus": "S",
@@ -5122,7 +6552,7 @@
       "course": "A A 583",
       "courseTitle": "NONLINEAR CONTR SYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Taghvaei,Amir"
     },
     {
       "campus": "S",
@@ -5132,7 +6562,7 @@
       "course": "A A 594",
       "courseTitle": "ROBUST CONTROL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Yu,Jing"
     },
     {
       "campus": "S",
@@ -5142,7 +6572,7 @@
       "course": "A A 598",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Neubert,Paul M"
     },
     {
       "campus": "S",
@@ -5202,7 +6632,7 @@
       "course": "A A 210",
       "courseTitle": "ENGR STATICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hurlen,Erik"
     },
     {
       "campus": "S",
@@ -5362,7 +6792,7 @@
       "course": "A A 461",
       "courseTitle": "AIRBREATH PROPL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Breidenthal,Bob"
     },
     {
       "campus": "S",
@@ -5402,7 +6832,7 @@
       "course": "A A 507",
       "courseTitle": "INCOMP FLUID MECH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "del Alamo,Juan C"
     },
     {
       "campus": "S",
@@ -5412,7 +6842,7 @@
       "course": "A A 516",
       "courseTitle": "STAB & CON FLT VEH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Acikmese,Behcet"
     },
     {
       "campus": "S",
@@ -5422,7 +6852,7 @@
       "course": "A A 535",
       "courseTitle": "ADV COMPOSITE STRUC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Vijay,Avin"
     },
     {
       "campus": "S",
@@ -5442,7 +6872,7 @@
       "course": "A A 547",
       "courseTitle": "LINEAR SYSTEMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ratliff,Lillian Jane"
     },
     {
       "campus": "S",
@@ -5452,7 +6882,7 @@
       "course": "A A 556",
       "courseTitle": "SPACE AND LAB PHYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Srinivasan,Bhuvana"
     },
     {
       "campus": "S",
@@ -5462,7 +6892,7 @@
       "course": "A A 559",
       "courseTitle": "PLASMA SCIENCE SMNR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Srinivasan,Bhuvana"
     },
     {
       "campus": "S",
@@ -5472,7 +6902,7 @@
       "course": "A A 560",
       "courseTitle": "PLASMA DIAGNOSTICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Little,Justin M"
     },
     {
       "campus": "S",
@@ -5482,7 +6912,7 @@
       "course": "A A 578",
       "courseTitle": "CONVEX OPTIMIZATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Charisopoulos,Vasilis"
     },
     {
       "campus": "S",
@@ -5542,7 +6972,7 @@
       "course": "A A 210",
       "courseTitle": "ENGR STATICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hurlen,Erik"
     },
     {
       "campus": "S",
@@ -5552,7 +6982,7 @@
       "course": "A A 260",
       "courseTitle": "THERMODYNAMICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Knowlen,Carl"
     },
     {
       "campus": "S",
@@ -5642,7 +7072,7 @@
       "course": "A A 301",
       "courseTitle": "COMP AERODYNAMICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dabiri,Dana"
     },
     {
       "campus": "S",
@@ -5652,7 +7082,7 @@
       "course": "A A 322",
       "courseTitle": "AEROSPACE LAB II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hurlen,Erik"
     },
     {
       "campus": "S",
@@ -5662,7 +7092,7 @@
       "course": "A A 332",
       "courseTitle": "AEROSPACE STRUCT II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Livne,Eli"
     },
     {
       "campus": "S",
@@ -5692,7 +7122,7 @@
       "course": "A A 447",
       "courseTitle": "CONT IN AEROSP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nisser,Martin"
     },
     {
       "campus": "S",
@@ -5702,7 +7132,7 @@
       "course": "A A 490",
       "courseTitle": "SPACE LAW & POLICY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pekkanen,Saadia M."
     },
     {
       "campus": "S",
@@ -5732,7 +7162,7 @@
       "course": "A A 529",
       "courseTitle": "SPACE PROPULSION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Little,Justin M"
     },
     {
       "campus": "S",
@@ -5742,7 +7172,7 @@
       "course": "A A 531",
       "courseTitle": "FRACTURE & SCALING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Salviato,Marco"
     },
     {
       "campus": "S",
@@ -5752,7 +7182,7 @@
       "course": "A A 543",
       "courseTitle": "COMPRESSIBLE CFD",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ferrante,Antonino"
     },
     {
       "campus": "S",
@@ -5762,7 +7192,7 @@
       "course": "A A 545",
       "courseTitle": "COMP MTHDS PLASMAS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Srinivasan,Bhuvana"
     },
     {
       "campus": "S",
@@ -5772,7 +7202,7 @@
       "course": "A A 548",
       "courseTitle": "LIN MULTVAR CONTROL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Leung,Karen"
     },
     {
       "campus": "S",
@@ -5782,7 +7212,7 @@
       "course": "A A 549",
       "courseTitle": "ST EST & KALMAN FLTR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Taghvaei,Amir"
     },
     {
       "campus": "S",
@@ -5792,7 +7222,7 @@
       "course": "A A 590",
       "courseTitle": "SPACE LAW & POLICY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pekkanen,Saadia M."
     },
     {
       "campus": "S",
@@ -5802,7 +7232,7 @@
       "course": "A A 593",
       "courseTitle": "FEEDFORWARD CONTROL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Devasia,Santosh"
     },
     {
       "campus": "S",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:28:00Z",
+  "generatedAt": "2026-04-16T02:57:15Z",
   "campus": "S",
   "dept": "iphd",
   "deptName": "Individual PhD",
@@ -68,6 +68,26 @@
       "campus": "S",
       "dept": "iphd",
       "deptName": "Individual PhD",
+      "term": "SUM2021",
+      "course": "IPHD 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "iphd",
+      "deptName": "Individual PhD",
+      "term": "SUM2021",
+      "course": "IPHD 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "iphd",
+      "deptName": "Individual PhD",
       "term": "AUT2021",
       "course": "IPHD 600",
       "courseTitle": "INDEPNDNT STDY/RSCH",
@@ -339,6 +359,26 @@
       "dept": "iphd",
       "deptName": "Individual PhD",
       "term": "WIN2025",
+      "course": "IPHD 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "iphd",
+      "deptName": "Individual PhD",
+      "term": "SPR2025",
+      "course": "IPHD 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "iphd",
+      "deptName": "Individual PhD",
+      "term": "SPR2025",
       "course": "IPHD 800",
       "courseTitle": "DOCTORAL DISSERTATN",
       "section": "A",

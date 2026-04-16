@@ -1,7 +1,438 @@
 {
-  "generatedAt": "2026-04-15T16:27:55Z",
+  "generatedAt": "2026-04-16T02:57:11Z",
   "campus": "S",
   "dept": "clarch",
   "deptName": "Classical Archaeology",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "AUT2020",
+      "course": "CL AR 442",
+      "courseTitle": "GREEK PAINTING",
+      "section": "A",
+      "instructor": "Topper,Kathryn R."
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "AUT2020",
+      "course": "CL AR 541",
+      "courseTitle": "SEMINAR GRK ROM ART",
+      "section": "A",
+      "instructor": "Topper,Kathryn R."
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "WIN2021",
+      "course": "CL AR 342",
+      "courseTitle": "ROMAN ART & ARCHLGY",
+      "section": "A",
+      "instructor": "Levin-Richardson,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "WIN2021",
+      "course": "CL AR 342",
+      "courseTitle": "ROMAN ART & ARCHLGY",
+      "section": "B",
+      "instructor": "Levin-Richardson,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "WIN2021",
+      "course": "CL AR 444",
+      "courseTitle": "GRK & ROMAN SCULPT",
+      "section": "A",
+      "instructor": "Topper,Kathryn R."
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "WIN2021",
+      "course": "CL AR 461",
+      "courseTitle": "GNDR & SEX CLAS ART",
+      "section": "A",
+      "instructor": "Topper,Kathryn R."
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "SPR2021",
+      "course": "CL AR 341",
+      "courseTitle": "GREEK ART & ARCHLGY",
+      "section": "A",
+      "instructor": "Topper,Kathryn R."
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "SPR2021",
+      "course": "CL AR 541",
+      "courseTitle": "SEMINAR GRK ROM ART",
+      "section": "A",
+      "instructor": "Levin-Richardson,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "AUT2021",
+      "course": "CL AR 343",
+      "courseTitle": "HELLNSTIC ART ARCHY",
+      "section": "A",
+      "instructor": "Topper,Kathryn R."
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "AUT2021",
+      "course": "CL AR 444",
+      "courseTitle": "GRK & ROMAN SCULPT",
+      "section": "A",
+      "instructor": "Topper,Kathryn R."
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "WIN2022",
+      "course": "CL AR 443",
+      "courseTitle": "ROMAN PAINTING",
+      "section": "A",
+      "instructor": "Topper,Kathryn R."
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "SPR2022",
+      "course": "CL AR 461",
+      "courseTitle": "GNDR & SEX CLAS ART",
+      "section": "A",
+      "instructor": "Topper,Kathryn R."
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "SPR2022",
+      "course": "CL AR 541",
+      "courseTitle": "SEMINAR GRK ROM ART",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "AUT2022",
+      "course": "CL AR 347",
+      "courseTitle": "POMPEII",
+      "section": "A",
+      "instructor": "Levin-Richardson,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "WIN2023",
+      "course": "CL AR 341",
+      "courseTitle": "GREEK ART & ARCHLGY",
+      "section": "A",
+      "instructor": "Topper,Kathryn R."
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "WIN2023",
+      "course": "CL AR 342",
+      "courseTitle": "ROMAN ART & ARCHLGY",
+      "section": "A",
+      "instructor": "Levin-Richardson,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "SPR2023",
+      "course": "CL AR 442",
+      "courseTitle": "GREEK PAINTING",
+      "section": "A",
+      "instructor": "Topper,Kathryn"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "SPR2023",
+      "course": "CL AR 447",
+      "courseTitle": "ARCHY EARLY ITALY",
+      "section": "A",
+      "instructor": "Riedemann Lorca,Valeria"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "SPR2023",
+      "course": "CL AR 461",
+      "courseTitle": "GNDR & SEX CLAS ART",
+      "section": "A",
+      "instructor": "Topper,Kathryn"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "SPR2023",
+      "course": "CL AR 541",
+      "courseTitle": "SEMINAR GRK ROM ART",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "AUT2023",
+      "course": "CL AR 342",
+      "courseTitle": "ROMAN ART & ARCHLGY",
+      "section": "A",
+      "instructor": "Riedemann Lorca,Valeria"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "AUT2023",
+      "course": "CL AR 443",
+      "courseTitle": "ROMAN PAINTING",
+      "section": "A",
+      "instructor": "Topper,Kathryn"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "AUT2023",
+      "course": "CL AR 444",
+      "courseTitle": "GRK & ROMAN SCULPT",
+      "section": "A",
+      "instructor": "Topper,Kathryn"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "WIN2024",
+      "course": "CL AR 343",
+      "courseTitle": "HELLNSTIC ART ARCHY",
+      "section": "A",
+      "instructor": "Topper,Kathryn"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "WIN2024",
+      "course": "CL AR 461",
+      "courseTitle": "GNDR & SEX CLAS ART",
+      "section": "A",
+      "instructor": "Topper,Kathryn"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "SPR2024",
+      "course": "CL AR 447",
+      "courseTitle": "ARCHY EARLY ITALY",
+      "section": "A",
+      "instructor": "Riedemann Lorca,Valeria"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "SPR2024",
+      "course": "CL AR 541",
+      "courseTitle": "SEMINAR GRK ROM ART",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "AUT2024",
+      "course": "CL AR 341",
+      "courseTitle": "GREEK ART & ARCHLGY",
+      "section": "A",
+      "instructor": "Topper,Kathryn"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "AUT2024",
+      "course": "CL AR 444",
+      "courseTitle": "GRK & ROMAN SCULPT",
+      "section": "A",
+      "instructor": "Topper,Kathryn"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "WIN2025",
+      "course": "CL AR 343",
+      "courseTitle": "HELLNSTIC ART ARCHY",
+      "section": "A",
+      "instructor": "Topper,Kathryn"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "WIN2025",
+      "course": "CL AR 347",
+      "courseTitle": "POMPEII",
+      "section": "A",
+      "instructor": "Levin-Richardson,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "WIN2025",
+      "course": "CL AR 461",
+      "courseTitle": "GNDR & SEX CLAS ART",
+      "section": "A",
+      "instructor": "Topper,Kathryn"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "SPR2025",
+      "course": "CL AR 342",
+      "courseTitle": "ROMAN ART & ARCHLGY",
+      "section": "A",
+      "instructor": "Levin-Richardson,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "SPR2025",
+      "course": "CL AR 442",
+      "courseTitle": "GREEK PAINTING",
+      "section": "A",
+      "instructor": "Topper,Kathryn"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "SPR2025",
+      "course": "CL AR 541",
+      "courseTitle": "SEMINAR GRK ROM ART",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "AUT2025",
+      "course": "CL AR 341",
+      "courseTitle": "GREEK ART & ARCHLGY",
+      "section": "A",
+      "instructor": "Topper,Kathryn"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "AUT2025",
+      "course": "CL AR 342",
+      "courseTitle": "ROMAN ART & ARCHLGY",
+      "section": "A",
+      "instructor": "Levin-Richardson,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "AUT2025",
+      "course": "CL AR 447",
+      "courseTitle": "ARCHY EARLY ITALY",
+      "section": "A",
+      "instructor": "Riedemann Lorca,Valeria"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "AUT2025",
+      "course": "CL AR 541",
+      "courseTitle": "SEMINAR GRK ROM ART",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "WIN2026",
+      "course": "CL AR 343",
+      "courseTitle": "HELLNSTIC ART ARCHY",
+      "section": "A",
+      "instructor": "Topper,Kathryn"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "WIN2026",
+      "course": "CL AR 443",
+      "courseTitle": "ROMAN PAINTING",
+      "section": "A",
+      "instructor": "Topper,Kathryn"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "SPR2026",
+      "course": "CL AR 347",
+      "courseTitle": "POMPEII",
+      "section": "A",
+      "instructor": "Levin-Richardson,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "clarch",
+      "deptName": "Classical Archaeology",
+      "term": "SPR2026",
+      "course": "CL AR 461",
+      "courseTitle": "GNDR & SEX CLAS ART",
+      "section": "A",
+      "instructor": "Topper,Kathryn"
+    }
+  ]
 }

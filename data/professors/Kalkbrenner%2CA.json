@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Kalkbrenner%2CA",
+  "professor": "Kalkbrenner,A",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 431",
+      "courseTitle": "CHILDHEALTH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 431",
+      "courseTitle": "CHILDHEALTH",
+      "section": "A"
+    }
+  ]
+}

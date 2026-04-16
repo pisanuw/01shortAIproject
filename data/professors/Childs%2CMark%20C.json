@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Childs%2CMark%20C",
+  "professor": "Childs,Mark C",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "WIN2024",
+      "course": "ARCH 468",
+      "courseTitle": "ARCH CAPSTONE PREP",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2023",
+      "course": "ARCH 591",
+      "courseTitle": "ARCH & LANDSCAPE",
+      "section": "A"
+    }
+  ]
+}

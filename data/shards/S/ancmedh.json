@@ -1,7 +1,648 @@
 {
-  "generatedAt": "2026-04-15T16:27:56Z",
+  "generatedAt": "2026-04-16T02:57:12Z",
   "campus": "S",
   "dept": "ancmedh",
   "deptName": "Ancient and Medieval History",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "AUT2020",
+      "course": "HSTAM 111",
+      "courseTitle": "THE ANCIENT WORLD",
+      "section": "A",
+      "instructor": "Walker,Joel T"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "AUT2020",
+      "course": "HSTAM 215",
+      "courseTitle": "TUDOR ENGLAND",
+      "section": "A",
+      "instructor": "Lange,Tyler"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "AUT2020",
+      "course": "HSTAM 235",
+      "courseTitle": "MEDIEVAL MYSTERIES",
+      "section": "A",
+      "instructor": "Stacey,Robin"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "AUT2020",
+      "course": "HSTAM 330",
+      "courseTitle": "AGE OF AUGUSTUS",
+      "section": "A",
+      "instructor": "Gowing,Alain M"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "AUT2020",
+      "course": "HSTAM 370",
+      "courseTitle": "THE VIKINGS",
+      "section": "A",
+      "instructor": "Leiren,Terje I"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "WIN2021",
+      "course": "HSTAM 112",
+      "courseTitle": "THE MEDIEVAL WORLD",
+      "section": "A",
+      "instructor": "Urbanski,C"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "WIN2021",
+      "course": "HSTAM 335",
+      "courseTitle": "THE AGE OF NERO",
+      "section": "A",
+      "instructor": "Gowing,Alain M"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SPR2021",
+      "course": "HSTAM 250",
+      "courseTitle": "MONGOL EMPIRE",
+      "section": "A",
+      "instructor": "Walker,J"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SPR2021",
+      "course": "HSTAM 276",
+      "courseTitle": "CELTIC CIVILIZATIONS",
+      "section": "A",
+      "instructor": "Stacey,Robin"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SPR2021",
+      "course": "HSTAM 340",
+      "courseTitle": "MEDIEVAL WOMEN",
+      "section": "A",
+      "instructor": "Urbanski,Charity L"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SPR2021",
+      "course": "HSTAM 370",
+      "courseTitle": "THE VIKINGS",
+      "section": "A",
+      "instructor": "Leiren,Terje I"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SPR2021",
+      "course": "HSTAM 420",
+      "courseTitle": "FREE-ROME/MOD WORLD",
+      "section": "A",
+      "instructor": "Gowing,Alain M"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SPR2021",
+      "course": "HSTAM 490",
+      "courseTitle": "TOPICS ANC/MED HIST",
+      "section": "A",
+      "instructor": "Goldman,Brendan Gregory"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SUM2021",
+      "course": "HSTAM 302",
+      "courseTitle": "ANCIENT ROMAN HIST",
+      "section": "A",
+      "instructor": "Green,M"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "AUT2021",
+      "course": "HSTAM 111",
+      "courseTitle": "THE ANCIENT WORLD",
+      "section": "A",
+      "instructor": "Walker,J"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "AUT2021",
+      "course": "HSTAM 330",
+      "courseTitle": "AGE OF AUGUSTUS",
+      "section": "A",
+      "instructor": "Gowing,A"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "AUT2021",
+      "course": "HSTAM 365",
+      "courseTitle": "MEDIEVAL ENGLAND",
+      "section": "A",
+      "instructor": "Urbanski,Charity L"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "AUT2021",
+      "course": "HSTAM 370",
+      "courseTitle": "THE VIKINGS",
+      "section": "A",
+      "instructor": "Leiren,T"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "WIN2022",
+      "course": "HSTAM 112",
+      "courseTitle": "THE MEDIEVAL WORLD",
+      "section": "A",
+      "instructor": "Urbanski,C"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "WIN2022",
+      "course": "HSTAM 335",
+      "courseTitle": "THE AGE OF NERO",
+      "section": "A",
+      "instructor": "Gowing,Alain M"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SPR2022",
+      "course": "HSTAM 203",
+      "courseTitle": "INTRO MIDDLE AGES",
+      "section": "A",
+      "instructor": "Lange,Tyler"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SPR2022",
+      "course": "HSTAM 231",
+      "courseTitle": "RACE & ANCIENT WORLD",
+      "section": "A",
+      "instructor": "Waldo,Christopher"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SPR2022",
+      "course": "HSTAM 250",
+      "courseTitle": "MONGOL EMPIRE",
+      "section": "A",
+      "instructor": "Walker,J"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SPR2022",
+      "course": "HSTAM 333",
+      "courseTitle": "LATE MIDDLE AGES",
+      "section": "A",
+      "instructor": "Urbanski,Charity L"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SPR2022",
+      "course": "HSTAM 420",
+      "courseTitle": "FREE-ROME/MOD WORLD",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SUM2022",
+      "course": "HSTAM 302",
+      "courseTitle": "ANCIENT ROMAN HIST",
+      "section": "A",
+      "instructor": "Green,M"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "AUT2022",
+      "course": "HSTAM 111",
+      "courseTitle": "THE ANCIENT WORLD",
+      "section": "A",
+      "instructor": "Walker,J"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "AUT2022",
+      "course": "HSTAM 215",
+      "courseTitle": "TUDOR ENGLAND",
+      "section": "A",
+      "instructor": "Urbanski,Charity L"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "AUT2022",
+      "course": "HSTAM 370",
+      "courseTitle": "THE VIKINGS",
+      "section": "A",
+      "instructor": "Connors,Colin G"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "WIN2023",
+      "course": "HSTAM 112",
+      "courseTitle": "THE MEDIEVAL WORLD",
+      "section": "A",
+      "instructor": "Urbanski,Charity L"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "WIN2023",
+      "course": "HSTAM 330",
+      "courseTitle": "AGE OF AUGUSTUS",
+      "section": "A",
+      "instructor": "Gowing,Alain M"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SPR2023",
+      "course": "HSTAM 340",
+      "courseTitle": "MEDIEVAL WOMEN",
+      "section": "A",
+      "instructor": "Urbanski,Charity L"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SUM2023",
+      "course": "HSTAM 302",
+      "courseTitle": "ANCIENT ROMAN HIST",
+      "section": "A",
+      "instructor": "Green,Mira"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "AUT2023",
+      "course": "HSTAM 111",
+      "courseTitle": "THE ANCIENT WORLD",
+      "section": "A",
+      "instructor": "Walker,Joel T"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "AUT2023",
+      "course": "HSTAM 203",
+      "courseTitle": "INTRO MIDDLE AGES",
+      "section": "A",
+      "instructor": "Lange,Tyler"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "AUT2023",
+      "course": "HSTAM 335",
+      "courseTitle": "THE AGE OF NERO",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "AUT2023",
+      "course": "HSTAM 365",
+      "courseTitle": "MEDIEVAL ENGLAND",
+      "section": "A",
+      "instructor": "Urbanski,Charity L"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "AUT2023",
+      "course": "HSTAM 370",
+      "courseTitle": "THE VIKINGS",
+      "section": "A",
+      "instructor": "Connors,Colin G"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "WIN2024",
+      "course": "HSTAM 112",
+      "courseTitle": "THE MEDIEVAL WORLD",
+      "section": "A",
+      "instructor": "Urbanski,Charity L"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "WIN2024",
+      "course": "HSTAM 231",
+      "courseTitle": "RACE & ANCIENT WORLD",
+      "section": "A",
+      "instructor": "Waldo,Christopher"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "WIN2024",
+      "course": "HSTAM 313",
+      "courseTitle": "ROMAN EMPIRE",
+      "section": "A",
+      "instructor": "Letteney,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SPR2024",
+      "course": "HSTAM 221",
+      "courseTitle": "PRISON-ANTIQTY-TODAY",
+      "section": "A",
+      "instructor": "Letteney,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SPR2024",
+      "course": "HSTAM 333",
+      "courseTitle": "LATE MIDDLE AGES",
+      "section": "A",
+      "instructor": "Urbanski,Charity L"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SPR2024",
+      "course": "HSTAM 420",
+      "courseTitle": "FREE-ROME/MOD WORLD",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "AUT2024",
+      "course": "HSTAM 111",
+      "courseTitle": "THE ANCIENT WORLD",
+      "section": "A",
+      "instructor": "Walker,Joel T"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "AUT2024",
+      "course": "HSTAM 215",
+      "courseTitle": "TUDOR ENGLAND",
+      "section": "A",
+      "instructor": "Urbanski,Charity L"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "AUT2024",
+      "course": "HSTAM 313",
+      "courseTitle": "ROMAN EMPIRE",
+      "section": "A",
+      "instructor": "Letteney,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "AUT2024",
+      "course": "HSTAM 370",
+      "courseTitle": "THE VIKINGS",
+      "section": "A",
+      "instructor": "Bourns,Timothy"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "WIN2025",
+      "course": "HSTAM 112",
+      "courseTitle": "THE MEDIEVAL WORLD",
+      "section": "A",
+      "instructor": "Urbanski,Charity L"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "WIN2025",
+      "course": "HSTAM 209",
+      "courseTitle": "ANCIENT CHRISTIANITY",
+      "section": "A",
+      "instructor": "Letteney,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "WIN2025",
+      "course": "HSTAM 330",
+      "courseTitle": "AGE OF AUGUSTUS",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SPR2025",
+      "course": "HSTAM 334",
+      "courseTitle": "SOC/CLT HST PMOD EUR",
+      "section": "A",
+      "instructor": "Lange,Tyler"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SPR2025",
+      "course": "HSTAM 335",
+      "courseTitle": "THE AGE OF NERO",
+      "section": "A",
+      "instructor": "Ritter,Michael"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SPR2025",
+      "course": "HSTAM 340",
+      "courseTitle": "MEDIEVAL WOMEN",
+      "section": "A",
+      "instructor": "Urbanski,Charity L"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SPR2025",
+      "course": "HSTAM 420",
+      "courseTitle": "FREE-ROME/MOD WORLD",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "AUT2025",
+      "course": "HSTAM 111",
+      "courseTitle": "THE ANCIENT WORLD",
+      "section": "A",
+      "instructor": "Walker,Joel T"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "AUT2025",
+      "course": "HSTAM 343",
+      "courseTitle": "GENDR/SEX MEDVL EURO",
+      "section": "A",
+      "instructor": "Urbanski,Charity L"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "WIN2026",
+      "course": "HSTAM 112",
+      "courseTitle": "THE MEDIEVAL WORLD",
+      "section": "A",
+      "instructor": "Urbanski,Charity L"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "WIN2026",
+      "course": "HSTAM 231",
+      "courseTitle": "RACE & ANCIENT WORLD",
+      "section": "A",
+      "instructor": "Waldo,Christopher"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "WIN2026",
+      "course": "HSTAM 313",
+      "courseTitle": "ROMAN EMPIRE",
+      "section": "A",
+      "instructor": "Letteney,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SPR2026",
+      "course": "HSTAM 250",
+      "courseTitle": "MONGOL EMPIRE",
+      "section": "A",
+      "instructor": "Walker,Joel T"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SPR2026",
+      "course": "HSTAM 315",
+      "courseTitle": "BYZANTINE EMPIRE",
+      "section": "A",
+      "instructor": "Bonura,Christopher Joseph"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SPR2026",
+      "course": "HSTAM 330",
+      "courseTitle": "AGE OF AUGUSTUS",
+      "section": "A",
+      "instructor": "Lahiri,Ray"
+    },
+    {
+      "campus": "S",
+      "dept": "ancmedh",
+      "deptName": "Ancient and Medieval History",
+      "term": "SPR2026",
+      "course": "HSTAM 334",
+      "courseTitle": "SOC/CLT HST PMOD EUR",
+      "section": "A",
+      "instructor": "Lange,Tyler"
+    }
+  ]
 }

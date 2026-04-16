@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Champagne%2CCory",
+  "professor": "Champagne,Cory",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbio",
+      "deptName": "Biology",
+      "term": "AUT2022",
+      "course": "B BIO 355",
+      "courseTitle": "BEHAVIOR ENDOCRINOL",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbio",
+      "deptName": "Biology",
+      "term": "SPR2021",
+      "course": "B BIO 352",
+      "courseTitle": "ANAT & PHYSIOL II",
+      "section": "A"
+    }
+  ]
+}

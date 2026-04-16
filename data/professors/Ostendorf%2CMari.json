@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Ostendorf%2CMari",
+  "professor": "Ostendorf,Mari",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "SPR2021",
+      "course": "E E 517",
+      "courseTitle": "CON-SPACE PROC",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "WIN2021",
+      "course": "E E 511",
+      "courseTitle": "STAT LEARNING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "AUT2020",
+      "course": "E E 235",
+      "courseTitle": "CT LINEAR SYSTEMS",
+      "section": "A"
+    }
+  ]
+}

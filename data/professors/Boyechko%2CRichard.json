@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Boyechko%2CRichard",
+  "professor": "Boyechko,Richard",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "complit",
+      "deptName": "Comparative Literature",
+      "term": "SPR2025",
+      "course": "C LIT 240",
+      "courseTitle": "WRITING IN C LIT",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "complit",
+      "deptName": "Comparative Literature",
+      "term": "AUT2023",
+      "course": "C LIT 240",
+      "courseTitle": "WRITING IN C LIT",
+      "section": "F"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "complit",
+      "deptName": "Comparative Literature",
+      "term": "SPR2023",
+      "course": "C LIT 240",
+      "courseTitle": "WRITING IN C LIT",
+      "section": "B"
+    }
+  ]
+}

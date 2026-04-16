@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Wyse%2CMark",
+  "professor": "Wyse,Mark",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "SPR2022",
+      "course": "CSE 369",
+      "courseTitle": "INTRO DIG DESIGN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "WIN2021",
+      "course": "CSE 351",
+      "courseTitle": "HW SW INTERFACE",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "WIN2021",
+      "course": "CSE 351",
+      "courseTitle": "HW SW INTERFACE",
+      "section": "A"
+    }
+  ]
+}

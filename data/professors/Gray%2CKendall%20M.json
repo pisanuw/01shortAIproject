@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Gray%2CKendall%20M",
+  "professor": "Gray,Kendall M",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2021",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "F"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2021",
+      "course": "MICROM 402",
+      "courseTitle": "FUND GEN MICRO LAB",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 302",
+      "courseTitle": "GEN MICRO LAB",
+      "section": "F"
+    }
+  ]
+}

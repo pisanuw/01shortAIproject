@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Orlova%2CSasha",
+  "professor": "Orlova,Sasha",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "russian",
+      "deptName": "Russian",
+      "term": "SPR2026",
+      "course": "RUSS 103",
+      "courseTitle": "FIRST-YEAR RUSSIAN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "russian",
+      "deptName": "Russian",
+      "term": "WIN2026",
+      "course": "RUSS 102",
+      "courseTitle": "FIRST-YEAR RUSSIAN",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "russian",
+      "deptName": "Russian",
+      "term": "AUT2025",
+      "course": "RUSS 101",
+      "courseTitle": "FIRST-YEAR RUSSIAN",
+      "section": "B"
+    }
+  ]
+}

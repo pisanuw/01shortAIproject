@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20BIOEN%20585",
+  "course": "S - BIOEN 585",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "SPR2023",
+      "course": "BIOEN 585",
+      "courseTitle": "COMPUTATIONAL BIOEN",
+      "section": "A",
+      "instructor": "Thomas,W"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "SPR2022",
+      "course": "BIOEN 585",
+      "courseTitle": "COMPUTATIONAL BIOEN",
+      "section": "A",
+      "instructor": "Thomas,W"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "SPR2021",
+      "course": "BIOEN 585",
+      "courseTitle": "COMPUTATIONAL BIOEN",
+      "section": "A",
+      "instructor": "Thomas,Wendy E"
+    }
+  ]
+}

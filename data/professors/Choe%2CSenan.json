@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Choe%2CSenan",
+  "professor": "Choe,Senan",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2024",
+      "course": "ARCH 402",
+      "courseTitle": "ARCH DESIGN VI",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "WIN2022",
+      "course": "ARCH 504",
+      "courseTitle": "ARCH INTEGRATION III",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "WIN2021",
+      "course": "ARCH 504",
+      "courseTitle": "ARCH INTEGRATION III",
+      "section": "C"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Kucher%2CMichael",
+  "professor": "Kucher,Michael",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "thist",
+      "deptName": "History",
+      "term": "SPR2023",
+      "course": "T HIST 444",
+      "courseTitle": "PACIFIC NORTHWEST",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "test",
+      "deptName": "Environmental Sustainability",
+      "term": "WIN2023",
+      "course": "TEST 332",
+      "courseTitle": "HISTORY OF GARBAGE",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "test",
+      "deptName": "Environmental Sustainability",
+      "term": "WIN2023",
+      "course": "TEST 332",
+      "courseTitle": "HISTORY OF GARBAGE",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tcore",
+      "deptName": "Core Courses",
+      "term": "SPR2021",
+      "course": "T CORE 124",
+      "courseTitle": "INTRO TO HUMANITIES",
+      "section": "A"
+    }
+  ]
+}

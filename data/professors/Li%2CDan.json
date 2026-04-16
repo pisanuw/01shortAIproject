@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Li%2CDan",
+  "professor": "Li,Dan",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "SPR2026",
+      "course": "IND E 508",
+      "courseTitle": "STOC PROC IN ENGR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "SPR2026",
+      "course": "E E 508",
+      "courseTitle": "STOC PROC IN ENGR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "WIN2026",
+      "course": "IND E 528",
+      "courseTitle": "PRED ANALYT SYS ENGR",
+      "section": "A"
+    }
+  ]
+}

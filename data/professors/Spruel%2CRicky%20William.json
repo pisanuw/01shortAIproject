@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Spruel%2CRicky%20William",
+  "professor": "Spruel,Ricky William",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2023",
+      "course": "T PHIL 101",
+      "courseTitle": "INTRO TO PHILOSOPHY",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tphil",
+      "deptName": "Philosophy",
+      "term": "WIN2022",
+      "course": "T PHIL 358",
+      "courseTitle": "HIST OF PHILOSOPHY",
+      "section": "A"
+    }
+  ]
+}

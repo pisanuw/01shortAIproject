@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Kirk%2CE",
+  "professor": "Kirk,E",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nutrit",
+      "deptName": "Nutritional Science",
+      "term": "SPR2023",
+      "course": "NUTR 406",
+      "courseTitle": "SPORTS NUTRITION",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nutrit",
+      "deptName": "Nutritional Science",
+      "term": "SPR2023",
+      "course": "NUTR 200",
+      "courseTitle": "NUTRITION",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nutrit",
+      "deptName": "Nutritional Science",
+      "term": "AUT2020",
+      "course": "NUTR 520",
+      "courseTitle": "NUTR-METAB I",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nutrit",
+      "deptName": "Nutritional Science",
+      "term": "AUT2020",
+      "course": "NUTR 200",
+      "courseTitle": "NUTRITION",
+      "section": "A"
+    }
+  ]
+}

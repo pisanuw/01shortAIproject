@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "jia%2CZhanzhan",
+  "professor": "jia,Zhanzhan",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "SPR2022",
+      "course": "M E 354",
+      "courseTitle": "MECH OF MAT LAB",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "WIN2022",
+      "course": "M E 354",
+      "courseTitle": "MECH OF MAT LAB",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "WIN2021",
+      "course": "M E 354",
+      "courseTitle": "MECH OF MAT LAB",
+      "section": "A"
+    }
+  ]
+}

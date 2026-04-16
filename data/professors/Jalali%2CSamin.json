@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Jalali%2CSamin",
+  "professor": "Jalali,Samin",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 482",
+      "courseTitle": "ECONOMETRIC THRY&PR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2020",
+      "course": "ECON 301",
+      "courseTitle": "INTERMED MACRO-ECON",
+      "section": "A"
+    }
+  ]
+}

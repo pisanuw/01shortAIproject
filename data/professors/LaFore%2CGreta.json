@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "LaFore%2CGreta",
+  "professor": "LaFore,Greta",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "SPR2024",
+      "course": "PHIL 450",
+      "courseTitle": "EPISTEMOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "WIN2024",
+      "course": "PHIL 346",
+      "courseTitle": "PERSONAL VALUES",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "AUT2023",
+      "course": "PHIL 115",
+      "courseTitle": "PRACTICAL REASONING",
+      "section": "A"
+    }
+  ]
+}

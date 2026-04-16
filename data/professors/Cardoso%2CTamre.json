@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Cardoso%2CTamre",
+  "professor": "Cardoso,Tamre",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "WIN2023",
+      "course": "STAT 423",
+      "courseTitle": "APPL REGRESS ANOVA",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "WIN2022",
+      "course": "STAT 423",
+      "courseTitle": "APPL REGRESS ANOVA",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2021",
+      "course": "STAT 311",
+      "courseTitle": "ELEMNTS STAT METHOD",
+      "section": "D"
+    }
+  ]
+}

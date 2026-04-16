@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Griffin%2CP",
+  "professor": "Griffin,P",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "smea",
+      "deptName": "School of Marine and Environmental Affairs",
+      "term": "SPR2023",
+      "course": "SMEA 550",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ais",
+      "deptName": "American Indian Studies",
+      "term": "AUT2022",
+      "course": "AIS 385",
+      "courseTitle": "INDIG ECOL CLIM CHNG",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Murphy%2CSean",
+  "professor": "Murphy,Sean",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "WIN2024",
+      "course": "CSS 415",
+      "courseTitle": "TOPICS IN CYERSEC",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "AUT2023",
+      "course": "CSS 142",
+      "courseTitle": "CMPT PROG I",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "SPR2023",
+      "course": "CSS 415",
+      "courseTitle": "TOPICS IN CYERSEC",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Wadsworth%2CDuncan",
+  "professor": "Wadsworth,Duncan",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "WIN2025",
+      "course": "STAT 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "WIN2024",
+      "course": "STAT 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C"
+    }
+  ]
+}

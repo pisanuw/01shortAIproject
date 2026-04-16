@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Hyland%2CAdam",
+  "professor": "Hyland,Adam",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hcde",
+      "deptName": "Human Centered Design and Engineering",
+      "term": "AUT2023",
+      "course": "HCDE 411",
+      "courseTitle": "INFO VISUALIZATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hcde",
+      "deptName": "Human Centered Design and Engineering",
+      "term": "SPR2023",
+      "course": "HCDE 411",
+      "courseTitle": "INFO VISUALIZATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hcde",
+      "deptName": "Human Centered Design and Engineering",
+      "term": "AUT2022",
+      "course": "HCDE 411",
+      "courseTitle": "INFO VISUALIZATION",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20PHIL%20410",
+  "course": "S - PHIL 410",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "WIN2025",
+      "course": "PHIL 410",
+      "courseTitle": "SOCIAL POLTICAL PHIL",
+      "section": "A",
+      "instructor": "Blake,Michael I"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "SPR2021",
+      "course": "PHIL 410",
+      "courseTitle": "SOCIAL PHILOSOPHY",
+      "section": "A",
+      "instructor": "Mendoza,Jose Jorge"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "AUT2020",
+      "course": "PHIL 410",
+      "courseTitle": "SOCIAL PHILOSOPHY",
+      "section": "A",
+      "instructor": "Talbott,William J"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Borys%2CAnn%20Marie",
+  "professor": "Borys,Ann Marie",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "WIN2026",
+      "course": "ARCH 351",
+      "courseTitle": "WORLD ARCH 700-1750",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "AUT2025",
+      "course": "ARCH 550",
+      "courseTitle": "HISTORY & THEORY I",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2024",
+      "course": "ARCH 571",
+      "courseTitle": "PRO PRACTICE",
+      "section": "A"
+    }
+  ]
+}

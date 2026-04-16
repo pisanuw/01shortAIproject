@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Wang%2CGeshuo",
+  "professor": "Wang,Geshuo",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "WIN2026",
+      "course": "AMATH 352",
+      "courseTitle": "LINR ALG & NUM ANLY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "AUT2025",
+      "course": "AMATH 301",
+      "courseTitle": "BEG SCI COMPUTING",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "SUM2025",
+      "course": "AMATH 383",
+      "courseTitle": "INTRODUCT MODELING",
+      "section": "A"
+    }
+  ]
+}

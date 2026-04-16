@@ -1,0 +1,68 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Charisopoulos%2CVasilis",
+  "professor": "Charisopoulos,Vasilis",
+  "recordCount": 6,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "SPR2026",
+      "course": "E E 596",
+      "courseTitle": "ADV TPCS S&I PROC",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "WIN2026",
+      "course": "M E 578",
+      "courseTitle": "CONVEX OPTIMIZATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "WIN2026",
+      "course": "E E 578",
+      "courseTitle": "CONVEX OPTIMIZATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "WIN2026",
+      "course": "CSE 578",
+      "courseTitle": "CONVEX OPTIMIZATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "WIN2026",
+      "course": "A A 578",
+      "courseTitle": "CONVEX OPTIMIZATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "AUT2025",
+      "course": "E E 344",
+      "courseTitle": "DATA-DRV MOD/MCH LRN",
+      "section": "A"
+    }
+  ]
+}

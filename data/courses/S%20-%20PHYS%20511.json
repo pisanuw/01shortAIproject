@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20PHYS%20511",
+  "course": "S - PHYS 511",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "WIN2025",
+      "course": "PHYS 511",
+      "courseTitle": "CONTEMPORARY PHYSIC",
+      "section": "A",
+      "instructor": "Lubatti,Henry J"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "SPR2023",
+      "course": "PHYS 511",
+      "courseTitle": "CONTEMPORARY PHYSIC",
+      "section": "A",
+      "instructor": "Hertzog,David"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "SPR2021",
+      "course": "PHYS 511",
+      "courseTitle": "CONTEMPORARY PHYSIC",
+      "section": "A",
+      "instructor": "Hertzog,David"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "G%20Robins%2CLori",
+  "professor": "G Robins,Lori",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bchem",
+      "deptName": "Chemistry",
+      "term": "AUT2021",
+      "course": "B CHEM 366",
+      "courseTitle": "BIOCHEMISTRY LAB",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbio",
+      "deptName": "Biology",
+      "term": "AUT2021",
+      "course": "B BIO 366",
+      "courseTitle": "BIOCHEMISTRY LAB",
+      "section": "A"
+    }
+  ]
+}

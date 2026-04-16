@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Bilaniuk%2CL",
+  "professor": "Bilaniuk,L",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2021",
+      "course": "LING 203",
+      "courseTitle": "INTRO TO ANTH LING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "anthro",
+      "deptName": "Anthropology",
+      "term": "AUT2021",
+      "course": "ANTH 203",
+      "courseTitle": "INTRO TO ANTH LING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "anthro",
+      "deptName": "Anthropology",
+      "term": "SPR2021",
+      "course": "ANTH 479",
+      "courseTitle": "ADV TOPICS MED ANTH",
+      "section": "B"
+    }
+  ]
+}

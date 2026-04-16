@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Pardeshi%2CSoham",
+  "professor": "Pardeshi,Soham",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "SUM2023",
+      "course": "CSE 331",
+      "courseTitle": "SW DESIGN & IMPL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "SUM2022",
+      "course": "CSE 331",
+      "courseTitle": "SW DESIGN & IMPL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "SUM2021",
+      "course": "CSE 163",
+      "courseTitle": "INTERM DATA PROGRAM",
+      "section": "A"
+    }
+  ]
+}

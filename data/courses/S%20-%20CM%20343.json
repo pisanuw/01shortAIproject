@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20CM%20343",
+  "course": "S - CM 343",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 343",
+      "courseTitle": "CONST MTHD & MAT III",
+      "section": "A",
+      "instructor": "Smith,Matt"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 343",
+      "courseTitle": "CONST MTHD & MAT III",
+      "section": "A",
+      "instructor": "Migliaccio,Giovanni C"
+    }
+  ]
+}

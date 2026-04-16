@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Wener%2CM",
+  "professor": "Wener,M",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2021",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2020",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A"
+    }
+  ]
+}

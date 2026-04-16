@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Scott%2CJeff",
+  "professor": "Scott,Jeff",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "finance",
+      "deptName": "Finance",
+      "term": "SPR2026",
+      "course": "FIN 205",
+      "courseTitle": "PERS FIN LIT",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "finance",
+      "deptName": "Finance",
+      "term": "AUT2024",
+      "course": "FIN 205",
+      "courseTitle": "PERS FIN LIT",
+      "section": "D"
+    }
+  ]
+}

@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-04-15T16:27:55Z",
+  "generatedAt": "2026-04-16T02:57:11Z",
   "campus": "S",
   "dept": "cling",
   "deptName": "Classical Linguistics",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "cling",
+      "deptName": "Classical Linguistics",
+      "term": "AUT2021",
+      "course": "CL LI 501",
+      "courseTitle": "COMP PHNLGY GRK&LAT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cling",
+      "deptName": "Classical Linguistics",
+      "term": "SPR2026",
+      "course": "CL LI 501",
+      "courseTitle": "COMP PHNLGY GRK&LAT",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
 }

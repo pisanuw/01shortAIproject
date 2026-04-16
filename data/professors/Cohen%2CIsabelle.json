@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Cohen%2CIsabelle",
+  "professor": "Cohen,Isabelle",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ppm",
+      "deptName": "Public Policy and Management",
+      "term": "SPR2026",
+      "course": "PPM 512",
+      "courseTitle": "DATA ANALYSIS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "pubpol",
+      "deptName": "Public Policy",
+      "term": "WIN2026",
+      "course": "PUBPOL 575",
+      "courseTitle": "TAX & SOCIAL POLICY",
+      "section": "A"
+    }
+  ]
+}

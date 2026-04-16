@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Salmon%2CJames%20Jason",
+  "professor": "Salmon,James Jason",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "SUM2024",
+      "course": "IND E 587",
+      "courseTitle": "TECH ENTREP SYS ENGR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "SUM2023",
+      "course": "IND E 587",
+      "courseTitle": "TECH ENTREP SYS ENGR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "SUM2022",
+      "course": "IND E 587",
+      "courseTitle": "TECH ENTREP SYS ENGR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "SUM2021",
+      "course": "IND E 599",
+      "courseTitle": "SPECIAL TOPICS IE",
+      "section": "B"
+    }
+  ]
+}

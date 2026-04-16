@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Muench%2CSteve",
+  "professor": "Muench,Steve",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cesi",
+      "deptName": "Construction, Energy, and Sustainable Infrastructure",
+      "term": "SUM2022",
+      "course": "CESI 596",
+      "courseTitle": "PAVE CONSTRUCTION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cesi",
+      "deptName": "Construction, Energy, and Sustainable Infrastructure",
+      "term": "SPR2022",
+      "course": "CESI 592",
+      "courseTitle": "STAT FUND CONST APP",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cesi",
+      "deptName": "Construction, Energy, and Sustainable Infrastructure",
+      "term": "SPR2021",
+      "course": "CESI 592",
+      "courseTitle": "STAT FUND CONST APP",
+      "section": "A"
+    }
+  ]
+}

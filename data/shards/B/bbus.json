@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:24:44Z",
+  "generatedAt": "2026-04-16T02:57:08Z",
   "campus": "B",
   "dept": "bbus",
   "deptName": "Business",
@@ -2782,7 +2782,7 @@
       "course": "B BUS 534",
       "courseTitle": "HUMAN RESOURCE MGMT",
       "section": "A",
-      "instructor": "Follmer,Elizabeth H"
+      "instructor": "P Follmer,Elizabeth H"
     },
     {
       "campus": "B",
@@ -2802,7 +2802,7 @@
       "course": "B BUS 590",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "Francetich,Alejandro"
+      "instructor": "P Francetich,Alejandro"
     },
     {
       "campus": "B",
@@ -3562,7 +3562,7 @@
       "course": "B BUS 502",
       "courseTitle": "BUSINESS STATISTICS",
       "section": "B",
-      "instructor": "Kennedy,D"
+      "instructor": "P ELC DENALI Kennedy,D"
     },
     {
       "campus": "B",
@@ -3582,7 +3582,7 @@
       "course": "B BUS 507",
       "courseTitle": "GLOBAL BIZ",
       "section": "B",
-      "instructor": "Badshah,Akhtar"
+      "instructor": "P ELC EVEREST Badshah,Akhtar"
     },
     {
       "campus": "B",
@@ -3602,17 +3602,7 @@
       "course": "B BUS 509",
       "courseTitle": "OPERATIONS MGMT",
       "section": "B",
-      "instructor": "Ozkan-Seely,G"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "AUT2021",
-      "course": "B BUS 510",
-      "courseTitle": "MANAGING ORG EFFECT",
-      "section": "A",
-      "instructor": "Trapido,Denis"
+      "instructor": "P ELC EVEREST Ozkan-Seely,G"
     },
     {
       "campus": "B",
@@ -3622,6 +3612,16 @@
       "course": "B BUS 510",
       "courseTitle": "MANAGING ORG EFFECT",
       "section": "B",
+      "instructor": "P ELC DENALI Trapido,D"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "AUT2021",
+      "course": "B BUS 510",
+      "courseTitle": "MANAGING ORG EFFECT",
+      "section": "A",
       "instructor": "Trapido,Denis"
     },
     {
@@ -4272,7 +4272,7 @@
       "course": "B BUS 468",
       "courseTitle": "ADV ACCT ANALYTICS",
       "section": "A",
-      "instructor": "Doogar,Rajib"
+      "instructor": "G Doogar,Rajib"
     },
     {
       "campus": "B",
@@ -4442,7 +4442,7 @@
       "course": "B BUS 503",
       "courseTitle": "FIN ACCTG",
       "section": "B",
-      "instructor": "Krishna Moorthy,Lakshmana"
+      "instructor": "P ELC DENALI Krishna Moorthy,Lakshmana"
     },
     {
       "campus": "B",
@@ -4462,7 +4462,7 @@
       "course": "B BUS 504",
       "courseTitle": "MICROECON",
       "section": "B",
-      "instructor": "Gomez,Juan Camilo"
+      "instructor": "P ELC DENALI Gomez,J"
     },
     {
       "campus": "B",
@@ -4472,7 +4472,7 @@
       "course": "B BUS 514",
       "courseTitle": "BUSINESS COMM",
       "section": "A",
-      "instructor": "Dusche,Michael"
+      "instructor": "ELC EVEREST Dusche,Michael"
     },
     {
       "campus": "B",
@@ -4502,7 +4502,7 @@
       "course": "B BUS 533",
       "courseTitle": "ADV LEADERSHIP",
       "section": "A",
-      "instructor": "Leroy,Sophie C. Avila"
+      "instructor": "P ELC EVEREST Leroy,Sophie C. Avila"
     },
     {
       "campus": "B",
@@ -4512,7 +4512,7 @@
       "course": "B BUS 534",
       "courseTitle": "HUMAN RESOURCE MGMT",
       "section": "A",
-      "instructor": "Follmer,Elizabeth H"
+      "instructor": "P ELC EVEREST Follmer,Elizabeth H"
     },
     {
       "campus": "B",
@@ -5322,7 +5322,7 @@
       "course": "B BUS 505",
       "courseTitle": "FIN MGMT",
       "section": "B",
-      "instructor": "Anthony,Andrea"
+      "instructor": "P ELC EVEREST Anthony,A"
     },
     {
       "campus": "B",
@@ -5342,7 +5342,7 @@
       "course": "B BUS 506",
       "courseTitle": "MKTG MGMT",
       "section": "B",
-      "instructor": "Nie,Xiaodong"
+      "instructor": "P ELC DENALI Nie,Xiaodong"
     },
     {
       "campus": "B",
@@ -5362,7 +5362,7 @@
       "course": "B BUS 512",
       "courseTitle": "STRATEGIC MGT",
       "section": "B",
-      "instructor": "Jones,Stephen"
+      "instructor": "P ELC EVEREST Jones,S"
     },
     {
       "campus": "B",
@@ -7611,8 +7611,8 @@
       "term": "SPR2023",
       "course": "B BUS 307",
       "courseTitle": "BUSINESS WRITING",
-      "section": "A",
-      "instructor": "Phillips,Billy S"
+      "section": "D",
+      "instructor": "B Phillips,Billy S"
     },
     {
       "campus": "B",
@@ -7621,7 +7621,7 @@
       "term": "SPR2023",
       "course": "B BUS 307",
       "courseTitle": "BUSINESS WRITING",
-      "section": "D",
+      "section": "A",
       "instructor": "Phillips,Billy S"
     },
     {
@@ -14612,7 +14612,7 @@
       "course": "B BUS 110",
       "courseTitle": "PERSONAL FINANCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wright,Rob"
     },
     {
       "campus": "B",
@@ -14622,7 +14622,7 @@
       "course": "B BUS 201",
       "courseTitle": "INTRO TO BUSINESS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Khaleghi,Dariush"
     },
     {
       "campus": "B",
@@ -14632,7 +14632,7 @@
       "course": "B BUS 210",
       "courseTitle": "PRINS FINCL ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cunningham,Kim"
     },
     {
       "campus": "B",
@@ -14642,7 +14642,7 @@
       "course": "B BUS 210",
       "courseTitle": "PRINS FINCL ACCTG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Cunningham,Kim"
     },
     {
       "campus": "B",
@@ -14652,7 +14652,7 @@
       "course": "B BUS 210",
       "courseTitle": "PRINS FINCL ACCTG",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Krishnan,Murgie"
     },
     {
       "campus": "B",
@@ -14662,7 +14662,7 @@
       "course": "B BUS 211",
       "courseTitle": "PRINS MGRL ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ahhuja,Renukka"
     },
     {
       "campus": "B",
@@ -14672,7 +14672,7 @@
       "course": "B BUS 211",
       "courseTitle": "PRINS MGRL ACCTG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Ahhuja,Renukka"
     },
     {
       "campus": "B",
@@ -14682,37 +14682,7 @@
       "course": "B BUS 215",
       "courseTitle": "INTRO TO BUS STATS",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "AUT2025",
-      "course": "B BUS 215",
-      "courseTitle": "INTRO TO BUS STATS",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "AUT2025",
-      "course": "B BUS 215",
-      "courseTitle": "INTRO TO BUS STATS",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "AUT2025",
-      "course": "B BUS 215",
-      "courseTitle": "INTRO TO BUS STATS",
-      "section": "D",
-      "instructor": "TBA"
+      "instructor": "Agrawal,Jyoti"
     },
     {
       "campus": "B",
@@ -14722,7 +14692,37 @@
       "course": "B BUS 215",
       "courseTitle": "INTRO TO BUS STATS",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Agrawal,Jyoti"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "AUT2025",
+      "course": "B BUS 215",
+      "courseTitle": "INTRO TO BUS STATS",
+      "section": "B",
+      "instructor": "O'Neill,Kim"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "AUT2025",
+      "course": "B BUS 215",
+      "courseTitle": "INTRO TO BUS STATS",
+      "section": "C",
+      "instructor": "O'Neill,Kim"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "AUT2025",
+      "course": "B BUS 215",
+      "courseTitle": "INTRO TO BUS STATS",
+      "section": "D",
+      "instructor": "Williams,Debby"
     },
     {
       "campus": "B",
@@ -14741,8 +14741,8 @@
       "term": "AUT2025",
       "course": "B BUS 220",
       "courseTitle": "INTRO MICROECON",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "Kim,Hyun Ji"
     },
     {
       "campus": "B",
@@ -14751,8 +14751,8 @@
       "term": "AUT2025",
       "course": "B BUS 220",
       "courseTitle": "INTRO MICROECON",
-      "section": "C",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Nurmukhametov,Gani"
     },
     {
       "campus": "B",
@@ -14762,7 +14762,7 @@
       "course": "B BUS 221",
       "courseTitle": "INTRO MACROECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nedita,Codrin"
     },
     {
       "campus": "B",
@@ -14772,7 +14772,27 @@
       "course": "B BUS 221",
       "courseTitle": "INTRO MACROECON",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Nedita,Codrin"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "AUT2025",
+      "course": "B BUS 230",
+      "courseTitle": "INTRO TO BUS LAW",
+      "section": "B",
+      "instructor": "Bales,Bebe"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "AUT2025",
+      "course": "B BUS 230",
+      "courseTitle": "INTRO TO BUS LAW",
+      "section": "C",
+      "instructor": "Bales,Bebe"
     },
     {
       "campus": "B",
@@ -14789,30 +14809,10 @@
       "dept": "bbus",
       "deptName": "Business",
       "term": "AUT2025",
-      "course": "B BUS 230",
-      "courseTitle": "INTRO TO BUS LAW",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "AUT2025",
-      "course": "B BUS 230",
-      "courseTitle": "INTRO TO BUS LAW",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "AUT2025",
       "course": "B BUS 300",
       "courseTitle": "ORG BEHAVIOR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mariam,Misha"
     },
     {
       "campus": "B",
@@ -14822,7 +14822,7 @@
       "course": "B BUS 300",
       "courseTitle": "ORG BEHAVIOR",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Mariam,Misha"
     },
     {
       "campus": "B",
@@ -14832,7 +14832,7 @@
       "course": "B BUS 300",
       "courseTitle": "ORG BEHAVIOR",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Mariam,Misha"
     },
     {
       "campus": "B",
@@ -14842,7 +14842,7 @@
       "course": "B BUS 300",
       "courseTitle": "ORG BEHAVIOR",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Xiao,Vivian Lu"
     },
     {
       "campus": "B",
@@ -14852,7 +14852,7 @@
       "course": "B BUS 300",
       "courseTitle": "ORG BEHAVIOR",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Xiao,Vivian Lu"
     },
     {
       "campus": "B",
@@ -14862,7 +14862,7 @@
       "course": "B BUS 300",
       "courseTitle": "ORG BEHAVIOR",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Xiao,Vivian Lu"
     },
     {
       "campus": "B",
@@ -14872,7 +14872,7 @@
       "course": "B BUS 301",
       "courseTitle": "DATA MANAGEMENT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nedita,Codrin"
     },
     {
       "campus": "B",
@@ -14882,7 +14882,7 @@
       "course": "B BUS 307",
       "courseTitle": "BUSINESS WRITING",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Phillips,Billy S"
     },
     {
       "campus": "B",
@@ -14892,7 +14892,7 @@
       "course": "B BUS 307",
       "courseTitle": "BUSINESS WRITING",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Phillips,Billy S"
     },
     {
       "campus": "B",
@@ -14902,7 +14902,7 @@
       "course": "B BUS 307",
       "courseTitle": "BUSINESS WRITING",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Phillips,Billy S"
     },
     {
       "campus": "B",
@@ -14912,7 +14912,7 @@
       "course": "B BUS 307",
       "courseTitle": "BUSINESS WRITING",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Shaw,Katherine D"
     },
     {
       "campus": "B",
@@ -14922,7 +14922,7 @@
       "course": "B BUS 307",
       "courseTitle": "BUSINESS WRITING",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Shaw,Katherine D"
     },
     {
       "campus": "B",
@@ -14941,28 +14941,8 @@
       "term": "AUT2025",
       "course": "B BUS 310",
       "courseTitle": "MANAGERIAL ECON",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "AUT2025",
-      "course": "B BUS 310",
-      "courseTitle": "MANAGERIAL ECON",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "AUT2025",
-      "course": "B BUS 310",
-      "courseTitle": "MANAGERIAL ECON",
-      "section": "C",
-      "instructor": "TBA"
+      "section": "E",
+      "instructor": "Das,Ram Utkarsh"
     },
     {
       "campus": "B",
@@ -14972,7 +14952,7 @@
       "course": "B BUS 310",
       "courseTitle": "MANAGERIAL ECON",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Francetich,Alejandro"
     },
     {
       "campus": "B",
@@ -14981,18 +14961,28 @@
       "term": "AUT2025",
       "course": "B BUS 310",
       "courseTitle": "MANAGERIAL ECON",
-      "section": "E",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Gomez,Juan Camilo"
     },
     {
       "campus": "B",
       "dept": "bbus",
       "deptName": "Business",
       "term": "AUT2025",
-      "course": "B BUS 320",
-      "courseTitle": "MARKETING MGMT",
-      "section": "A",
-      "instructor": "TBA"
+      "course": "B BUS 310",
+      "courseTitle": "MANAGERIAL ECON",
+      "section": "B",
+      "instructor": "Gomez,Juan Camilo"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "AUT2025",
+      "course": "B BUS 310",
+      "courseTitle": "MANAGERIAL ECON",
+      "section": "C",
+      "instructor": "Gomez,Juan Camilo"
     },
     {
       "campus": "B",
@@ -15002,7 +14992,7 @@
       "course": "B BUS 320",
       "courseTitle": "MARKETING MGMT",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Grove,Kivalina"
     },
     {
       "campus": "B",
@@ -15012,7 +15002,17 @@
       "course": "B BUS 320",
       "courseTitle": "MARKETING MGMT",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Grove,Kivalina"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "AUT2025",
+      "course": "B BUS 320",
+      "courseTitle": "MARKETING MGMT",
+      "section": "A",
+      "instructor": "Nishihara,Ceri"
     },
     {
       "campus": "B",
@@ -15022,17 +15022,7 @@
       "course": "B BUS 330",
       "courseTitle": "INFO MGMT & ANALYS",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "AUT2025",
-      "course": "B BUS 340",
-      "courseTitle": "OPERTN & PROJ MGMT",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Keskinbicak,Duygu"
     },
     {
       "campus": "B",
@@ -15042,7 +15032,17 @@
       "course": "B BUS 340",
       "courseTitle": "OPERTN & PROJ MGMT",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Pajanen,Johanna"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "AUT2025",
+      "course": "B BUS 340",
+      "courseTitle": "OPERTN & PROJ MGMT",
+      "section": "A",
+      "instructor": "Tewari,Neha"
     },
     {
       "campus": "B",
@@ -15052,7 +15052,7 @@
       "course": "B BUS 340",
       "courseTitle": "OPERTN & PROJ MGMT",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Tewari,Neha"
     },
     {
       "campus": "B",
@@ -15062,7 +15062,7 @@
       "course": "B BUS 350",
       "courseTitle": "BUSINESS FINANCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Choi,Joey"
     },
     {
       "campus": "B",
@@ -15072,7 +15072,7 @@
       "course": "B BUS 350",
       "courseTitle": "BUSINESS FINANCE",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Choi,Joey"
     },
     {
       "campus": "B",
@@ -15082,7 +15082,7 @@
       "course": "B BUS 350",
       "courseTitle": "BUSINESS FINANCE",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Choi,Joey"
     },
     {
       "campus": "B",
@@ -15092,7 +15092,7 @@
       "course": "B BUS 361",
       "courseTitle": "INTERMED ACCTG I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Krishna Moorthy,Lakshmana"
     },
     {
       "campus": "B",
@@ -15102,7 +15102,7 @@
       "course": "B BUS 361",
       "courseTitle": "INTERMED ACCTG I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Krishna Moorthy,Lakshmana"
     },
     {
       "campus": "B",
@@ -15112,7 +15112,7 @@
       "course": "B BUS 363",
       "courseTitle": "ADV FIN ACCT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Krishna Moorthy,Lakshmana"
     },
     {
       "campus": "B",
@@ -15122,7 +15122,7 @@
       "course": "B BUS 373",
       "courseTitle": "COST ACCOUNTING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ahhuja,Renukka"
     },
     {
       "campus": "B",
@@ -15132,7 +15132,7 @@
       "course": "B BUS 402",
       "courseTitle": "MANAGING TEAMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Follmer,Elizabeth H"
     },
     {
       "campus": "B",
@@ -15142,7 +15142,7 @@
       "course": "B BUS 402",
       "courseTitle": "MANAGING TEAMS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Follmer,Elizabeth H"
     },
     {
       "campus": "B",
@@ -15152,7 +15152,7 @@
       "course": "B BUS 411",
       "courseTitle": "AUDIT THEORY & PRAC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Reinke,Matthew"
     },
     {
       "campus": "B",
@@ -15162,7 +15162,7 @@
       "course": "B BUS 412",
       "courseTitle": "ADV BUSINESS LAW",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Page,Norm"
     },
     {
       "campus": "B",
@@ -15172,7 +15172,7 @@
       "course": "B BUS 421",
       "courseTitle": "CONSUMER MARKETING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nishihara,Ceri"
     },
     {
       "campus": "B",
@@ -15182,7 +15182,7 @@
       "course": "B BUS 423",
       "courseTitle": "MARKET INTELLIGENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nie,Xiaodong"
     },
     {
       "campus": "B",
@@ -15192,7 +15192,7 @@
       "course": "B BUS 423",
       "courseTitle": "MARKET INTELLIGENCE",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Nie,Xiaodong"
     },
     {
       "campus": "B",
@@ -15202,7 +15202,7 @@
       "course": "B BUS 426",
       "courseTitle": "INTL MARKETING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nishihara,Ceri"
     },
     {
       "campus": "B",
@@ -15212,7 +15212,7 @@
       "course": "B BUS 427",
       "courseTitle": "ENTREPREN MARKETING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Johnson,Christy"
     },
     {
       "campus": "B",
@@ -15222,7 +15222,7 @@
       "course": "B BUS 441",
       "courseTitle": "BUS PROJECT MGT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cuhaciyan,Nick"
     },
     {
       "campus": "B",
@@ -15232,7 +15232,7 @@
       "course": "B BUS 444",
       "courseTitle": "PRODUCT DEVEL LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gonzalez,Alan"
     },
     {
       "campus": "B",
@@ -15242,7 +15242,7 @@
       "course": "B BUS 445",
       "courseTitle": "MERCHANDISE ACQUI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sundar,Kamal"
     },
     {
       "campus": "B",
@@ -15252,7 +15252,7 @@
       "course": "B BUS 450",
       "courseTitle": "FED INCOME TAXATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ishii,Raymond"
     },
     {
       "campus": "B",
@@ -15262,7 +15262,7 @@
       "course": "B BUS 450",
       "courseTitle": "FED INCOME TAXATION",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Sogge,Kyle Douglas"
     },
     {
       "campus": "B",
@@ -15272,7 +15272,7 @@
       "course": "B BUS 451",
       "courseTitle": "FIN POLC AND PRAC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Li,Ying"
     },
     {
       "campus": "B",
@@ -15282,7 +15282,7 @@
       "course": "B BUS 451",
       "courseTitle": "FIN POLC AND PRAC",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Li,Ying"
     },
     {
       "campus": "B",
@@ -15292,7 +15292,7 @@
       "course": "B BUS 452",
       "courseTitle": "FINANCIAL MODELING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Batebi,Solmaz"
     },
     {
       "campus": "B",
@@ -15302,7 +15302,7 @@
       "course": "B BUS 453",
       "courseTitle": "FIN INST & MAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Batebi,Solmaz"
     },
     {
       "campus": "B",
@@ -15312,7 +15312,7 @@
       "course": "B BUS 454",
       "courseTitle": "INVESTMENTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anthony,Andrea"
     },
     {
       "campus": "B",
@@ -15322,7 +15322,7 @@
       "course": "B BUS 454",
       "courseTitle": "INVESTMENTS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Anthony,Andrea"
     },
     {
       "campus": "B",
@@ -15332,7 +15332,7 @@
       "course": "B BUS 460",
       "courseTitle": "SUSTAINABLE BUS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fleming,Brandon"
     },
     {
       "campus": "B",
@@ -15342,7 +15342,7 @@
       "course": "B BUS 470",
       "courseTitle": "B POL & STRTGC MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Barr,Victor"
     },
     {
       "campus": "B",
@@ -15352,7 +15352,7 @@
       "course": "B BUS 470",
       "courseTitle": "B POL & STRTGC MGMT",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Johnson,Christy"
     },
     {
       "campus": "B",
@@ -15362,7 +15362,7 @@
       "course": "B BUS 473",
       "courseTitle": "LDRSHIP & DECSNMKG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fletcher,Shannon"
     },
     {
       "campus": "B",
@@ -15372,7 +15372,7 @@
       "course": "B BUS 476",
       "courseTitle": "NEW TECH & FUTR MKTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jacroux,Richard"
     },
     {
       "campus": "B",
@@ -15382,7 +15382,7 @@
       "course": "B BUS 477",
       "courseTitle": "HUMAN RES MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Khaleghi,Dariush"
     },
     {
       "campus": "B",
@@ -15392,7 +15392,7 @@
       "course": "B BUS 480",
       "courseTitle": "GLOBAL ENV OF BUS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fleming,Brandon"
     },
     {
       "campus": "B",
@@ -15402,7 +15402,7 @@
       "course": "B BUS 480",
       "courseTitle": "GLOBAL ENV OF BUS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Shaw,David S."
     },
     {
       "campus": "B",
@@ -15412,7 +15412,7 @@
       "course": "B BUS 482",
       "courseTitle": "INTRO SUPPLY CHN MGT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Thaker,Nikhil"
     },
     {
       "campus": "B",
@@ -15452,7 +15452,7 @@
       "course": "B BUS 501",
       "courseTitle": "LDR & TEAM WKSHP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Leroy,Sophie C. Avila"
     },
     {
       "campus": "B",
@@ -15462,7 +15462,7 @@
       "course": "B BUS 502",
       "courseTitle": "BUSINESS STATISTICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nielubowicz,Daniel"
     },
     {
       "campus": "B",
@@ -15472,7 +15472,7 @@
       "course": "B BUS 502",
       "courseTitle": "BUSINESS STATISTICS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Nielubowicz,Daniel"
     },
     {
       "campus": "B",
@@ -15482,7 +15482,7 @@
       "course": "B BUS 509",
       "courseTitle": "OPERATIONS MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ozkan-Seely,G"
     },
     {
       "campus": "B",
@@ -15492,7 +15492,7 @@
       "course": "B BUS 509",
       "courseTitle": "OPERATIONS MGMT",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Ozkan-Seely,G"
     },
     {
       "campus": "B",
@@ -15502,7 +15502,7 @@
       "course": "B BUS 510",
       "courseTitle": "MANAGING ORG EFFECT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Trapido,Denis"
     },
     {
       "campus": "B",
@@ -15512,7 +15512,7 @@
       "course": "B BUS 510",
       "courseTitle": "MANAGING ORG EFFECT",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Trapido,Denis"
     },
     {
       "campus": "B",
@@ -15522,7 +15522,7 @@
       "course": "B BUS 510",
       "courseTitle": "MANAGING ORG EFFECT",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Trapido,Denis"
     },
     {
       "campus": "B",
@@ -15532,7 +15532,7 @@
       "course": "B BUS 510",
       "courseTitle": "MANAGING ORG EFFECT",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Trapido,Denis"
     },
     {
       "campus": "B",
@@ -15542,7 +15542,7 @@
       "course": "B BUS 531",
       "courseTitle": "LEAD AND SOC RESP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Provost,Britt"
     },
     {
       "campus": "B",
@@ -15552,7 +15552,7 @@
       "course": "B BUS 531",
       "courseTitle": "LEAD AND SOC RESP",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Provost,Britt"
     },
     {
       "campus": "B",
@@ -15562,7 +15562,7 @@
       "course": "B BUS 560",
       "courseTitle": "SUSTAINABLE BUS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fleming,Brandon"
     },
     {
       "campus": "B",
@@ -15592,7 +15592,7 @@
       "course": "B BUS 110",
       "courseTitle": "PERSONAL FINANCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wright,Rob"
     },
     {
       "campus": "B",
@@ -15602,7 +15602,7 @@
       "course": "B BUS 201",
       "courseTitle": "INTRO TO BUSINESS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Khaleghi,Dariush"
     },
     {
       "campus": "B",
@@ -15612,7 +15612,7 @@
       "course": "B BUS 210",
       "courseTitle": "PRINS FINCL ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cunningham,Kim"
     },
     {
       "campus": "B",
@@ -15622,7 +15622,7 @@
       "course": "B BUS 210",
       "courseTitle": "PRINS FINCL ACCTG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Hines,Kenneth James"
     },
     {
       "campus": "B",
@@ -15632,7 +15632,7 @@
       "course": "B BUS 210",
       "courseTitle": "PRINS FINCL ACCTG",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Hines,Kenneth James"
     },
     {
       "campus": "B",
@@ -15642,7 +15642,7 @@
       "course": "B BUS 211",
       "courseTitle": "PRINS MGRL ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ahhuja,Renukka"
     },
     {
       "campus": "B",
@@ -15652,7 +15652,7 @@
       "course": "B BUS 211",
       "courseTitle": "PRINS MGRL ACCTG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Cunningham,Kim"
     },
     {
       "campus": "B",
@@ -15662,27 +15662,7 @@
       "course": "B BUS 211",
       "courseTitle": "PRINS MGRL ACCTG",
       "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "WIN2026",
-      "course": "B BUS 215",
-      "courseTitle": "INTRO TO BUS STATS",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "WIN2026",
-      "course": "B BUS 215",
-      "courseTitle": "INTRO TO BUS STATS",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Cunningham,Kim"
     },
     {
       "campus": "B",
@@ -15692,7 +15672,7 @@
       "course": "B BUS 215",
       "courseTitle": "INTRO TO BUS STATS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Nielubowicz,Daniel"
     },
     {
       "campus": "B",
@@ -15702,7 +15682,27 @@
       "course": "B BUS 215",
       "courseTitle": "INTRO TO BUS STATS",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "O'Neill,Kim"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "WIN2026",
+      "course": "B BUS 215",
+      "courseTitle": "INTRO TO BUS STATS",
+      "section": "A",
+      "instructor": "Tewari,Anurag"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "WIN2026",
+      "course": "B BUS 215",
+      "courseTitle": "INTRO TO BUS STATS",
+      "section": "B",
+      "instructor": "Tewari,Anurag"
     },
     {
       "campus": "B",
@@ -15712,7 +15712,7 @@
       "course": "B BUS 215",
       "courseTitle": "INTRO TO BUS STATS",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Tewari,Anurag"
     },
     {
       "campus": "B",
@@ -15722,7 +15722,7 @@
       "course": "B BUS 220",
       "courseTitle": "INTRO MICROECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nedita,Codrin"
     },
     {
       "campus": "B",
@@ -15732,7 +15732,7 @@
       "course": "B BUS 220",
       "courseTitle": "INTRO MICROECON",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Nedita,Codrin"
     },
     {
       "campus": "B",
@@ -15742,7 +15742,7 @@
       "course": "B BUS 220",
       "courseTitle": "INTRO MICROECON",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Nurmukhametov,Gani"
     },
     {
       "campus": "B",
@@ -15762,7 +15762,7 @@
       "course": "B BUS 221",
       "courseTitle": "INTRO MACROECON",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Effendy,Alfredo Nicholas"
     },
     {
       "campus": "B",
@@ -15772,17 +15772,7 @@
       "course": "B BUS 221",
       "courseTitle": "INTRO MACROECON",
       "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "WIN2026",
-      "course": "B BUS 230",
-      "courseTitle": "INTRO TO BUS LAW",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lee,Wonjin"
     },
     {
       "campus": "B",
@@ -15792,7 +15782,7 @@
       "course": "B BUS 230",
       "courseTitle": "INTRO TO BUS LAW",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Bales,Bebe"
     },
     {
       "campus": "B",
@@ -15802,7 +15792,17 @@
       "course": "B BUS 230",
       "courseTitle": "INTRO TO BUS LAW",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Bales,Bebe"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "WIN2026",
+      "course": "B BUS 230",
+      "courseTitle": "INTRO TO BUS LAW",
+      "section": "A",
+      "instructor": "Umetsu,Laura K."
     },
     {
       "campus": "B",
@@ -15812,17 +15812,7 @@
       "course": "B BUS 300",
       "courseTitle": "ORG BEHAVIOR",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "WIN2026",
-      "course": "B BUS 300",
-      "courseTitle": "ORG BEHAVIOR",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Follmer,Elizabeth H"
     },
     {
       "campus": "B",
@@ -15832,7 +15822,17 @@
       "course": "B BUS 300",
       "courseTitle": "ORG BEHAVIOR",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Follmer,Elizabeth H"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "WIN2026",
+      "course": "B BUS 300",
+      "courseTitle": "ORG BEHAVIOR",
+      "section": "B",
+      "instructor": "Xiao,Vivian Lu"
     },
     {
       "campus": "B",
@@ -15842,7 +15842,7 @@
       "course": "B BUS 300",
       "courseTitle": "ORG BEHAVIOR",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Xiao,Vivian Lu"
     },
     {
       "campus": "B",
@@ -15852,7 +15852,7 @@
       "course": "B BUS 301",
       "courseTitle": "DATA MANAGEMENT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nedita,Codrin"
     },
     {
       "campus": "B",
@@ -15862,7 +15862,7 @@
       "course": "B BUS 307",
       "courseTitle": "BUSINESS WRITING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Phillips,Billy S"
     },
     {
       "campus": "B",
@@ -15872,7 +15872,7 @@
       "course": "B BUS 307",
       "courseTitle": "BUSINESS WRITING",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Phillips,Billy S"
     },
     {
       "campus": "B",
@@ -15882,7 +15882,7 @@
       "course": "B BUS 307",
       "courseTitle": "BUSINESS WRITING",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Shaw,Katherine D"
     },
     {
       "campus": "B",
@@ -15892,7 +15892,7 @@
       "course": "B BUS 307",
       "courseTitle": "BUSINESS WRITING",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Shaw,Katherine D"
     },
     {
       "campus": "B",
@@ -15922,17 +15922,7 @@
       "course": "B BUS 310",
       "courseTitle": "MANAGERIAL ECON",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "WIN2026",
-      "course": "B BUS 310",
-      "courseTitle": "MANAGERIAL ECON",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Bejan,Camelia"
     },
     {
       "campus": "B",
@@ -15942,7 +15932,7 @@
       "course": "B BUS 310",
       "courseTitle": "MANAGERIAL ECON",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Bejan,Camelia"
     },
     {
       "campus": "B",
@@ -15952,7 +15942,17 @@
       "course": "B BUS 310",
       "courseTitle": "MANAGERIAL ECON",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Das,Ram Utkarsh"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "WIN2026",
+      "course": "B BUS 310",
+      "courseTitle": "MANAGERIAL ECON",
+      "section": "B",
+      "instructor": "Moore,Daniel"
     },
     {
       "campus": "B",
@@ -15962,27 +15962,7 @@
       "course": "B BUS 320",
       "courseTitle": "MARKETING MGMT",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "WIN2026",
-      "course": "B BUS 320",
-      "courseTitle": "MARKETING MGMT",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "WIN2026",
-      "course": "B BUS 320",
-      "courseTitle": "MARKETING MGMT",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Grove,Kivalina"
     },
     {
       "campus": "B",
@@ -15992,7 +15972,7 @@
       "course": "B BUS 320",
       "courseTitle": "MARKETING MGMT",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Grove,Kivalina"
     },
     {
       "campus": "B",
@@ -16002,7 +15982,27 @@
       "course": "B BUS 320",
       "courseTitle": "MARKETING MGMT",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Lo,Alison K"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "WIN2026",
+      "course": "B BUS 320",
+      "courseTitle": "MARKETING MGMT",
+      "section": "B",
+      "instructor": "Yang,Ying"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "WIN2026",
+      "course": "B BUS 320",
+      "courseTitle": "MARKETING MGMT",
+      "section": "C",
+      "instructor": "Yang,Ying"
     },
     {
       "campus": "B",
@@ -16012,7 +16012,7 @@
       "course": "B BUS 330",
       "courseTitle": "INFO MGMT & ANALYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Keskinbicak,Duygu"
     },
     {
       "campus": "B",
@@ -16022,7 +16022,7 @@
       "course": "B BUS 340",
       "courseTitle": "OPERTN & PROJ MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Agrawal,Jyoti"
     },
     {
       "campus": "B",
@@ -16032,17 +16032,7 @@
       "course": "B BUS 340",
       "courseTitle": "OPERTN & PROJ MGMT",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "WIN2026",
-      "course": "B BUS 340",
-      "courseTitle": "OPERTN & PROJ MGMT",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Agrawal,Jyoti"
     },
     {
       "campus": "B",
@@ -16052,27 +16042,17 @@
       "course": "B BUS 340",
       "courseTitle": "OPERTN & PROJ MGMT",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Chopra,Shweta"
     },
     {
       "campus": "B",
       "dept": "bbus",
       "deptName": "Business",
       "term": "WIN2026",
-      "course": "B BUS 350",
-      "courseTitle": "BUSINESS FINANCE",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "WIN2026",
-      "course": "B BUS 350",
-      "courseTitle": "BUSINESS FINANCE",
-      "section": "B",
-      "instructor": "TBA"
+      "course": "B BUS 340",
+      "courseTitle": "OPERTN & PROJ MGMT",
+      "section": "C",
+      "instructor": "Pajanen,Johanna"
     },
     {
       "campus": "B",
@@ -16082,7 +16062,7 @@
       "course": "B BUS 350",
       "courseTitle": "BUSINESS FINANCE",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Batebi,Solmaz"
     },
     {
       "campus": "B",
@@ -16092,7 +16072,27 @@
       "course": "B BUS 350",
       "courseTitle": "BUSINESS FINANCE",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Batebi,Solmaz"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "WIN2026",
+      "course": "B BUS 350",
+      "courseTitle": "BUSINESS FINANCE",
+      "section": "A",
+      "instructor": "Choi,Joey"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "WIN2026",
+      "course": "B BUS 350",
+      "courseTitle": "BUSINESS FINANCE",
+      "section": "B",
+      "instructor": "Choi,Joey"
     },
     {
       "campus": "B",
@@ -16102,7 +16102,7 @@
       "course": "B BUS 361",
       "courseTitle": "INTERMED ACCTG I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Krishna Moorthy,Lakshmana"
     },
     {
       "campus": "B",
@@ -16112,7 +16112,7 @@
       "course": "B BUS 361",
       "courseTitle": "INTERMED ACCTG I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Krishna Moorthy,Lakshmana"
     },
     {
       "campus": "B",
@@ -16122,7 +16122,7 @@
       "course": "B BUS 362",
       "courseTitle": "INTERMED ACCTG II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Li,Wei"
     },
     {
       "campus": "B",
@@ -16132,17 +16132,7 @@
       "course": "B BUS 362",
       "courseTitle": "INTERMED ACCTG II",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "WIN2026",
-      "course": "B BUS 373",
-      "courseTitle": "COST ACCOUNTING",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Li,Wei"
     },
     {
       "campus": "B",
@@ -16152,7 +16142,17 @@
       "course": "B BUS 373",
       "courseTitle": "COST ACCOUNTING",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Banerjee,Partha"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "WIN2026",
+      "course": "B BUS 373",
+      "courseTitle": "COST ACCOUNTING",
+      "section": "A",
+      "instructor": "Krishnan,Murgie"
     },
     {
       "campus": "B",
@@ -16162,7 +16162,7 @@
       "course": "B BUS 402",
       "courseTitle": "MANAGING TEAMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Follmer,Elizabeth H"
     },
     {
       "campus": "B",
@@ -16172,7 +16172,7 @@
       "course": "B BUS 431",
       "courseTitle": "E-MARKETING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Yang,Ying"
     },
     {
       "campus": "B",
@@ -16182,7 +16182,7 @@
       "course": "B BUS 431",
       "courseTitle": "E-MARKETING",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Yang,Ying"
     },
     {
       "campus": "B",
@@ -16192,7 +16192,7 @@
       "course": "B BUS 435",
       "courseTitle": "ACCTG INFO SYSTEMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wells,Kara"
     },
     {
       "campus": "B",
@@ -16202,7 +16202,7 @@
       "course": "B BUS 435",
       "courseTitle": "ACCTG INFO SYSTEMS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Wells,Kara"
     },
     {
       "campus": "B",
@@ -16212,7 +16212,7 @@
       "course": "B BUS 438",
       "courseTitle": "MARKETING MGMT LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nishihara,Ceri"
     },
     {
       "campus": "B",
@@ -16222,7 +16222,7 @@
       "course": "B BUS 438",
       "courseTitle": "MARKETING MGMT LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Nishihara,Ceri"
     },
     {
       "campus": "B",
@@ -16232,7 +16232,7 @@
       "course": "B BUS 446",
       "courseTitle": "STRAT RETAIL PROMO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sakay,Suzana"
     },
     {
       "campus": "B",
@@ -16242,7 +16242,7 @@
       "course": "B BUS 451",
       "courseTitle": "FIN POLC AND PRAC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anthony,Andrea"
     },
     {
       "campus": "B",
@@ -16252,7 +16252,7 @@
       "course": "B BUS 451",
       "courseTitle": "FIN POLC AND PRAC",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Anthony,Andrea"
     },
     {
       "campus": "B",
@@ -16262,7 +16262,7 @@
       "course": "B BUS 453",
       "courseTitle": "FIN INST & MAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Batebi,Solmaz"
     },
     {
       "campus": "B",
@@ -16272,7 +16272,7 @@
       "course": "B BUS 454",
       "courseTitle": "INVESTMENTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anthony,Andrea"
     },
     {
       "campus": "B",
@@ -16282,7 +16282,7 @@
       "course": "B BUS 458",
       "courseTitle": "RISK MODELING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bejan,Camelia"
     },
     {
       "campus": "B",
@@ -16292,7 +16292,7 @@
       "course": "B BUS 461",
       "courseTitle": "BUS, GOV'T, & SOC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Khaleghi,Dariush"
     },
     {
       "campus": "B",
@@ -16302,7 +16302,7 @@
       "course": "B BUS 465",
       "courseTitle": "APPLIED FINCL ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Krishnan,Murgie"
     },
     {
       "campus": "B",
@@ -16312,7 +16312,7 @@
       "course": "B BUS 468",
       "courseTitle": "ADV ACCT ANALYTICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Doogar,Rajib"
     },
     {
       "campus": "B",
@@ -16322,27 +16322,7 @@
       "course": "B BUS 470",
       "courseTitle": "B POL & STRTGC MGMT",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "WIN2026",
-      "course": "B BUS 470",
-      "courseTitle": "B POL & STRTGC MGMT",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "WIN2026",
-      "course": "B BUS 470",
-      "courseTitle": "B POL & STRTGC MGMT",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Fleming,Brandon"
     },
     {
       "campus": "B",
@@ -16352,7 +16332,27 @@
       "course": "B BUS 470",
       "courseTitle": "B POL & STRTGC MGMT",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Fleming,Brandon"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "WIN2026",
+      "course": "B BUS 470",
+      "courseTitle": "B POL & STRTGC MGMT",
+      "section": "B",
+      "instructor": "Johnson,Christy"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "WIN2026",
+      "course": "B BUS 470",
+      "courseTitle": "B POL & STRTGC MGMT",
+      "section": "C",
+      "instructor": "Johnson,Christy"
     },
     {
       "campus": "B",
@@ -16362,7 +16362,7 @@
       "course": "B BUS 471",
       "courseTitle": "ENTREPRENEURIAL MGT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jacroux,Richard"
     },
     {
       "campus": "B",
@@ -16372,7 +16372,7 @@
       "course": "B BUS 473",
       "courseTitle": "LDRSHIP & DECSNMKG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Heitzmann,Margaret Franks"
     },
     {
       "campus": "B",
@@ -16382,7 +16382,7 @@
       "course": "B BUS 475",
       "courseTitle": "MANAGING INNOVATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mehrayin,Kamron"
     },
     {
       "campus": "B",
@@ -16392,7 +16392,7 @@
       "course": "B BUS 475",
       "courseTitle": "MANAGING INNOVATION",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Mehrayin,Kamron"
     },
     {
       "campus": "B",
@@ -16402,7 +16402,7 @@
       "course": "B BUS 480",
       "courseTitle": "GLOBAL ENV OF BUS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Shaw,David S."
     },
     {
       "campus": "B",
@@ -16412,7 +16412,7 @@
       "course": "B BUS 480",
       "courseTitle": "GLOBAL ENV OF BUS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Shaw,David S."
     },
     {
       "campus": "B",
@@ -16422,7 +16422,7 @@
       "course": "B BUS 480",
       "courseTitle": "GLOBAL ENV OF BUS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Shaw,David S."
     },
     {
       "campus": "B",
@@ -16432,7 +16432,7 @@
       "course": "B BUS 486",
       "courseTitle": "SPLY CHN RESRC PLNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nielubowicz,Daniel"
     },
     {
       "campus": "B",
@@ -16442,7 +16442,7 @@
       "course": "B BUS 487",
       "courseTitle": "MNG SUPPLY CHN PROC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "O'Neill,Kim"
     },
     {
       "campus": "B",
@@ -16452,7 +16452,7 @@
       "course": "B BUS 490",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Grove,Kivalina"
     },
     {
       "campus": "B",
@@ -16492,7 +16492,7 @@
       "course": "B BUS 503",
       "courseTitle": "FIN ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Doogar,Rajib"
     },
     {
       "campus": "B",
@@ -16502,7 +16502,7 @@
       "course": "B BUS 503",
       "courseTitle": "FIN ACCTG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Doogar,Rajib"
     },
     {
       "campus": "B",
@@ -16512,7 +16512,7 @@
       "course": "B BUS 504",
       "courseTitle": "MICROECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gomez,Juan Camilo"
     },
     {
       "campus": "B",
@@ -16522,7 +16522,7 @@
       "course": "B BUS 504",
       "courseTitle": "MICROECON",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Gomez,Juan Camilo"
     },
     {
       "campus": "B",
@@ -16532,7 +16532,7 @@
       "course": "B BUS 525",
       "courseTitle": "TECH & INNOV MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fleming,Brandon"
     },
     {
       "campus": "B",
@@ -16542,7 +16542,7 @@
       "course": "B BUS 528",
       "courseTitle": "NEW PRODUCT MKTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bellini,Marco"
     },
     {
       "campus": "B",
@@ -16552,7 +16552,7 @@
       "course": "B BUS 533",
       "courseTitle": "ADV LEADERSHIP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Troupe,David D"
     },
     {
       "campus": "B",
@@ -16562,7 +16562,7 @@
       "course": "B BUS 534",
       "courseTitle": "HUMAN RESOURCE MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Provost,Britt"
     },
     {
       "campus": "B",
@@ -16602,27 +16602,7 @@
       "course": "B BUS 110",
       "courseTitle": "PERSONAL FINANCE",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "SPR2026",
-      "course": "B BUS 210",
-      "courseTitle": "PRINS FINCL ACCTG",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "SPR2026",
-      "course": "B BUS 210",
-      "courseTitle": "PRINS FINCL ACCTG",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Johns,Tymon S"
     },
     {
       "campus": "B",
@@ -16632,17 +16612,27 @@
       "course": "B BUS 210",
       "courseTitle": "PRINS FINCL ACCTG",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Campbell,Cory Allen"
     },
     {
       "campus": "B",
       "dept": "bbus",
       "deptName": "Business",
       "term": "SPR2026",
-      "course": "B BUS 211",
-      "courseTitle": "PRINS MGRL ACCTG",
+      "course": "B BUS 210",
+      "courseTitle": "PRINS FINCL ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Krishna Moorthy,Lakshmana"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "SPR2026",
+      "course": "B BUS 210",
+      "courseTitle": "PRINS FINCL ACCTG",
+      "section": "B",
+      "instructor": "Krishna Moorthy,Lakshmana"
     },
     {
       "campus": "B",
@@ -16652,7 +16642,17 @@
       "course": "B BUS 211",
       "courseTitle": "PRINS MGRL ACCTG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Ahhuja,Renukka"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "SPR2026",
+      "course": "B BUS 211",
+      "courseTitle": "PRINS MGRL ACCTG",
+      "section": "A",
+      "instructor": "Wells,Kara"
     },
     {
       "campus": "B",
@@ -16662,7 +16662,7 @@
       "course": "B BUS 215",
       "courseTitle": "INTRO TO BUS STATS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Genkin,Alla"
     },
     {
       "campus": "B",
@@ -16672,7 +16672,7 @@
       "course": "B BUS 215",
       "courseTitle": "INTRO TO BUS STATS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Tewari,Anurag"
     },
     {
       "campus": "B",
@@ -16682,17 +16682,7 @@
       "course": "B BUS 220",
       "courseTitle": "INTRO MICROECON",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "SPR2026",
-      "course": "B BUS 220",
-      "courseTitle": "INTRO MICROECON",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Kim,Hyun Ji"
     },
     {
       "campus": "B",
@@ -16702,7 +16692,17 @@
       "course": "B BUS 220",
       "courseTitle": "INTRO MICROECON",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Nedita,Codrin"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "SPR2026",
+      "course": "B BUS 220",
+      "courseTitle": "INTRO MICROECON",
+      "section": "B",
+      "instructor": "Wang,Yuhan"
     },
     {
       "campus": "B",
@@ -16712,7 +16712,7 @@
       "course": "B BUS 221",
       "courseTitle": "INTRO MACROECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Effendy,Alfredo Nicholas"
     },
     {
       "campus": "B",
@@ -16722,17 +16722,7 @@
       "course": "B BUS 221",
       "courseTitle": "INTRO MACROECON",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "SPR2026",
-      "course": "B BUS 230",
-      "courseTitle": "INTRO TO BUS LAW",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nedita,Codrin"
     },
     {
       "campus": "B",
@@ -16742,7 +16732,17 @@
       "course": "B BUS 230",
       "courseTitle": "INTRO TO BUS LAW",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Bales,Bebe"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "SPR2026",
+      "course": "B BUS 230",
+      "courseTitle": "INTRO TO BUS LAW",
+      "section": "A",
+      "instructor": "Umetsu,Laura K."
     },
     {
       "campus": "B",
@@ -16752,7 +16752,7 @@
       "course": "B BUS 300",
       "courseTitle": "ORG BEHAVIOR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Follmer,Elizabeth H"
     },
     {
       "campus": "B",
@@ -16762,7 +16762,7 @@
       "course": "B BUS 300",
       "courseTitle": "ORG BEHAVIOR",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Follmer,Elizabeth H"
     },
     {
       "campus": "B",
@@ -16772,7 +16772,7 @@
       "course": "B BUS 300",
       "courseTitle": "ORG BEHAVIOR",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Follmer,Elizabeth H"
     },
     {
       "campus": "B",
@@ -16782,7 +16782,7 @@
       "course": "B BUS 301",
       "courseTitle": "DATA MANAGEMENT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nedita,Codrin"
     },
     {
       "campus": "B",
@@ -16792,7 +16792,7 @@
       "course": "B BUS 307",
       "courseTitle": "BUSINESS WRITING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Phillips,Billy S"
     },
     {
       "campus": "B",
@@ -16802,7 +16802,7 @@
       "course": "B BUS 307",
       "courseTitle": "BUSINESS WRITING",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Phillips,Billy S"
     },
     {
       "campus": "B",
@@ -16812,7 +16812,7 @@
       "course": "B BUS 307",
       "courseTitle": "BUSINESS WRITING",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Phillips,Billy S"
     },
     {
       "campus": "B",
@@ -16841,8 +16841,18 @@
       "term": "SPR2026",
       "course": "B BUS 310",
       "courseTitle": "MANAGERIAL ECON",
+      "section": "C",
+      "instructor": "Ahmed,Shabab"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "SPR2026",
+      "course": "B BUS 310",
+      "courseTitle": "MANAGERIAL ECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wei,Xiahua Anny"
     },
     {
       "campus": "B",
@@ -16852,17 +16862,7 @@
       "course": "B BUS 310",
       "courseTitle": "MANAGERIAL ECON",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "SPR2026",
-      "course": "B BUS 310",
-      "courseTitle": "MANAGERIAL ECON",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Wei,Xiahua Anny"
     },
     {
       "campus": "B",
@@ -16872,17 +16872,7 @@
       "course": "B BUS 320",
       "courseTitle": "MARKETING MGMT",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "SPR2026",
-      "course": "B BUS 320",
-      "courseTitle": "MARKETING MGMT",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Grove,Kivalina"
     },
     {
       "campus": "B",
@@ -16892,7 +16882,7 @@
       "course": "B BUS 320",
       "courseTitle": "MARKETING MGMT",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Grove,Kivalina"
     },
     {
       "campus": "B",
@@ -16902,7 +16892,17 @@
       "course": "B BUS 320",
       "courseTitle": "MARKETING MGMT",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Woo,Emily"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "SPR2026",
+      "course": "B BUS 320",
+      "courseTitle": "MARKETING MGMT",
+      "section": "B",
+      "instructor": "Yang,Ying"
     },
     {
       "campus": "B",
@@ -16912,7 +16912,27 @@
       "course": "B BUS 320",
       "courseTitle": "MARKETING MGMT",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Yang,Ying"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "SPR2026",
+      "course": "B BUS 340",
+      "courseTitle": "OPERTN & PROJ MGMT",
+      "section": "C",
+      "instructor": "Agrawal,Jyoti"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "SPR2026",
+      "course": "B BUS 340",
+      "courseTitle": "OPERTN & PROJ MGMT",
+      "section": "E",
+      "instructor": "Agrawal,Jyoti"
     },
     {
       "campus": "B",
@@ -16922,7 +16942,7 @@
       "course": "B BUS 340",
       "courseTitle": "OPERTN & PROJ MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nielubowicz,Daniel"
     },
     {
       "campus": "B",
@@ -16932,17 +16952,7 @@
       "course": "B BUS 340",
       "courseTitle": "OPERTN & PROJ MGMT",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "SPR2026",
-      "course": "B BUS 340",
-      "courseTitle": "OPERTN & PROJ MGMT",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Nielubowicz,Daniel"
     },
     {
       "campus": "B",
@@ -16952,17 +16962,7 @@
       "course": "B BUS 340",
       "courseTitle": "OPERTN & PROJ MGMT",
       "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "SPR2026",
-      "course": "B BUS 340",
-      "courseTitle": "OPERTN & PROJ MGMT",
-      "section": "E",
-      "instructor": "TBA"
+      "instructor": "Versdahl,Matt"
     },
     {
       "campus": "B",
@@ -16972,27 +16972,7 @@
       "course": "B BUS 350",
       "courseTitle": "BUSINESS FINANCE",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "SPR2026",
-      "course": "B BUS 350",
-      "courseTitle": "BUSINESS FINANCE",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "SPR2026",
-      "course": "B BUS 350",
-      "courseTitle": "BUSINESS FINANCE",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Anthony,Andrea"
     },
     {
       "campus": "B",
@@ -17002,7 +16982,27 @@
       "course": "B BUS 350",
       "courseTitle": "BUSINESS FINANCE",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Anthony,Andrea"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "SPR2026",
+      "course": "B BUS 350",
+      "courseTitle": "BUSINESS FINANCE",
+      "section": "B",
+      "instructor": "Batebi,Solmaz"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "SPR2026",
+      "course": "B BUS 350",
+      "courseTitle": "BUSINESS FINANCE",
+      "section": "C",
+      "instructor": "Batebi,Solmaz"
     },
     {
       "campus": "B",
@@ -17012,7 +17012,7 @@
       "course": "B BUS 350",
       "courseTitle": "BUSINESS FINANCE",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Lou,Hong"
     },
     {
       "campus": "B",
@@ -17022,7 +17022,7 @@
       "course": "B BUS 362",
       "courseTitle": "INTERMED ACCTG II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Li,Wei"
     },
     {
       "campus": "B",
@@ -17032,7 +17032,7 @@
       "course": "B BUS 363",
       "courseTitle": "ADV FIN ACCT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Li,Wei"
     },
     {
       "campus": "B",
@@ -17042,7 +17042,7 @@
       "course": "B BUS 363",
       "courseTitle": "ADV FIN ACCT",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Li,Wei"
     },
     {
       "campus": "B",
@@ -17052,7 +17052,7 @@
       "course": "B BUS 402",
       "courseTitle": "MANAGING TEAMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mariam,Misha"
     },
     {
       "campus": "B",
@@ -17062,7 +17062,7 @@
       "course": "B BUS 402",
       "courseTitle": "MANAGING TEAMS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Mariam,Misha"
     },
     {
       "campus": "B",
@@ -17072,7 +17072,7 @@
       "course": "B BUS 411",
       "courseTitle": "AUDIT THEORY & PRAC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Reinke,Matthew"
     },
     {
       "campus": "B",
@@ -17082,7 +17082,7 @@
       "course": "B BUS 411",
       "courseTitle": "AUDIT THEORY & PRAC",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Reinke,Matthew"
     },
     {
       "campus": "B",
@@ -17092,7 +17092,7 @@
       "course": "B BUS 421",
       "courseTitle": "CONSUMER MARKETING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nishihara,Ceri"
     },
     {
       "campus": "B",
@@ -17102,7 +17102,7 @@
       "course": "B BUS 421",
       "courseTitle": "CONSUMER MARKETING",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Nishihara,Ceri"
     },
     {
       "campus": "B",
@@ -17112,7 +17112,7 @@
       "course": "B BUS 423",
       "courseTitle": "MARKET INTELLIGENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nie,Xiaodong"
     },
     {
       "campus": "B",
@@ -17122,7 +17122,7 @@
       "course": "B BUS 426",
       "courseTitle": "INTL MARKETING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nishihara,Ceri"
     },
     {
       "campus": "B",
@@ -17132,7 +17132,7 @@
       "course": "B BUS 435",
       "courseTitle": "ACCTG INFO SYSTEMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wells,Kara"
     },
     {
       "campus": "B",
@@ -17142,7 +17142,7 @@
       "course": "B BUS 441",
       "courseTitle": "BUS PROJECT MGT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cuhaciyan,Nick"
     },
     {
       "campus": "B",
@@ -17152,7 +17152,7 @@
       "course": "B BUS 443",
       "courseTitle": "ENTREPRENEURSHP SEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fleming,Brandon"
     },
     {
       "campus": "B",
@@ -17162,7 +17162,7 @@
       "course": "B BUS 444",
       "courseTitle": "PRODUCT DEVEL LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gonzalez,Alan"
     },
     {
       "campus": "B",
@@ -17172,7 +17172,7 @@
       "course": "B BUS 449",
       "courseTitle": "NOT-FOR-PROFIT ACCT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hines,Kenneth James"
     },
     {
       "campus": "B",
@@ -17182,7 +17182,7 @@
       "course": "B BUS 450",
       "courseTitle": "FED INCOME TAXATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ishii,Raymond"
     },
     {
       "campus": "B",
@@ -17192,7 +17192,7 @@
       "course": "B BUS 452",
       "courseTitle": "FINANCIAL MODELING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Batebi,Solmaz"
     },
     {
       "campus": "B",
@@ -17202,7 +17202,7 @@
       "course": "B BUS 453",
       "courseTitle": "FIN INST & MAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wright,Rob"
     },
     {
       "campus": "B",
@@ -17212,7 +17212,7 @@
       "course": "B BUS 455",
       "courseTitle": "FINANCIAL RISK MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Yeung,Dan"
     },
     {
       "campus": "B",
@@ -17222,7 +17222,7 @@
       "course": "B BUS 461",
       "courseTitle": "BUS, GOV'T, & SOC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Khaleghi,Dariush"
     },
     {
       "campus": "B",
@@ -17232,7 +17232,7 @@
       "course": "B BUS 462",
       "courseTitle": "NEGOTNS CONFLCT MGT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Moynihan,Tyler"
     },
     {
       "campus": "B",
@@ -17242,7 +17242,7 @@
       "course": "B BUS 464",
       "courseTitle": "NEW PRODUCT MKTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bellini,Marco"
     },
     {
       "campus": "B",
@@ -17252,17 +17252,7 @@
       "course": "B BUS 467",
       "courseTitle": "ADVANCED TAXATION",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "SPR2026",
-      "course": "B BUS 470",
-      "courseTitle": "BUS PLCY & STRAT MGT",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sogge,Kyle Douglas"
     },
     {
       "campus": "B",
@@ -17272,7 +17262,7 @@
       "course": "B BUS 470",
       "courseTitle": "BUS PLCY & STRAT MGT",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Barr,Victor"
     },
     {
       "campus": "B",
@@ -17282,7 +17272,17 @@
       "course": "B BUS 470",
       "courseTitle": "BUS PLCY & STRAT MGT",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Barr,Victor"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "SPR2026",
+      "course": "B BUS 470",
+      "courseTitle": "BUS PLCY & STRAT MGT",
+      "section": "A",
+      "instructor": "Johnson,Christy"
     },
     {
       "campus": "B",
@@ -17292,7 +17292,7 @@
       "course": "B BUS 473",
       "courseTitle": "LDRSHIP & DECSNMKG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fletcher,Shannon"
     },
     {
       "campus": "B",
@@ -17302,7 +17302,7 @@
       "course": "B BUS 475",
       "courseTitle": "MANAGING INNOVATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Trapido,Denis"
     },
     {
       "campus": "B",
@@ -17312,7 +17312,7 @@
       "course": "B BUS 476",
       "courseTitle": "NEW TECH & FUTR MKTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jacroux,Richard"
     },
     {
       "campus": "B",
@@ -17322,7 +17322,7 @@
       "course": "B BUS 477",
       "courseTitle": "HUMAN RES MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Khaleghi,Dariush"
     },
     {
       "campus": "B",
@@ -17332,37 +17332,7 @@
       "course": "B BUS 478",
       "courseTitle": "STARTUP MGT & GROWTH",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "SPR2026",
-      "course": "B BUS 480",
-      "courseTitle": "GLOBAL ENV OF BUS",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "SPR2026",
-      "course": "B BUS 480",
-      "courseTitle": "GLOBAL ENV OF BUS",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "SPR2026",
-      "course": "B BUS 480",
-      "courseTitle": "GLOBAL ENV OF BUS",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Jacroux,Richard"
     },
     {
       "campus": "B",
@@ -17372,7 +17342,37 @@
       "course": "B BUS 480",
       "courseTitle": "GLOBAL ENV OF BUS",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Fleming,Brandon"
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "SPR2026",
+      "course": "B BUS 480",
+      "courseTitle": "GLOBAL ENV OF BUS",
+      "section": "A",
+      "instructor": "Shaw,David S."
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "SPR2026",
+      "course": "B BUS 480",
+      "courseTitle": "GLOBAL ENV OF BUS",
+      "section": "B",
+      "instructor": "Shaw,David S."
+    },
+    {
+      "campus": "B",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "SPR2026",
+      "course": "B BUS 480",
+      "courseTitle": "GLOBAL ENV OF BUS",
+      "section": "C",
+      "instructor": "Shaw,David S."
     },
     {
       "campus": "B",
@@ -17382,7 +17382,7 @@
       "course": "B BUS 482",
       "courseTitle": "INTRO SUPPLY CHN MGT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nielubowicz,Daniel"
     },
     {
       "campus": "B",
@@ -17392,7 +17392,7 @@
       "course": "B BUS 483",
       "courseTitle": "GLBL STRAT SOURCING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chopra,Shweta"
     },
     {
       "campus": "B",
@@ -17402,7 +17402,7 @@
       "course": "B BUS 489",
       "courseTitle": "DIGITAL BUS LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Tewari,Anurag"
     },
     {
       "campus": "B",
@@ -17412,7 +17412,7 @@
       "course": "B BUS 490",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Grove,Kivalina"
     },
     {
       "campus": "B",
@@ -17462,7 +17462,7 @@
       "course": "B BUS 505",
       "courseTitle": "FIN MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anthony,Andrea"
     },
     {
       "campus": "B",
@@ -17472,7 +17472,7 @@
       "course": "B BUS 505",
       "courseTitle": "FIN MGMT",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Anthony,Andrea"
     },
     {
       "campus": "B",
@@ -17482,7 +17482,7 @@
       "course": "B BUS 506",
       "courseTitle": "MKTG MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nie,Xiaodong"
     },
     {
       "campus": "B",
@@ -17492,7 +17492,7 @@
       "course": "B BUS 506",
       "courseTitle": "MKTG MGMT",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Nie,Xiaodong"
     },
     {
       "campus": "B",
@@ -17502,7 +17502,7 @@
       "course": "B BUS 507",
       "courseTitle": "GLOBAL BIZ",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Badshah,Akhtar"
     },
     {
       "campus": "B",
@@ -17512,7 +17512,7 @@
       "course": "B BUS 512",
       "courseTitle": "STRATEGIC MGT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jones,Stephen"
     },
     {
       "campus": "B",
@@ -17522,7 +17522,7 @@
       "course": "B BUS 512",
       "courseTitle": "STRATEGIC MGT",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Jones,Stephen"
     },
     {
       "campus": "B",
@@ -17532,7 +17532,7 @@
       "course": "B BUS 514",
       "courseTitle": "BUSINESS COMM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dusche,Michael"
     },
     {
       "campus": "B",
@@ -17542,7 +17542,7 @@
       "course": "B BUS 521",
       "courseTitle": "ENT. IT MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Thurman,Steve"
     },
     {
       "campus": "B",
@@ -17562,7 +17562,7 @@
       "course": "B BUS 544",
       "courseTitle": "NEGOTIATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Clay,Brett"
     },
     {
       "campus": "B",

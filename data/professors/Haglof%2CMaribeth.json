@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Haglof%2CMaribeth",
+  "professor": "Haglof,Maribeth",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engl",
+      "deptName": "English",
+      "term": "SPR2026",
+      "course": "ENGL 121",
+      "courseTitle": "COMPOSTN: SOC ISSUE",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engl",
+      "deptName": "English",
+      "term": "WIN2026",
+      "course": "ENGL 121",
+      "courseTitle": "COMPOSTN: SOC ISSUE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engl",
+      "deptName": "English",
+      "term": "AUT2025",
+      "course": "ENGL 121",
+      "courseTitle": "COMPOSTN: SOC ISSUE",
+      "section": "B"
+    }
+  ]
+}

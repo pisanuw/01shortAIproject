@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "WILSON%2CJACOB",
+  "professor": "WILSON,JACOB",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engl",
+      "deptName": "English",
+      "term": "SPR2025",
+      "course": "ENGL 281",
+      "courseTitle": "INTERMED EXPOS WRIT",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engl",
+      "deptName": "English",
+      "term": "SPR2022",
+      "course": "ENGL 115",
+      "courseTitle": "WRITING STUDIO",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engl",
+      "deptName": "English",
+      "term": "SPR2022",
+      "course": "ENGL 115",
+      "courseTitle": "WRITING STUDIO",
+      "section": "B"
+    }
+  ]
+}

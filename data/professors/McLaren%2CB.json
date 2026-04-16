@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "McLaren%2CB",
+  "professor": "McLaren,B",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "WIN2023",
+      "course": "ARCH 362",
+      "courseTitle": "ARCHITECTURE THEORY",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "WIN2023",
+      "course": "ARCH 362",
+      "courseTitle": "ARCHITECTURE THEORY",
+      "section": "A"
+    }
+  ]
+}

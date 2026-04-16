@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Cirigliano%2CVincenzo",
+  "professor": "Cirigliano,Vincenzo",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "WIN2026",
+      "course": "PHYS 557",
+      "courseTitle": "HIGH ENERGY PHYSICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "WIN2025",
+      "course": "PHYS 560",
+      "courseTitle": "THRTCL NUCLEAR PHYS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "WIN2024",
+      "course": "PHYS 578",
+      "courseTitle": "SEL TPC THRTCL PHYS",
+      "section": "A"
+    }
+  ]
+}

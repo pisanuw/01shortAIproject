@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:57Z",
+  "generatedAt": "2026-04-16T02:57:13Z",
   "campus": "S",
   "dept": "scand",
   "deptName": "Scandinavian",
@@ -112,7 +112,7 @@
       "course": "SCAND 375",
       "courseTitle": "VIKINGS POP CULTURE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Poyer,Lauren"
     },
     {
       "campus": "S",
@@ -262,7 +262,7 @@
       "course": "SCAND 100",
       "courseTitle": "INTRO SCANDINAVIA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Naesby,K"
     },
     {
       "campus": "S",
@@ -302,7 +302,7 @@
       "course": "SCAND 270",
       "courseTitle": "SAGAS OF VIKINGS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Poyer,Lauren"
     },
     {
       "campus": "S",
@@ -322,7 +322,7 @@
       "course": "SCAND 330",
       "courseTitle": "SCAND MYTHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Poyer,Lauren"
     },
     {
       "campus": "S",
@@ -462,7 +462,7 @@
       "course": "SCAND 100",
       "courseTitle": "INTRO SCANDINAVIA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Doxtater,Amanda"
     },
     {
       "campus": "S",
@@ -542,7 +542,7 @@
       "course": "SCAND 370",
       "courseTitle": "THE VIKINGS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Leiren,Terje I"
     },
     {
       "campus": "S",
@@ -562,7 +562,7 @@
       "course": "SCAND 375",
       "courseTitle": "VIKINGS POP CULTURE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Poyer,Lauren"
     },
     {
       "campus": "S",
@@ -722,7 +722,7 @@
       "course": "SCAND 375",
       "courseTitle": "VIKINGS POP CULTURE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Poyer,Lauren"
     },
     {
       "campus": "S",
@@ -811,7 +811,7 @@
       "term": "AUT2021",
       "course": "SCAND 100",
       "courseTitle": "INTRO SCANDINAVIA",
-      "section": "B",
+      "section": "A",
       "instructor": "Poyer,Lauren"
     },
     {
@@ -821,8 +821,8 @@
       "term": "AUT2021",
       "course": "SCAND 100",
       "courseTitle": "INTRO SCANDINAVIA",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Poyer,Lauren"
     },
     {
       "campus": "S",
@@ -882,7 +882,7 @@
       "course": "SCAND 375",
       "courseTitle": "VIKINGS POP CULTURE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Poyer,Lauren"
     },
     {
       "campus": "S",
@@ -1072,7 +1072,7 @@
       "course": "SCAND 270",
       "courseTitle": "SAGAS OF VIKINGS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Poyer,Lauren"
     },
     {
       "campus": "S",
@@ -1092,7 +1092,7 @@
       "course": "SCAND 330",
       "courseTitle": "SCAND MYTHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Poyer,Lauren"
     },
     {
       "campus": "S",
@@ -1248,6 +1248,246 @@
       "campus": "S",
       "dept": "scand",
       "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 100",
+      "courseTitle": "INTRO SCANDINAVIA",
+      "section": "A",
+      "instructor": "Doxtater,A"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 152",
+      "courseTitle": "LATV LIT/CULT HIST",
+      "section": "A",
+      "instructor": "Burr,Solvita"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 153",
+      "courseTitle": "LITH LIT/CLTR HIST",
+      "section": "A",
+      "instructor": "Daraskiene,Inga"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 155",
+      "courseTitle": "DANISH LIT/CLT HIST",
+      "section": "A",
+      "instructor": "Larsen,Morten Stensgaard"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 232",
+      "courseTitle": "ANDERSEN FAIRY TALE",
+      "section": "A",
+      "instructor": "Stecher-Hansen,Marianne"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 315",
+      "courseTitle": "SCAND CRIME FICTION",
+      "section": "A",
+      "instructor": "Nestingen,Andrew"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 334",
+      "courseTitle": "IMMIG & ETNIC FLKLR",
+      "section": "A",
+      "instructor": "Connors,Colin G"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 345",
+      "courseTitle": "BALTIC CULTURES",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 360",
+      "courseTitle": "SCAND CINEMA",
+      "section": "A",
+      "instructor": "Mrozewicz,Anna"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 367",
+      "courseTitle": "SEXUALITY IN SCAND",
+      "section": "A",
+      "instructor": "Gunn,O"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 372",
+      "courseTitle": "OLD NORSE-ICELANDIC",
+      "section": "A",
+      "instructor": "Poyer,Lauren"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 375",
+      "courseTitle": "VIKINGS POP CULTURE",
+      "section": "A",
+      "instructor": "Poyer,Lauren"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 490",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Faucette,Michael"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 490",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Meyer,Andy J."
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 498",
+      "courseTitle": "SR CAPSTONE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 498",
+      "courseTitle": "SR CAPSTONE",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 499",
+      "courseTitle": "INDEP STUDY/RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 499",
+      "courseTitle": "INDEP STUDY/RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 512",
+      "courseTitle": "INSTITUTIONS SCAND",
+      "section": "A",
+      "instructor": "Smidchens,Guntis"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
       "term": "SUM2022",
       "course": "SCAND 230",
       "courseTitle": "INTRO TO FOLKLORE",
@@ -1362,7 +1602,7 @@
       "course": "SCAND 100",
       "courseTitle": "INTRO SCANDINAVIA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Smidchens,Guntis"
     },
     {
       "campus": "S",
@@ -1522,7 +1762,7 @@
       "course": "SCAND 100",
       "courseTitle": "INTRO SCANDINAVIA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Poyer,Lauren"
     },
     {
       "campus": "S",
@@ -1732,7 +1972,7 @@
       "course": "SCAND 232",
       "courseTitle": "ANDERSEN FAIRY TALE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stecher-Hansen,Marianne"
     },
     {
       "campus": "S",
@@ -1742,7 +1982,7 @@
       "course": "SCAND 367",
       "courseTitle": "SEXUALITY IN SCAND",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gunn,Olivia N"
     },
     {
       "campus": "S",
@@ -1868,6 +2108,126 @@
       "campus": "S",
       "dept": "scand",
       "deptName": "Scandinavian",
+      "term": "SUM2023",
+      "course": "SCAND 230",
+      "courseTitle": "INTRO TO FOLKLORE",
+      "section": "A",
+      "instructor": "WJA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SUM2023",
+      "course": "SCAND 270",
+      "courseTitle": "SAGAS OF VIKINGS",
+      "section": "A",
+      "instructor": "Jenner,Lars B."
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SUM2023",
+      "course": "SCAND 330",
+      "courseTitle": "SCAND MYTHOLOGY",
+      "section": "A",
+      "instructor": "Jenner,Lars B."
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SUM2023",
+      "course": "SCAND 375",
+      "courseTitle": "VIKINGS POP CULTURE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SUM2023",
+      "course": "SCAND 498",
+      "courseTitle": "SR CAPSTONE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SUM2023",
+      "course": "SCAND 499",
+      "courseTitle": "INDEP STUDY/RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SUM2023",
+      "course": "SCAND 499",
+      "courseTitle": "INDEP STUDY/RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SUM2023",
+      "course": "SCAND 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SUM2023",
+      "course": "SCAND 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SUM2023",
+      "course": "SCAND 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SUM2023",
+      "course": "SCAND 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SUM2023",
+      "course": "SCAND 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
       "term": "AUT2023",
       "course": "SCAND 175",
       "courseTitle": "NOBEL PRIZE IN LIT",
@@ -1882,7 +2242,7 @@
       "course": "SCAND 330",
       "courseTitle": "SCAND MYTHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Poyer,Lauren"
     },
     {
       "campus": "S",
@@ -1902,7 +2262,7 @@
       "course": "SCAND 445",
       "courseTitle": "WAR/OCCUPATN N. EUR",
       "section": "A",
-      "instructor": "Stecher-Hansen,Marianne"
+      "instructor": "A Stecher-Hansen,Marianne"
     },
     {
       "campus": "S",
@@ -1981,8 +2341,8 @@
       "term": "AUT2023",
       "course": "SCAND 590",
       "courseTitle": "SCAN SPEC TOPICS",
-      "section": "B",
-      "instructor": "Smidchens,Guntis"
+      "section": "A",
+      "instructor": "A Stecher-Hansen,Marianne"
     },
     {
       "campus": "S",
@@ -1991,8 +2351,8 @@
       "term": "AUT2023",
       "course": "SCAND 590",
       "courseTitle": "SCAN SPEC TOPICS",
-      "section": "A",
-      "instructor": "Stecher-Hansen,Marianne"
+      "section": "B",
+      "instructor": "Smidchens,Guntis"
     },
     {
       "campus": "S",
@@ -2558,11 +2918,201 @@
       "campus": "S",
       "dept": "scand",
       "deptName": "Scandinavian",
+      "term": "AUT2024",
+      "course": "SCAND 100",
+      "courseTitle": "INTRO SCANDINAVIA",
+      "section": "A",
+      "instructor": "Nestingen,Andrew"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "AUT2024",
+      "course": "SCAND 152",
+      "courseTitle": "LATV LIT/CULT HIST",
+      "section": "A",
+      "instructor": "Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "AUT2024",
+      "course": "SCAND 155",
+      "courseTitle": "DANISH LIT/CLT HIST",
+      "section": "A",
+      "instructor": "Stecher-Hansen,Marianne"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "AUT2024",
+      "course": "SCAND 330",
+      "courseTitle": "SCAND MYTHOLOGY",
+      "section": "A",
+      "instructor": "Jenner,Lars"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "AUT2024",
+      "course": "SCAND 370",
+      "courseTitle": "THE VIKINGS",
+      "section": "A",
+      "instructor": "Bourns,Timothy"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "AUT2024",
+      "course": "SCAND 455",
+      "courseTitle": "BALTIC POL & SOC",
+      "section": "A",
+      "instructor": "Smidchens,Guntis"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "AUT2024",
+      "course": "SCAND 498",
+      "courseTitle": "SR CAPSTONE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "AUT2024",
+      "course": "SCAND 498",
+      "courseTitle": "SR CAPSTONE",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "AUT2024",
+      "course": "SCAND 499",
+      "courseTitle": "INDEP STUDY/RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "AUT2024",
+      "course": "SCAND 499",
+      "courseTitle": "INDEP STUDY/RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "AUT2024",
+      "course": "SCAND 510",
+      "courseTitle": "ARCHIVES SCAND",
+      "section": "A",
+      "instructor": "Gunn,Olivia N"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "AUT2024",
+      "course": "SCAND 518",
+      "courseTitle": "LANGUAGE TEACH METH",
+      "section": "A",
+      "instructor": "Brandl,Klaus"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "AUT2024",
+      "course": "SCAND 590",
+      "courseTitle": "SCAN SPEC TOPICS",
+      "section": "A",
+      "instructor": "Smidchens,Guntis"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "AUT2024",
+      "course": "SCAND 595",
+      "courseTitle": "TA WORKSHOP",
+      "section": "A",
+      "instructor": "Doxtater,Amanda"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "AUT2024",
+      "course": "SCAND 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "AUT2024",
+      "course": "SCAND 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "AUT2024",
+      "course": "SCAND 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "AUT2024",
+      "course": "SCAND 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "AUT2024",
+      "course": "SCAND 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "scand",
+      "deptName": "Scandinavian",
       "term": "WIN2025",
       "course": "SCAND 100",
       "courseTitle": "INTRO SCAND CULTURE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jenner,Lars"
     },
     {
       "campus": "S",
@@ -2622,7 +3172,7 @@
       "course": "SCAND 427",
       "courseTitle": "SCAND WOMEN WRITERS",
       "section": "A",
-      "instructor": "Stecher-Hansen,Marianne"
+      "instructor": "A Stecher-Hansen,Marianne"
     },
     {
       "campus": "S",
@@ -2692,7 +3242,7 @@
       "course": "SCAND 590",
       "courseTitle": "SCAN SPEC TOPICS",
       "section": "A",
-      "instructor": "Stecher-Hansen,Marianne"
+      "instructor": "A Stecher-Hansen,Marianne"
     },
     {
       "campus": "S",
@@ -2752,7 +3302,7 @@
       "course": "SCAND 100",
       "courseTitle": "INTRO SCAND CULTURE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jenner,Lars"
     },
     {
       "campus": "S",
@@ -3092,7 +3642,7 @@
       "course": "SCAND 100",
       "courseTitle": "INTRO SCAND CULTURE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Poyer,Lauren"
     },
     {
       "campus": "S",
@@ -3102,7 +3652,7 @@
       "course": "SCAND 270",
       "courseTitle": "SAGAS OF VIKINGS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bourns,Timothy"
     },
     {
       "campus": "S",
@@ -3112,7 +3662,7 @@
       "course": "SCAND 326",
       "courseTitle": "SCAND IN WORLD AFRS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jokisipila,Markku"
     },
     {
       "campus": "S",
@@ -3132,7 +3682,7 @@
       "course": "SCAND 460",
       "courseTitle": "HIST OF SCAND LANG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Poyer,Lauren"
     },
     {
       "campus": "S",
@@ -3182,7 +3732,7 @@
       "course": "SCAND 513",
       "courseTitle": "METHODS SCAND",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nestingen,Andy"
     },
     {
       "campus": "S",
@@ -3192,7 +3742,7 @@
       "course": "SCAND 518",
       "courseTitle": "LANGUAGE TEACH METH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brandl,Klaus"
     },
     {
       "campus": "S",
@@ -3202,7 +3752,7 @@
       "course": "SCAND 590",
       "courseTitle": "SCAN SPEC TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gunn,Olivia N"
     },
     {
       "campus": "S",
@@ -3212,7 +3762,7 @@
       "course": "SCAND 595",
       "courseTitle": "TA WORKSHOP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nestingen,Andy"
     },
     {
       "campus": "S",
@@ -3272,7 +3822,7 @@
       "course": "SCAND 100",
       "courseTitle": "INTRO SCAND CULTURE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nestingen,Andy"
     },
     {
       "campus": "S",
@@ -3282,7 +3832,7 @@
       "course": "SCAND 155",
       "courseTitle": "DANISH LIT/CLT HIST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Larsen,Morten Stensgaard"
     },
     {
       "campus": "S",
@@ -3292,7 +3842,7 @@
       "course": "SCAND 230",
       "courseTitle": "INTRO TO FOLKLORE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Smidchens,Guntis"
     },
     {
       "campus": "S",
@@ -3302,7 +3852,7 @@
       "course": "SCAND 270",
       "courseTitle": "SAGAS OF VIKINGS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jenner,Lars"
     },
     {
       "campus": "S",
@@ -3312,7 +3862,7 @@
       "course": "SCAND 316",
       "courseTitle": "SCAND CHILD/SCHOOL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nestingen,Andy"
     },
     {
       "campus": "S",
@@ -3322,7 +3872,7 @@
       "course": "SCAND 367",
       "courseTitle": "SEXUALITY IN SCAND",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gunn,Olivia N"
     },
     {
       "campus": "S",
@@ -3332,7 +3882,7 @@
       "course": "SCAND 455",
       "courseTitle": "BALTIC POL & SOC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Smidchens,Guntis"
     },
     {
       "campus": "S",
@@ -3382,7 +3932,7 @@
       "course": "SCAND 500",
       "courseTitle": "INTRO OLD ICELANDIC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bourns,Timothy"
     },
     {
       "campus": "S",
@@ -3392,7 +3942,7 @@
       "course": "SCAND 590",
       "courseTitle": "SCAN SPEC TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Smidchens,Guntis"
     },
     {
       "campus": "S",
@@ -3452,7 +4002,7 @@
       "course": "SCAND 100",
       "courseTitle": "INTRO SCAND CULTURE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jenner,Lars"
     },
     {
       "campus": "S",
@@ -3462,7 +4012,7 @@
       "course": "SCAND 152",
       "courseTitle": "LATV LIT/CULT HIST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Miklasevica,Liga"
     },
     {
       "campus": "S",
@@ -3472,7 +4022,7 @@
       "course": "SCAND 153",
       "courseTitle": "LITH LIT/CLTR HIST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Holvoet,Gina"
     },
     {
       "campus": "S",
@@ -3482,7 +4032,7 @@
       "course": "SCAND 232",
       "courseTitle": "ANDERSEN FAIRY TALE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stecher-Hansen,Marianne"
     },
     {
       "campus": "S",
@@ -3492,7 +4042,7 @@
       "course": "SCAND 330",
       "courseTitle": "SCAND MYTHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bourns,Timothy"
     },
     {
       "campus": "S",
@@ -3502,7 +4052,7 @@
       "course": "SCAND 334",
       "courseTitle": "IMMIG & ETNIC FLKLR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jenner,Lars"
     },
     {
       "campus": "S",
@@ -3512,7 +4062,7 @@
       "course": "SCAND 360",
       "courseTitle": "SCAND CINEMA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nestingen,Andy"
     },
     {
       "campus": "S",
@@ -3562,7 +4112,7 @@
       "course": "SCAND 501",
       "courseTitle": "OLD ICELANDIC L&L",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bourns,Timothy"
     },
     {
       "campus": "S",

@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Yang%2CWilliam",
+  "professor": "Yang,William",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "AUT2023",
+      "course": "IND E 310",
+      "courseTitle": "LINEAR & NETWORK PR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "WIN2023",
+      "course": "IND E 311",
+      "courseTitle": "STCH MODL & DEC ANL",
+      "section": "A"
+    }
+  ]
+}

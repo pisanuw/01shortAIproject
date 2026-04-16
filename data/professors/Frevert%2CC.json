@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Frevert%2CC",
+  "professor": "Frevert,C",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2023",
+      "course": "C MED 592",
+      "courseTitle": "COMPARATIVE PATH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2022",
+      "course": "C MED 592",
+      "courseTitle": "COMPARATIVE PATH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2021",
+      "course": "C MED 592",
+      "courseTitle": "COMPARATIVE PATH",
+      "section": "A"
+    }
+  ]
+}

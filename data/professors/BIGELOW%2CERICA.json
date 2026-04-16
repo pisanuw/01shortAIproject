@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "BIGELOW%2CERICA",
+  "professor": "BIGELOW,ERICA",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "SPR2026",
+      "course": "PHIL 205",
+      "courseTitle": "PHIL FOR CHILDREN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "AUT2024",
+      "course": "PHIL 205",
+      "courseTitle": "PHIL FOR CHILDREN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "SUM2024",
+      "course": "PHIL 242",
+      "courseTitle": "MEDICAL ETHICS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "SUM2023",
+      "course": "PHIL 102",
+      "courseTitle": "CONTEMP MORAL PROBS",
+      "section": "B"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:25Z",
+  "id": "T%20-%20TCSS%20421",
+  "course": "T - TCSS 421",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tcss",
+      "deptName": "Computer Science and Systems",
+      "term": "AUT2025",
+      "course": "TCSS 421",
+      "courseTitle": "COMPILER CONSTRCTN",
+      "section": "A",
+      "instructor": "Barreto,Paulo"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tcss",
+      "deptName": "Computer Science and Systems",
+      "term": "WIN2025",
+      "course": "TCSS 421",
+      "courseTitle": "COMPILER CONSTRCTN",
+      "section": "A",
+      "instructor": "Barreto,Paulo"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tcss",
+      "deptName": "Computer Science and Systems",
+      "term": "WIN2024",
+      "course": "TCSS 421",
+      "courseTitle": "COMPILER CONSTRCTN",
+      "section": "A",
+      "instructor": "Barreto,Paulo"
+    }
+  ]
+}

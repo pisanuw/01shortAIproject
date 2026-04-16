@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "WRS",
+  "professor": "WRS",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "twrt",
+      "deptName": "Writing Instruction",
+      "term": "SPR2024",
+      "course": "TWRT 355",
+      "courseTitle": "USABILITY TESTING",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2023",
+      "course": "BIS 403",
+      "courseTitle": "WA DC SEM HUM RGTS",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "twrt",
+      "deptName": "Writing Instruction",
+      "term": "SPR2022",
+      "course": "TWRT 355",
+      "courseTitle": "USABILITY TESTING",
+      "section": "A"
+    }
+  ]
+}

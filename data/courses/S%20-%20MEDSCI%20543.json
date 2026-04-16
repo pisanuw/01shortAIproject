@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20MEDSCI%20543",
+  "course": "S - MEDSCI 543",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "SUM2022",
+      "course": "MEDSCI 543",
+      "courseTitle": "BLD CAN IND STDY REM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "SUM2021",
+      "course": "MEDSCI 543",
+      "courseTitle": "BLD CAN IND STDY REM",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
+}

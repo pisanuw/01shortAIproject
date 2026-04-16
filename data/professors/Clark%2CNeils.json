@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Clark%2CNeils",
+  "professor": "Clark,Neils",
+  "recordCount": 5,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "WIN2024",
+      "course": "ENGR 231",
+      "courseTitle": "INTRO TECH COMM",
+      "section": "K"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2023",
+      "course": "ENGR 333",
+      "courseTitle": "ADVANCED TECH COMM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2023",
+      "course": "ENGR 231",
+      "courseTitle": "INTRO TECH COMM",
+      "section": "K"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "WIN2023",
+      "course": "ENGR 333",
+      "courseTitle": "ADVANCED TECH COMM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "WIN2023",
+      "course": "ENGR 231",
+      "courseTitle": "INTRO TECH COMM",
+      "section": "K"
+    }
+  ]
+}

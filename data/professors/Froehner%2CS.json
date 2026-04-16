@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Froehner%2CS",
+  "professor": "Froehner,S",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "neusci",
+      "deptName": "Neuroscience",
+      "term": "WIN2022",
+      "course": "NEUSCI 402",
+      "courseTitle": "NEURO DISEASE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "neusci",
+      "deptName": "Neuroscience",
+      "term": "WIN2021",
+      "course": "NEUSCI 402",
+      "courseTitle": "NEURO DISEASE",
+      "section": "A"
+    }
+  ]
+}

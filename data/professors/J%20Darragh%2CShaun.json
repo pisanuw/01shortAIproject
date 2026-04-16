@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "J%20Darragh%2CShaun",
+  "professor": "J Darragh,Shaun",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "AUT2024",
+      "course": "ARCH 435",
+      "courseTitle": "PRIN & PRAC ENV LTG",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "AUT2024",
+      "course": "ARCH 435",
+      "courseTitle": "PRIN & PRAC ENV LTG",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "AUT2023",
+      "course": "ARCH 435",
+      "courseTitle": "PRIN & PRAC ENV LTG",
+      "section": "B"
+    }
+  ]
+}

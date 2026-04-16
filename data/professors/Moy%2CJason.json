@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Moy%2CJason",
+  "professor": "Moy,Jason",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2025",
+      "course": "MGMT 300",
+      "courseTitle": "LDRSHIP & ORG BEHAV",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "WIN2025",
+      "course": "MGMT 300",
+      "courseTitle": "LDRSHIP & ORG BEHAV",
+      "section": "E"
+    }
+  ]
+}

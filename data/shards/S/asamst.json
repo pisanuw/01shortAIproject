@@ -1,7 +1,1578 @@
 {
-  "generatedAt": "2026-04-15T16:27:54Z",
+  "generatedAt": "2026-04-16T02:57:10Z",
   "campus": "S",
   "dept": "asamst",
   "deptName": "Asian American Studies",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2020",
+      "course": "AAS 360",
+      "courseTitle": "CRIT FIL AM HISTS",
+      "section": "A",
+      "instructor": "Andresen,Third"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2020",
+      "course": "AAS 370",
+      "courseTitle": "JPN AM HIST CLTR",
+      "section": "A",
+      "instructor": "Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2020",
+      "course": "AAS 395",
+      "courseTitle": "POST VIET WAR AAS AM",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2020",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2020",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2021",
+      "course": "AAS 206",
+      "courseTitle": "CNTMPRY ISS AS/PI AM",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2021",
+      "course": "AAS 350",
+      "courseTitle": "CRIT CHIN-AMER HIST",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2021",
+      "course": "AAS 372",
+      "courseTitle": "INTRNMT CMPS N AMER",
+      "section": "A",
+      "instructor": "Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2021",
+      "course": "AAS 401",
+      "courseTitle": "ASIA AM LIT TO 1940",
+      "section": "A",
+      "instructor": "Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2021",
+      "course": "AAS 402",
+      "courseTitle": "CONTEMP ASIA AM LIT",
+      "section": "A",
+      "instructor": "Huh,Jang Wook"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2021",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2021",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2021",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2021",
+      "course": "AAS 101",
+      "courseTitle": "ASIAN-AM STUDIES",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2021",
+      "course": "AAS 210",
+      "courseTitle": "ASIAN AM PAC IS IDEN",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2021",
+      "course": "AAS 320",
+      "courseTitle": "HAWAII'S LITS",
+      "section": "A",
+      "instructor": "Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2021",
+      "course": "AAS 330",
+      "courseTitle": "ASIAN AMER THEATER",
+      "section": "A",
+      "instructor": "Huh,Jang Wook"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2021",
+      "course": "AAS 380",
+      "courseTitle": "ASIAN AM COMMUNITY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2021",
+      "course": "AAS 392",
+      "courseTitle": "ASIAN&PAC IS AM WOMN",
+      "section": "A",
+      "instructor": "Nguyen,Linh Thuy"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2021",
+      "course": "AAS 404",
+      "courseTitle": "ADV ASIAN AM HUM",
+      "section": "A",
+      "instructor": "Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2021",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2021",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2021",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2021",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SUM2021",
+      "course": "AAS 101",
+      "courseTitle": "ASIAN-AM STUDIES",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SUM2021",
+      "course": "AAS 402",
+      "courseTitle": "CONTEMP ASIA AM LIT",
+      "section": "A",
+      "instructor": "Dinh,Thaomi Michelle"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SUM2021",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2021",
+      "course": "AAS 360",
+      "courseTitle": "CRIT FIL AM HISTS",
+      "section": "A",
+      "instructor": "Andresen,Third"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2021",
+      "course": "AAS 370",
+      "courseTitle": "JPN AM HIST CLTR",
+      "section": "A",
+      "instructor": "Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2021",
+      "course": "AAS 395",
+      "courseTitle": "POST VIET WAR AAS AM",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2021",
+      "course": "AAS 402",
+      "courseTitle": "CONTEMP ASIA AM LIT",
+      "section": "A",
+      "instructor": "Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2021",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2021",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2022",
+      "course": "AAS 206",
+      "courseTitle": "CNTMPRY ISS AS/PI AM",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2022",
+      "course": "AAS 300",
+      "courseTitle": "US PAC ISLND CULTUR",
+      "section": "A",
+      "instructor": "A Palaita,David"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2022",
+      "course": "AAS 350",
+      "courseTitle": "CRIT CHIN-AMER HIST",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2022",
+      "course": "AAS 392",
+      "courseTitle": "ASIAN&PAC IS AM WOMN",
+      "section": "A",
+      "instructor": "VELORIA,VELMA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2022",
+      "course": "AAS 401",
+      "courseTitle": "ASIA AM LIT TO 1940",
+      "section": "A",
+      "instructor": "B Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2022",
+      "course": "AAS 406",
+      "courseTitle": "ASIAN AM ACTIVISM",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2022",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2022",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2022",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2022",
+      "course": "AAS 101",
+      "courseTitle": "ASIAN-AM STUDIES",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2022",
+      "course": "AAS 210",
+      "courseTitle": "ASIAN AM PAC IS IDEN",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2022",
+      "course": "AAS 372",
+      "courseTitle": "INTRNMT CMPS N AMER",
+      "section": "A",
+      "instructor": "Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2022",
+      "course": "AAS 405",
+      "courseTitle": "ADV ASIAN AM SOCSCI",
+      "section": "A",
+      "instructor": "Nguyen,Linh Thuy"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2022",
+      "course": "AAS 405",
+      "courseTitle": "ADV ASIAN AM SOCSCI",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2022",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2022",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2022",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2022",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SUM2022",
+      "course": "AAS 101",
+      "courseTitle": "ASIAN-AM STUDIES",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SUM2022",
+      "course": "AAS 402",
+      "courseTitle": "CONTEMP ASIA AM LIT",
+      "section": "A",
+      "instructor": "Um,Ji-Young"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SUM2022",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2022",
+      "course": "AAS 250",
+      "courseTitle": "ASIAN AM ORAL HISTS",
+      "section": "A",
+      "instructor": "Nguyen,Linh Thuy"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2022",
+      "course": "AAS 330",
+      "courseTitle": "ASIAN AMER THEATER",
+      "section": "A",
+      "instructor": "Huh,Jang Wook"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2022",
+      "course": "AAS 360",
+      "courseTitle": "CRIT FIL AM HISTS",
+      "section": "A",
+      "instructor": "VELORIA,VELMA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2022",
+      "course": "AAS 370",
+      "courseTitle": "JPN AM HIST CLTR",
+      "section": "A",
+      "instructor": "Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2022",
+      "course": "AAS 392",
+      "courseTitle": "ASIAN&PAC IS AM WOMN",
+      "section": "A",
+      "instructor": "B Nguyen,Linh Thuy"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2022",
+      "course": "AAS 395",
+      "courseTitle": "POST VIET WAR AAS AM",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2022",
+      "course": "AAS 401",
+      "courseTitle": "ASIA AM LIT TO 1940",
+      "section": "B",
+      "instructor": "Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2022",
+      "course": "AAS 405",
+      "courseTitle": "ADV ASIAN AM SOCSCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2022",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2022",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2023",
+      "course": "AAS 206",
+      "courseTitle": "CNTMPRY ISS AS/PI AM",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2023",
+      "course": "AAS 300",
+      "courseTitle": "US PAC ISLND CULTUR",
+      "section": "A",
+      "instructor": "Palaita,David Gaoupu"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2023",
+      "course": "AAS 350",
+      "courseTitle": "CRIT CHIN-AMER HIST",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2023",
+      "course": "AAS 372",
+      "courseTitle": "INTRNMT CMPS N AMER",
+      "section": "A",
+      "instructor": "Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2023",
+      "course": "AAS 402",
+      "courseTitle": "CONTEMP ASIA AM LIT",
+      "section": "A",
+      "instructor": "Huh,Jang Wook"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2023",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2023",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2023",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2023",
+      "course": "AAS 101",
+      "courseTitle": "ASIAN-AM STUDIES",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2023",
+      "course": "AAS 210",
+      "courseTitle": "ASIAN AM PAC IS IDEN",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2023",
+      "course": "AAS 220",
+      "courseTitle": "ASIAN AM STEREOTYPE",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2023",
+      "course": "AAS 404",
+      "courseTitle": "ADV ASIAN AM HUM",
+      "section": "A",
+      "instructor": "Huh,Jang Wook"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2023",
+      "course": "AAS 405",
+      "courseTitle": "ADV ASIAN AM SOCSCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2023",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2023",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2023",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2023",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SUM2023",
+      "course": "AAS 101",
+      "courseTitle": "ASIAN-AM STUDIES",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SUM2023",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2023",
+      "course": "AAS 330",
+      "courseTitle": "ASIAN AMER THEATER",
+      "section": "A",
+      "instructor": "Tang,Roger W"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2023",
+      "course": "AAS 360",
+      "courseTitle": "CRIT FIL AM HISTS",
+      "section": "B",
+      "instructor": "VELORIA,VELMA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2023",
+      "course": "AAS 372",
+      "courseTitle": "INTRNMT CMPS N AMER",
+      "section": "B",
+      "instructor": "Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2023",
+      "course": "AAS 372",
+      "courseTitle": "INTRNMT CMPS N AMER",
+      "section": "C",
+      "instructor": "Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2023",
+      "course": "AAS 395",
+      "courseTitle": "POST VIET WAR AAS AM",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2023",
+      "course": "AAS 405",
+      "courseTitle": "ADV ASIAN AM SOCSCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2023",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2023",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2024",
+      "course": "AAS 206",
+      "courseTitle": "CNTMPRY ISS AS/PI AM",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2024",
+      "course": "AAS 300",
+      "courseTitle": "US PAC ISLND CULTUR",
+      "section": "A",
+      "instructor": "Palaita,David"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2024",
+      "course": "AAS 350",
+      "courseTitle": "CRIT CHIN-AMER HIST",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2024",
+      "course": "AAS 370",
+      "courseTitle": "JPN AM HIST CLTR",
+      "section": "A",
+      "instructor": "Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2024",
+      "course": "AAS 392",
+      "courseTitle": "ASIAN&PAC IS AM WOMN",
+      "section": "A",
+      "instructor": "WHJ"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2024",
+      "course": "AAS 402",
+      "courseTitle": "CONTEMP ASIA AM LIT",
+      "section": "A",
+      "instructor": "Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2024",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2024",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2024",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2024",
+      "course": "AAS 101",
+      "courseTitle": "ASIAN AM STUDIES",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2024",
+      "course": "AAS 210",
+      "courseTitle": "ASIAN AM PAC IS IDEN",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2024",
+      "course": "AAS 250",
+      "courseTitle": "ASIAN AM ORAL HISTS",
+      "section": "A",
+      "instructor": "Nguyen,Linh Thuy"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2024",
+      "course": "AAS 405",
+      "courseTitle": "ADV ASIAN AM SOCSCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2024",
+      "course": "AAS 406",
+      "courseTitle": "ASIAN AM ACTIVISM",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2024",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2024",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2024",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SUM2024",
+      "course": "AAS 101",
+      "courseTitle": "ASIAN AM STUDIES",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SUM2024",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2024",
+      "course": "AAS 330",
+      "courseTitle": "ASIAN AMER THEATER",
+      "section": "A",
+      "instructor": "Ma,Nan"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2024",
+      "course": "AAS 360",
+      "courseTitle": "CRIT FIL AM HISTS",
+      "section": "A",
+      "instructor": "VELORIA,VELMA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2024",
+      "course": "AAS 372",
+      "courseTitle": "INTRNMT CMPS N AMER",
+      "section": "A",
+      "instructor": "Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2024",
+      "course": "AAS 372",
+      "courseTitle": "INTRNMT CMPS N AMER",
+      "section": "B",
+      "instructor": "Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2024",
+      "course": "AAS 395",
+      "courseTitle": "POST VIET WAR AAS AM",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2024",
+      "course": "AAS 405",
+      "courseTitle": "ADV ASIAN AM SOCSCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2024",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2024",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2025",
+      "course": "AAS 206",
+      "courseTitle": "CNTMPRY ISS AS/PI AM",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2025",
+      "course": "AAS 250",
+      "courseTitle": "ASIAN AM ORAL HISTS",
+      "section": "A",
+      "instructor": "Zheng,Jennifer"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2025",
+      "course": "AAS 300",
+      "courseTitle": "US PAC ISLND CULTUR",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2025",
+      "course": "AAS 350",
+      "courseTitle": "CRIT CHIN-AMER HIST",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2025",
+      "course": "AAS 370",
+      "courseTitle": "JPN AM HIST CLTR",
+      "section": "A",
+      "instructor": "Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2025",
+      "course": "AAS 401",
+      "courseTitle": "ASIA AM LIT TO 1940",
+      "section": "A",
+      "instructor": "Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2025",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2025",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2025",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2025",
+      "course": "AAS 101",
+      "courseTitle": "ASIAN AM STUDIES",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2025",
+      "course": "AAS 210",
+      "courseTitle": "ASIAN AM PAC IS IDEN",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2025",
+      "course": "AAS 220",
+      "courseTitle": "ASIAN AM STEREOTYPE",
+      "section": "A",
+      "instructor": "Zheng,Jennifer"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2025",
+      "course": "AAS 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2025",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2025",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2025",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SUM2025",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2025",
+      "course": "AAS 330",
+      "courseTitle": "ASIAN AMER THEATER",
+      "section": "A",
+      "instructor": "Ma,Nan"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2025",
+      "course": "AAS 360",
+      "courseTitle": "CRIT FIL AM HISTS",
+      "section": "A",
+      "instructor": "Bonus,Rick"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2025",
+      "course": "AAS 372",
+      "courseTitle": "INTRNMT CMPS N AMER",
+      "section": "A",
+      "instructor": "Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2025",
+      "course": "AAS 372",
+      "courseTitle": "INTRNMT CMPS N AMER",
+      "section": "B",
+      "instructor": "Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2025",
+      "course": "AAS 395",
+      "courseTitle": "POST VIET WAR AAS AM",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2025",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2025",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2026",
+      "course": "AAS 206",
+      "courseTitle": "CNTMPRY ISS AS/PI AM",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2026",
+      "course": "AAS 320",
+      "courseTitle": "HAWAII'S LITS",
+      "section": "A",
+      "instructor": "Montas,Noelani"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2026",
+      "course": "AAS 350",
+      "courseTitle": "CRIT CHIN-AMER HIST",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2026",
+      "course": "AAS 370",
+      "courseTitle": "JPN AM HIST CLTR",
+      "section": "A",
+      "instructor": "Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2026",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2026",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "WIN2026",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2026",
+      "course": "AAS 101",
+      "courseTitle": "ASIAN AM STUDIES",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2026",
+      "course": "AAS 210",
+      "courseTitle": "ASIAN AM PAC IS IDEN",
+      "section": "A",
+      "instructor": "So,Connie C."
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2026",
+      "course": "AAS 380",
+      "courseTitle": "ASIAN AM COMMUNITY",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2026",
+      "course": "AAS 392",
+      "courseTitle": "ASIAN&PAC IS AM WOMN",
+      "section": "A",
+      "instructor": "Nguyen,Linh Thuy"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2026",
+      "course": "AAS 406",
+      "courseTitle": "ASIAN AM ACTIVISM",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2026",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2026",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "SPR2026",
+      "course": "AAS 499",
+      "courseTitle": "UNDERGRAD IND STDY",
+      "section": "C",
+      "instructor": "TBA"
+    }
+  ]
 }

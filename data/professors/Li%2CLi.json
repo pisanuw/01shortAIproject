@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Li%2CLi",
+  "professor": "Li,Li",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SPR2021",
+      "course": "MATH 309",
+      "courseTitle": "LINEAR ANALYSIS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "AUT2020",
+      "course": "MATH 309",
+      "courseTitle": "LINEAR ANALYSIS",
+      "section": "B"
+    }
+  ]
+}

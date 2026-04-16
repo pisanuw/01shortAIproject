@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Gosti%2CAlice",
+  "professor": "Gosti,Alice",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dance",
+      "deptName": "Dance",
+      "term": "AUT2025",
+      "course": "DANCE 230",
+      "courseTitle": "MINDFUL MOVEMENT",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dance",
+      "deptName": "Dance",
+      "term": "SUM2025",
+      "course": "DANCE 230",
+      "courseTitle": "MINDFUL MOVEMENT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dance",
+      "deptName": "Dance",
+      "term": "SUM2025",
+      "course": "DANCE 102",
+      "courseTitle": "INTRO CONTEMP MODERN",
+      "section": "A"
+    }
+  ]
+}

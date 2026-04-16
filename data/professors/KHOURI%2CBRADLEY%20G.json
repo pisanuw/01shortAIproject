@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "KHOURI%2CBRADLEY%20G",
+  "professor": "KHOURI,BRADLEY G",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2026",
+      "course": "ARCH 402",
+      "courseTitle": "ARCH DESIGN VI",
+      "section": "F"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "AUT2025",
+      "course": "ARCH 503",
+      "courseTitle": "ARCH INTEGRATION II",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "AUT2024",
+      "course": "ARCH 503",
+      "courseTitle": "ARCH INTEGRATION II",
+      "section": "B"
+    }
+  ]
+}

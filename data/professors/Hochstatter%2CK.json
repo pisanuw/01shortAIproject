@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Hochstatter%2CK",
+  "professor": "Hochstatter,K",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 330",
+      "courseTitle": "CONST EST LAB",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 330",
+      "courseTitle": "CONST EST LAB",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "A"
+    }
+  ]
+}

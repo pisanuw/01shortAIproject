@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Jung%2CJason",
+  "professor": "Jung,Jason",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2025",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2025",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "C"
+    }
+  ]
+}

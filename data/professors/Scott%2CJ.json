@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Scott%2CJ",
+  "professor": "Scott,J",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "pharma",
+      "deptName": "Pharmacology",
+      "term": "AUT2020",
+      "course": "PHCOL 578",
+      "courseTitle": "AKAPS RESEARCH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "pharma",
+      "deptName": "Pharmacology",
+      "term": "AUT2020",
+      "course": "PHCOL 507",
+      "courseTitle": "PHARMACOLOGY SMNR",
+      "section": "A"
+    }
+  ]
+}

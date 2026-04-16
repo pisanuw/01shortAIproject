@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:59Z",
+  "generatedAt": "2026-04-16T02:57:15Z",
   "campus": "S",
   "dept": "ocean",
   "deptName": "Oceanography",
@@ -22,7 +22,7 @@
       "course": "OCEAN 101",
       "courseTitle": "OCEANOGR PACIFIC NW",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Nuwer,Mikelle"
     },
     {
       "campus": "S",
@@ -522,7 +522,7 @@
       "course": "OCEAN 102",
       "courseTitle": "THE CHANGING OCEANS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nuwer,Mikelle"
     },
     {
       "campus": "S",
@@ -532,7 +532,7 @@
       "course": "OCEAN 121",
       "courseTitle": "DEEP SEA VENTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kelley,Debbie"
     },
     {
       "campus": "S",
@@ -922,7 +922,7 @@
       "course": "OCEAN 200",
       "courseTitle": "INTRO OCEANOGRAPHY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Quay,Paul"
     },
     {
       "campus": "S",
@@ -952,7 +952,7 @@
       "course": "OCEAN 210",
       "courseTitle": "INTEGRATIVE OCEANS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Deutsch,Curtis A."
     },
     {
       "campus": "S",
@@ -1012,7 +1012,7 @@
       "course": "OCEAN 330",
       "courseTitle": "MARINE BIOGEOCHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rocap,Gabrielle"
     },
     {
       "campus": "S",
@@ -1328,6 +1328,116 @@
       "campus": "S",
       "dept": "ocean",
       "deptName": "Oceanography",
+      "term": "SUM2021",
+      "course": "OCEAN 102",
+      "courseTitle": "THE CHANGING OCEANS",
+      "section": "A",
+      "instructor": "Michael,Susanna Marie"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SUM2021",
+      "course": "OCEAN 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "A",
+      "instructor": "RJ"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SUM2021",
+      "course": "OCEAN 494",
+      "courseTitle": "FIELD EXP: OCEAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SUM2021",
+      "course": "OCEAN 496",
+      "courseTitle": "STUDY ABROAD: OCEAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SUM2021",
+      "course": "OCEAN 497",
+      "courseTitle": "ADV SPEC TOP: OCEAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SUM2021",
+      "course": "OCEAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SUM2021",
+      "course": "OCEAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SUM2021",
+      "course": "OCEAN 596",
+      "courseTitle": "CLIMATE CAPSTONE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SUM2021",
+      "course": "OCEAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SUM2021",
+      "course": "OCEAN 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SUM2021",
+      "course": "OCEAN 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
       "term": "AUT2021",
       "course": "OCEAN 100",
       "courseTitle": "EXPLORE UW OCEAN",
@@ -1362,7 +1472,7 @@
       "course": "OCEAN 210",
       "courseTitle": "INTEGRATIVE OCEANS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nuwer,Mikelle"
     },
     {
       "campus": "S",
@@ -1852,7 +1962,7 @@
       "course": "OCEAN 121",
       "courseTitle": "DEEP SEA VENTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kelley,Debbie"
     },
     {
       "campus": "S",
@@ -1872,7 +1982,7 @@
       "course": "OCEAN 295",
       "courseTitle": "MARINE ORG CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ingalls,Anitra E."
     },
     {
       "campus": "S",
@@ -2252,7 +2362,7 @@
       "course": "OCEAN 102",
       "courseTitle": "THE CHANGING OCEANS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nuwer,Mikelle"
     },
     {
       "campus": "S",
@@ -2272,7 +2382,7 @@
       "course": "OCEAN 200",
       "courseTitle": "INTRO OCEANOGRAPHY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Quay,Paul"
     },
     {
       "campus": "S",
@@ -2302,7 +2412,7 @@
       "course": "OCEAN 210",
       "courseTitle": "INTEGRATIVE OCEANS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Riser,Stephen C"
     },
     {
       "campus": "S",
@@ -2782,7 +2892,7 @@
       "course": "OCEAN 161",
       "courseTitle": "INTRO ENV MONITORING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Seroy,Sasha"
     },
     {
       "campus": "S",
@@ -2802,7 +2912,7 @@
       "course": "OCEAN 210",
       "courseTitle": "INTEGRATIVE OCEANS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nuwer,Mikelle"
     },
     {
       "campus": "S",
@@ -3182,7 +3292,7 @@
       "course": "OCEAN 587",
       "courseTitle": "FUND CLIMATE CHANGE",
       "section": "A",
-      "instructor": "Frierson,Dargan M"
+      "instructor": "A Frierson,Dargan M"
     },
     {
       "campus": "S",
@@ -3242,7 +3352,7 @@
       "course": "OCEAN 121",
       "courseTitle": "DEEP SEA VENTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kelley,D"
     },
     {
       "campus": "S",
@@ -3692,7 +3802,7 @@
       "course": "OCEAN 102",
       "courseTitle": "THE CHANGING OCEANS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nuwer,Mikelle"
     },
     {
       "campus": "S",
@@ -3702,7 +3812,7 @@
       "course": "OCEAN 200",
       "courseTitle": "INTRO OCEANOGRAPHY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Quay,P"
     },
     {
       "campus": "S",
@@ -4162,7 +4272,7 @@
       "course": "OCEAN 102",
       "courseTitle": "THE CHANGING OCEANS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Michael,Susanna Marie"
     },
     {
       "campus": "S",
@@ -4272,7 +4382,7 @@
       "course": "OCEAN 102",
       "courseTitle": "THE CHANGING OCEANS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Michael,Susanna Marie"
     },
     {
       "campus": "S",
@@ -4312,7 +4422,7 @@
       "course": "OCEAN 210",
       "courseTitle": "INTEGRATIVE OCEANS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nuwer,Mikelle"
     },
     {
       "campus": "S",
@@ -4742,7 +4852,7 @@
       "course": "OCEAN 121",
       "courseTitle": "DEEP SEA VENTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kelley,Debbie"
     },
     {
       "campus": "S",
@@ -5192,7 +5302,7 @@
       "course": "OCEAN 200",
       "courseTitle": "INTRO OCEANOGRAPHY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Quay,Paul"
     },
     {
       "campus": "S",
@@ -5262,7 +5372,7 @@
       "course": "OCEAN 330",
       "courseTitle": "MARINE BIOGEOCHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rocap,Gabrielle"
     },
     {
       "campus": "S",
@@ -5738,11 +5848,481 @@
       "campus": "S",
       "dept": "ocean",
       "deptName": "Oceanography",
-      "term": "WIN2025",
+      "term": "AUT2024",
+      "course": "OCEAN 100",
+      "courseTitle": "EXPLORE UW OCEAN",
+      "section": "A",
+      "instructor": "Nuwer,Mikelle"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
       "course": "OCEAN 102",
       "courseTitle": "THE CHANGING OCEANS",
       "section": "A",
       "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 161",
+      "courseTitle": "INTRO ENV MONITORING",
+      "section": "A",
+      "instructor": "Seroy,Sasha"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 200",
+      "courseTitle": "INTRO OCEANOGRAPHY",
+      "section": "A",
+      "instructor": "Keil,Rick"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 210",
+      "courseTitle": "INTEGRATIVE OCEANS",
+      "section": "A",
+      "instructor": "Nuwer,Mikelle"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 215",
+      "courseTitle": "OCEAN DATA ANALYSIS",
+      "section": "A",
+      "instructor": "Qi,Kathy"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 230",
+      "courseTitle": "RIVERS AND BEACHES",
+      "section": "A",
+      "instructor": "Nittrouer,Charles"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 230",
+      "courseTitle": "RIVERS AND BEACHES",
+      "section": "B",
+      "instructor": "Nittrouer,Charles"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 250",
+      "courseTitle": "MARINE BIOLOGY",
+      "section": "D",
+      "instructor": "Guzman,Jose M."
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 285",
+      "courseTitle": "FLUID MECH & WAVES",
+      "section": "A",
+      "instructor": "Manucharyan,Georgy"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 286",
+      "courseTitle": "FLUID MECH&WAVES LAB",
+      "section": "A",
+      "instructor": "Manucharyan,Georgy"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 286",
+      "courseTitle": "FLUID MECH&WAVES LAB",
+      "section": "B",
+      "instructor": "Manucharyan,Georgy"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 310",
+      "courseTitle": "MAR GEO & GEOCHEM",
+      "section": "A",
+      "instructor": "Keil,Rick"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 411",
+      "courseTitle": "SPEC TOP GEO/GPHYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 443",
+      "courseTitle": "SNR THESIS PROPOSAL",
+      "section": "A",
+      "instructor": "Armbrust,E. Virginia"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 462",
+      "courseTitle": "OCEAN TECH STUDIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 462",
+      "courseTitle": "OCEAN TECH STUDIO",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 494",
+      "courseTitle": "FIELD EXP: OCEAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 494",
+      "courseTitle": "FIELD EXP: OCEAN",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 496",
+      "courseTitle": "STUDY ABROAD: OCEAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 496",
+      "courseTitle": "STUDY ABROAD: OCEAN",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 497",
+      "courseTitle": "ADV SPEC TOP: OCEAN",
+      "section": "C",
+      "instructor": "Rocap,Gabrielle"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 497",
+      "courseTitle": "ADV SPEC TOP: OCEAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 497",
+      "courseTitle": "ADV SPEC TOP: OCEAN",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 500",
+      "courseTitle": "PROP WRIT & PROF DEV",
+      "section": "A",
+      "instructor": "Rocap,Gabrielle"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 500",
+      "courseTitle": "PROP WRIT & PROF DEV",
+      "section": "B",
+      "instructor": "Rocap,Gabrielle"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 506",
+      "courseTitle": "INTERDISCIPL OCEAN",
+      "section": "A",
+      "instructor": "Nowell,Arthur R M"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 510",
+      "courseTitle": "PHYSICS OCEAN CIRC",
+      "section": "A",
+      "instructor": "Riser,Stephen C"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 511",
+      "courseTitle": "FLUID DYNAMICS",
+      "section": "A",
+      "instructor": "Manucharyan,Georgy"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 519",
+      "courseTitle": "SMNR PHYSICAL OCEAN",
+      "section": "A",
+      "instructor": "Riser,Stephen C"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 520",
+      "courseTitle": "MARINE CHEMISTRY",
+      "section": "A",
+      "instructor": "Pavia,Frank J"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 529",
+      "courseTitle": "SMNR IN CHEM OCEAN",
+      "section": "B",
+      "instructor": "Ingalls,Anitra E."
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 529",
+      "courseTitle": "SMNR IN CHEM OCEAN",
+      "section": "A",
+      "instructor": "Pavia,Frank J"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 539",
+      "courseTitle": "SMNR IN BIOL OCEAN",
+      "section": "B",
+      "instructor": "Armbrust,E. Virginia"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 539",
+      "courseTitle": "SMNR IN BIOL OCEAN",
+      "section": "A",
+      "instructor": "Young,Jodi N"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 541",
+      "courseTitle": "MAR SEDIMENT PROC",
+      "section": "A",
+      "instructor": "Ogston,Andrea S"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 549",
+      "courseTitle": "SMNR GEO/GPHY OCEAN",
+      "section": "A",
+      "instructor": "Valentine,Kendall"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 549",
+      "courseTitle": "SMNR GEO/GPHY OCEAN",
+      "section": "B",
+      "instructor": "Wilcock,William"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 587",
+      "courseTitle": "FUND CLIMATE CHANGE",
+      "section": "A",
+      "instructor": "Frierson,Dargan M"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 593",
+      "courseTitle": "CLIMATE SEMINAR",
+      "section": "A",
+      "instructor": "Kalafatis,Scott"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 596",
+      "courseTitle": "CLIMATE CAPSTONE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2024",
+      "course": "OCEAN 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "WIN2025",
+      "course": "OCEAN 102",
+      "courseTitle": "THE CHANGING OCEANS",
+      "section": "A",
+      "instructor": "Nuwer,Mikelle"
     },
     {
       "campus": "S",
@@ -5772,7 +6352,7 @@
       "course": "OCEAN 295",
       "courseTitle": "MARINE ORG CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Keil,Rick"
     },
     {
       "campus": "S",
@@ -6182,7 +6762,7 @@
       "course": "OCEAN 200",
       "courseTitle": "INTRO OCEANOGRAPHY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nuwer,Mikelle"
     },
     {
       "campus": "S",
@@ -6252,7 +6832,7 @@
       "course": "OCEAN 330",
       "courseTitle": "MARINE BIOGEOCHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rocap,Gabrielle"
     },
     {
       "campus": "S",
@@ -6742,7 +7322,7 @@
       "course": "OCEAN 100",
       "courseTitle": "EXPLORE UW OCEAN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nuwer,Mikelle"
     },
     {
       "campus": "S",
@@ -6752,7 +7332,7 @@
       "course": "OCEAN 102",
       "courseTitle": "THE CHANGING OCEANS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Moore,Abbey"
     },
     {
       "campus": "S",
@@ -6762,7 +7342,7 @@
       "course": "OCEAN 161",
       "courseTitle": "INTRO ENV MONITORING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Seroy,Sasha"
     },
     {
       "campus": "S",
@@ -6772,7 +7352,7 @@
       "course": "OCEAN 200",
       "courseTitle": "INTRO OCEANOGRAPHY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Keil,Rick"
     },
     {
       "campus": "S",
@@ -6782,7 +7362,7 @@
       "course": "OCEAN 210",
       "courseTitle": "INTEGRATIVE OCEANS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nuwer,Mikelle"
     },
     {
       "campus": "S",
@@ -6792,7 +7372,7 @@
       "course": "OCEAN 215",
       "courseTitle": "OCEAN DATA ANALYSIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ko,Wing-Ho"
     },
     {
       "campus": "S",
@@ -6802,7 +7382,7 @@
       "course": "OCEAN 250",
       "courseTitle": "MARINE BIOLOGY",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Guzman,Jose M."
     },
     {
       "campus": "S",
@@ -6812,7 +7392,7 @@
       "course": "OCEAN 285",
       "courseTitle": "FLUID MECH & WAVES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hautala,Susan L"
     },
     {
       "campus": "S",
@@ -6822,7 +7402,7 @@
       "course": "OCEAN 286",
       "courseTitle": "FLUID MECH&WAVES LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hautala,Susan L"
     },
     {
       "campus": "S",
@@ -6832,7 +7412,7 @@
       "course": "OCEAN 286",
       "courseTitle": "FLUID MECH&WAVES LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Hautala,Susan L"
     },
     {
       "campus": "S",
@@ -6842,7 +7422,7 @@
       "course": "OCEAN 310",
       "courseTitle": "MAR GEO & GEOCHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Solomon,Evan A"
     },
     {
       "campus": "S",
@@ -6852,7 +7432,7 @@
       "course": "OCEAN 402",
       "courseTitle": "ADV BIOGEOCHEM PROC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bundy,Randie"
     },
     {
       "campus": "S",
@@ -6872,7 +7452,7 @@
       "course": "OCEAN 431",
       "courseTitle": "SPEC TOP BIOL OCEAN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chan,Karen"
     },
     {
       "campus": "S",
@@ -6961,6 +7541,16 @@
       "term": "AUT2025",
       "course": "OCEAN 497",
       "courseTitle": "ADV SPEC TOP: OCEAN",
+      "section": "C",
+      "instructor": "Rocap,Gabrielle"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2025",
+      "course": "OCEAN 497",
+      "courseTitle": "ADV SPEC TOP: OCEAN",
       "section": "A",
       "instructor": "TBA"
     },
@@ -6972,16 +7562,6 @@
       "course": "OCEAN 497",
       "courseTitle": "ADV SPEC TOP: OCEAN",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "ocean",
-      "deptName": "Oceanography",
-      "term": "AUT2025",
-      "course": "OCEAN 497",
-      "courseTitle": "ADV SPEC TOP: OCEAN",
-      "section": "C",
       "instructor": "TBA"
     },
     {
@@ -7022,7 +7602,7 @@
       "course": "OCEAN 500",
       "courseTitle": "PROP WRIT & PROF DEV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rocap,Gabrielle"
     },
     {
       "campus": "S",
@@ -7032,7 +7612,7 @@
       "course": "OCEAN 500",
       "courseTitle": "PROP WRIT & PROF DEV",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Rocap,Gabrielle"
     },
     {
       "campus": "S",
@@ -7042,7 +7622,7 @@
       "course": "OCEAN 506",
       "courseTitle": "INTERDISCIPL OCEAN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nowell,Arthur R M"
     },
     {
       "campus": "S",
@@ -7052,7 +7632,7 @@
       "course": "OCEAN 509",
       "courseTitle": "SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hartnett,Hilairy"
     },
     {
       "campus": "S",
@@ -7062,7 +7642,7 @@
       "course": "OCEAN 510",
       "courseTitle": "PHYSICS OCEAN CIRC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Riser,Stephen C"
     },
     {
       "campus": "S",
@@ -7072,7 +7652,7 @@
       "course": "OCEAN 511",
       "courseTitle": "FLUID DYNAMICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Battisti,David S"
     },
     {
       "campus": "S",
@@ -7082,7 +7662,7 @@
       "course": "OCEAN 519",
       "courseTitle": "SMNR PHYSICAL OCEAN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Thompson,Luanne"
     },
     {
       "campus": "S",
@@ -7092,7 +7672,7 @@
       "course": "OCEAN 519",
       "courseTitle": "SMNR PHYSICAL OCEAN",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Thompson,Luanne"
     },
     {
       "campus": "S",
@@ -7102,17 +7682,7 @@
       "course": "OCEAN 520",
       "courseTitle": "MARINE CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "ocean",
-      "deptName": "Oceanography",
-      "term": "AUT2025",
-      "course": "OCEAN 529",
-      "courseTitle": "SMNR IN CHEM OCEAN",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bundy,Randie"
     },
     {
       "campus": "S",
@@ -7122,7 +7692,17 @@
       "course": "OCEAN 529",
       "courseTitle": "SMNR IN CHEM OCEAN",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Ingalls,Anitra E."
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2025",
+      "course": "OCEAN 529",
+      "courseTitle": "SMNR IN CHEM OCEAN",
+      "section": "A",
+      "instructor": "Warner,Mark"
     },
     {
       "campus": "S",
@@ -7132,27 +7712,7 @@
       "course": "OCEAN 539",
       "courseTitle": "SMNR IN BIOL OCEAN",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "ocean",
-      "deptName": "Oceanography",
-      "term": "AUT2025",
-      "course": "OCEAN 549",
-      "courseTitle": "SMNR GEO/GPHY OCEAN",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "ocean",
-      "deptName": "Oceanography",
-      "term": "AUT2025",
-      "course": "OCEAN 549",
-      "courseTitle": "SMNR GEO/GPHY OCEAN",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Chan,Karen"
     },
     {
       "campus": "S",
@@ -7162,7 +7722,17 @@
       "course": "OCEAN 549",
       "courseTitle": "SMNR GEO/GPHY OCEAN",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Ogston,Andrea S"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2025",
+      "course": "OCEAN 549",
+      "courseTitle": "SMNR GEO/GPHY OCEAN",
+      "section": "A",
+      "instructor": "Valentine,Kendall"
     },
     {
       "campus": "S",
@@ -7172,7 +7742,17 @@
       "course": "OCEAN 549",
       "courseTitle": "SMNR GEO/GPHY OCEAN",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Walczak,Maureen"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2025",
+      "course": "OCEAN 549",
+      "courseTitle": "SMNR GEO/GPHY OCEAN",
+      "section": "B",
+      "instructor": "Wilcock,William"
     },
     {
       "campus": "S",
@@ -7182,7 +7762,7 @@
       "course": "OCEAN 554",
       "courseTitle": "PALEOCLIMATE PROXIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sachs,Julian P."
     },
     {
       "campus": "S",
@@ -7192,7 +7772,7 @@
       "course": "OCEAN 587",
       "courseTitle": "FUND CLIMATE CHANGE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Armour,Kyle"
     },
     {
       "campus": "S",
@@ -7242,7 +7822,7 @@
       "course": "OCEAN 102",
       "courseTitle": "THE CHANGING OCEANS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nuwer,Mikelle"
     },
     {
       "campus": "S",
@@ -7252,7 +7832,7 @@
       "course": "OCEAN 121",
       "courseTitle": "DEEP SEA VENTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kelley,Debbie"
     },
     {
       "campus": "S",
@@ -7262,7 +7842,7 @@
       "course": "OCEAN 250",
       "courseTitle": "MARINE BIOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Burton,Andrea"
     },
     {
       "campus": "S",
@@ -7272,7 +7852,7 @@
       "course": "OCEAN 270",
       "courseTitle": "AQUATIC ECOPHYSLGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Guzman,Jose M."
     },
     {
       "campus": "S",
@@ -7292,7 +7872,7 @@
       "course": "OCEAN 320",
       "courseTitle": "COASTAL OCEANOGRAPHY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Valentine,Kendall"
     },
     {
       "campus": "S",
@@ -7302,7 +7882,7 @@
       "course": "OCEAN 351",
       "courseTitle": "FNDTNS OCEAN SENSORS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Seroy,Sasha"
     },
     {
       "campus": "S",
@@ -7312,7 +7892,7 @@
       "course": "OCEAN 409",
       "courseTitle": "MARINE POLLUTION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Keil,Rick"
     },
     {
       "campus": "S",
@@ -7322,7 +7902,7 @@
       "course": "OCEAN 411",
       "courseTitle": "SPEC TOP GEO/GPHYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wilcock,William"
     },
     {
       "campus": "S",
@@ -7332,7 +7912,7 @@
       "course": "OCEAN 432",
       "courseTitle": "MICROBES CHNG OCEAN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Morris,Robert"
     },
     {
       "campus": "S",
@@ -7342,7 +7922,7 @@
       "course": "OCEAN 443",
       "courseTitle": "SNR THESIS PROPOSAL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Armbrust,E. Virginia"
     },
     {
       "campus": "S",
@@ -7352,7 +7932,17 @@
       "course": "OCEAN 450",
       "courseTitle": "CLIMATIC EXTREMES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sachs,Julian P."
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "WIN2026",
+      "course": "OCEAN 462",
+      "courseTitle": "OCEAN TECH STUDIO",
+      "section": "E",
+      "instructor": "Rupan,A. Rick"
     },
     {
       "campus": "S",
@@ -7399,20 +7989,10 @@
       "dept": "ocean",
       "deptName": "Oceanography",
       "term": "WIN2026",
-      "course": "OCEAN 462",
-      "courseTitle": "OCEAN TECH STUDIO",
-      "section": "E",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "ocean",
-      "deptName": "Oceanography",
-      "term": "WIN2026",
       "course": "OCEAN 475",
       "courseTitle": "CLMT SCI RSRCH SMNR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Thompson,Luanne"
     },
     {
       "campus": "S",
@@ -7512,7 +8092,7 @@
       "course": "OCEAN 506",
       "courseTitle": "INTERDISCIPL OCEAN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nowell,Arthur R M"
     },
     {
       "campus": "S",
@@ -7522,7 +8102,7 @@
       "course": "OCEAN 509",
       "courseTitle": "SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hartnett,Hilairy"
     },
     {
       "campus": "S",
@@ -7532,7 +8112,7 @@
       "course": "OCEAN 512",
       "courseTitle": "GEOPHYS FLUID DYN I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gray,Alison R."
     },
     {
       "campus": "S",
@@ -7542,7 +8122,7 @@
       "course": "OCEAN 515",
       "courseTitle": "OCEAN CIRC OBSERVTN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Riser,Stephen C"
     },
     {
       "campus": "S",
@@ -7552,7 +8132,7 @@
       "course": "OCEAN 518",
       "courseTitle": "SCIENTIFIC WRITING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Roe,Gerard H"
     },
     {
       "campus": "S",
@@ -7562,7 +8142,7 @@
       "course": "OCEAN 519",
       "courseTitle": "SMNR PHYSICAL OCEAN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gray,Alison R."
     },
     {
       "campus": "S",
@@ -7572,17 +8152,7 @@
       "course": "OCEAN 519",
       "courseTitle": "SMNR PHYSICAL OCEAN",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "ocean",
-      "deptName": "Oceanography",
-      "term": "WIN2026",
-      "course": "OCEAN 529",
-      "courseTitle": "SMNR IN CHEM OCEAN",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Thompson,Luanne"
     },
     {
       "campus": "S",
@@ -7592,7 +8162,7 @@
       "course": "OCEAN 529",
       "courseTitle": "SMNR IN CHEM OCEAN",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Ingalls,Anitra E."
     },
     {
       "campus": "S",
@@ -7602,7 +8172,17 @@
       "course": "OCEAN 529",
       "courseTitle": "SMNR IN CHEM OCEAN",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Pavia,Frank J"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "WIN2026",
+      "course": "OCEAN 529",
+      "courseTitle": "SMNR IN CHEM OCEAN",
+      "section": "A",
+      "instructor": "Sachs,Julian P."
     },
     {
       "campus": "S",
@@ -7612,7 +8192,7 @@
       "course": "OCEAN 530",
       "courseTitle": "MAR BACTRA &VIRUSES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Morris,Robert"
     },
     {
       "campus": "S",
@@ -7622,17 +8202,7 @@
       "course": "OCEAN 549",
       "courseTitle": "SMNR GEO/GPHY OCEAN",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "ocean",
-      "deptName": "Oceanography",
-      "term": "WIN2026",
-      "course": "OCEAN 549",
-      "courseTitle": "SMNR GEO/GPHY OCEAN",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Ogston,Andrea S"
     },
     {
       "campus": "S",
@@ -7642,7 +8212,7 @@
       "course": "OCEAN 549",
       "courseTitle": "SMNR GEO/GPHY OCEAN",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Walczak,Maureen"
     },
     {
       "campus": "S",
@@ -7652,7 +8222,17 @@
       "course": "OCEAN 549",
       "courseTitle": "SMNR GEO/GPHY OCEAN",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Walczak,Maureen"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "WIN2026",
+      "course": "OCEAN 549",
+      "courseTitle": "SMNR GEO/GPHY OCEAN",
+      "section": "B",
+      "instructor": "Wilcock,William"
     },
     {
       "campus": "S",
@@ -7662,7 +8242,7 @@
       "course": "OCEAN 583",
       "courseTitle": "ISOTOPE BIOGEOCHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pavia,Frank J"
     },
     {
       "campus": "S",
@@ -7672,7 +8252,7 @@
       "course": "OCEAN 586",
       "courseTitle": "CLIMATE SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Thompson,Luanne"
     },
     {
       "campus": "S",
@@ -7682,7 +8262,7 @@
       "course": "OCEAN 588",
       "courseTitle": "CARBON AND CLIMATE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Swann,Abby"
     },
     {
       "campus": "S",
@@ -7692,7 +8272,7 @@
       "course": "OCEAN 589",
       "courseTitle": "PALEOCLIMATOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Steig,Eric"
     },
     {
       "campus": "S",
@@ -7702,7 +8282,7 @@
       "course": "OCEAN 593",
       "courseTitle": "CLIMATE SCIENCE SMNR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bertram,Miriam A."
     },
     {
       "campus": "S",
@@ -7762,7 +8342,7 @@
       "course": "OCEAN 200",
       "courseTitle": "INTRO OCEANOGRAPHY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nuwer,Mikelle"
     },
     {
       "campus": "S",
@@ -7772,7 +8352,7 @@
       "course": "OCEAN 201",
       "courseTitle": "INTRO OCEAN LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Walczak,Maureen"
     },
     {
       "campus": "S",
@@ -7782,7 +8362,7 @@
       "course": "OCEAN 201",
       "courseTitle": "INTRO OCEAN LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Walczak,Maureen"
     },
     {
       "campus": "S",
@@ -7792,7 +8372,7 @@
       "course": "OCEAN 210",
       "courseTitle": "INTEGRATIVE OCEANS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pavia,Frank J"
     },
     {
       "campus": "S",
@@ -7812,7 +8392,7 @@
       "course": "OCEAN 261",
       "courseTitle": "OCN TECH: DES BLD I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Seroy,Sasha"
     },
     {
       "campus": "S",
@@ -7822,7 +8402,7 @@
       "course": "OCEAN 295",
       "courseTitle": "MARINE ORG CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ingalls,Anitra E."
     },
     {
       "campus": "S",
@@ -7832,7 +8412,7 @@
       "course": "OCEAN 330",
       "courseTitle": "MARINE BIOGEOCHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chan,Karen"
     },
     {
       "campus": "S",
@@ -7842,7 +8422,7 @@
       "course": "OCEAN 361",
       "courseTitle": "OCN TECH: DES BLD II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Seroy,Sasha"
     },
     {
       "campus": "S",
@@ -7862,7 +8442,7 @@
       "course": "OCEAN 423",
       "courseTitle": "OCEAN CIRC & CLIMATE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Armour,Kyle"
     },
     {
       "campus": "S",
@@ -7872,7 +8452,7 @@
       "course": "OCEAN 444",
       "courseTitle": "SNR THESIS RESEARCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Armbrust,E. Virginia"
     },
     {
       "campus": "S",
@@ -7882,7 +8462,7 @@
       "course": "OCEAN 444",
       "courseTitle": "SNR THESIS RESEARCH",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Armbrust,E. Virginia"
     },
     {
       "campus": "S",
@@ -7892,7 +8472,7 @@
       "course": "OCEAN 445",
       "courseTitle": "SNR THESIS:ANALYSIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Armbrust,E. Virginia"
     },
     {
       "campus": "S",
@@ -7902,7 +8482,7 @@
       "course": "OCEAN 461",
       "courseTitle": "OCN TECH: PROJ MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Seroy,Sasha"
     },
     {
       "campus": "S",
@@ -8041,8 +8621,8 @@
       "term": "SPR2026",
       "course": "OCEAN 506",
       "courseTitle": "INTERDISCIPL OCEAN",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Ko,Wing-Ho"
     },
     {
       "campus": "S",
@@ -8051,8 +8631,8 @@
       "term": "SPR2026",
       "course": "OCEAN 506",
       "courseTitle": "INTERDISCIPL OCEAN",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Nowell,Arthur R M"
     },
     {
       "campus": "S",
@@ -8062,7 +8642,7 @@
       "course": "OCEAN 509",
       "courseTitle": "SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hartnett,Hilairy"
     },
     {
       "campus": "S",
@@ -8072,7 +8652,7 @@
       "course": "OCEAN 513",
       "courseTitle": "GEOPHY FLUID DYN II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Thompson,Luanne"
     },
     {
       "campus": "S",
@@ -8082,7 +8662,7 @@
       "course": "OCEAN 519",
       "courseTitle": "SMNR PHYSICAL OCEAN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hautala,Susan L"
     },
     {
       "campus": "S",
@@ -8092,7 +8672,7 @@
       "course": "OCEAN 529",
       "courseTitle": "SMNR IN CHEM OCEAN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Crusius,John F"
     },
     {
       "campus": "S",
@@ -8102,7 +8682,7 @@
       "course": "OCEAN 529",
       "courseTitle": "SMNR IN CHEM OCEAN",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Ingalls,Anitra E."
     },
     {
       "campus": "S",
@@ -8112,7 +8692,7 @@
       "course": "OCEAN 535",
       "courseTitle": "BIOL OCEANOGRAPHY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rocap,Gabrielle"
     },
     {
       "campus": "S",
@@ -8122,7 +8702,7 @@
       "course": "OCEAN 539",
       "courseTitle": "SMNR IN BIOL OCEAN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rocap,Gabrielle"
     },
     {
       "campus": "S",
@@ -8132,7 +8712,7 @@
       "course": "OCEAN 540",
       "courseTitle": "MAR GEOL & GEOPHYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Solomon,Evan A"
     },
     {
       "campus": "S",
@@ -8142,7 +8722,7 @@
       "course": "OCEAN 545",
       "courseTitle": "OCEANIC LITHOSPHERE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wilcock,William"
     },
     {
       "campus": "S",
@@ -8152,27 +8732,7 @@
       "course": "OCEAN 549",
       "courseTitle": "SMNR GEO/GPHY OCEAN",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "ocean",
-      "deptName": "Oceanography",
-      "term": "SPR2026",
-      "course": "OCEAN 549",
-      "courseTitle": "SMNR GEO/GPHY OCEAN",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "ocean",
-      "deptName": "Oceanography",
-      "term": "SPR2026",
-      "course": "OCEAN 549",
-      "courseTitle": "SMNR GEO/GPHY OCEAN",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Ogston,Andrea S"
     },
     {
       "campus": "S",
@@ -8183,6 +8743,26 @@
       "courseTitle": "SMNR GEO/GPHY OCEAN",
       "section": "D",
       "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SPR2026",
+      "course": "OCEAN 549",
+      "courseTitle": "SMNR GEO/GPHY OCEAN",
+      "section": "C",
+      "instructor": "Walczak,Maureen"
+    },
+    {
+      "campus": "S",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SPR2026",
+      "course": "OCEAN 549",
+      "courseTitle": "SMNR GEO/GPHY OCEAN",
+      "section": "B",
+      "instructor": "Wilcock,William"
     },
     {
       "campus": "S",

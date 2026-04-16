@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "HJO",
+  "professor": "HJO",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwlbasw",
+      "deptName": "Social Welfare BASW",
+      "term": "AUT2024",
+      "course": "SOC WF 390",
+      "courseTitle": "SOC WELFARE RESEARCH",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwlbasw",
+      "deptName": "Social Welfare BASW",
+      "term": "AUT2023",
+      "course": "SOC WF 390",
+      "courseTitle": "SOC WELFARE RESEARCH",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwlbasw",
+      "deptName": "Social Welfare BASW",
+      "term": "AUT2022",
+      "course": "SOC WF 390",
+      "courseTitle": "SOC WELFARE RESEARCH",
+      "section": "C"
+    }
+  ]
+}

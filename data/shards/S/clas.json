@@ -1,9 +1,279 @@
 {
-  "generatedAt": "2026-04-15T16:27:55Z",
+  "generatedAt": "2026-04-16T02:57:11Z",
   "campus": "S",
   "dept": "clas",
   "deptName": "Classics",
   "records": [
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "C",
+      "instructor": "BUECHNER,EMMA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "D",
+      "instructor": "BUECHNER,EMMA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "E",
+      "instructor": "Chase,Catherine"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "F",
+      "instructor": "Chase,Catherine"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "A",
+      "instructor": "HANLEY,LAURYN"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "B",
+      "instructor": "HANLEY,LAURYN"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 122",
+      "courseTitle": "ANCIENT GRECO-ROMAN",
+      "section": "A",
+      "instructor": "Waldo,Christopher"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 122",
+      "courseTitle": "ANCIENT GRECO-ROMAN",
+      "section": "B",
+      "instructor": "Waldo,Christopher"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "A",
+      "instructor": "McNulty,Mary"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "B",
+      "instructor": "McNulty,Mary"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "C",
+      "instructor": "Molkova,Diana"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "D",
+      "instructor": "Molkova,Diana"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "E",
+      "instructor": "Speth,Nicole"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "F",
+      "instructor": "Speth,Nicole"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "G",
+      "instructor": "Yirga,Fanaye"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "H",
+      "instructor": "Yirga,Fanaye"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 320",
+      "courseTitle": "G & R SOC & STATUS",
+      "section": "A",
+      "instructor": "Kamen,Deborah E"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 330",
+      "courseTitle": "AGE OF AUGUSTUS",
+      "section": "A",
+      "instructor": "Gowing,Alain M"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 424",
+      "courseTitle": "EPIC TRADITION",
+      "section": "A",
+      "instructor": "Levaniouk,Olga"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 430",
+      "courseTitle": "GRK & ROM MYTHOLOGY",
+      "section": "A",
+      "instructor": "La Fond,Marie"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 430",
+      "courseTitle": "GRK & ROM MYTHOLOGY",
+      "section": "B",
+      "instructor": "La Fond,Marie"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 495",
+      "courseTitle": "SENIOR ESSAY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 496",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "WHJ"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
     {
       "campus": "S",
       "dept": "clas",
@@ -162,7 +432,7 @@
       "course": "CLAS 324",
       "courseTitle": "GRK & ROM ATHLETICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stroup,Sarah"
     },
     {
       "campus": "S",
@@ -212,7 +482,7 @@
       "course": "CLAS 430",
       "courseTitle": "GRK & ROM MYTHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Waldo,Christopher"
     },
     {
       "campus": "S",
@@ -471,7 +741,7 @@
       "term": "SPR2021",
       "course": "CLAS 430",
       "courseTitle": "GRK & ROM MYTHOLOGY",
-      "section": "B",
+      "section": "A",
       "instructor": "Funsten,Grace"
     },
     {
@@ -481,8 +751,8 @@
       "term": "SPR2021",
       "course": "CLAS 430",
       "courseTitle": "GRK & ROM MYTHOLOGY",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Funsten,Grace"
     },
     {
       "campus": "S",
@@ -529,6 +799,216 @@
       "dept": "clas",
       "deptName": "Classics",
       "term": "SPR2021",
+      "course": "CLAS 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2021",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "E",
+      "instructor": "BUECHNER,EMMA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2021",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "F",
+      "instructor": "BUECHNER,EMMA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2021",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "C",
+      "instructor": "CLARK,JONATHAN"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2021",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "D",
+      "instructor": "CLARK,JONATHAN"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2021",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "A",
+      "instructor": "Harris,Laura"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2021",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "B",
+      "instructor": "Harris,Laura"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2021",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "G",
+      "instructor": "Yirga,Fanaye"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2021",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "H",
+      "instructor": "Yirga,Fanaye"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2021",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "A",
+      "instructor": "CHASE,CATHERINE"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2021",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "B",
+      "instructor": "CHASE,CATHERINE"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2021",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "C",
+      "instructor": "HANLEY,LAURYN"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2021",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "D",
+      "instructor": "HANLEY,LAURYN"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2021",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "E",
+      "instructor": "SPETH,NICOLE"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2021",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "F",
+      "instructor": "SPETH,NICOLE"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2021",
+      "course": "CLAS 320",
+      "courseTitle": "G & R SOC & STATUS",
+      "section": "A",
+      "instructor": "Breitenfeld,Sarah Brucia"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2021",
+      "course": "CLAS 405",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "A",
+      "instructor": "Clauss,James J"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2021",
+      "course": "CLAS 430",
+      "courseTitle": "GRK & ROM MYTHOLOGY",
+      "section": "A",
+      "instructor": "La Fond,Marie"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2021",
+      "course": "CLAS 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2021",
+      "course": "CLAS 495",
+      "courseTitle": "SENIOR ESSAY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2021",
+      "course": "CLAS 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2021",
       "course": "CLAS 800",
       "courseTitle": "DOCTORAL DISSERTATN",
       "section": "A",
@@ -721,7 +1201,7 @@
       "term": "AUT2021",
       "course": "CLAS 430",
       "courseTitle": "GRK & ROM MYTHOLOGY",
-      "section": "B",
+      "section": "A",
       "instructor": "Simas,Anna E"
     },
     {
@@ -731,8 +1211,8 @@
       "term": "AUT2021",
       "course": "CLAS 430",
       "courseTitle": "GRK & ROM MYTHOLOGY",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Simas,Anna E"
     },
     {
       "campus": "S",
@@ -1078,6 +1558,426 @@
       "campus": "S",
       "dept": "clas",
       "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "A",
+      "instructor": "CLARK,JONATHAN"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "B",
+      "instructor": "CLARK,JONATHAN"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "C",
+      "instructor": "Harris,Laura"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "D",
+      "instructor": "Harris,Laura"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "E",
+      "instructor": "Syed,Zainab Hassan"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "F",
+      "instructor": "Syed,Zainab Hassan"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "E",
+      "instructor": "HANLEY,LAURYN"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "F",
+      "instructor": "HANLEY,LAURYN"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "C",
+      "instructor": "La Fond,Marie"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "D",
+      "instructor": "La Fond,Marie"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "A",
+      "instructor": "Simas,Anna E"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "B",
+      "instructor": "Simas,Anna E"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "G",
+      "instructor": "Smith,Lexi Zita"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "H",
+      "instructor": "Smith,Lexi Zita"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 231",
+      "courseTitle": "RACE & ANCIENT WORLD",
+      "section": "A",
+      "instructor": "Waldo,Christopher"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 314",
+      "courseTitle": "STEM IN ANCNT WORLD",
+      "section": "A",
+      "instructor": "Stroup,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 326",
+      "courseTitle": "WOMEN IN ANTIQUITY",
+      "section": "A",
+      "instructor": "Connors,Catherine M"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 326",
+      "courseTitle": "WOMEN IN ANTIQUITY",
+      "section": "B",
+      "instructor": "Connors,Catherine M"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 420",
+      "courseTitle": "FREE-ROME/MOD WORLD",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 430",
+      "courseTitle": "GRK & ROM MYTHOLOGY",
+      "section": "A",
+      "instructor": "Waldo,Christopher"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 430",
+      "courseTitle": "GRK & ROM MYTHOLOGY",
+      "section": "B",
+      "instructor": "Waldo,Christopher"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 495",
+      "courseTitle": "SENIOR ESSAY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 520",
+      "courseTitle": "SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2022",
+      "course": "CLAS 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2022",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "C",
+      "instructor": "SPETH,NICOLE"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2022",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "D",
+      "instructor": "SPETH,NICOLE"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2022",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "A",
+      "instructor": "Syed,Zainab Hassan"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2022",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "B",
+      "instructor": "Syed,Zainab Hassan"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2022",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "C",
+      "instructor": "Chase,Catherine"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2022",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "D",
+      "instructor": "Chase,Catherine"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2022",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "A",
+      "instructor": "Harris,Laura"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2022",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "B",
+      "instructor": "Harris,Laura"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2022",
+      "course": "CLAS 399",
+      "courseTitle": "STUDY ABROAD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2022",
+      "course": "CLAS 399",
+      "courseTitle": "STUDY ABROAD",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2022",
+      "course": "CLAS 405",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "A",
+      "instructor": "Clauss,James J"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2022",
+      "course": "CLAS 430",
+      "courseTitle": "GRK & ROM MYTHOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2022",
+      "course": "CLAS 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2022",
+      "course": "CLAS 495",
+      "courseTitle": "SENIOR ESSAY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2022",
+      "course": "CLAS 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2022",
+      "course": "CLAS 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
       "term": "AUT2022",
       "course": "CLAS 101",
       "courseTitle": "LAT & GRK CURR USE",
@@ -1241,7 +2141,7 @@
       "term": "AUT2022",
       "course": "CLAS 430",
       "courseTitle": "GRK & ROM MYTHOLOGY",
-      "section": "B",
+      "section": "A",
       "instructor": "Ritter,Michael"
     },
     {
@@ -1251,8 +2151,8 @@
       "term": "AUT2022",
       "course": "CLAS 430",
       "courseTitle": "GRK & ROM MYTHOLOGY",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Ritter,Michael"
     },
     {
       "campus": "S",
@@ -1762,7 +2662,7 @@
       "course": "CLAS 430",
       "courseTitle": "GRK & ROM MYTHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Waldo,Christopher"
     },
     {
       "campus": "S",
@@ -1819,6 +2719,166 @@
       "dept": "clas",
       "deptName": "Classics",
       "term": "SPR2023",
+      "course": "CLAS 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2023",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "A",
+      "instructor": "Davis,A. M. Hahn"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2023",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "B",
+      "instructor": "Davis,A. M. Hahn"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2023",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "C",
+      "instructor": "Dulany,Liam"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2023",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "D",
+      "instructor": "Dulany,Liam"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2023",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "E",
+      "instructor": "Hanrahan,Caden"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2023",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "F",
+      "instructor": "Hanrahan,Caden"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2023",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "C",
+      "instructor": "HANLEY,LAURYN"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2023",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "D",
+      "instructor": "HANLEY,LAURYN"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2023",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "A",
+      "instructor": "Molkova,Diana"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2023",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "B",
+      "instructor": "Molkova,Diana"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2023",
+      "course": "CLAS 399",
+      "courseTitle": "STUDY ABROAD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2023",
+      "course": "CLAS 430",
+      "courseTitle": "GRK & ROM MYTHOLOGY",
+      "section": "A",
+      "instructor": "La Fond,Marie"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2023",
+      "course": "CLAS 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2023",
+      "course": "CLAS 495",
+      "courseTitle": "SENIOR ESSAY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2023",
+      "course": "CLAS 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2023",
       "course": "CLAS 800",
       "courseTitle": "DOCTORAL DISSERTATN",
       "section": "A",
@@ -2031,7 +3091,7 @@
       "term": "AUT2023",
       "course": "CLAS 430",
       "courseTitle": "GRK & ROM MYTHOLOGY",
-      "section": "B",
+      "section": "A",
       "instructor": "Hinds,Stephen E"
     },
     {
@@ -2041,8 +3101,8 @@
       "term": "AUT2023",
       "course": "CLAS 430",
       "courseTitle": "GRK & ROM MYTHOLOGY",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Hinds,Stephen E"
     },
     {
       "campus": "S",
@@ -2672,7 +3732,7 @@
       "course": "CLAS 430",
       "courseTitle": "GRK & ROM MYTHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Waldo,Christopher"
     },
     {
       "campus": "S",
@@ -2882,7 +3942,7 @@
       "course": "CLAS 430",
       "courseTitle": "GRK & ROM MYTHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "La Fond,Marie"
     },
     {
       "campus": "S",
@@ -2919,6 +3979,306 @@
       "dept": "clas",
       "deptName": "Classics",
       "term": "SUM2024",
+      "course": "CLAS 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "G",
+      "instructor": "Faletti,Beck"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "H",
+      "instructor": "Faletti,Beck"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "A",
+      "instructor": "Muh,Anna Coleman"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "B",
+      "instructor": "Muh,Anna Coleman"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "E",
+      "instructor": "Parsons,Madalena Cunha"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "F",
+      "instructor": "Parsons,Madalena Cunha"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "C",
+      "instructor": "Rahat,Guy"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "D",
+      "instructor": "Rahat,Guy"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 122",
+      "courseTitle": "ANCIENT GRECO-ROMAN",
+      "section": "A",
+      "instructor": "Bringman,Joseph"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 122",
+      "courseTitle": "ANCIENT GRECO-ROMAN",
+      "section": "B",
+      "instructor": "Bringman,Joseph"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "G",
+      "instructor": "Choi,Suh Young"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "H",
+      "instructor": "Choi,Suh Young"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "A",
+      "instructor": "Davis,A. M. Hahn"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "B",
+      "instructor": "Davis,A. M. Hahn"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "C",
+      "instructor": "Dulany,Liam"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "D",
+      "instructor": "Dulany,Liam"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "E",
+      "instructor": "Hanrahan,Caden"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "F",
+      "instructor": "Hanrahan,Caden"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 320",
+      "courseTitle": "G & R SOC & STATUS",
+      "section": "A",
+      "instructor": "Kamen,Deborah E"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 328",
+      "courseTitle": "SEX & GENDER IN LIT",
+      "section": "A",
+      "instructor": "Levin-Richardson,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 328",
+      "courseTitle": "SEX & GENDER IN LIT",
+      "section": "B",
+      "instructor": "Levin-Richardson,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 328",
+      "courseTitle": "SEX & GENDER IN LIT",
+      "section": "C",
+      "instructor": "Levin-Richardson,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 427",
+      "courseTitle": "GRK ROM TRAG IN ENG",
+      "section": "A",
+      "instructor": "Clauss,James J"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 430",
+      "courseTitle": "GRK & ROM MYTHOLOGY",
+      "section": "A",
+      "instructor": "Ritter,Michael"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 430",
+      "courseTitle": "GRK & ROM MYTHOLOGY",
+      "section": "B",
+      "instructor": "Ritter,Michael"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 495",
+      "courseTitle": "SENIOR ESSAY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
+      "course": "CLAS 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2024",
       "course": "CLAS 800",
       "courseTitle": "DOCTORAL DISSERTATN",
       "section": "A",
@@ -3352,7 +4712,7 @@
       "course": "CLAS 326",
       "courseTitle": "WOMEN IN ANTIQUITY",
       "section": "A",
-      "instructor": "Levaniouk,Olga"
+      "instructor": "A Levaniouk,Olga"
     },
     {
       "campus": "S",
@@ -3381,7 +4741,7 @@
       "term": "SPR2025",
       "course": "CLAS 430",
       "courseTitle": "GRK & ROM MYTHOLOGY",
-      "section": "B",
+      "section": "A",
       "instructor": "Riedemann Lorca,Valeria"
     },
     {
@@ -3391,8 +4751,8 @@
       "term": "SPR2025",
       "course": "CLAS 430",
       "courseTitle": "GRK & ROM MYTHOLOGY",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Riedemann Lorca,Valeria"
     },
     {
       "campus": "S",
@@ -3468,27 +4828,27 @@
       "campus": "S",
       "dept": "clas",
       "deptName": "Classics",
-      "term": "AUT2025",
+      "term": "SUM2025",
       "course": "CLAS 101",
       "courseTitle": "LAT & GRK CURR USE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Giuntoli,Luke Christopher"
     },
     {
       "campus": "S",
       "dept": "clas",
       "deptName": "Classics",
-      "term": "AUT2025",
+      "term": "SUM2025",
       "course": "CLAS 101",
       "courseTitle": "LAT & GRK CURR USE",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Giuntoli,Luke Christopher"
     },
     {
       "campus": "S",
       "dept": "clas",
       "deptName": "Classics",
-      "term": "AUT2025",
+      "term": "SUM2025",
       "course": "CLAS 101",
       "courseTitle": "LAT & GRK CURR USE",
       "section": "C",
@@ -3498,10 +4858,140 @@
       "campus": "S",
       "dept": "clas",
       "deptName": "Classics",
-      "term": "AUT2025",
+      "term": "SUM2025",
       "course": "CLAS 101",
       "courseTitle": "LAT & GRK CURR USE",
       "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2025",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "A",
+      "instructor": "Davis,A. M. Hahn"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2025",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "B",
+      "instructor": "Davis,A. M. Hahn"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2025",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "E",
+      "instructor": "Hanrahan,Caden"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2025",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "F",
+      "instructor": "Hanrahan,Caden"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2025",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "C",
+      "instructor": "Muh,Anna Coleman"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2025",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "D",
+      "instructor": "Muh,Anna Coleman"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2025",
+      "course": "CLAS 328",
+      "courseTitle": "SEX & GENDER IN LIT",
+      "section": "A",
+      "instructor": "Harris,Laura"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2025",
+      "course": "CLAS 405",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "A",
+      "instructor": "Clauss,James J"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2025",
+      "course": "CLAS 430",
+      "courseTitle": "GRK & ROM MYTHOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2025",
+      "course": "CLAS 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2025",
+      "course": "CLAS 495",
+      "courseTitle": "SENIOR ESSAY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2025",
+      "course": "CLAS 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2025",
+      "course": "CLAS 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -3512,7 +5002,7 @@
       "course": "CLAS 101",
       "courseTitle": "LAT & GRK CURR USE",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Giuntoli,Luke Christopher"
     },
     {
       "campus": "S",
@@ -3522,7 +5012,47 @@
       "course": "CLAS 101",
       "courseTitle": "LAT & GRK CURR USE",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Giuntoli,Luke Christopher"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2025",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "C",
+      "instructor": "Hanrahan,Caden"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2025",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "D",
+      "instructor": "Hanrahan,Caden"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2025",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "A",
+      "instructor": "Wolfgram,Christian Alexand"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2025",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "B",
+      "instructor": "Wolfgram,Christian Alexand"
     },
     {
       "campus": "S",
@@ -3532,7 +5062,7 @@
       "course": "CLAS 205",
       "courseTitle": "BIOSCIENTIFIC VOCAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Davis,A. M. Hahn"
     },
     {
       "campus": "S",
@@ -3542,7 +5072,7 @@
       "course": "CLAS 205",
       "courseTitle": "BIOSCIENTIFIC VOCAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Davis,A. M. Hahn"
     },
     {
       "campus": "S",
@@ -3552,7 +5082,7 @@
       "course": "CLAS 205",
       "courseTitle": "BIOSCIENTIFIC VOCAB",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "La Fond,Marie"
     },
     {
       "campus": "S",
@@ -3562,7 +5092,7 @@
       "course": "CLAS 205",
       "courseTitle": "BIOSCIENTIFIC VOCAB",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "La Fond,Marie"
     },
     {
       "campus": "S",
@@ -3572,7 +5102,7 @@
       "course": "CLAS 205",
       "courseTitle": "BIOSCIENTIFIC VOCAB",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Muh,Anna Coleman"
     },
     {
       "campus": "S",
@@ -3582,7 +5112,7 @@
       "course": "CLAS 205",
       "courseTitle": "BIOSCIENTIFIC VOCAB",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Muh,Anna Coleman"
     },
     {
       "campus": "S",
@@ -3592,7 +5122,7 @@
       "course": "CLAS 328",
       "courseTitle": "SEX & GENDER IN LIT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Levin-Richardson,Sarah"
     },
     {
       "campus": "S",
@@ -3602,7 +5132,7 @@
       "course": "CLAS 328",
       "courseTitle": "SEX & GENDER IN LIT",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Levin-Richardson,Sarah"
     },
     {
       "campus": "S",
@@ -3612,7 +5142,7 @@
       "course": "CLAS 328",
       "courseTitle": "SEX & GENDER IN LIT",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Levin-Richardson,Sarah"
     },
     {
       "campus": "S",
@@ -3622,7 +5152,7 @@
       "course": "CLAS 369",
       "courseTitle": "EPIC EMOTIONS/POETRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Levaniouk,Olga"
     },
     {
       "campus": "S",
@@ -3632,7 +5162,7 @@
       "course": "CLAS 424",
       "courseTitle": "EPIC TRADITION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Clauss,James J"
     },
     {
       "campus": "S",
@@ -3642,7 +5172,7 @@
       "course": "CLAS 430",
       "courseTitle": "GRK & ROM MYTHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ritter,Michael"
     },
     {
       "campus": "S",
@@ -3652,7 +5182,7 @@
       "course": "CLAS 430",
       "courseTitle": "GRK & ROM MYTHOLOGY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Ritter,Michael"
     },
     {
       "campus": "S",
@@ -3662,7 +5192,7 @@
       "course": "CLAS 435",
       "courseTitle": "THE ANCIENT NOVEL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Connors,Catherine M"
     },
     {
       "campus": "S",
@@ -3731,38 +5261,8 @@
       "term": "WIN2026",
       "course": "CLAS 101",
       "courseTitle": "LAT & GRK CURR USE",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "clas",
-      "deptName": "Classics",
-      "term": "WIN2026",
-      "course": "CLAS 101",
-      "courseTitle": "LAT & GRK CURR USE",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "clas",
-      "deptName": "Classics",
-      "term": "WIN2026",
-      "course": "CLAS 101",
-      "courseTitle": "LAT & GRK CURR USE",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "clas",
-      "deptName": "Classics",
-      "term": "WIN2026",
-      "course": "CLAS 101",
-      "courseTitle": "LAT & GRK CURR USE",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Giuntoli,Luke Christopher"
     },
     {
       "campus": "S",
@@ -3772,7 +5272,37 @@
       "course": "CLAS 101",
       "courseTitle": "LAT & GRK CURR USE",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Giuntoli,Luke Christopher"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "WIN2026",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "B",
+      "instructor": "Hanrahan,Caden"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "WIN2026",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "C",
+      "instructor": "Hanrahan,Caden"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "WIN2026",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "A",
+      "instructor": "Wolfgram,Christian Alexand"
     },
     {
       "campus": "S",
@@ -3782,27 +5312,7 @@
       "course": "CLAS 101",
       "courseTitle": "LAT & GRK CURR USE",
       "section": "F",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "clas",
-      "deptName": "Classics",
-      "term": "WIN2026",
-      "course": "CLAS 205",
-      "courseTitle": "BIOSCIENTIFIC VOCAB",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "clas",
-      "deptName": "Classics",
-      "term": "WIN2026",
-      "course": "CLAS 205",
-      "courseTitle": "BIOSCIENTIFIC VOCAB",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Wolfgram,Christian Alexand"
     },
     {
       "campus": "S",
@@ -3812,7 +5322,7 @@
       "course": "CLAS 205",
       "courseTitle": "BIOSCIENTIFIC VOCAB",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "A Parsons,Madalena Cunha"
     },
     {
       "campus": "S",
@@ -3822,7 +5332,27 @@
       "course": "CLAS 205",
       "courseTitle": "BIOSCIENTIFIC VOCAB",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "A Parsons,Madalena Cunha"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "WIN2026",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "A",
+      "instructor": "Davis,A. M. Hahn"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "WIN2026",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "B",
+      "instructor": "Davis,A. M. Hahn"
     },
     {
       "campus": "S",
@@ -3832,7 +5362,7 @@
       "course": "CLAS 205",
       "courseTitle": "BIOSCIENTIFIC VOCAB",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Muh,Anna Coleman"
     },
     {
       "campus": "S",
@@ -3842,7 +5372,7 @@
       "course": "CLAS 205",
       "courseTitle": "BIOSCIENTIFIC VOCAB",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Muh,Anna Coleman"
     },
     {
       "campus": "S",
@@ -3852,7 +5382,7 @@
       "course": "CLAS 231",
       "courseTitle": "RACE & ANCIENT WORLD",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Waldo,Christopher"
     },
     {
       "campus": "S",
@@ -3862,7 +5392,7 @@
       "course": "CLAS 239",
       "courseTitle": "GREECE ANCNT TO MODN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Klapaki,Nektaria"
     },
     {
       "campus": "S",
@@ -3872,7 +5402,7 @@
       "course": "CLAS 320",
       "courseTitle": "G & R SOC & STATUS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kamen,Deborah E"
     },
     {
       "campus": "S",
@@ -3882,7 +5412,7 @@
       "course": "CLAS 323",
       "courseTitle": "ALEXANDER THE GREAT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lahiri,Ray"
     },
     {
       "campus": "S",
@@ -3902,7 +5432,7 @@
       "course": "CLAS 410",
       "courseTitle": "CLASSICAL TRADITION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hinds,Stephen E"
     },
     {
       "campus": "S",
@@ -3932,7 +5462,7 @@
       "course": "CLAS 432",
       "courseTitle": "CLAS MYTH IN FILM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Clauss,James J"
     },
     {
       "campus": "S",
@@ -4001,38 +5531,8 @@
       "term": "SPR2026",
       "course": "CLAS 101",
       "courseTitle": "LAT & GRK CURR USE",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "clas",
-      "deptName": "Classics",
-      "term": "SPR2026",
-      "course": "CLAS 101",
-      "courseTitle": "LAT & GRK CURR USE",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "clas",
-      "deptName": "Classics",
-      "term": "SPR2026",
-      "course": "CLAS 101",
-      "courseTitle": "LAT & GRK CURR USE",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "clas",
-      "deptName": "Classics",
-      "term": "SPR2026",
-      "course": "CLAS 101",
-      "courseTitle": "LAT & GRK CURR USE",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Giuntoli,Luke Christopher"
     },
     {
       "campus": "S",
@@ -4042,7 +5542,37 @@
       "course": "CLAS 101",
       "courseTitle": "LAT & GRK CURR USE",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Giuntoli,Luke Christopher"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2026",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "B",
+      "instructor": "Hanrahan,Caden"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2026",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "C",
+      "instructor": "Hanrahan,Caden"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2026",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "A",
+      "instructor": "Wolfgram,Christian Alexand"
     },
     {
       "campus": "S",
@@ -4052,7 +5582,7 @@
       "course": "CLAS 101",
       "courseTitle": "LAT & GRK CURR USE",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Wolfgram,Christian Alexand"
     },
     {
       "campus": "S",
@@ -4062,7 +5592,7 @@
       "course": "CLAS 122",
       "courseTitle": "ANCIENT GRECO-ROMAN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Waldo,Christopher"
     },
     {
       "campus": "S",
@@ -4072,27 +5602,7 @@
       "course": "CLAS 122",
       "courseTitle": "ANCIENT GRECO-ROMAN",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "clas",
-      "deptName": "Classics",
-      "term": "SPR2026",
-      "course": "CLAS 205",
-      "courseTitle": "BIOSCIENTIFIC VOCAB",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "clas",
-      "deptName": "Classics",
-      "term": "SPR2026",
-      "course": "CLAS 205",
-      "courseTitle": "BIOSCIENTIFIC VOCAB",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Waldo,Christopher"
     },
     {
       "campus": "S",
@@ -4102,7 +5612,7 @@
       "course": "CLAS 205",
       "courseTitle": "BIOSCIENTIFIC VOCAB",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Davis,A. M. Hahn"
     },
     {
       "campus": "S",
@@ -4112,7 +5622,7 @@
       "course": "CLAS 205",
       "courseTitle": "BIOSCIENTIFIC VOCAB",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Davis,A. M. Hahn"
     },
     {
       "campus": "S",
@@ -4122,7 +5632,7 @@
       "course": "CLAS 205",
       "courseTitle": "BIOSCIENTIFIC VOCAB",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Muh,Anna Coleman"
     },
     {
       "campus": "S",
@@ -4132,7 +5642,27 @@
       "course": "CLAS 205",
       "courseTitle": "BIOSCIENTIFIC VOCAB",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Muh,Anna Coleman"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2026",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "A",
+      "instructor": "Parsons,Madalena Cunha"
+    },
+    {
+      "campus": "S",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SPR2026",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "B",
+      "instructor": "Parsons,Madalena Cunha"
     },
     {
       "campus": "S",
@@ -4142,7 +5672,7 @@
       "course": "CLAS 328",
       "courseTitle": "SEX & GENDER IN LIT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Levin-Richardson,Sarah"
     },
     {
       "campus": "S",
@@ -4152,7 +5682,7 @@
       "course": "CLAS 329",
       "courseTitle": "GRK & ROMAN SLAVERY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kamen,Deborah E"
     },
     {
       "campus": "S",
@@ -4162,7 +5692,7 @@
       "course": "CLAS 330",
       "courseTitle": "AGE OF AUGUSTUS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lahiri,Ray"
     },
     {
       "campus": "S",
@@ -4172,7 +5702,7 @@
       "course": "CLAS 430",
       "courseTitle": "GRK & ROM MYTHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Riedemann Lorca,Valeria"
     },
     {
       "campus": "S",
@@ -4182,7 +5712,7 @@
       "course": "CLAS 430",
       "courseTitle": "GRK & ROM MYTHOLOGY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Riedemann Lorca,Valeria"
     },
     {
       "campus": "S",
@@ -4212,7 +5742,7 @@
       "course": "CLAS 540",
       "courseTitle": "GRK-LAT LIT HIST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Clauss,James J"
     },
     {
       "campus": "S",

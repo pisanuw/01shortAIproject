@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Moore%2CJazmen",
+  "professor": "Moore,Jazmen",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "teached",
+      "deptName": "Education",
+      "term": "SUM2023",
+      "course": "EDTEP 511",
+      "courseTitle": "SCHOOL AND SOCIETY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "teached",
+      "deptName": "Education",
+      "term": "SUM2021",
+      "course": "EDTEP 551",
+      "courseTitle": "MULTICULTURAL TEACH",
+      "section": "C"
+    }
+  ]
+}

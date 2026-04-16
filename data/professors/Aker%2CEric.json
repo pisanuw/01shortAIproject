@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Aker%2CEric",
+  "professor": "Aker,Eric",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2025",
+      "course": "INFO 331",
+      "courseTitle": "INFO ARCHITECTURE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2025",
+      "course": "INFO 331",
+      "courseTitle": "INFO ARCHITECTURE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2024",
+      "course": "INFO 331",
+      "courseTitle": "INFO ARCHITECTURE",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Shi%2CTristan",
+  "professor": "Shi,Tristan",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2026",
+      "course": "CHEM 457",
+      "courseTitle": "STAT MECHANICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2026",
+      "course": "CHEM 551",
+      "courseTitle": "QUANTUM DYN & SPEC",
+      "section": "A"
+    }
+  ]
+}

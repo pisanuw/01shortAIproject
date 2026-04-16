@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:56Z",
+  "generatedAt": "2026-04-16T02:57:12Z",
   "campus": "S",
   "dept": "ling",
   "deptName": "Linguistics",
@@ -12,7 +12,7 @@
       "course": "LING 200",
       "courseTitle": "INTRO LINGUISTICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Conrod,Kirby"
     },
     {
       "campus": "S",
@@ -42,7 +42,7 @@
       "course": "LING 233",
       "courseTitle": "LANGUAGE & SOCIETY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Evans,Betsy E"
     },
     {
       "campus": "S",
@@ -52,7 +52,7 @@
       "course": "LING 234",
       "courseTitle": "LANG & DIVERSITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rozelle,Lorna"
     },
     {
       "campus": "S",
@@ -72,7 +72,7 @@
       "course": "LING 269",
       "courseTitle": "SWEARNG & TABOO LANG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McGarrity,Laura W"
     },
     {
       "campus": "S",
@@ -362,7 +362,7 @@
       "course": "LING 200",
       "courseTitle": "INTRO LINGUISTICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ferjan Ramirez,Naja"
     },
     {
       "campus": "S",
@@ -382,7 +382,7 @@
       "course": "LING 234",
       "courseTitle": "LANG & DIVERSITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wassink,Alicia Beckford"
     },
     {
       "campus": "S",
@@ -732,7 +732,7 @@
       "course": "LING 200",
       "courseTitle": "INTRO LINGUISTICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cheng,Qi"
     },
     {
       "campus": "S",
@@ -762,7 +762,7 @@
       "course": "LING 233",
       "courseTitle": "LANGUAGE & SOCIETY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Moroz,Anna Kristina"
     },
     {
       "campus": "S",
@@ -772,7 +772,7 @@
       "course": "LING 234",
       "courseTitle": "LANG & DIVERSITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rozelle,Lorna"
     },
     {
       "campus": "S",
@@ -782,7 +782,7 @@
       "course": "LING 269",
       "courseTitle": "SWEARNG & TABOO LANG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McGarrity,Laura W"
     },
     {
       "campus": "S",
@@ -1352,7 +1352,7 @@
       "course": "LING 200",
       "courseTitle": "INTRO LINGUISTICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McGarrity,Laura W"
     },
     {
       "campus": "S",
@@ -1372,7 +1372,7 @@
       "course": "LING 233",
       "courseTitle": "LANGUAGE & SOCIETY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Evans,Betsy E"
     },
     {
       "campus": "S",
@@ -1382,7 +1382,7 @@
       "course": "LING 269",
       "courseTitle": "SWEARNG & TABOO LANG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McGarrity,Laura W"
     },
     {
       "campus": "S",
@@ -1712,7 +1712,7 @@
       "course": "LING 200",
       "courseTitle": "INTRO LINGUISTICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McGarrity,Laura W"
     },
     {
       "campus": "S",
@@ -1732,7 +1732,7 @@
       "course": "LING 234",
       "courseTitle": "LANG & DIVERSITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lapierre,Myriam"
     },
     {
       "campus": "S",
@@ -2138,6 +2138,466 @@
       "campus": "S",
       "dept": "ling",
       "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 200",
+      "courseTitle": "INTRO LINGUISTICS",
+      "section": "A",
+      "instructor": "Cheng,Q"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 210",
+      "courseTitle": "LANGUAGE & THOUGHT",
+      "section": "A",
+      "instructor": "McGarrity,Laura W"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 233",
+      "courseTitle": "LANGUAGE & SOCIETY",
+      "section": "A",
+      "instructor": "Evans,Betsy E"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 234",
+      "courseTitle": "LANG & DIVERSITY",
+      "section": "A",
+      "instructor": "Rozelle,Lorna"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 269",
+      "courseTitle": "SWEARNG & TABOO LANG",
+      "section": "A",
+      "instructor": "McGarrity,Laura W"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 415",
+      "courseTitle": "HIST GERMAN LANG",
+      "section": "A",
+      "instructor": "Oehme,Annegret"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 419",
+      "courseTitle": "ROLING SENIOR ESSAY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 421",
+      "courseTitle": "R FOR LINGUIST",
+      "section": "A",
+      "instructor": "Jones,Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 432",
+      "courseTitle": "SOCIOLINGUISTICS I",
+      "section": "A",
+      "instructor": "Evans,Betsy E"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 446",
+      "courseTitle": "ENGLISH PHONOLOGY",
+      "section": "A",
+      "instructor": "Hargus,Sharon L"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 450",
+      "courseTitle": "INTRO LING PHONET",
+      "section": "A",
+      "instructor": "Hargus,Sharon L"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 451",
+      "courseTitle": "PHONOLOGY I",
+      "section": "A",
+      "instructor": "Lapierre,Myriam"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 452",
+      "courseTitle": "PHONOLOGY II",
+      "section": "A",
+      "instructor": "Lapierre,Myriam"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 462",
+      "courseTitle": "SYNTAX II",
+      "section": "A",
+      "instructor": "Citko,Barbara"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 471",
+      "courseTitle": "COMPUT METHODS-LING",
+      "section": "A",
+      "instructor": "Kelley,M"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 472",
+      "courseTitle": "INTR TO COMPUT LING",
+      "section": "A",
+      "instructor": "NG,SARA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 490",
+      "courseTitle": "FIELDWORK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "HJ"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 520",
+      "courseTitle": "INTRO STATS FOR LING",
+      "section": "A",
+      "instructor": "Cheng,Q"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 521",
+      "courseTitle": "R FOR LINGUISTS",
+      "section": "A",
+      "instructor": "Jones,Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 532",
+      "courseTitle": "SOCIOLINGUISTICS I",
+      "section": "A",
+      "instructor": "Evans,Betsy E"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 548",
+      "courseTitle": "2ND/FL TEACH CPSTON",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 550",
+      "courseTitle": "INTRO LING PHONET",
+      "section": "A",
+      "instructor": "Hargus,Sharon L"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 550",
+      "courseTitle": "INTRO LING PHONET",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 551",
+      "courseTitle": "PHONOLOGY I",
+      "section": "A",
+      "instructor": "Lapierre,Myriam"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 552",
+      "courseTitle": "PHONOLOGY II",
+      "section": "A",
+      "instructor": "Lapierre,Myriam"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 573",
+      "courseTitle": "NLP SYSTEMS/APPS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 575",
+      "courseTitle": "COMPUT LING TOPICS",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 575",
+      "courseTitle": "COMPUT LING TOPICS",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 575",
+      "courseTitle": "COMPUT LING TOPICS",
+      "section": "I",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 575",
+      "courseTitle": "COMPUT LING TOPICS",
+      "section": "L",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 580",
+      "courseTitle": "PROBS IN LINGUISTCS",
+      "section": "C",
+      "instructor": "Citko,Barbara"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 580",
+      "courseTitle": "PROBS IN LINGUISTCS",
+      "section": "K",
+      "instructor": "Ogihara,Toshiyuki"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 580",
+      "courseTitle": "PROBS IN LINGUISTCS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 580",
+      "courseTitle": "PROBS IN LINGUISTCS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 580",
+      "courseTitle": "PROBS IN LINGUISTCS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 580",
+      "courseTitle": "PROBS IN LINGUISTCS",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 580",
+      "courseTitle": "PROBS IN LINGUISTCS",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 580",
+      "courseTitle": "PROBS IN LINGUISTCS",
+      "section": "L",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 590",
+      "courseTitle": "FIELDWORK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 599",
+      "courseTitle": "LING COLLOQUIUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 599",
+      "courseTitle": "LING COLLOQUIUM",
+      "section": "A",
+      "instructor": "Wright,R"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2022",
+      "course": "LING 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
       "term": "SUM2022",
       "course": "LING 200",
       "courseTitle": "INTRO LINGUISTICS",
@@ -2218,11 +2678,421 @@
       "campus": "S",
       "dept": "ling",
       "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 200",
+      "courseTitle": "INTRO LINGUISTICS",
+      "section": "A",
+      "instructor": "Rozelle,Lorna"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 203",
+      "courseTitle": "INTRO TO ANTH LING",
+      "section": "A",
+      "instructor": "Bilaniuk,Laada M"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 210",
+      "courseTitle": "LANGUAGE & THOUGHT",
+      "section": "A",
+      "instructor": "McGarrity,Laura W"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 220",
+      "courseTitle": "ORIG GERMANIC LANGS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 233",
+      "courseTitle": "LANGUAGE & SOCIETY",
+      "section": "A",
+      "instructor": "Evans,Betsy E"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 234",
+      "courseTitle": "LANG & DIVERSITY",
+      "section": "A",
+      "instructor": "Lapierre,Myriam"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 412",
+      "courseTitle": "JAPANESE SYN & SEM",
+      "section": "A",
+      "instructor": "Ogihara,Toshiyuki"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 415",
+      "courseTitle": "HIST GERMAN LANG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 432",
+      "courseTitle": "SOCIOLINGUISTICS I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 433",
+      "courseTitle": "SOCIOLINGUISTICS II",
+      "section": "A",
+      "instructor": "Evans,Betsy E"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 441",
+      "courseTitle": "LANG PROCESSING 1",
+      "section": "A",
+      "instructor": "Zhao,Christina"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 450",
+      "courseTitle": "INTRO LING PHONET",
+      "section": "A",
+      "instructor": "Kelley,M"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 461",
+      "courseTitle": "SYNTAX I",
+      "section": "A",
+      "instructor": "Citko,B"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 470",
+      "courseTitle": "DISCOURSE:TALK/TEXT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 476",
+      "courseTitle": "PHIL OF LANGUAGE",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 478",
+      "courseTitle": "SEMANTICS I",
+      "section": "A",
+      "instructor": "Ogihara,Toshiyuki"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 507",
+      "courseTitle": "SYNTACTIC THEORY I",
+      "section": "A",
+      "instructor": "Citko,B"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 532",
+      "courseTitle": "SOCIOLINGUISTICS I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 532",
+      "courseTitle": "SOCIOLINGUISTICS I",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 533",
+      "courseTitle": "METH SOCIOLING THRY",
+      "section": "A",
+      "instructor": "Evans,Betsy E"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 541",
+      "courseTitle": "LANG PROCESSING 1",
+      "section": "A",
+      "instructor": "Zhao,Christina"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 548",
+      "courseTitle": "2ND/FL TEACH CPSTON",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 550",
+      "courseTitle": "INTRO LING PHONET",
+      "section": "A",
+      "instructor": "Kelley,M"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 566",
+      "courseTitle": "SYNTAX COMPUT LING",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 570",
+      "courseTitle": "SHALLW PROC FOR NLP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 571",
+      "courseTitle": "DEEP PROC FOR NLP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 575",
+      "courseTitle": "COMPUT LING TOPICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 578",
+      "courseTitle": "SEMANTIC THEORY I",
+      "section": "A",
+      "instructor": "Ogihara,Toshiyuki"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 580",
+      "courseTitle": "PROBS IN LINGUISTCS",
+      "section": "A",
+      "instructor": "Hedding,Andrew"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 580",
+      "courseTitle": "PROBS IN LINGUISTCS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 580",
+      "courseTitle": "PROBS IN LINGUISTCS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 580",
+      "courseTitle": "PROBS IN LINGUISTCS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 580",
+      "courseTitle": "PROBS IN LINGUISTCS",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 580",
+      "courseTitle": "PROBS IN LINGUISTCS",
+      "section": "E",
+      "instructor": "Wright,Richard"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 599",
+      "courseTitle": "LING COLLOQUIUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 599",
+      "courseTitle": "LING COLLOQUIUM",
+      "section": "A",
+      "instructor": "Wright,Richard"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2022",
+      "course": "LING 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
       "term": "WIN2023",
       "course": "LING 200",
       "courseTitle": "INTRO LINGUISTICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McGarrity,Laura W"
     },
     {
       "campus": "S",
@@ -2242,7 +3112,7 @@
       "course": "LING 269",
       "courseTitle": "SWEARNG & TABOO LANG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McGarrity,Laura W"
     },
     {
       "campus": "S",
@@ -2722,7 +3592,7 @@
       "course": "LING 200",
       "courseTitle": "INTRO LINGUISTICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hedding,Andrew"
     },
     {
       "campus": "S",
@@ -2742,7 +3612,7 @@
       "course": "LING 233",
       "courseTitle": "LANGUAGE & SOCIETY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Evans,Betsy E"
     },
     {
       "campus": "S",
@@ -2762,7 +3632,7 @@
       "course": "LING 269",
       "courseTitle": "SWEARNG & TABOO LANG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McGarrity,Laura W"
     },
     {
       "campus": "S",
@@ -3212,7 +4082,7 @@
       "course": "LING 200",
       "courseTitle": "INTRO LINGUISTICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ferjan Ramirez,Naja"
     },
     {
       "campus": "S",
@@ -3612,7 +4482,7 @@
       "course": "LING 200",
       "courseTitle": "INTRO LINGUISTICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hedding,Andrew"
     },
     {
       "campus": "S",
@@ -3632,7 +4502,7 @@
       "course": "LING 233",
       "courseTitle": "LANGUAGE & SOCIETY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Evans,Betsy E"
     },
     {
       "campus": "S",
@@ -3652,7 +4522,7 @@
       "course": "LING 269",
       "courseTitle": "SWEARNG & TABOO LANG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McGarrity,Laura W"
     },
     {
       "campus": "S",
@@ -4102,7 +4972,7 @@
       "course": "LING 200",
       "courseTitle": "INTRO LINGUISTICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McGarrity,Laura W"
     },
     {
       "campus": "S",
@@ -4112,7 +4982,7 @@
       "course": "LING 233",
       "courseTitle": "LANGUAGE & SOCIETY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Evans,Betsy E"
     },
     {
       "campus": "S",
@@ -4132,7 +5002,7 @@
       "course": "LING 269",
       "courseTitle": "SWEARNG & TABOO LANG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McGarrity,Laura W"
     },
     {
       "campus": "S",
@@ -4638,11 +5508,391 @@
       "campus": "S",
       "dept": "ling",
       "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 200",
+      "courseTitle": "INTRO LINGUISTICS",
+      "section": "A",
+      "instructor": "Ferjan Ramirez,Naja"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 203",
+      "courseTitle": "INTRO TO ANTH LING",
+      "section": "A",
+      "instructor": "Bilaniuk,Laada M"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 210",
+      "courseTitle": "LANGUAGE & THOUGHT",
+      "section": "A",
+      "instructor": "McGarrity,Laura W"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 234",
+      "courseTitle": "LANG & DIVERSITY",
+      "section": "A",
+      "instructor": "Rozelle,Lorna"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 359",
+      "courseTitle": "LANG & ETHNICITY",
+      "section": "A",
+      "instructor": "Mawkanuli,Talant"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 432",
+      "courseTitle": "SOCIOLINGUISTICS I",
+      "section": "A",
+      "instructor": "Evans,Betsy E"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 433",
+      "courseTitle": "SOCIOLINGUISTICS II",
+      "section": "A",
+      "instructor": "Evans,Betsy E"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 441",
+      "courseTitle": "LANG PROCESSING 1",
+      "section": "A",
+      "instructor": "Ferjan Ramirez,Naja"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 450",
+      "courseTitle": "INTRO LING PHONET",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 450",
+      "courseTitle": "INTRO LING PHONET",
+      "section": "A",
+      "instructor": "Wassink,Alicia Beckford"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 461",
+      "courseTitle": "SYNTAX I",
+      "section": "A",
+      "instructor": "Hedding,Andrew"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 476",
+      "courseTitle": "PHIL OF LANGUAGE",
+      "section": "A",
+      "instructor": "Franco,Paul L"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 478",
+      "courseTitle": "SEMANTICS I",
+      "section": "A",
+      "instructor": "Ogihara,Toshiyuki"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 498",
+      "courseTitle": "UG HONORS RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 507",
+      "courseTitle": "SYNTACTIC THEORY I",
+      "section": "A",
+      "instructor": "Hedding,Andrew"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 532",
+      "courseTitle": "SOCIOLINGUISTICS I",
+      "section": "A",
+      "instructor": "Evans,Betsy E"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 532",
+      "courseTitle": "SOCIOLINGUISTICS I",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 533",
+      "courseTitle": "METH SOCIOLING THRY",
+      "section": "A",
+      "instructor": "Evans,Betsy E"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 541",
+      "courseTitle": "LANG PROCESSING 1",
+      "section": "A",
+      "instructor": "Ferjan Ramirez,Naja"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 548",
+      "courseTitle": "2ND/FL TEACH CPSTON",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 550",
+      "courseTitle": "INTRO LING PHONET",
+      "section": "A",
+      "instructor": "Wassink,Alicia Beckford"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 560",
+      "courseTitle": "LANG & ETHNICITY",
+      "section": "A",
+      "instructor": "Mawkanuli,Talant"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 566",
+      "courseTitle": "SYNTAX COMPUT LING",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 570",
+      "courseTitle": "SHALLW PROC FOR NLP",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 571",
+      "courseTitle": "DEEP PROC FOR NLP",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 575",
+      "courseTitle": "COMPUT LING TOPICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 578",
+      "courseTitle": "SEMANTIC THEORY I",
+      "section": "A",
+      "instructor": "Ogihara,Toshiyuki"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 580",
+      "courseTitle": "PROBS IN LINGUISTCS",
+      "section": "E",
+      "instructor": "Ogihara,Toshiyuki"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 580",
+      "courseTitle": "PROBS IN LINGUISTCS",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 580",
+      "courseTitle": "PROBS IN LINGUISTCS",
+      "section": "G",
+      "instructor": "Wright,Richard"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 580",
+      "courseTitle": "PROBS IN LINGUISTCS",
+      "section": "H",
+      "instructor": "Wright,Richard"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 599",
+      "courseTitle": "LING COLLOQUIUM",
+      "section": "B",
+      "instructor": "Lindekugel,Katie"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 599",
+      "courseTitle": "LING COLLOQUIUM",
+      "section": "A",
+      "instructor": "Wright,Richard"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "AUT2024",
+      "course": "LING 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
       "term": "WIN2025",
       "course": "LING 200",
       "courseTitle": "INTRO LINGUISTICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cheng,Qi"
     },
     {
       "campus": "S",
@@ -4672,7 +5922,7 @@
       "course": "LING 269",
       "courseTitle": "SWEARNG & TABOO LANG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McGarrity,Laura W"
     },
     {
       "campus": "S",
@@ -5142,7 +6392,7 @@
       "course": "LING 200",
       "courseTitle": "INTRO LINGUISTICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McGarrity,Laura W"
     },
     {
       "campus": "S",
@@ -5172,7 +6422,7 @@
       "course": "LING 269",
       "courseTitle": "SWEARNG & TABOO LANG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McGarrity,Laura W"
     },
     {
       "campus": "S",
@@ -5242,7 +6492,7 @@
       "course": "LING 462",
       "courseTitle": "SYNTAX II",
       "section": "A",
-      "instructor": "Citko,Barbara"
+      "instructor": "A Citko,Barbara"
     },
     {
       "campus": "S",
@@ -5372,7 +6622,7 @@
       "course": "LING 574",
       "courseTitle": "DEEP LEARNING - NLP",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Steinert-Threlkeld,Shane N"
     },
     {
       "campus": "S",
@@ -5402,7 +6652,7 @@
       "course": "LING 575",
       "courseTitle": "COMPUT LING TOPICS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Steinert-Threlkeld,Shane N"
     },
     {
       "campus": "S",
@@ -5602,7 +6852,7 @@
       "course": "LING 200",
       "courseTitle": "INTRO LINGUISTICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McGarrity,Laura W"
     },
     {
       "campus": "S",
@@ -5612,7 +6862,7 @@
       "course": "LING 233",
       "courseTitle": "LANGUAGE & SOCIETY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Evans,Betsy E"
     },
     {
       "campus": "S",
@@ -5622,7 +6872,7 @@
       "course": "LING 269",
       "courseTitle": "SWEARNG & TABOO LANG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McGarrity,Laura W"
     },
     {
       "campus": "S",
@@ -5642,7 +6892,7 @@
       "course": "LING 359",
       "courseTitle": "LANG & ETHNICITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mawkanuli,Talant"
     },
     {
       "campus": "S",
@@ -5662,7 +6912,7 @@
       "course": "LING 412",
       "courseTitle": "JAPANESE SYN & SEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ogihara,Toshiyuki"
     },
     {
       "campus": "S",
@@ -5672,7 +6922,7 @@
       "course": "LING 432",
       "courseTitle": "SOCIOLINGUISTICS I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wassink,Alicia Beckford"
     },
     {
       "campus": "S",
@@ -5682,7 +6932,7 @@
       "course": "LING 450",
       "courseTitle": "INTRO LING PHONET",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brinkerhoff,Myke"
     },
     {
       "campus": "S",
@@ -5702,7 +6952,7 @@
       "course": "LING 451",
       "courseTitle": "PHONOLOGY I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lapierre,Myriam"
     },
     {
       "campus": "S",
@@ -5712,7 +6962,7 @@
       "course": "LING 461",
       "courseTitle": "SYNTAX I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gagne,Ray"
     },
     {
       "campus": "S",
@@ -5722,7 +6972,7 @@
       "course": "LING 478",
       "courseTitle": "SEMANTICS I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ogihara,Toshiyuki"
     },
     {
       "campus": "S",
@@ -5761,7 +7011,7 @@
       "term": "AUT2025",
       "course": "LING 532",
       "courseTitle": "SOCIOLINGUISTICS I",
-      "section": "A",
+      "section": "B",
       "instructor": "TBA"
     },
     {
@@ -5771,8 +7021,8 @@
       "term": "AUT2025",
       "course": "LING 532",
       "courseTitle": "SOCIOLINGUISTICS I",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Wassink,Alicia Beckford"
     },
     {
       "campus": "S",
@@ -5782,7 +7032,7 @@
       "course": "LING 535",
       "courseTitle": "ADV SOCIOLINGUISTICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wassink,Alicia Beckford"
     },
     {
       "campus": "S",
@@ -5802,7 +7052,7 @@
       "course": "LING 550",
       "courseTitle": "INTRO LING PHONET",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brinkerhoff,Myke"
     },
     {
       "campus": "S",
@@ -5812,7 +7062,7 @@
       "course": "LING 551",
       "courseTitle": "PHONOLOGY I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lapierre,Myriam"
     },
     {
       "campus": "S",
@@ -5822,7 +7072,7 @@
       "course": "LING 560",
       "courseTitle": "LANG & ETHNICITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mawkanuli,Talant"
     },
     {
       "campus": "S",
@@ -5872,7 +7122,7 @@
       "course": "LING 578",
       "courseTitle": "SEMANTIC THEORY I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ogihara,Toshiyuki"
     },
     {
       "campus": "S",
@@ -5881,8 +7131,8 @@
       "term": "AUT2025",
       "course": "LING 580",
       "courseTitle": "PROBLEMS IN LING",
-      "section": "C",
-      "instructor": "TBA"
+      "section": "E",
+      "instructor": "Lapierre,Myriam"
     },
     {
       "campus": "S",
@@ -5901,7 +7151,7 @@
       "term": "AUT2025",
       "course": "LING 580",
       "courseTitle": "PROBLEMS IN LING",
-      "section": "E",
+      "section": "F",
       "instructor": "TBA"
     },
     {
@@ -5911,8 +7161,8 @@
       "term": "AUT2025",
       "course": "LING 580",
       "courseTitle": "PROBLEMS IN LING",
-      "section": "F",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "Wright,Richard"
     },
     {
       "campus": "S",
@@ -5972,7 +7222,7 @@
       "course": "LING 200",
       "courseTitle": "INTRO LINGUISTICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Burns,Roslyn"
     },
     {
       "campus": "S",
@@ -5982,7 +7232,7 @@
       "course": "LING 210",
       "courseTitle": "LANGUAGE & THOUGHT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McGarrity,Laura W"
     },
     {
       "campus": "S",
@@ -5992,7 +7242,7 @@
       "course": "LING 233",
       "courseTitle": "LANGUAGE & SOCIETY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Evans,Betsy E"
     },
     {
       "campus": "S",
@@ -6002,7 +7252,7 @@
       "course": "LING 403",
       "courseTitle": "LING OF SIGN LANG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rozelle,Lorna"
     },
     {
       "campus": "S",
@@ -6012,7 +7262,7 @@
       "course": "LING 432",
       "courseTitle": "SOCIOLINGUISTICS I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Evans,Betsy E"
     },
     {
       "campus": "S",
@@ -6022,7 +7272,7 @@
       "course": "LING 449",
       "courseTitle": "SECOND-LANG LRNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fernandez Dobao,Ana"
     },
     {
       "campus": "S",
@@ -6032,7 +7282,7 @@
       "course": "LING 461",
       "courseTitle": "SYNTAX I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gagne,Ray"
     },
     {
       "campus": "S",
@@ -6042,7 +7292,7 @@
       "course": "LING 462",
       "courseTitle": "SYNTAX II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hedding,Andrew"
     },
     {
       "campus": "S",
@@ -6052,7 +7302,7 @@
       "course": "LING 479",
       "courseTitle": "SEMANTICS II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ogihara,Toshiyuki"
     },
     {
       "campus": "S",
@@ -6092,7 +7342,7 @@
       "course": "LING 507",
       "courseTitle": "SYNTACTIC THEORY I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hedding,Andrew"
     },
     {
       "campus": "S",
@@ -6102,7 +7352,7 @@
       "course": "LING 520",
       "courseTitle": "INTRO STATS FOR LING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cheng,Qi"
     },
     {
       "campus": "S",
@@ -6112,7 +7362,7 @@
       "course": "LING 532",
       "courseTitle": "SOCIOLINGUISTICS I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Evans,Betsy E"
     },
     {
       "campus": "S",
@@ -6132,7 +7382,7 @@
       "course": "LING 549",
       "courseTitle": "SECOND LANG LEARN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fernandez Dobao,Ana"
     },
     {
       "campus": "S",
@@ -6162,7 +7412,7 @@
       "course": "LING 572",
       "courseTitle": "ADV STAT MTHD IN NLP",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Xia,Fei"
     },
     {
       "campus": "S",
@@ -6172,7 +7422,7 @@
       "course": "LING 575",
       "courseTitle": "COMPUT LING TOPICS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Paullada,Amandalynne"
     },
     {
       "campus": "S",
@@ -6192,27 +7442,7 @@
       "course": "LING 579",
       "courseTitle": "SEMANTIC THEORY II",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "ling",
-      "deptName": "Linguistics",
-      "term": "WIN2026",
-      "course": "LING 580",
-      "courseTitle": "PROBLEMS IN LING",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "ling",
-      "deptName": "Linguistics",
-      "term": "WIN2026",
-      "course": "LING 580",
-      "courseTitle": "PROBLEMS IN LING",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Ogihara,Toshiyuki"
     },
     {
       "campus": "S",
@@ -6222,7 +7452,7 @@
       "course": "LING 580",
       "courseTitle": "PROBLEMS IN LING",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Cheng,Qi"
     },
     {
       "campus": "S",
@@ -6232,7 +7462,27 @@
       "course": "LING 580",
       "courseTitle": "PROBLEMS IN LING",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Cheng,Qi"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "WIN2026",
+      "course": "LING 580",
+      "courseTitle": "PROBLEMS IN LING",
+      "section": "A",
+      "instructor": "Ogihara,Toshiyuki"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "WIN2026",
+      "course": "LING 580",
+      "courseTitle": "PROBLEMS IN LING",
+      "section": "B",
+      "instructor": "Ogihara,Toshiyuki"
     },
     {
       "campus": "S",
@@ -6251,7 +7501,7 @@
       "term": "WIN2026",
       "course": "LING 599",
       "courseTitle": "LING COLLOQUIUM",
-      "section": "A",
+      "section": "B",
       "instructor": "TBA"
     },
     {
@@ -6261,8 +7511,8 @@
       "term": "WIN2026",
       "course": "LING 599",
       "courseTitle": "LING COLLOQUIUM",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Wright,Richard"
     },
     {
       "campus": "S",
@@ -6312,7 +7562,7 @@
       "course": "LING 200",
       "courseTitle": "INTRO LINGUISTICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cheng,Qi"
     },
     {
       "campus": "S",
@@ -6322,7 +7572,7 @@
       "course": "LING 234",
       "courseTitle": "LANG & DIVERSITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rozelle,Lorna"
     },
     {
       "campus": "S",
@@ -6332,7 +7582,7 @@
       "course": "LING 269",
       "courseTitle": "SWEARNG & TABOO LANG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McGarrity,Laura W"
     },
     {
       "campus": "S",
@@ -6342,7 +7592,7 @@
       "course": "LING 400",
       "courseTitle": "SUR LING MTHD & THY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McGarrity,Laura W"
     },
     {
       "campus": "S",
@@ -6352,7 +7602,7 @@
       "course": "LING 410",
       "courseTitle": "INTRO HISTORCL LING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Handel,Zev"
     },
     {
       "campus": "S",
@@ -6362,7 +7612,7 @@
       "course": "LING 415",
       "courseTitle": "HIST GERMAN LANG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Oehme,Annegret"
     },
     {
       "campus": "S",
@@ -6372,7 +7622,7 @@
       "course": "LING 442",
       "courseTitle": "LANG PROCESSING 2",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cheng,Qi"
     },
     {
       "campus": "S",
@@ -6382,7 +7632,7 @@
       "course": "LING 450",
       "courseTitle": "INTRO LING PHONETICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brinkerhoff,Myke"
     },
     {
       "campus": "S",
@@ -6402,7 +7652,7 @@
       "course": "LING 451",
       "courseTitle": "PHONOLOGY I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rozelle,Lorna"
     },
     {
       "campus": "S",
@@ -6412,7 +7662,7 @@
       "course": "LING 453",
       "courseTitle": "EXPERIMENTAL PHON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wright,Richard"
     },
     {
       "campus": "S",
@@ -6422,7 +7672,7 @@
       "course": "LING 462",
       "courseTitle": "SYNTAX II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hedding,Andrew"
     },
     {
       "campus": "S",
@@ -6432,7 +7682,7 @@
       "course": "LING 464",
       "courseTitle": "LANGUAGE POLITICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Muwwakkil,Jamaal"
     },
     {
       "campus": "S",
@@ -6442,7 +7692,7 @@
       "course": "LING 471",
       "courseTitle": "COMPUT METHODS-LING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Liang,Siyu"
     },
     {
       "campus": "S",
@@ -6502,7 +7752,7 @@
       "course": "LING 510",
       "courseTitle": "INTRO HISTORCL LING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Handel,Zev"
     },
     {
       "campus": "S",
@@ -6512,7 +7762,7 @@
       "course": "LING 542",
       "courseTitle": "LANG PROCESSING 2",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cheng,Qi"
     },
     {
       "campus": "S",
@@ -6532,7 +7782,7 @@
       "course": "LING 550",
       "courseTitle": "INTRO LING PHONETICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brinkerhoff,Myke"
     },
     {
       "campus": "S",
@@ -6542,7 +7792,7 @@
       "course": "LING 551",
       "courseTitle": "PHONOLOGY I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rozelle,Lorna"
     },
     {
       "campus": "S",
@@ -6552,7 +7802,7 @@
       "course": "LING 553",
       "courseTitle": "EXPERIMENTAL PHON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wright,Richard"
     },
     {
       "campus": "S",
@@ -6562,7 +7812,7 @@
       "course": "LING 573",
       "courseTitle": "NLP SYSTEMS & APPS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Paullada,Amandalynne"
     },
     {
       "campus": "S",
@@ -6572,7 +7822,17 @@
       "course": "LING 574",
       "courseTitle": "DEEP LEARNING - NLP",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Xia,Fei"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2026",
+      "course": "LING 575",
+      "courseTitle": "COMPUT LING TOPICS",
+      "section": "F",
+      "instructor": "Inie,Nanna"
     },
     {
       "campus": "S",
@@ -6591,28 +7851,18 @@
       "term": "SPR2026",
       "course": "LING 575",
       "courseTitle": "COMPUT LING TOPICS",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "ling",
-      "deptName": "Linguistics",
-      "term": "SPR2026",
-      "course": "LING 575",
-      "courseTitle": "COMPUT LING TOPICS",
-      "section": "F",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "ling",
-      "deptName": "Linguistics",
-      "term": "SPR2026",
-      "course": "LING 575",
-      "courseTitle": "COMPUT LING TOPICS",
       "section": "I",
       "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2026",
+      "course": "LING 575",
+      "courseTitle": "COMPUT LING TOPICS",
+      "section": "C",
+      "instructor": "Xia,Fei"
     },
     {
       "campus": "S",

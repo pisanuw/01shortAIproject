@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Sheppard%2CCraig",
+  "professor": "Sheppard,Craig",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "music",
+      "deptName": "Music",
+      "term": "AUT2024",
+      "course": "MUSIC 449",
+      "courseTitle": "ADVANCED PIANO REP",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "music",
+      "deptName": "Music",
+      "term": "AUT2024",
+      "course": "MUSIC 326",
+      "courseTitle": "REPERTOIRE",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "music",
+      "deptName": "Music",
+      "term": "AUT2022",
+      "course": "MUSIC 449",
+      "courseTitle": "ADVANCED PIANO REP",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "music",
+      "deptName": "Music",
+      "term": "AUT2020",
+      "course": "MUSIC 449",
+      "courseTitle": "ADVANCED PIANO REP",
+      "section": "A"
+    }
+  ]
+}

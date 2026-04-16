@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Ghandi%2CMona",
+  "professor": "Ghandi,Mona",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2024",
+      "course": "ARCH 529",
+      "courseTitle": "ADV DIGITAL PROJECT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "WIN2024",
+      "course": "ARCH 528",
+      "courseTitle": "DIG DES FAB & CONST",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Zimmerman%2CEmily",
+  "professor": "Zimmerman,Emily",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "arthis",
+      "deptName": "Art History",
+      "term": "SUM2021",
+      "course": "ART H 498",
+      "courseTitle": "UNDERGRAD PRACTICUM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "art",
+      "deptName": "Art",
+      "term": "SUM2021",
+      "course": "ART 496",
+      "courseTitle": "ART INTERNSHIP",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "art",
+      "deptName": "Art",
+      "term": "AUT2020",
+      "course": "ART 590",
+      "courseTitle": "CONTEMP PRACTICES",
+      "section": "A"
+    }
+  ]
+}

@@ -1,7 +1,6578 @@
 {
-  "generatedAt": "2026-04-15T16:28:01Z",
+  "generatedAt": "2026-04-16T02:57:16Z",
   "campus": "S",
   "dept": "psychbehav",
   "deptName": "Psychiatry and Behavioral Sciences",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 499",
+      "courseTitle": "H-UNDERGRAD RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 505P",
+      "courseTitle": "P-PSYCH PRECEPTRSHP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 580",
+      "courseTitle": "APPLIED RESRCH HLTH",
+      "section": "A",
+      "instructor": "Walker,S"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 598",
+      "courseTitle": "PBSCI IND STDY REM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 598",
+      "courseTitle": "PBSCI IND STDY REM",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 600",
+      "courseTitle": "RES IN PSYCHIATRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 630P",
+      "courseTitle": "P-WRITE PBSCI CLK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 631P",
+      "courseTitle": "P-PSYCH JUNEAU",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 632P",
+      "courseTitle": "P-LIC PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 633",
+      "courseTitle": "PSYC BILLINGS CLINIC",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 635P",
+      "courseTitle": "P-PSYC KALISPELL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 638P",
+      "courseTitle": "P-PSYCH NW HOSPITAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 639P",
+      "courseTitle": "P-PSYCH OLYMPIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 640P",
+      "courseTitle": "P-PSYCH POCATEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 642P",
+      "courseTitle": "P-PSYCH CK BLACKFOOT",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "A",
+      "instructor": "Camp,J"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 655P",
+      "courseTitle": "P-PSYCH CHEYNE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 660P",
+      "courseTitle": "P-PBSCI BOZEMAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 661P",
+      "courseTitle": "P-PSYCH HELENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 662",
+      "courseTitle": "PSYCH MISSOULA",
+      "section": "A",
+      "instructor": "Felix,R"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 663",
+      "courseTitle": "PSYCH BILLINGS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 669P",
+      "courseTitle": "P-PSYCH CASPER",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 689P",
+      "courseTitle": "P-SUBI GEN PSYCH SPO",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 695P",
+      "courseTitle": "P-CHILD PSYCH CSTC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2021",
+      "course": "PBSCI 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2021",
+      "course": "PBSCI 499",
+      "courseTitle": "H-UNDERGRAD RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2021",
+      "course": "PBSCI 505P",
+      "courseTitle": "P-PSYCH PRECEPTRSHP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2021",
+      "course": "PBSCI 598",
+      "courseTitle": "PBSCI IND STDY REM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2021",
+      "course": "PBSCI 600",
+      "courseTitle": "RES IN PSYCHIATRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2021",
+      "course": "PBSCI 630P",
+      "courseTitle": "P-WRITE PBSCI CLK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2021",
+      "course": "PBSCI 631P",
+      "courseTitle": "P-PSYCH JUNEAU",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2021",
+      "course": "PBSCI 632P",
+      "courseTitle": "P-LIC PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2021",
+      "course": "PBSCI 633",
+      "courseTitle": "PSYC BILLINGS CLINIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2021",
+      "course": "PBSCI 637P",
+      "courseTitle": "P-PSYCH FAIRFAX",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2021",
+      "course": "PBSCI 638P",
+      "courseTitle": "P-PSYCH NW HOSPITAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2021",
+      "course": "PBSCI 639P",
+      "courseTitle": "P-PSYCH OLYMPIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2021",
+      "course": "PBSCI 640P",
+      "courseTitle": "P-PSYCH POCATEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2021",
+      "course": "PBSCI 642P",
+      "courseTitle": "P-PSYCH CK BLACKFOOT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2021",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2021",
+      "course": "PBSCI 655P",
+      "courseTitle": "P-PSYCH CHEYNE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2021",
+      "course": "PBSCI 660P",
+      "courseTitle": "P-PBSCI BOZEMAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2021",
+      "course": "PBSCI 661P",
+      "courseTitle": "P-PSYCH HELENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2021",
+      "course": "PBSCI 662",
+      "courseTitle": "PSYCH MISSOULA",
+      "section": "A",
+      "instructor": "Felix,R"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2021",
+      "course": "PBSCI 663",
+      "courseTitle": "PSYCH BILLINGS",
+      "section": "A",
+      "instructor": "Van Dyk,T"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2021",
+      "course": "PBSCI 669P",
+      "courseTitle": "P-PSYCH CASPER",
+      "section": "A",
+      "instructor": "Brown,S"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2021",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2021",
+      "course": "PBSCI 689P",
+      "courseTitle": "P-SUBI GEN PSYCH SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2021",
+      "course": "PBSCI 695P",
+      "courseTitle": "P-CHILD PSYCH CSTC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 499",
+      "courseTitle": "H-UNDERGRAD RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 505P",
+      "courseTitle": "P-PSYCH PRECEPTRSHP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 530P",
+      "courseTitle": "P-DEV PSYANL PSYTHR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 546",
+      "courseTitle": "PSYCH EPI",
+      "section": "A",
+      "instructor": "Rhew,I"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 548P",
+      "courseTitle": "P-AGING ADLT DEVT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 600",
+      "courseTitle": "RES IN PSYCHIATRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 630P",
+      "courseTitle": "P-WRITE PBSCI CLK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 631P",
+      "courseTitle": "P-PSYCH JUNEAU",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 632P",
+      "courseTitle": "P-LIC PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 633",
+      "courseTitle": "PSYC BILLINGS CLINIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 635P",
+      "courseTitle": "P-PSYC KALISPELL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 638P",
+      "courseTitle": "P-PSYCH NW HOSPITAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 639P",
+      "courseTitle": "P-PSYCH OLYMPIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 640P",
+      "courseTitle": "P-PSYCH POCATEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 642P",
+      "courseTitle": "P-PSYCH CK BLACKFOOT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 655P",
+      "courseTitle": "P-PSYCH CHEYNE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 660P",
+      "courseTitle": "P-PBSCI BOZEMAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 661P",
+      "courseTitle": "P-PSYCH HELENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 662",
+      "courseTitle": "PSYCH MISSOULA",
+      "section": "A",
+      "instructor": "Felix,R"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 663",
+      "courseTitle": "PSYCH BILLINGS",
+      "section": "A",
+      "instructor": "Van Dyk,T"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 669P",
+      "courseTitle": "P-PSYCH CASPER",
+      "section": "A",
+      "instructor": "Brown,S"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 689P",
+      "courseTitle": "P-SUBI GEN PSYCH SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2021",
+      "course": "PBSCI 695P",
+      "courseTitle": "P-CHILD PSYCH CSTC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 499",
+      "courseTitle": "H-UNDERGRAD RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 505P",
+      "courseTitle": "P-PSYCH PRECEPTRSHP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 530P",
+      "courseTitle": "P-DEV PSYANL PSYTHR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 535",
+      "courseTitle": "MODERN PSYCHOANALYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 548P",
+      "courseTitle": "P-AGING ADLT DEVT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 600",
+      "courseTitle": "RES IN PSYCHIATRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 630P",
+      "courseTitle": "P-WRITE PBSCI CLK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 631P",
+      "courseTitle": "P-PSYCH JUNEAU",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 632P",
+      "courseTitle": "P-LIC PSYCH",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 638P",
+      "courseTitle": "P-PSYCH NW HOSPITAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 639P",
+      "courseTitle": "P-PSYCH OLYMPIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 640P",
+      "courseTitle": "P-PSYCH POCATEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 642P",
+      "courseTitle": "P-PSYCH CK BLACKFOOT",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 652P",
+      "courseTitle": "P-PSYC SHERIDAN",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 655P",
+      "courseTitle": "P-PSYCH CHEYNE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 660P",
+      "courseTitle": "P-PBSCI BOZEMAN",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 661P",
+      "courseTitle": "P-PSYCH HELENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 662",
+      "courseTitle": "PSYCH MISSOULA",
+      "section": "A",
+      "instructor": "Felix,R"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 663",
+      "courseTitle": "PSYCH BILLINGS",
+      "section": "A",
+      "instructor": "Van Dyk,T"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 669P",
+      "courseTitle": "P-PSYCH CASPER",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 689P",
+      "courseTitle": "P-SUBI GEN PSYCH SPO",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2021",
+      "course": "PBSCI 695P",
+      "courseTitle": "P-CHILD PSYCH CSTC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 499",
+      "courseTitle": "H-UNDERGRAD RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 505P",
+      "courseTitle": "P-PSYCH PRECEPTRSHP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 580",
+      "courseTitle": "APPLIED RESRCH HLTH",
+      "section": "A",
+      "instructor": "Walker,S"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 598",
+      "courseTitle": "PBSCI IND STDY REM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 598",
+      "courseTitle": "PBSCI IND STDY REM",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 600",
+      "courseTitle": "RES IN PSYCHIATRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 630P",
+      "courseTitle": "P-WRITE PBSCI CLK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 631P",
+      "courseTitle": "P-PSYCH JUNEAU",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 632P",
+      "courseTitle": "P-LIC PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 633",
+      "courseTitle": "PSYC BILLINGS CLINIC",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 635P",
+      "courseTitle": "P-PSYC KALISPELL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 638P",
+      "courseTitle": "P-PSYCH NW HOSPITAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 639P",
+      "courseTitle": "P-PSYCH OLYMPIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 640P",
+      "courseTitle": "P-PSYCH POCATEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 642P",
+      "courseTitle": "P-PSYCH CK BLACKFOOT",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "A",
+      "instructor": "Camp,J"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 652P",
+      "courseTitle": "P-PSYC SHERIDAN",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 655P",
+      "courseTitle": "P-PSYCH CHEYNE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 660P",
+      "courseTitle": "P-PBSCI BOZEMAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 661P",
+      "courseTitle": "P-PSYCH HELENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 662",
+      "courseTitle": "PSYCH MISSOULA",
+      "section": "A",
+      "instructor": "Felix,R"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 663",
+      "courseTitle": "PSYCH BILLINGS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 669P",
+      "courseTitle": "P-PSYCH CASPER",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 689P",
+      "courseTitle": "P-SUBI GEN PSYCH SPO",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 695P",
+      "courseTitle": "P-CHILD PSYCH CSTC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 499",
+      "courseTitle": "H-UNDERGRAD RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 505P",
+      "courseTitle": "P-PSYCH PRECEPTRSHP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 598",
+      "courseTitle": "PBSCI IND STDY REM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 600",
+      "courseTitle": "RES IN PSYCHIATRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 630P",
+      "courseTitle": "P-WRITE PBSCI CLK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 631P",
+      "courseTitle": "P-PSYCH JUNEAU",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 632P",
+      "courseTitle": "P-LIC PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 633",
+      "courseTitle": "PSYC BILLINGS CLINIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 635P",
+      "courseTitle": "P-PSYC KALISPELL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 637P",
+      "courseTitle": "P-PSYCH FAIRFAX",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 638P",
+      "courseTitle": "P-PSYCH NW HOSPITAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 639P",
+      "courseTitle": "P-PSYCH OLYMPIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 640P",
+      "courseTitle": "P-PSYCH POCATEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 642P",
+      "courseTitle": "P-PSYCH CK BLACKFOOT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 652P",
+      "courseTitle": "P-PSYC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 655P",
+      "courseTitle": "P-PSYCH CHEYNE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 659P",
+      "courseTitle": "P-PSYC ANACONDA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 660P",
+      "courseTitle": "P-PBSCI BOZEMAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 661P",
+      "courseTitle": "P-PSYCH HELENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 662",
+      "courseTitle": "PSYCH MISSOULA",
+      "section": "A",
+      "instructor": "Felix,R"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 663",
+      "courseTitle": "PSYCH BILLINGS",
+      "section": "A",
+      "instructor": "Van Dyk,T"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 669P",
+      "courseTitle": "P-PSYCH CASPER",
+      "section": "A",
+      "instructor": "Brown,S"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 681P",
+      "courseTitle": "P-PSYC APC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 689P",
+      "courseTitle": "P-SUBI GEN PSYCH SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2022",
+      "course": "PBSCI 695P",
+      "courseTitle": "P-CHILD PSYCH CSTC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 499",
+      "courseTitle": "H-UNDERGRAD RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 505P",
+      "courseTitle": "P-PSYCH PRECEPTRSHP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 530P",
+      "courseTitle": "P-DEV PSYANL PSYTHR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 546",
+      "courseTitle": "PSYCH EPI",
+      "section": "A",
+      "instructor": "Rhew,I"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 548P",
+      "courseTitle": "P-AGING ADLT DEVT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 600",
+      "courseTitle": "RES IN PSYCHIATRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 630P",
+      "courseTitle": "P-WRITE PBSCI CLK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 631P",
+      "courseTitle": "P-PSYCH JUNEAU",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 632P",
+      "courseTitle": "P-LIC PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 633",
+      "courseTitle": "PSYC BILLINGS CLINIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 635P",
+      "courseTitle": "P-PSYC KALISPELL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 638P",
+      "courseTitle": "P-PSYCH NW HOSPITAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 639P",
+      "courseTitle": "P-PSYCH OLYMPIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 640P",
+      "courseTitle": "P-PSYCH POCATEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 642P",
+      "courseTitle": "P-PSYCH CK BLACKFOOT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 652P",
+      "courseTitle": "P-PSYC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 655P",
+      "courseTitle": "P-PSYCH CHEYNE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 659P",
+      "courseTitle": "P-PSYC ANACONDA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 660P",
+      "courseTitle": "P-PBSCI BOZEMAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 661P",
+      "courseTitle": "P-PSYCH HELENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 662",
+      "courseTitle": "PSYCH MISSOULA",
+      "section": "A",
+      "instructor": "Felix,R"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 663",
+      "courseTitle": "PSYCH BILLINGS",
+      "section": "A",
+      "instructor": "Van Dyk,T"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 669P",
+      "courseTitle": "P-PSYCH CASPER",
+      "section": "A",
+      "instructor": "Brown,S"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 681P",
+      "courseTitle": "P-PSYC APC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 689P",
+      "courseTitle": "P-SUBI GEN PSYCH SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2022",
+      "course": "PBSCI 695P",
+      "courseTitle": "P-CHILD PSYCH CSTC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 499",
+      "courseTitle": "H-UNDERGRAD RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 505P",
+      "courseTitle": "P-PSYCH PRECEPTRSHP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 530P",
+      "courseTitle": "P-DEV PSYANL PSYTHR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 535",
+      "courseTitle": "MODERN PSYCHOANALYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 548P",
+      "courseTitle": "P-AGING ADLT DEVT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 600",
+      "courseTitle": "RES IN PSYCHIATRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 630P",
+      "courseTitle": "P-WRITE PBSCI CLK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 631P",
+      "courseTitle": "P-PSYCH JUNEAU",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 632P",
+      "courseTitle": "P-LIC PSYCH",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 635P",
+      "courseTitle": "P-PSYC KALISPELL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 638P",
+      "courseTitle": "P-PSYCH NW HOSPITAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 639P",
+      "courseTitle": "P-PSYCH OLYMPIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 640P",
+      "courseTitle": "P-PSYCH POCATEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 642P",
+      "courseTitle": "P-PSYCH CK BLACKFOOT",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 652P",
+      "courseTitle": "P-PSYC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 655P",
+      "courseTitle": "P-PSYCH CHEYNE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 659P",
+      "courseTitle": "P-PSYC ANACONDA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 660P",
+      "courseTitle": "P-PBSCI BOZEMAN",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 661P",
+      "courseTitle": "P-PSYCH HELENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 662",
+      "courseTitle": "PSYCH MISSOULA",
+      "section": "A",
+      "instructor": "Felix,R"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 663",
+      "courseTitle": "PSYCH BILLINGS",
+      "section": "A",
+      "instructor": "Van Dyk,T"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 669P",
+      "courseTitle": "P-PSYCH CASPER",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 681P",
+      "courseTitle": "P-PSYC APC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 689P",
+      "courseTitle": "P-SUBI GEN PSYCH SPO",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2022",
+      "course": "PBSCI 695P",
+      "courseTitle": "P-CHILD PSYCH CSTC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 499",
+      "courseTitle": "H-UNDERGRAD RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 505P",
+      "courseTitle": "P-PSYCH PRECEPTRSHP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 598",
+      "courseTitle": "PBSCI IND STDY REM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 598",
+      "courseTitle": "PBSCI IND STDY REM",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 600",
+      "courseTitle": "RES IN PSYCHIATRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 630P",
+      "courseTitle": "P-WRITE PBSCI CLK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 631P",
+      "courseTitle": "P-PSYCH JUNEAU",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 632P",
+      "courseTitle": "P-LIC PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 633",
+      "courseTitle": "PSYC BILLINGS CLINIC",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 635P",
+      "courseTitle": "P-PSYC KALISPELL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 638P",
+      "courseTitle": "P-PSYCH NW HOSPITAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 639P",
+      "courseTitle": "P-PSYCH OLYMPIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 640P",
+      "courseTitle": "P-PSYCH POCATEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 642P",
+      "courseTitle": "P-PSYCH CK BLACKFOOT",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "A",
+      "instructor": "Camp,J"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 652P",
+      "courseTitle": "P-PSYC SHERIDAN",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 655P",
+      "courseTitle": "P-PSYCH CHEYNE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 659P",
+      "courseTitle": "P-PSYC ANACONDA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 660P",
+      "courseTitle": "P-PBSCI BOZEMAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 661P",
+      "courseTitle": "P-PSYCH HELENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 662",
+      "courseTitle": "PSYCH MISSOULA",
+      "section": "A",
+      "instructor": "Felix,R"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 663",
+      "courseTitle": "PSYCH BILLINGS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 669P",
+      "courseTitle": "P-PSYCH CASPER",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 689P",
+      "courseTitle": "P-SUBI GEN PSYCH SPO",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 695P",
+      "courseTitle": "P-CHILD PSYCH CSTC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 499",
+      "courseTitle": "H-UNDERGRAD RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 505P",
+      "courseTitle": "P-PSYCH PRECEPTRSHP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 598",
+      "courseTitle": "PBSCI IND STDY REM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 600",
+      "courseTitle": "RES IN PSYCHIATRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 630P",
+      "courseTitle": "P-WRITE PBSCI CLK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 631P",
+      "courseTitle": "P-PSYCH JUNEAU",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 632P",
+      "courseTitle": "P-LIC PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 633",
+      "courseTitle": "PSYC BILLINGS CLINIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 635P",
+      "courseTitle": "P-PSYC KALISPELL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 637P",
+      "courseTitle": "P-PSYCH FAIRFAX",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 638P",
+      "courseTitle": "P-PSYCH NW HOSPITAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 639P",
+      "courseTitle": "P-PSYCH OLYMPIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 640P",
+      "courseTitle": "P-PSYCH POCATEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 642P",
+      "courseTitle": "P-PSYCH CK BLACKFOOT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 652P",
+      "courseTitle": "P-PSYC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 655P",
+      "courseTitle": "P-PSYCH CHEYNE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 659P",
+      "courseTitle": "P-PSYC ANACONDA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 660P",
+      "courseTitle": "P-PBSCI BOZEMAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 661P",
+      "courseTitle": "P-PSYCH HELENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 662",
+      "courseTitle": "PSYCH MISSOULA",
+      "section": "A",
+      "instructor": "Felix,R"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 663",
+      "courseTitle": "PSYCH BILLINGS",
+      "section": "A",
+      "instructor": "Van Dyk,T"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 669P",
+      "courseTitle": "P-PSYCH CASPER",
+      "section": "A",
+      "instructor": "Brown,S"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 681P",
+      "courseTitle": "P-PSYC APC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 689P",
+      "courseTitle": "P-SUBI GEN PSYCH SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2023",
+      "course": "PBSCI 695P",
+      "courseTitle": "P-CHILD PSYCH CSTC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 499",
+      "courseTitle": "H-UNDERGRAD RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 505P",
+      "courseTitle": "P-PSYCH PRECEPTRSHP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 525P",
+      "courseTitle": "P-PSYCHIATRY/LAW",
+      "section": "A",
+      "instructor": "Goldenberg,E"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 530P",
+      "courseTitle": "P-DEV PSYANL PSYTHR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 546",
+      "courseTitle": "PSYCH EPI",
+      "section": "A",
+      "instructor": "Rhew,I"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 548P",
+      "courseTitle": "P-AGING ADLT DEVT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 600",
+      "courseTitle": "RES IN PSYCHIATRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 630P",
+      "courseTitle": "P-WRITE PBSCI CLK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 631P",
+      "courseTitle": "P-PSYCH JUNEAU",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 632P",
+      "courseTitle": "P-LIC PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 633",
+      "courseTitle": "PSYC BILLINGS CLINIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 635P",
+      "courseTitle": "P-PSYC KALISPELL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 638P",
+      "courseTitle": "P-PSYCH NW HOSPITAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 639P",
+      "courseTitle": "P-PSYCH OLYMPIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 640P",
+      "courseTitle": "P-PSYCH POCATEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 642P",
+      "courseTitle": "P-PSYCH CK BLACKFOOT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 652P",
+      "courseTitle": "P-PSYC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 655P",
+      "courseTitle": "P-PSYCH CHEYNE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 659P",
+      "courseTitle": "P-PSYC ANACONDA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 660P",
+      "courseTitle": "P-PBSCI BOZEMAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 661P",
+      "courseTitle": "P-PSYCH HELENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 662",
+      "courseTitle": "PSYCH MISSOULA",
+      "section": "A",
+      "instructor": "Felix,R"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 663",
+      "courseTitle": "PSYCH BILLINGS",
+      "section": "A",
+      "instructor": "Van Dyk,T"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 669P",
+      "courseTitle": "P-PSYCH CASPER",
+      "section": "A",
+      "instructor": "Brown,S"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 681P",
+      "courseTitle": "P-PSYC APC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 689P",
+      "courseTitle": "P-SUBI GEN PSYCH SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2023",
+      "course": "PBSCI 695P",
+      "courseTitle": "P-CHILD PSYCH CSTC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 499",
+      "courseTitle": "H-UNDERGRAD RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 505P",
+      "courseTitle": "P-PSYCH PRECEPTRSHP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 530P",
+      "courseTitle": "P-DEV PSYANL PSYTHR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 535",
+      "courseTitle": "MODERN PSYCHOANALYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 548P",
+      "courseTitle": "P-AGING ADLT DEVT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 600",
+      "courseTitle": "RES IN PSYCHIATRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 630P",
+      "courseTitle": "P-WRITE PBSCI CLK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 631P",
+      "courseTitle": "P-PSYCH JUNEAU",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 632P",
+      "courseTitle": "P-LIC PSYCH",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 634P",
+      "courseTitle": "P-PSY CLK FAIRBANKS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 635P",
+      "courseTitle": "P-PSYC KALISPELL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 638P",
+      "courseTitle": "P-PSYCH NW HOSPITAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 639P",
+      "courseTitle": "P-PSYCH OLYMPIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 640P",
+      "courseTitle": "P-PSYCH POCATEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 642P",
+      "courseTitle": "P-PSYCH CK BLACKFOOT",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 652P",
+      "courseTitle": "P-PSYC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 655P",
+      "courseTitle": "P-PSYCH CHEYNE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 659P",
+      "courseTitle": "P-PSYC ANACONDA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 660P",
+      "courseTitle": "P-PBSCI BOZEMAN",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 661P",
+      "courseTitle": "P-PSYCH HELENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 662",
+      "courseTitle": "PSYCH MISSOULA",
+      "section": "A",
+      "instructor": "Felix,Richard R"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 663",
+      "courseTitle": "PSYCH BILLINGS",
+      "section": "A",
+      "instructor": "Van Dyk,Thomas W"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 669P",
+      "courseTitle": "P-PSYCH CASPER",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 681P",
+      "courseTitle": "P-PSYC APC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 689P",
+      "courseTitle": "P-SUBI GEN PSYCH SPO",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2023",
+      "course": "PBSCI 695P",
+      "courseTitle": "P-CHILD PSYCH CSTC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 499",
+      "courseTitle": "H-UNDERGRAD RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 505P",
+      "courseTitle": "P-PSYCH PRECEPTRSHP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 580",
+      "courseTitle": "APPLIED RESRCH HLTH",
+      "section": "A",
+      "instructor": "Walker,Sarah C"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 598",
+      "courseTitle": "PBSCI IND STDY REM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 598",
+      "courseTitle": "PBSCI IND STDY REM",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 600",
+      "courseTitle": "RES IN PSYCHIATRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 630P",
+      "courseTitle": "P-WRITE PBSCI CLK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 631P",
+      "courseTitle": "P-PSYCH JUNEAU",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 632P",
+      "courseTitle": "P-LIC PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 633",
+      "courseTitle": "PSYC BILLINGS CLINIC",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 634P",
+      "courseTitle": "P-PSY CLK FAIRBANKS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 635P",
+      "courseTitle": "P-PSYC KALISPELL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 638P",
+      "courseTitle": "P-PSYCH NW HOSPITAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 639P",
+      "courseTitle": "P-PSYCH OLYMPIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 640P",
+      "courseTitle": "P-PSYCH POCATEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 642P",
+      "courseTitle": "P-PSYCH CK BLACKFOOT",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "A",
+      "instructor": "Camp,Jakob"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 652P",
+      "courseTitle": "P-PSYC SHERIDAN",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 655P",
+      "courseTitle": "P-PSYCH CHEYNE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 659P",
+      "courseTitle": "P-PSYC ANACONDA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 660P",
+      "courseTitle": "P-PBSCI BOZEMAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 661P",
+      "courseTitle": "P-PSYCH HELENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 662",
+      "courseTitle": "PSYCH MISSOULA",
+      "section": "A",
+      "instructor": "Felix,Richard R"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 663",
+      "courseTitle": "PSYCH BILLINGS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 669P",
+      "courseTitle": "P-PSYCH CASPER",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 689P",
+      "courseTitle": "P-SUBI GEN PSYCH SPO",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2023",
+      "course": "PBSCI 695P",
+      "courseTitle": "P-CHILD PSYCH CSTC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 499",
+      "courseTitle": "H-UNDERGRAD RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 505P",
+      "courseTitle": "P-PSYCH PRECEPTRSHP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 598",
+      "courseTitle": "PBSCI IND STDY REM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 600",
+      "courseTitle": "RES IN PSYCHIATRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 630P",
+      "courseTitle": "P-WRITE PBSCI CLK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 631P",
+      "courseTitle": "P-PSYCH JUNEAU",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 632P",
+      "courseTitle": "P-LIC PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 633",
+      "courseTitle": "PSYC BILLINGS CLINIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 634P",
+      "courseTitle": "P-PSY CLK FAIRBANKS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 635P",
+      "courseTitle": "P-PSYC KALISPELL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 637P",
+      "courseTitle": "P-PSYCH FAIRFAX",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 638P",
+      "courseTitle": "P-PSYCH NW HOSPITAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 639P",
+      "courseTitle": "P-PSYCH OLYMPIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 640P",
+      "courseTitle": "P-PSYCH POCATEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 642P",
+      "courseTitle": "P-PSYCH CK BLACKFOOT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 652P",
+      "courseTitle": "P-PSYC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 655P",
+      "courseTitle": "P-PSYCH CHEYNE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 659P",
+      "courseTitle": "P-PSYC ANACONDA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 660P",
+      "courseTitle": "P-PBSCI BOZEMAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 661P",
+      "courseTitle": "P-PSYCH HELENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 662",
+      "courseTitle": "PSYCH MISSOULA",
+      "section": "A",
+      "instructor": "Felix,Richard R"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 663",
+      "courseTitle": "PSYCH BILLINGS",
+      "section": "A",
+      "instructor": "Van Dyk,Thomas W"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 669P",
+      "courseTitle": "P-PSYCH CASPER",
+      "section": "A",
+      "instructor": "Brown,Stephen L"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 681P",
+      "courseTitle": "P-PSYC APC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 689P",
+      "courseTitle": "P-SUBI GEN PSYCH SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2024",
+      "course": "PBSCI 695P",
+      "courseTitle": "P-CHILD PSYCH CSTC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 499",
+      "courseTitle": "H-UNDERGRAD RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 505P",
+      "courseTitle": "P-PSYCH PRECEPTRSHP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 530P",
+      "courseTitle": "P-DEV PSYANL PSYTHR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 548P",
+      "courseTitle": "P-AGING ADLT DEVT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 600",
+      "courseTitle": "RES IN PSYCHIATRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 630P",
+      "courseTitle": "P-WRITE PBSCI CLK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 631P",
+      "courseTitle": "P-PSYCH JUNEAU",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 632P",
+      "courseTitle": "P-LIC PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 633",
+      "courseTitle": "PSYC BILLINGS CLINIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 634P",
+      "courseTitle": "P-PSY CLK FAIRBANKS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 635P",
+      "courseTitle": "P-PSYC KALISPELL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 638P",
+      "courseTitle": "P-PSYCH NW HOSPITAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 639P",
+      "courseTitle": "P-PSYCH OLYMPIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 640P",
+      "courseTitle": "P-PSYCH POCATEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 642P",
+      "courseTitle": "P-PSYCH CK BLACKFOOT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 652P",
+      "courseTitle": "P-PSYC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 655P",
+      "courseTitle": "P-PSYCH CHEYNE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 659P",
+      "courseTitle": "P-PSYC ANACONDA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 660P",
+      "courseTitle": "P-PBSCI BOZEMAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 661P",
+      "courseTitle": "P-PSYCH HELENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 662",
+      "courseTitle": "PSYCH MISSOULA",
+      "section": "A",
+      "instructor": "Felix,Richard R"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 663",
+      "courseTitle": "PSYCH BILLINGS",
+      "section": "A",
+      "instructor": "Van Dyk,Thomas W"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 669P",
+      "courseTitle": "P-PSYCH CASPER",
+      "section": "A",
+      "instructor": "Brown,Stephen L"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 681P",
+      "courseTitle": "P-PSYC APC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 689P",
+      "courseTitle": "P-SUBI GEN PSYCH SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2024",
+      "course": "PBSCI 695P",
+      "courseTitle": "P-CHILD PSYCH CSTC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 499",
+      "courseTitle": "H-UNDERGRAD RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 505P",
+      "courseTitle": "P-PSYCH PRECEPTRSHP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 530P",
+      "courseTitle": "P-DEV PSYANL PSYTHR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 535",
+      "courseTitle": "MODERN PSYCHOANALYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 548P",
+      "courseTitle": "P-AGING ADLT DEVT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 600",
+      "courseTitle": "RES IN PSYCHIATRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 630P",
+      "courseTitle": "P-WRITE PBSCI CLK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 631P",
+      "courseTitle": "P-PSYCH JUNEAU",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 632P",
+      "courseTitle": "P-LIC PSYCH",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 633",
+      "courseTitle": "PSYC BILLINGS CLINIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 634P",
+      "courseTitle": "P-PSY CLK FAIRBANKS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 635P",
+      "courseTitle": "P-PSYC KALISPELL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 638P",
+      "courseTitle": "P-PSYCH NW HOSPITAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 639P",
+      "courseTitle": "P-PSYCH OLYMPIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 640P",
+      "courseTitle": "P-PSYCH POCATEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 642P",
+      "courseTitle": "P-PSYCH CK BLACKFOOT",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 652P",
+      "courseTitle": "P-PSYC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 655P",
+      "courseTitle": "P-PSYCH CHEYNE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 659P",
+      "courseTitle": "P-PSYC ANACONDA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 660P",
+      "courseTitle": "P-PBSCI BOZEMAN",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 661P",
+      "courseTitle": "P-PSYCH HELENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 662",
+      "courseTitle": "PSYCH MISSOULA",
+      "section": "A",
+      "instructor": "Felix,Richard R"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 663",
+      "courseTitle": "PSYCH BILLINGS",
+      "section": "A",
+      "instructor": "Van Dyk,Thomas W"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 669P",
+      "courseTitle": "P-PSYCH CASPER",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 681P",
+      "courseTitle": "P-PSYC APC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 689P",
+      "courseTitle": "P-SUBI GEN PSYCH SPO",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2024",
+      "course": "PBSCI 695P",
+      "courseTitle": "P-CHILD PSYCH CSTC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 499",
+      "courseTitle": "H-UNDERGRAD RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 505P",
+      "courseTitle": "P-PSYCH PRECEPTRSHP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 580",
+      "courseTitle": "APPLIED RESRCH HLTH",
+      "section": "A",
+      "instructor": "Walker,Sarah C"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 598",
+      "courseTitle": "PBSCI IND STDY REM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 598",
+      "courseTitle": "PBSCI IND STDY REM",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 600",
+      "courseTitle": "RES IN PSYCHIATRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 630P",
+      "courseTitle": "P-WRITE PBSCI CLK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 631P",
+      "courseTitle": "P-PSYCH JUNEAU",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 632P",
+      "courseTitle": "P-LIC PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 633",
+      "courseTitle": "PSYC BILLINGS CLINIC",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 634P",
+      "courseTitle": "P-PSY CLK FAIRBANKS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 635P",
+      "courseTitle": "P-PSYC KALISPELL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 638P",
+      "courseTitle": "P-PSYCH NW HOSPITAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 639P",
+      "courseTitle": "P-PSYCH OLYMPIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 640P",
+      "courseTitle": "P-PSYCH POCATEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 642P",
+      "courseTitle": "P-PSYCH CK BLACKFOOT",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "A",
+      "instructor": "Camp,Jakob"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 652P",
+      "courseTitle": "P-PSYC SHERIDAN",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 655P",
+      "courseTitle": "P-PSYCH CHEYNE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 659P",
+      "courseTitle": "P-PSYC ANACONDA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 660P",
+      "courseTitle": "P-PBSCI BOZEMAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 661P",
+      "courseTitle": "P-PSYCH HELENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 662",
+      "courseTitle": "PSYCH MISSOULA",
+      "section": "A",
+      "instructor": "Felix,Richard R"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 663",
+      "courseTitle": "PSYCH BILLINGS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 669P",
+      "courseTitle": "P-PSYCH CASPER",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 689P",
+      "courseTitle": "P-SUBI GEN PSYCH SPO",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2024",
+      "course": "PBSCI 695P",
+      "courseTitle": "P-CHILD PSYCH CSTC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 499",
+      "courseTitle": "H-UNDERGRAD RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 505P",
+      "courseTitle": "P-PSYCH PRECEPTRSHP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 598",
+      "courseTitle": "PBSCI IND STDY REM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 600",
+      "courseTitle": "RES IN PSYCHIATRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 630P",
+      "courseTitle": "P-WRITE PBSCI CLK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 631P",
+      "courseTitle": "P-PSYCH JUNEAU",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 632P",
+      "courseTitle": "P-LIC PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 633",
+      "courseTitle": "PSYC BILLINGS CLINIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 634P",
+      "courseTitle": "P-PSY CLK FAIRBANKS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 635P",
+      "courseTitle": "P-PSYC KALISPELL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 637P",
+      "courseTitle": "P-PSYCH FAIRFAX",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 638P",
+      "courseTitle": "P-PSYCH NW HOSPITAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 639P",
+      "courseTitle": "P-PSYCH OLYMPIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 640P",
+      "courseTitle": "P-PSYCH POCATEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 642P",
+      "courseTitle": "P-PSYCH CK BLACKFOOT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 652P",
+      "courseTitle": "P-PSYC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 655P",
+      "courseTitle": "P-PSYCH CHEYNE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 659P",
+      "courseTitle": "P-PSYC ANACONDA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 660P",
+      "courseTitle": "P-PBSCI BOZEMAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 661P",
+      "courseTitle": "P-PSYCH HELENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 662",
+      "courseTitle": "PSYCH MISSOULA",
+      "section": "A",
+      "instructor": "Felix,Richard R"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 663",
+      "courseTitle": "PSYCH BILLINGS",
+      "section": "A",
+      "instructor": "Van Dyk,Thomas W"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 669P",
+      "courseTitle": "P-PSYCH CASPER",
+      "section": "A",
+      "instructor": "Brown,Stephen L"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 681P",
+      "courseTitle": "P-PSYC APC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 689P",
+      "courseTitle": "P-SUBI GEN PSYCH SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2025",
+      "course": "PBSCI 695P",
+      "courseTitle": "P-CHILD PSYCH CSTC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 499",
+      "courseTitle": "H-UNDERGRAD RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 505P",
+      "courseTitle": "P-PSYCH PRECEPTRSHP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 525P",
+      "courseTitle": "P-PSYCHIATRY/LAW",
+      "section": "A",
+      "instructor": "Goldenberg,Ph.D., Edward"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 530P",
+      "courseTitle": "P-DEV PSYANL PSYTHR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 546",
+      "courseTitle": "PSYCH EPI",
+      "section": "A",
+      "instructor": "Rhew,Isaac C."
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 548P",
+      "courseTitle": "P-AGING ADLT DEVT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 600",
+      "courseTitle": "RES IN PSYCHIATRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 630P",
+      "courseTitle": "P-WRITE PBSCI CLK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 631P",
+      "courseTitle": "P-PSYCH JUNEAU",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 632P",
+      "courseTitle": "P-LIC PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 633",
+      "courseTitle": "PSYC BILLINGS CLINIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 634P",
+      "courseTitle": "P-PSY CLK FAIRBANKS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 635P",
+      "courseTitle": "P-PSYC KALISPELL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 638P",
+      "courseTitle": "P-PSYCH NW HOSPITAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 639P",
+      "courseTitle": "P-PSYCH OLYMPIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 640P",
+      "courseTitle": "P-PSYCH POCATEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 642P",
+      "courseTitle": "P-PSYCH CK BLACKFOOT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 652P",
+      "courseTitle": "P-PSYC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 655P",
+      "courseTitle": "P-PSYCH CHEYNE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 659P",
+      "courseTitle": "P-PSYC ANACONDA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 660P",
+      "courseTitle": "P-PBSCI BOZEMAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 661P",
+      "courseTitle": "P-PSYCH HELENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 662",
+      "courseTitle": "PSYCH MISSOULA",
+      "section": "A",
+      "instructor": "Felix,Richard R"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 663",
+      "courseTitle": "PSYCH BILLINGS",
+      "section": "A",
+      "instructor": "Van Dyk,Thomas W"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 669P",
+      "courseTitle": "P-PSYCH CASPER",
+      "section": "A",
+      "instructor": "Brown,Stephen L"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 681P",
+      "courseTitle": "P-PSYC APC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 689P",
+      "courseTitle": "P-SUBI GEN PSYCH SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2025",
+      "course": "PBSCI 695P",
+      "courseTitle": "P-CHILD PSYCH CSTC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 499",
+      "courseTitle": "H-UNDERGRAD RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 505P",
+      "courseTitle": "P-PSYCH PRECEPTRSHP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 530P",
+      "courseTitle": "P-DEV PSYANL PSYTHR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 535",
+      "courseTitle": "MODERN PSYCHOANALYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 548P",
+      "courseTitle": "P-AGING ADLT DEVT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 600",
+      "courseTitle": "RES IN PSYCHIATRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 630P",
+      "courseTitle": "P-WRITE PBSCI CLK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 631P",
+      "courseTitle": "P-PSYCH JUNEAU",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 632P",
+      "courseTitle": "P-LIC PSYCH",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 633",
+      "courseTitle": "PSYC BILLINGS CLINIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 634P",
+      "courseTitle": "P-PSY CLK FAIRBANKS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 635P",
+      "courseTitle": "P-PSYC KALISPELL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 638P",
+      "courseTitle": "P-PSYCH NW HOSPITAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 639P",
+      "courseTitle": "P-PSYCH OLYMPIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 640P",
+      "courseTitle": "P-PSYCH POCATEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 642P",
+      "courseTitle": "P-PSYCH CK BLACKFOOT",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 652P",
+      "courseTitle": "P-PSYC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 655P",
+      "courseTitle": "P-PSYCH CHEYNE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 659P",
+      "courseTitle": "P-PSYC ANACONDA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 660P",
+      "courseTitle": "P-PBSCI BOZEMAN",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 661P",
+      "courseTitle": "P-PSYCH HELENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 662",
+      "courseTitle": "PSYCH MISSOULA",
+      "section": "A",
+      "instructor": "Felix,Richard R"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 663",
+      "courseTitle": "PSYCH BILLINGS",
+      "section": "A",
+      "instructor": "Van Dyk,Thomas W"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 669P",
+      "courseTitle": "P-PSYCH CASPER",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 681P",
+      "courseTitle": "P-PSYC APC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 689P",
+      "courseTitle": "P-SUBI GEN PSYCH SPO",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SUM2025",
+      "course": "PBSCI 695P",
+      "courseTitle": "P-CHILD PSYCH CSTC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 499",
+      "courseTitle": "H-UNDERGRAD RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 505P",
+      "courseTitle": "P-PSYCH PRECEPTRSHP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 598",
+      "courseTitle": "PBSCI IND STDY REM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 598",
+      "courseTitle": "PBSCI IND STDY REM",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 600",
+      "courseTitle": "RES IN PSYCHIATRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 630P",
+      "courseTitle": "P-WRITE PBSCI CLK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 631P",
+      "courseTitle": "P-PSYCH JUNEAU",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 632P",
+      "courseTitle": "P-LIC PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 633",
+      "courseTitle": "PSYC BILLINGS CLINIC",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 634P",
+      "courseTitle": "P-PSY CLK FAIRBANKS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 635P",
+      "courseTitle": "P-PSYC KALISPELL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 638P",
+      "courseTitle": "P-PSYCH NW HOSPITAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 639P",
+      "courseTitle": "P-PSYCH OLYMPIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 640P",
+      "courseTitle": "P-PSYCH POCATEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 642P",
+      "courseTitle": "P-PSYCH CK BLACKFOOT",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "A",
+      "instructor": "Camp,Jakob"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 652P",
+      "courseTitle": "P-PSYC SHERIDAN",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 655P",
+      "courseTitle": "P-PSYCH CHEYNE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 659P",
+      "courseTitle": "P-PSYC ANACONDA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 660P",
+      "courseTitle": "P-PBSCI BOZEMAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 661P",
+      "courseTitle": "P-PSYCH HELENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 662",
+      "courseTitle": "PSYCH MISSOULA",
+      "section": "A",
+      "instructor": "Felix,Richard R"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 663",
+      "courseTitle": "PSYCH BILLINGS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 669P",
+      "courseTitle": "P-PSYCH CASPER",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 689P",
+      "courseTitle": "P-SUBI GEN PSYCH SPO",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2025",
+      "course": "PBSCI 695P",
+      "courseTitle": "P-CHILD PSYCH CSTC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 499",
+      "courseTitle": "H-UNDERGRAD RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 505P",
+      "courseTitle": "P-PSYCH PRECEPTRSHP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 598",
+      "courseTitle": "PBSCI IND STDY REM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 600",
+      "courseTitle": "RES IN PSYCHIATRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 630P",
+      "courseTitle": "P-WRITE PBSCI CLK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 631P",
+      "courseTitle": "P-PSYCH JUNEAU",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 632P",
+      "courseTitle": "P-LIC PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 633",
+      "courseTitle": "PSYC BILLINGS CLINIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 634P",
+      "courseTitle": "P-PSY CLK FAIRBANKS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 635P",
+      "courseTitle": "P-PSYC KALISPELL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 637P",
+      "courseTitle": "P-PSYCH FAIRFAX",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 638P",
+      "courseTitle": "P-PSYCH NW HOSPITAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 639P",
+      "courseTitle": "P-PSYCH OLYMPIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 640P",
+      "courseTitle": "P-PSYCH POCATEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 642P",
+      "courseTitle": "P-PSYCH CK BLACKFOOT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 652P",
+      "courseTitle": "P-PSYC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 655P",
+      "courseTitle": "P-PSYCH CHEYNE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 659P",
+      "courseTitle": "P-PSYC ANACONDA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 660P",
+      "courseTitle": "P-PBSCI BOZEMAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 661P",
+      "courseTitle": "P-PSYCH HELENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 662",
+      "courseTitle": "PSYCH MISSOULA",
+      "section": "A",
+      "instructor": "Felix,Richard R"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 663",
+      "courseTitle": "PSYCH BILLINGS",
+      "section": "A",
+      "instructor": "Van Dyk,Thomas W"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 669P",
+      "courseTitle": "P-PSYCH CASPER",
+      "section": "A",
+      "instructor": "Brown,Stephen L"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 681P",
+      "courseTitle": "P-PSYC APC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 689P",
+      "courseTitle": "P-SUBI GEN PSYCH SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "WIN2026",
+      "course": "PBSCI 695P",
+      "courseTitle": "P-CHILD PSYCH CSTC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 499",
+      "courseTitle": "H-UNDERGRAD RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 505P",
+      "courseTitle": "P-PSYCH PRECEPTRSHP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 525P",
+      "courseTitle": "P-PSYCHIATRY/LAW",
+      "section": "A",
+      "instructor": "Goldenberg,Ph.D., Edward"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 530P",
+      "courseTitle": "P-DEV PSYANL PSYTHR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 548P",
+      "courseTitle": "P-AGING ADLT DEVT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 600",
+      "courseTitle": "RES IN PSYCHIATRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 630P",
+      "courseTitle": "P-WRITE PBSCI CLK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 631P",
+      "courseTitle": "P-PSYCH JUNEAU",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 632P",
+      "courseTitle": "P-LIC PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 633",
+      "courseTitle": "PSYC BILLINGS CLINIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 634P",
+      "courseTitle": "P-PSY CLK FAIRBANKS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 635P",
+      "courseTitle": "P-PSYC KALISPELL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 638P",
+      "courseTitle": "P-PSYCH NW HOSPITAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 639P",
+      "courseTitle": "P-PSYCH OLYMPIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 640P",
+      "courseTitle": "P-PSYCH POCATEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 642P",
+      "courseTitle": "P-PSYCH CK BLACKFOOT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 648P",
+      "courseTitle": "P-PSYC PALMER AK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 652P",
+      "courseTitle": "P-PSYC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 655P",
+      "courseTitle": "P-PSYCH CHEYNE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 659P",
+      "courseTitle": "P-PSYC ANACONDA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 660P",
+      "courseTitle": "P-PBSCI BOZEMAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 661P",
+      "courseTitle": "P-PSYCH HELENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 662",
+      "courseTitle": "PSYCH MISSOULA",
+      "section": "A",
+      "instructor": "Felix,Richard R"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 663",
+      "courseTitle": "PSYCH BILLINGS",
+      "section": "A",
+      "instructor": "Van Dyk,Thomas W"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 669P",
+      "courseTitle": "P-PSYCH CASPER",
+      "section": "A",
+      "instructor": "Brown,Stephen L"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 674P",
+      "courseTitle": "P-THERAPEUTIC COMM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 681P",
+      "courseTitle": "P-PSYC APC SHERIDAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 689P",
+      "courseTitle": "P-SUBI GEN PSYCH SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "SPR2026",
+      "course": "PBSCI 695P",
+      "courseTitle": "P-CHILD PSYCH CSTC",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
 }

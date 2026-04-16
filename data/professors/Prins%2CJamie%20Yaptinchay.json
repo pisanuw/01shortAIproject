@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Prins%2CJamie%20Yaptinchay",
+  "professor": "Prins,Jamie Yaptinchay",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2026",
+      "course": "INFO 498",
+      "courseTitle": "TOPIC INFORMATICS",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 498",
+      "courseTitle": "TOPIC INFORMATICS",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2024",
+      "course": "INFO 380",
+      "courseTitle": "PRODUCT & IS MGMT",
+      "section": "B"
+    }
+  ]
+}

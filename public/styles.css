@@ -359,6 +359,50 @@ tbody tr:hover {
   margin-top: 12px;
 }
 
+.professor-launch {
+  margin-top: 28px;
+  padding-top: 18px;
+  border-top: 1px solid var(--line);
+}
+
+.course-launch {
+  margin-top: 22px;
+  padding-top: 18px;
+  border-top: 1px solid var(--line);
+}
+
+.professor-launch-card {
+  display: grid;
+  grid-template-columns: minmax(260px, 1fr) auto;
+  gap: 12px;
+  align-items: end;
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: color-mix(in srgb, var(--card) 82%, #f6faef 18%);
+}
+
+.course-launch-card {
+  display: grid;
+  grid-template-columns: minmax(260px, 1fr) auto;
+  gap: 12px;
+  align-items: end;
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: color-mix(in srgb, var(--card) 82%, #eef7fb 18%);
+}
+
+.professor-launch-card button[disabled] {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.course-launch-card button[disabled] {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
 /* Dept search */
 .dept-search-wrap {
   margin-bottom: 14px;
@@ -441,6 +485,8 @@ tbody tr:hover {
 @media (max-width: 760px) {
   .campus-cards { grid-template-columns: 1fr; }
   .dept-list { max-height: none; }
+  .professor-launch-card { grid-template-columns: 1fr; }
+  .course-launch-card { grid-template-columns: 1fr; }
 }
 
 /* ── Filter Dropdown ─────────────────────────────────────────────────────── */

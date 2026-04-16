@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Smith%2CEm",
+  "professor": "Smith,Em",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2025",
+      "course": "GEN ST 470",
+      "courseTitle": "ADV PEER EDUCTR PRAC",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2025",
+      "course": "GEN ST 270",
+      "courseTitle": "PEER EDUCATOR PRACT",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 470",
+      "courseTitle": "ADV PEER EDUCTR PRAC",
+      "section": "G"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 270",
+      "courseTitle": "PEER EDUCATOR PRACT",
+      "section": "G"
+    }
+  ]
+}

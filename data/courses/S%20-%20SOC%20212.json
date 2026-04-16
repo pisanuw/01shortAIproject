@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:25Z",
+  "id": "S%20-%20SOC%20212",
+  "course": "S - SOC 212",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "soc",
+      "deptName": "Sociology",
+      "term": "WIN2024",
+      "course": "SOC 212",
+      "courseTitle": "COMP SOCIAL CHANGE",
+      "section": "A",
+      "instructor": "Lavely,William R"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "soc",
+      "deptName": "Sociology",
+      "term": "WIN2023",
+      "course": "SOC 212",
+      "courseTitle": "COMP SOCIAL CHANGE",
+      "section": "A",
+      "instructor": "Lavely,William R"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "soc",
+      "deptName": "Sociology",
+      "term": "SPR2021",
+      "course": "SOC 212",
+      "courseTitle": "COMP SOCIAL CHANGE",
+      "section": "A",
+      "instructor": "Lavely,William R"
+    }
+  ]
+}

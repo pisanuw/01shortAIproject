@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Kawakyu%2CNami",
+  "professor": "Kawakyu,Nami",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 581",
+      "courseTitle": "GLOBAL HLTH NURSING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "AUT2023",
+      "course": "G H 574",
+      "courseTitle": "GLOBAL HLTH NURSING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "NURS 581",
+      "courseTitle": "GLOBAL HLTH NURSING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "AUT2022",
+      "course": "G H 574",
+      "courseTitle": "GLOBAL HLTH NURSING",
+      "section": "A"
+    }
+  ]
+}

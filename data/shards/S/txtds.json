@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:56Z",
+  "generatedAt": "2026-04-16T02:57:11Z",
   "campus": "S",
   "dept": "txtds",
   "deptName": "Textual and Digital Studies",
@@ -28,6 +28,66 @@
       "campus": "S",
       "dept": "txtds",
       "deptName": "Textual and Digital Studies",
+      "term": "SPR2022",
+      "course": "TXTDS 224",
+      "courseTitle": "HIST & FUTR OF TEXTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "txtds",
+      "deptName": "Textual and Digital Studies",
+      "term": "SPR2022",
+      "course": "TXTDS 267",
+      "courseTitle": "DATA SCI HUMANITIES",
+      "section": "A",
+      "instructor": "Preus,Anna"
+    },
+    {
+      "campus": "S",
+      "dept": "txtds",
+      "deptName": "Textual and Digital Studies",
+      "term": "SPR2022",
+      "course": "TXTDS 402",
+      "courseTitle": "BOOK ARTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "txtds",
+      "deptName": "Textual and Digital Studies",
+      "term": "SPR2022",
+      "course": "TXTDS 403",
+      "courseTitle": "ARCHIVES AND DATA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "txtds",
+      "deptName": "Textual and Digital Studies",
+      "term": "SPR2022",
+      "course": "TXTDS 501",
+      "courseTitle": "TEXT TECHNOLOGIES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "txtds",
+      "deptName": "Textual and Digital Studies",
+      "term": "SPR2022",
+      "course": "TXTDS 505",
+      "courseTitle": "CAP TEXT/DIGTL HUMAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "txtds",
+      "deptName": "Textual and Digital Studies",
       "term": "SUM2022",
       "course": "TXTDS 405",
       "courseTitle": "CAP TEXT/DIGTL HUMAN",
@@ -42,7 +102,7 @@
       "course": "TXTDS 267",
       "courseTitle": "DATA SCI HUMANITIES",
       "section": "A",
-      "instructor": "Preus,Anna"
+      "instructor": "B Preus,Anna"
     },
     {
       "campus": "S",
@@ -238,6 +298,46 @@
       "campus": "S",
       "dept": "txtds",
       "deptName": "Textual and Digital Studies",
+      "term": "WIN2024",
+      "course": "TXTDS 401",
+      "courseTitle": "TEXT TECHNOLOGIES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "txtds",
+      "deptName": "Textual and Digital Studies",
+      "term": "WIN2024",
+      "course": "TXTDS 404",
+      "courseTitle": "TXTS/PBLCS/PUBLCATNS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "txtds",
+      "deptName": "Textual and Digital Studies",
+      "term": "WIN2024",
+      "course": "TXTDS 405",
+      "courseTitle": "CAP TEXT/DIGTL HUMAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "txtds",
+      "deptName": "Textual and Digital Studies",
+      "term": "WIN2024",
+      "course": "TXTDS 504",
+      "courseTitle": "TXTS/PBLCS/PUBLCATNS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "txtds",
+      "deptName": "Textual and Digital Studies",
       "term": "SPR2024",
       "course": "TXTDS 224",
       "courseTitle": "HIST & FUTR OF TEXTS",
@@ -293,6 +393,46 @@
       "courseTitle": "CAP TEXT/DIGTL HUMAN",
       "section": "A",
       "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "txtds",
+      "deptName": "Textual and Digital Studies",
+      "term": "AUT2024",
+      "course": "TXTDS 221",
+      "courseTitle": "AI & HUM CREATIVITY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "txtds",
+      "deptName": "Textual and Digital Studies",
+      "term": "AUT2024",
+      "course": "TXTDS 403",
+      "courseTitle": "ARCHIVES AND DATA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "txtds",
+      "deptName": "Textual and Digital Studies",
+      "term": "AUT2024",
+      "course": "TXTDS 405",
+      "courseTitle": "CAP TEXT/DIGTL HUMAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "txtds",
+      "deptName": "Textual and Digital Studies",
+      "term": "AUT2024",
+      "course": "TXTDS 503",
+      "courseTitle": "ARCHIVES AND DATA",
+      "section": "A",
+      "instructor": "Walsh,Melanie"
     },
     {
       "campus": "S",
@@ -418,6 +558,16 @@
       "campus": "S",
       "dept": "txtds",
       "deptName": "Textual and Digital Studies",
+      "term": "SUM2025",
+      "course": "TXTDS 405",
+      "courseTitle": "CAP TEXT/DIGTL HUMAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "txtds",
+      "deptName": "Textual and Digital Studies",
       "term": "AUT2025",
       "course": "TXTDS 221",
       "courseTitle": "AI & HUM CREATIVITY",
@@ -472,7 +622,7 @@
       "course": "TXTDS 503",
       "courseTitle": "ARCHIVES AND DATA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Walsh,Melanie"
     },
     {
       "campus": "S",
@@ -522,7 +672,7 @@
       "course": "TXTDS 401",
       "courseTitle": "TEXT TECHNOLOGIES",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Xiao,Yunxiao"
     },
     {
       "campus": "S",
@@ -582,7 +732,7 @@
       "course": "TXTDS 222",
       "courseTitle": "TPCS HUMN/MCHN TRNSL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Watts,Richard H."
     },
     {
       "campus": "S",
@@ -632,7 +782,7 @@
       "course": "TXTDS 501",
       "courseTitle": "TEXT TECHNOLOGIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Norako,Leila K"
     },
     {
       "campus": "S",
@@ -662,7 +812,7 @@
       "course": "TXTDS 503",
       "courseTitle": "ARCHIVES AND DATA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Holstrom,Chris"
     },
     {
       "campus": "S",
@@ -672,7 +822,7 @@
       "course": "TXTDS 504",
       "courseTitle": "TXTS/PBLCS/PUBLCATNS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Turnovsky,Geoffrey"
     },
     {
       "campus": "S",

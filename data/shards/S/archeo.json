@@ -1,7 +1,3158 @@
 {
-  "generatedAt": "2026-04-15T16:27:55Z",
+  "generatedAt": "2026-04-16T02:57:10Z",
   "campus": "S",
   "dept": "archeo",
   "deptName": "Archaeology",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2020",
+      "course": "ARCHY 235",
+      "courseTitle": "EXPLORING GRAFFITI",
+      "section": "A",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2020",
+      "course": "ARCHY 299",
+      "courseTitle": "ARCHY LAB TECHNIQUE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2020",
+      "course": "ARCHY 369",
+      "courseTitle": "SPEC PROB ARCHY",
+      "section": "A",
+      "instructor": "Grayson,D"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2020",
+      "course": "ARCHY 466",
+      "courseTitle": "ARCHY HONORS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2020",
+      "course": "ARCHY 490",
+      "courseTitle": "MUS CURAT PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2020",
+      "course": "ARCHY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2020",
+      "course": "ARCHY 535",
+      "courseTitle": "EXPLORING GRAFFITI",
+      "section": "A",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2020",
+      "course": "ARCHY 561",
+      "courseTitle": "ARCHAEOLOGY DATING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2020",
+      "course": "ARCHY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2020",
+      "course": "ARCHY 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2021",
+      "course": "ARCHY 205",
+      "courseTitle": "PRINCIPLES OF ARCHY",
+      "section": "A",
+      "instructor": "Fitzhugh,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2021",
+      "course": "ARCHY 208",
+      "courseTitle": "INTRO ARCHY DATA SCI",
+      "section": "A",
+      "instructor": "Marwick,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2021",
+      "course": "ARCHY 325",
+      "courseTitle": "PACIFIC ARCHY",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2021",
+      "course": "ARCHY 369",
+      "courseTitle": "SPEC PROB ARCHY",
+      "section": "B",
+      "instructor": "Selover,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2021",
+      "course": "ARCHY 466",
+      "courseTitle": "ARCHY HONORS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2021",
+      "course": "ARCHY 489",
+      "courseTitle": "ARCHY PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2021",
+      "course": "ARCHY 490",
+      "courseTitle": "MUS CURAT PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2021",
+      "course": "ARCHY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2021",
+      "course": "ARCHY 512",
+      "courseTitle": "LOOTING AND LOSS",
+      "section": "A",
+      "instructor": "Selover,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2021",
+      "course": "ARCHY 525",
+      "courseTitle": "PACIFIC ARCHY",
+      "section": "A",
+      "instructor": "Lape,Peter V"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2021",
+      "course": "ARCHY 570",
+      "courseTitle": "ARCHY THEORY SEM",
+      "section": "A",
+      "instructor": "Gonzalez,Sara L"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2021",
+      "course": "ARCHY 579",
+      "courseTitle": "MATERIAL WORLD",
+      "section": "A",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2021",
+      "course": "ARCHY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2021",
+      "course": "ARCHY 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2021",
+      "course": "ARCHY 205",
+      "courseTitle": "PRINCIPLES OF ARCHY",
+      "section": "A",
+      "instructor": "Huff,Jennifer"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2021",
+      "course": "ARCHY 234",
+      "courseTitle": "TRASH AND DIRT",
+      "section": "A",
+      "instructor": "Lape,Peter V"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2021",
+      "course": "ARCHY 269",
+      "courseTitle": "SPEC TOPICS ARCHY",
+      "section": "A",
+      "instructor": "Selover,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2021",
+      "course": "ARCHY 299",
+      "courseTitle": "ARCHY LAB TECHNIQUE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2021",
+      "course": "ARCHY 369",
+      "courseTitle": "SPEC PROB ARCHY",
+      "section": "A",
+      "instructor": "Selover,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2021",
+      "course": "ARCHY 372",
+      "courseTitle": "ARCHY FIELD TECH",
+      "section": "A",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2021",
+      "course": "ARCHY 372",
+      "courseTitle": "ARCHY FIELD TECH",
+      "section": "B",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2021",
+      "course": "ARCHY 373",
+      "courseTitle": "ARCHY FIELD RECORD",
+      "section": "A",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2021",
+      "course": "ARCHY 410",
+      "courseTitle": "ARCHY THEORY",
+      "section": "A",
+      "instructor": "Gonzalez,Sara L"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2021",
+      "course": "ARCHY 466",
+      "courseTitle": "ARCHY HONORS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2021",
+      "course": "ARCHY 483",
+      "courseTitle": "LITHIC TECHNOLOGY",
+      "section": "A",
+      "instructor": "Marwick,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2021",
+      "course": "ARCHY 488",
+      "courseTitle": "LITHIC TECH LAB",
+      "section": "A",
+      "instructor": "Marwick,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2021",
+      "course": "ARCHY 489",
+      "courseTitle": "ARCHY PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2021",
+      "course": "ARCHY 490",
+      "courseTitle": "MUS CURAT PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2021",
+      "course": "ARCHY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2021",
+      "course": "ARCHY 510",
+      "courseTitle": "ARCHY THEORY",
+      "section": "A",
+      "instructor": "Fitzhugh,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2021",
+      "course": "ARCHY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2021",
+      "course": "ARCHY 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2021",
+      "course": "ARCHY 205",
+      "courseTitle": "PRINCIPLES OF ARCHY",
+      "section": "A",
+      "instructor": "Huff,Jennifer"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2021",
+      "course": "ARCHY 299",
+      "courseTitle": "ARCHY LAB TECHNIQUE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2021",
+      "course": "ARCHY 466",
+      "courseTitle": "ARCHY HONORS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2021",
+      "course": "ARCHY 490",
+      "courseTitle": "MUS CURAT PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2021",
+      "course": "ARCHY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2021",
+      "course": "ARCHY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2021",
+      "course": "ARCHY 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2021",
+      "course": "ARCHY 105",
+      "courseTitle": "HUMAN PAST",
+      "section": "A",
+      "instructor": "Fitzhugh,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2021",
+      "course": "ARCHY 235",
+      "courseTitle": "EXPLORING GRAFFITI",
+      "section": "A",
+      "instructor": "Llobera,M"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2021",
+      "course": "ARCHY 299",
+      "courseTitle": "ARCHY LAB TECHNIQUE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2021",
+      "course": "ARCHY 369",
+      "courseTitle": "SPEC PROB ARCHY",
+      "section": "B",
+      "instructor": "Grayson,Donald K"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2021",
+      "course": "ARCHY 369",
+      "courseTitle": "SPEC PROB ARCHY",
+      "section": "A",
+      "instructor": "Lape,Peter V"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2021",
+      "course": "ARCHY 465",
+      "courseTitle": "PUBLIC ARCHAEOLOGY",
+      "section": "A",
+      "instructor": "Huff,Jennifer A."
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2021",
+      "course": "ARCHY 466",
+      "courseTitle": "ARCHY HONORS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2021",
+      "course": "ARCHY 482",
+      "courseTitle": "GEOARCH SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2021",
+      "course": "ARCHY 486",
+      "courseTitle": "GEOARCH LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2021",
+      "course": "ARCHY 490",
+      "courseTitle": "MUS CURAT PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2021",
+      "course": "ARCHY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2021",
+      "course": "ARCHY 535",
+      "courseTitle": "EXPLORING GRAFFITI",
+      "section": "A",
+      "instructor": "Llobera,M"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2021",
+      "course": "ARCHY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2021",
+      "course": "ARCHY 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2022",
+      "course": "ARCHY 269",
+      "courseTitle": "SPEC TOPICS ARCHY",
+      "section": "A",
+      "instructor": "Gonzalez,Sara L"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2022",
+      "course": "ARCHY 299",
+      "courseTitle": "ARCHY LAB TECHNIQUE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2022",
+      "course": "ARCHY 345",
+      "courseTitle": "GLOBAL ETHNOARCH",
+      "section": "A",
+      "instructor": "Haakanson,Sven D"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2022",
+      "course": "ARCHY 369",
+      "courseTitle": "SPEC PROB ARCHY",
+      "section": "C",
+      "instructor": "Selover,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2022",
+      "course": "ARCHY 410",
+      "courseTitle": "ARCHY THEORY",
+      "section": "A",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2022",
+      "course": "ARCHY 466",
+      "courseTitle": "ARCHY HONORS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2022",
+      "course": "ARCHY 481",
+      "courseTitle": "ZOOARCHEAOLOGY",
+      "section": "A",
+      "instructor": "Grayson,Donald K"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2022",
+      "course": "ARCHY 489",
+      "courseTitle": "ARCHY PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2022",
+      "course": "ARCHY 490",
+      "courseTitle": "MUS CURAT PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2022",
+      "course": "ARCHY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2022",
+      "course": "ARCHY 510",
+      "courseTitle": "ARCHY THEORY",
+      "section": "A",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2022",
+      "course": "ARCHY 545",
+      "courseTitle": "ETHNOARCHAEOLOGY",
+      "section": "A",
+      "instructor": "Haakanson,Sven D"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2022",
+      "course": "ARCHY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2022",
+      "course": "ARCHY 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2022",
+      "course": "ARCHY 205",
+      "courseTitle": "PRINCIPLES OF ARCHY",
+      "section": "A",
+      "instructor": "Fitzhugh,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2022",
+      "course": "ARCHY 269",
+      "courseTitle": "SPEC TOPICS ARCHY",
+      "section": "A",
+      "instructor": "Selover,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2022",
+      "course": "ARCHY 299",
+      "courseTitle": "ARCHY LAB TECHNIQUE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2022",
+      "course": "ARCHY 313",
+      "courseTitle": "ANCIENT TECH N EAST",
+      "section": "A",
+      "instructor": "Selover,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2022",
+      "course": "ARCHY 369",
+      "courseTitle": "SPEC PROB ARCHY",
+      "section": "A",
+      "instructor": "Marwick,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2022",
+      "course": "ARCHY 377",
+      "courseTitle": "ARCTIC ARCHAEOLOGY",
+      "section": "A",
+      "instructor": "Fitzhugh,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2022",
+      "course": "ARCHY 466",
+      "courseTitle": "ARCHY HONORS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2022",
+      "course": "ARCHY 469",
+      "courseTitle": "SPEC STUDIES ARCHY",
+      "section": "C",
+      "instructor": "Kopperl,Bob"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2022",
+      "course": "ARCHY 469",
+      "courseTitle": "SPEC STUDIES ARCHY",
+      "section": "B",
+      "instructor": "Lape,Peter V"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2022",
+      "course": "ARCHY 469",
+      "courseTitle": "SPEC STUDIES ARCHY",
+      "section": "D",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2022",
+      "course": "ARCHY 484",
+      "courseTitle": "ARCHAEOLOGICAL GIS",
+      "section": "A",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2022",
+      "course": "ARCHY 489",
+      "courseTitle": "ARCHY PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2022",
+      "course": "ARCHY 490",
+      "courseTitle": "MUS CURAT PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2022",
+      "course": "ARCHY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2022",
+      "course": "ARCHY 570",
+      "courseTitle": "ARCHY THEORY SEM",
+      "section": "A",
+      "instructor": "Kopperl,Bob"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2022",
+      "course": "ARCHY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2022",
+      "course": "ARCHY 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2022",
+      "course": "ARCHY 205",
+      "courseTitle": "PRINCIPLES OF ARCHY",
+      "section": "A",
+      "instructor": "Gamble,Erin J"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2022",
+      "course": "ARCHY 299",
+      "courseTitle": "ARCHY LAB TECHNIQUE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2022",
+      "course": "ARCHY 466",
+      "courseTitle": "ARCHY HONORS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2022",
+      "course": "ARCHY 490",
+      "courseTitle": "MUS CURAT PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2022",
+      "course": "ARCHY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2022",
+      "course": "ARCHY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2022",
+      "course": "ARCHY 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2022",
+      "course": "ARCHY 105",
+      "courseTitle": "HUMAN PAST",
+      "section": "A",
+      "instructor": "Fitzhugh,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2022",
+      "course": "ARCHY 208",
+      "courseTitle": "INTRO ARCHY DATA SCI",
+      "section": "A",
+      "instructor": "Marwick,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2022",
+      "course": "ARCHY 299",
+      "courseTitle": "ARCHY LAB TECHNIQUE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2022",
+      "course": "ARCHY 369",
+      "courseTitle": "SPEC PROB ARCHY",
+      "section": "A",
+      "instructor": "Gonzalez,Sara L"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2022",
+      "course": "ARCHY 466",
+      "courseTitle": "ARCHY HONORS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2022",
+      "course": "ARCHY 480",
+      "courseTitle": "ADV ARCH ANLY CERAM",
+      "section": "A",
+      "instructor": "Gamble,Erin J"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2022",
+      "course": "ARCHY 490",
+      "courseTitle": "MUS CURAT PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2022",
+      "course": "ARCHY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2022",
+      "course": "ARCHY 560",
+      "courseTitle": "ARCHY METHODS SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2022",
+      "course": "ARCHY 573",
+      "courseTitle": "INDIGENOUS ARCHY",
+      "section": "A",
+      "instructor": "Gonzalez,Sara L"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2022",
+      "course": "ARCHY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2022",
+      "course": "ARCHY 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2022",
+      "course": "ARCHY 710",
+      "courseTitle": "MASTER'S PROJECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2023",
+      "course": "ARCHY 205",
+      "courseTitle": "PRINCIPLES OF ARCHY",
+      "section": "A",
+      "instructor": "Fitzhugh,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2023",
+      "course": "ARCHY 299",
+      "courseTitle": "ARCHY LAB TECHNIQUE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2023",
+      "course": "ARCHY 325",
+      "courseTitle": "PACIFIC ARCHY",
+      "section": "A",
+      "instructor": "Lape,Peter V"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2023",
+      "course": "ARCHY 369",
+      "courseTitle": "SPEC PROB ARCHY",
+      "section": "A",
+      "instructor": "Selover,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2023",
+      "course": "ARCHY 466",
+      "courseTitle": "ARCHY HONORS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2023",
+      "course": "ARCHY 489",
+      "courseTitle": "ARCHY PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2023",
+      "course": "ARCHY 490",
+      "courseTitle": "MUS CURAT PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2023",
+      "course": "ARCHY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2023",
+      "course": "ARCHY 512",
+      "courseTitle": "LOOTING AND LOSS",
+      "section": "A",
+      "instructor": "Selover,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2023",
+      "course": "ARCHY 525",
+      "courseTitle": "PACIFIC ARCHY",
+      "section": "A",
+      "instructor": "Lape,Peter V"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2023",
+      "course": "ARCHY 599",
+      "courseTitle": "TEACHING ARCHY",
+      "section": "A",
+      "instructor": "Fitzhugh,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2023",
+      "course": "ARCHY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2023",
+      "course": "ARCHY 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2023",
+      "course": "ARCHY 710",
+      "courseTitle": "MASTER'S PROJECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2023",
+      "course": "ARCHY 212",
+      "courseTitle": "ANCIENT EGYPT ARCHY",
+      "section": "A",
+      "instructor": "Selover,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2023",
+      "course": "ARCHY 234",
+      "courseTitle": "TRASH AND DIRT",
+      "section": "A",
+      "instructor": "Lape,Peter V"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2023",
+      "course": "ARCHY 299",
+      "courseTitle": "ARCHY LAB TECHNIQUE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2023",
+      "course": "ARCHY 304",
+      "courseTitle": "AMERICAS ARCHY",
+      "section": "A",
+      "instructor": "B Fitzhugh,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2023",
+      "course": "ARCHY 369",
+      "courseTitle": "SPEC PROB ARCHY",
+      "section": "A",
+      "instructor": "Selover,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2023",
+      "course": "ARCHY 466",
+      "courseTitle": "ARCHY HONORS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2023",
+      "course": "ARCHY 469",
+      "courseTitle": "SPEC STUDIES ARCHY",
+      "section": "C",
+      "instructor": "Kopperl,Bob"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2023",
+      "course": "ARCHY 472",
+      "courseTitle": "HISTORICAL ARCHY",
+      "section": "A",
+      "instructor": "Whittaker,Joss R."
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2023",
+      "course": "ARCHY 483",
+      "courseTitle": "LITHIC TECHNOLOGY",
+      "section": "A",
+      "instructor": "Marwick,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2023",
+      "course": "ARCHY 488",
+      "courseTitle": "LITHIC TECH LAB",
+      "section": "A",
+      "instructor": "Marwick,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2023",
+      "course": "ARCHY 489",
+      "courseTitle": "ARCHY PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2023",
+      "course": "ARCHY 490",
+      "courseTitle": "MUS CURAT PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2023",
+      "course": "ARCHY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2023",
+      "course": "ARCHY 560",
+      "courseTitle": "ARCHY METHODS SEM",
+      "section": "A",
+      "instructor": "Gonzalez,Sara L"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2023",
+      "course": "ARCHY 570",
+      "courseTitle": "ARCHY THEORY SEM",
+      "section": "A",
+      "instructor": "Kopperl,Bob"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2023",
+      "course": "ARCHY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2023",
+      "course": "ARCHY 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2023",
+      "course": "ARCHY 710",
+      "courseTitle": "MASTER'S PROJECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2023",
+      "course": "ARCHY 208",
+      "courseTitle": "INTRO ARCHY DATA SCI",
+      "section": "A",
+      "instructor": "Marwick,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2023",
+      "course": "ARCHY 299",
+      "courseTitle": "ARCHY LAB TECHNIQUE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2023",
+      "course": "ARCHY 466",
+      "courseTitle": "ARCHY HONORS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2023",
+      "course": "ARCHY 480",
+      "courseTitle": "ADV ARCH ANLY CERAM",
+      "section": "A",
+      "instructor": "Gamble,Erin J"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2023",
+      "course": "ARCHY 490",
+      "courseTitle": "MUS CURAT PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2023",
+      "course": "ARCHY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2023",
+      "course": "ARCHY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2023",
+      "course": "ARCHY 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2023",
+      "course": "ARCHY 710",
+      "courseTitle": "MASTER'S PROJECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2023",
+      "course": "ARCHY 235",
+      "courseTitle": "EXPLORING GRAFFITI",
+      "section": "A",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2023",
+      "course": "ARCHY 299",
+      "courseTitle": "ARCHY LAB TECHNIQUE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2023",
+      "course": "ARCHY 410",
+      "courseTitle": "ARCHY THEORY",
+      "section": "A",
+      "instructor": "Fitzhugh,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2023",
+      "course": "ARCHY 466",
+      "courseTitle": "ARCHY HONORS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2023",
+      "course": "ARCHY 482",
+      "courseTitle": "GEOARCH SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2023",
+      "course": "ARCHY 486",
+      "courseTitle": "GEOARCH LAB",
+      "section": "A",
+      "instructor": "Marwick,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2023",
+      "course": "ARCHY 490",
+      "courseTitle": "MUS CURAT PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2023",
+      "course": "ARCHY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2023",
+      "course": "ARCHY 510",
+      "courseTitle": "ARCHY THEORY",
+      "section": "A",
+      "instructor": "Fitzhugh,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2023",
+      "course": "ARCHY 535",
+      "courseTitle": "EXPLORING GRAFFITI",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2023",
+      "course": "ARCHY 560",
+      "courseTitle": "ARCHY METHODS SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2023",
+      "course": "ARCHY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2023",
+      "course": "ARCHY 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2023",
+      "course": "ARCHY 710",
+      "courseTitle": "MASTER'S PROJECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2024",
+      "course": "ARCHY 101",
+      "courseTitle": "EXPLORING ARCHY",
+      "section": "A",
+      "instructor": "d'Alpoim Guedes,Jade"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2024",
+      "course": "ARCHY 269",
+      "courseTitle": "SPEC TOPICS ARCHY",
+      "section": "A",
+      "instructor": "Gonzalez,Sara L"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2024",
+      "course": "ARCHY 299",
+      "courseTitle": "ARCHY LAB TECHNIQUE",
+      "section": "A",
+      "instructor": "Fitzhugh,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2024",
+      "course": "ARCHY 325",
+      "courseTitle": "PACIFIC ARCHY",
+      "section": "A",
+      "instructor": "Lape,Peter"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2024",
+      "course": "ARCHY 345",
+      "courseTitle": "GLOBAL ETHNOARCH",
+      "section": "A",
+      "instructor": "Haakanson,Sven"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2024",
+      "course": "ARCHY 369",
+      "courseTitle": "SPEC PROB ARCHY",
+      "section": "A",
+      "instructor": "NICHOLS,CORINNA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2024",
+      "course": "ARCHY 466",
+      "courseTitle": "ARCHY HONORS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2024",
+      "course": "ARCHY 489",
+      "courseTitle": "ARCHY PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2024",
+      "course": "ARCHY 490",
+      "courseTitle": "MUS CURAT PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2024",
+      "course": "ARCHY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2024",
+      "course": "ARCHY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2024",
+      "course": "ARCHY 525",
+      "courseTitle": "PACIFIC ARCHY",
+      "section": "A",
+      "instructor": "Lape,Peter"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2024",
+      "course": "ARCHY 545",
+      "courseTitle": "ETHNOARCHAEOLOGY",
+      "section": "A",
+      "instructor": "Haakanson,Sven"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2024",
+      "course": "ARCHY 574",
+      "courseTitle": "META-ARCHAEOLOGY",
+      "section": "A",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2024",
+      "course": "ARCHY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2024",
+      "course": "ARCHY 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2024",
+      "course": "ARCHY 710",
+      "courseTitle": "MASTER'S PROJECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2024",
+      "course": "ARCHY 205",
+      "courseTitle": "PRINCIPLES OF ARCHY",
+      "section": "A",
+      "instructor": "Fitzhugh,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2024",
+      "course": "ARCHY 299",
+      "courseTitle": "ARCHY LAB TECHNIQUE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2024",
+      "course": "ARCHY 313",
+      "courseTitle": "ANCIENT TECH NR EAST",
+      "section": "A",
+      "instructor": "IACOBUCCI,ALEC"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2024",
+      "course": "ARCHY 319",
+      "courseTitle": "AUSTRALIAN ARCHY",
+      "section": "A",
+      "instructor": "Marwick,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2024",
+      "course": "ARCHY 372",
+      "courseTitle": "ARCHY FIELD TECH",
+      "section": "A",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2024",
+      "course": "ARCHY 372",
+      "courseTitle": "ARCHY FIELD TECH",
+      "section": "B",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2024",
+      "course": "ARCHY 373",
+      "courseTitle": "ARCHY FIELD RECORD",
+      "section": "A",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2024",
+      "course": "ARCHY 459",
+      "courseTitle": "SPEC TOPIC ARCHY SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2024",
+      "course": "ARCHY 466",
+      "courseTitle": "ARCHY HONORS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2024",
+      "course": "ARCHY 469",
+      "courseTitle": "SPEC STUDIES ARCHY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2024",
+      "course": "ARCHY 469",
+      "courseTitle": "SPEC STUDIES ARCHY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2024",
+      "course": "ARCHY 490",
+      "courseTitle": "MUS CURAT PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2024",
+      "course": "ARCHY 513",
+      "courseTitle": "ANCIENT TECH NR EAST",
+      "section": "A",
+      "instructor": "IACOBUCCI,ALEC"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2024",
+      "course": "ARCHY 519",
+      "courseTitle": "ARCHY AUSTRALIA",
+      "section": "A",
+      "instructor": "Marwick,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2024",
+      "course": "ARCHY 570",
+      "courseTitle": "ARCHY THEORY SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2024",
+      "course": "ARCHY 575",
+      "courseTitle": "ARCHY FIELD DESIGN",
+      "section": "A",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2024",
+      "course": "ARCHY 576",
+      "courseTitle": "GRANT PROPOSALS",
+      "section": "A",
+      "instructor": "Fitzhugh,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2024",
+      "course": "ARCHY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2024",
+      "course": "ARCHY 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2024",
+      "course": "ARCHY 710",
+      "courseTitle": "MASTER'S PROJECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2024",
+      "course": "ARCHY 205",
+      "courseTitle": "PRINCIPLES OF ARCHY",
+      "section": "A",
+      "instructor": "IACOBUCCI,ALEC"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2024",
+      "course": "ARCHY 208",
+      "courseTitle": "INTRO ARCHY DATA SCI",
+      "section": "A",
+      "instructor": "Marwick,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2024",
+      "course": "ARCHY 299",
+      "courseTitle": "ARCHY LAB TECHNIQUE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2024",
+      "course": "ARCHY 466",
+      "courseTitle": "ARCHY HONORS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2024",
+      "course": "ARCHY 490",
+      "courseTitle": "MUS CURAT PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2024",
+      "course": "ARCHY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2024",
+      "course": "ARCHY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2024",
+      "course": "ARCHY 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2024",
+      "course": "ARCHY 710",
+      "courseTitle": "MASTER'S PROJECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2024",
+      "course": "ARCHY 105",
+      "courseTitle": "HUMAN PAST",
+      "section": "A",
+      "instructor": "Fitzhugh,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2024",
+      "course": "ARCHY 208",
+      "courseTitle": "INTRO ARCHY DATA SCI",
+      "section": "A",
+      "instructor": "Marwick,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2024",
+      "course": "ARCHY 235",
+      "courseTitle": "EXPLORING GRAFFITI",
+      "section": "A",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2024",
+      "course": "ARCHY 299",
+      "courseTitle": "ARCHY LAB TECHNIQUE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2024",
+      "course": "ARCHY 312",
+      "courseTitle": "LOOTING AND LOSS",
+      "section": "A",
+      "instructor": "Selover,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2024",
+      "course": "ARCHY 459",
+      "courseTitle": "SPEC TOPIC ARCHY SCI",
+      "section": "A",
+      "instructor": "d'Alpoim Guedes,Jade"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2024",
+      "course": "ARCHY 466",
+      "courseTitle": "ARCHY HONORS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2024",
+      "course": "ARCHY 469",
+      "courseTitle": "SPEC STUDIES ARCHY",
+      "section": "A",
+      "instructor": "Kopperl,Bob"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2024",
+      "course": "ARCHY 469",
+      "courseTitle": "SPEC STUDIES ARCHY",
+      "section": "B",
+      "instructor": "d'Alpoim Guedes,Jade"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2024",
+      "course": "ARCHY 490",
+      "courseTitle": "MUS CURAT PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2024",
+      "course": "ARCHY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2024",
+      "course": "ARCHY 512",
+      "courseTitle": "LOOTING AND LOSS",
+      "section": "A",
+      "instructor": "Selover,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2024",
+      "course": "ARCHY 535",
+      "courseTitle": "EXPLORING GRAFFITI",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2024",
+      "course": "ARCHY 570",
+      "courseTitle": "ARCHY THEORY SEM",
+      "section": "A",
+      "instructor": "Kopperl,Bob"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2024",
+      "course": "ARCHY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2024",
+      "course": "ARCHY 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2024",
+      "course": "ARCHY 710",
+      "courseTitle": "MASTER'S PROJECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2025",
+      "course": "ARCHY 101",
+      "courseTitle": "EXPLORING ARCHY",
+      "section": "A",
+      "instructor": "d'Alpoim Guedes,Jade"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2025",
+      "course": "ARCHY 269",
+      "courseTitle": "SPEC TOPICS ARCHY",
+      "section": "A",
+      "instructor": "Selover,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2025",
+      "course": "ARCHY 299",
+      "courseTitle": "ARCHY LAB TECHNIQUE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2025",
+      "course": "ARCHY 403",
+      "courseTitle": "ARCH OF LANDSCAPES",
+      "section": "A",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2025",
+      "course": "ARCHY 466",
+      "courseTitle": "ARCHY HONORS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2025",
+      "course": "ARCHY 483",
+      "courseTitle": "LITHIC TECHNOLOGY",
+      "section": "A",
+      "instructor": "Marwick,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2025",
+      "course": "ARCHY 488",
+      "courseTitle": "LITHIC TECH LAB",
+      "section": "A",
+      "instructor": "Marwick,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2025",
+      "course": "ARCHY 490",
+      "courseTitle": "MUS CURAT PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2025",
+      "course": "ARCHY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2025",
+      "course": "ARCHY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2025",
+      "course": "ARCHY 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2025",
+      "course": "ARCHY 710",
+      "courseTitle": "MASTER'S PROJECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2025",
+      "course": "ARCHY 205",
+      "courseTitle": "PRINCIPLES OF ARCHY",
+      "section": "A",
+      "instructor": "Fitzhugh,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2025",
+      "course": "ARCHY 212",
+      "courseTitle": "ANCIENT EGYPT ARCHY",
+      "section": "A",
+      "instructor": "NICHOLS,CORINNA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2025",
+      "course": "ARCHY 234",
+      "courseTitle": "TRASH AND DIRT",
+      "section": "A",
+      "instructor": "Lape,Peter"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2025",
+      "course": "ARCHY 299",
+      "courseTitle": "ARCHY LAB TECHNIQUE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2025",
+      "course": "ARCHY 369",
+      "courseTitle": "SPEC PROB ARCHY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2025",
+      "course": "ARCHY 466",
+      "courseTitle": "ARCHY HONORS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2025",
+      "course": "ARCHY 469",
+      "courseTitle": "SPEC STUDIES ARCHY",
+      "section": "A",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2025",
+      "course": "ARCHY 484",
+      "courseTitle": "ARCHAEOLOGICAL GIS",
+      "section": "A",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2025",
+      "course": "ARCHY 490",
+      "courseTitle": "MUS CURAT PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2025",
+      "course": "ARCHY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2025",
+      "course": "ARCHY 599",
+      "courseTitle": "TEACHING ARCHY",
+      "section": "A",
+      "instructor": "Fitzhugh,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2025",
+      "course": "ARCHY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2025",
+      "course": "ARCHY 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2025",
+      "course": "ARCHY 710",
+      "courseTitle": "MASTER'S PROJECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2025",
+      "course": "ARCHY 205",
+      "courseTitle": "PRINCIPLES OF ARCHY",
+      "section": "A",
+      "instructor": "IACOBUCCI,ALEC"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2025",
+      "course": "ARCHY 299",
+      "courseTitle": "ARCHY LAB TECHNIQUE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2025",
+      "course": "ARCHY 466",
+      "courseTitle": "ARCHY HONORS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2025",
+      "course": "ARCHY 490",
+      "courseTitle": "MUS CURAT PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2025",
+      "course": "ARCHY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2025",
+      "course": "ARCHY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2025",
+      "course": "ARCHY 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SUM2025",
+      "course": "ARCHY 710",
+      "courseTitle": "MASTER'S PROJECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2025",
+      "course": "ARCHY 205",
+      "courseTitle": "PRINCIPLES OF ARCHY",
+      "section": "A",
+      "instructor": "IACOBUCCI,ALEC"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2025",
+      "course": "ARCHY 235",
+      "courseTitle": "EXPLORING GRAFFITI",
+      "section": "A",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2025",
+      "course": "ARCHY 299",
+      "courseTitle": "ARCHY LAB TECHNIQUE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2025",
+      "course": "ARCHY 311",
+      "courseTitle": "ARCHY OF BIB ISRAEL",
+      "section": "A",
+      "instructor": "NICHOLS,CORINNA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2025",
+      "course": "ARCHY 466",
+      "courseTitle": "ARCHY HONORS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2025",
+      "course": "ARCHY 469",
+      "courseTitle": "SPEC STUDIES ARCHY",
+      "section": "A",
+      "instructor": "Kopperl,Bob"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2025",
+      "course": "ARCHY 482",
+      "courseTitle": "GEOARCH SEMINAR",
+      "section": "A",
+      "instructor": "Marwick,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2025",
+      "course": "ARCHY 486",
+      "courseTitle": "GEOARCH LAB",
+      "section": "A",
+      "instructor": "Marwick,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2025",
+      "course": "ARCHY 490",
+      "courseTitle": "MUS CURAT PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2025",
+      "course": "ARCHY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2025",
+      "course": "ARCHY 535",
+      "courseTitle": "EXPLORING GRAFFITI",
+      "section": "A",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2025",
+      "course": "ARCHY 570",
+      "courseTitle": "ARCHY THEORY SEM",
+      "section": "A",
+      "instructor": "Kopperl,Bob"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2025",
+      "course": "ARCHY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2025",
+      "course": "ARCHY 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "AUT2025",
+      "course": "ARCHY 710",
+      "courseTitle": "MASTER'S PROJECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2026",
+      "course": "ARCHY 101",
+      "courseTitle": "EXPLORING ARCHY",
+      "section": "A",
+      "instructor": "d'Alpoim Guedes,Jade"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2026",
+      "course": "ARCHY 210",
+      "courseTitle": "ARCHY ANCIENT IRAN",
+      "section": "A",
+      "instructor": "Selover,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2026",
+      "course": "ARCHY 299",
+      "courseTitle": "ARCHY LAB TECHNIQUE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2026",
+      "course": "ARCHY 304",
+      "courseTitle": "AMERICAS ARCHY",
+      "section": "A",
+      "instructor": "Przystupa,Paulina F."
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2026",
+      "course": "ARCHY 345",
+      "courseTitle": "GLOBAL ETHNOARCH",
+      "section": "A",
+      "instructor": "Haakanson,Sven"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2026",
+      "course": "ARCHY 350",
+      "courseTitle": "ARCH ANC NE WAR EMP",
+      "section": "A",
+      "instructor": "Medill,Kathryn McConaughy"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2026",
+      "course": "ARCHY 410",
+      "courseTitle": "ARCHY THEORY",
+      "section": "A",
+      "instructor": "Przystupa,Paulina F."
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2026",
+      "course": "ARCHY 466",
+      "courseTitle": "ARCHY HONORS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2026",
+      "course": "ARCHY 490",
+      "courseTitle": "MUS CURAT PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2026",
+      "course": "ARCHY 494",
+      "courseTitle": "ARCHY DATA VISUAL",
+      "section": "A",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2026",
+      "course": "ARCHY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2026",
+      "course": "ARCHY 510",
+      "courseTitle": "INTRO ARCHY THEORY",
+      "section": "A",
+      "instructor": "Przystupa,Paulina F."
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2026",
+      "course": "ARCHY 545",
+      "courseTitle": "ETHNOARCHAEOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2026",
+      "course": "ARCHY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2026",
+      "course": "ARCHY 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2026",
+      "course": "ARCHY 710",
+      "courseTitle": "MASTER'S PROJECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2026",
+      "course": "ARCHY 208",
+      "courseTitle": "INTRO ARCHY DATA SCI",
+      "section": "A",
+      "instructor": "Marwick,Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2026",
+      "course": "ARCHY 299",
+      "courseTitle": "ARCHY LAB TECHNIQUE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2026",
+      "course": "ARCHY 313",
+      "courseTitle": "ANCIENT TECH NR EAST",
+      "section": "A",
+      "instructor": "Selover,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2026",
+      "course": "ARCHY 369",
+      "courseTitle": "SPEC PROB ARCHY",
+      "section": "A",
+      "instructor": "Przystupa,Paulina F."
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2026",
+      "course": "ARCHY 369",
+      "courseTitle": "SPEC PROB ARCHY",
+      "section": "B",
+      "instructor": "Przystupa,Paulina F."
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2026",
+      "course": "ARCHY 372",
+      "courseTitle": "ARCHY FIELD TECH",
+      "section": "A",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2026",
+      "course": "ARCHY 372",
+      "courseTitle": "ARCHY FIELD TECH",
+      "section": "B",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2026",
+      "course": "ARCHY 373",
+      "courseTitle": "ARCHY FIELD RECORD",
+      "section": "A",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2026",
+      "course": "ARCHY 466",
+      "courseTitle": "ARCHY HONORS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2026",
+      "course": "ARCHY 485",
+      "courseTitle": "INTR PALEOETHBOT SEM",
+      "section": "A",
+      "instructor": "d'Alpoim Guedes,Jade"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2026",
+      "course": "ARCHY 490",
+      "courseTitle": "MUS CURAT PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2026",
+      "course": "ARCHY 491",
+      "courseTitle": "INTR PALEOETHBOT LAB",
+      "section": "A",
+      "instructor": "d'Alpoim Guedes,Jade"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2026",
+      "course": "ARCHY 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2026",
+      "course": "ARCHY 573",
+      "courseTitle": "INDIGENOUS ARCHY",
+      "section": "A",
+      "instructor": "Przystupa,Paulina F."
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2026",
+      "course": "ARCHY 575",
+      "courseTitle": "ARCHY FIELD DESIGN",
+      "section": "A",
+      "instructor": "Llobera,Marcos"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2026",
+      "course": "ARCHY 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2026",
+      "course": "ARCHY 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "SPR2026",
+      "course": "ARCHY 710",
+      "courseTitle": "MASTER'S PROJECT",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
 }

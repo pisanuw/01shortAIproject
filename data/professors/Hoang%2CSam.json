@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Hoang%2CSam",
+  "professor": "Hoang,Sam",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "WIN2022",
+      "course": "M E 230",
+      "courseTitle": "KINEMATICS & DYNS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "SUM2021",
+      "course": "M E 478",
+      "courseTitle": "FINTE ELEMENT ANLYS",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Wang%2CHanjie",
+  "professor": "Wang,Hanjie",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tlaw",
+      "deptName": "Law",
+      "term": "SPR2026",
+      "course": "T LAW 367",
+      "courseTitle": "COMP LAW & COURTS",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tlaw",
+      "deptName": "Law",
+      "term": "WIN2026",
+      "course": "T LAW 215",
+      "courseTitle": "INTRO INTL ORGS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "polisci",
+      "deptName": "Political Science",
+      "term": "SUM2024",
+      "course": "POL S 203",
+      "courseTitle": "INTRO INTERNATL REL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "jsisb",
+      "deptName": "International Studies Global/Thematic Courses",
+      "term": "WIN2024",
+      "course": "JSIS B 455",
+      "courseTitle": "INTL ENVIRON POLICY",
+      "section": "A"
+    }
+  ]
+}

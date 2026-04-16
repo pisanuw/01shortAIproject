@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Kohlbrenner%2CDavid%20William",
+  "professor": "Kohlbrenner,David William",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "WIN2021",
+      "course": "CSE 484",
+      "courseTitle": "COMPUTER SECURITY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "AUT2020",
+      "course": "CSE 564",
+      "courseTitle": "SECURITY & PRIVACY",
+      "section": "A"
+    }
+  ]
+}

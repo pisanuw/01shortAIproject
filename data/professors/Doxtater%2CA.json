@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Doxtater%2CA",
+  "professor": "Doxtater,A",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "swedish",
+      "deptName": "Swedish",
+      "term": "SPR2022",
+      "course": "SWED 301",
+      "courseTitle": "SWED LIT AND CLTR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 100",
+      "courseTitle": "INTRO SCANDINAVIA",
+      "section": "A"
+    }
+  ]
+}

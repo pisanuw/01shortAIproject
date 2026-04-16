@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Harris%2CAlexes",
+  "professor": "Harris,Alexes",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "soc",
+      "deptName": "Sociology",
+      "term": "AUT2024",
+      "course": "SOC 270",
+      "courseTitle": "SOCIAL PROBLEMS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "soc",
+      "deptName": "Sociology",
+      "term": "AUT2022",
+      "course": "SOC 270",
+      "courseTitle": "SOCIAL PROBLEMS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "soc",
+      "deptName": "Sociology",
+      "term": "AUT2020",
+      "course": "SOC 270",
+      "courseTitle": "SOCIAL PROBLEMS",
+      "section": "A"
+    }
+  ]
+}

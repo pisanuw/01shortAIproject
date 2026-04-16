@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Daniel%2CT",
+  "professor": "Daniel,T",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "AUT2022",
+      "course": "BIOL 580",
+      "courseTitle": "PHYSIOLOGY SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "WIN2021",
+      "course": "BIOL 580",
+      "courseTitle": "PHYSIOLOGY SEMINAR",
+      "section": "A"
+    }
+  ]
+}

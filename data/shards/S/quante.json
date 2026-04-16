@@ -1,7 +1,888 @@
 {
-  "generatedAt": "2026-04-15T16:27:59Z",
+  "generatedAt": "2026-04-16T02:57:15Z",
   "campus": "S",
   "dept": "quante",
   "deptName": "Quantitative Ecology and Resource Management",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "AUT2020",
+      "course": "QERM 597",
+      "courseTitle": "SEM QUAN ECOLOGY",
+      "section": "A",
+      "instructor": "Essington,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "AUT2020",
+      "course": "QERM 600",
+      "courseTitle": "INDPENDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "AUT2020",
+      "course": "QERM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "AUT2020",
+      "course": "QERM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "WIN2021",
+      "course": "QERM 597",
+      "courseTitle": "SEM QUAN ECOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "WIN2021",
+      "course": "QERM 600",
+      "courseTitle": "INDPENDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "WIN2021",
+      "course": "QERM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "WIN2021",
+      "course": "QERM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2021",
+      "course": "QERM 514",
+      "courseTitle": "ANLYS ECOL DATA I",
+      "section": "A",
+      "instructor": "Converse,Sarah J"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2021",
+      "course": "QERM 600",
+      "courseTitle": "INDPENDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2021",
+      "course": "QERM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2021",
+      "course": "QERM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SUM2021",
+      "course": "QERM 600",
+      "courseTitle": "INDPENDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SUM2021",
+      "course": "QERM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SUM2021",
+      "course": "QERM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "AUT2021",
+      "course": "QERM 597",
+      "courseTitle": "SEM QUAN ECOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "AUT2021",
+      "course": "QERM 600",
+      "courseTitle": "INDPENDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "AUT2021",
+      "course": "QERM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "AUT2021",
+      "course": "QERM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "WIN2022",
+      "course": "QERM 600",
+      "courseTitle": "INDPENDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "WIN2022",
+      "course": "QERM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "WIN2022",
+      "course": "QERM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2022",
+      "course": "QERM 514",
+      "courseTitle": "ANLYS ECOL DATA I",
+      "section": "A",
+      "instructor": "Jones,Timothy T."
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2022",
+      "course": "QERM 597",
+      "courseTitle": "SEM QUAN ECOLOGY",
+      "section": "A",
+      "instructor": "Gardner,Beth"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2022",
+      "course": "QERM 600",
+      "courseTitle": "INDPENDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2022",
+      "course": "QERM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2022",
+      "course": "QERM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SUM2022",
+      "course": "QERM 600",
+      "courseTitle": "INDPENDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SUM2022",
+      "course": "QERM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SUM2022",
+      "course": "QERM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "AUT2022",
+      "course": "QERM 597",
+      "courseTitle": "SEM QUAN ECOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "AUT2022",
+      "course": "QERM 600",
+      "courseTitle": "INDPENDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "AUT2022",
+      "course": "QERM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "AUT2022",
+      "course": "QERM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "WIN2023",
+      "course": "QERM 597",
+      "courseTitle": "SEM QUAN ECOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "WIN2023",
+      "course": "QERM 600",
+      "courseTitle": "INDPENDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "WIN2023",
+      "course": "QERM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "WIN2023",
+      "course": "QERM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2023",
+      "course": "QERM 514",
+      "courseTitle": "ANLYS ECOL DATA I",
+      "section": "A",
+      "instructor": "Converse,S"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2023",
+      "course": "QERM 600",
+      "courseTitle": "INDPENDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2023",
+      "course": "QERM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2023",
+      "course": "QERM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SUM2023",
+      "course": "QERM 600",
+      "courseTitle": "INDPENDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SUM2023",
+      "course": "QERM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SUM2023",
+      "course": "QERM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "AUT2023",
+      "course": "QERM 597",
+      "courseTitle": "SEM QUAN ECOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "AUT2023",
+      "course": "QERM 600",
+      "courseTitle": "INDPENDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "AUT2023",
+      "course": "QERM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "AUT2023",
+      "course": "QERM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "WIN2024",
+      "course": "QERM 600",
+      "courseTitle": "INDPENDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "WIN2024",
+      "course": "QERM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "WIN2024",
+      "course": "QERM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2024",
+      "course": "QERM 514",
+      "courseTitle": "ANLYS ECOL DATA I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2024",
+      "course": "QERM 597",
+      "courseTitle": "SEM QUAN ECOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2024",
+      "course": "QERM 600",
+      "courseTitle": "INDPENDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2024",
+      "course": "QERM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2024",
+      "course": "QERM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SUM2024",
+      "course": "QERM 600",
+      "courseTitle": "INDPENDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SUM2024",
+      "course": "QERM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SUM2024",
+      "course": "QERM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "AUT2024",
+      "course": "QERM 597",
+      "courseTitle": "SEM QUAN ECOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "AUT2024",
+      "course": "QERM 600",
+      "courseTitle": "INDPENDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "AUT2024",
+      "course": "QERM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "AUT2024",
+      "course": "QERM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "WIN2025",
+      "course": "QERM 597",
+      "courseTitle": "SEM QUAN ECOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "WIN2025",
+      "course": "QERM 600",
+      "courseTitle": "INDPENDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "WIN2025",
+      "course": "QERM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "WIN2025",
+      "course": "QERM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2025",
+      "course": "QERM 514",
+      "courseTitle": "ANLYS ECOL DATA I",
+      "section": "A",
+      "instructor": "Converse,Sarah J"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2025",
+      "course": "QERM 597",
+      "courseTitle": "SEM QUAN ECOLOGY",
+      "section": "A",
+      "instructor": "Anderson,Chris"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2025",
+      "course": "QERM 600",
+      "courseTitle": "INDPENDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2025",
+      "course": "QERM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2025",
+      "course": "QERM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SUM2025",
+      "course": "QERM 600",
+      "courseTitle": "INDPENDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SUM2025",
+      "course": "QERM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SUM2025",
+      "course": "QERM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "AUT2025",
+      "course": "QERM 597",
+      "courseTitle": "SEM QUAN ECOLOGY",
+      "section": "A",
+      "instructor": "Berdahl,Andrew"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "AUT2025",
+      "course": "QERM 600",
+      "courseTitle": "INDPENDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "AUT2025",
+      "course": "QERM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "AUT2025",
+      "course": "QERM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "WIN2026",
+      "course": "QERM 600",
+      "courseTitle": "INDPENDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "WIN2026",
+      "course": "QERM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "WIN2026",
+      "course": "QERM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2026",
+      "course": "QERM 514",
+      "courseTitle": "ANLYS ECOL DATA I",
+      "section": "A",
+      "instructor": "Scheuerell,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2026",
+      "course": "QERM 597",
+      "courseTitle": "SEM QUAN ECOLOGY",
+      "section": "A",
+      "instructor": "Anderson,Chris"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2026",
+      "course": "QERM 600",
+      "courseTitle": "INDPENDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2026",
+      "course": "QERM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quante",
+      "deptName": "Quantitative Ecology and Resource Management",
+      "term": "SPR2026",
+      "course": "QERM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
 }

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Compton%2CBen%20Lee",
+  "professor": "Compton,Ben Lee",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "SPR2023",
+      "course": "COM 376",
+      "courseTitle": "NONVERBAL CMU",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2023",
+      "course": "BIS 178",
+      "courseTitle": "INTRO TO COMM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "AUT2022",
+      "course": "COM 382",
+      "courseTitle": "SOC SCI COMM RSRCH",
+      "section": "B"
+    }
+  ]
+}

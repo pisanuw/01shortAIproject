@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20OCEAN%20101",
+  "course": "S - OCEAN 101",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "WIN2022",
+      "course": "OCEAN 101",
+      "courseTitle": "OCEANOGR PACIFIC NW",
+      "section": "F",
+      "instructor": "Seroy,Sasha"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2020",
+      "course": "OCEAN 101",
+      "courseTitle": "OCEANOGR PACIFIC NW",
+      "section": "B",
+      "instructor": "Nuwer,Mikelle"
+    }
+  ]
+}

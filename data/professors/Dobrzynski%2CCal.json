@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Dobrzynski%2CCal",
+  "professor": "Dobrzynski,Cal",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hcde",
+      "deptName": "Human Centered Design and Engineering",
+      "term": "WIN2025",
+      "course": "HCDE 508",
+      "courseTitle": "VISUAL COMM",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SUM2024",
+      "course": "DESIGN 250",
+      "courseTitle": "VISUALIZING IDEAS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hcde",
+      "deptName": "Human Centered Design and Engineering",
+      "term": "AUT2020",
+      "course": "HCDE 308",
+      "courseTitle": "VISUAL COMM HCDE",
+      "section": "A"
+    }
+  ]
+}

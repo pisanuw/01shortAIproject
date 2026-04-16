@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T15:51:12Z",
+  "generatedAt": "2026-04-16T02:57:09Z",
   "campus": "T",
   "dept": "tcore",
   "deptName": "Core Courses",
@@ -161,8 +161,8 @@
       "term": "AUT2020",
       "course": "T CORE 104",
       "courseTitle": "INTRO TO HUMANITIES",
-      "section": "E",
-      "instructor": "Davenport,Kim"
+      "section": "A",
+      "instructor": "Bandes B. Weingarden,Maria"
     },
     {
       "campus": "T",
@@ -171,8 +171,8 @@
       "term": "AUT2020",
       "course": "T CORE 104",
       "courseTitle": "INTRO TO HUMANITIES",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "E",
+      "instructor": "Davenport,Kim"
     },
     {
       "campus": "T",
@@ -301,6 +301,16 @@
       "term": "WIN2021",
       "course": "T CORE 114",
       "courseTitle": "INTRO HUMANITIES",
+      "section": "B",
+      "instructor": "Bandes B. Weingarden,Maria"
+    },
+    {
+      "campus": "T",
+      "dept": "tcore",
+      "deptName": "Core Courses",
+      "term": "WIN2021",
+      "course": "T CORE 114",
+      "courseTitle": "INTRO HUMANITIES",
       "section": "E",
       "instructor": "Burghart,William"
     },
@@ -331,18 +341,8 @@
       "term": "WIN2021",
       "course": "T CORE 114",
       "courseTitle": "INTRO HUMANITIES",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tcore",
-      "deptName": "Core Courses",
-      "term": "WIN2021",
-      "course": "T CORE 114",
-      "courseTitle": "INTRO HUMANITIES",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Krayenbuhl,Pamela Grenelle"
     },
     {
       "campus": "T",
@@ -591,8 +591,8 @@
       "term": "AUT2021",
       "course": "T CORE 104",
       "courseTitle": "INTRO TO HUMANITIES",
-      "section": "C",
-      "instructor": "Modarres,Andrea"
+      "section": "A",
+      "instructor": "Bandes B. Weingarden,Maria"
     },
     {
       "campus": "T",
@@ -601,8 +601,8 @@
       "term": "AUT2021",
       "course": "T CORE 104",
       "courseTitle": "INTRO TO HUMANITIES",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "Modarres,Andrea"
     },
     {
       "campus": "T",
@@ -1011,6 +1011,16 @@
       "term": "WIN2023",
       "course": "T CORE 101",
       "courseTitle": "INTRO ACADEM WRIT",
+      "section": "L",
+      "instructor": "A Thompson,Riki"
+    },
+    {
+      "campus": "T",
+      "dept": "tcore",
+      "deptName": "Core Courses",
+      "term": "WIN2023",
+      "course": "T CORE 101",
+      "courseTitle": "INTRO ACADEM WRIT",
       "section": "H",
       "instructor": "Chavez,Sarah A"
     },
@@ -1032,16 +1042,6 @@
       "course": "T CORE 101",
       "courseTitle": "INTRO ACADEM WRIT",
       "section": "K",
-      "instructor": "Thompson,Riki"
-    },
-    {
-      "campus": "T",
-      "dept": "tcore",
-      "deptName": "Core Courses",
-      "term": "WIN2023",
-      "course": "T CORE 101",
-      "courseTitle": "INTRO ACADEM WRIT",
-      "section": "L",
       "instructor": "Thompson,Riki"
     },
     {
@@ -1111,8 +1111,8 @@
       "term": "SPR2023",
       "course": "T CORE 101",
       "courseTitle": "INTRO ACADEM WRIT",
-      "section": "D",
-      "instructor": "Disrud,Rebecca A."
+      "section": "B",
+      "instructor": "A Kula,Michael"
     },
     {
       "campus": "T",
@@ -1121,8 +1121,8 @@
       "term": "SPR2023",
       "course": "T CORE 101",
       "courseTitle": "INTRO ACADEM WRIT",
-      "section": "B",
-      "instructor": "Kula,Michael"
+      "section": "D",
+      "instructor": "Disrud,Rebecca A."
     },
     {
       "campus": "T",
@@ -1331,6 +1331,16 @@
       "term": "AUT2023",
       "course": "T CORE 104",
       "courseTitle": "INTRO TO HUMANITIES",
+      "section": "A",
+      "instructor": "Bandes B. Weingarden,Maria"
+    },
+    {
+      "campus": "T",
+      "dept": "tcore",
+      "deptName": "Core Courses",
+      "term": "AUT2023",
+      "course": "T CORE 104",
+      "courseTitle": "INTRO TO HUMANITIES",
       "section": "D",
       "instructor": "Kalikoff,Beth"
     },
@@ -1353,16 +1363,6 @@
       "courseTitle": "INTRO TO HUMANITIES",
       "section": "B",
       "instructor": "Sharkey,Emmett"
-    },
-    {
-      "campus": "T",
-      "dept": "tcore",
-      "deptName": "Core Courses",
-      "term": "AUT2023",
-      "course": "T CORE 104",
-      "courseTitle": "INTRO TO HUMANITIES",
-      "section": "A",
-      "instructor": "TBA"
     },
     {
       "campus": "T",
@@ -1711,6 +1711,16 @@
       "term": "AUT2024",
       "course": "T CORE 104",
       "courseTitle": "INTRO TO HUMANITIES",
+      "section": "C",
+      "instructor": "Bandes B. Weingarden,Maria"
+    },
+    {
+      "campus": "T",
+      "dept": "tcore",
+      "deptName": "Core Courses",
+      "term": "AUT2024",
+      "course": "T CORE 104",
+      "courseTitle": "INTRO TO HUMANITIES",
       "section": "B",
       "instructor": "Chamberlain,Ed"
     },
@@ -1733,16 +1743,6 @@
       "courseTitle": "INTRO TO HUMANITIES",
       "section": "E",
       "instructor": "Machine,Augie"
-    },
-    {
-      "campus": "T",
-      "dept": "tcore",
-      "deptName": "Core Courses",
-      "term": "AUT2024",
-      "course": "T CORE 104",
-      "courseTitle": "INTRO TO HUMANITIES",
-      "section": "C",
-      "instructor": "TBA"
     },
     {
       "campus": "T",
@@ -1931,28 +1931,28 @@
       "term": "AUT2025",
       "course": "T CORE 101",
       "courseTitle": "INTRO ACADEM WRIT",
+      "section": "E",
+      "instructor": "Jones,Ever"
+    },
+    {
+      "campus": "T",
+      "dept": "tcore",
+      "deptName": "Core Courses",
+      "term": "AUT2025",
+      "course": "T CORE 101",
+      "courseTitle": "INTRO ACADEM WRIT",
+      "section": "F",
+      "instructor": "Keown,Kelvin"
+    },
+    {
+      "campus": "T",
+      "dept": "tcore",
+      "deptName": "Core Courses",
+      "term": "AUT2025",
+      "course": "T CORE 101",
+      "courseTitle": "INTRO ACADEM WRIT",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tcore",
-      "deptName": "Core Courses",
-      "term": "AUT2025",
-      "course": "T CORE 101",
-      "courseTitle": "INTRO ACADEM WRIT",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tcore",
-      "deptName": "Core Courses",
-      "term": "AUT2025",
-      "course": "T CORE 101",
-      "courseTitle": "INTRO ACADEM WRIT",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Laux-Bachand,Leanne"
     },
     {
       "campus": "T",
@@ -1962,7 +1962,7 @@
       "course": "T CORE 101",
       "courseTitle": "INTRO ACADEM WRIT",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "MANNING,CORINNE A"
     },
     {
       "campus": "T",
@@ -1971,8 +1971,8 @@
       "term": "AUT2025",
       "course": "T CORE 101",
       "courseTitle": "INTRO ACADEM WRIT",
-      "section": "E",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Martens,Jacob L"
     },
     {
       "campus": "T",
@@ -1981,8 +1981,8 @@
       "term": "AUT2025",
       "course": "T CORE 101",
       "courseTitle": "INTRO ACADEM WRIT",
-      "section": "F",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "Martens,Jacob L"
     },
     {
       "campus": "T",
@@ -1992,7 +1992,7 @@
       "course": "T CORE 102",
       "courseTitle": "INTRO TO SCIENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "An,Yajun"
     },
     {
       "campus": "T",
@@ -2002,17 +2002,7 @@
       "course": "T CORE 102",
       "courseTitle": "INTRO TO SCIENCE",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tcore",
-      "deptName": "Core Courses",
-      "term": "AUT2025",
-      "course": "T CORE 102",
-      "courseTitle": "INTRO TO SCIENCE",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Gawel,Jim"
     },
     {
       "campus": "T",
@@ -2022,7 +2012,17 @@
       "course": "T CORE 102",
       "courseTitle": "INTRO TO SCIENCE",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Lee,Seung-Jin"
+    },
+    {
+      "campus": "T",
+      "dept": "tcore",
+      "deptName": "Core Courses",
+      "term": "AUT2025",
+      "course": "T CORE 102",
+      "courseTitle": "INTRO TO SCIENCE",
+      "section": "C",
+      "instructor": "Skipper,Haley"
     },
     {
       "campus": "T",
@@ -2032,17 +2032,7 @@
       "course": "T CORE 103",
       "courseTitle": "INTRO SOC SCI",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tcore",
-      "deptName": "Core Courses",
-      "term": "AUT2025",
-      "course": "T CORE 104",
-      "courseTitle": "INTRO TO HUMANITIES",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Quizar,Jessi"
     },
     {
       "campus": "T",
@@ -2052,7 +2042,7 @@
       "course": "T CORE 104",
       "courseTitle": "INTRO TO HUMANITIES",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "B.,Dr."
     },
     {
       "campus": "T",
@@ -2062,7 +2052,17 @@
       "course": "T CORE 104",
       "courseTitle": "INTRO TO HUMANITIES",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Modarres,Andrea"
+    },
+    {
+      "campus": "T",
+      "dept": "tcore",
+      "deptName": "Core Courses",
+      "term": "AUT2025",
+      "course": "T CORE 104",
+      "courseTitle": "INTRO TO HUMANITIES",
+      "section": "A",
+      "instructor": "Sharkey,Emmett"
     },
     {
       "campus": "T",
@@ -2082,7 +2082,7 @@
       "course": "T CORE 101",
       "courseTitle": "INTRO ACADEM WRIT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Blair,Nicole"
     },
     {
       "campus": "T",
@@ -2092,17 +2092,7 @@
       "course": "T CORE 101",
       "courseTitle": "INTRO ACADEM WRIT",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tcore",
-      "deptName": "Core Courses",
-      "term": "WIN2026",
-      "course": "T CORE 101",
-      "courseTitle": "INTRO ACADEM WRIT",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Blair,Nicole"
     },
     {
       "campus": "T",
@@ -2112,7 +2102,17 @@
       "course": "T CORE 101",
       "courseTitle": "INTRO ACADEM WRIT",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "MANNING,CORINNE A"
+    },
+    {
+      "campus": "T",
+      "dept": "tcore",
+      "deptName": "Core Courses",
+      "term": "WIN2026",
+      "course": "T CORE 101",
+      "courseTitle": "INTRO ACADEM WRIT",
+      "section": "C",
+      "instructor": "Miller,Alex"
     },
     {
       "campus": "T",
@@ -2122,7 +2122,7 @@
       "course": "T CORE 112",
       "courseTitle": "INTRO SCIENCE",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Schiller,Christopher Micha"
     },
     {
       "campus": "T",
@@ -2132,7 +2132,7 @@
       "course": "T CORE 113",
       "courseTitle": "INTRO SOC SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Laing,Sharon S."
     },
     {
       "campus": "T",
@@ -2142,17 +2142,7 @@
       "course": "T CORE 114",
       "courseTitle": "INTRO HUMANITIES",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tcore",
-      "deptName": "Core Courses",
-      "term": "WIN2026",
-      "course": "T CORE 114",
-      "courseTitle": "INTRO HUMANITIES",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Burghart,William"
     },
     {
       "campus": "T",
@@ -2162,7 +2152,17 @@
       "course": "T CORE 114",
       "courseTitle": "INTRO HUMANITIES",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Chamberlain,Ed"
+    },
+    {
+      "campus": "T",
+      "dept": "tcore",
+      "deptName": "Core Courses",
+      "term": "WIN2026",
+      "course": "T CORE 114",
+      "courseTitle": "INTRO HUMANITIES",
+      "section": "B",
+      "instructor": "Forman,Michael"
     },
     {
       "campus": "T",
@@ -2172,7 +2172,7 @@
       "course": "T CORE 114",
       "courseTitle": "INTRO HUMANITIES",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Krayenbuhl,Pamela"
     },
     {
       "campus": "T",
@@ -2182,7 +2182,7 @@
       "course": "T CORE 101",
       "courseTitle": "INTRO ACADEM WRIT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chon,Ricky"
     },
     {
       "campus": "T",
@@ -2192,7 +2192,7 @@
       "course": "T CORE 101",
       "courseTitle": "INTRO ACADEM WRIT",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Sharkey,Emmett"
     },
     {
       "campus": "T",
@@ -2202,7 +2202,7 @@
       "course": "T CORE 122",
       "courseTitle": "INTRO TO SCIENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Batbaatar,Jigjidsurengiin"
     },
     {
       "campus": "T",
@@ -2212,7 +2212,7 @@
       "course": "T CORE 122",
       "courseTitle": "INTRO TO SCIENCE",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Gawel,Jim"
     },
     {
       "campus": "T",
@@ -2222,7 +2222,7 @@
       "course": "T CORE 123",
       "courseTitle": "INTRO TO SOCIAL SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Laing,Sharon S."
     },
     {
       "campus": "T",
@@ -2232,17 +2232,7 @@
       "course": "T CORE 123",
       "courseTitle": "INTRO TO SOCIAL SCI",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tcore",
-      "deptName": "Core Courses",
-      "term": "SPR2026",
-      "course": "T CORE 124",
-      "courseTitle": "INTRO TO HUMANITIES",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Thompson,Riki"
     },
     {
       "campus": "T",
@@ -2252,7 +2242,17 @@
       "course": "T CORE 124",
       "courseTitle": "INTRO TO HUMANITIES",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Krayenbuhl,Pamela"
+    },
+    {
+      "campus": "T",
+      "dept": "tcore",
+      "deptName": "Core Courses",
+      "term": "SPR2026",
+      "course": "T CORE 124",
+      "courseTitle": "INTRO TO HUMANITIES",
+      "section": "A",
+      "instructor": "Machine,Augie"
     }
   ]
 }

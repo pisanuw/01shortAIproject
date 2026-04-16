@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "A%20Javet%2CVincent",
+  "professor": "A Javet,Vincent",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "landscape",
+      "deptName": "Landscape Architecture",
+      "term": "WIN2026",
+      "course": "L ARCH 402",
+      "courseTitle": "URBAN SITES STUDIO",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "be",
+      "deptName": "Built Environment",
+      "term": "SPR2025",
+      "course": "B E 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "be",
+      "deptName": "Built Environment",
+      "term": "SPR2025",
+      "course": "B E 498",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A"
+    }
+  ]
+}

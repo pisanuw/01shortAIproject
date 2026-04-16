@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "MALIK%2CMANYA",
+  "professor": "MALIK,MANYA",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2024",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2023",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2023",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2022",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "D"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "she.her%2CKaren",
+  "professor": "she.her,Karen",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2021",
+      "course": "DESIGN 581",
+      "courseTitle": "SEMINAR IN DESIGN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "AUT2020",
+      "course": "DESIGN 478",
+      "courseTitle": "INFORMATION DESIGN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "AUT2020",
+      "course": "DESIGN 301",
+      "courseTitle": "CURRENT ISSUES",
+      "section": "A"
+    }
+  ]
+}

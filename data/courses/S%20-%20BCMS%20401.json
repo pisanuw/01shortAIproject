@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:22Z",
+  "id": "S%20-%20BCMS%20401",
+  "course": "S - BCMS 401",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bcms",
+      "deptName": "Bosnian/Croatian/Montenegrin/Serbian",
+      "term": "AUT2024",
+      "course": "BCMS 401",
+      "courseTitle": "YR1 BCMS",
+      "section": "A",
+      "instructor": "Belic,Bojan"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bcms",
+      "deptName": "Bosnian/Croatian/Montenegrin/Serbian",
+      "term": "AUT2022",
+      "course": "BCMS 401",
+      "courseTitle": "YR1 BCMS",
+      "section": "A",
+      "instructor": "Belic,Bojan"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bcms",
+      "deptName": "Bosnian/Croatian/Montenegrin/Serbian",
+      "term": "AUT2020",
+      "course": "BCMS 401",
+      "courseTitle": "YR1 BCMS",
+      "section": "A",
+      "instructor": "Belic,Bojan"
+    }
+  ]
+}

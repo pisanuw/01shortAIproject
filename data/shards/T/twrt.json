@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T15:51:12Z",
+  "generatedAt": "2026-04-16T02:57:10Z",
   "campus": "T",
   "dept": "twrt",
   "deptName": "Writing Instruction",
@@ -1452,7 +1452,7 @@
       "course": "TWRT 364",
       "courseTitle": "FOOD WRITING",
       "section": "A",
-      "instructor": "Chavez,Sarah A"
+      "instructor": "A Chavez,Sarah A"
     },
     {
       "campus": "T",
@@ -1591,8 +1591,8 @@
       "term": "AUT2022",
       "course": "TWRT 120",
       "courseTitle": "ACADEMIC WRITING I",
-      "section": "A",
-      "instructor": "Cardinal,Alison"
+      "section": "B",
+      "instructor": "A Casas,Ruben"
     },
     {
       "campus": "T",
@@ -1601,8 +1601,8 @@
       "term": "AUT2022",
       "course": "TWRT 120",
       "courseTitle": "ACADEMIC WRITING I",
-      "section": "B",
-      "instructor": "Casas,Ruben"
+      "section": "A",
+      "instructor": "Cardinal,Alison"
     },
     {
       "campus": "T",
@@ -2062,7 +2062,7 @@
       "course": "TWRT 200",
       "courseTitle": "INTRO CREATIVE WRIT",
       "section": "A",
-      "instructor": "Kula,Michael"
+      "instructor": "A Kula,Michael"
     },
     {
       "campus": "T",
@@ -3032,7 +3032,7 @@
       "course": "TWRT 389",
       "courseTitle": "NATURE WRITING",
       "section": "A",
-      "instructor": "Bayer,Ellen"
+      "instructor": "A Bayer,Ellen"
     },
     {
       "campus": "T",
@@ -3072,7 +3072,7 @@
       "course": "TWRT 480",
       "courseTitle": "ADV FICTION WRITING",
       "section": "A",
-      "instructor": "Kula,Michael"
+      "instructor": "A Kula,Michael"
     },
     {
       "campus": "T",
@@ -3181,6 +3181,26 @@
       "term": "AUT2024",
       "course": "TWRT 120",
       "courseTitle": "ACADEMIC WRITING I",
+      "section": "D",
+      "instructor": "A Lewis,Daniel"
+    },
+    {
+      "campus": "T",
+      "dept": "twrt",
+      "deptName": "Writing Instruction",
+      "term": "AUT2024",
+      "course": "TWRT 120",
+      "courseTitle": "ACADEMIC WRITING I",
+      "section": "E",
+      "instructor": "A Lewis,Daniel"
+    },
+    {
+      "campus": "T",
+      "dept": "twrt",
+      "deptName": "Writing Instruction",
+      "term": "AUT2024",
+      "course": "TWRT 120",
+      "courseTitle": "ACADEMIC WRITING I",
       "section": "C",
       "instructor": "Crockett,Jessica Dana"
     },
@@ -3193,26 +3213,6 @@
       "courseTitle": "ACADEMIC WRITING I",
       "section": "A",
       "instructor": "Laux-Bachand,Leanne"
-    },
-    {
-      "campus": "T",
-      "dept": "twrt",
-      "deptName": "Writing Instruction",
-      "term": "AUT2024",
-      "course": "TWRT 120",
-      "courseTitle": "ACADEMIC WRITING I",
-      "section": "D",
-      "instructor": "Lewis,Daniel"
-    },
-    {
-      "campus": "T",
-      "dept": "twrt",
-      "deptName": "Writing Instruction",
-      "term": "AUT2024",
-      "course": "TWRT 120",
-      "courseTitle": "ACADEMIC WRITING I",
-      "section": "E",
-      "instructor": "Lewis,Daniel"
     },
     {
       "campus": "T",
@@ -3912,7 +3912,7 @@
       "course": "TWRT 340",
       "courseTitle": "ASIAN AM RHETORICS",
       "section": "A",
-      "instructor": "Miura,Cassie"
+      "instructor": "A Miura,Cassie"
     },
     {
       "campus": "T",
@@ -4082,7 +4082,7 @@
       "course": "TWRT 120",
       "courseTitle": "ACADEMIC WRITING I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Laux-Bachand,Leanne"
     },
     {
       "campus": "T",
@@ -4092,7 +4092,7 @@
       "course": "TWRT 120",
       "courseTitle": "ACADEMIC WRITING I",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Laux-Bachand,Leanne"
     },
     {
       "campus": "T",
@@ -4102,7 +4102,7 @@
       "course": "TWRT 120",
       "courseTitle": "ACADEMIC WRITING I",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Lewis,Daniel"
     },
     {
       "campus": "T",
@@ -4142,7 +4142,7 @@
       "course": "TWRT 211",
       "courseTitle": "ARG & RSRCH IN WRTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lewis,Daniel"
     },
     {
       "campus": "T",
@@ -4182,7 +4182,7 @@
       "course": "TWRT 270",
       "courseTitle": "POETRY WRITNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jones,Ever"
     },
     {
       "campus": "T",
@@ -4341,8 +4341,8 @@
       "term": "WIN2026",
       "course": "TWRT 120",
       "courseTitle": "ACADEMIC WRITING I",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "Lewis,Daniel"
     },
     {
       "campus": "T",
@@ -4351,8 +4351,8 @@
       "term": "WIN2026",
       "course": "TWRT 120",
       "courseTitle": "ACADEMIC WRITING I",
-      "section": "C",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Martens,Jacob L"
     },
     {
       "campus": "T",
@@ -4362,7 +4362,7 @@
       "course": "TWRT 121",
       "courseTitle": "ACADEMIC WRITING II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cardinal,Alison"
     },
     {
       "campus": "T",
@@ -4372,7 +4372,7 @@
       "course": "TWRT 121",
       "courseTitle": "ACADEMIC WRITING II",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Laux-Bachand,Leanne"
     },
     {
       "campus": "T",
@@ -4382,7 +4382,7 @@
       "course": "TWRT 121",
       "courseTitle": "ACADEMIC WRITING II",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Laux-Bachand,Leanne"
     },
     {
       "campus": "T",
@@ -4392,7 +4392,7 @@
       "course": "TWRT 121",
       "courseTitle": "ACADEMIC WRITING II",
       "section": "G",
-      "instructor": "TBA"
+      "instructor": "Lewis,Daniel"
     },
     {
       "campus": "T",
@@ -4452,7 +4452,7 @@
       "course": "TWRT 270",
       "courseTitle": "POETRY WRITNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jones,Ever"
     },
     {
       "campus": "T",
@@ -4462,7 +4462,7 @@
       "course": "TWRT 274",
       "courseTitle": "SPOKEN WORD POETRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jones,Ever"
     },
     {
       "campus": "T",
@@ -4472,7 +4472,7 @@
       "course": "TWRT 280",
       "courseTitle": "FICTION WRITING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "MANNING,CORINNE A"
     },
     {
       "campus": "T",
@@ -4602,17 +4602,7 @@
       "course": "TWRT 487",
       "courseTitle": "ADV CRT NONFICTION",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "twrt",
-      "deptName": "Writing Instruction",
-      "term": "SPR2026",
-      "course": "TWRT 121",
-      "courseTitle": "ACADEMIC WRITING II",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chavez,Sarah A"
     },
     {
       "campus": "T",
@@ -4622,7 +4612,17 @@
       "course": "TWRT 121",
       "courseTitle": "ACADEMIC WRITING II",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Lewis,Daniel"
+    },
+    {
+      "campus": "T",
+      "dept": "twrt",
+      "deptName": "Writing Instruction",
+      "term": "SPR2026",
+      "course": "TWRT 121",
+      "courseTitle": "ACADEMIC WRITING II",
+      "section": "A",
+      "instructor": "Martens,Jacob"
     },
     {
       "campus": "T",
@@ -4642,7 +4642,7 @@
       "course": "TWRT 211",
       "courseTitle": "ARG & RSRCH IN WRTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "A Espina,Tabitha"
     },
     {
       "campus": "T",
@@ -4812,7 +4812,7 @@
       "course": "TWRT 389",
       "courseTitle": "NATURE WRITING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bayer,Ellen"
     },
     {
       "campus": "T",
@@ -4842,7 +4842,7 @@
       "course": "TWRT 470",
       "courseTitle": "ADV POETRY WRITING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jones,Ever"
     },
     {
       "campus": "T",
@@ -4852,7 +4852,7 @@
       "course": "TWRT 480",
       "courseTitle": "ADV FICTION WRITING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "MANNING,CORINNE A"
     }
   ]
 }

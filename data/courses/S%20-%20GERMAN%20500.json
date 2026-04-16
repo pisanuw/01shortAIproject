@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20GERMAN%20500",
+  "course": "S - GERMAN 500",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "germ",
+      "deptName": "German Studies",
+      "term": "AUT2024",
+      "course": "GERMAN 500",
+      "courseTitle": "LIT THEORY & BIBLIO",
+      "section": "A",
+      "instructor": "Groves,Jason"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "germ",
+      "deptName": "German Studies",
+      "term": "AUT2022",
+      "course": "GERMAN 500",
+      "courseTitle": "LIT THEORY & BIBLIO",
+      "section": "A",
+      "instructor": "Groves,Jason"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "germ",
+      "deptName": "German Studies",
+      "term": "WIN2021",
+      "course": "GERMAN 500",
+      "courseTitle": "LIT THEORY & BIBLIO",
+      "section": "A",
+      "instructor": "Groves,Jason"
+    }
+  ]
+}

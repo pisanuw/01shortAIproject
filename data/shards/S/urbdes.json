@@ -1,7 +1,5418 @@
 {
-  "generatedAt": "2026-04-15T16:27:58Z",
+  "generatedAt": "2026-04-16T02:57:13Z",
   "campus": "S",
   "dept": "urbdes",
   "deptName": "Urban Planning",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 404",
+      "courseTitle": "INTRO TO GIS",
+      "section": "A",
+      "instructor": "Choi,Sunho"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 405",
+      "courseTitle": "THE URBAN FORM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 424",
+      "courseTitle": "SITE PLANNING",
+      "section": "A",
+      "instructor": "Abramson,Daniel B"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 466",
+      "courseTitle": "INFRASTRUCTURE PLNG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 480",
+      "courseTitle": "PLNG AS PROFESSION",
+      "section": "A",
+      "instructor": "Blum,Edward D"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Bae,Chang-Hee Christine"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 499",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 500",
+      "courseTitle": "SURVEY OF URB PLAN",
+      "section": "A",
+      "instructor": "Bae,Chang-Hee Christine"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 504",
+      "courseTitle": "INTRO TO GIS",
+      "section": "A",
+      "instructor": "Choi,Sunho"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 505",
+      "courseTitle": "THE URBAN FORM",
+      "section": "A",
+      "instructor": "Chalana,Manish"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 508",
+      "courseTitle": "SPECIAL PLANN LAB",
+      "section": "A",
+      "instructor": "Berney,Rachel E."
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 512",
+      "courseTitle": "RESEARCH SEMINAR",
+      "section": "A",
+      "instructor": "Born,Branden"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 514",
+      "courseTitle": "RACE&SOCIAL JUSTICE",
+      "section": "A",
+      "instructor": "Born,Branden"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 520",
+      "courseTitle": "QUANT METHODS PLAN",
+      "section": "A",
+      "instructor": "Grover,Himanshu"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 524",
+      "courseTitle": "SITE PLANNING",
+      "section": "A",
+      "instructor": "Abramson,Daniel B"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 526",
+      "courseTitle": "FLDPLN MGMT CST&RVR",
+      "section": "A",
+      "instructor": "Freitag,Robert"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 547",
+      "courseTitle": "PROFESSIONAL PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 552",
+      "courseTitle": "INTRO REAL ESTATE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 555",
+      "courseTitle": "RE APPRAISAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 566",
+      "courseTitle": "INFRASTR PLN&FINANCE",
+      "section": "A",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 579",
+      "courseTitle": "R E CAPITAL MARKETS",
+      "section": "A",
+      "instructor": "Stevenson,Simon A W"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 585",
+      "courseTitle": "INTR HST PRESV PLNG",
+      "section": "A",
+      "instructor": "Chalana,Manish"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 591",
+      "courseTitle": "DOCTORAL SMNR I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 593",
+      "courseTitle": "DOCTORAL SMNR III",
+      "section": "A",
+      "instructor": "Shen,Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "Alberti,Marina"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Bae,Chang-Hee Christine"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "Shen,Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "I",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "N",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "S",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "T",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 422",
+      "courseTitle": "GEOSPATIAL ANALYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 480",
+      "courseTitle": "PLNG AS PROFESSION",
+      "section": "A",
+      "instructor": "Blum,Edward David"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 499",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 501",
+      "courseTitle": "COMP PLAN IMPLEMENT",
+      "section": "A",
+      "instructor": "Grover,Himanshu"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 506",
+      "courseTitle": "PLAN STUDIO PREP",
+      "section": "A",
+      "instructor": "Born,Branden"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 510",
+      "courseTitle": "THRY & METH PLAN I",
+      "section": "A",
+      "instructor": "Bae,Chang-Hee Christine"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 514",
+      "courseTitle": "RACE&SOCIAL JUSTICE",
+      "section": "A",
+      "instructor": "Chalana,Manish"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 522",
+      "courseTitle": "GEOSPATIAL ANALYSIS",
+      "section": "A",
+      "instructor": "Alberti,Marina"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 532",
+      "courseTitle": "TPCS TRANSP PLN&PLCY",
+      "section": "A",
+      "instructor": "Shen,Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 538",
+      "courseTitle": "HEALTH BUILT ENVIR",
+      "section": "A",
+      "instructor": "Dannenberg,Andrew L."
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 547",
+      "courseTitle": "PROFESSIONAL PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 549",
+      "courseTitle": "HAZARD MITIGATION",
+      "section": "A",
+      "instructor": "Freitag,Robert"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 552",
+      "courseTitle": "INTRO REAL ESTATE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 554",
+      "courseTitle": "RE FINANCE INVEST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 557",
+      "courseTitle": "REAL ESTATE LAW",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 564",
+      "courseTitle": "PLN HIST THRY ETHICS",
+      "section": "A",
+      "instructor": "Mugerauer,Bob"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 573",
+      "courseTitle": "DIGITAL DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 586",
+      "courseTitle": "IMPLEMENT PRES",
+      "section": "A",
+      "instructor": "MURDOCK,JEFFREY S."
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 592",
+      "courseTitle": "DOCTORAL SMNR II",
+      "section": "A",
+      "instructor": "Purcell,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "F",
+      "instructor": "McCormack,Edward D"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "L",
+      "instructor": "Shen,Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "I",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "J",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2021",
+      "course": "URBDP 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 200",
+      "courseTitle": "INTRO URBANIZATION",
+      "section": "A",
+      "instructor": "Purcell,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 300",
+      "courseTitle": "INTRO TO URBAN PLAN",
+      "section": "A",
+      "instructor": "Grover,Himanshu"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 423",
+      "courseTitle": "INTRO URBAN DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 480",
+      "courseTitle": "PLNG AS PROFESSION",
+      "section": "A",
+      "instructor": "Blum,Edward David"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Waller,Mackenzie"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 499",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 507",
+      "courseTitle": "GEN URB PLAN LAB",
+      "section": "C",
+      "instructor": "Blum,Edward David"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 507",
+      "courseTitle": "GEN URB PLAN LAB",
+      "section": "A",
+      "instructor": "Born,Branden"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 507",
+      "courseTitle": "GEN URB PLAN LAB",
+      "section": "B",
+      "instructor": "COTE,KATHERINE F"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 514",
+      "courseTitle": "RACE&SOCIAL JUSTICE",
+      "section": "A",
+      "instructor": "Chalana,Manish"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 519",
+      "courseTitle": "QUAL RESEARCH MTHDS",
+      "section": "A",
+      "instructor": "Mugerauer,Bob"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 523",
+      "courseTitle": "INTRO URBAN DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 536",
+      "courseTitle": "HLTH IMPACT ASSESS",
+      "section": "A",
+      "instructor": "Dannenberg,Andrew L."
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 547",
+      "courseTitle": "PROFESSIONAL PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 551",
+      "courseTitle": "RE ASSET MGMT",
+      "section": "A",
+      "instructor": "EJ"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 561",
+      "courseTitle": "URB EC & PUBLIC POL",
+      "section": "A",
+      "instructor": "Shen,Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 562",
+      "courseTitle": "NBRHD PLAN&COM DVLP",
+      "section": "A",
+      "instructor": "Conlin,Richard"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 565",
+      "courseTitle": "AMERICAN URBAN HIST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 576",
+      "courseTitle": "PEDESTRIAN TRAVEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 578",
+      "courseTitle": "REAL ESTATE DEVEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 580",
+      "courseTitle": "LEGAL & ADMIN FRAME",
+      "section": "A",
+      "instructor": "Trohimovich,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 596",
+      "courseTitle": "COMMUNITY RESILIENCE",
+      "section": "A",
+      "instructor": "Freitag,Robert"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "F",
+      "instructor": "Alberti,Marina"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "Marsden-Haug,Nicola"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D",
+      "instructor": "Paine,Mitch"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "Shen,Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "J",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "K",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Waller,Mackenzie"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "I",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "M",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2021",
+      "course": "URBDP 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2021",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D",
+      "instructor": "Wagner,Fritz"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2021",
+      "course": "URBDP 499",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2021",
+      "course": "URBDP 547",
+      "courseTitle": "PROFESSIONAL PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "L",
+      "instructor": "Nguyen,Lan T"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "J",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D",
+      "instructor": "Wagner,Fritz"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2021",
+      "course": "URBDP 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2021",
+      "course": "URBDP 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2021",
+      "course": "URBDP 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 404",
+      "courseTitle": "INTRO TO GIS",
+      "section": "A",
+      "instructor": "ABU ASHOUR,LAMIS"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 405",
+      "courseTitle": "THE URBAN FORM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 423",
+      "courseTitle": "INTRO URBAN DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 424",
+      "courseTitle": "SITE PLANNING",
+      "section": "A",
+      "instructor": "Abramson,Daniel B"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 466",
+      "courseTitle": "INFRASTRUCTURE PLNG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 480",
+      "courseTitle": "PLNG AS PROFESSION",
+      "section": "A",
+      "instructor": "Blum,Edward David"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "F",
+      "instructor": "Bae,Chang-Hee Christine"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 499",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 500",
+      "courseTitle": "SURVEY OF URB PLAN",
+      "section": "A",
+      "instructor": "Bae,Chang-Hee Christine"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 504",
+      "courseTitle": "INTRO TO GIS",
+      "section": "A",
+      "instructor": "ABU ASHOUR,LAMIS"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 505",
+      "courseTitle": "THE URBAN FORM",
+      "section": "A",
+      "instructor": "Bicknell,Lyle T"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 508",
+      "courseTitle": "SPECIAL PLANN LAB",
+      "section": "A",
+      "instructor": "Berney,Rachel E."
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 512",
+      "courseTitle": "RESEARCH SEMINAR",
+      "section": "A",
+      "instructor": "Born,Branden"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 514",
+      "courseTitle": "RACE&SOCIAL JUSTICE",
+      "section": "A",
+      "instructor": "Born,Branden"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 520",
+      "courseTitle": "QUANT METHODS PLAN",
+      "section": "A",
+      "instructor": "Grover,Himanshu"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 523",
+      "courseTitle": "INTRO URBAN DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 524",
+      "courseTitle": "SITE PLANNING",
+      "section": "A",
+      "instructor": "Abramson,Daniel B"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 526",
+      "courseTitle": "FLDPLN MGMT CST&RVR",
+      "section": "A",
+      "instructor": "Freitag,Robert"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 547",
+      "courseTitle": "PROFESSIONAL PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 552",
+      "courseTitle": "INTRO REAL ESTATE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 554",
+      "courseTitle": "RE FINANCE INVEST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 564",
+      "courseTitle": "PLN HIST THRY ETHICS",
+      "section": "A",
+      "instructor": "Mugerauer,Bob"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 566",
+      "courseTitle": "INFRASTR PLN&FINANCE",
+      "section": "A",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 578",
+      "courseTitle": "REAL ESTATE DEVEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 585",
+      "courseTitle": "INTR HST PRESV PLNG",
+      "section": "A",
+      "instructor": "Coslett,Daniel E."
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 591",
+      "courseTitle": "DOCTORAL SMNR I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 593",
+      "courseTitle": "DOCTORAL SMNR III",
+      "section": "A",
+      "instructor": "Shen,Q"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "Alberti,M"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "U",
+      "instructor": "Bae,Chang-Hee Christine"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "Shen,Q"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "I",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "N",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "S",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "T",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 422",
+      "courseTitle": "GEOSPATIAL ANALYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 480",
+      "courseTitle": "PLNG AS PROFESSION",
+      "section": "A",
+      "instructor": "Blum,Edward David"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 499",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 501",
+      "courseTitle": "COMP PLAN IMPLEMENT",
+      "section": "A",
+      "instructor": "PIRO,ROCKY E."
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 506",
+      "courseTitle": "PLAN STUDIO PREP",
+      "section": "A",
+      "instructor": "Blum,Edward David"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 514",
+      "courseTitle": "RACE&SOCIAL JUSTICE",
+      "section": "A",
+      "instructor": "Chalana,Manish"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 522",
+      "courseTitle": "GEOSPATIAL ANALYSIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 532",
+      "courseTitle": "TPCS TRANSP PLN&PLCY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 538",
+      "courseTitle": "HEALTH BUILT ENVIR",
+      "section": "A",
+      "instructor": "Dannenberg,Andrew L."
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 547",
+      "courseTitle": "PROFESSIONAL PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 549",
+      "courseTitle": "HAZARD MITIGATION",
+      "section": "A",
+      "instructor": "Freitag,Robert"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 552",
+      "courseTitle": "INTRO REAL ESTATE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 554",
+      "courseTitle": "RE FINANCE INVEST",
+      "section": "A",
+      "instructor": "EJ"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 557",
+      "courseTitle": "REAL ESTATE LAW",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 573",
+      "courseTitle": "DIGITAL DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 579",
+      "courseTitle": "R E CAPITAL MARKETS",
+      "section": "A",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 586",
+      "courseTitle": "IMPLEMENT PRES",
+      "section": "A",
+      "instructor": "Taylor,Holly A."
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 592",
+      "courseTitle": "DOCTORAL SMNR II",
+      "section": "A",
+      "instructor": "Purcell,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "F",
+      "instructor": "Avery,Ryan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "L",
+      "instructor": "Shen,Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "I",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "J",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
+      "course": "URBDP 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 200",
+      "courseTitle": "INTRO URBANIZATION",
+      "section": "A",
+      "instructor": "Purcell,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 300",
+      "courseTitle": "INTRO TO URBAN PLAN",
+      "section": "A",
+      "instructor": "Taylor,Maria C."
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 480",
+      "courseTitle": "PLNG AS PROFESSION",
+      "section": "A",
+      "instructor": "J Blum,Edward David"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "F",
+      "instructor": "Alberti,Marina"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Cantu,Ariana"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 499",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 507",
+      "courseTitle": "GEN URB PLAN LAB",
+      "section": "C",
+      "instructor": "Blum,Edward David"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 507",
+      "courseTitle": "GEN URB PLAN LAB",
+      "section": "B",
+      "instructor": "Cote,Katie"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 507",
+      "courseTitle": "GEN URB PLAN LAB",
+      "section": "A",
+      "instructor": "Sepler,Richard"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 513",
+      "courseTitle": "DEVELOPMENT STUDIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 519",
+      "courseTitle": "QUAL RESEARCH MTHDS",
+      "section": "A",
+      "instructor": "Harris,Gregory Keith"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 524",
+      "courseTitle": "SITE PLANNING",
+      "section": "A",
+      "instructor": "Abramson,Daniel B"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 536",
+      "courseTitle": "HLTH IMPACT ASSESS",
+      "section": "A",
+      "instructor": "Dannenberg,Andrew L."
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 547",
+      "courseTitle": "PROFESSIONAL PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 555",
+      "courseTitle": "RE APPRAISAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 561",
+      "courseTitle": "URB EC & PUBLIC POL",
+      "section": "A",
+      "instructor": "Shen,Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 562",
+      "courseTitle": "NBRHD PLAN&COM DVLP",
+      "section": "A",
+      "instructor": "Conlin,Richard"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 576",
+      "courseTitle": "PEDESTRIAN TRAVEL",
+      "section": "A",
+      "instructor": "B Berney,Rachel E."
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 578",
+      "courseTitle": "REAL ESTATE DEVEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 580",
+      "courseTitle": "LEGAL & ADMIN FRAME",
+      "section": "A",
+      "instructor": "Trohimovich,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 596",
+      "courseTitle": "COMMUNITY RESILIENCE",
+      "section": "A",
+      "instructor": "Freitag,Robert"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "F",
+      "instructor": "Alberti,Marina"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "N",
+      "instructor": "Alberti,Marina"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "Marsden-Haug,Nicola"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Owen,John"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D",
+      "instructor": "Paine,Mitch"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "Shen,Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "I",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "M",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2022",
+      "course": "URBDP 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2022",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D",
+      "instructor": "Nguyen,Lan T"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2022",
+      "course": "URBDP 499",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2022",
+      "course": "URBDP 547",
+      "courseTitle": "PROFESSIONAL PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "J",
+      "instructor": "Benson,Chuck"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "L",
+      "instructor": "Born,Branden"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Mayer,Curry"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "H",
+      "instructor": "Nguyen,Lan T"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "Sun,Feiyang"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2022",
+      "course": "URBDP 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2022",
+      "course": "URBDP 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2022",
+      "course": "URBDP 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 404",
+      "courseTitle": "INTRO TO GIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 404",
+      "courseTitle": "INTRO TO GIS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 423",
+      "courseTitle": "INTRO URBAN DESIGN",
+      "section": "A",
+      "instructor": "Abramson,Daniel B"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 466",
+      "courseTitle": "INFRASTRUCTURE PLNG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 480",
+      "courseTitle": "PLNG AS PROFESSION",
+      "section": "A",
+      "instructor": "Blum,Edward David"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "Abunaja,Michelle"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "F",
+      "instructor": "Bae,Chang-Hee Christine"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "C Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Chalana,Manish"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 499",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 500",
+      "courseTitle": "SURVEY OF URB PLAN",
+      "section": "A",
+      "instructor": "Bae,Chang-Hee Christine"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 504",
+      "courseTitle": "INTRO TO GIS",
+      "section": "B",
+      "instructor": "F Jung,Meen Chel"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 504",
+      "courseTitle": "INTRO TO GIS",
+      "section": "A",
+      "instructor": "F LI,YUQI"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 508",
+      "courseTitle": "SPECIAL PLANN LAB",
+      "section": "A",
+      "instructor": "Berney,Rachel E."
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 512",
+      "courseTitle": "RESEARCH SEMINAR",
+      "section": "A",
+      "instructor": "Born,Branden"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 514",
+      "courseTitle": "RACE&SOCIAL JUSTICE",
+      "section": "A",
+      "instructor": "Abunaja,Michelle"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 520",
+      "courseTitle": "QUANT METHODS PLAN",
+      "section": "A",
+      "instructor": "Grover,Himanshu"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 523",
+      "courseTitle": "INTRO URBAN DESIGN",
+      "section": "A",
+      "instructor": "Abramson,Daniel B"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 526",
+      "courseTitle": "FLDPLN MGMT CST&RVR",
+      "section": "A",
+      "instructor": "Freitag,Robert"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 547",
+      "courseTitle": "PROFESSIONAL PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 552",
+      "courseTitle": "INTRO REAL ESTATE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 554",
+      "courseTitle": "RE FINANCE INVEST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 564",
+      "courseTitle": "PLN HIST THRY ETHICS",
+      "section": "A",
+      "instructor": "Harris,Gregory Keith"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 566",
+      "courseTitle": "INFRASTR PLN&FINANCE",
+      "section": "A",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 585",
+      "courseTitle": "INTR HST PRESV PLNG",
+      "section": "A",
+      "instructor": "MORTENSEN,JENNIFER L"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 591",
+      "courseTitle": "DOCTORAL SMNR I",
+      "section": "A",
+      "instructor": "Alberti,Marina"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 593",
+      "courseTitle": "DOCTORAL SMNR III",
+      "section": "A",
+      "instructor": "Shen,Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "F",
+      "instructor": "Abunaja,Michelle"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "Alberti,Marina"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "U",
+      "instructor": "Bae,Chang-Hee Christine"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D",
+      "instructor": "Berney,Rachel E."
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "N",
+      "instructor": "C Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Chalana,Manish"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "Shen,Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "I",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "S",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "T",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 422",
+      "courseTitle": "GEOSPATIAL ANALYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 480",
+      "courseTitle": "PLNG AS PROFESSION",
+      "section": "A",
+      "instructor": "O'Neill,Kevin J"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Bae,Chang-Hee Christine"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 499",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 501",
+      "courseTitle": "COMP PLAN IMPLEMENT",
+      "section": "A",
+      "instructor": "Grover,Himanshu"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 505",
+      "courseTitle": "THE URBAN FORM",
+      "section": "A",
+      "instructor": "Chalana,Manish"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 506",
+      "courseTitle": "PLAN STUDIO PREP",
+      "section": "A",
+      "instructor": "Born,Branden"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 514",
+      "courseTitle": "RACE&SOCIAL JUSTICE",
+      "section": "A",
+      "instructor": "J Born,Branden"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 522",
+      "courseTitle": "GEOSPATIAL ANALYSIS",
+      "section": "A",
+      "instructor": "F Jung,Meen Chel"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 538",
+      "courseTitle": "HEALTH BUILT ENVIR",
+      "section": "A",
+      "instructor": "Dannenberg,Andrew L."
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 547",
+      "courseTitle": "PROFESSIONAL PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 549",
+      "courseTitle": "HAZARD MITIGATION",
+      "section": "A",
+      "instructor": "Hertzfeld,Amanda Cecilia"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 552",
+      "courseTitle": "INTRO REAL ESTATE",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 554",
+      "courseTitle": "RE FINANCE INVEST",
+      "section": "A",
+      "instructor": "Leung,Keith"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 573",
+      "courseTitle": "DIGITAL DESIGN",
+      "section": "A",
+      "instructor": "desanto,rich"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 586",
+      "courseTitle": "IMPLEMENT PRES",
+      "section": "A",
+      "instructor": "Taylor,Holly"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "K",
+      "instructor": "Alberti,Marina"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Bae,Chang-Hee Christine"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "H",
+      "instructor": "Sepler,Richard"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "J",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 200",
+      "courseTitle": "INTRO URBANIZATION",
+      "section": "A",
+      "instructor": "Harris,Gregory Keith"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 300",
+      "courseTitle": "INTRO TO URBAN PLAN",
+      "section": "A",
+      "instructor": "Grover,Himanshu"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 370",
+      "courseTitle": "READING THE CITY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 424",
+      "courseTitle": "SITE PLANNING",
+      "section": "A",
+      "instructor": "Abramson,Daniel B"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 480",
+      "courseTitle": "PLNG AS PROFESSION",
+      "section": "A",
+      "instructor": "Blum,Edward David"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Cantu,Ariana"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D",
+      "instructor": "Whittington,J"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "Whittington,J"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 499",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 507",
+      "courseTitle": "GEN URB PLAN LAB",
+      "section": "A",
+      "instructor": "Blum,Edward David"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 507",
+      "courseTitle": "GEN URB PLAN LAB",
+      "section": "D",
+      "instructor": "Born,Branden"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 507",
+      "courseTitle": "GEN URB PLAN LAB",
+      "section": "B",
+      "instructor": "Cote,Katie"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 507",
+      "courseTitle": "GEN URB PLAN LAB",
+      "section": "C",
+      "instructor": "Purcell,Arlyn"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 513",
+      "courseTitle": "DEVELOPMENT STUDIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 514",
+      "courseTitle": "RACE&SOCIAL JUSTICE",
+      "section": "A",
+      "instructor": "Born,Branden"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 518",
+      "courseTitle": "QUAL METHODS PLAN",
+      "section": "A",
+      "instructor": "Stevenson,Dylan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 524",
+      "courseTitle": "SITE PLANNING",
+      "section": "A",
+      "instructor": "Abramson,Daniel B"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 536",
+      "courseTitle": "HLTH IMPACT ASSESS",
+      "section": "A",
+      "instructor": "Dannenberg,Andrew L."
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 547",
+      "courseTitle": "PROFESSIONAL PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 555",
+      "courseTitle": "RE APPRAISAL",
+      "section": "A",
+      "instructor": "Overland,T"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 561",
+      "courseTitle": "URB EC & PUBLIC POL",
+      "section": "A",
+      "instructor": "Shen,Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 562",
+      "courseTitle": "NBRHD PLAN&COM DVLP",
+      "section": "A",
+      "instructor": "Conlin,Richard"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 565",
+      "courseTitle": "AMERICAN URBAN HIST",
+      "section": "A",
+      "instructor": "Chalana,Manish"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 578",
+      "courseTitle": "REAL ESTATE DEVEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 580",
+      "courseTitle": "LEGAL & ADMIN FRAME",
+      "section": "A",
+      "instructor": "Trohimovich,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 596",
+      "courseTitle": "COMMUNITY RESILIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "F",
+      "instructor": "Alberti,Marina"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "N",
+      "instructor": "Alberti,Marina"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Cantu,Ariana"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "Shen,Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "J",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "I",
+      "instructor": "Whittington,J"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "M",
+      "instructor": "Whittington,J"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2023",
+      "course": "URBDP 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2023",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2023",
+      "course": "URBDP 499",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2023",
+      "course": "URBDP 547",
+      "courseTitle": "PROFESSIONAL PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "J",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "L",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "M",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2023",
+      "course": "URBDP 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2023",
+      "course": "URBDP 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2023",
+      "course": "URBDP 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 404",
+      "courseTitle": "INTRO TO GIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 404",
+      "courseTitle": "INTRO TO GIS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 423",
+      "courseTitle": "INTRO URBAN DESIGN",
+      "section": "A",
+      "instructor": "Abramson,Daniel B"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 466",
+      "courseTitle": "INFRASTRUCTURE PLNG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 480",
+      "courseTitle": "PLNG AS PROFESSION",
+      "section": "A",
+      "instructor": "Blum,Edward David"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 499",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 500",
+      "courseTitle": "SURVEY OF URB PLAN",
+      "section": "A",
+      "instructor": "Bae,Chang-Hee Christine"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 504",
+      "courseTitle": "INTRO TO GIS",
+      "section": "B",
+      "instructor": "F Grosser,Matt"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 504",
+      "courseTitle": "INTRO TO GIS",
+      "section": "A",
+      "instructor": "F Tobey,Chelle"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 508",
+      "courseTitle": "SPECIAL PLANN LAB",
+      "section": "A",
+      "instructor": "Berney,Rachel E."
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 512",
+      "courseTitle": "RESEARCH SEMINAR",
+      "section": "A",
+      "instructor": "Born,Branden"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 513",
+      "courseTitle": "DEVELOPMENT STUDIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 514",
+      "courseTitle": "RACE&SOCIAL JUSTICE",
+      "section": "A",
+      "instructor": "Born,Branden"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 520",
+      "courseTitle": "QUANT METHODS PLAN",
+      "section": "A",
+      "instructor": "Grover,Himanshu"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 523",
+      "courseTitle": "INTRO URBAN DESIGN",
+      "section": "A",
+      "instructor": "Abramson,Daniel B"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 526",
+      "courseTitle": "FLDPLN MGMT CST&RVR",
+      "section": "A",
+      "instructor": "Freitag,Robert"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 527",
+      "courseTitle": "URB HIST/FRM/THRY I",
+      "section": "A",
+      "instructor": "Chalana,Manish"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 547",
+      "courseTitle": "PROFESSIONAL PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 552",
+      "courseTitle": "INTRO REAL ESTATE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 554",
+      "courseTitle": "RE FINANCE INVEST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 566",
+      "courseTitle": "INFRASTR PLN&FINANCE",
+      "section": "A",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 585",
+      "courseTitle": "INTR HST PRESV PLNG",
+      "section": "A",
+      "instructor": "Chalana,Manish"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 591",
+      "courseTitle": "DOCTORAL SMNR I",
+      "section": "A",
+      "instructor": "Alberti,Marina"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 593",
+      "courseTitle": "DOCTORAL SMNR III",
+      "section": "A",
+      "instructor": "Shen,Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "Alberti,Marina"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "O",
+      "instructor": "Alberti,Marina"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "Shen,Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "I",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "L",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "S",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "T",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "N",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 422",
+      "courseTitle": "GEOSPATIAL ANALYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 480",
+      "courseTitle": "PLNG AS PROFESSION",
+      "section": "A",
+      "instructor": "O'Neill,Kevin J"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Bae,Chang-Hee Christine"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 499",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 501",
+      "courseTitle": "COMP PLAN IMPLEMENT",
+      "section": "A",
+      "instructor": "Grover,Himanshu"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 506",
+      "courseTitle": "PLAN STUDIO PREP",
+      "section": "A",
+      "instructor": "Harris,Gregory Keith"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 514",
+      "courseTitle": "RACE&SOCIAL JUSTICE",
+      "section": "A",
+      "instructor": "J Born,Branden"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 522",
+      "courseTitle": "GEOSPATIAL ANALYSIS",
+      "section": "A",
+      "instructor": "F Tobey,Chelle"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 528",
+      "courseTitle": "URB HIST/FRM/THRY II",
+      "section": "A",
+      "instructor": "Purcell,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 532",
+      "courseTitle": "TPCS TRANSP PLN&PLCY",
+      "section": "A",
+      "instructor": "Shen,Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 538",
+      "courseTitle": "HEALTH BUILT ENVIR",
+      "section": "A",
+      "instructor": "Dannenberg,Andrew L."
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 539",
+      "courseTitle": "INTRO INDIG PLNG",
+      "section": "A",
+      "instructor": "Stevenson,Dylan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 547",
+      "courseTitle": "PROFESSIONAL PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 549",
+      "courseTitle": "HAZARD MITIGATION",
+      "section": "A",
+      "instructor": "Mayer,Curry"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 552",
+      "courseTitle": "INTRO REAL ESTATE",
+      "section": "A",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 554",
+      "courseTitle": "RE FINANCE INVEST",
+      "section": "A",
+      "instructor": "Leung,Keith"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 557",
+      "courseTitle": "REAL ESTATE LAW",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 573",
+      "courseTitle": "DIGITAL DESIGN",
+      "section": "A",
+      "instructor": "desanto,rich"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 586",
+      "courseTitle": "IMPLEMENT PRES",
+      "section": "A",
+      "instructor": "Taylor,Holly"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 592",
+      "courseTitle": "DOCTORAL SMNR II",
+      "section": "A",
+      "instructor": "Purcell,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "P",
+      "instructor": "Alberti,Marina"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Bae,Chang-Hee Christine"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "Q",
+      "instructor": "Daniel,Mark J"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "J",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 200",
+      "courseTitle": "INTRO URBANIZATION",
+      "section": "A",
+      "instructor": "Purcell,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 300",
+      "courseTitle": "INTRO TO URBAN PLAN",
+      "section": "A",
+      "instructor": "Grover,Himanshu"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 370",
+      "courseTitle": "READING THE CITY",
+      "section": "A",
+      "instructor": "Harris,Gregory Keith"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 424",
+      "courseTitle": "SITE PLANNING",
+      "section": "A",
+      "instructor": "Abramson,Daniel B"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 480",
+      "courseTitle": "PLNG AS PROFESSION",
+      "section": "A",
+      "instructor": "Blum,Edward David"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Alberti,Marina"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "F",
+      "instructor": "Chen,Karen Tzu-Hsin"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 499",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 507",
+      "courseTitle": "GEN URB PLAN LAB",
+      "section": "A",
+      "instructor": "Blum,Edward David"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 507",
+      "courseTitle": "GEN URB PLAN LAB",
+      "section": "D",
+      "instructor": "C Cote,Katie"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 507",
+      "courseTitle": "GEN URB PLAN LAB",
+      "section": "C",
+      "instructor": "Nesse,Kate"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 507",
+      "courseTitle": "GEN URB PLAN LAB",
+      "section": "B",
+      "instructor": "Stevenson,Dylan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 514",
+      "courseTitle": "RACE&SOCIAL JUSTICE",
+      "section": "A",
+      "instructor": "J Born,Branden"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 516",
+      "courseTitle": "RE MARKET ANALYSIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 518",
+      "courseTitle": "QUAL METHODS PLAN",
+      "section": "A",
+      "instructor": "Stevenson,Dylan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 524",
+      "courseTitle": "SITE PLANNING",
+      "section": "A",
+      "instructor": "Abramson,Daniel B"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 533",
+      "courseTitle": "SUSTN TRNSPT & ENVIR",
+      "section": "A",
+      "instructor": "Bae,Chang-Hee Christine"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 534",
+      "courseTitle": "ENVIRO PLANNING",
+      "section": "A",
+      "instructor": "Alberti,Marina"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 536",
+      "courseTitle": "HLTH IMPACT ASSESS",
+      "section": "A",
+      "instructor": "Dannenberg,Andrew L."
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 547",
+      "courseTitle": "PROFESSIONAL PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 561",
+      "courseTitle": "URB EC & PUBLIC POL",
+      "section": "A",
+      "instructor": "Shen,Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 563",
+      "courseTitle": "CLIMATE CHG & INFR",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 569",
+      "courseTitle": "PUBLIC HLTH SYSTEMS",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 576",
+      "courseTitle": "PEDESTRIAN TRAVEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 580",
+      "courseTitle": "LEGAL & ADMIN FRAME",
+      "section": "A",
+      "instructor": "Trohimovich,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 596",
+      "courseTitle": "COMMUNITY RESILIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D",
+      "instructor": "Alberti,Marina"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "G",
+      "instructor": "Chen,Karen Tzu-Hsin"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "Shen,Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "I",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "M",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SPR2024",
+      "course": "URBDP 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2024",
+      "course": "URBDP 499",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2024",
+      "course": "URBDP 508",
+      "courseTitle": "SPECIAL PLANN LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2024",
+      "course": "URBDP 547",
+      "courseTitle": "PROFESSIONAL PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2024",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2024",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2024",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "J",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2024",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "L",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2024",
+      "course": "URBDP 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2024",
+      "course": "URBDP 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2024",
+      "course": "URBDP 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 200",
+      "courseTitle": "INTRO URBANIZATION",
+      "section": "A",
+      "instructor": "Purcell,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 404",
+      "courseTitle": "INTRO TO GIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 423",
+      "courseTitle": "INTRO URBAN DESIGN",
+      "section": "A",
+      "instructor": "Bicknell,Lyle T"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 466",
+      "courseTitle": "INFRASTRUCTURE PLNG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 480",
+      "courseTitle": "PLNG AS PROFESSION",
+      "section": "A",
+      "instructor": "Blum,Edward David"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 499",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 500",
+      "courseTitle": "SURVEY OF URB PLAN",
+      "section": "A",
+      "instructor": "Bae,Chang-Hee Christine"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 504",
+      "courseTitle": "INTRO TO GIS",
+      "section": "A",
+      "instructor": "Chen,Karen Tzu-Hsin"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 508",
+      "courseTitle": "SPECIAL PLANN LAB",
+      "section": "A",
+      "instructor": "Berney,Rachel E."
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 508",
+      "courseTitle": "SPECIAL PLANN LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 512",
+      "courseTitle": "RESEARCH SEMINAR",
+      "section": "A",
+      "instructor": "Born,Branden"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 514",
+      "courseTitle": "RACE&SOCIAL JUSTICE",
+      "section": "A",
+      "instructor": "Berney,Rachel E."
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 518",
+      "courseTitle": "QUAL METHODS PLAN",
+      "section": "A",
+      "instructor": "J Stevenson,Dylan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 520",
+      "courseTitle": "QUANT METHODS PLAN",
+      "section": "A",
+      "instructor": "Hochstatter,Kirk"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 523",
+      "courseTitle": "INTRO URBAN DESIGN",
+      "section": "A",
+      "instructor": "Bicknell,Lyle T"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 526",
+      "courseTitle": "FLDPLN MGMT CST&RVR",
+      "section": "A",
+      "instructor": "Paine,Mitch"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 527",
+      "courseTitle": "URB HIST/FRM/THRY I",
+      "section": "A",
+      "instructor": "Chalana,Manish"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 547",
+      "courseTitle": "PROFESSIONAL PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 552",
+      "courseTitle": "INTRO REAL ESTATE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 554",
+      "courseTitle": "RE FINANCE INVEST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 566",
+      "courseTitle": "INFRASTR PLN&FINANCE",
+      "section": "A",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 581",
+      "courseTitle": "INTRO TO INFRA SYST",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 582",
+      "courseTitle": "ENERGY SYSTEMS",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 583",
+      "courseTitle": "RISK ASSMT BUS CONT",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 584",
+      "courseTitle": "WATER SYSTEMS",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 585",
+      "courseTitle": "INTR HST PRESV PLNG",
+      "section": "A",
+      "instructor": "Chalana,Manish"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 591",
+      "courseTitle": "DOCTORAL SMNR I",
+      "section": "A",
+      "instructor": "J Alberti,Marina"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 593",
+      "courseTitle": "DOCTORAL SMNR III",
+      "section": "A",
+      "instructor": "Shen,Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "O",
+      "instructor": "Alberti,Marina"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "J Alberti,Marina"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "Shen,Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "N",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 422",
+      "courseTitle": "GEOSPATIAL ANALYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 480",
+      "courseTitle": "PLNG AS PROFESSION",
+      "section": "A",
+      "instructor": "CARR,CHRISTIANA H."
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "F",
+      "instructor": "Chen,Karen Tzu-Hsin"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "Purcell,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 499",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 501",
+      "courseTitle": "COMP PLAN IMPLEMENT",
+      "section": "A",
+      "instructor": "Tobey,Chelle"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 506",
+      "courseTitle": "PLAN STUDIO PREP",
+      "section": "A",
+      "instructor": "Harris,Gregory Keith"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 514",
+      "courseTitle": "RACE/SOCIAL JST SMNR",
+      "section": "A",
+      "instructor": "Abunaja,Michelle"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 522",
+      "courseTitle": "GEOSPATIAL ANALYSIS",
+      "section": "A",
+      "instructor": "F Liu,Ziyang"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 528",
+      "courseTitle": "URB HIST/FRM/THRY II",
+      "section": "A",
+      "instructor": "Purcell,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 538",
+      "courseTitle": "HEALTH BUILT ENVIR",
+      "section": "A",
+      "instructor": "Dannenberg,Andrew L."
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 539",
+      "courseTitle": "INTRO INDIG PLNG",
+      "section": "A",
+      "instructor": "Stevenson,Dylan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 547",
+      "courseTitle": "PROFESSIONAL PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 549",
+      "courseTitle": "HAZARD MITIGATION",
+      "section": "A",
+      "instructor": "Mayer,Curry"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 552",
+      "courseTitle": "INTRO REAL ESTATE",
+      "section": "A",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 573",
+      "courseTitle": "DIGITAL DESIGN",
+      "section": "A",
+      "instructor": "Butler,Shaunta"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 586",
+      "courseTitle": "IMPLEMENT PRES",
+      "section": "A",
+      "instructor": "Gray,Connie"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "M",
+      "instructor": "Campbell,Christopher"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "K",
+      "instructor": "Chen,Karen Tzu-Hsin"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "H",
+      "instructor": "Daniel,Mark J"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "G",
+      "instructor": "J PINEO,HELEN"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "I",
+      "instructor": "Purcell,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "N",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "J",
+      "instructor": "Whittington,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
 }

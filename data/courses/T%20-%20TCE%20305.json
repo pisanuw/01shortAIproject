@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:25Z",
+  "id": "T%20-%20TCE%20305",
+  "course": "T - TCE 305",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tce",
+      "deptName": "Civil Engineering",
+      "term": "AUT2025",
+      "course": "TCE 305",
+      "courseTitle": "COMP AID DES CIV ENG",
+      "section": "A",
+      "instructor": "Almeida,Nara"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tce",
+      "deptName": "Civil Engineering",
+      "term": "WIN2025",
+      "course": "TCE 305",
+      "courseTitle": "COMP AID DES CIV ENG",
+      "section": "A",
+      "instructor": "Almeida,Nara"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tce",
+      "deptName": "Civil Engineering",
+      "term": "WIN2024",
+      "course": "TCE 305",
+      "courseTitle": "COMP AID DES CIV ENG",
+      "section": "A",
+      "instructor": "Almeida,Nara"
+    }
+  ]
+}

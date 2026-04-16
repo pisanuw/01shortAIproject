@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20PHIL%20456",
+  "course": "S - PHIL 456",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "SPR2022",
+      "course": "PHIL 456",
+      "courseTitle": "METAPHYSICS",
+      "section": "A",
+      "instructor": "Fisher,Anthony"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "SPR2021",
+      "course": "PHIL 456",
+      "courseTitle": "METAPHYSICS",
+      "section": "A",
+      "instructor": "Fisher,Anthony"
+    }
+  ]
+}

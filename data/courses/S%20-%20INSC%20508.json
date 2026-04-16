@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20INSC%20508",
+  "course": "S - INSC 508",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "insc",
+      "deptName": "Information Science",
+      "term": "SPR2025",
+      "course": "INSC 508",
+      "courseTitle": "READING SEMINAR",
+      "section": "A",
+      "instructor": "Lee,Jin Ha"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "insc",
+      "deptName": "Information Science",
+      "term": "SPR2024",
+      "course": "INSC 508",
+      "courseTitle": "READING SEMINAR",
+      "section": "A",
+      "instructor": "Lee,Jin Ha"
+    }
+  ]
+}

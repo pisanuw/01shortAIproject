@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Werk%2CJ",
+  "professor": "Werk,J",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "astro",
+      "deptName": "Astronomy",
+      "term": "SPR2023",
+      "course": "ASTR 270",
+      "courseTitle": "PUBLIC OUTRCH ASTRO",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "astro",
+      "deptName": "Astronomy",
+      "term": "WIN2023",
+      "course": "ASTR 497",
+      "courseTitle": "TOPICS IN ASTRONOMY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "astro",
+      "deptName": "Astronomy",
+      "term": "WIN2023",
+      "course": "ASTR 323",
+      "courseTitle": "EXTN GALAXIES COSM",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Bretland%2CDean",
+  "professor": "Bretland,Dean",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "WIN2026",
+      "course": "PHYS 115",
+      "courseTitle": "HEAT FLUIDS E&M",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "AUT2025",
+      "course": "PHYS 115",
+      "courseTitle": "HEAT FLUIDS E&M",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "SUM2025",
+      "course": "PHYS 122",
+      "courseTitle": "ELECTROMAGNETISM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "SPR2025",
+      "course": "PHYS 122",
+      "courseTitle": "ELECTROMAGNETISM",
+      "section": "A"
+    }
+  ]
+}

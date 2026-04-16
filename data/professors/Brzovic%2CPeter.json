@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Brzovic%2CPeter",
+  "professor": "Brzovic,Peter",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioch",
+      "deptName": "Biochemistry",
+      "term": "SPR2022",
+      "course": "BIOC 406",
+      "courseTitle": "INTRO TO BIOCHEM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioch",
+      "deptName": "Biochemistry",
+      "term": "SPR2021",
+      "course": "BIOC 406",
+      "courseTitle": "INTRO TO BIOCHEM",
+      "section": "A"
+    }
+  ]
+}

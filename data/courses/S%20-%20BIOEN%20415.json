@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-04-16T02:57:22Z",
+  "id": "S%20-%20BIOEN%20415",
+  "course": "S - BIOEN 415",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "AUT2025",
+      "course": "BIOEN 415",
+      "courseTitle": "BIOCONJ",
+      "section": "A",
+      "instructor": "Gao,Xiaohu"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "AUT2024",
+      "course": "BIOEN 415",
+      "courseTitle": "BIOCONJ",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Kunke%2CJess",
+  "professor": "Kunke,Jess",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2024",
+      "course": "STAT 302",
+      "courseTitle": "STAT COMPUTING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2022",
+      "course": "STAT 394",
+      "courseTitle": "PROBABILITY I",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2022",
+      "course": "MATH 394",
+      "courseTitle": "PROBABILITY I",
+      "section": "A"
+    }
+  ]
+}

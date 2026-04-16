@@ -1,7 +1,1588 @@
 {
-  "generatedAt": "2026-04-15T16:27:57Z",
+  "generatedAt": "2026-04-16T02:57:12Z",
   "campus": "S",
   "dept": "persian",
   "deptName": "Persian",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2020",
+      "course": "PRSAN 101",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "Shams,S"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2020",
+      "course": "PRSAN 201",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "Shams,S"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2020",
+      "course": "PRSAN 403",
+      "courseTitle": "MODERN PERSIAN LIT",
+      "section": "A",
+      "instructor": "Fani,Aria"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2020",
+      "course": "PRSAN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2020",
+      "course": "PRSAN 496",
+      "courseTitle": "SPEC STUDY PERSIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2020",
+      "course": "PRSAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2020",
+      "course": "PRSAN 511",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "Shams,S"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2020",
+      "course": "PRSAN 521",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "Shams,S"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2020",
+      "course": "PRSAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2021",
+      "course": "PRSAN 102",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2021",
+      "course": "PRSAN 202",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2021",
+      "course": "PRSAN 455",
+      "courseTitle": "THE PERSIAN GHAZAL",
+      "section": "A",
+      "instructor": "Fani,Aria"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2021",
+      "course": "PRSAN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2021",
+      "course": "PRSAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2021",
+      "course": "PRSAN 512",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2021",
+      "course": "PRSAN 522",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2021",
+      "course": "PRSAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2021",
+      "course": "PRSAN 103",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "Shams,S"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2021",
+      "course": "PRSAN 203",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2021",
+      "course": "PRSAN 405",
+      "courseTitle": "MEDIA PERSIAN",
+      "section": "A",
+      "instructor": "Samini,Naghmeh"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2021",
+      "course": "PRSAN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2021",
+      "course": "PRSAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2021",
+      "course": "PRSAN 513",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "Shams,S"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2021",
+      "course": "PRSAN 523",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2021",
+      "course": "PRSAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SUM2021",
+      "course": "PRSAN 105",
+      "courseTitle": "INTENS ELEM PRSAN",
+      "section": "A",
+      "instructor": "Shams,S"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SUM2021",
+      "course": "PRSAN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SUM2021",
+      "course": "PRSAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SUM2021",
+      "course": "PRSAN 515",
+      "courseTitle": "INTENS ELEM PERSAN",
+      "section": "A",
+      "instructor": "Shams,S"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SUM2021",
+      "course": "PRSAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2021",
+      "course": "PRSAN 101",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2021",
+      "course": "PRSAN 201",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2021",
+      "course": "PRSAN 405",
+      "courseTitle": "MEDIA PERSIAN",
+      "section": "A",
+      "instructor": "Fani,Aria"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2021",
+      "course": "PRSAN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2021",
+      "course": "PRSAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2021",
+      "course": "PRSAN 511",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2021",
+      "course": "PRSAN 521",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2021",
+      "course": "PRSAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2022",
+      "course": "PRSAN 102",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2022",
+      "course": "PRSAN 202",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2022",
+      "course": "PRSAN 403",
+      "courseTitle": "MODERN PERSIAN LIT",
+      "section": "A",
+      "instructor": "Fani,Aria"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2022",
+      "course": "PRSAN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2022",
+      "course": "PRSAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2022",
+      "course": "PRSAN 512",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2022",
+      "course": "PRSAN 522",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2022",
+      "course": "PRSAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2022",
+      "course": "PRSAN 103",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "Shams,S"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2022",
+      "course": "PRSAN 203",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2022",
+      "course": "PRSAN 454",
+      "courseTitle": "EPIC TRADITION IRAN",
+      "section": "A",
+      "instructor": "Fani,Aria"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2022",
+      "course": "PRSAN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2022",
+      "course": "PRSAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2022",
+      "course": "PRSAN 513",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "Shams,S"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2022",
+      "course": "PRSAN 523",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2022",
+      "course": "PRSAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SUM2022",
+      "course": "PRSAN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SUM2022",
+      "course": "PRSAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SUM2022",
+      "course": "PRSAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2022",
+      "course": "PRSAN 101",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2022",
+      "course": "PRSAN 201",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2022",
+      "course": "PRSAN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2022",
+      "course": "PRSAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2022",
+      "course": "PRSAN 511",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2022",
+      "course": "PRSAN 521",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2022",
+      "course": "PRSAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2023",
+      "course": "PRSAN 102",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2023",
+      "course": "PRSAN 202",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2023",
+      "course": "PRSAN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2023",
+      "course": "PRSAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2023",
+      "course": "PRSAN 512",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2023",
+      "course": "PRSAN 522",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2023",
+      "course": "PRSAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2023",
+      "course": "PRSAN 103",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2023",
+      "course": "PRSAN 203",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2023",
+      "course": "PRSAN 401",
+      "courseTitle": "INTRO PERSIAN LIT",
+      "section": "A",
+      "instructor": "Samini,Naghmeh"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2023",
+      "course": "PRSAN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2023",
+      "course": "PRSAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2023",
+      "course": "PRSAN 513",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2023",
+      "course": "PRSAN 523",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2023",
+      "course": "PRSAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SUM2023",
+      "course": "PRSAN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SUM2023",
+      "course": "PRSAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SUM2023",
+      "course": "PRSAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2023",
+      "course": "PRSAN 101",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2023",
+      "course": "PRSAN 201",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2023",
+      "course": "PRSAN 405",
+      "courseTitle": "MEDIA PERSIAN",
+      "section": "A",
+      "instructor": "Samini,Naghmeh"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2023",
+      "course": "PRSAN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2023",
+      "course": "PRSAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2023",
+      "course": "PRSAN 511",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2023",
+      "course": "PRSAN 521",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2023",
+      "course": "PRSAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2024",
+      "course": "PRSAN 102",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2024",
+      "course": "PRSAN 202",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2024",
+      "course": "PRSAN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2024",
+      "course": "PRSAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2024",
+      "course": "PRSAN 512",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2024",
+      "course": "PRSAN 522",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2024",
+      "course": "PRSAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2024",
+      "course": "PRSAN 103",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2024",
+      "course": "PRSAN 203",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2024",
+      "course": "PRSAN 456",
+      "courseTitle": "SUFISM: THOUGHT",
+      "section": "A",
+      "instructor": "Fani,Aria"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2024",
+      "course": "PRSAN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2024",
+      "course": "PRSAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2024",
+      "course": "PRSAN 513",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2024",
+      "course": "PRSAN 523",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2024",
+      "course": "PRSAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SUM2024",
+      "course": "PRSAN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SUM2024",
+      "course": "PRSAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SUM2024",
+      "course": "PRSAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2024",
+      "course": "PRSAN 101",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2024",
+      "course": "PRSAN 201",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2024",
+      "course": "PRSAN 405",
+      "courseTitle": "MEDIA PERSIAN",
+      "section": "A",
+      "instructor": "Fani,Aria"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2024",
+      "course": "PRSAN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2024",
+      "course": "PRSAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2024",
+      "course": "PRSAN 511",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2024",
+      "course": "PRSAN 521",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2024",
+      "course": "PRSAN 545",
+      "courseTitle": "MEDIA PERSIAN",
+      "section": "A",
+      "instructor": "Fani,Aria"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2024",
+      "course": "PRSAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2025",
+      "course": "PRSAN 102",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2025",
+      "course": "PRSAN 202",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2025",
+      "course": "PRSAN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2025",
+      "course": "PRSAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2025",
+      "course": "PRSAN 512",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2025",
+      "course": "PRSAN 522",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2025",
+      "course": "PRSAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2025",
+      "course": "PRSAN 103",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2025",
+      "course": "PRSAN 203",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2025",
+      "course": "PRSAN 455",
+      "courseTitle": "THE PERSIAN GHAZAL",
+      "section": "A",
+      "instructor": "Fani,Aria"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2025",
+      "course": "PRSAN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2025",
+      "course": "PRSAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2025",
+      "course": "PRSAN 513",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2025",
+      "course": "PRSAN 523",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2025",
+      "course": "PRSAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SUM2025",
+      "course": "PRSAN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SUM2025",
+      "course": "PRSAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SUM2025",
+      "course": "PRSAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2025",
+      "course": "PRSAN 101",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2025",
+      "course": "PRSAN 201",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2025",
+      "course": "PRSAN 405",
+      "courseTitle": "MEDIA PERSIAN",
+      "section": "A",
+      "instructor": "Fani,Aria"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2025",
+      "course": "PRSAN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2025",
+      "course": "PRSAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2025",
+      "course": "PRSAN 511",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2025",
+      "course": "PRSAN 521",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2025",
+      "course": "PRSAN 545",
+      "courseTitle": "MEDIA PERSIAN",
+      "section": "A",
+      "instructor": "Fani,Aria"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "AUT2025",
+      "course": "PRSAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2026",
+      "course": "PRSAN 102",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2026",
+      "course": "PRSAN 202",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2026",
+      "course": "PRSAN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2026",
+      "course": "PRSAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2026",
+      "course": "PRSAN 512",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2026",
+      "course": "PRSAN 522",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "WIN2026",
+      "course": "PRSAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2026",
+      "course": "PRSAN 103",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2026",
+      "course": "PRSAN 203",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2026",
+      "course": "PRSAN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2026",
+      "course": "PRSAN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2026",
+      "course": "PRSAN 513",
+      "courseTitle": "ELEMENTARY PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2026",
+      "course": "PRSAN 523",
+      "courseTitle": "INTERMED PERSIAN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "persian",
+      "deptName": "Persian",
+      "term": "SPR2026",
+      "course": "PRSAN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
 }

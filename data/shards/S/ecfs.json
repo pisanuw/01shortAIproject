@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:58Z",
+  "generatedAt": "2026-04-16T02:57:14Z",
   "campus": "S",
   "dept": "ecfs",
   "deptName": "Early Childhood and Family Studies",
@@ -142,7 +142,7 @@
       "course": "ECFS 200",
       "courseTitle": "INTRO TO ECFS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Palomino,Cinthia Iris"
     },
     {
       "campus": "S",
@@ -292,7 +292,7 @@
       "course": "ECFS 200",
       "courseTitle": "INTRO TO ECFS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Clevenger-Bright,M"
     },
     {
       "campus": "S",
@@ -482,7 +482,7 @@
       "course": "ECFS 311",
       "courseTitle": "RESILIENT EDUCATOR",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Alfonso,Stacey"
     },
     {
       "campus": "S",
@@ -682,7 +682,7 @@
       "course": "ECFS 200",
       "courseTitle": "INTRO TO ECFS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Clevenger-Bright,M"
     },
     {
       "campus": "S",
@@ -862,7 +862,7 @@
       "course": "ECFS 311",
       "courseTitle": "RESILIENT EDUCATOR",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Joseph,Gail"
     },
     {
       "campus": "S",
@@ -1068,6 +1068,126 @@
       "campus": "S",
       "dept": "ecfs",
       "deptName": "Early Childhood and Family Studies",
+      "term": "SPR2023",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "A",
+      "instructor": "Cho,Jamie"
+    },
+    {
+      "campus": "S",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "SPR2023",
+      "course": "ECFS 304",
+      "courseTitle": "SRVC LRNG & RES II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "SPR2023",
+      "course": "ECFS 312",
+      "courseTitle": "POSITIVE SUPPORT",
+      "section": "A",
+      "instructor": "Joseph,Gail"
+    },
+    {
+      "campus": "S",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "SPR2023",
+      "course": "ECFS 320",
+      "courseTitle": "CHILD CONTEXT",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "SPR2023",
+      "course": "ECFS 320",
+      "courseTitle": "CHILD CONTEXT",
+      "section": "B",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "SPR2023",
+      "course": "ECFS 330",
+      "courseTitle": "CREATIVITY IN ECE",
+      "section": "A",
+      "instructor": "Holm Tobin,Emily"
+    },
+    {
+      "campus": "S",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "SPR2023",
+      "course": "ECFS 330",
+      "courseTitle": "CREATIVITY IN ECE",
+      "section": "B",
+      "instructor": "Holm Tobin,Emily"
+    },
+    {
+      "campus": "S",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "SPR2023",
+      "course": "ECFS 399",
+      "courseTitle": "ISSUES & TRENDS",
+      "section": "A",
+      "instructor": "RYAN,JOEL"
+    },
+    {
+      "campus": "S",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "SPR2023",
+      "course": "ECFS 403",
+      "courseTitle": "SENIOR CAPSTONE",
+      "section": "A",
+      "instructor": "Lin,Huiyu"
+    },
+    {
+      "campus": "S",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "SPR2023",
+      "course": "ECFS 419",
+      "courseTitle": "FAM&COM INFLNC CH",
+      "section": "A",
+      "instructor": "JEGATHEESAN,BRINDA INDIA"
+    },
+    {
+      "campus": "S",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "SPR2023",
+      "course": "ECFS 456",
+      "courseTitle": "SENIOR PROJECT III",
+      "section": "A",
+      "instructor": "Cho,Jamie"
+    },
+    {
+      "campus": "S",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "SPR2023",
+      "course": "ECFS 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
       "term": "SUM2023",
       "course": "ECFS 304",
       "courseTitle": "SRVC LRNG & RES II",
@@ -1131,8 +1251,8 @@
       "term": "AUT2023",
       "course": "ECFS 311",
       "courseTitle": "RESILIENT EDUCATOR",
-      "section": "C",
-      "instructor": "JA"
+      "section": "B",
+      "instructor": "Alfonso,Stacey Marie"
     },
     {
       "campus": "S",
@@ -1141,8 +1261,8 @@
       "term": "AUT2023",
       "course": "ECFS 311",
       "courseTitle": "RESILIENT EDUCATOR",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "JA"
     },
     {
       "campus": "S",
@@ -1372,7 +1492,7 @@
       "course": "ECFS 200",
       "courseTitle": "INTRO TO ECFS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cho,Jamie"
     },
     {
       "campus": "S",
@@ -1512,7 +1632,7 @@
       "course": "ECFS 311",
       "courseTitle": "RESILIENT EDUCATOR",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "SCHWARTZ,JASON"
     },
     {
       "campus": "S",
@@ -1881,8 +2001,8 @@
       "term": "AUT2025",
       "course": "ECFS 311",
       "courseTitle": "RESILIENT EDUCATOR",
-      "section": "C",
-      "instructor": "JA"
+      "section": "B",
+      "instructor": "Holm Tobin,Emily"
     },
     {
       "campus": "S",
@@ -1891,8 +2011,8 @@
       "term": "AUT2025",
       "course": "ECFS 311",
       "courseTitle": "RESILIENT EDUCATOR",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "JA"
     },
     {
       "campus": "S",
@@ -1902,7 +2022,7 @@
       "course": "ECFS 399",
       "courseTitle": "ISSUES & TRENDS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "RYAN,JOEL"
     },
     {
       "campus": "S",
@@ -1912,7 +2032,7 @@
       "course": "ECFS 401",
       "courseTitle": "UNDERSTAND ECFS RSCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Schindler,Holly S"
     },
     {
       "campus": "S",
@@ -1932,7 +2052,7 @@
       "course": "ECFS 410",
       "courseTitle": "LANG & LIT PRESCHOOL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lee,Sarah Jaewon"
     },
     {
       "campus": "S",
@@ -1942,7 +2062,7 @@
       "course": "ECFS 419",
       "courseTitle": "FAM&COM INFLNC CH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "JEGATHEESAN,BRINDA INDIA"
     },
     {
       "campus": "S",
@@ -1952,7 +2072,7 @@
       "course": "ECFS 454",
       "courseTitle": "SENIOR PROJECT I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Eckert,Candis"
     },
     {
       "campus": "S",
@@ -1992,7 +2112,7 @@
       "course": "ECFS 301",
       "courseTitle": "EARLY CHLDHD CURRIC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hertzog,Nancy"
     },
     {
       "campus": "S",
@@ -2002,7 +2122,7 @@
       "course": "ECFS 303",
       "courseTitle": "EARLY LRG PROFESSION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "O'Keefe,Melissa"
     },
     {
       "campus": "S",
@@ -2032,7 +2152,7 @@
       "course": "ECFS 321",
       "courseTitle": "ENG ENV/INTERACTIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wang,Yijie"
     },
     {
       "campus": "S",
@@ -2042,7 +2162,7 @@
       "course": "ECFS 402",
       "courseTitle": "SOCIAL POLICY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "O'Keefe,Melissa"
     },
     {
       "campus": "S",
@@ -2052,7 +2172,7 @@
       "course": "ECFS 411",
       "courseTitle": "YNG CHILD MATH & SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lomax,Kendra"
     },
     {
       "campus": "S",
@@ -2062,7 +2182,7 @@
       "course": "ECFS 455",
       "courseTitle": "SENIOR PROJECT II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Eckert,Candis"
     },
     {
       "campus": "S",
@@ -2082,7 +2202,7 @@
       "course": "ECFS 200",
       "courseTitle": "INTRO TO ECFS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "PACHECO,FANNY"
     },
     {
       "campus": "S",
@@ -2092,7 +2212,7 @@
       "course": "ECFS 312",
       "courseTitle": "POSITIVE SUPPORT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ayodeji,Ruth O"
     },
     {
       "campus": "S",
@@ -2122,7 +2242,7 @@
       "course": "ECFS 330",
       "courseTitle": "CREATIVITY IN ECE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hertzog,Nancy"
     },
     {
       "campus": "S",
@@ -2132,7 +2252,7 @@
       "course": "ECFS 400",
       "courseTitle": "CHLD OBSRV & ASSESS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Wang,Yijie"
     },
     {
       "campus": "S",
@@ -2142,7 +2262,7 @@
       "course": "ECFS 419",
       "courseTitle": "FAM&COM INFLNC CH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "JEGATHEESAN,BRINDA INDIA"
     },
     {
       "campus": "S",
@@ -2152,7 +2272,7 @@
       "course": "ECFS 456",
       "courseTitle": "SENIOR PROJECT III",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Eckert,Candis"
     },
     {
       "campus": "S",

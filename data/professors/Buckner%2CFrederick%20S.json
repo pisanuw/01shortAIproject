@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Buckner%2CFrederick%20S",
+  "professor": "Buckner,Frederick S",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "medicine",
+      "deptName": "Medicine",
+      "term": "SPR2021",
+      "course": "MED 561",
+      "courseTitle": "TROPICAL MEDICINE",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "medicine",
+      "deptName": "Medicine",
+      "term": "SPR2021",
+      "course": "MED 561",
+      "courseTitle": "TROPICAL MEDICINE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2021",
+      "course": "G H 561",
+      "courseTitle": "TROPICAL MEDICINE",
+      "section": "A"
+    }
+  ]
+}

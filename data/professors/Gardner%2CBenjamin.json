@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Gardner%2CBenjamin",
+  "professor": "Gardner,Benjamin",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2024",
+      "course": "BIS 282",
+      "courseTitle": "GLOBALIZATION",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2023",
+      "course": "BIS 300",
+      "courseTitle": "INTERDISC INQUIRY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bisgst",
+      "deptName": "Global Studies",
+      "term": "WIN2022",
+      "course": "BISGST 303",
+      "courseTitle": "HST & GLOBALIZATION",
+      "section": "A"
+    }
+  ]
+}

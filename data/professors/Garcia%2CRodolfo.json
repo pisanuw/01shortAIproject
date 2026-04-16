@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Garcia%2CRodolfo",
+  "professor": "Garcia,Rodolfo",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "astro",
+      "deptName": "Astronomy",
+      "term": "WIN2024",
+      "course": "ASTR 497",
+      "courseTitle": "TOPICS IN ASTRONOMY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "astro",
+      "deptName": "Astronomy",
+      "term": "SPR2022",
+      "course": "ASTR 150",
+      "courseTitle": "THE PLANETS",
+      "section": "A"
+    }
+  ]
+}

@@ -1,9 +1,29 @@
 {
-  "generatedAt": "2026-04-15T16:27:57Z",
+  "generatedAt": "2026-04-16T02:57:13Z",
   "campus": "S",
   "dept": "psych",
   "deptName": "Psychology",
   "records": [
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2020",
+      "course": "PSYCH 101",
+      "courseTitle": "INTRO TO PSYCH",
+      "section": "E",
+      "instructor": "Brown,Jonathon D"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2020",
+      "course": "PSYCH 101",
+      "courseTitle": "INTRO TO PSYCH",
+      "section": "A",
+      "instructor": "Kirkland,Tabitha"
+    },
     {
       "campus": "S",
       "dept": "psych",
@@ -21,28 +41,8 @@
       "term": "AUT2020",
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "AUT2020",
-      "course": "PSYCH 101",
-      "courseTitle": "INTRO TO PSYCH",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "AUT2020",
-      "course": "PSYCH 101",
-      "courseTitle": "INTRO TO PSYCH",
-      "section": "E",
-      "instructor": "TBA"
+      "instructor": "McLaughlin,Judith L."
     },
     {
       "campus": "S",
@@ -52,7 +52,7 @@
       "course": "PSYCH 202",
       "courseTitle": "BIOPSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Andelin,Adrian"
     },
     {
       "campus": "S",
@@ -62,7 +62,7 @@
       "course": "PSYCH 206",
       "courseTitle": "HUMAN DEVELOPMENT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ha,Renee Robinette"
     },
     {
       "campus": "S",
@@ -72,7 +72,7 @@
       "course": "PSYCH 209",
       "courseTitle": "FDMNTLS PSYCH RSCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Culligan,Ann"
     },
     {
       "campus": "S",
@@ -82,7 +82,7 @@
       "course": "PSYCH 210",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McNichols,Nicole K"
     },
     {
       "campus": "S",
@@ -202,7 +202,7 @@
       "course": "PSYCH 333",
       "courseTitle": "SEN/PERCPT PROCESS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Covey,Ellen"
     },
     {
       "campus": "S",
@@ -242,7 +242,7 @@
       "course": "PSYCH 355",
       "courseTitle": "COGNITIVE PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Andelin,Adrian"
     },
     {
       "campus": "S",
@@ -851,8 +851,8 @@
       "term": "WIN2021",
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Andelin,Adrian"
     },
     {
       "campus": "S",
@@ -861,8 +861,8 @@
       "term": "WIN2021",
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Culligan,Ann"
     },
     {
       "campus": "S",
@@ -882,7 +882,7 @@
       "course": "PSYCH 202",
       "courseTitle": "BIOPSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kim,J"
     },
     {
       "campus": "S",
@@ -902,7 +902,7 @@
       "course": "PSYCH 205",
       "courseTitle": "BEHAVIOR DISORDERS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brand,Jessica"
     },
     {
       "campus": "S",
@@ -922,7 +922,7 @@
       "course": "PSYCH 209",
       "courseTitle": "FDMNTLS PSYCH RSCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Graham,Lauren"
     },
     {
       "campus": "S",
@@ -932,7 +932,7 @@
       "course": "PSYCH 210",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McNichols,Nicole K"
     },
     {
       "campus": "S",
@@ -942,7 +942,7 @@
       "course": "PSYCH 222",
       "courseTitle": "CURRENT TOPICS PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Levine,Cynthia S"
     },
     {
       "campus": "S",
@@ -962,7 +962,7 @@
       "course": "PSYCH 302",
       "courseTitle": "NEUROSCIENCE OF MIND",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mizumori,Sheri J. Y."
     },
     {
       "campus": "S",
@@ -982,7 +982,7 @@
       "course": "PSYCH 306",
       "courseTitle": "DEVELOPMENTAL PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Repacholi,Betty"
     },
     {
       "campus": "S",
@@ -1012,7 +1012,7 @@
       "course": "PSYCH 318",
       "courseTitle": "STAT INFERENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Little,Laura"
     },
     {
       "campus": "S",
@@ -1722,17 +1722,7 @@
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "SPR2021",
-      "course": "PSYCH 101",
-      "courseTitle": "INTRO TO PSYCH",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Kirkland,Tabitha"
     },
     {
       "campus": "S",
@@ -1742,7 +1732,17 @@
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "McLaughlin,Judith L."
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2021",
+      "course": "PSYCH 101",
+      "courseTitle": "INTRO TO PSYCH",
+      "section": "B",
+      "instructor": "Osterhout,Lee"
     },
     {
       "campus": "S",
@@ -1752,7 +1752,7 @@
       "course": "PSYCH 202",
       "courseTitle": "BIOPSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Culligan,Ann"
     },
     {
       "campus": "S",
@@ -1762,7 +1762,7 @@
       "course": "PSYCH 203",
       "courseTitle": "PERS & INDIV DIFFS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brown,Jonathon D"
     },
     {
       "campus": "S",
@@ -1772,7 +1772,7 @@
       "course": "PSYCH 209",
       "courseTitle": "FDMNTLS PSYCH RSCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kirkland,Tabitha"
     },
     {
       "campus": "S",
@@ -1782,7 +1782,17 @@
       "course": "PSYCH 210",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McNichols,Nicole K"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2021",
+      "course": "PSYCH 222",
+      "courseTitle": "CURRENT TOPICS PSYCH",
+      "section": "A",
+      "instructor": "Covey,Ellen"
     },
     {
       "campus": "S",
@@ -1799,20 +1809,10 @@
       "dept": "psych",
       "deptName": "Psychology",
       "term": "SPR2021",
-      "course": "PSYCH 222",
-      "courseTitle": "CURRENT TOPICS PSYCH",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "SPR2021",
       "course": "PSYCH 250",
       "courseTitle": "RACISM&MINORITY GRP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Manbeck -- she,her, Kather"
     },
     {
       "campus": "S",
@@ -1822,7 +1822,7 @@
       "course": "PSYCH 303",
       "courseTitle": "PERSONALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Coolidge,Trilby"
     },
     {
       "campus": "S",
@@ -1832,7 +1832,7 @@
       "course": "PSYCH 305",
       "courseTitle": "ABNORMAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brand,Jessica"
     },
     {
       "campus": "S",
@@ -1852,7 +1852,7 @@
       "course": "PSYCH 315",
       "courseTitle": "UNDRSTD STATS PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nelson,Dana C"
     },
     {
       "campus": "S",
@@ -1862,7 +1862,7 @@
       "course": "PSYCH 318",
       "courseTitle": "STAT INFERENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "PAULSEN,DEBORAH I."
     },
     {
       "campus": "S",
@@ -1872,7 +1872,7 @@
       "course": "PSYCH 322",
       "courseTitle": "INTRO DRUGS & BEHAV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Diaz,Jaime"
     },
     {
       "campus": "S",
@@ -2072,7 +2072,7 @@
       "course": "PSYCH 449",
       "courseTitle": "ORGZNL/INDUST PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McNichols,Nicole K"
     },
     {
       "campus": "S",
@@ -2582,7 +2582,7 @@
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Andelin,Adrian"
     },
     {
       "campus": "S",
@@ -2592,7 +2592,7 @@
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "McLaughlin,Judith L."
     },
     {
       "campus": "S",
@@ -2602,7 +2602,7 @@
       "course": "PSYCH 202",
       "courseTitle": "BIOPSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Culligan,Ann"
     },
     {
       "campus": "S",
@@ -2622,7 +2622,7 @@
       "course": "PSYCH 205",
       "courseTitle": "BEHAVIOR DISORDERS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brand,Jessica"
     },
     {
       "campus": "S",
@@ -2642,7 +2642,7 @@
       "course": "PSYCH 210",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McNichols,Nicole K"
     },
     {
       "campus": "S",
@@ -2672,7 +2672,7 @@
       "course": "PSYCH 305",
       "courseTitle": "ABNORMAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "George,William H"
     },
     {
       "campus": "S",
@@ -2931,6 +2931,26 @@
       "term": "AUT2021",
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
+      "section": "A",
+      "instructor": "Graham,Lauren"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2021",
+      "course": "PSYCH 101",
+      "courseTitle": "INTRO TO PSYCH",
+      "section": "B",
+      "instructor": "Kirkland,Tabitha"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2021",
+      "course": "PSYCH 101",
+      "courseTitle": "INTRO TO PSYCH",
       "section": "D",
       "instructor": "Kirkland,Tabitha"
     },
@@ -2941,28 +2961,8 @@
       "term": "AUT2021",
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "AUT2021",
-      "course": "PSYCH 101",
-      "courseTitle": "INTRO TO PSYCH",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "AUT2021",
-      "course": "PSYCH 101",
-      "courseTitle": "INTRO TO PSYCH",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Passer,Michael W"
     },
     {
       "campus": "S",
@@ -2982,7 +2982,7 @@
       "course": "PSYCH 202",
       "courseTitle": "BIOPSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Andelin,Adrian"
     },
     {
       "campus": "S",
@@ -3002,7 +3002,7 @@
       "course": "PSYCH 209",
       "courseTitle": "FDMNTLS PSYCH RSCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Culligan,Ann"
     },
     {
       "campus": "S",
@@ -3012,7 +3012,7 @@
       "course": "PSYCH 210",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McNichols,Nicole K"
     },
     {
       "campus": "S",
@@ -3022,7 +3022,7 @@
       "course": "PSYCH 210",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "McNichols,Nicole K"
     },
     {
       "campus": "S",
@@ -3052,7 +3052,7 @@
       "course": "PSYCH 300",
       "courseTitle": "ANIMAL BEHAVIOR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sisneros,Joseph A."
     },
     {
       "campus": "S",
@@ -3062,7 +3062,7 @@
       "course": "PSYCH 302",
       "courseTitle": "NEUROSCIENCE OF MIND",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kim,J"
     },
     {
       "campus": "S",
@@ -3072,7 +3072,7 @@
       "course": "PSYCH 303",
       "courseTitle": "PERSONALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Titova,Milla"
     },
     {
       "campus": "S",
@@ -3082,7 +3082,7 @@
       "course": "PSYCH 305",
       "courseTitle": "ABNORMAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bedard-Gilligan,Michele A"
     },
     {
       "campus": "S",
@@ -3162,7 +3162,7 @@
       "course": "PSYCH 333",
       "courseTitle": "SEN/PERCPT PROCESS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Covey,Ellen"
     },
     {
       "campus": "S",
@@ -3741,8 +3741,8 @@
       "term": "WIN2022",
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Andelin,Adrian"
     },
     {
       "campus": "S",
@@ -3751,8 +3751,8 @@
       "term": "WIN2022",
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Culligan,Ann"
     },
     {
       "campus": "S",
@@ -3772,7 +3772,7 @@
       "course": "PSYCH 202",
       "courseTitle": "BIOPSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Graham,Lauren"
     },
     {
       "campus": "S",
@@ -3792,7 +3792,7 @@
       "course": "PSYCH 208",
       "courseTitle": "HAPPINESS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kirkland,Tabitha"
     },
     {
       "campus": "S",
@@ -3802,7 +3802,7 @@
       "course": "PSYCH 209",
       "courseTitle": "FDMNTLS PSYCH RSCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kirkland,Tabitha"
     },
     {
       "campus": "S",
@@ -3812,7 +3812,7 @@
       "course": "PSYCH 210",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McNichols,Nicole K"
     },
     {
       "campus": "S",
@@ -3832,7 +3832,7 @@
       "course": "PSYCH 222",
       "courseTitle": "CURRENT TOPICS PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Passer,Michael W"
     },
     {
       "campus": "S",
@@ -3852,7 +3852,7 @@
       "course": "PSYCH 302",
       "courseTitle": "NEUROSCIENCE OF MIND",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mizumori,Sheri J. Y."
     },
     {
       "campus": "S",
@@ -3902,7 +3902,7 @@
       "course": "PSYCH 318",
       "courseTitle": "STAT INFERENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Little,Laura"
     },
     {
       "campus": "S",
@@ -3952,7 +3952,7 @@
       "course": "PSYCH 345",
       "courseTitle": "SOCIAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Titova,Milla"
     },
     {
       "campus": "S",
@@ -4578,10 +4578,830 @@
       "campus": "S",
       "dept": "psych",
       "deptName": "Psychology",
-      "term": "SUM2022",
+      "term": "SPR2022",
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
       "section": "A",
+      "instructor": "Andelin,Adrian"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 101",
+      "courseTitle": "INTRO TO PSYCH",
+      "section": "B",
+      "instructor": "Passer,Michael W"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 101",
+      "courseTitle": "INTRO TO PSYCH",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 202",
+      "courseTitle": "BIOPSYCH",
+      "section": "A",
+      "instructor": "Culligan,Ann"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 203",
+      "courseTitle": "PERS & INDIV DIFFS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 208",
+      "courseTitle": "HAPPINESS",
+      "section": "A",
+      "instructor": "Titova,Milla"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 209",
+      "courseTitle": "FDMNTLS PSYCH RSCH",
+      "section": "A",
+      "instructor": "Graham,Lauren"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 210",
+      "courseTitle": "HUMAN SEXUALITY",
+      "section": "A",
+      "instructor": "McNichols,Nicole K"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 210",
+      "courseTitle": "HUMAN SEXUALITY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 222",
+      "courseTitle": "CURRENT TOPICS PSYCH",
+      "section": "A",
+      "instructor": "Covey,Ellen"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 222",
+      "courseTitle": "CURRENT TOPICS PSYCH",
+      "section": "B",
+      "instructor": "Passer,Michael W"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 250",
+      "courseTitle": "RACISM&MINORITY GRP",
+      "section": "A",
+      "instructor": "Manbeck,Katherine"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 303",
+      "courseTitle": "PERSONALITY",
+      "section": "A",
+      "instructor": "Titova,Milla"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 305",
+      "courseTitle": "ABNORMAL PSYCHOLOGY",
+      "section": "A",
+      "instructor": "Brand,Jessica"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 315",
+      "courseTitle": "UNDRSTD STATS PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 318",
+      "courseTitle": "STAT INFERENCE",
+      "section": "A",
+      "instructor": "PAULSEN,DEBORAH I."
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 322",
+      "courseTitle": "INTRO DRUGS & BEHAV",
+      "section": "A",
+      "instructor": "Diaz,Jaime"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 330",
+      "courseTitle": "LAB ANIMAL BEHAVIOR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 331",
+      "courseTitle": "LAB HUMAN COGNITION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 332",
+      "courseTitle": "NEUROBEHAVIORAL LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 332",
+      "courseTitle": "NEUROBEHAVIORAL LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 334",
+      "courseTitle": "LAB-SOCIAL PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 345",
+      "courseTitle": "SOCIAL PSYCHOLOGY",
+      "section": "A",
+      "instructor": "Jimenez,Tyler"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 350",
+      "courseTitle": "H-RSCH SEM IN PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 350",
+      "courseTitle": "H-RSCH SEM IN PSYCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 355",
+      "courseTitle": "COGNITIVE PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 357",
+      "courseTitle": "PSYCHOBIOL OF WOMEN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 400",
+      "courseTitle": "LEARNING",
+      "section": "A",
+      "instructor": "Culligan,Ann"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 402",
+      "courseTitle": "INFANT DEVELOPMENT",
+      "section": "A",
+      "instructor": "Meltzoff,Andrew N"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 413",
+      "courseTitle": "ADOLESCENT DEVELPMT",
+      "section": "A",
+      "instructor": "Magis-Weinberg,Lucia"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 426",
+      "courseTitle": "NEUROBIOL LEARN&MEM",
+      "section": "A",
+      "instructor": "Mizumori,Sheri J. Y."
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 431",
+      "courseTitle": "ECOPSYCHOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 440",
+      "courseTitle": "PSYCH OF EMOTION",
+      "section": "A",
+      "instructor": "Kirkland,Tabitha"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 448",
+      "courseTitle": "TOPICS PSYCH SCIENCE",
+      "section": "E",
+      "instructor": "Kirkland,Tabitha"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 448",
+      "courseTitle": "TOPICS PSYCH SCIENCE",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 448",
+      "courseTitle": "TOPICS PSYCH SCIENCE",
+      "section": "D",
+      "instructor": "Whiley,D"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 449",
+      "courseTitle": "ORGZNL/INDUST PSYCH",
+      "section": "A",
+      "instructor": "McNichols,Nicole K"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 450",
+      "courseTitle": "H-RSCH SMNR PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 470",
+      "courseTitle": "PSYCH AND MUSIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 481",
+      "courseTitle": "SMNR ADV QUANT METH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 488",
+      "courseTitle": "STRESS & COPING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 496",
+      "courseTitle": "UNDERGRAD TEACH EXP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 496",
+      "courseTitle": "UNDERGRAD TEACH EXP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 497",
+      "courseTitle": "UNDERGRAD FIELDWORK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 497",
+      "courseTitle": "UNDERGRAD FIELDWORK",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 497",
+      "courseTitle": "UNDERGRAD FIELDWORK",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 497",
+      "courseTitle": "UNDERGRAD FIELDWORK",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 498",
+      "courseTitle": "DIRECTED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 498",
+      "courseTitle": "DIRECTED READING",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 503",
+      "courseTitle": "CORE CNCPT BEHV GEN",
+      "section": "A",
+      "instructor": "Forsyth,Jennifer Katherine"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 515",
+      "courseTitle": "CORE CONCPT PERS&SOC",
+      "section": "A",
+      "instructor": "Repacholi,Betty"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 541",
+      "courseTitle": "ADV ANNIMAL BEHAVR",
+      "section": "A",
+      "instructor": "Brenowitz,Eliot A."
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 546",
+      "courseTitle": "ADV DEVEL PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 547",
+      "courseTitle": "ADV SOC-PERS PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 550",
+      "courseTitle": "SMNR IN PSYCHOLOGY",
+      "section": "A",
+      "instructor": "Kaiser,C"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 552",
+      "courseTitle": "SMNR IN BEHV NEURSC",
+      "section": "A",
+      "instructor": "Kim,J"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 555",
+      "courseTitle": "SMNR COGN/PERCEPT",
+      "section": "B",
+      "instructor": "Boynton,Geoffrey M"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 555",
+      "courseTitle": "SMNR COGN/PERCEPT",
+      "section": "A",
+      "instructor": "Stocco,Andrea"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 556",
+      "courseTitle": "SMNR IN DEVELOP PSYC",
+      "section": "A",
+      "instructor": "Repacholi,Betty"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 557",
+      "courseTitle": "SMNR IN SOC/PERSON",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "E",
+      "instructor": "Boynton,Geoffrey M"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "J",
+      "instructor": "Kim,J"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "M",
+      "instructor": "Levine,Cynthia S"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "F",
+      "instructor": "Mizumori,Sheri J. Y."
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "K",
+      "instructor": "Murray,Scott O."
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "C",
+      "instructor": "Shoda,Yuichi"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "I",
+      "instructor": "Starr,Ariel"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "G",
+      "instructor": "Stocco,Andrea"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "L",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 596",
+      "courseTitle": "ADV TCHG PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 598",
+      "courseTitle": "DIRECTED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 598",
+      "courseTitle": "DIRECTED READING",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 599",
+      "courseTitle": "DIR RESRCH PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "B",
       "instructor": "TBA"
     },
     {
@@ -4599,10 +5419,20 @@
       "dept": "psych",
       "deptName": "Psychology",
       "term": "SUM2022",
+      "course": "PSYCH 101",
+      "courseTitle": "INTRO TO PSYCH",
+      "section": "A",
+      "instructor": "Titova,Milla"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SUM2022",
       "course": "PSYCH 202",
       "courseTitle": "BIOPSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Culligan,Ann"
     },
     {
       "campus": "S",
@@ -4911,18 +5741,8 @@
       "term": "AUT2022",
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
-      "section": "D",
-      "instructor": "Passer,Michael W"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "AUT2022",
-      "course": "PSYCH 101",
-      "courseTitle": "INTRO TO PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Andelin,Adrian"
     },
     {
       "campus": "S",
@@ -4932,7 +5752,7 @@
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Graham,Lauren"
     },
     {
       "campus": "S",
@@ -4942,7 +5762,17 @@
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Passer,Michael W"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2022",
+      "course": "PSYCH 101",
+      "courseTitle": "INTRO TO PSYCH",
+      "section": "D",
+      "instructor": "Passer,Michael W"
     },
     {
       "campus": "S",
@@ -4962,7 +5792,7 @@
       "course": "PSYCH 202",
       "courseTitle": "BIOPSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Andelin,Adrian"
     },
     {
       "campus": "S",
@@ -4972,7 +5802,7 @@
       "course": "PSYCH 208",
       "courseTitle": "HAPPINESS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Titova,Milla"
     },
     {
       "campus": "S",
@@ -4982,7 +5812,7 @@
       "course": "PSYCH 209",
       "courseTitle": "FDMNTLS PSYCH RSCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Culligan,Ann"
     },
     {
       "campus": "S",
@@ -4992,7 +5822,7 @@
       "course": "PSYCH 210",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McNichols,Nicole K"
     },
     {
       "campus": "S",
@@ -5012,7 +5842,7 @@
       "course": "PSYCH 222",
       "courseTitle": "CURRENT TOPICS PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Passer,Michael W"
     },
     {
       "campus": "S",
@@ -5042,7 +5872,7 @@
       "course": "PSYCH 300",
       "courseTitle": "ANIMAL BEHAVIOR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sisneros,Joseph A."
     },
     {
       "campus": "S",
@@ -5052,7 +5882,7 @@
       "course": "PSYCH 302",
       "courseTitle": "NEUROSCIENCE OF MIND",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kim,J"
     },
     {
       "campus": "S",
@@ -5062,7 +5892,7 @@
       "course": "PSYCH 305",
       "courseTitle": "ABNORMAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brand,Jessica"
     },
     {
       "campus": "S",
@@ -5142,7 +5972,7 @@
       "course": "PSYCH 333",
       "courseTitle": "SEN/PERCPT PROCESS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Covey,Ellen"
     },
     {
       "campus": "S",
@@ -5162,7 +5992,7 @@
       "course": "PSYCH 345",
       "courseTitle": "SOCIAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kirkland,Tabitha"
     },
     {
       "campus": "S",
@@ -5822,7 +6652,7 @@
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Andelin,Adrian"
     },
     {
       "campus": "S",
@@ -5832,7 +6662,7 @@
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Passer,Michael W"
     },
     {
       "campus": "S",
@@ -5852,7 +6682,7 @@
       "course": "PSYCH 202",
       "courseTitle": "BIOPSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Graham,Lauren"
     },
     {
       "campus": "S",
@@ -5872,7 +6702,7 @@
       "course": "PSYCH 209",
       "courseTitle": "FDMNTLS PSYCH RSCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brand,Jessica"
     },
     {
       "campus": "S",
@@ -5882,7 +6712,7 @@
       "course": "PSYCH 210",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McNichols,Nicole K"
     },
     {
       "campus": "S",
@@ -5902,7 +6732,7 @@
       "course": "PSYCH 222",
       "courseTitle": "CURRENT TOPICS PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Levine,Cynthia S"
     },
     {
       "campus": "S",
@@ -5912,7 +6742,7 @@
       "course": "PSYCH 257",
       "courseTitle": "PSYCH OF GENDER",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Culligan,Ann"
     },
     {
       "campus": "S",
@@ -5922,7 +6752,7 @@
       "course": "PSYCH 302",
       "courseTitle": "NEUROSCIENCE OF MIND",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kidder,Kevan S"
     },
     {
       "campus": "S",
@@ -5932,7 +6762,7 @@
       "course": "PSYCH 303",
       "courseTitle": "PERSONALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Titova,Milla"
     },
     {
       "campus": "S",
@@ -5942,7 +6772,7 @@
       "course": "PSYCH 305",
       "courseTitle": "ABNORMAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Marks,Elizabeth H"
     },
     {
       "campus": "S",
@@ -5952,7 +6782,7 @@
       "course": "PSYCH 306",
       "courseTitle": "DEVELOPMENTAL PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Repacholi,Betty"
     },
     {
       "campus": "S",
@@ -5982,7 +6812,7 @@
       "course": "PSYCH 318",
       "courseTitle": "STAT INFERENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Little,Laura"
     },
     {
       "campus": "S",
@@ -6032,7 +6862,7 @@
       "course": "PSYCH 345",
       "courseTitle": "SOCIAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wilkins,Clara L"
     },
     {
       "campus": "S",
@@ -6042,7 +6872,7 @@
       "course": "PSYCH 355",
       "courseTitle": "COGNITIVE PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Andelin,Adrian"
     },
     {
       "campus": "S",
@@ -6272,7 +7102,7 @@
       "course": "PSYCH 503",
       "courseTitle": "CORE CNCPT BEHV GEN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Forsyth,Jennifer Katherine"
     },
     {
       "campus": "S",
@@ -6702,7 +7532,7 @@
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Andelin,Adrian"
     },
     {
       "campus": "S",
@@ -6712,7 +7542,7 @@
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Passer,Michael W"
     },
     {
       "campus": "S",
@@ -6732,7 +7562,7 @@
       "course": "PSYCH 202",
       "courseTitle": "BIOPSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Culligan,Ann"
     },
     {
       "campus": "S",
@@ -6752,7 +7582,7 @@
       "course": "PSYCH 209",
       "courseTitle": "FDMNTLS PSYCH RSCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Graham,Lauren"
     },
     {
       "campus": "S",
@@ -6762,7 +7592,7 @@
       "course": "PSYCH 210",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McNichols,Nicole K"
     },
     {
       "campus": "S",
@@ -6802,7 +7632,7 @@
       "course": "PSYCH 250",
       "courseTitle": "RACISM&MINORITY GRP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Manbeck,Katherine"
     },
     {
       "campus": "S",
@@ -6812,7 +7642,7 @@
       "course": "PSYCH 303",
       "courseTitle": "PERSONALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Titova,Milla"
     },
     {
       "campus": "S",
@@ -6822,7 +7652,7 @@
       "course": "PSYCH 305",
       "courseTitle": "ABNORMAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brand,J.L."
     },
     {
       "campus": "S",
@@ -6862,7 +7692,7 @@
       "course": "PSYCH 322",
       "courseTitle": "INTRO DRUGS & BEHAV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Diaz,Jaime"
     },
     {
       "campus": "S",
@@ -6912,7 +7742,7 @@
       "course": "PSYCH 345",
       "courseTitle": "SOCIAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Titova,Milla"
     },
     {
       "campus": "S",
@@ -6922,7 +7752,7 @@
       "course": "PSYCH 355",
       "courseTitle": "COGNITIVE PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Andelin,Adrian"
     },
     {
       "campus": "S",
@@ -7002,7 +7832,7 @@
       "course": "PSYCH 458",
       "courseTitle": "BEHAVIORAL GENETICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Forsyth,Jennifer Katherine"
     },
     {
       "campus": "S",
@@ -7552,7 +8382,7 @@
       "course": "PSYCH 205",
       "courseTitle": "BEHAVIOR DISORDERS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brand,J.L."
     },
     {
       "campus": "S",
@@ -7888,11 +8718,941 @@
       "campus": "S",
       "dept": "psych",
       "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 101",
+      "courseTitle": "INTRO TO PSYCH",
+      "section": "A",
+      "instructor": "Graham,Lauren"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 101",
+      "courseTitle": "INTRO TO PSYCH",
+      "section": "C",
+      "instructor": "Kirkland,Tabitha"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 101",
+      "courseTitle": "INTRO TO PSYCH",
+      "section": "D",
+      "instructor": "Kirkland,Tabitha"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 101",
+      "courseTitle": "INTRO TO PSYCH",
+      "section": "B",
+      "instructor": "Passer,Michael W"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 101",
+      "courseTitle": "INTRO TO PSYCH",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 202",
+      "courseTitle": "BIOPSYCH",
+      "section": "A",
+      "instructor": "Andelin,Adrian"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 209",
+      "courseTitle": "FDMNTLS PSYCH RSCH",
+      "section": "A",
+      "instructor": "Wu,Delancey"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 210",
+      "courseTitle": "HUMAN SEXUALITY",
+      "section": "A",
+      "instructor": "McNichols,Nicole K"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 210",
+      "courseTitle": "HUMAN SEXUALITY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 222",
+      "courseTitle": "CURRENT TOPICS PSYCH",
+      "section": "A",
+      "instructor": "Passer,Michael W"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 298",
+      "courseTitle": "GRAD SCHOOL EXPLORE",
+      "section": "A",
+      "instructor": "Hansen,Victoria"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 299",
+      "courseTitle": "PSYCH TRAC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 300",
+      "courseTitle": "ANIMAL BEHAVIOR",
+      "section": "A",
+      "instructor": "Pendergraft,LomaJohn T"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 305",
+      "courseTitle": "ABNORMAL PSYCHOLOGY",
+      "section": "A",
+      "instructor": "Brand,J.L."
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 315",
+      "courseTitle": "UNDRSTD STATS PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 317",
+      "courseTitle": "PSYCH PROB & STAT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 330",
+      "courseTitle": "LAB ANIMAL BEHAVIOR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 332",
+      "courseTitle": "NEUROBEHAVIORAL LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 332",
+      "courseTitle": "NEUROBEHAVIORAL LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 333",
+      "courseTitle": "SEN/PERCPT PROCESS",
+      "section": "A",
+      "instructor": "Covey,Ellen"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 334",
+      "courseTitle": "LAB-SOCIAL PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 335",
+      "courseTitle": "LAB PERS BEHAV SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 345",
+      "courseTitle": "SOCIAL PSYCHOLOGY",
+      "section": "A",
+      "instructor": "Titova,Milla"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 350",
+      "courseTitle": "H-RSCH SEM IN PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 355",
+      "courseTitle": "COGNITIVE PSYCH",
+      "section": "A",
+      "instructor": "Andelin,Adrian"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 403",
+      "courseTitle": "MOTIVATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 417",
+      "courseTitle": "STRESS/AGING & BRAIN",
+      "section": "A",
+      "instructor": "Kim,Eun Joo"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 421",
+      "courseTitle": "NEURAL BASIS BEHAVR",
+      "section": "A",
+      "instructor": "Popovkina,Dina"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 426",
+      "courseTitle": "NEUROBIOL LEARN&MEM",
+      "section": "A",
+      "instructor": "Graham,Lauren"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 439",
+      "courseTitle": "HEALTH DISPARITIES",
+      "section": "A",
+      "instructor": "Levine,Cynthia S"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 448",
+      "courseTitle": "TOPICS PSYCH SCIENCE",
+      "section": "C",
+      "instructor": "Jacques,Debrielle"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 448",
+      "courseTitle": "TOPICS PSYCH SCIENCE",
+      "section": "B",
+      "instructor": "Jimenez,Tyler"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 448",
+      "courseTitle": "TOPICS PSYCH SCIENCE",
+      "section": "E",
+      "instructor": "Magis-Weinberg,Lucia"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 448",
+      "courseTitle": "TOPICS PSYCH SCIENCE",
+      "section": "A",
+      "instructor": "Titova,Milla"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 448",
+      "courseTitle": "TOPICS PSYCH SCIENCE",
+      "section": "F",
+      "instructor": "Wu,Delancey"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 451",
+      "courseTitle": "HEALTH PSYCHOLOGY",
+      "section": "A",
+      "instructor": "Brand,J.L."
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 456",
+      "courseTitle": "SOCIAL/MORAL DEVEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 496",
+      "courseTitle": "UNDERGRAD TEACH EXP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 496",
+      "courseTitle": "UNDERGRAD TEACH EXP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 496",
+      "courseTitle": "UNDERGRAD TEACH EXP",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 497",
+      "courseTitle": "UNDERGRAD FIELDWORK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 497",
+      "courseTitle": "UNDERGRAD FIELDWORK",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 497",
+      "courseTitle": "UNDERGRAD FIELDWORK",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 497",
+      "courseTitle": "UNDERGRAD FIELDWORK",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 498",
+      "courseTitle": "DIRECTED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 498",
+      "courseTitle": "DIRECTED READING",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 500",
+      "courseTitle": "PROSEMINAR IN PSYCH",
+      "section": "A",
+      "instructor": "LOMBARD,ELLA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 500",
+      "courseTitle": "PROSEMINAR IN PSYCH",
+      "section": "B",
+      "instructor": "LOMBARD,ELLA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 506",
+      "courseTitle": "CORE CNCPT COG NEUR",
+      "section": "A",
+      "instructor": "Stocco,Andrea"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 511",
+      "courseTitle": "CORE CNCPT PERSNLTY",
+      "section": "A",
+      "instructor": "Shoda,Yuichi"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 514",
+      "courseTitle": "COGNIT & LING DEVEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 522",
+      "courseTitle": "STAT CMPUTATION LAB",
+      "section": "A",
+      "instructor": "Boynton,Geoffrey M"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 524",
+      "courseTitle": "INTRO STAT/DATA ANL",
+      "section": "A",
+      "instructor": "Boynton,Geoffrey M"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 542",
+      "courseTitle": "ADV BEHV NEUROSCNCE",
+      "section": "A",
+      "instructor": "Ahmed,Sama"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 550",
+      "courseTitle": "SMNR IN PSYCHOLOGY",
+      "section": "A",
+      "instructor": "Sisneros,Joseph A."
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 552",
+      "courseTitle": "SMNR IN BEHV NEURSC",
+      "section": "A",
+      "instructor": "Kim,J"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 555",
+      "courseTitle": "SMNR COGN/PERCEPT",
+      "section": "B",
+      "instructor": "Fine,Ione"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 555",
+      "courseTitle": "SMNR COGN/PERCEPT",
+      "section": "A",
+      "instructor": "Stocco,Andrea"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 556",
+      "courseTitle": "SMNR IN DEVELOP PSYC",
+      "section": "A",
+      "instructor": "Nielsen,Kimberly Michelle"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 557",
+      "courseTitle": "SMNR IN SOC/PERSON",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "R",
+      "instructor": "Ahmed,Sama"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "K",
+      "instructor": "Fine,Ione"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "S",
+      "instructor": "Flaherty,Brian P"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "H",
+      "instructor": "Gire,David Henry"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "D",
+      "instructor": "Jacques,Debrielle"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "O",
+      "instructor": "Jimenez,Tyler"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "T",
+      "instructor": "Kaiser,Cheryl"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "J",
+      "instructor": "Kim,J"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "L",
+      "instructor": "Levine,Cynthia S"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "Q",
+      "instructor": "Magis-Weinberg,Lucia"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "C",
+      "instructor": "Mizumori,Sheri J. Y."
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "G",
+      "instructor": "Murray,Scott O."
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "P",
+      "instructor": "Shoda,Yuichi"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "I",
+      "instructor": "Sisneros,Joseph A."
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "B",
+      "instructor": "Starr,Ariel"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "M",
+      "instructor": "Stocco,Andrea"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "F",
+      "instructor": "Wang,Z Yan"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "N",
+      "instructor": "Wilkins,Clara L"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 596",
+      "courseTitle": "ADV TCHG PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 598",
+      "courseTitle": "DIRECTED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 598",
+      "courseTitle": "DIRECTED READING",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 599",
+      "courseTitle": "DIR RESRCH PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "PSYCH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
       "term": "WIN2024",
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Passer,Michael W"
     },
     {
       "campus": "S",
@@ -7922,7 +9682,7 @@
       "course": "PSYCH 202",
       "courseTitle": "BIOPSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Graham,Lauren"
     },
     {
       "campus": "S",
@@ -7942,7 +9702,7 @@
       "course": "PSYCH 209",
       "courseTitle": "FDMNTLS PSYCH RSCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brand,J.L."
     },
     {
       "campus": "S",
@@ -7952,7 +9712,7 @@
       "course": "PSYCH 210",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McNichols,Nicole K"
     },
     {
       "campus": "S",
@@ -7972,7 +9732,7 @@
       "course": "PSYCH 257",
       "courseTitle": "PSYCH OF GENDER",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Culligan,Ann"
     },
     {
       "campus": "S",
@@ -7992,7 +9752,7 @@
       "course": "PSYCH 303",
       "courseTitle": "PERSONALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Titova,Milla"
     },
     {
       "campus": "S",
@@ -8002,7 +9762,7 @@
       "course": "PSYCH 305",
       "courseTitle": "ABNORMAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gasser,Melissa"
     },
     {
       "campus": "S",
@@ -8012,7 +9772,7 @@
       "course": "PSYCH 306",
       "courseTitle": "DEVELOPMENTAL PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jacques,Debrielle"
     },
     {
       "campus": "S",
@@ -8042,7 +9802,7 @@
       "course": "PSYCH 318",
       "courseTitle": "STAT INFERENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "PAULSEN,DEBORAH I."
     },
     {
       "campus": "S",
@@ -8052,7 +9812,7 @@
       "course": "PSYCH 322",
       "courseTitle": "INTRO DRUGS & BEHAV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Graham,Lauren"
     },
     {
       "campus": "S",
@@ -8252,7 +10012,7 @@
       "course": "PSYCH 458",
       "courseTitle": "BEHAVIORAL GENETICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Forsyth,Jennifer Katherine"
     },
     {
       "campus": "S",
@@ -8372,7 +10132,7 @@
       "course": "PSYCH 503",
       "courseTitle": "CORE CNCPT BEHV GEN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Forsyth,Jennifer Katherine"
     },
     {
       "campus": "S",
@@ -8832,7 +10592,7 @@
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Passer,Michael W"
     },
     {
       "campus": "S",
@@ -8862,7 +10622,7 @@
       "course": "PSYCH 202",
       "courseTitle": "BIOPSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Andelin,Adrian"
     },
     {
       "campus": "S",
@@ -8882,7 +10642,7 @@
       "course": "PSYCH 208",
       "courseTitle": "HAPPINESS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Titova,Milla"
     },
     {
       "campus": "S",
@@ -8892,7 +10652,7 @@
       "course": "PSYCH 209",
       "courseTitle": "FDMNTLS PSYCH RSCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kirkland,Tabitha"
     },
     {
       "campus": "S",
@@ -8902,7 +10662,7 @@
       "course": "PSYCH 210",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McNichols,Nicole K"
     },
     {
       "campus": "S",
@@ -8942,7 +10702,7 @@
       "course": "PSYCH 222",
       "courseTitle": "CURRENT TOPICS PSYCH",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Passer,Michael W"
     },
     {
       "campus": "S",
@@ -8962,7 +10722,7 @@
       "course": "PSYCH 303",
       "courseTitle": "PERSONALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Titova,Milla"
     },
     {
       "campus": "S",
@@ -8972,7 +10732,7 @@
       "course": "PSYCH 305",
       "courseTitle": "ABNORMAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brand,J.L."
     },
     {
       "campus": "S",
@@ -8982,7 +10742,7 @@
       "course": "PSYCH 306",
       "courseTitle": "DEVELOPMENTAL PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Repacholi,Betty"
     },
     {
       "campus": "S",
@@ -9002,7 +10762,7 @@
       "course": "PSYCH 318",
       "courseTitle": "STAT INFERENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "PAULSEN,DEBORAH I."
     },
     {
       "campus": "S",
@@ -10178,10 +11938,980 @@
       "campus": "S",
       "dept": "psych",
       "deptName": "Psychology",
-      "term": "WIN2025",
+      "term": "AUT2024",
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
       "section": "A",
+      "instructor": "Graham,Lauren"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 101",
+      "courseTitle": "INTRO TO PSYCH",
+      "section": "B",
+      "instructor": "Passer,Michael W"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 101",
+      "courseTitle": "INTRO TO PSYCH",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 101",
+      "courseTitle": "INTRO TO PSYCH",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 202",
+      "courseTitle": "BIOPSYCH",
+      "section": "A",
+      "instructor": "Andelin,Adrian"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 209",
+      "courseTitle": "FDMNTLS PSYCH RSCH",
+      "section": "A",
+      "instructor": "Wu,Delancey"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 210",
+      "courseTitle": "HUMAN SEXUALITY",
+      "section": "A",
+      "instructor": "McNichols,Nicole K"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 210",
+      "courseTitle": "HUMAN SEXUALITY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 222",
+      "courseTitle": "CURRENT TOPICS PSYCH",
+      "section": "B",
+      "instructor": "Covey,Ellen"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 222",
+      "courseTitle": "CURRENT TOPICS PSYCH",
+      "section": "C",
+      "instructor": "Culligan,Ann"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 222",
+      "courseTitle": "CURRENT TOPICS PSYCH",
+      "section": "A",
+      "instructor": "Passer,Michael W"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 298",
+      "courseTitle": "GRAD SCHOOL EXPLORE",
+      "section": "A",
+      "instructor": "Hansen,Victoria"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 299",
+      "courseTitle": "PSYCH TRAC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 300",
+      "courseTitle": "ANIMAL BEHAVIOR",
+      "section": "A",
+      "instructor": "Pendergraft,LomaJohn T"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 305",
+      "courseTitle": "PSYCH/BEHAV DISORDRS",
+      "section": "A",
+      "instructor": "Brand,J.L."
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 306",
+      "courseTitle": "DEVELOPMENTAL PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 315",
+      "courseTitle": "UNDRSTD STATS PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 317",
+      "courseTitle": "PSYCH PROB & STAT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 330",
+      "courseTitle": "LAB ANIMAL BEHAVIOR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 332",
+      "courseTitle": "NEUROBEHAVIORAL LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 332",
+      "courseTitle": "NEUROBEHAVIORAL LAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 334",
+      "courseTitle": "LAB-SOCIAL PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 335",
+      "courseTitle": "LAB PERS BEHAV SCI",
+      "section": "A",
+      "instructor": "Shoda,Yuichi"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 345",
+      "courseTitle": "SOCIAL PSYCHOLOGY",
+      "section": "A",
+      "instructor": "Titova,Milla"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 350",
+      "courseTitle": "H-RSCH SEM IN PSYCH",
+      "section": "A",
+      "instructor": "WH"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 355",
+      "courseTitle": "COGNITIVE PSYCH",
+      "section": "A",
+      "instructor": "Andelin,Adrian"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 413",
+      "courseTitle": "ADOLESCENT DEVELPMT",
+      "section": "A",
+      "instructor": "Magis-Weinberg,Lucia"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 417",
+      "courseTitle": "STRESS/AGING & BRAIN",
+      "section": "A",
+      "instructor": "Kim,Eun Joo"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 426",
+      "courseTitle": "NEUROBIOL LEARN&MEM",
+      "section": "A",
+      "instructor": "Graham,Lauren"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 440",
+      "courseTitle": "PSYCH OF EMOTION",
+      "section": "A",
+      "instructor": "Kirkland,Tabitha"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 442",
+      "courseTitle": "NATIVE AMERICN PSYCH",
+      "section": "A",
+      "instructor": "Jimenez,Tyler"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 448",
+      "courseTitle": "TOPICS PSYCH SCIENCE",
+      "section": "A",
+      "instructor": "Jacques,Debrielle"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 448",
+      "courseTitle": "TOPICS PSYCH SCIENCE",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 448",
+      "courseTitle": "TOPICS PSYCH SCIENCE",
+      "section": "C",
+      "instructor": "Wilkins,Clara L"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 448",
+      "courseTitle": "TOPICS PSYCH SCIENCE",
+      "section": "B",
+      "instructor": "Wu,Delancey"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 451",
+      "courseTitle": "HEALTH PSYCHOLOGY",
+      "section": "A",
+      "instructor": "Brand,J.L."
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 453",
+      "courseTitle": "PSYCH EVERYDAY LIFE",
+      "section": "A",
+      "instructor": "Titova,Milla"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 456",
+      "courseTitle": "SOCIAL/MORAL DEVEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 470",
+      "courseTitle": "PSYCH AND MUSIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 496",
+      "courseTitle": "UNDERGRAD TEACH EXP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 496",
+      "courseTitle": "UNDERGRAD TEACH EXP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 496",
+      "courseTitle": "UNDERGRAD TEACH EXP",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 497",
+      "courseTitle": "UNDERGRAD FIELDWORK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 497",
+      "courseTitle": "UNDERGRAD FIELDWORK",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 497",
+      "courseTitle": "UNDERGRAD FIELDWORK",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 497",
+      "courseTitle": "UNDERGRAD FIELDWORK",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 498",
+      "courseTitle": "DIRECTED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 498",
+      "courseTitle": "DIRECTED READING",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 500",
+      "courseTitle": "PROSEMINAR IN PSYCH",
+      "section": "A",
+      "instructor": "SABINE,SARENA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 500",
+      "courseTitle": "PROSEMINAR IN PSYCH",
+      "section": "B",
+      "instructor": "SABINE,SARENA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 509",
+      "courseTitle": "COMPUTATIONAL MODEL",
+      "section": "A",
+      "instructor": "Stocco,Andrea"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 511",
+      "courseTitle": "CORE CNCPT PERSNLTY",
+      "section": "A",
+      "instructor": "Shoda,Yuichi"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 514",
+      "courseTitle": "COGNIT & LING DEVEL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 522",
+      "courseTitle": "STAT CMPUTATION LAB",
+      "section": "A",
+      "instructor": "Boynton,Geoffrey M"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 524",
+      "courseTitle": "INTRO STAT/DATA ANL",
+      "section": "A",
+      "instructor": "Boynton,Geoffrey M"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 542",
+      "courseTitle": "ADV BEHV NEUROSCNCE",
+      "section": "B",
+      "instructor": "Kim,J"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 547",
+      "courseTitle": "ADV SOC-PERS PSYCH",
+      "section": "B",
+      "instructor": "Kaiser,Cheryl"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 550",
+      "courseTitle": "SMNR IN PSYCHOLOGY",
+      "section": "A",
+      "instructor": "Sisneros,Joseph A."
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 555",
+      "courseTitle": "SMNR COGN/PERCEPT",
+      "section": "B",
+      "instructor": "Fine,Ione"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 555",
+      "courseTitle": "SMNR COGN/PERCEPT",
+      "section": "A",
+      "instructor": "Stocco,Andrea"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 556",
+      "courseTitle": "SMNR IN DEVELOP PSYC",
+      "section": "A",
+      "instructor": "Repacholi,Betty"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 557",
+      "courseTitle": "SMNR IN SOC/PERSON",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "R",
+      "instructor": "Ahmed,Sama"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "W",
+      "instructor": "Boynton,Geoffrey M"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "U",
+      "instructor": "Cheryan,Sapna"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "K",
+      "instructor": "Fine,Ione"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "S",
+      "instructor": "Flaherty,Brian P"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "H",
+      "instructor": "Gire,David Henry"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "V",
+      "instructor": "JOSLYN,Susan L"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "D",
+      "instructor": "Jacques,Debrielle"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "O",
+      "instructor": "Jimenez,Tyler"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "T",
+      "instructor": "Kaiser,Cheryl"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "J",
+      "instructor": "Kim,J"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "L",
+      "instructor": "Levine,Cynthia S"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "Q",
+      "instructor": "Magis-Weinberg,Lucia"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "C",
+      "instructor": "Mizumori,Sheri J. Y."
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "G",
+      "instructor": "Murray,Scott O."
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "M",
+      "instructor": "Prat,Chantel"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "P",
+      "instructor": "Shoda,Yuichi"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "I",
+      "instructor": "Sisneros,Joseph A."
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "B",
+      "instructor": "Starr,Ariel"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "F",
+      "instructor": "Wang,Z Yan"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "N",
+      "instructor": "Wilkins,Clara L"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "E",
+      "instructor": "Williams,Amber D."
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 596",
+      "courseTitle": "ADV TCHG PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 598",
+      "courseTitle": "DIRECTED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 598",
+      "courseTitle": "DIRECTED READING",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 599",
+      "courseTitle": "DIR RESRCH PSYCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2024",
+      "course": "PSYCH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "B",
       "instructor": "TBA"
     },
     {
@@ -10199,10 +12929,20 @@
       "dept": "psych",
       "deptName": "Psychology",
       "term": "WIN2025",
+      "course": "PSYCH 101",
+      "courseTitle": "INTRO TO PSYCH",
+      "section": "A",
+      "instructor": "Wu,Delancey"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "WIN2025",
       "course": "PSYCH 202",
       "courseTitle": "BIOPSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Graham,Lauren"
     },
     {
       "campus": "S",
@@ -10222,7 +12962,7 @@
       "course": "PSYCH 209",
       "courseTitle": "FDMNTLS PSYCH RSCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bristol,Rachel"
     },
     {
       "campus": "S",
@@ -10232,7 +12972,7 @@
       "course": "PSYCH 210",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McNichols,Nicole K"
     },
     {
       "campus": "S",
@@ -10252,7 +12992,7 @@
       "course": "PSYCH 257",
       "courseTitle": "PSYCH OF GENDER",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Culligan,Ann"
     },
     {
       "campus": "S",
@@ -10272,7 +13012,7 @@
       "course": "PSYCH 302",
       "courseTitle": "NEUROSCIENCE OF MIND",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kim,Eun Joo"
     },
     {
       "campus": "S",
@@ -10282,7 +13022,7 @@
       "course": "PSYCH 306",
       "courseTitle": "DEVELOPMENTAL PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Martin,Berit Ruth Olsen"
     },
     {
       "campus": "S",
@@ -10312,7 +13052,7 @@
       "course": "PSYCH 318",
       "courseTitle": "STAT INFERENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "PAULSEN,DEBORAH I."
     },
     {
       "campus": "S",
@@ -10382,7 +13122,7 @@
       "course": "PSYCH 345",
       "courseTitle": "SOCIAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wilkins,Clara L"
     },
     {
       "campus": "S",
@@ -10392,7 +13132,7 @@
       "course": "PSYCH 355",
       "courseTitle": "COGNITIVE PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Andelin,Adrian"
     },
     {
       "campus": "S",
@@ -10522,7 +13262,7 @@
       "course": "PSYCH 458",
       "courseTitle": "BEHAVIORAL GENETICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Forsyth,Jennifer Katherine"
     },
     {
       "campus": "S",
@@ -11082,7 +13822,7 @@
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Andelin,Adrian"
     },
     {
       "campus": "S",
@@ -11092,7 +13832,7 @@
       "course": "PSYCH 202",
       "courseTitle": "BIOPSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Graham,Lauren"
     },
     {
       "campus": "S",
@@ -11122,7 +13862,7 @@
       "course": "PSYCH 210",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McNichols,Nicole K"
     },
     {
       "campus": "S",
@@ -11152,7 +13892,7 @@
       "course": "PSYCH 300",
       "courseTitle": "ANIMAL BEHAVIOR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pendergraft,LomaJohn T"
     },
     {
       "campus": "S",
@@ -11162,7 +13902,7 @@
       "course": "PSYCH 302",
       "courseTitle": "NEUROSCIENCE OF MIND",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kim,J"
     },
     {
       "campus": "S",
@@ -11172,7 +13912,7 @@
       "course": "PSYCH 305",
       "courseTitle": "PSYCH/BEHAV DISORDRS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Forsyth,Jennifer Katherine"
     },
     {
       "campus": "S",
@@ -11202,7 +13942,7 @@
       "course": "PSYCH 318",
       "courseTitle": "STAT INFERENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "PAULSEN,DEBORAH I."
     },
     {
       "campus": "S",
@@ -11272,7 +14012,7 @@
       "course": "PSYCH 357",
       "courseTitle": "PSYCHOBIOL OF WOMEN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Culligan,Ann"
     },
     {
       "campus": "S",
@@ -11952,7 +14692,7 @@
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pendergraft,LomaJohn T"
     },
     {
       "campus": "S",
@@ -11962,7 +14702,7 @@
       "course": "PSYCH 202",
       "courseTitle": "BIOPSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Culligan,Ann"
     },
     {
       "campus": "S",
@@ -12232,7 +14972,7 @@
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bristol,Rachel"
     },
     {
       "campus": "S",
@@ -12242,7 +14982,7 @@
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Graham,Lauren"
     },
     {
       "campus": "S",
@@ -12272,7 +15012,7 @@
       "course": "PSYCH 202",
       "courseTitle": "BIOPSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Andelin,Adrian"
     },
     {
       "campus": "S",
@@ -12282,7 +15022,7 @@
       "course": "PSYCH 209",
       "courseTitle": "FDMNTLS PSYCH RSCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bernier,Raphael"
     },
     {
       "campus": "S",
@@ -12292,7 +15032,7 @@
       "course": "PSYCH 210",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McNichols,Nicole K"
     },
     {
       "campus": "S",
@@ -12312,7 +15052,7 @@
       "course": "PSYCH 222",
       "courseTitle": "CURRENT TOPICS PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Covey,Ellen"
     },
     {
       "campus": "S",
@@ -12342,7 +15082,7 @@
       "course": "PSYCH 300",
       "courseTitle": "ANIMAL BEHAVIOR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ahmed,Sama"
     },
     {
       "campus": "S",
@@ -12352,7 +15092,7 @@
       "course": "PSYCH 302",
       "courseTitle": "NEUROSCIENCE OF MIND",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kim,J"
     },
     {
       "campus": "S",
@@ -12362,7 +15102,7 @@
       "course": "PSYCH 305",
       "courseTitle": "PSYCH/BEHAV DISORDRS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bernier,Raphael"
     },
     {
       "campus": "S",
@@ -12372,7 +15112,7 @@
       "course": "PSYCH 306",
       "courseTitle": "DEVELOPMENTAL PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kirkland,Tabitha"
     },
     {
       "campus": "S",
@@ -12402,7 +15142,7 @@
       "course": "PSYCH 330",
       "courseTitle": "LAB ANIMAL BEHAVIOR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pendergraft,LomaJohn T"
     },
     {
       "campus": "S",
@@ -12432,7 +15172,7 @@
       "course": "PSYCH 335",
       "courseTitle": "LAB PERS BEHAV SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Quame-Amaglo,Justice"
     },
     {
       "campus": "S",
@@ -12442,7 +15182,7 @@
       "course": "PSYCH 345",
       "courseTitle": "SOCIAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wu,Delancey"
     },
     {
       "campus": "S",
@@ -12462,7 +15202,7 @@
       "course": "PSYCH 355",
       "courseTitle": "COGNITIVE PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bristol,Rachel"
     },
     {
       "campus": "S",
@@ -12472,7 +15212,7 @@
       "course": "PSYCH 403",
       "courseTitle": "MOTIVATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Culligan,Ann"
     },
     {
       "campus": "S",
@@ -12482,7 +15222,7 @@
       "course": "PSYCH 416",
       "courseTitle": "ANIM COMMUNICATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pendergraft,LomaJohn T"
     },
     {
       "campus": "S",
@@ -12492,17 +15232,7 @@
       "course": "PSYCH 430",
       "courseTitle": "BRAIN DEVELOPMENT",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "AUT2025",
-      "course": "PSYCH 448",
-      "courseTitle": "TOPICS PSYCH SCIENCE",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Andelin,Adrian"
     },
     {
       "campus": "S",
@@ -12512,7 +15242,7 @@
       "course": "PSYCH 448",
       "courseTitle": "TOPICS PSYCH SCIENCE",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "A Wu,Delancey"
     },
     {
       "campus": "S",
@@ -12521,8 +15251,8 @@
       "term": "AUT2025",
       "course": "PSYCH 448",
       "courseTitle": "TOPICS PSYCH SCIENCE",
-      "section": "C",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Jacques,Debrielle"
     },
     {
       "campus": "S",
@@ -12532,7 +15262,17 @@
       "course": "PSYCH 448",
       "courseTitle": "TOPICS PSYCH SCIENCE",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Little,Laura"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2025",
+      "course": "PSYCH 448",
+      "courseTitle": "TOPICS PSYCH SCIENCE",
+      "section": "C",
+      "instructor": "Wilkins,Clara L"
     },
     {
       "campus": "S",
@@ -12542,7 +15282,7 @@
       "course": "PSYCH 451",
       "courseTitle": "HEALTH PSYCHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Levine,Cynthia S"
     },
     {
       "campus": "S",
@@ -12562,7 +15302,7 @@
       "course": "PSYCH 470",
       "courseTitle": "PSYCH AND MUSIC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Covey,Ellen"
     },
     {
       "campus": "S",
@@ -12572,7 +15312,7 @@
       "course": "PSYCH 479",
       "courseTitle": "ADV HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McNichols,Nicole K"
     },
     {
       "campus": "S",
@@ -12582,7 +15322,7 @@
       "course": "PSYCH 488",
       "courseTitle": "STRESS & COPING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Graham,Lauren"
     },
     {
       "campus": "S",
@@ -12682,7 +15422,7 @@
       "course": "PSYCH 500",
       "courseTitle": "PROSEMINAR IN PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "SABINE,SARENA"
     },
     {
       "campus": "S",
@@ -12692,7 +15432,7 @@
       "course": "PSYCH 500",
       "courseTitle": "PROSEMINAR IN PSYCH",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "SABINE,SARENA"
     },
     {
       "campus": "S",
@@ -12702,7 +15442,7 @@
       "course": "PSYCH 522",
       "courseTitle": "STAT CMPUTATION LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Boynton,Geoffrey M"
     },
     {
       "campus": "S",
@@ -12712,7 +15452,7 @@
       "course": "PSYCH 524",
       "courseTitle": "INTRO STAT/DATA ANL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Boynton,Geoffrey M"
     },
     {
       "campus": "S",
@@ -12722,7 +15462,7 @@
       "course": "PSYCH 535",
       "courseTitle": "SCNTIFIC WRITING PSY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Starr,Ariel"
     },
     {
       "campus": "S",
@@ -12732,7 +15472,7 @@
       "course": "PSYCH 550",
       "courseTitle": "SMNR IN PSYCHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sisneros,Joseph A."
     },
     {
       "campus": "S",
@@ -12742,7 +15482,7 @@
       "course": "PSYCH 552",
       "courseTitle": "SMNR IN BEHV NEURSC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ahmed,Sama"
     },
     {
       "campus": "S",
@@ -12752,7 +15492,7 @@
       "course": "PSYCH 555",
       "courseTitle": "SMNR COGN/PERCEPT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stocco,Andrea"
     },
     {
       "campus": "S",
@@ -12762,7 +15502,7 @@
       "course": "PSYCH 556",
       "courseTitle": "SMNR IN DEVELOP PSYC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Williams,Amber D."
     },
     {
       "campus": "S",
@@ -12773,6 +15513,126 @@
       "courseTitle": "SMNR IN SOC/PERSON",
       "section": "A",
       "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2025",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "R",
+      "instructor": "Ahmed,Sama"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2025",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "V",
+      "instructor": "Boynton,Geoffrey M"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2025",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "U",
+      "instructor": "Cheryan,Sapna"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2025",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "K",
+      "instructor": "Fine,Ione"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2025",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "S",
+      "instructor": "Flaherty,Brian P"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2025",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "H",
+      "instructor": "Gire,David Henry"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2025",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "T",
+      "instructor": "Kaiser,Cheryl"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2025",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "J",
+      "instructor": "Kim,J"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2025",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "L",
+      "instructor": "Levine,Cynthia S"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2025",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "Q",
+      "instructor": "Magis-Weinberg,Lucia"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2025",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "G",
+      "instructor": "Murray,Scott O."
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2025",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "O",
+      "instructor": "Stocco,Andrea"
     },
     {
       "campus": "S",
@@ -12821,77 +15681,7 @@
       "term": "AUT2025",
       "course": "PSYCH 560",
       "courseTitle": "RESEARCH STRATEGIES",
-      "section": "E",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "AUT2025",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "F",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "AUT2025",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "G",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "AUT2025",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "H",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "AUT2025",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
       "section": "I",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "AUT2025",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "J",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "AUT2025",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "K",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "AUT2025",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "L",
       "instructor": "TBA"
     },
     {
@@ -12911,8 +15701,18 @@
       "term": "AUT2025",
       "course": "PSYCH 560",
       "courseTitle": "RESEARCH STRATEGIES",
+      "section": "F",
+      "instructor": "Wang,Z Yan"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "AUT2025",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
       "section": "N",
-      "instructor": "TBA"
+      "instructor": "Wilkins,Clara L"
     },
     {
       "campus": "S",
@@ -12921,68 +15721,8 @@
       "term": "AUT2025",
       "course": "PSYCH 560",
       "courseTitle": "RESEARCH STRATEGIES",
-      "section": "O",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "AUT2025",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "Q",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "AUT2025",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "R",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "AUT2025",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "S",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "AUT2025",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "T",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "AUT2025",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "U",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "AUT2025",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "V",
-      "instructor": "TBA"
+      "section": "E",
+      "instructor": "Williams,Amber D."
     },
     {
       "campus": "S",
@@ -13112,7 +15852,7 @@
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Andelin,Adrian"
     },
     {
       "campus": "S",
@@ -13122,7 +15862,7 @@
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Brown,Jonathon D"
     },
     {
       "campus": "S",
@@ -13132,7 +15872,7 @@
       "course": "PSYCH 202",
       "courseTitle": "BIOPSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Graham,Lauren"
     },
     {
       "campus": "S",
@@ -13152,7 +15892,7 @@
       "course": "PSYCH 209",
       "courseTitle": "FDMNTLS PSYCH RSCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wu,Delancey"
     },
     {
       "campus": "S",
@@ -13182,7 +15922,7 @@
       "course": "PSYCH 257",
       "courseTitle": "PSYCH OF GENDER",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Culligan,Ann"
     },
     {
       "campus": "S",
@@ -13202,7 +15942,7 @@
       "course": "PSYCH 300",
       "courseTitle": "ANIMAL BEHAVIOR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pendergraft,LomaJohn T"
     },
     {
       "campus": "S",
@@ -13212,7 +15952,7 @@
       "course": "PSYCH 305",
       "courseTitle": "PSYCH/BEHAV DISORDRS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bernier,Raphael"
     },
     {
       "campus": "S",
@@ -13252,7 +15992,7 @@
       "course": "PSYCH 318",
       "courseTitle": "STAT INFERENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "PAULSEN,DEBORAH I."
     },
     {
       "campus": "S",
@@ -13292,7 +16032,7 @@
       "course": "PSYCH 333",
       "courseTitle": "SEN/PERCPT PROCESS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Covey,Ellen"
     },
     {
       "campus": "S",
@@ -13312,7 +16052,7 @@
       "course": "PSYCH 335",
       "courseTitle": "LAB PERS BEHAV SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Shoda,Yuichi"
     },
     {
       "campus": "S",
@@ -13352,7 +16092,7 @@
       "course": "PSYCH 410",
       "courseTitle": "CHLD/ADDL BEHAV DIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bernier,Raphael"
     },
     {
       "campus": "S",
@@ -13362,7 +16102,7 @@
       "course": "PSYCH 414",
       "courseTitle": "COGNITIVE DEVLOPMNT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Starr,Ariel"
     },
     {
       "campus": "S",
@@ -13372,7 +16112,7 @@
       "course": "PSYCH 439",
       "courseTitle": "HEALTH DISPARITIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Levine,Cynthia S"
     },
     {
       "campus": "S",
@@ -13392,7 +16132,7 @@
       "course": "PSYCH 447",
       "courseTitle": "PSYCH OF LANGUAGE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bristol,Rachel"
     },
     {
       "campus": "S",
@@ -13402,7 +16142,7 @@
       "course": "PSYCH 448",
       "courseTitle": "TOPICS PSYCH SCIENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ahmed,Sama"
     },
     {
       "campus": "S",
@@ -13412,7 +16152,7 @@
       "course": "PSYCH 448",
       "courseTitle": "TOPICS PSYCH SCIENCE",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Gire,David Henry"
     },
     {
       "campus": "S",
@@ -13422,7 +16162,7 @@
       "course": "PSYCH 448",
       "courseTitle": "TOPICS PSYCH SCIENCE",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Prat,Chantel"
     },
     {
       "campus": "S",
@@ -13432,7 +16172,7 @@
       "course": "PSYCH 448",
       "courseTitle": "TOPICS PSYCH SCIENCE",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Wu,Delancey"
     },
     {
       "campus": "S",
@@ -13462,7 +16202,7 @@
       "course": "PSYCH 458",
       "courseTitle": "BEHAVIORAL GENETICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Forsyth,Jennifer Katherine"
     },
     {
       "campus": "S",
@@ -13472,7 +16212,7 @@
       "course": "PSYCH 460",
       "courseTitle": "COG NEUROSCIENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bristol,Rachel"
     },
     {
       "campus": "S",
@@ -13562,7 +16302,7 @@
       "course": "PSYCH 510",
       "courseTitle": "CORE CNCPTS SOC PSY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cheryan,Sapna"
     },
     {
       "campus": "S",
@@ -13572,7 +16312,7 @@
       "course": "PSYCH 517",
       "courseTitle": "SOC AFF DEV ADOL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Magis-Weinberg,Lucia"
     },
     {
       "campus": "S",
@@ -13602,7 +16342,7 @@
       "course": "PSYCH 528",
       "courseTitle": "CORE CNCPT BEHV RSCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Shoda,Yuichi"
     },
     {
       "campus": "S",
@@ -13612,7 +16352,7 @@
       "course": "PSYCH 535",
       "courseTitle": "SCNTIFIC WRITING PSY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jacques,Debrielle"
     },
     {
       "campus": "S",
@@ -13622,7 +16362,7 @@
       "course": "PSYCH 545",
       "courseTitle": "ADV COGN/PERCEP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Murray,Scott O."
     },
     {
       "campus": "S",
@@ -13632,7 +16372,7 @@
       "course": "PSYCH 550",
       "courseTitle": "SMNR IN PSYCHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sisneros,Joseph A."
     },
     {
       "campus": "S",
@@ -13642,17 +16382,7 @@
       "course": "PSYCH 554",
       "courseTitle": "RACISM IN NEUROSCI",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "WIN2026",
-      "course": "PSYCH 555",
-      "courseTitle": "SMNR COGN/PERCEPT",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wang,Z Yan"
     },
     {
       "campus": "S",
@@ -13662,7 +16392,7 @@
       "course": "PSYCH 555",
       "courseTitle": "SMNR COGN/PERCEPT",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Fine,Ione"
     },
     {
       "campus": "S",
@@ -13672,7 +16402,17 @@
       "course": "PSYCH 555",
       "courseTitle": "SMNR COGN/PERCEPT",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Fine,Ione"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "WIN2026",
+      "course": "PSYCH 555",
+      "courseTitle": "SMNR COGN/PERCEPT",
+      "section": "A",
+      "instructor": "Stocco,Andrea"
     },
     {
       "campus": "S",
@@ -13682,7 +16422,7 @@
       "course": "PSYCH 556",
       "courseTitle": "SMNR IN DEVELOP PSYC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Williams,Amber D."
     },
     {
       "campus": "S",
@@ -13701,8 +16441,68 @@
       "term": "WIN2026",
       "course": "PSYCH 560",
       "courseTitle": "RESEARCH STRATEGIES",
+      "section": "N",
+      "instructor": "Ahmed,Sama"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "WIN2026",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "M",
+      "instructor": "Boynton,Geoffrey M"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "WIN2026",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "P",
+      "instructor": "Cheryan,Sapna"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "WIN2026",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "D",
+      "instructor": "Fine,Ione"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "WIN2026",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "O",
+      "instructor": "Flaherty,Brian P"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "WIN2026",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gire,David Henry"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "WIN2026",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "Q",
+      "instructor": "Kahn,Peter"
     },
     {
       "campus": "S",
@@ -13712,7 +16512,77 @@
       "course": "PSYCH 560",
       "courseTitle": "RESEARCH STRATEGIES",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Levine,Cynthia S"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "WIN2026",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "V",
+      "instructor": "Magis-Weinberg,Lucia"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "WIN2026",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "H",
+      "instructor": "Murray,Scott O."
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "WIN2026",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "F",
+      "instructor": "Prat,Chantel"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "WIN2026",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "K",
+      "instructor": "Shoda,Yuichi"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "WIN2026",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "I",
+      "instructor": "Sisneros,Joseph A."
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "WIN2026",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "L",
+      "instructor": "Starr,Ariel"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "WIN2026",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "U",
+      "instructor": "Stocco,Andrea"
     },
     {
       "campus": "S",
@@ -13731,127 +16601,7 @@
       "term": "WIN2026",
       "course": "PSYCH 560",
       "courseTitle": "RESEARCH STRATEGIES",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "WIN2026",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "E",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "WIN2026",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "F",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "WIN2026",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "H",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "WIN2026",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "I",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "WIN2026",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
       "section": "J",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "WIN2026",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "K",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "WIN2026",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "L",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "WIN2026",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "M",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "WIN2026",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "N",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "WIN2026",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "O",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "WIN2026",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "P",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "WIN2026",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "Q",
       "instructor": "TBA"
     },
     {
@@ -13891,18 +16641,8 @@
       "term": "WIN2026",
       "course": "PSYCH 560",
       "courseTitle": "RESEARCH STRATEGIES",
-      "section": "U",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "WIN2026",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "V",
-      "instructor": "TBA"
+      "section": "E",
+      "instructor": "Wang,Z Yan"
     },
     {
       "campus": "S",
@@ -14032,7 +16772,7 @@
       "course": "PSYCH 101",
       "courseTitle": "INTRO TO PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pendergraft,LomaJohn T"
     },
     {
       "campus": "S",
@@ -14042,7 +16782,7 @@
       "course": "PSYCH 202",
       "courseTitle": "BIOPSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Graham,Lauren"
     },
     {
       "campus": "S",
@@ -14052,7 +16792,7 @@
       "course": "PSYCH 203",
       "courseTitle": "PERS & INDIV DIFFS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brown,Jonathon D"
     },
     {
       "campus": "S",
@@ -14062,7 +16802,7 @@
       "course": "PSYCH 208",
       "courseTitle": "HAPPINESS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kirkland,Tabitha"
     },
     {
       "campus": "S",
@@ -14072,7 +16812,7 @@
       "course": "PSYCH 209",
       "courseTitle": "FDMNTLS PSYCH RSCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bernier,Raphael"
     },
     {
       "campus": "S",
@@ -14082,7 +16822,7 @@
       "course": "PSYCH 210",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McNichols,Nicole K"
     },
     {
       "campus": "S",
@@ -14102,7 +16842,7 @@
       "course": "PSYCH 222",
       "courseTitle": "CURRENT TOPICS PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bernier,Raphael"
     },
     {
       "campus": "S",
@@ -14122,7 +16862,7 @@
       "course": "PSYCH 302",
       "courseTitle": "NEUROSCIENCE OF MIND",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gire,David Henry"
     },
     {
       "campus": "S",
@@ -14132,7 +16872,7 @@
       "course": "PSYCH 305",
       "courseTitle": "PSYCH/BEHAV DISORDRS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Forsyth,Jennifer Katherine"
     },
     {
       "campus": "S",
@@ -14202,7 +16942,7 @@
       "course": "PSYCH 335",
       "courseTitle": "LAB PERS BEHAV SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Shoda,Yuichi"
     },
     {
       "campus": "S",
@@ -14212,7 +16952,7 @@
       "course": "PSYCH 345",
       "courseTitle": "SOCIAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wu,Delancey"
     },
     {
       "campus": "S",
@@ -14222,7 +16962,7 @@
       "course": "PSYCH 355",
       "courseTitle": "COGNITIVE PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bristol,Rachel"
     },
     {
       "campus": "S",
@@ -14252,7 +16992,7 @@
       "course": "PSYCH 413",
       "courseTitle": "ADOLESCENT DEVELPMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Magis-Weinberg,Lucia"
     },
     {
       "campus": "S",
@@ -14262,7 +17002,7 @@
       "course": "PSYCH 416",
       "courseTitle": "ANIM COMMUNICATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pendergraft,LomaJohn T"
     },
     {
       "campus": "S",
@@ -14272,7 +17012,7 @@
       "course": "PSYCH 417",
       "courseTitle": "STRESS/AGING & BRAIN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kim,J"
     },
     {
       "campus": "S",
@@ -14282,7 +17022,7 @@
       "course": "PSYCH 420",
       "courseTitle": "DRUGS & BEHAVIOR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Graham,Lauren"
     },
     {
       "campus": "S",
@@ -14292,7 +17032,7 @@
       "course": "PSYCH 425",
       "courseTitle": "COMPUTNL PSYCHIATRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stocco,Andrea"
     },
     {
       "campus": "S",
@@ -14302,7 +17042,7 @@
       "course": "PSYCH 430",
       "courseTitle": "BRAIN DEVELOPMENT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Andelin,Adrian"
     },
     {
       "campus": "S",
@@ -14322,7 +17062,7 @@
       "course": "PSYCH 447",
       "courseTitle": "PSYCH OF LANGUAGE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bristol,Rachel"
     },
     {
       "campus": "S",
@@ -14332,7 +17072,7 @@
       "course": "PSYCH 456",
       "courseTitle": "SOCIAL/MORAL DEVEL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Williams,Amber D."
     },
     {
       "campus": "S",
@@ -14342,7 +17082,7 @@
       "course": "PSYCH 461",
       "courseTitle": "ASIAN AMER PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wu,Delancey"
     },
     {
       "campus": "S",
@@ -14352,7 +17092,7 @@
       "course": "PSYCH 479",
       "courseTitle": "ADV HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McNichols,Nicole K"
     },
     {
       "campus": "S",
@@ -14372,7 +17112,7 @@
       "course": "PSYCH 489",
       "courseTitle": "CLINICAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "George,William H"
     },
     {
       "campus": "S",
@@ -14462,7 +17202,7 @@
       "course": "PSYCH 504",
       "courseTitle": "CORE CNCPT BEH NRSC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kim,J"
     },
     {
       "campus": "S",
@@ -14472,7 +17212,7 @@
       "course": "PSYCH 507",
       "courseTitle": "CORE CNCPT COGN PSY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Prat,Chantel"
     },
     {
       "campus": "S",
@@ -14482,7 +17222,7 @@
       "course": "PSYCH 546",
       "courseTitle": "ADV DEVEL PSYCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Meltzoff,Andrew N"
     },
     {
       "campus": "S",
@@ -14492,17 +17232,7 @@
       "course": "PSYCH 550",
       "courseTitle": "SMNR IN PSYCHOLOGY",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "SPR2026",
-      "course": "PSYCH 555",
-      "courseTitle": "SMNR COGN/PERCEPT",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sisneros,Joseph A."
     },
     {
       "campus": "S",
@@ -14512,7 +17242,17 @@
       "course": "PSYCH 555",
       "courseTitle": "SMNR COGN/PERCEPT",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Fine,Ione"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2026",
+      "course": "PSYCH 555",
+      "courseTitle": "SMNR COGN/PERCEPT",
+      "section": "A",
+      "instructor": "Stocco,Andrea"
     },
     {
       "campus": "S",
@@ -14522,7 +17262,7 @@
       "course": "PSYCH 556",
       "courseTitle": "SMNR IN DEVELOP PSYC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Williams,Amber D."
     },
     {
       "campus": "S",
@@ -14551,8 +17291,8 @@
       "term": "SPR2026",
       "course": "PSYCH 560",
       "courseTitle": "RESEARCH STRATEGIES",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "H",
+      "instructor": "Ahmed,Sama"
     },
     {
       "campus": "S",
@@ -14561,28 +17301,8 @@
       "term": "SPR2026",
       "course": "PSYCH 560",
       "courseTitle": "RESEARCH STRATEGIES",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "SPR2026",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "SPR2026",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "D",
-      "instructor": "TBA"
+      "section": "N",
+      "instructor": "Cheryan,Sapna"
     },
     {
       "campus": "S",
@@ -14592,7 +17312,7 @@
       "course": "PSYCH 560",
       "courseTitle": "RESEARCH STRATEGIES",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Fine,Ione"
     },
     {
       "campus": "S",
@@ -14601,8 +17321,48 @@
       "term": "SPR2026",
       "course": "PSYCH 560",
       "courseTitle": "RESEARCH STRATEGIES",
-      "section": "F",
-      "instructor": "TBA"
+      "section": "R",
+      "instructor": "Flaherty,Brian P"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2026",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "B",
+      "instructor": "Gire,David Henry"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2026",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "J",
+      "instructor": "Jacques,Debrielle"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2026",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "S",
+      "instructor": "Kahn,Peter"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2026",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "O",
+      "instructor": "Kaiser,Cheryl"
     },
     {
       "campus": "S",
@@ -14612,7 +17372,7 @@
       "course": "PSYCH 560",
       "courseTitle": "RESEARCH STRATEGIES",
       "section": "G",
-      "instructor": "TBA"
+      "instructor": "Kim,J"
     },
     {
       "campus": "S",
@@ -14621,7 +17381,47 @@
       "term": "SPR2026",
       "course": "PSYCH 560",
       "courseTitle": "RESEARCH STRATEGIES",
-      "section": "H",
+      "section": "M",
+      "instructor": "Levine,Cynthia S"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2026",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "K",
+      "instructor": "Murray,Scott O."
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2026",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "A",
+      "instructor": "Shoda,Yuichi"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2026",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "F",
+      "instructor": "Stocco,Andrea"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2026",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "D",
       "instructor": "TBA"
     },
     {
@@ -14641,57 +17441,7 @@
       "term": "SPR2026",
       "course": "PSYCH 560",
       "courseTitle": "RESEARCH STRATEGIES",
-      "section": "J",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "SPR2026",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "K",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "SPR2026",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
       "section": "L",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "SPR2026",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "M",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "SPR2026",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "N",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "SPR2026",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "O",
       "instructor": "TBA"
     },
     {
@@ -14721,26 +17471,6 @@
       "term": "SPR2026",
       "course": "PSYCH 560",
       "courseTitle": "RESEARCH STRATEGIES",
-      "section": "R",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "SPR2026",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
-      "section": "S",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "psych",
-      "deptName": "Psychology",
-      "term": "SPR2026",
-      "course": "PSYCH 560",
-      "courseTitle": "RESEARCH STRATEGIES",
       "section": "T",
       "instructor": "TBA"
     },
@@ -14753,6 +17483,16 @@
       "courseTitle": "RESEARCH STRATEGIES",
       "section": "U",
       "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2026",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "C",
+      "instructor": "Wang,Z Yan"
     },
     {
       "campus": "S",

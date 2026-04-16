@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Barnes%2CChristopher",
+  "professor": "Barnes,Christopher",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SPR2026",
+      "course": "MGMT 547",
+      "courseTitle": "SUCCESS NEGOTIATIONS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "barm",
+      "deptName": "Business Administration Research Methods",
+      "term": "AUT2023",
+      "course": "BA RM 590",
+      "courseTitle": "BEHAVRL RSCH-THEORY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2021",
+      "course": "MGMT 300",
+      "courseTitle": "LDRSHIP & ORG BEHAV",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "WIN2021",
+      "course": "MGMT 580",
+      "courseTitle": "PSYCH FOUND OF OB",
+      "section": "A"
+    }
+  ]
+}

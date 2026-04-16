@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:25Z",
+  "id": "S%20-%20STAT%20554",
+  "course": "S - STAT 554",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "WIN2025",
+      "course": "STAT 554",
+      "courseTitle": "STAT METHODS SPATIAL",
+      "section": "A",
+      "instructor": "Wakefield,Jon"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "WIN2023",
+      "course": "STAT 554",
+      "courseTitle": "STAT METHODS SPATIAL",
+      "section": "A",
+      "instructor": "Wakefield,Jon"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "WIN2021",
+      "course": "STAT 554",
+      "courseTitle": "STAT METHODS SPATIAL",
+      "section": "A",
+      "instructor": "Wakefield,Jon"
+    }
+  ]
+}

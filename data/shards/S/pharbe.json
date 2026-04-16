@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:28:00Z",
+  "generatedAt": "2026-04-16T02:57:15Z",
   "campus": "S",
   "dept": "pharbe",
   "deptName": "Pharmaceutical Bioengineering",
@@ -18,9 +18,49 @@
       "campus": "S",
       "dept": "pharbe",
       "deptName": "Pharmaceutical Bioengineering",
+      "term": "AUT2024",
+      "course": "PHARBE 506",
+      "courseTitle": "PHARBE SEMINAR",
+      "section": "C",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "pharbe",
+      "deptName": "Pharmaceutical Bioengineering",
+      "term": "AUT2024",
+      "course": "PHARBE 506",
+      "courseTitle": "PHARBE SEMINAR",
+      "section": "D",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "pharbe",
+      "deptName": "Pharmaceutical Bioengineering",
       "term": "WIN2025",
       "course": "PHARBE 511",
       "courseTitle": "PROCESS DEVELOPMENT",
+      "section": "B",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "pharbe",
+      "deptName": "Pharmaceutical Bioengineering",
+      "term": "SPR2025",
+      "course": "PHARBE 502",
+      "courseTitle": "PHARMACEUTICS I",
+      "section": "C",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "pharbe",
+      "deptName": "Pharmaceutical Bioengineering",
+      "term": "SPR2025",
+      "course": "PHARBE 513",
+      "courseTitle": "CLINICAL DEVELOPMNT",
       "section": "B",
       "instructor": "JO"
     },

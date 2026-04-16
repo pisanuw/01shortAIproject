@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20INFO%20353",
+  "course": "S - INFO 353",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2025",
+      "course": "INFO 353",
+      "courseTitle": "INDIG DIGITAL WRLD",
+      "section": "A",
+      "instructor": "Littletree,Sandy"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2024",
+      "course": "INFO 353",
+      "courseTitle": "INDIG DIGITAL WRLD",
+      "section": "A",
+      "instructor": "Campbell,Tessa Rose"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2023",
+      "course": "INFO 353",
+      "courseTitle": "INDIG DIGITAL WRLD",
+      "section": "A",
+      "instructor": "Littletree,Sandy"
+    }
+  ]
+}

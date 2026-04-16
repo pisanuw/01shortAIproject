@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Park%2CJeewon",
+  "professor": "Park,Jeewon",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2023",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2022",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2021",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "C"
+    }
+  ]
+}

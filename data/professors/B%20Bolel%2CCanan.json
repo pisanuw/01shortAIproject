@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "B%20Bolel%2CCanan",
+  "professor": "B Bolel,Canan",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "melc",
+      "deptName": "Middle Eastern Languages and Cultures",
+      "term": "SPR2024",
+      "course": "MELC 596",
+      "courseTitle": "SPECIAL STUDIES",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ladino",
+      "deptName": "Ladino",
+      "term": "SPR2024",
+      "course": "LADINO 200",
+      "courseTitle": "GUIDED RDNGS LADINO",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "jewst",
+      "deptName": "Jewish Studies",
+      "term": "SPR2024",
+      "course": "JEW ST 215",
+      "courseTitle": "LADINO LANG CULTURE",
+      "section": "A"
+    }
+  ]
+}

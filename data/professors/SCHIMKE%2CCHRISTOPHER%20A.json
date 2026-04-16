@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "SCHIMKE%2CCHRISTOPHER%20A",
+  "professor": "SCHIMKE,CHRISTOPHER A",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "SUM2021",
+      "course": "PHIL 240",
+      "courseTitle": "INTRO TO ETHICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "WIN2021",
+      "course": "PHIL 301",
+      "courseTitle": "INTERMEDIATE TOPICS",
+      "section": "B"
+    }
+  ]
+}

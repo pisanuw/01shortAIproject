@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:28:00Z",
+  "generatedAt": "2026-04-16T02:57:16Z",
   "campus": "S",
   "dept": "famed",
   "deptName": "Family Medicine",
@@ -21,7 +21,7 @@
       "term": "AUT2020",
       "course": "FAMED 516",
       "courseTitle": "TEAMCARE UNDERSERVED",
-      "section": "A",
+      "section": "C",
       "instructor": "Keys,Toby"
     },
     {
@@ -31,8 +31,8 @@
       "term": "AUT2020",
       "course": "FAMED 516",
       "courseTitle": "TEAMCARE UNDERSERVED",
-      "section": "C",
-      "instructor": "Keys,Toby"
+      "section": "A",
+      "instructor": "P Keys,Toby"
     },
     {
       "campus": "S",
@@ -102,7 +102,7 @@
       "course": "FAMED 561",
       "courseTitle": "LGBTQ HEALTH",
       "section": "A",
-      "instructor": "Wang,K"
+      "instructor": "P Wang,K"
     },
     {
       "campus": "S",
@@ -822,7 +822,7 @@
       "course": "FAMED 535",
       "courseTitle": "MED CHINESE TRMNLGY",
       "section": "A",
-      "instructor": "Zhu,L"
+      "instructor": "P Zhu,L"
     },
     {
       "campus": "S",
@@ -3979,6 +3979,416 @@
       "dept": "famed",
       "deptName": "Family Medicine",
       "term": "WIN2023",
+      "course": "FAMED 707",
+      "courseTitle": "CLCLKFAMED FEDERALWY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 534",
+      "courseTitle": "PRM CR CL SKL PRC WK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 550",
+      "courseTitle": "CRIT RACE THEORY MED",
+      "section": "A",
+      "instructor": "Lindo,Edwin G"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 556",
+      "courseTitle": "SPAN HEALTH PROF",
+      "section": "C",
+      "instructor": "Greene,Deborah D."
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 556",
+      "courseTitle": "SPAN HEALTH PROF",
+      "section": "A",
+      "instructor": "Kennison,Holly"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 598",
+      "courseTitle": "FAMED IND STDY REM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 629P",
+      "courseTitle": "P-CLCLK-EPFM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 630P",
+      "courseTitle": "P-WRITE FAMED CLK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 631P",
+      "courseTitle": "P-LIC FAMED OLY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 632P",
+      "courseTitle": "P-CLCLK FAMED BOZEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 633P",
+      "courseTitle": "P-CLCLK FAMED LEAVN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 634P",
+      "courseTitle": "P-CLCLK FAMED SITKA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 635P",
+      "courseTitle": "P-CLCLK FAMED CHEYNE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 662P",
+      "courseTitle": "P-CLCLK FAMED BUF",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 663P",
+      "courseTitle": "P-FAMED PETERSBURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 664P",
+      "courseTitle": "P-CLCLK FAMED BLNGS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 665P",
+      "courseTitle": "P-CLCLK FAMED MISOU",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 666P",
+      "courseTitle": "P-CLCLK FAMED TORNG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 667P",
+      "courseTitle": "P-CLCKFAMED NW BREM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 669P",
+      "courseTitle": "P-CLCLK FAMED CDA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 673P",
+      "courseTitle": "P-CLCLKFAMED SPO SH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 676P",
+      "courseTitle": "P-CLK FAMED LIBBY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 677P",
+      "courseTitle": "P-CLK FAMED GR COUL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 678P",
+      "courseTitle": "P-CLK FAMED PT ANGL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 679P",
+      "courseTitle": "P-CLK FAMED FERNDALE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 681P",
+      "courseTitle": "P-CLCLK FAMED BOZEHE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 682P",
+      "courseTitle": "P-CLK FAMED ELLNBRG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 683P",
+      "courseTitle": "P-CLK FAMED LEWISTN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 684P",
+      "courseTitle": "P-CLK FAMED BUTTE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 685P",
+      "courseTitle": "P-CLK FAMED JUNEAU",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 686P",
+      "courseTitle": "P-CLK FAMED PT TOWN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 687P",
+      "courseTitle": "P-CLCLK FMED WSLMN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 688P",
+      "courseTitle": "P-FAM MED SUB-I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 690",
+      "courseTitle": "ONE HLTH CLIN ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 701",
+      "courseTitle": "WRITE ADV OPT CLKSHP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 702",
+      "courseTitle": "ADV FAMED OPT CLKSHP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 703",
+      "courseTitle": "ADV LGBTQ PC CLKSHP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 704",
+      "courseTitle": "FM ADV INPT CLRKSHP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 705",
+      "courseTitle": "CLCLKFAMED SEAMAREVT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
+      "course": "FAMED 706",
+      "courseTitle": "CLCLKFAMED NAMPA ID",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "famed",
+      "deptName": "Family Medicine",
+      "term": "SPR2023",
       "course": "FAMED 707",
       "courseTitle": "CLCLKFAMED FEDERALWY",
       "section": "A",
@@ -8252,7 +8662,7 @@
       "course": "FAMED 525",
       "courseTitle": "AFRICAN AM HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Asante,Peter Gyimah"
     },
     {
       "campus": "S",
@@ -8262,7 +8672,7 @@
       "course": "FAMED 525",
       "courseTitle": "AFRICAN AM HLTH",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Asante,Peter Gyimah"
     },
     {
       "campus": "S",
@@ -8321,8 +8731,8 @@
       "term": "AUT2025",
       "course": "FAMED 561",
       "courseTitle": "LGBTQ HEALTH",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "Heinen,Corinne"
     },
     {
       "campus": "S",
@@ -8331,8 +8741,8 @@
       "term": "AUT2025",
       "course": "FAMED 561",
       "courseTitle": "LGBTQ HEALTH",
-      "section": "C",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Nelson,Quin"
     },
     {
       "campus": "S",
@@ -8412,7 +8822,7 @@
       "course": "FAMED 629P",
       "courseTitle": "P-CLCLK-EPFM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Keen,Misbah"
     },
     {
       "campus": "S",
@@ -8422,7 +8832,7 @@
       "course": "FAMED 630P",
       "courseTitle": "P-WRITE FAMED CLK",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kirven,Lawrence"
     },
     {
       "campus": "S",
@@ -8812,7 +9222,7 @@
       "course": "FAMED 556",
       "courseTitle": "SPAN HEALTH PROF",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kennison,Holly"
     },
     {
       "campus": "S",
@@ -8892,7 +9302,7 @@
       "course": "FAMED 629P",
       "courseTitle": "P-CLCLK-EPFM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Keen,Misbah"
     },
     {
       "campus": "S",

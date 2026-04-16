@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Saulter%2CC",
+  "professor": "Saulter,C",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 301",
+      "courseTitle": "CONSTRUCTION COMM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 301",
+      "courseTitle": "CONSTRUCTION COMM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 301",
+      "courseTitle": "CONSTRUCTION COMM",
+      "section": "A"
+    }
+  ]
+}

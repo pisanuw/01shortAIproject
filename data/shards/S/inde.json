@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:59Z",
+  "generatedAt": "2026-04-16T02:57:14Z",
   "campus": "S",
   "dept": "inde",
   "deptName": "Industrial Engineering",
@@ -1512,7 +1512,7 @@
       "course": "IND E 315",
       "courseTitle": "PROB & STAT FOR ENG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Buchanan,Patricia Cecilia"
     },
     {
       "campus": "S",
@@ -1692,7 +1692,7 @@
       "course": "IND E 315",
       "courseTitle": "PROB & STAT FOR ENG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Buchanan,Patty"
     },
     {
       "campus": "S",
@@ -2182,7 +2182,7 @@
       "course": "IND E 315",
       "courseTitle": "PROB & STAT FOR ENG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mastrangelo,Christina"
     },
     {
       "campus": "S",
@@ -2412,7 +2412,7 @@
       "course": "IND E 315",
       "courseTitle": "PROB & STAT FOR ENG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Buchanan,Patty"
     },
     {
       "campus": "S",
@@ -2802,7 +2802,7 @@
       "course": "IND E 315",
       "courseTitle": "PROB & STAT FOR ENG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Terry,Nick"
     },
     {
       "campus": "S",
@@ -2902,7 +2902,7 @@
       "course": "IND E 315",
       "courseTitle": "PROB & STAT FOR ENG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Buchanan,Patty"
     },
     {
       "campus": "S",
@@ -3132,7 +3132,7 @@
       "course": "IND E 315",
       "courseTitle": "PROB & STAT FOR ENG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Park,Chiwoo"
     },
     {
       "campus": "S",
@@ -3368,11 +3368,201 @@
       "campus": "S",
       "dept": "inde",
       "deptName": "Industrial Engineering",
+      "term": "SPR2025",
+      "course": "IND E 250",
+      "courseTitle": "ENGR ECON",
+      "section": "A",
+      "instructor": "Rajivan,Prashanth"
+    },
+    {
+      "campus": "S",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "SPR2025",
+      "course": "IND E 315",
+      "courseTitle": "PROB & STAT FOR ENG",
+      "section": "A",
+      "instructor": "Mastrangelo,Christina"
+    },
+    {
+      "campus": "S",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "SPR2025",
+      "course": "IND E 321",
+      "courseTitle": "STAT QUAL CONTROL",
+      "section": "A",
+      "instructor": "Huang,Shuai"
+    },
+    {
+      "campus": "S",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "SPR2025",
+      "course": "IND E 337",
+      "courseTitle": "INTRO MANU SYSTEMS",
+      "section": "A",
+      "instructor": "Buchanan,Patty"
+    },
+    {
+      "campus": "S",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "SPR2025",
+      "course": "IND E 351",
+      "courseTitle": "HUMAN FACTORS",
+      "section": "A",
+      "instructor": "Kim,Ji-Eun"
+    },
+    {
+      "campus": "S",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "SPR2025",
+      "course": "IND E 412",
+      "courseTitle": "INTEGER & DYNAMIC PR",
+      "section": "A",
+      "instructor": "Zhao,Chaoyue"
+    },
+    {
+      "campus": "S",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "SPR2025",
+      "course": "IND E 495",
+      "courseTitle": "I E DESIGN",
+      "section": "A",
+      "instructor": "Buchanan,Patty"
+    },
+    {
+      "campus": "S",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "SPR2025",
+      "course": "IND E 499",
+      "courseTitle": "SPECIAL PROJECTS IE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "SPR2025",
+      "course": "IND E 499",
+      "courseTitle": "SPECIAL PROJECTS IE",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "SPR2025",
+      "course": "IND E 512",
+      "courseTitle": "OPTIMIZATION MODELS",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "SPR2025",
+      "course": "IND E 535",
+      "courseTitle": "ENGINRNG SIMULATION",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "SPR2025",
+      "course": "IND E 584",
+      "courseTitle": "PROJECT PERFORMANCE",
+      "section": "A",
+      "instructor": "Raplee,Charles Walter"
+    },
+    {
+      "campus": "S",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "SPR2025",
+      "course": "IND E 587",
+      "courseTitle": "TECH ENTREP SYS ENGR",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "SPR2025",
+      "course": "IND E 593",
+      "courseTitle": "SEMINAR",
+      "section": "A",
+      "instructor": "Choe,John Y."
+    },
+    {
+      "campus": "S",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "SPR2025",
+      "course": "IND E 596",
+      "courseTitle": "GISE PROJECT",
+      "section": "A",
+      "instructor": "Martz,Gary"
+    },
+    {
+      "campus": "S",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "SPR2025",
+      "course": "IND E 599",
+      "courseTitle": "SPECIAL TOPICS IE",
+      "section": "A",
+      "instructor": "Choe,John Y."
+    },
+    {
+      "campus": "S",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "SPR2025",
+      "course": "IND E 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "SPR2025",
+      "course": "IND E 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "SPR2025",
+      "course": "IND E 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
       "term": "SUM2025",
       "course": "IND E 315",
       "courseTitle": "PROB & STAT FOR ENG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "MANEEKUL,PARIYAKORN"
     },
     {
       "campus": "S",
@@ -3432,7 +3622,7 @@
       "course": "IND E 250",
       "courseTitle": "ENGR ECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Park,Chiwoo"
     },
     {
       "campus": "S",
@@ -3442,7 +3632,7 @@
       "course": "IND E 310",
       "courseTitle": "LINEAR & NETWORK PR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Liu,Shan"
     },
     {
       "campus": "S",
@@ -3452,7 +3642,7 @@
       "course": "IND E 315",
       "courseTitle": "PROB & STAT FOR ENG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Buchanan,Patty"
     },
     {
       "campus": "S",
@@ -3462,7 +3652,7 @@
       "course": "IND E 337",
       "courseTitle": "INTRO MANU SYSTEMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Banerjee,Ashis G"
     },
     {
       "campus": "S",
@@ -3482,7 +3672,7 @@
       "course": "IND E 430",
       "courseTitle": "MANU SCHED AND INV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Buchanan,Patty"
     },
     {
       "campus": "S",
@@ -3492,7 +3682,7 @@
       "course": "IND E 455",
       "courseTitle": "USER INTERFACE DES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kwapisz,Monika"
     },
     {
       "campus": "S",
@@ -3502,7 +3692,7 @@
       "course": "IND E 470",
       "courseTitle": "SYSTEMS ENGINEERING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Saenz Otero,Alvar"
     },
     {
       "campus": "S",
@@ -3512,7 +3702,7 @@
       "course": "IND E 491",
       "courseTitle": "PROFESSIONAL SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tang,Juming"
     },
     {
       "campus": "S",
@@ -3542,7 +3732,7 @@
       "course": "IND E 513",
       "courseTitle": "LINEAR OPT ENG MODL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zhao,Chaoyue"
     },
     {
       "campus": "S",
@@ -3552,7 +3742,27 @@
       "course": "IND E 521",
       "courseTitle": "STAT QUAL ENGR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Choe,John Y."
+    },
+    {
+      "campus": "S",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "AUT2025",
+      "course": "IND E 524",
+      "courseTitle": "ROBUST DES PROC IMPR",
+      "section": "A",
+      "instructor": "Huang,Shuai"
+    },
+    {
+      "campus": "S",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "AUT2025",
+      "course": "IND E 524",
+      "courseTitle": "ROBUST DES PROC IMPR",
+      "section": "B",
+      "instructor": "Huang,Shuai"
     },
     {
       "campus": "S",
@@ -3569,30 +3779,10 @@
       "dept": "inde",
       "deptName": "Industrial Engineering",
       "term": "AUT2025",
-      "course": "IND E 524",
-      "courseTitle": "ROBUST DES PROC IMPR",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "inde",
-      "deptName": "Industrial Engineering",
-      "term": "AUT2025",
-      "course": "IND E 524",
-      "courseTitle": "ROBUST DES PROC IMPR",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "inde",
-      "deptName": "Industrial Engineering",
-      "term": "AUT2025",
       "course": "IND E 527",
       "courseTitle": "DATA ANALYT SYS ENGR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Huang,Shuai"
     },
     {
       "campus": "S",
@@ -3602,7 +3792,7 @@
       "course": "IND E 549",
       "courseTitle": "RSRCH METH HUMN FACT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rajivan,Prashanth"
     },
     {
       "campus": "S",
@@ -3632,7 +3822,7 @@
       "course": "IND E 591",
       "courseTitle": "SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rajivan,Prashanth"
     },
     {
       "campus": "S",
@@ -3642,7 +3832,7 @@
       "course": "IND E 595",
       "courseTitle": "GLBL INT SYS ENGR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mastrangelo,Christina"
     },
     {
       "campus": "S",
@@ -3682,7 +3872,7 @@
       "course": "IND E 311",
       "courseTitle": "STCH MODL & DEC ANL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Garcia,Gian-Gabriel"
     },
     {
       "campus": "S",
@@ -3692,7 +3882,7 @@
       "course": "IND E 315",
       "courseTitle": "PROB & STAT FOR ENG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Park,Chiwoo"
     },
     {
       "campus": "S",
@@ -3702,7 +3892,7 @@
       "course": "IND E 316",
       "courseTitle": "DESIGN EXPRMNTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Choe,John Y."
     },
     {
       "campus": "S",
@@ -3712,7 +3902,7 @@
       "course": "IND E 338",
       "courseTitle": "SIMULATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Buchanan,Patty"
     },
     {
       "campus": "S",
@@ -3722,7 +3912,7 @@
       "course": "IND E 426",
       "courseTitle": "REL ENG & SYS SAFE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mastrangelo,Christina"
     },
     {
       "campus": "S",
@@ -3732,7 +3922,7 @@
       "course": "IND E 494",
       "courseTitle": "DES IN MANUF FIRM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Buchanan,Patty"
     },
     {
       "campus": "S",
@@ -3762,7 +3952,7 @@
       "course": "IND E 515",
       "courseTitle": "FUNDAMNTL OPTIMIZTN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Aravkin,Aleksandr"
     },
     {
       "campus": "S",
@@ -3772,7 +3962,7 @@
       "course": "IND E 519",
       "courseTitle": "HEALTHCARE MODELING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Liu,Shan"
     },
     {
       "campus": "S",
@@ -3782,7 +3972,7 @@
       "course": "IND E 528",
       "courseTitle": "PRED ANALYT SYS ENGR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Li,Dan"
     },
     {
       "campus": "S",
@@ -3792,7 +3982,7 @@
       "course": "IND E 570",
       "courseTitle": "SUPPLY CHAIN SYST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Huang,Eric"
     },
     {
       "campus": "S",
@@ -3812,7 +4002,7 @@
       "course": "IND E 582",
       "courseTitle": "TECH LEADERSHIP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ross,Tamaira"
     },
     {
       "campus": "S",
@@ -3832,7 +4022,7 @@
       "course": "IND E 583",
       "courseTitle": "DECISION ANALYSIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Coker,Mark Harrison"
     },
     {
       "campus": "S",
@@ -3852,7 +4042,7 @@
       "course": "IND E 592",
       "courseTitle": "SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Banerjee,Ashis G"
     },
     {
       "campus": "S",
@@ -3872,17 +4062,7 @@
       "course": "IND E 595",
       "courseTitle": "GLBL INT SYS ENGR",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "inde",
-      "deptName": "Industrial Engineering",
-      "term": "WIN2026",
-      "course": "IND E 599",
-      "courseTitle": "SPECIAL TOPICS IE",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Martz,Gary"
     },
     {
       "campus": "S",
@@ -3892,7 +4072,17 @@
       "course": "IND E 599",
       "courseTitle": "SPECIAL TOPICS IE",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Park,Chiwoo"
+    },
+    {
+      "campus": "S",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "WIN2026",
+      "course": "IND E 599",
+      "courseTitle": "SPECIAL TOPICS IE",
+      "section": "A",
+      "instructor": "Zhao,Chaoyue"
     },
     {
       "campus": "S",
@@ -3932,7 +4122,7 @@
       "course": "IND E 315",
       "courseTitle": "PROB & STAT FOR ENG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Choe,John Y."
     },
     {
       "campus": "S",
@@ -3942,7 +4132,7 @@
       "course": "IND E 321",
       "courseTitle": "STAT QUAL CONTROL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Huang,Shuai"
     },
     {
       "campus": "S",
@@ -3952,7 +4142,7 @@
       "course": "IND E 337",
       "courseTitle": "INTRO MANU SYSTEMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mastrangelo,Christina"
     },
     {
       "campus": "S",
@@ -3962,7 +4152,7 @@
       "course": "IND E 351",
       "courseTitle": "HUMAN FACTORS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rajivan,Prashanth"
     },
     {
       "campus": "S",
@@ -3972,7 +4162,7 @@
       "course": "IND E 412",
       "courseTitle": "INTEGER & DYNAMIC PR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zhao,Chaoyue"
     },
     {
       "campus": "S",
@@ -3982,7 +4172,7 @@
       "course": "IND E 439",
       "courseTitle": "LAYOUT & MATL HAND",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Buchanan,Patty"
     },
     {
       "campus": "S",
@@ -3992,7 +4182,7 @@
       "course": "IND E 495",
       "courseTitle": "I E DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Buchanan,Patty"
     },
     {
       "campus": "S",
@@ -4022,7 +4212,7 @@
       "course": "IND E 508",
       "courseTitle": "STOC PROC IN ENGR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Li,Dan"
     },
     {
       "campus": "S",
@@ -4042,7 +4232,7 @@
       "course": "IND E 517",
       "courseTitle": "MDP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Garcia,Gian-Gabriel"
     },
     {
       "campus": "S",
@@ -4092,7 +4282,7 @@
       "course": "IND E 593",
       "courseTitle": "SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Park,Chiwoo"
     },
     {
       "campus": "S",
@@ -4102,7 +4292,7 @@
       "course": "IND E 596",
       "courseTitle": "GLB INT SYS ENG PROJ",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Martz,Gary"
     },
     {
       "campus": "S",

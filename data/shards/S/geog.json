@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:56Z",
+  "generatedAt": "2026-04-16T02:57:11Z",
   "campus": "S",
   "dept": "geog",
   "deptName": "Geography",
@@ -42,7 +42,7 @@
       "course": "GEOG 208",
       "courseTitle": "GEOG WORLD ECONOMY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ellis,M"
     },
     {
       "campus": "S",
@@ -72,7 +72,7 @@
       "course": "GEOG 245",
       "courseTitle": "GEODEMOGRAPHICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Naslund,Skye"
     },
     {
       "campus": "S",
@@ -352,7 +352,7 @@
       "course": "GEOG 258",
       "courseTitle": "DIGITAL GEOGRAPHIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Naslund,Skye"
     },
     {
       "campus": "S",
@@ -372,7 +372,7 @@
       "course": "GEOG 272",
       "courseTitle": "GEOG OF ENV JUSTICE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ybarra,Megan"
     },
     {
       "campus": "S",
@@ -402,7 +402,7 @@
       "course": "GEOG 360",
       "courseTitle": "GIS AND MAPPING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zhao,Bo"
     },
     {
       "campus": "S",
@@ -442,7 +442,7 @@
       "course": "GEOG 482",
       "courseTitle": "GIS DATA MANAGEMENT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "OH,GUNWHA"
     },
     {
       "campus": "S",
@@ -648,6 +648,456 @@
       "campus": "S",
       "dept": "geog",
       "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 123",
+      "courseTitle": "INTRO GLOBALIZATION",
+      "section": "A",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 123",
+      "courseTitle": "INTRO GLOBALIZATION",
+      "section": "B",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 180",
+      "courseTitle": "INTRO TO GLOBAL HLTH",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 280",
+      "courseTitle": "GEOG AND HEALTH",
+      "section": "A",
+      "instructor": "Alexandre,Kessie"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 310",
+      "courseTitle": "IMMIGRANT AMERICA",
+      "section": "A",
+      "instructor": "Ellis,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 315",
+      "courseTitle": "EXPLAN UNDSTN GEOG",
+      "section": "A",
+      "instructor": "Crane,Austin"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 317",
+      "courseTitle": "GIS & SPATIAL ANLYS",
+      "section": "A",
+      "instructor": "Neel,Phillip A"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 360",
+      "courseTitle": "GIS AND MAPPING",
+      "section": "A",
+      "instructor": "Yang,Xiaxia"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 462",
+      "courseTitle": "COASTAL GIS",
+      "section": "A",
+      "instructor": "Naslund,Skye"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 465",
+      "courseTitle": "GIS DB PROGRAMMING",
+      "section": "A",
+      "instructor": "OH,GUNWHA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 469",
+      "courseTitle": "GIS WORKSHOP",
+      "section": "A",
+      "instructor": "RS"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 490",
+      "courseTitle": "THE SEATTLE REGION",
+      "section": "A",
+      "instructor": "England,K"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 494",
+      "courseTitle": "SENIOR ESSAY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 496",
+      "courseTitle": "INTERNSHIP IN GEOG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 497",
+      "courseTitle": "TUTORIAL IN GEOG",
+      "section": "A",
+      "instructor": "Freshour,Carrie"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 499",
+      "courseTitle": "SPECIAL STUDIES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 499",
+      "courseTitle": "SPECIAL STUDIES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 502",
+      "courseTitle": "PROF WRITING",
+      "section": "A",
+      "instructor": "Lawson,Victoria A."
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 542",
+      "courseTitle": "RES SEM-SOC&POP GEO",
+      "section": "A",
+      "instructor": "Ellis,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 581",
+      "courseTitle": "SEMINAR MED GEOG",
+      "section": "A",
+      "instructor": "Withers,Suzanne Davies"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 595",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Zhao,Bo"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 598",
+      "courseTitle": "GEOG COLLOQUIUM",
+      "section": "A",
+      "instructor": "Elwood-Faustino,Sarah A."
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 598",
+      "courseTitle": "GEOG COLLOQUIUM",
+      "section": "B",
+      "instructor": "Elwood-Faustino,Sarah A."
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2021",
+      "course": "GEOG 123",
+      "courseTitle": "INTRO GLOBALIZATION",
+      "section": "A",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2021",
+      "course": "GEOG 205",
+      "courseTitle": "GLOBAL ENVIRONMNT",
+      "section": "A",
+      "instructor": "Anderson,Rob"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2021",
+      "course": "GEOG 258",
+      "courseTitle": "DIGITAL GEOGRAPHIES",
+      "section": "A",
+      "instructor": "Rivera,Isaac"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2021",
+      "course": "GEOG 301",
+      "courseTitle": "CULTURAL GEOG",
+      "section": "A",
+      "instructor": "Thompson,Samantha"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2021",
+      "course": "GEOG 360",
+      "courseTitle": "GIS AND MAPPING",
+      "section": "A",
+      "instructor": "Naslund,Skye"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2021",
+      "course": "GEOG 373",
+      "courseTitle": "FOOD COMM CULTURE",
+      "section": "A",
+      "instructor": "Gomez-Bravo,Ana M."
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2021",
+      "course": "GEOG 381",
+      "courseTitle": "MAPS AND HEALTH",
+      "section": "A",
+      "instructor": "Wilson,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2021",
+      "course": "GEOG 426",
+      "courseTitle": "ADV QUANT METHODS",
+      "section": "A",
+      "instructor": "Withers,S"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2021",
+      "course": "GEOG 458",
+      "courseTitle": "ADV DIGITAL GEOGS",
+      "section": "A",
+      "instructor": "Babb,Michael Andrew"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2021",
+      "course": "GEOG 494",
+      "courseTitle": "SENIOR ESSAY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2021",
+      "course": "GEOG 496",
+      "courseTitle": "INTERNSHIP IN GEOG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2021",
+      "course": "GEOG 499",
+      "courseTitle": "SPECIAL STUDIES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2021",
+      "course": "GEOG 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2021",
+      "course": "GEOG 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2021",
+      "course": "GEOG 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2021",
+      "course": "GEOG 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
       "term": "AUT2021",
       "course": "GEOG 180",
       "courseTitle": "INTRO TO GLOBAL HLTH",
@@ -662,7 +1112,7 @@
       "course": "GEOG 208",
       "courseTitle": "GEOG WORLD ECONOMY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ellis,M"
     },
     {
       "campus": "S",
@@ -682,7 +1132,7 @@
       "course": "GEOG 271",
       "courseTitle": "GEOG FOOD & EATING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McKeithen,William L."
     },
     {
       "campus": "S",
@@ -762,7 +1212,7 @@
       "course": "GEOG 482",
       "courseTitle": "GIS DATA MANAGEMENT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "OH,GUNWHA"
     },
     {
       "campus": "S",
@@ -1012,7 +1462,7 @@
       "course": "GEOG 258",
       "courseTitle": "DIGITAL GEOGRAPHIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kay,Sam"
     },
     {
       "campus": "S",
@@ -1022,7 +1472,7 @@
       "course": "GEOG 276",
       "courseTitle": "INTRO POLIT GEOG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brown,Michael"
     },
     {
       "campus": "S",
@@ -1112,7 +1562,7 @@
       "course": "GEOG 491",
       "courseTitle": "PROF DEVEL FOR GEOG",
       "section": "A",
-      "instructor": "BROWN,DANIELLE"
+      "instructor": "C BROWN,DANIELLE"
     },
     {
       "campus": "S",
@@ -1132,7 +1582,7 @@
       "course": "GEOG 495",
       "courseTitle": "SPECIAL TOPICS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "OH,GUNWHA"
     },
     {
       "campus": "S",
@@ -1332,7 +1782,7 @@
       "course": "GEOG 272",
       "courseTitle": "GEOG OF ENV JUSTICE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kay,Sam"
     },
     {
       "campus": "S",
@@ -1342,7 +1792,7 @@
       "course": "GEOG 280",
       "courseTitle": "GEOG AND HEALTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Naslund,Skye"
     },
     {
       "campus": "S",
@@ -1362,7 +1812,7 @@
       "course": "GEOG 315",
       "courseTitle": "EXPLAN UNDSTN GEOG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kay,Sam"
     },
     {
       "campus": "S",
@@ -1412,7 +1862,7 @@
       "course": "GEOG 458",
       "courseTitle": "ADV DIGITAL GEOGS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zhao,Bo"
     },
     {
       "campus": "S",
@@ -1422,7 +1872,7 @@
       "course": "GEOG 465",
       "courseTitle": "GIS DB PROGRAMMING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "OH,GUNWHA"
     },
     {
       "campus": "S",
@@ -1822,7 +2272,7 @@
       "course": "GEOG 245",
       "courseTitle": "GEODEMOGRAPHICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Withers,Suzanne Davies"
     },
     {
       "campus": "S",
@@ -1832,7 +2282,7 @@
       "course": "GEOG 271",
       "courseTitle": "GEOG FOOD & EATING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Freshour,Carrie"
     },
     {
       "campus": "S",
@@ -1862,7 +2312,7 @@
       "course": "GEOG 317",
       "courseTitle": "GIS & SPATIAL ANLYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bennett,Mia"
     },
     {
       "campus": "S",
@@ -2162,7 +2612,7 @@
       "course": "GEOG 258",
       "courseTitle": "DIGITAL GEOGRAPHIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kay,Sam"
     },
     {
       "campus": "S",
@@ -2212,7 +2662,7 @@
       "course": "GEOG 360",
       "courseTitle": "GIS AND MAPPING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "OH,GUNWHA"
     },
     {
       "campus": "S",
@@ -2252,7 +2702,7 @@
       "course": "GEOG 491",
       "courseTitle": "PROF DEVEL FOR GEOG",
       "section": "A",
-      "instructor": "Gamboa,Drew"
+      "instructor": "C Gamboa,Drew"
     },
     {
       "campus": "S",
@@ -2452,7 +2902,7 @@
       "course": "GEOG 123",
       "courseTitle": "INTRO GLOBALIZATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Naslund,Skye"
     },
     {
       "campus": "S",
@@ -2472,7 +2922,7 @@
       "course": "GEOG 208",
       "courseTitle": "GEOG WORLD ECONOMY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ellis,Mark"
     },
     {
       "campus": "S",
@@ -2492,7 +2942,7 @@
       "course": "GEOG 277",
       "courseTitle": "GEOGRAPHY OF CITIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kay,Sam"
     },
     {
       "campus": "S",
@@ -2512,7 +2962,7 @@
       "course": "GEOG 315",
       "courseTitle": "EXPLAN UNDSTN GEOG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kay,Sam"
     },
     {
       "campus": "S",
@@ -2972,7 +3422,7 @@
       "course": "GEOG 245",
       "courseTitle": "GEODEMOGRAPHICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Withers,Suzanne Davies"
     },
     {
       "campus": "S",
@@ -2982,7 +3432,7 @@
       "course": "GEOG 271",
       "courseTitle": "GEOG FOOD & EATING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sneegas,Gretchen Leigh"
     },
     {
       "campus": "S",
@@ -3002,7 +3452,7 @@
       "course": "GEOG 315",
       "courseTitle": "EXPLAN UNDSTN GEOG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brown,Michael"
     },
     {
       "campus": "S",
@@ -3062,7 +3512,7 @@
       "course": "GEOG 482",
       "courseTitle": "GIS DATA MANAGEMENT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "OH,GUNWHA"
     },
     {
       "campus": "S",
@@ -3072,7 +3522,7 @@
       "course": "GEOG 492",
       "courseTitle": "CAREER EXPL FOR GEOG",
       "section": "A",
-      "instructor": "Gross,Nell"
+      "instructor": "C Gross,Nell"
     },
     {
       "campus": "S",
@@ -3238,6 +3688,326 @@
       "campus": "S",
       "dept": "geog",
       "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 123",
+      "courseTitle": "INTRO GLOBALIZATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 180",
+      "courseTitle": "INTRO TO GLOBAL HLTH",
+      "section": "A",
+      "instructor": "WJA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 205",
+      "courseTitle": "GLOBAL ENVIRONMNT",
+      "section": "A",
+      "instructor": "Sneegas,Gretchen Leigh"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 258",
+      "courseTitle": "DIGITAL GEOGRAPHIES",
+      "section": "A",
+      "instructor": "McElroy,Erin"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 277",
+      "courseTitle": "GEOGRAPHY OF CITIES",
+      "section": "A",
+      "instructor": "Yanson,Alexandra"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 317",
+      "courseTitle": "GIS & SPATIAL ANLYS",
+      "section": "A",
+      "instructor": "Bennett,Mia"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 360",
+      "courseTitle": "GIS AND MAPPING",
+      "section": "A",
+      "instructor": "OH,GUNWHA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 395",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 435",
+      "courseTitle": "IND & URBAN CHINA",
+      "section": "A",
+      "instructor": "Chan,Kam Wing"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 450",
+      "courseTitle": "VISUALIZING SEATTLE",
+      "section": "A",
+      "instructor": "OH,GUNWHA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 458",
+      "courseTitle": "ADV DIGITAL GEOGS",
+      "section": "A",
+      "instructor": "Zhao,Bo"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 461",
+      "courseTitle": "URBAN GIS",
+      "section": "A",
+      "instructor": "RJ"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 473",
+      "courseTitle": "ENERGY & SUSTAIN",
+      "section": "A",
+      "instructor": "Sneegas,Gretchen Leigh"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 477",
+      "courseTitle": "ADV URBAN GEOG",
+      "section": "A",
+      "instructor": "McElroy,Erin"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 491",
+      "courseTitle": "PROF DEVEL FOR GEOG",
+      "section": "A",
+      "instructor": "C Uematsu,Emily Noelle"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 494",
+      "courseTitle": "SENIOR ESSAY",
+      "section": "A",
+      "instructor": "WR"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 495",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "WR"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 496",
+      "courseTitle": "INTERNSHIP IN GEOG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 497",
+      "courseTitle": "TUTORIAL IN GEOG",
+      "section": "A",
+      "instructor": "Zhao,Bo"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 499",
+      "courseTitle": "SPECIAL STUDIES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 499",
+      "courseTitle": "SPECIAL STUDIES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 511",
+      "courseTitle": "RESEARCH DESIGN",
+      "section": "A",
+      "instructor": "Withers,Suzanne Davies"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 522",
+      "courseTitle": "SPACE, TECH, & SOC",
+      "section": "A",
+      "instructor": "Bennett,Mia"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 561",
+      "courseTitle": "URBAN GIS",
+      "section": "A",
+      "instructor": "RJ"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 576",
+      "courseTitle": "RACE & POSTCOL GEOG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 598",
+      "courseTitle": "GEOG COLLOQUIUM",
+      "section": "A",
+      "instructor": "Brown,Michael"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
       "term": "SPR2024",
       "course": "GEOG 180",
       "courseTitle": "INTRO TO GLOBAL HLTH",
@@ -3252,7 +4022,7 @@
       "course": "GEOG 208",
       "courseTitle": "GEOG WORLD ECONOMY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ellis,Mark"
     },
     {
       "campus": "S",
@@ -3272,7 +4042,7 @@
       "course": "GEOG 280",
       "courseTitle": "GEOG AND HEALTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Alexandre,Kessie"
     },
     {
       "campus": "S",
@@ -3292,7 +4062,7 @@
       "course": "GEOG 315",
       "courseTitle": "EXPLAN UNDSTN GEOG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sneegas,Gretchen Leigh"
     },
     {
       "campus": "S",
@@ -3332,7 +4102,7 @@
       "course": "GEOG 360",
       "courseTitle": "GIS AND MAPPING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "OH,GUNWHA"
     },
     {
       "campus": "S",
@@ -3772,7 +4542,7 @@
       "course": "GEOG 271",
       "courseTitle": "GEOG FOOD & EATING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sneegas,Gretchen Leigh"
     },
     {
       "campus": "S",
@@ -3802,7 +4572,7 @@
       "course": "GEOG 315",
       "courseTitle": "EXPLAN UNDSTN GEOG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brown,Michael"
     },
     {
       "campus": "S",
@@ -3882,7 +4652,7 @@
       "course": "GEOG 492",
       "courseTitle": "CAREER EXPL FOR GEOG",
       "section": "A",
-      "instructor": "Gross,Nell"
+      "instructor": "C Gross,Nell"
     },
     {
       "campus": "S",
@@ -4072,7 +4842,7 @@
       "course": "GEOG 258",
       "courseTitle": "DIGITAL GEOGRAPHIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McElroy,Erin"
     },
     {
       "campus": "S",
@@ -4122,7 +4892,7 @@
       "course": "GEOG 360",
       "courseTitle": "GIS AND MAPPING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "OH,GUNWHA"
     },
     {
       "campus": "S",
@@ -4192,7 +4962,7 @@
       "course": "GEOG 491",
       "courseTitle": "PROF DEVEL FOR GEOG",
       "section": "A",
-      "instructor": "Uematsu,Emily Noelle"
+      "instructor": "C Uematsu,Emily Noelle"
     },
     {
       "campus": "S",
@@ -4422,7 +5192,7 @@
       "course": "GEOG 208",
       "courseTitle": "GEOG WORLD ECONOMY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ellis,Mark"
     },
     {
       "campus": "S",
@@ -4462,7 +5232,7 @@
       "course": "GEOG 315",
       "courseTitle": "EXPLAN UNDSTN GEOG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sneegas,Gretchen Leigh"
     },
     {
       "campus": "S",
@@ -4472,7 +5242,7 @@
       "course": "GEOG 326",
       "courseTitle": "QUANT METHODS GEOG",
       "section": "A",
-      "instructor": "Chan,Kam Wing"
+      "instructor": "C Chan,Kam Wing"
     },
     {
       "campus": "S",
@@ -4502,7 +5272,7 @@
       "course": "GEOG 360",
       "courseTitle": "GIS AND MAPPING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "OH,GUNWHA"
     },
     {
       "campus": "S",
@@ -4532,7 +5302,7 @@
       "course": "GEOG 450",
       "courseTitle": "VISUALIZING SEATTLE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "OH,GUNWHA"
     },
     {
       "campus": "S",
@@ -4708,6 +5478,166 @@
       "campus": "S",
       "dept": "geog",
       "deptName": "Geography",
+      "term": "SUM2025",
+      "course": "GEOG 205",
+      "courseTitle": "GLOBAL ENVIRONMNT",
+      "section": "A",
+      "instructor": "Sneegas,Gretchen Leigh"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2025",
+      "course": "GEOG 230",
+      "courseTitle": "GLOBAL INEQUALITY",
+      "section": "A",
+      "instructor": "Erol,Emre"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2025",
+      "course": "GEOG 258",
+      "courseTitle": "DIGITAL GEOGRAPHIES",
+      "section": "A",
+      "instructor": "Cudney,Zachary Robert"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2025",
+      "course": "GEOG 301",
+      "courseTitle": "CULTURAL GEOG",
+      "section": "A",
+      "instructor": "Cleasby,Ellie"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2025",
+      "course": "GEOG 360",
+      "courseTitle": "GIS AND MAPPING",
+      "section": "A",
+      "instructor": "Vaughan-Wynn,Natalie"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2025",
+      "course": "GEOG 373",
+      "courseTitle": "FOOD COMM CULTURE",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2025",
+      "course": "GEOG 445",
+      "courseTitle": "GEOG HOUSING",
+      "section": "A",
+      "instructor": "Trumble,Benjamin Taylor"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2025",
+      "course": "GEOG 494",
+      "courseTitle": "SENIOR ESSAY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2025",
+      "course": "GEOG 495",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Zhao,Bo"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2025",
+      "course": "GEOG 496",
+      "courseTitle": "INTERNSHIP IN GEOG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2025",
+      "course": "GEOG 499",
+      "courseTitle": "SPECIAL STUDIES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2025",
+      "course": "GEOG 499",
+      "courseTitle": "SPECIAL STUDIES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2025",
+      "course": "GEOG 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2025",
+      "course": "GEOG 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2025",
+      "course": "GEOG 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SUM2025",
+      "course": "GEOG 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "geog",
+      "deptName": "Geography",
       "term": "AUT2025",
       "course": "GEOG 180",
       "courseTitle": "INTRO TO GLOBAL HLTH",
@@ -4742,7 +5672,7 @@
       "course": "GEOG 245",
       "courseTitle": "INTRO POPULATION SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Withers,Suzanne Davies"
     },
     {
       "campus": "S",
@@ -4752,7 +5682,7 @@
       "course": "GEOG 271",
       "courseTitle": "GEOG FOOD & EATING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sneegas,Gretchen Leigh"
     },
     {
       "campus": "S",
@@ -4762,7 +5692,7 @@
       "course": "GEOG 277",
       "courseTitle": "GEOGRAPHY OF CITIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cleasby,Ellie"
     },
     {
       "campus": "S",
@@ -4772,7 +5702,7 @@
       "course": "GEOG 310",
       "courseTitle": "IMMIGRANT AMERICA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ellis,Mark"
     },
     {
       "campus": "S",
@@ -4782,7 +5712,7 @@
       "course": "GEOG 315",
       "courseTitle": "EXPLAN UNDSTN GEOG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brown,Michael"
     },
     {
       "campus": "S",
@@ -4792,7 +5722,7 @@
       "course": "GEOG 328",
       "courseTitle": "WEB-BASED GIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zhao,Bo"
     },
     {
       "campus": "S",
@@ -4812,7 +5742,7 @@
       "course": "GEOG 360",
       "courseTitle": "GIS AND MAPPING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zhao,Bo"
     },
     {
       "campus": "S",
@@ -4822,7 +5752,7 @@
       "course": "GEOG 395",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sneegas,Gretchen Leigh"
     },
     {
       "campus": "S",
@@ -4832,7 +5762,7 @@
       "course": "GEOG 431",
       "courseTitle": "GEOGRAPHY & GENDER",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "England,Kim"
     },
     {
       "campus": "S",
@@ -4842,7 +5772,7 @@
       "course": "GEOG 445",
       "courseTitle": "GEOG HOUSING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Masilela,Ayanda Martha"
     },
     {
       "campus": "S",
@@ -4852,7 +5782,7 @@
       "course": "GEOG 482",
       "courseTitle": "GIS DATA MANAGEMENT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "OH,GUNWHA"
     },
     {
       "campus": "S",
@@ -4862,7 +5792,7 @@
       "course": "GEOG 492",
       "courseTitle": "CAREER EXPL FOR GEOG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "C Gross,Nell"
     },
     {
       "campus": "S",
@@ -4872,7 +5802,7 @@
       "course": "GEOG 495",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Vickers,Morgan P."
     },
     {
       "campus": "S",
@@ -4922,7 +5852,7 @@
       "course": "GEOG 500",
       "courseTitle": "GEOGRAPHIC THOUGHT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Elwood-Faustino,Sarah"
     },
     {
       "campus": "S",
@@ -4932,7 +5862,7 @@
       "course": "GEOG 541",
       "courseTitle": "RES SEM FEM GEOG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "England,Kim"
     },
     {
       "campus": "S",
@@ -4942,7 +5872,7 @@
       "course": "GEOG 560",
       "courseTitle": "PRINC GIS MAPPING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zhao,Bo"
     },
     {
       "campus": "S",
@@ -4952,7 +5882,7 @@
       "course": "GEOG 595",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McElroy,Erin"
     },
     {
       "campus": "S",
@@ -4962,7 +5892,7 @@
       "course": "GEOG 598",
       "courseTitle": "GEOG COLLOQUIUM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Elwood-Faustino,Sarah"
     },
     {
       "campus": "S",
@@ -5032,7 +5962,7 @@
       "course": "GEOG 123",
       "courseTitle": "INTRO GLOBALIZATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fernandez,Anna"
     },
     {
       "campus": "S",
@@ -5052,7 +5982,7 @@
       "course": "GEOG 205",
       "courseTitle": "GLOBAL ENVIRONMNT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sneegas,Gretchen Leigh"
     },
     {
       "campus": "S",
@@ -5062,7 +5992,7 @@
       "course": "GEOG 230",
       "courseTitle": "GLOBAL INEQUALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Getzoff,Joseph"
     },
     {
       "campus": "S",
@@ -5072,7 +6002,7 @@
       "course": "GEOG 258",
       "courseTitle": "DIGITAL GEOGRAPHIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McElroy,Erin"
     },
     {
       "campus": "S",
@@ -5082,7 +6012,7 @@
       "course": "GEOG 280",
       "courseTitle": "GEOG AND HEALTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "lopez,tish"
     },
     {
       "campus": "S",
@@ -5092,7 +6022,7 @@
       "course": "GEOG 326",
       "courseTitle": "QUANT METHODS GEOG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "C Chan,Kam Wing"
     },
     {
       "campus": "S",
@@ -5102,7 +6032,7 @@
       "course": "GEOG 342",
       "courseTitle": "GEOG INEQUALITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "England,Kim"
     },
     {
       "campus": "S",
@@ -5112,7 +6042,7 @@
       "course": "GEOG 360",
       "courseTitle": "GIS AND MAPPING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "OH,GUNWHA"
     },
     {
       "campus": "S",
@@ -5122,7 +6052,7 @@
       "course": "GEOG 377",
       "courseTitle": "URBAN POLIT GEOG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brown,Michael"
     },
     {
       "campus": "S",
@@ -5132,7 +6062,7 @@
       "course": "GEOG 450",
       "courseTitle": "VISUALIZING SEATTLE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "OH,GUNWHA"
     },
     {
       "campus": "S",
@@ -5142,7 +6072,7 @@
       "course": "GEOG 451",
       "courseTitle": "CLTRL GEOG LAT AMER",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Alavez,Jose"
     },
     {
       "campus": "S",
@@ -5152,7 +6082,7 @@
       "course": "GEOG 456",
       "courseTitle": "US INTERNAL MIGRATN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ellis,Mark"
     },
     {
       "campus": "S",
@@ -5162,7 +6092,7 @@
       "course": "GEOG 458",
       "courseTitle": "ADV DIGITAL GEOGS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zhao,Bo"
     },
     {
       "campus": "S",
@@ -5172,7 +6102,7 @@
       "course": "GEOG 461",
       "courseTitle": "URBAN GIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Withers,Suzanne Davies"
     },
     {
       "campus": "S",
@@ -5182,7 +6112,7 @@
       "course": "GEOG 473",
       "courseTitle": "ENERGY & SUSTAIN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sneegas,Gretchen Leigh"
     },
     {
       "campus": "S",
@@ -5192,7 +6122,7 @@
       "course": "GEOG 479",
       "courseTitle": "GNTRF/DSPLM/HSNG JST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McElroy,Erin"
     },
     {
       "campus": "S",
@@ -5222,7 +6152,7 @@
       "course": "GEOG 497",
       "courseTitle": "TUTORIAL IN GEOG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "OH,GUNWHA"
     },
     {
       "campus": "S",
@@ -5252,7 +6182,7 @@
       "course": "GEOG 511",
       "courseTitle": "RESEARCH DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brown,Michael"
     },
     {
       "campus": "S",
@@ -5262,7 +6192,7 @@
       "course": "GEOG 522",
       "courseTitle": "RSCH SEM: SPACE/TECH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bennett,Mia"
     },
     {
       "campus": "S",
@@ -5281,8 +6211,8 @@
       "term": "WIN2026",
       "course": "GEOG 595",
       "courseTitle": "SPECIAL TOPICS",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Oloukoi,Chrystel"
     },
     {
       "campus": "S",
@@ -5291,8 +6221,8 @@
       "term": "WIN2026",
       "course": "GEOG 595",
       "courseTitle": "SPECIAL TOPICS",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "lopez,tish"
     },
     {
       "campus": "S",
@@ -5302,7 +6232,7 @@
       "course": "GEOG 598",
       "courseTitle": "GEOG COLLOQUIUM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Elwood-Faustino,Sarah"
     },
     {
       "campus": "S",
@@ -5382,7 +6312,7 @@
       "course": "GEOG 208",
       "courseTitle": "GEOG WORLD ECONOMY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ellis,Mark"
     },
     {
       "campus": "S",
@@ -5392,7 +6322,7 @@
       "course": "GEOG 262",
       "courseTitle": "GEOG EVERYDAY LIFE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "England,Kim"
     },
     {
       "campus": "S",
@@ -5402,7 +6332,7 @@
       "course": "GEOG 295",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Alavez,Jose"
     },
     {
       "campus": "S",
@@ -5412,7 +6342,7 @@
       "course": "GEOG 315",
       "courseTitle": "EXPLAN UNDSTN GEOG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sneegas,Gretchen Leigh"
     },
     {
       "campus": "S",
@@ -5422,7 +6352,7 @@
       "course": "GEOG 317",
       "courseTitle": "GIS & SPATIAL ANLYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bennett,Mia"
     },
     {
       "campus": "S",
@@ -5432,7 +6362,7 @@
       "course": "GEOG 327",
       "courseTitle": "CRIT REMOTE SENSING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bennett,Mia"
     },
     {
       "campus": "S",
@@ -5442,7 +6372,7 @@
       "course": "GEOG 337",
       "courseTitle": "MIGRATN/DEV CHINA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "C Chan,Kam Wing"
     },
     {
       "campus": "S",
@@ -5452,7 +6382,7 @@
       "course": "GEOG 360",
       "courseTitle": "GIS AND MAPPING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "OH,GUNWHA"
     },
     {
       "campus": "S",
@@ -5482,7 +6412,7 @@
       "course": "GEOG 455",
       "courseTitle": "GENEALOGY GEOGRAPHY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brown,Michael"
     },
     {
       "campus": "S",
@@ -5492,7 +6422,7 @@
       "course": "GEOG 465",
       "courseTitle": "GIS DB PROGRAMMING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "OH,GUNWHA"
     },
     {
       "campus": "S",
@@ -5512,7 +6442,7 @@
       "course": "GEOG 472",
       "courseTitle": "RACE & NATURE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Getzoff,Joseph"
     },
     {
       "campus": "S",
@@ -5582,7 +6512,7 @@
       "course": "GEOG 521",
       "courseTitle": "CRITICAL GIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zhao,Bo"
     },
     {
       "campus": "S",
@@ -5592,7 +6522,7 @@
       "course": "GEOG 544",
       "courseTitle": "CLIMATE/ENVIR MIGRTN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ellis,Mark"
     },
     {
       "campus": "S",
@@ -5602,7 +6532,7 @@
       "course": "GEOG 595",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Alavez,Jose"
     },
     {
       "campus": "S",
@@ -5612,7 +6542,7 @@
       "course": "GEOG 598",
       "courseTitle": "GEOG COLLOQUIUM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Elwood-Faustino,Sarah"
     },
     {
       "campus": "S",

@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Obst%2CArthur%20Robert",
+  "professor": "Obst,Arthur Robert",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fhl",
+      "deptName": "Friday Harbor Labs",
+      "term": "SPR2023",
+      "course": "FHL 333",
+      "courseTitle": "SCIENCE WRITING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "SUM2021",
+      "course": "PHIL 102",
+      "courseTitle": "CONTEMP MORAL PROBS",
+      "section": "A"
+    }
+  ]
+}

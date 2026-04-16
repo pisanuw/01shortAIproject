@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Lindstroem%2CS",
+  "professor": "Lindstroem,S",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "SPR2023",
+      "course": "EPI 517",
+      "courseTitle": "GENETIC EPIDEMIOL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "SPR2022",
+      "course": "EPI 517",
+      "courseTitle": "GENETIC EPIDEMIOL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "SPR2021",
+      "course": "EPI 517",
+      "courseTitle": "GENETIC EPIDEMIOL",
+      "section": "A"
+    }
+  ]
+}

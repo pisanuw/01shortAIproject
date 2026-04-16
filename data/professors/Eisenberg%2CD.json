@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Eisenberg%2CD",
+  "professor": "Eisenberg,D",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioanth",
+      "deptName": "Biological Anthropology",
+      "term": "AUT2022",
+      "course": "BIO A 351",
+      "courseTitle": "PRIN OF EVO MED",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioanth",
+      "deptName": "Biological Anthropology",
+      "term": "WIN2022",
+      "course": "BIO A 483",
+      "courseTitle": "GENET CLTR DISEASE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioanth",
+      "deptName": "Biological Anthropology",
+      "term": "WIN2021",
+      "course": "BIO A 483",
+      "courseTitle": "GENET CLTR DISEASE",
+      "section": "A"
+    }
+  ]
+}

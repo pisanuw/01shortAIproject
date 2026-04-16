@@ -352,10 +352,16 @@ def raw_path_campus(campus: str, term_code: str, dept_code: str) -> Path:
 
 
 def download_campus(opener, campus: str, term_codes: list[str],
-                    discover: bool = True) -> None:
+                    discover: bool = True,
+                    dept_filter: str | None = None,
+                    force: bool = False) -> None:
     """Download all dept pages for a campus across all term_codes."""
+    dept_filter = str(dept_filter or "").strip().lower() or None
     campus_name = CAMPUSES.get(campus, campus)
-    print(f"\n=== {campus_name} campus ({len(term_codes)} terms) ===")
+    if dept_filter:
+        print(f"\n=== {campus_name} campus ({len(term_codes)} terms, dept={dept_filter}) ===")
+    else:
+        print(f"\n=== {campus_name} campus ({len(term_codes)} terms) ===")
 
     # Prefer newest terms for discovery, but fall back through the range.
     discovery_term = None
@@ -373,17 +379,20 @@ def download_campus(opener, campus: str, term_codes: list[str],
             discovery_term = candidate_term
             break
 
-    if not known_depts:
+    if not known_depts and not dept_filter:
         print(f"  No dept list available for {campus}. Skipping.")
         return
 
     if discovery_term:
         print(f"  Using {len(known_depts)} seed departments discovered from {discovery_term}")
+    elif dept_filter:
+        print(f"  No seed dept list discovered; using direct URL fallback for dept {dept_filter}")
 
     raw_campus_dir = RAW_DIR / campus
     raw_campus_dir.mkdir(parents=True, exist_ok=True)
 
     total_saved = 0
+    total_overwritten = 0
     # Newest-to-oldest improves fallback coverage for historical terms whose
     # index pages are missing (e.g., AUT2022) by learning dept codes first.
     for term_code in reversed(term_codes):
@@ -403,11 +412,21 @@ def download_campus(opener, campus: str, term_codes: list[str],
             term_depts = known_depts
             print(f"  {term_code}: no index/dept list; falling back to {len(term_depts)} known dept URLs")
 
+        if dept_filter:
+            term_depts = [
+                dept for dept in term_depts
+                if str(dept.get("code", "")).strip().lower() == dept_filter
+            ]
+            if not term_depts:
+                term_depts = [{"code": dept_filter, "name": dept_filter.upper(), "school": "General"}]
+
         term_saved = 0
+        term_overwritten = 0
         for dept in term_depts:
             dept_code = dept["code"]
             target = raw_path_campus(campus, term_code, dept_code)
-            if target.exists():
+            target_exists = target.exists()
+            if target_exists and not force:
                 continue  # already downloaded
 
             url_candidates = dept_html_urls(campus, term_code, dept_code)
@@ -418,13 +437,26 @@ def download_campus(opener, campus: str, term_codes: list[str],
                 continue
 
             target.write_text(html, encoding="utf-8")
-            term_saved += 1
+            if target_exists:
+                term_overwritten += 1
+            else:
+                term_saved += 1
 
-        if term_saved:
-            print(f"  {term_code}: saved {term_saved} dept files")
+        if term_saved or term_overwritten:
+            if term_overwritten:
+                print(
+                    f"  {term_code}: saved {term_saved} new dept files, "
+                    f"overwrote {term_overwritten} existing"
+                )
+            else:
+                print(f"  {term_code}: saved {term_saved} dept files")
         total_saved += term_saved
+        total_overwritten += term_overwritten
 
-    print(f"  Total new files saved: {total_saved}")
+    if total_overwritten:
+        print(f"  Total files: {total_saved} new, {total_overwritten} overwritten")
+    else:
+        print(f"  Total new files saved: {total_saved}")
 
 
 # ── Legacy Bothell-CSS-only download (backward compat) ────────────────────────
@@ -435,7 +467,7 @@ def raw_path_for_url(term_code: str, url: str) -> Path:
     return RAW_DIR / f"{term_code}_{stem}.html"
 
 
-def download_legacy_css(opener) -> None:
+def download_legacy_css(opener, force: bool = False) -> None:
     """Original behavior: download Bothell CSS pages into data/raw/ (flat)."""
     print("\n=== Legacy Bothell CSS download ===")
     RAW_DIR.mkdir(parents=True, exist_ok=True)
@@ -444,11 +476,14 @@ def download_legacy_css(opener) -> None:
         for url in urls:
             html, status = fetch_html(opener, url)
             target = raw_path_for_url(term.code, url)
+            target_exists = target.exists()
+            if target_exists and not force:
+                continue
             if html is None:
                 print(f"- {term.code} {Path(url).name}: {status}")
                 continue
             target.write_text(html, encoding="utf-8")
-            print(f"- {term.code} {Path(url).name}: saved")
+            print(f"- {term.code} {Path(url).name}: {'overwrote' if target_exists else 'saved'}")
 
 
 # ── CLI ────────────────────────────────────────────────────────────────────────
@@ -465,6 +500,12 @@ def main() -> None:
             "Campus to download: legacy=Bothell CSS only (default), "
             "B=Bothell all depts, T=Tacoma, S=Seattle, all=all campuses"
         ),
+    )
+    parser.add_argument(
+        "--dept",
+        default=None,
+        metavar="CODE",
+        help="Only download this dept code for the selected campus (e.g. css or infosys).",
     )
     parser.add_argument(
         "--since",
@@ -496,6 +537,11 @@ def main() -> None:
         default="",
         help="Path to UW cookie file (Netscape or JSON) for protected terms.",
     )
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Overwrite existing raw HTML files instead of skipping them.",
+    )
     args = parser.parse_args()
 
     try:
@@ -504,8 +550,13 @@ def main() -> None:
         raise SystemExit(f"Failed to load cookie file: {exc}") from exc
 
     if args.campus == "legacy":
-        download_legacy_css(opener)
+        if args.dept:
+            raise SystemExit("--dept is not supported with --campus legacy. Use --campus B/T/S.")
+        download_legacy_css(opener, force=args.force)
         return
+
+    if args.dept and args.campus == "all":
+        raise SystemExit("--dept requires a specific campus (B, T, or S), not --campus all.")
 
     try:
         term_codes = configured_term_codes(extra_term_codes=EXTRA_TERM_CODES + args.add_term)
@@ -535,7 +586,8 @@ def main() -> None:
         raise SystemExit("No terms left after applying --since/--until filters.")
 
     campuses = list(CAMPUSES.keys()) if args.campus == "all" else [args.campus]
-    print(f"Downloading: campus={campuses}, terms={term_codes[0]}..{term_codes[-1]}")
+    dept_msg = (args.dept or "all").lower() if isinstance(args.dept, str) else "all"
+    print(f"Downloading: campus={campuses}, dept={dept_msg}, terms={term_codes[0]}..{term_codes[-1]}")
 
     for campus in campuses:
         download_campus(
@@ -543,6 +595,8 @@ def main() -> None:
             campus,
             term_codes,
             discover=not args.no_discover,
+            dept_filter=args.dept,
+            force=args.force,
         )
 
 

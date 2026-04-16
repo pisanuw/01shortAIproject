@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Tripathi%2CRaghav",
+  "professor": "Tripathi,Raghav",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2021",
+      "course": "MATH 530",
+      "courseTitle": "SEMINAR IN ANALYSIS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2021",
+      "course": "MATH 309",
+      "courseTitle": "LINEAR ANALYSIS",
+      "section": "B"
+    }
+  ]
+}

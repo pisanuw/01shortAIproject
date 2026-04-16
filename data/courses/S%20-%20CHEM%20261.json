@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20CHEM%20261",
+  "course": "S - CHEM 261",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2026",
+      "course": "CHEM 261",
+      "courseTitle": "H-ORGANIC CHEM LAB",
+      "section": "A",
+      "instructor": "Maly,Dustin James"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2025",
+      "course": "CHEM 261",
+      "courseTitle": "H-ORGANIC CHEM LAB",
+      "section": "A",
+      "instructor": "Maly,Dustin James"
+    }
+  ]
+}

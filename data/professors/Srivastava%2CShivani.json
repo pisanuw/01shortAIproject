@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Srivastava%2CShivani",
+  "professor": "Srivastava,Shivani",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2026",
+      "course": "IMMUN 565",
+      "courseTitle": "INNATE IMMUNE DEFS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 569",
+      "courseTitle": "T CELLS IN AUTOIMM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "WIN2025",
+      "course": "IMMUN 569",
+      "courseTitle": "T CELLS IN AUTOIMM",
+      "section": "A"
+    }
+  ]
+}

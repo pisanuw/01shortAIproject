@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Chen%2CCynthia",
+  "professor": "Chen,Cynthia",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cet",
+      "deptName": "Transportation Engineering",
+      "term": "SPR2022",
+      "course": "CET 599",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cee",
+      "deptName": "Civil and Environmental Engineering",
+      "term": "SPR2022",
+      "course": "CEE 415",
+      "courseTitle": "MACHINE LRN CIV ENGR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cet",
+      "deptName": "Transportation Engineering",
+      "term": "WIN2021",
+      "course": "CET 512",
+      "courseTitle": "TRANSP DATA COLLECT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cet",
+      "deptName": "Transportation Engineering",
+      "term": "AUT2020",
+      "course": "CET 581",
+      "courseTitle": "TRAVEL DEMAND FCAST",
+      "section": "A"
+    }
+  ]
+}

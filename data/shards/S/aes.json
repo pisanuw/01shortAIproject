@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:54Z",
+  "generatedAt": "2026-04-16T02:57:10Z",
   "campus": "S",
   "dept": "aes",
   "deptName": "American Ethnic Studies",
@@ -11,7 +11,7 @@
       "term": "AUT2020",
       "course": "AES 150",
       "courseTitle": "AMER ETHNIC HISTORY",
-      "section": "B",
+      "section": "A",
       "instructor": "So,Connie C."
     },
     {
@@ -21,8 +21,8 @@
       "term": "AUT2020",
       "course": "AES 150",
       "courseTitle": "AMER ETHNIC HISTORY",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "So,Connie C."
     },
     {
       "campus": "S",
@@ -102,7 +102,7 @@
       "course": "AES 151",
       "courseTitle": "AMER ETHNIC GROUPS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Deleon,Reuben"
     },
     {
       "campus": "S",
@@ -162,7 +162,7 @@
       "course": "AES 212",
       "courseTitle": "COMP AM ETHNIC LIT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Huh,Jang Wook"
     },
     {
       "campus": "S",
@@ -182,7 +182,7 @@
       "course": "AES 340",
       "courseTitle": "RACE ETHNICITY & ED",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Deleon,Reuben"
     },
     {
       "campus": "S",
@@ -341,7 +341,7 @@
       "term": "AUT2021",
       "course": "AES 150",
       "courseTitle": "AMER ETHNIC HISTORY",
-      "section": "B",
+      "section": "A",
       "instructor": "So,Connie C."
     },
     {
@@ -351,8 +351,8 @@
       "term": "AUT2021",
       "course": "AES 150",
       "courseTitle": "AMER ETHNIC HISTORY",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "So,Connie C."
     },
     {
       "campus": "S",
@@ -412,7 +412,7 @@
       "course": "AES 151",
       "courseTitle": "AMER ETHNIC GROUPS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Palaita,David"
     },
     {
       "campus": "S",
@@ -502,7 +502,7 @@
       "course": "AES 212",
       "courseTitle": "COMP AM ETHNIC LIT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Schleitwiler,Vince"
     },
     {
       "campus": "S",
@@ -671,7 +671,7 @@
       "term": "AUT2022",
       "course": "AES 150",
       "courseTitle": "AMER ETHNIC HISTORY",
-      "section": "B",
+      "section": "A",
       "instructor": "So,Connie C."
     },
     {
@@ -681,8 +681,8 @@
       "term": "AUT2022",
       "course": "AES 150",
       "courseTitle": "AMER ETHNIC HISTORY",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "So,Connie C."
     },
     {
       "campus": "S",
@@ -742,7 +742,7 @@
       "course": "AES 151",
       "courseTitle": "AMER ETHNIC GROUPS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Palaita,David Gaoupu"
     },
     {
       "campus": "S",
@@ -872,7 +872,7 @@
       "course": "AES 340",
       "courseTitle": "RACE ETHNICITY & ED",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gill,Tracy"
     },
     {
       "campus": "S",
@@ -1051,7 +1051,7 @@
       "term": "AUT2023",
       "course": "AES 150",
       "courseTitle": "AMER ETHNIC HISTORY",
-      "section": "B",
+      "section": "A",
       "instructor": "So,Connie C."
     },
     {
@@ -1061,8 +1061,8 @@
       "term": "AUT2023",
       "course": "AES 150",
       "courseTitle": "AMER ETHNIC HISTORY",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "So,Connie C."
     },
     {
       "campus": "S",
@@ -1118,11 +1118,101 @@
       "campus": "S",
       "dept": "aes",
       "deptName": "American Ethnic Studies",
+      "term": "WIN2024",
+      "course": "AES 151",
+      "courseTitle": "AMER ETHNIC GROUPS",
+      "section": "A",
+      "instructor": "Rollins,Oliver"
+    },
+    {
+      "campus": "S",
+      "dept": "aes",
+      "deptName": "American Ethnic Studies",
+      "term": "WIN2024",
+      "course": "AES 440",
+      "courseTitle": "RACE ARCHIVES MEMORY",
+      "section": "A",
+      "instructor": "Nguyen,Linh Thuy"
+    },
+    {
+      "campus": "S",
+      "dept": "aes",
+      "deptName": "American Ethnic Studies",
+      "term": "WIN2024",
+      "course": "AES 442",
+      "courseTitle": "UNDOCU IMMIG COMMS",
+      "section": "A",
+      "instructor": "Pinedo-Turnovsky,Carolyn"
+    },
+    {
+      "campus": "S",
+      "dept": "aes",
+      "deptName": "American Ethnic Studies",
+      "term": "WIN2024",
+      "course": "AES 446",
+      "courseTitle": "MUSIC AMER CLTRS",
+      "section": "A",
+      "instructor": "Morford,James"
+    },
+    {
+      "campus": "S",
+      "dept": "aes",
+      "deptName": "American Ethnic Studies",
+      "term": "WIN2024",
+      "course": "AES 487",
+      "courseTitle": "ENVIRONMENT JUSTICE",
+      "section": "A",
+      "instructor": "Pena,Devon G"
+    },
+    {
+      "campus": "S",
+      "dept": "aes",
+      "deptName": "American Ethnic Studies",
+      "term": "WIN2024",
+      "course": "AES 494",
+      "courseTitle": "COMMUNITY INTERN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aes",
+      "deptName": "American Ethnic Studies",
+      "term": "WIN2024",
+      "course": "AES 496",
+      "courseTitle": "HNRS SENIOR THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aes",
+      "deptName": "American Ethnic Studies",
+      "term": "WIN2024",
+      "course": "AES 498",
+      "courseTitle": "AES SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aes",
+      "deptName": "American Ethnic Studies",
+      "term": "WIN2024",
+      "course": "AES 499",
+      "courseTitle": "IND STDY & RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aes",
+      "deptName": "American Ethnic Studies",
       "term": "SPR2024",
       "course": "AES 212",
       "courseTitle": "COMP AM ETHNIC LIT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Schleitwiler,Vince"
     },
     {
       "campus": "S",
@@ -1142,7 +1232,7 @@
       "course": "AES 340",
       "courseTitle": "RACE ETHNICITY & ED",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Castro-Gill,Tracy"
     },
     {
       "campus": "S",
@@ -1271,7 +1361,7 @@
       "term": "AUT2024",
       "course": "AES 150",
       "courseTitle": "AMER ETHNIC HISTORY",
-      "section": "B",
+      "section": "A",
       "instructor": "So,Connie C."
     },
     {
@@ -1281,8 +1371,8 @@
       "term": "AUT2024",
       "course": "AES 150",
       "courseTitle": "AMER ETHNIC HISTORY",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "So,Connie C."
     },
     {
       "campus": "S",
@@ -1352,7 +1442,7 @@
       "course": "AES 151",
       "courseTitle": "AMER ETHNIC GROUPS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bonus,Rick"
     },
     {
       "campus": "S",
@@ -1432,7 +1522,7 @@
       "course": "AES 212",
       "courseTitle": "COMP AM ETHNIC LIT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Schleitwiler,Vince"
     },
     {
       "campus": "S",
@@ -1442,7 +1532,7 @@
       "course": "AES 340",
       "courseTitle": "RACE ETHNICITY & ED",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Castro-Gill,Tracy"
     },
     {
       "campus": "S",
@@ -1518,11 +1608,61 @@
       "campus": "S",
       "dept": "aes",
       "deptName": "American Ethnic Studies",
+      "term": "SUM2025",
+      "course": "AES 151",
+      "courseTitle": "AMER ETHNIC GROUPS",
+      "section": "A",
+      "instructor": "Palaita,David Gaoupu"
+    },
+    {
+      "campus": "S",
+      "dept": "aes",
+      "deptName": "American Ethnic Studies",
+      "term": "SUM2025",
+      "course": "AES 220",
+      "courseTitle": "COMP AMER ETHNC CINE",
+      "section": "A",
+      "instructor": "Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "aes",
+      "deptName": "American Ethnic Studies",
+      "term": "SUM2025",
+      "course": "AES 389",
+      "courseTitle": "RACE/GENDR/SEXUALTY",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "aes",
+      "deptName": "American Ethnic Studies",
+      "term": "SUM2025",
+      "course": "AES 389",
+      "courseTitle": "RACE/GENDR/SEXUALTY",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "aes",
+      "deptName": "American Ethnic Studies",
+      "term": "SUM2025",
+      "course": "AES 499",
+      "courseTitle": "IND STDY & RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "aes",
+      "deptName": "American Ethnic Studies",
       "term": "AUT2025",
       "course": "AES 150",
       "courseTitle": "AMER ETHNIC HISTORY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "So,Connie C."
     },
     {
       "campus": "S",
@@ -1532,7 +1672,7 @@
       "course": "AES 150",
       "courseTitle": "AMER ETHNIC HISTORY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "So,Connie C."
     },
     {
       "campus": "S",
@@ -1542,7 +1682,7 @@
       "course": "AES 312",
       "courseTitle": "RACE & RADCAL IMAGIN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Schleitwiler,Vince"
     },
     {
       "campus": "S",
@@ -1552,7 +1692,7 @@
       "course": "AES 389",
       "courseTitle": "RACE/GENDR/SEXUALTY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wilson,Eli"
     },
     {
       "campus": "S",
@@ -1562,7 +1702,7 @@
       "course": "AES 442",
       "courseTitle": "UNDOCU IMMIG COMMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pinedo-Turnovsky,Carolyn"
     },
     {
       "campus": "S",
@@ -1602,7 +1742,7 @@
       "course": "AES 151",
       "courseTitle": "AMER ETHNIC GROUPS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bonus,Rick"
     },
     {
       "campus": "S",
@@ -1622,7 +1762,7 @@
       "course": "AES 404",
       "courseTitle": "ADV AM ETHNIC ST HUM",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Schleitwiler,Vince"
     },
     {
       "campus": "S",
@@ -1672,7 +1812,7 @@
       "course": "AES 212",
       "courseTitle": "COMP AM ETHNIC LIT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Schleitwiler,Vince"
     },
     {
       "campus": "S",
@@ -1682,7 +1822,7 @@
       "course": "AES 340",
       "courseTitle": "RACE ETHNICITY & ED",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bonus,Rick"
     },
     {
       "campus": "S",
@@ -1692,7 +1832,7 @@
       "course": "AES 370",
       "courseTitle": "RACE/GENDR GLBL ECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nguyen,Linh Thuy"
     },
     {
       "campus": "S",

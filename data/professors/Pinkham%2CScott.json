@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Pinkham%2CScott",
+  "professor": "Pinkham,Scott",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ais",
+      "deptName": "American Indian Studies",
+      "term": "SPR2023",
+      "course": "AIS 202",
+      "courseTitle": "CONTEMP & SOC ISSUES",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ais",
+      "deptName": "American Indian Studies",
+      "term": "SPR2022",
+      "course": "AIS 202",
+      "courseTitle": "CONTEMP & SOC ISSUES",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ais",
+      "deptName": "American Indian Studies",
+      "term": "WIN2021",
+      "course": "AIS 379",
+      "courseTitle": "POWWOW-TRAD & INNOV",
+      "section": "A"
+    }
+  ]
+}

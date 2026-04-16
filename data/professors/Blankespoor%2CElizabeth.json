@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Blankespoor%2CElizabeth",
+  "professor": "Blankespoor,Elizabeth",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "WIN2025",
+      "course": "ACCTG 580",
+      "courseTitle": "PHD INTRO ACCT RES",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2021",
+      "course": "ACCTG 582",
+      "courseTitle": "PHD TOPICS/METHODS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2020",
+      "course": "ACCTG 582",
+      "courseTitle": "PHD TOPICS/METHODS",
+      "section": "A"
+    }
+  ]
+}

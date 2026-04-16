@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Giachelli%2CC",
+  "professor": "Giachelli,C",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "WIN2023",
+      "course": "BIOEN 579",
+      "courseTitle": "HOST RESP BIOMAT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "WIN2021",
+      "course": "BIOEN 579",
+      "courseTitle": "HOST RESP BIOMAT",
+      "section": "A"
+    }
+  ]
+}

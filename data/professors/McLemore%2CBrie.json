@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "McLemore%2CBrie",
+  "professor": "McLemore,Brie",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "polisci",
+      "deptName": "Political Science",
+      "term": "SPR2026",
+      "course": "POL S 405",
+      "courseTitle": "AM POLITICS ADV SEM",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "polisci",
+      "deptName": "Political Science",
+      "term": "SPR2026",
+      "course": "POL S 334",
+      "courseTitle": "AMERICAN POL TOPICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "polisci",
+      "deptName": "Political Science",
+      "term": "WIN2026",
+      "course": "POL S 564",
+      "courseTitle": "LAW & SOCIAL CHANGE",
+      "section": "A"
+    }
+  ]
+}

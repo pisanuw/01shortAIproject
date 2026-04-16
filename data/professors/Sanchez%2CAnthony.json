@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Sanchez%2CAnthony",
+  "professor": "Sanchez,Anthony",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2021",
+      "course": "MATH 300",
+      "courseTitle": "MATH REASONING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "WIN2021",
+      "course": "MATH 324",
+      "courseTitle": "ADV MULTIVAR CALC 1",
+      "section": "E"
+    }
+  ]
+}

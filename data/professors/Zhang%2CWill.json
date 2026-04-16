@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Zhang%2CWill",
+  "professor": "Zhang,Will",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2025",
+      "course": "ECON 482",
+      "courseTitle": "ECONOMETRIC THRY&PR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "busan",
+      "deptName": "Business Analytics",
+      "term": "SUM2024",
+      "course": "BUS AN 512",
+      "courseTitle": "DATA MGMT & VISUAL",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2023",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "D"
+    }
+  ]
+}

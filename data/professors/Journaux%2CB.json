@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Journaux%2CB",
+  "professor": "Journaux,B",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ess",
+      "deptName": "Earth and Space Sciences",
+      "term": "SPR2023",
+      "course": "ESS 102",
+      "courseTitle": "SPACE&SPACE TRAVEL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ess",
+      "deptName": "Earth and Space Sciences",
+      "term": "WIN2023",
+      "course": "ESS 102",
+      "courseTitle": "SPACE&SPACE TRAVEL",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Pasternack%2CNancy",
+  "professor": "Pasternack,Nancy",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2021",
+      "course": "ACCTG 471",
+      "courseTitle": "FORENSICS & ETHICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "SUM2021",
+      "course": "ACCTG 215",
+      "courseTitle": "ACCTG & FIN REPRTNG",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2020",
+      "course": "ACCTG 471",
+      "courseTitle": "FORENSICS & ETHICS",
+      "section": "A"
+    }
+  ]
+}

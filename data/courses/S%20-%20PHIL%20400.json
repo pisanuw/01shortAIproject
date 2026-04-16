@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20PHIL%20400",
+  "course": "S - PHIL 400",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "WIN2026",
+      "course": "PHIL 400",
+      "courseTitle": "HONORS SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "WIN2025",
+      "course": "PHIL 400",
+      "courseTitle": "HONORS SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "SPR2024",
+      "course": "PHIL 400",
+      "courseTitle": "HONORS SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
+}

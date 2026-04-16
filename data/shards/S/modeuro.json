@@ -1,7 +1,738 @@
 {
-  "generatedAt": "2026-04-15T16:27:56Z",
+  "generatedAt": "2026-04-16T02:57:12Z",
   "campus": "S",
   "dept": "modeuro",
   "deptName": "History of Modern Europe",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "AUT2020",
+      "course": "HSTEU 210",
+      "courseTitle": "PARIS",
+      "section": "A",
+      "instructor": "Jonas,Raymond"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "AUT2020",
+      "course": "HSTEU 422",
+      "courseTitle": "FR RV&NAP 1789-1815",
+      "section": "A",
+      "instructor": "Jonas,Raymond"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "AUT2020",
+      "course": "HSTEU 451",
+      "courseTitle": "E C E SINCE 1342",
+      "section": "A",
+      "instructor": "Felak,James R"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2021",
+      "course": "HSTEU 234",
+      "courseTitle": "NAZI GRMNY & HOLOCST",
+      "section": "A",
+      "instructor": "Marhoefer,Laurie"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2021",
+      "course": "HSTEU 251",
+      "courseTitle": "MOD EUR:FRENC REV-EU",
+      "section": "A",
+      "instructor": "Felak,James R"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2021",
+      "course": "HSTEU 274",
+      "courseTitle": "20TH CENT EURO FILM",
+      "section": "A",
+      "instructor": "Bailkin,Jordanna"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2021",
+      "course": "HSTEU 361",
+      "courseTitle": "GOLDEN AGE SPAIN",
+      "section": "A",
+      "instructor": "Schmidt,Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2021",
+      "course": "HSTEU 370",
+      "courseTitle": "TOLKIEN-ENGL MYTHOL",
+      "section": "A",
+      "instructor": "Stacey,Robin"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2021",
+      "course": "HSTEU 370",
+      "courseTitle": "TOLKIEN-ENGL MYTHOL",
+      "section": "B",
+      "instructor": "Stacey,Robin"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2021",
+      "course": "HSTEU 590",
+      "courseTitle": "TOPICS IN EURO HIST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "SPR2021",
+      "course": "HSTEU 245",
+      "courseTitle": "ST.PETERSBRG/LENGRD",
+      "section": "A",
+      "instructor": "Campbell,Elena"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "SPR2021",
+      "course": "HSTEU 276",
+      "courseTitle": "POSTWAR EUROPE",
+      "section": "A",
+      "instructor": "Bailkin,Jordanna"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "AUT2021",
+      "course": "HSTEU 274",
+      "courseTitle": "20TH CENT EURO FILM",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "AUT2021",
+      "course": "HSTEU 274",
+      "courseTitle": "20TH CENT EURO FILM",
+      "section": "B",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "AUT2021",
+      "course": "HSTEU 290",
+      "courseTitle": "TOPICS EUR HIST",
+      "section": "B",
+      "instructor": "Frydman,Hannah"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "AUT2021",
+      "course": "HSTEU 452",
+      "courseTitle": "E EUROPE SINCE 1918",
+      "section": "A",
+      "instructor": "Felak,James R"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2022",
+      "course": "HSTEU 234",
+      "courseTitle": "NAZI GRMNY & HOLOCST",
+      "section": "A",
+      "instructor": "Marhoefer,Laurie"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2022",
+      "course": "HSTEU 251",
+      "courseTitle": "MOD EUR:FRENC REV-EU",
+      "section": "A",
+      "instructor": "Felak,James R"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2022",
+      "course": "HSTEU 276",
+      "courseTitle": "POSTWAR EUROPE",
+      "section": "A",
+      "instructor": "Bailkin,Jordanna"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2022",
+      "course": "HSTEU 303",
+      "courseTitle": "CNTP EUR H SNC 1815",
+      "section": "A",
+      "instructor": "Jonas,Raymond"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2022",
+      "course": "HSTEU 361",
+      "courseTitle": "GOLDEN AGE SPAIN",
+      "section": "A",
+      "instructor": "Schmidt,Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2022",
+      "course": "HSTEU 454",
+      "courseTitle": "BALTIC HISTORY",
+      "section": "A",
+      "instructor": "Purs,Aldis"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "SPR2022",
+      "course": "HSTEU 210",
+      "courseTitle": "PARIS",
+      "section": "A",
+      "instructor": "Jonas,Raymond"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "SPR2022",
+      "course": "HSTEU 290",
+      "courseTitle": "TOPICS EUR HIST",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "SPR2022",
+      "course": "HSTEU 477",
+      "courseTitle": "BRIT EMPRE TO BREXIT",
+      "section": "A",
+      "instructor": "Soja,Taylor M"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "SPR2022",
+      "course": "HSTEU 490",
+      "courseTitle": "TOPICS EUR HIST",
+      "section": "B",
+      "instructor": "Frydman,Hannah"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "AUT2022",
+      "course": "HSTEU 274",
+      "courseTitle": "20TH CENT EURO FILM",
+      "section": "A",
+      "instructor": "Kane-Galbraith,Adrian"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "AUT2022",
+      "course": "HSTEU 274",
+      "courseTitle": "20TH CENT EURO FILM",
+      "section": "B",
+      "instructor": "Kane-Galbraith,Adrian"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "AUT2022",
+      "course": "HSTEU 402",
+      "courseTitle": "THE REFORMATION",
+      "section": "A",
+      "instructor": "Lange,Tyler"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "AUT2022",
+      "course": "HSTEU 451",
+      "courseTitle": "E C E SINCE 1342",
+      "section": "A",
+      "instructor": "Felak,James R"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "AUT2022",
+      "course": "HSTEU 490",
+      "courseTitle": "TOPICS EUR HIST",
+      "section": "A",
+      "instructor": "Dedu-Constantin,Florentina"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2023",
+      "course": "HSTEU 234",
+      "courseTitle": "NAZI GRMNY & HOLOCST",
+      "section": "A",
+      "instructor": "Marhoefer,Laurie"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2023",
+      "course": "HSTEU 251",
+      "courseTitle": "MOD EUR:FRENC REV-EU",
+      "section": "A",
+      "instructor": "Felak,James R"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2023",
+      "course": "HSTEU 290",
+      "courseTitle": "TOPICS EUR HIST",
+      "section": "A",
+      "instructor": "Frydman,Hannah"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2023",
+      "course": "HSTEU 301",
+      "courseTitle": "EARLY MOD EURO HIST",
+      "section": "A",
+      "instructor": "Schmidt,Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2023",
+      "course": "HSTEU 370",
+      "courseTitle": "TOLKIEN-ENGL MYTHOL",
+      "section": "A",
+      "instructor": "Stacey,Robin"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2023",
+      "course": "HSTEU 422",
+      "courseTitle": "FR RV&NAP 1789-1815",
+      "section": "A",
+      "instructor": "Jonas,Raymond"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "SPR2023",
+      "course": "HSTEU 210",
+      "courseTitle": "PARIS",
+      "section": "A",
+      "instructor": "Jonas,Raymond"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "SPR2023",
+      "course": "HSTEU 245",
+      "courseTitle": "ST.PETERSBRG/LENGRD",
+      "section": "A",
+      "instructor": "Campbell,Elena"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "SPR2023",
+      "course": "HSTEU 490",
+      "courseTitle": "TOPICS EUR HIST",
+      "section": "A",
+      "instructor": "Frydman,Hannah"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "AUT2023",
+      "course": "HSTEU 245",
+      "courseTitle": "ST.PETERSBRG/LENGRD",
+      "section": "A",
+      "instructor": "Campbell,Elena"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "AUT2023",
+      "course": "HSTEU 452",
+      "courseTitle": "E EUROPE SINCE 1918",
+      "section": "A",
+      "instructor": "Felak,James R"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "AUT2023",
+      "course": "HSTEU 490",
+      "courseTitle": "TOPICS EUR HIST",
+      "section": "A",
+      "instructor": "Turnovsky,Geoffrey"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2024",
+      "course": "HSTEU 210",
+      "courseTitle": "PARIS",
+      "section": "A",
+      "instructor": "Jonas,Raymond"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2024",
+      "course": "HSTEU 234",
+      "courseTitle": "NAZI GRMNY & HOLOCST",
+      "section": "A",
+      "instructor": "Marhoefer,Laurie"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2024",
+      "course": "HSTEU 251",
+      "courseTitle": "MOD EUR:FRENC REV-EU",
+      "section": "A",
+      "instructor": "Felak,James R"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2024",
+      "course": "HSTEU 454",
+      "courseTitle": "BALTIC HISTORY",
+      "section": "A",
+      "instructor": "Smidchens,Guntis"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "SPR2024",
+      "course": "HSTEU 276",
+      "courseTitle": "POSTWAR EUROPE",
+      "section": "A",
+      "instructor": "Bailkin,Jordanna"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "SPR2024",
+      "course": "HSTEU 290",
+      "courseTitle": "TOPICS EUR HIST",
+      "section": "A",
+      "instructor": "Turnovsky,Geoffrey"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "SPR2024",
+      "course": "HSTEU 303",
+      "courseTitle": "EUROPE SINCE 1789",
+      "section": "A",
+      "instructor": "Jonas,Raymond"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "SPR2024",
+      "course": "HSTEU 444",
+      "courseTitle": "IMPRL RUS 1700-1900",
+      "section": "A",
+      "instructor": "Johnson,Eric W."
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "SUM2024",
+      "course": "HSTEU 415",
+      "courseTitle": "THE SECOND WORLD WAR",
+      "section": "A",
+      "instructor": "Johnson,Eric W."
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "AUT2024",
+      "course": "HSTEU 274",
+      "courseTitle": "20TH CENT EURO FILM",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "AUT2024",
+      "course": "HSTEU 274",
+      "courseTitle": "20TH CENT EURO FILM",
+      "section": "B",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "AUT2024",
+      "course": "HSTEU 451",
+      "courseTitle": "E C E SINCE 1342",
+      "section": "A",
+      "instructor": "Felak,James R"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2025",
+      "course": "HSTEU 234",
+      "courseTitle": "NAZI GRMNY & HOLOCST",
+      "section": "A",
+      "instructor": "Marhoefer,Laurie"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2025",
+      "course": "HSTEU 251",
+      "courseTitle": "MOD EUR:FRENC REV-EU",
+      "section": "A",
+      "instructor": "Felak,James R"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2025",
+      "course": "HSTEU 276",
+      "courseTitle": "POSTWAR EUROPE",
+      "section": "A",
+      "instructor": "Bailkin,Jordanna"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "SPR2025",
+      "course": "HSTEU 245",
+      "courseTitle": "ST.PETERSBRG/LENGRD",
+      "section": "A",
+      "instructor": "Campbell,Elena"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "SPR2025",
+      "course": "HSTEU 381",
+      "courseTitle": "HST SCAND SNCE 1720",
+      "section": "A",
+      "instructor": "Smidchens,Guntis"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "SPR2025",
+      "course": "HSTEU 415",
+      "courseTitle": "THE SECOND WORLD WAR",
+      "section": "A",
+      "instructor": "Johnson,Eric W."
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "SPR2025",
+      "course": "HSTEU 422",
+      "courseTitle": "FR RV&NAP 1789-1815",
+      "section": "A",
+      "instructor": "Jonas,Raymond"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "SUM2025",
+      "course": "HSTEU 435",
+      "courseTitle": "WORLD WAR I",
+      "section": "A",
+      "instructor": "AKTAS,OYA"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "AUT2025",
+      "course": "HSTEU 245",
+      "courseTitle": "ST.PETERSBRG/LENGRD",
+      "section": "A",
+      "instructor": "Campbell,Elena"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "AUT2025",
+      "course": "HSTEU 274",
+      "courseTitle": "20TH CENT EURO FILM",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "AUT2025",
+      "course": "HSTEU 274",
+      "courseTitle": "20TH CENT EURO FILM",
+      "section": "B",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "AUT2025",
+      "course": "HSTEU 444",
+      "courseTitle": "IMPRL RUS 1700-1900",
+      "section": "A",
+      "instructor": "Johnson,Eric W."
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "AUT2025",
+      "course": "HSTEU 452",
+      "courseTitle": "E EUROPE SINCE 1918",
+      "section": "A",
+      "instructor": "Felak,James R"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2026",
+      "course": "HSTEU 251",
+      "courseTitle": "MOD EUR:FRENC REV-EU",
+      "section": "A",
+      "instructor": "Felak,James R"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2026",
+      "course": "HSTEU 276",
+      "courseTitle": "POSTWAR EUROPE",
+      "section": "A",
+      "instructor": "Bailkin,Jordanna"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2026",
+      "course": "HSTEU 303",
+      "courseTitle": "EUROPE SINCE 1789",
+      "section": "A",
+      "instructor": "Jonas,Raymond"
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "WIN2026",
+      "course": "HSTEU 415",
+      "courseTitle": "THE SECOND WORLD WAR",
+      "section": "A",
+      "instructor": "Johnson,Eric W."
+    },
+    {
+      "campus": "S",
+      "dept": "modeuro",
+      "deptName": "History of Modern Europe",
+      "term": "SPR2026",
+      "course": "HSTEU 210",
+      "courseTitle": "PARIS",
+      "section": "A",
+      "instructor": "Jonas,Raymond"
+    }
+  ]
 }

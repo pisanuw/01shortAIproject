@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Zenone%2CMarco%20Antonio",
+  "professor": "Zenone,Marco Antonio",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bhs",
+      "deptName": "Health Studies",
+      "term": "SPR2024",
+      "course": "BHS 201",
+      "courseTitle": "INTRO PUBLIC HLTH",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bhlth",
+      "deptName": "Health Electives",
+      "term": "AUT2023",
+      "course": "B HLTH 197",
+      "courseTitle": "PREP HEALTH TOPICS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bnurs",
+      "deptName": "Nursing",
+      "term": "SUM2023",
+      "course": "B NURS 421",
+      "courseTitle": "SOC JUSTICE HLTH",
+      "section": "A"
+    }
+  ]
+}

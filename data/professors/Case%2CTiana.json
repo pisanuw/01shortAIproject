@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Case%2CTiana",
+  "professor": "Case,Tiana",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "SUM2025",
+      "course": "COM 270",
+      "courseTitle": "INTERPERSONAL CMU",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "SUM2024",
+      "course": "COM 270",
+      "courseTitle": "INTERPERSONAL CMU",
+      "section": "B"
+    }
+  ]
+}

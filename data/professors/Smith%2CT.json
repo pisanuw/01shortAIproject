@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Smith%2CT",
+  "professor": "Smith,T",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "astro",
+      "deptName": "Astronomy",
+      "term": "WIN2023",
+      "course": "ASTR 105",
+      "courseTitle": "EXPLORING THE MOON",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "astro",
+      "deptName": "Astronomy",
+      "term": "AUT2022",
+      "course": "ASTR 150",
+      "courseTitle": "THE PLANETS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "astro",
+      "deptName": "Astronomy",
+      "term": "AUT2021",
+      "course": "ASTR 150",
+      "courseTitle": "THE PLANETS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "astro",
+      "deptName": "Astronomy",
+      "term": "SUM2021",
+      "course": "ASTR 105",
+      "courseTitle": "EXPLORING THE MOON",
+      "section": "A"
+    }
+  ]
+}

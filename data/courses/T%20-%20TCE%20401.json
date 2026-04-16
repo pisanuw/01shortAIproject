@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:25Z",
+  "id": "T%20-%20TCE%20401",
+  "course": "T - TCE 401",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tce",
+      "deptName": "Civil Engineering",
+      "term": "WIN2026",
+      "course": "TCE 401",
+      "courseTitle": "ENGR PROJ MGMT",
+      "section": "A",
+      "instructor": "Almeida,Nara"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tce",
+      "deptName": "Civil Engineering",
+      "term": "WIN2025",
+      "course": "TCE 401",
+      "courseTitle": "ENGR PROJ MGMT",
+      "section": "A",
+      "instructor": "Almeida,Nara"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tce",
+      "deptName": "Civil Engineering",
+      "term": "AUT2023",
+      "course": "TCE 401",
+      "courseTitle": "ENGR PROJ MGMT",
+      "section": "A",
+      "instructor": "Almeida,Nara"
+    }
+  ]
+}

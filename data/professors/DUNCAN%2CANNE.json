@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "DUNCAN%2CANNE",
+  "professor": "DUNCAN,ANNE",
+  "recordCount": 5,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engl",
+      "deptName": "English",
+      "term": "SPR2026",
+      "course": "ENGL 383",
+      "courseTitle": "THE CRAFT OF VERSE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engl",
+      "deptName": "English",
+      "term": "WIN2026",
+      "course": "ENGL 111",
+      "courseTitle": "COMPOSITION: LIT",
+      "section": "J"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engl",
+      "deptName": "English",
+      "term": "AUT2025",
+      "course": "ENGL 383",
+      "courseTitle": "THE CRAFT OF VERSE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engl",
+      "deptName": "English",
+      "term": "AUT2024",
+      "course": "ENGL 383",
+      "courseTitle": "THE CRAFT OF VERSE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engl",
+      "deptName": "English",
+      "term": "SPR2024",
+      "course": "ENGL 283",
+      "courseTitle": "BEGIN VERSE WRITING",
+      "section": "C"
+    }
+  ]
+}

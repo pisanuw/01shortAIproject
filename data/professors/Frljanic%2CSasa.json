@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Frljanic%2CSasa",
+  "professor": "Frljanic,Sasa",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mktg",
+      "deptName": "Marketing",
+      "term": "SPR2026",
+      "course": "MKTG 531",
+      "courseTitle": "PROD MGMT",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mktg",
+      "deptName": "Marketing",
+      "term": "SPR2024",
+      "course": "MKTG 531",
+      "courseTitle": "PROD MGMT",
+      "section": "A"
+    }
+  ]
+}

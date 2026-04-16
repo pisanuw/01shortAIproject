@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Oliveira%2CNigini",
+  "professor": "Oliveira,Nigini",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "AUT2023",
+      "course": "CSE 340",
+      "courseTitle": "INTERACTION PROG",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "SPR2023",
+      "course": "CSE 403",
+      "courseTitle": "SOFTWARE ENGINEERING",
+      "section": "A"
+    }
+  ]
+}

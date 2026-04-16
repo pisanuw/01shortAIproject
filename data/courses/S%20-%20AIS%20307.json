@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:22Z",
+  "id": "S%20-%20AIS%20307",
+  "course": "S - AIS 307",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ais",
+      "deptName": "American Indian Studies",
+      "term": "AUT2024",
+      "course": "AIS 307",
+      "courseTitle": "INDIG LIT & THE ENV",
+      "section": "A",
+      "instructor": "Smith,Jen Rose"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ais",
+      "deptName": "American Indian Studies",
+      "term": "AUT2023",
+      "course": "AIS 307",
+      "courseTitle": "INDIG LIT & THE ENV",
+      "section": "A",
+      "instructor": "Smith,Jen Rose"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ais",
+      "deptName": "American Indian Studies",
+      "term": "AUT2022",
+      "course": "AIS 307",
+      "courseTitle": "INDIG LIT & THE ENV",
+      "section": "A",
+      "instructor": "Teuton,Christopher"
+    }
+  ]
+}

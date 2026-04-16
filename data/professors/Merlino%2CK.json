@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Merlino%2CK",
+  "professor": "Merlino,K",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "AUT2022",
+      "course": "ARCH 361",
+      "courseTitle": "ARCH COLLOQUIUM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "AUT2020",
+      "course": "ARCH 538",
+      "courseTitle": "BLDG REUSE SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "AUT2020",
+      "course": "ARCH 361",
+      "courseTitle": "ARCH COLLOQUIUM",
+      "section": "A"
+    }
+  ]
+}

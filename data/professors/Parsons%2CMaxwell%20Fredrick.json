@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Parsons%2CMaxwell%20Fredrick",
+  "professor": "Parsons,Maxwell Fredrick",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "SPR2026",
+      "course": "E E 391",
+      "courseTitle": "PROB FOR INFO & COMM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "AUT2025",
+      "course": "E E 528",
+      "courseTitle": "QUANTUM OPTICS",
+      "section": "A"
+    }
+  ]
+}

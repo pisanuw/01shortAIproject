@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "WU%2CVALENTIN",
+  "professor": "WU,VALENTIN",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "intlbus",
+      "deptName": "International Business",
+      "term": "WIN2026",
+      "course": "I BUS 491",
+      "courseTitle": "CISB SEMINAR",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "intlbus",
+      "deptName": "International Business",
+      "term": "WIN2025",
+      "course": "I BUS 491",
+      "courseTitle": "CISB SEMINAR",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "intlbus",
+      "deptName": "International Business",
+      "term": "WIN2024",
+      "course": "I BUS 491",
+      "courseTitle": "CISB SEMINAR",
+      "section": "F"
+    }
+  ]
+}

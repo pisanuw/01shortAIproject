@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Gordon%2CS",
+  "professor": "Gordon,S",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dentgp",
+      "deptName": "Dental General Practice",
+      "term": "AUT2021",
+      "course": "DENTGP 660",
+      "courseTitle": "ADV TOP GEN DENT 2",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dentgp",
+      "deptName": "Dental General Practice",
+      "term": "SUM2021",
+      "course": "DENTGP 650",
+      "courseTitle": "ADV TOPICS GEN DENT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dentgp",
+      "deptName": "Dental General Practice",
+      "term": "AUT2020",
+      "course": "DENTGP 660",
+      "courseTitle": "ADV TOP GEN DENT 2",
+      "section": "A"
+    }
+  ]
+}

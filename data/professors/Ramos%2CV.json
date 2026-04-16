@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Ramos%2CV",
+  "professor": "Ramos,V",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "restor",
+      "deptName": "Restorative Dentistry",
+      "term": "SUM2021",
+      "course": "RES D 660",
+      "courseTitle": "ORAL REHABILITATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "restor",
+      "deptName": "Restorative Dentistry",
+      "term": "SUM2021",
+      "course": "RES D 589",
+      "courseTitle": "REV LIT OCCLUSION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "pros",
+      "deptName": "Prosthodontics",
+      "term": "SUM2021",
+      "course": "PROS 572",
+      "courseTitle": "SPECIAL TOPICS PROS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "pros",
+      "deptName": "Prosthodontics",
+      "term": "SUM2021",
+      "course": "PROS 560",
+      "courseTitle": "COMPLETE DENTURES",
+      "section": "A"
+    }
+  ]
+}

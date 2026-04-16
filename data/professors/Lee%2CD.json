@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Lee%2CD",
+  "professor": "Lee,D",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2024",
+      "course": "CHEM 110",
+      "courseTitle": "PREP GEN CHEM",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "turb",
+      "deptName": "Urban Studies",
+      "term": "WIN2021",
+      "course": "T URB 312",
+      "courseTitle": "U.S. RACE/POVERTY",
+      "section": "A"
+    }
+  ]
+}

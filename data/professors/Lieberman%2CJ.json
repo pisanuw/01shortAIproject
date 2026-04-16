@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Lieberman%2CJ",
+  "professor": "Lieberman,J",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2023",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2023",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2022",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A"
+    }
+  ]
+}

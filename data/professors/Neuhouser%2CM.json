@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Neuhouser%2CM",
+  "professor": "Neuhouser,M",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nutrit",
+      "deptName": "Nutritional Science",
+      "term": "WIN2023",
+      "course": "NUTR 590",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "WIN2023",
+      "course": "EPI 592",
+      "courseTitle": "PROGRAM SEMINARS",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nutrit",
+      "deptName": "Nutritional Science",
+      "term": "WIN2022",
+      "course": "NUTR 590",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "WIN2022",
+      "course": "EPI 592",
+      "courseTitle": "PROGRAM SEMINARS",
+      "section": "E"
+    }
+  ]
+}

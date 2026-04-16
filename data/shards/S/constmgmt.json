@@ -1,7 +1,5418 @@
 {
-  "generatedAt": "2026-04-15T16:27:58Z",
+  "generatedAt": "2026-04-16T02:57:13Z",
   "campus": "S",
   "dept": "constmgmt",
   "deptName": "Construction Management",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "A",
+      "instructor": "Hochstatter,K"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 301",
+      "courseTitle": "CONSTRUCTION COMM",
+      "section": "A",
+      "instructor": "Saulter,C"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 310",
+      "courseTitle": "BLDG CONST INTRO",
+      "section": "A",
+      "instructor": "Septelka,Darlene M"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 311",
+      "courseTitle": "CONST DOCUMENTS",
+      "section": "A",
+      "instructor": "Holm,L"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 311",
+      "courseTitle": "CONST DOCUMENTS",
+      "section": "C",
+      "instructor": "Shaiman,James L"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 312",
+      "courseTitle": "CONSTR ACCOUNTING",
+      "section": "A",
+      "instructor": "Holm,L"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 313",
+      "courseTitle": "CONST METH & MAT I",
+      "section": "A",
+      "instructor": "Astaneh Asl,Bita"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 333",
+      "courseTitle": "CONSTRUCTION SAFETY",
+      "section": "A",
+      "instructor": "Lin,K"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 410",
+      "courseTitle": "CONST ESTIMATING II",
+      "section": "A",
+      "instructor": "Bjork,Larry D"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 410",
+      "courseTitle": "CONST ESTIMATING II",
+      "section": "B",
+      "instructor": "Bjork,Larry D"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 411",
+      "courseTitle": "PROJ PLNG & CONTROL",
+      "section": "A",
+      "instructor": "Abdel Aziz,Ahmed"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 413",
+      "courseTitle": "COMP BUS PRES",
+      "section": "A",
+      "instructor": "Migliaccio,Giovanni C"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 414",
+      "courseTitle": "VIRTUAL CONST",
+      "section": "A",
+      "instructor": "Astaneh Asl,Bita"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 415",
+      "courseTitle": "HEAVY CONST PRAC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 416",
+      "courseTitle": "RES PROJ DEVELOP",
+      "section": "A",
+      "instructor": "Shaiman,James L"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 449",
+      "courseTitle": "CONST PLAN READ EST",
+      "section": "A",
+      "instructor": "Bender,Bill"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 500",
+      "courseTitle": "DESIGN & CONST LAW",
+      "section": "B",
+      "instructor": "Tramountanas,A"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 520",
+      "courseTitle": "CONST PROCURE SYST",
+      "section": "B",
+      "instructor": "Kim,Yong-Woo"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 555",
+      "courseTitle": "CONST FIRM MGMT",
+      "section": "A",
+      "instructor": "Migliaccio,Giovanni C"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 565",
+      "courseTitle": "MANAGING INT PROJ",
+      "section": "A",
+      "instructor": "Septelka,Darlene M"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2020",
+      "course": "CM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 250",
+      "courseTitle": "CONST AND CULTURE",
+      "section": "A",
+      "instructor": "Septelka,Darlene M"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "A",
+      "instructor": "Min,Yohan"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "B",
+      "instructor": "Zhang,Zhenyu"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 311",
+      "courseTitle": "CONST DOCUMENTS",
+      "section": "A",
+      "instructor": "Holm,Len"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 321",
+      "courseTitle": "MECH SYSTEMS BLDGS",
+      "section": "A",
+      "instructor": "Olson,Rory"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 321",
+      "courseTitle": "MECH SYSTEMS BLDGS",
+      "section": "B",
+      "instructor": "Olson,Rory"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 322",
+      "courseTitle": "ELECTRICAL SYST BLD",
+      "section": "B",
+      "instructor": "Cobean,Brice"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 322",
+      "courseTitle": "ELECTRICAL SYST BLD",
+      "section": "A",
+      "instructor": "Lopez,Nick"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 323",
+      "courseTitle": "CONST METH & MAT II",
+      "section": "A",
+      "instructor": "Astaneh Asl,Bita"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 411",
+      "courseTitle": "PROJ PLNG & CONTROL",
+      "section": "C",
+      "instructor": "Abdel Aziz,Ahmed"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 412",
+      "courseTitle": "CONSTRUCTN PRACTICE",
+      "section": "A",
+      "instructor": "Lin,Ken-Yu"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 421",
+      "courseTitle": "PROJECT MGMT I",
+      "section": "A",
+      "instructor": "Holm,Len"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 421",
+      "courseTitle": "PROJECT MGMT I",
+      "section": "B",
+      "instructor": "Septelka,Darlene M"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 422",
+      "courseTitle": "CONST COMPUTER APPL",
+      "section": "A",
+      "instructor": "Abdel Aziz,Ahmed"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 422",
+      "courseTitle": "CONST COMPUTER APPL",
+      "section": "B",
+      "instructor": "Abdel Aziz,Ahmed"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 428",
+      "courseTitle": "HEAVY CONST TECH",
+      "section": "A",
+      "instructor": "Schaufelberger,J"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 429",
+      "courseTitle": "CONSTSUPER",
+      "section": "A",
+      "instructor": "Chambers,T"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 432",
+      "courseTitle": "SOILS & FOUNDATIONS",
+      "section": "A",
+      "instructor": "Astaneh Asl,Bita"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Angus,Sara"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Holm,Len"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 515",
+      "courseTitle": "VIRTUAL CONST MGMT",
+      "section": "A",
+      "instructor": "Dossick,Carrie Sturts"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 518",
+      "courseTitle": "LEAN CONSTRUCTION",
+      "section": "A",
+      "instructor": "Kim,Yong-Woo"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 535",
+      "courseTitle": "RSCH MTDS IN CONST",
+      "section": "A",
+      "instructor": "Lin,Ken-Yu"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 540",
+      "courseTitle": "SUSTAINABLE CONST",
+      "section": "A",
+      "instructor": "Lee,H"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 588",
+      "courseTitle": "CONST OPNS AND PROD",
+      "section": "B",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2021",
+      "course": "CM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "A",
+      "instructor": "MIN,YOHAN"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 301",
+      "courseTitle": "CONSTRUCTION COMM",
+      "section": "A",
+      "instructor": "Saulter,C"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 311",
+      "courseTitle": "CONST DOCUMENTS",
+      "section": "A",
+      "instructor": "Lee,H"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 330",
+      "courseTitle": "CONST EST LAB",
+      "section": "A",
+      "instructor": "Hochstatter,Kirk"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 330",
+      "courseTitle": "CONST EST LAB",
+      "section": "B",
+      "instructor": "Hochstatter,Kirk"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "A",
+      "instructor": "Beltran,Gerald"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "C",
+      "instructor": "Bjork,L"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "B",
+      "instructor": "Lee,H"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "D",
+      "instructor": "Warnaca,Robert B"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 332",
+      "courseTitle": "CONST EQUIP MGMT",
+      "section": "A",
+      "instructor": "Migliaccio,G"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 334",
+      "courseTitle": "CONST SURVEYING",
+      "section": "A",
+      "instructor": "Paquette,Martin D."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 334",
+      "courseTitle": "CONST SURVEYING",
+      "section": "B",
+      "instructor": "Paquette,Martin D."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 335",
+      "courseTitle": "SUSTAINABLE CONST",
+      "section": "A",
+      "instructor": "Bender,Bill"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 420",
+      "courseTitle": "TEMP STRUCTURES",
+      "section": "A",
+      "instructor": "Astaneh Asl,Bita"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 421",
+      "courseTitle": "PROJECT MGMT I",
+      "section": "C",
+      "instructor": "Schaufelberger,J"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 423",
+      "courseTitle": "CONSTRUCTION LAW",
+      "section": "A",
+      "instructor": "Tramountanas,A"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 431",
+      "courseTitle": "PROJECT MGMT II",
+      "section": "B",
+      "instructor": "Angus,Sara"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 431",
+      "courseTitle": "PROJECT MGMT II",
+      "section": "C",
+      "instructor": "Holm,Len"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 431",
+      "courseTitle": "PROJECT MGMT II",
+      "section": "A",
+      "instructor": "Septelka,Darlene M"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 434",
+      "courseTitle": "LEAN PROJ PLANNING",
+      "section": "A",
+      "instructor": "Kim,Yong-Woo"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 530",
+      "courseTitle": "PROJ ECON & RISK",
+      "section": "A",
+      "instructor": "Abdel Aziz,Ahmed"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 560",
+      "courseTitle": "DSGN-BUILD PROJ MGT",
+      "section": "A",
+      "instructor": "Septelka,Darlene M"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 575",
+      "courseTitle": "LEADERSHIP IN CONST",
+      "section": "A",
+      "instructor": "Cariello,L"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 580",
+      "courseTitle": "TEMP STRUCTURES",
+      "section": "B",
+      "instructor": "Astaneh Asl,Bita"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Lin,K"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2021",
+      "course": "CM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SUM2021",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SUM2021",
+      "course": "CM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SUM2021",
+      "course": "CM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "A",
+      "instructor": "F Hochstatter,Kirk"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 301",
+      "courseTitle": "CONSTRUCTION COMM",
+      "section": "A",
+      "instructor": "Saulter,C"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 310",
+      "courseTitle": "BLDG CONST INTRO",
+      "section": "A",
+      "instructor": "Septelka,D"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 311",
+      "courseTitle": "CONST DOCUMENTS",
+      "section": "B",
+      "instructor": "Bailon-Schubert,Suzanne M"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 311",
+      "courseTitle": "CONST DOCUMENTS",
+      "section": "C",
+      "instructor": "Wiggins,Matt"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 312",
+      "courseTitle": "CONSTR ACCOUNTING",
+      "section": "A",
+      "instructor": "Holm,Len"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 313",
+      "courseTitle": "CONST METH & MAT I",
+      "section": "A",
+      "instructor": "Aaronson,Barry L."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 335",
+      "courseTitle": "SUSTAINABLE CONST",
+      "section": "A",
+      "instructor": "Bender,Bill"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 410",
+      "courseTitle": "CONST ESTIMATING II",
+      "section": "A",
+      "instructor": "Bjork,Larry D"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 410",
+      "courseTitle": "CONST ESTIMATING II",
+      "section": "E",
+      "instructor": "Bjork,Larry D"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 410",
+      "courseTitle": "CONST ESTIMATING II",
+      "section": "B",
+      "instructor": "Lee,Hyun Woo"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 411",
+      "courseTitle": "PROJ PLNG & CONTROL",
+      "section": "A",
+      "instructor": "Abdel Aziz,Ahmed"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 413",
+      "courseTitle": "COMP BUS PRES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 414",
+      "courseTitle": "VIRTUAL CONST",
+      "section": "A",
+      "instructor": "Saeidi,Sanaz"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 415",
+      "courseTitle": "HEAVY CONST PRAC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 416",
+      "courseTitle": "RES PROJ DEVELOP",
+      "section": "A",
+      "instructor": "Holm,Len"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 449",
+      "courseTitle": "CONST PLAN READ EST",
+      "section": "A",
+      "instructor": "Westmoreland,David V"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 500",
+      "courseTitle": "DESIGN & CONST LAW",
+      "section": "B",
+      "instructor": "Tramountanas,A"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 520",
+      "courseTitle": "CONST PROCURE SYST",
+      "section": "B",
+      "instructor": "Kim,Yong-Woo"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 565",
+      "courseTitle": "MANAGING INT PROJ",
+      "section": "A",
+      "instructor": "Septelka,D"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Dossick,Carrie Sturts"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "Lin,Ken-Yu"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 250",
+      "courseTitle": "CONST AND CULTURE",
+      "section": "A",
+      "instructor": "Aaronson,Barry L."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "B",
+      "instructor": "F PRATAMA,LUCKY AGUNG"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "A",
+      "instructor": "F Saeidi,Sanaz"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 311",
+      "courseTitle": "CONST DOCUMENTS",
+      "section": "A",
+      "instructor": "A Hochstatter,Kirk"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 321",
+      "courseTitle": "MECH SYSTEMS BLDGS",
+      "section": "A",
+      "instructor": "Olson,R"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 321",
+      "courseTitle": "MECH SYSTEMS BLDGS",
+      "section": "B",
+      "instructor": "Olson,R"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 322",
+      "courseTitle": "ELECTRICAL SYST BLD",
+      "section": "B",
+      "instructor": "Cobean,B"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 322",
+      "courseTitle": "ELECTRICAL SYST BLD",
+      "section": "A",
+      "instructor": "Lopez,N"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 323",
+      "courseTitle": "CONST METH & MAT II",
+      "section": "A",
+      "instructor": "Aguayo,Fred"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 411",
+      "courseTitle": "PROJ PLNG & CONTROL",
+      "section": "C",
+      "instructor": "Abdel Aziz,Ahmed"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 412",
+      "courseTitle": "CONSTRUCTN PRACTICE",
+      "section": "A",
+      "instructor": "Lin,K"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 421",
+      "courseTitle": "PROJECT MGMT I",
+      "section": "A",
+      "instructor": "McQueen,Patrick"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 421",
+      "courseTitle": "PROJECT MGMT I",
+      "section": "B",
+      "instructor": "Septelka,Darlene M"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 422",
+      "courseTitle": "CONST COMPUTER APPL",
+      "section": "A",
+      "instructor": "F Abdel Aziz,Ahmed"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 422",
+      "courseTitle": "CONST COMPUTER APPL",
+      "section": "B",
+      "instructor": "F Abdel Aziz,Ahmed"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 429",
+      "courseTitle": "CONSTSUPER",
+      "section": "A",
+      "instructor": "Chambers,T"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 432",
+      "courseTitle": "SOILS & FOUNDATIONS",
+      "section": "A",
+      "instructor": "Smith,Matt"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Migliaccio,Giovanni C"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Septelka,Darlene M"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 518",
+      "courseTitle": "LEAN CONSTRUCTION",
+      "section": "A",
+      "instructor": "Kim,Yong-Woo"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 527",
+      "courseTitle": "SCOPE & RISK MGMT",
+      "section": "A",
+      "instructor": "Migliaccio,Giovanni C"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 535",
+      "courseTitle": "RSCH MTDS IN CONST",
+      "section": "A",
+      "instructor": "Lin,K"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 540",
+      "courseTitle": "SUSTAINABLE CONST",
+      "section": "A",
+      "instructor": "Lee,Hyun Woo"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 588",
+      "courseTitle": "CONST OPNS AND PROD",
+      "section": "B",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "A",
+      "instructor": "F Saeidi,Sanaz"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 301",
+      "courseTitle": "CONSTRUCTION COMM",
+      "section": "A",
+      "instructor": "F Smith,Carey C."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 311",
+      "courseTitle": "CONST DOCUMENTS",
+      "section": "A",
+      "instructor": "Lee,H"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 330",
+      "courseTitle": "CONST EST LAB",
+      "section": "A",
+      "instructor": "Hochstatter,K"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 330",
+      "courseTitle": "CONST EST LAB",
+      "section": "B",
+      "instructor": "Hochstatter,K"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "A",
+      "instructor": "Beltran,Gerald Guray"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "C",
+      "instructor": "Bjork,L"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "B",
+      "instructor": "Lee,H"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "D",
+      "instructor": "Wiggins,Matt"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 332",
+      "courseTitle": "CONST EQUIP MGMT",
+      "section": "A",
+      "instructor": "Migliaccio,Giovanni C"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 333",
+      "courseTitle": "CONSTRUCTION SAFETY",
+      "section": "A",
+      "instructor": "Lin,Ken-Yu"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 334",
+      "courseTitle": "CONST SURVEYING",
+      "section": "A",
+      "instructor": "Paquette,Martin D."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 420",
+      "courseTitle": "TEMP STRUCTURES",
+      "section": "A",
+      "instructor": "Aguayo,Fred"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 421",
+      "courseTitle": "PROJECT MGMT I",
+      "section": "C",
+      "instructor": "Scharrer,Amelia W"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 423",
+      "courseTitle": "CONSTRUCTION LAW",
+      "section": "A",
+      "instructor": "Tramountanas,A"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 431",
+      "courseTitle": "PROJECT MGMT II",
+      "section": "B",
+      "instructor": "Migliaccio,Giovanni C"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 431",
+      "courseTitle": "PROJECT MGMT II",
+      "section": "A",
+      "instructor": "Septelka,D"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 434",
+      "courseTitle": "LEAN PROJ PLANNING",
+      "section": "A",
+      "instructor": "Kim,Y"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Migliaccio,Giovanni C"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 515",
+      "courseTitle": "VIRTUAL CONST MGMT",
+      "section": "A",
+      "instructor": "Dossick,Carrie Sturts"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 530",
+      "courseTitle": "PROJ ECON & RISK",
+      "section": "A",
+      "instructor": "F Abdel Aziz,Ahmed"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 560",
+      "courseTitle": "DSGN-BUILD PROJ MGT",
+      "section": "A",
+      "instructor": "Septelka,D"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 575",
+      "courseTitle": "LEADERSHIP IN CONST",
+      "section": "A",
+      "instructor": "Cariello,L"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 580",
+      "courseTitle": "TEMP STRUCTURES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SUM2022",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SUM2022",
+      "course": "CM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SUM2022",
+      "course": "CM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "A",
+      "instructor": "F Hochstatter,Kirk"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 301",
+      "courseTitle": "CONSTRUCTION COMM",
+      "section": "A",
+      "instructor": "F Smith,Carey C."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 301",
+      "courseTitle": "CONSTRUCTION COMM",
+      "section": "B",
+      "instructor": "F Smith,Carey C."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 310",
+      "courseTitle": "BLDG CONST INTRO",
+      "section": "A",
+      "instructor": "Septelka,D"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 311",
+      "courseTitle": "CONST DOCUMENTS",
+      "section": "B",
+      "instructor": "Bailon-Schubert,S"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 311",
+      "courseTitle": "CONST DOCUMENTS",
+      "section": "D",
+      "instructor": "Warnaca,Robert B"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 312",
+      "courseTitle": "CONSTR ACCOUNTING",
+      "section": "A",
+      "instructor": "Kim,Yong-Woo"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 313",
+      "courseTitle": "CONST METH & MAT I",
+      "section": "A",
+      "instructor": "Aguayo,Fred"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 335",
+      "courseTitle": "SUSTAINABLE CONST",
+      "section": "A",
+      "instructor": "Kriegh,Julia Ann"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 410",
+      "courseTitle": "CONST ESTIMATING II",
+      "section": "A",
+      "instructor": "Bjork,L"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 410",
+      "courseTitle": "CONST ESTIMATING II",
+      "section": "E",
+      "instructor": "Bjork,L"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 410",
+      "courseTitle": "CONST ESTIMATING II",
+      "section": "B",
+      "instructor": "Wiggins,Matt"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 411",
+      "courseTitle": "PROJ PLNG & CONTROL",
+      "section": "A",
+      "instructor": "Abdel Aziz,A"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 413",
+      "courseTitle": "COMP BUS PRES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 414",
+      "courseTitle": "VIRTUAL CONST",
+      "section": "A",
+      "instructor": "Saeidi,S"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 415",
+      "courseTitle": "HEAVY CONST PRAC",
+      "section": "A",
+      "instructor": "Coffland,Daryl B"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 416",
+      "courseTitle": "RES PROJ DEVELOP",
+      "section": "A",
+      "instructor": "Holm,Len"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 449",
+      "courseTitle": "CONST PLAN READ EST",
+      "section": "A",
+      "instructor": "Wu,Lingzi"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 500",
+      "courseTitle": "DESIGN & CONST LAW",
+      "section": "B",
+      "instructor": "Tramountanas,A"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 520",
+      "courseTitle": "CONST PROCURE SYST",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 525",
+      "courseTitle": "COST ANALYSIS & MGMT",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 555",
+      "courseTitle": "CONST FIRM MGMT",
+      "section": "A",
+      "instructor": "Boyd,Kurt R"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 565",
+      "courseTitle": "MANAGING INT PROJ",
+      "section": "A",
+      "instructor": "Septelka,D"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "A Dossick,Carrie Sturts"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2022",
+      "course": "CM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 250",
+      "courseTitle": "CONST AND CULTURE",
+      "section": "A",
+      "instructor": "Aaronson,Barry L."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "A",
+      "instructor": "F PRATAMA,LUCKY AGUNG"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "B",
+      "instructor": "F SOLIU,IDRIS"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 311",
+      "courseTitle": "CONST DOCUMENTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 323",
+      "courseTitle": "CONST METH & MAT II",
+      "section": "A",
+      "instructor": "Aguayo,F"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 330",
+      "courseTitle": "CONST EST LAB",
+      "section": "A",
+      "instructor": "F Hochstatter,Kirk"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 330",
+      "courseTitle": "CONST EST LAB",
+      "section": "B",
+      "instructor": "F Hochstatter,Kirk"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "B",
+      "instructor": "Beltran,Gerald"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "C",
+      "instructor": "Bjork,Larry D"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "A",
+      "instructor": "Wiggins,Matt"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 404",
+      "courseTitle": "INTEGRAT D/B STUDIO",
+      "section": "A",
+      "instructor": "Borys,AnnMarie"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 411",
+      "courseTitle": "PROJ PLNG & CONTROL",
+      "section": "C",
+      "instructor": "Coffland,Daryl B"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 421",
+      "courseTitle": "PROJECT MGMT I",
+      "section": "A",
+      "instructor": "McQueen,Patrick"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 421",
+      "courseTitle": "PROJECT MGMT I",
+      "section": "B",
+      "instructor": "Septelka,Darlene M"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 422",
+      "courseTitle": "CONST COMPUTER APPL",
+      "section": "C",
+      "instructor": "F Abdel Aziz,A"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 422",
+      "courseTitle": "CONST COMPUTER APPL",
+      "section": "D",
+      "instructor": "F Abdel Aziz,A"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 432",
+      "courseTitle": "SOILS & FOUNDATIONS",
+      "section": "A",
+      "instructor": "Smith,Matt"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 434",
+      "courseTitle": "LEAN PROJ PLANNING",
+      "section": "A",
+      "instructor": "Kim,Yong-Woo"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Septelka,Darlene M"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 500",
+      "courseTitle": "DESIGN & CONST LAW",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 515",
+      "courseTitle": "VIRTUAL CONST MGMT",
+      "section": "A",
+      "instructor": "Saeidi,Sanaz"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 535",
+      "courseTitle": "RSCH MTDS IN CONST",
+      "section": "A",
+      "instructor": "Kim,Yong-Woo"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 540",
+      "courseTitle": "SUSTAINABLE CONST",
+      "section": "A",
+      "instructor": "Kriegh,Julia Ann"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 560",
+      "courseTitle": "DSGN-BUILD PROJ MGT",
+      "section": "A",
+      "instructor": "Natta,Jeannie L."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 588",
+      "courseTitle": "CONST OPNS AND PROD",
+      "section": "B",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "B",
+      "instructor": "F Fadnavis,Aishwarya"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 301",
+      "courseTitle": "CONSTRUCTION COMM",
+      "section": "A",
+      "instructor": "F Smith,Carey C."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 311",
+      "courseTitle": "CONST DOCUMENTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 313",
+      "courseTitle": "CONST METH & MAT I",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 321",
+      "courseTitle": "MECH SYSTEMS BLDGS",
+      "section": "A",
+      "instructor": "Danner,Jay Cameron"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 321",
+      "courseTitle": "MECH SYSTEMS BLDGS",
+      "section": "B",
+      "instructor": "Olson,Rory"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 322",
+      "courseTitle": "ELECTRICAL SYST BLD",
+      "section": "B",
+      "instructor": "Cobean,Brice"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 322",
+      "courseTitle": "ELECTRICAL SYST BLD",
+      "section": "A",
+      "instructor": "Lopez,Nick"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "A",
+      "instructor": "Bjork,Larry D"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 332",
+      "courseTitle": "CONST EQUIP MGMT",
+      "section": "A",
+      "instructor": "PRATAMA,LUCKY AGUNG"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 333",
+      "courseTitle": "CONSTRUCTION SAFETY",
+      "section": "A",
+      "instructor": "Lin,Ken-Yu"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 334",
+      "courseTitle": "CONST SURVEYING",
+      "section": "A",
+      "instructor": "Paquette,Martin D."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 412",
+      "courseTitle": "CONSTRUCTN PRACTICE",
+      "section": "A",
+      "instructor": "Wu,Lingzi"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 420",
+      "courseTitle": "TEMP STRUCTURES",
+      "section": "A",
+      "instructor": "Aguayo,Fred"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 421",
+      "courseTitle": "PROJECT MGMT I",
+      "section": "C",
+      "instructor": "Scharrer,Amelia W"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 422",
+      "courseTitle": "CONST COMPUTER APPL",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 423",
+      "courseTitle": "CONSTRUCTION LAW",
+      "section": "A",
+      "instructor": "Tramountanas,A"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 429",
+      "courseTitle": "CONSTSUPER",
+      "section": "A",
+      "instructor": "Chambers,Todd"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 431",
+      "courseTitle": "PROJECT MGMT II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 431",
+      "courseTitle": "PROJECT MGMT II",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 431",
+      "courseTitle": "PROJECT MGMT II",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 518",
+      "courseTitle": "LEAN CONSTRUCTION",
+      "section": "A",
+      "instructor": "Kim,Yong-Woo"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 520",
+      "courseTitle": "CONST PROCURE SYST",
+      "section": "A",
+      "instructor": "Kim,Yong-Woo"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 530",
+      "courseTitle": "PROJ ECON & RISK",
+      "section": "A",
+      "instructor": "F Abdel Aziz,Ahmed"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 575",
+      "courseTitle": "LEADERSHIP IN CONST",
+      "section": "A",
+      "instructor": "Cariello,L"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 580",
+      "courseTitle": "TEMP STRUCTURES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2023",
+      "course": "CM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SUM2023",
+      "course": "CM 320",
+      "courseTitle": "CONST CONTR DOCS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SUM2023",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SUM2023",
+      "course": "CM 582",
+      "courseTitle": "HVY CONST ESTIM",
+      "section": "B",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SUM2023",
+      "course": "CM 586",
+      "courseTitle": "UTIL SYSTEMS CONST",
+      "section": "B",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SUM2023",
+      "course": "CM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SUM2023",
+      "course": "CM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "B",
+      "instructor": "F Fadnavis,Aishwarya"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "A",
+      "instructor": "F SOLIU,IDRIS"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 301",
+      "courseTitle": "CONSTRUCTION COMM",
+      "section": "A",
+      "instructor": "Smith,Carey C."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 301",
+      "courseTitle": "CONSTRUCTION COMM",
+      "section": "B",
+      "instructor": "Smith,Carey C."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 310",
+      "courseTitle": "BLDG CONST INTRO",
+      "section": "A",
+      "instructor": "Septelka,Darlene M"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 312",
+      "courseTitle": "CONSTR ACCOUNTING",
+      "section": "A",
+      "instructor": "Salzer,David"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 313",
+      "courseTitle": "CONST METH & MAT I",
+      "section": "A",
+      "instructor": "Aguayo,Fred"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 320",
+      "courseTitle": "CONST CONTR DOCS",
+      "section": "B",
+      "instructor": "Bjork,Larry D"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 320",
+      "courseTitle": "CONST CONTR DOCS",
+      "section": "A",
+      "instructor": "Salzer,David"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 410",
+      "courseTitle": "CONST ESTIMATING II",
+      "section": "A",
+      "instructor": "Lee,Hyun Woo"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 410",
+      "courseTitle": "CONST ESTIMATING II",
+      "section": "E",
+      "instructor": "Wiggins,Matt"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 411",
+      "courseTitle": "PROJ PLNG & CONTROL",
+      "section": "A",
+      "instructor": "Abdel Aziz,Ahmed"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 413",
+      "courseTitle": "COMP BUS PRES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 414",
+      "courseTitle": "VIRTUAL CONST",
+      "section": "A",
+      "instructor": "Dossick,Carrie Sturts"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 415",
+      "courseTitle": "HEAVY CONST PRAC",
+      "section": "A",
+      "instructor": "Coffland,Daryl B"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 449",
+      "courseTitle": "CONST PLAN READ EST",
+      "section": "A",
+      "instructor": "Wu,Lingzi"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Salzer,David"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 500",
+      "courseTitle": "DESIGN & CONST LAW",
+      "section": "B",
+      "instructor": "Tramountanas,Athan"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 520",
+      "courseTitle": "CONST PROCURE SYST",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 525",
+      "courseTitle": "COST ANALYSIS & MGMT",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 527",
+      "courseTitle": "SCOPE & RISK MGMT",
+      "section": "A",
+      "instructor": "Pulliam,Jeffrey Andrew"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 565",
+      "courseTitle": "MANAGING INT PROJ",
+      "section": "A",
+      "instructor": "Septelka,Darlene M"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 250",
+      "courseTitle": "CONST AND CULTURE",
+      "section": "A",
+      "instructor": "Aaronson,Barry L."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "A",
+      "instructor": "F Fadnavis,Aishwarya"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "B",
+      "instructor": "F Zhao,Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 311",
+      "courseTitle": "CONST DOCUMENTS",
+      "section": "A",
+      "instructor": "Bailon-Schubert,Suzanne M"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 323",
+      "courseTitle": "CONST METH & MAT II",
+      "section": "A",
+      "instructor": "Simon,Erik Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "C",
+      "instructor": "Beltran,Gerald"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "B",
+      "instructor": "Bjork,Larry D"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "A",
+      "instructor": "Lee,Chris"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 335",
+      "courseTitle": "SUSTAINABLE CONST",
+      "section": "A",
+      "instructor": "Darko,Amos"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 404",
+      "courseTitle": "INTEGRAT D/B STUDIO",
+      "section": "A",
+      "instructor": "Borys,AnnMarie"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 411",
+      "courseTitle": "PROJ PLNG & CONTROL",
+      "section": "C",
+      "instructor": "Coffland,Daryl B"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 421",
+      "courseTitle": "PROJECT MGMT I",
+      "section": "A",
+      "instructor": "Pulliam,Jeffrey Andrew"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 421",
+      "courseTitle": "PROJECT MGMT I",
+      "section": "B",
+      "instructor": "Septelka,Darlene M"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 422",
+      "courseTitle": "CONST COMPUTER APPL",
+      "section": "C",
+      "instructor": "F Abdel Aziz,Ahmed"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 422",
+      "courseTitle": "CONST COMPUTER APPL",
+      "section": "D",
+      "instructor": "F Abdel Aziz,Ahmed"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 429",
+      "courseTitle": "CONSTSUPER",
+      "section": "A",
+      "instructor": "Salzer,David"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 432",
+      "courseTitle": "SOILS & FOUNDATIONS",
+      "section": "A",
+      "instructor": "Smith,Matt"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 434",
+      "courseTitle": "LEAN PROJ PLANNING",
+      "section": "A",
+      "instructor": "Kim,Yong-Woo"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D",
+      "instructor": "Salzer,David"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Septelka,Darlene M"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "Smith,Carey C."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 500",
+      "courseTitle": "DESIGN & CONST LAW",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 520",
+      "courseTitle": "CONST PROCURE SYST",
+      "section": "A",
+      "instructor": "Kim,Yong-Woo"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 535",
+      "courseTitle": "RSCH MTDS IN CONST",
+      "section": "A",
+      "instructor": "Lin,Ken-Yu"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 570",
+      "courseTitle": "FACIL MANAGEMENT",
+      "section": "A",
+      "instructor": "Emam,Behrooz Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 588",
+      "courseTitle": "CONST OPNS AND PROD",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "B",
+      "instructor": "F Zhao,Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 301",
+      "courseTitle": "CONSTRUCTION COMM",
+      "section": "A",
+      "instructor": "F Smith,Carey C."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 311",
+      "courseTitle": "CONST DOCUMENTS",
+      "section": "A",
+      "instructor": "Pulliam,Jeffrey Andrew"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 321",
+      "courseTitle": "MECH SYSTEMS BLDGS",
+      "section": "A",
+      "instructor": "Danner,Jay Cameron"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 321",
+      "courseTitle": "MECH SYSTEMS BLDGS",
+      "section": "B",
+      "instructor": "Danner,Jay Cameron"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 322",
+      "courseTitle": "ELECTRICAL SYST BLD",
+      "section": "A",
+      "instructor": "Cobean,Brice"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 322",
+      "courseTitle": "ELECTRICAL SYST BLD",
+      "section": "B",
+      "instructor": "Cobean,Brice"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "A",
+      "instructor": "Wiggins,Matt"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 332",
+      "courseTitle": "CONST EQUIP MGMT",
+      "section": "A",
+      "instructor": "Migliaccio,Giovanni C"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 333",
+      "courseTitle": "CONSTRUCTION SAFETY",
+      "section": "A",
+      "instructor": "Salzer,David"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 334",
+      "courseTitle": "CONST SURVEYING",
+      "section": "A",
+      "instructor": "NGIAM,KEE"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 412",
+      "courseTitle": "CONSTRUCTN PRACTICE",
+      "section": "A",
+      "instructor": "Darko,Amos"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 420",
+      "courseTitle": "TEMP STRUCTURES",
+      "section": "A",
+      "instructor": "Salzer,David"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 421",
+      "courseTitle": "PROJECT MGMT I",
+      "section": "C",
+      "instructor": "Scharrer,Amelia W"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 423",
+      "courseTitle": "CONSTRUCTION LAW",
+      "section": "A",
+      "instructor": "Tramountanas,Athan"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 431",
+      "courseTitle": "PROJECT MGMT II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 431",
+      "courseTitle": "PROJECT MGMT II",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 431",
+      "courseTitle": "PROJECT MGMT II",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Salzer,David"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 515",
+      "courseTitle": "VIRTUAL CONST MGMT",
+      "section": "A",
+      "instructor": "Dossick,Carrie Sturts"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 530",
+      "courseTitle": "PROJ ECON & RISK",
+      "section": "A",
+      "instructor": "F Abdel Aziz,Ahmed"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 540",
+      "courseTitle": "SUSTAINABLE CONST",
+      "section": "A",
+      "instructor": "Lee,H.W. Chris"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 560",
+      "courseTitle": "DSGN-BUILD PROJ MGT",
+      "section": "A",
+      "instructor": "Natta,Jeannie L."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 575",
+      "courseTitle": "LEADERSHIP IN CONST",
+      "section": "A",
+      "instructor": "Cariello,Lou"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 580",
+      "courseTitle": "TEMP STRUCTURES",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2024",
+      "course": "CM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SUM2024",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SUM2024",
+      "course": "CM 582",
+      "courseTitle": "HVY CONST ESTIM",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SUM2024",
+      "course": "CM 586",
+      "courseTitle": "UTIL SYSTEMS CONST",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SUM2024",
+      "course": "CM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SUM2024",
+      "course": "CM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 250",
+      "courseTitle": "CONST AND CULTURE",
+      "section": "A",
+      "instructor": "Aaronson,Barry L."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "A",
+      "instructor": "F Fadnavis,Aishwarya"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "B",
+      "instructor": "F SOLIU,IDRIS"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 301",
+      "courseTitle": "CONSTRUCTION COMM",
+      "section": "A",
+      "instructor": "Smith,Carey C."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 301",
+      "courseTitle": "CONSTRUCTION COMM",
+      "section": "B",
+      "instructor": "Smith,Carey C."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 310",
+      "courseTitle": "BLDG CONST INTRO",
+      "section": "A",
+      "instructor": "Migliaccio,Giovanni C"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 312",
+      "courseTitle": "CONSTR ACCOUNTING",
+      "section": "A",
+      "instructor": "Salzer,David"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 313",
+      "courseTitle": "CONST METH & MAT I",
+      "section": "A",
+      "instructor": "Simon,Erik Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 314",
+      "courseTitle": "CONST MTH/MAT I LAB",
+      "section": "A",
+      "instructor": "Akerele,Daniel Damilare"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 314",
+      "courseTitle": "CONST MTH/MAT I LAB",
+      "section": "B",
+      "instructor": "Akerele,Daniel Damilare"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 314",
+      "courseTitle": "CONST MTH/MAT I LAB",
+      "section": "C",
+      "instructor": "Akerele,Daniel Damilare"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 314",
+      "courseTitle": "CONST MTH/MAT I LAB",
+      "section": "D",
+      "instructor": "Akerele,Daniel Damilare"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 320",
+      "courseTitle": "CONST CONTR DOCS",
+      "section": "B",
+      "instructor": "Bjork,Larry D"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 320",
+      "courseTitle": "CONST CONTR DOCS",
+      "section": "A",
+      "instructor": "Salzer,David"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 410",
+      "courseTitle": "CONST ESTIMATING II",
+      "section": "A",
+      "instructor": "Lee,H.W. Chris"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 410",
+      "courseTitle": "CONST ESTIMATING II",
+      "section": "E",
+      "instructor": "Wiggins,Matt"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 411",
+      "courseTitle": "PROJ PLNG & CONTROL",
+      "section": "A",
+      "instructor": "Abdel Aziz,Ahmed"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 413",
+      "courseTitle": "COMP BUS PRES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 414",
+      "courseTitle": "VIRTUAL CONST",
+      "section": "A",
+      "instructor": "Dossick,Carrie Sturts"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 415",
+      "courseTitle": "HEAVY CONST PRAC",
+      "section": "A",
+      "instructor": "Coffland,Daryl B"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 426",
+      "courseTitle": "PRECON TECHNIQUES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 449",
+      "courseTitle": "CONST PLAN READ EST",
+      "section": "A",
+      "instructor": "Wu,Lingzi"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 500",
+      "courseTitle": "DESIGN & CONST LAW",
+      "section": "B",
+      "instructor": "Tramountanas,Athan"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 520",
+      "courseTitle": "CONST PROCURE SYST",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 525",
+      "courseTitle": "COST ANALYSIS & MGMT",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 555",
+      "courseTitle": "CONST FIRM MGMT",
+      "section": "A",
+      "instructor": "Pulliam,Jeffrey Andrew"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 565",
+      "courseTitle": "MANAGING INT PROJ",
+      "section": "A",
+      "instructor": "Septelka,Darlene M"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2024",
+      "course": "CM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 220",
+      "courseTitle": "COLLAB COMMUNICATION",
+      "section": "A",
+      "instructor": "Smith,Carey C."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "B",
+      "instructor": "F Borjigin,Ori"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "A",
+      "instructor": "F Zhao,Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 320",
+      "courseTitle": "CONST CONTR DOCS",
+      "section": "A",
+      "instructor": "Bailon-Schubert,Suzanne M"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 323",
+      "courseTitle": "CONST METH & MAT II",
+      "section": "A",
+      "instructor": "Aguayo,Fred"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "B",
+      "instructor": "Beltran,Gerald"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "C",
+      "instructor": "Bjork,Larry D"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "A",
+      "instructor": "Lee,H.W. Chris"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 335",
+      "courseTitle": "SUSTAINABLE CONST",
+      "section": "A",
+      "instructor": "Darko,Amos"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 404",
+      "courseTitle": "INTEGRAT D/B STUDIO",
+      "section": "A",
+      "instructor": "Pena,Robert"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 411",
+      "courseTitle": "PROJ PLNG & CONTROL",
+      "section": "C",
+      "instructor": "Simon,Erik Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 421",
+      "courseTitle": "PROJECT MGMT I",
+      "section": "A",
+      "instructor": "Pulliam,Jeffrey Andrew"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 421",
+      "courseTitle": "PROJECT MGMT I",
+      "section": "B",
+      "instructor": "Septelka,Darlene M"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 422",
+      "courseTitle": "CONST COMPUTER APPL",
+      "section": "A",
+      "instructor": "Abdel Aziz,Ahmed"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 422",
+      "courseTitle": "CONST COMPUTER APPL",
+      "section": "B",
+      "instructor": "Abdel Aziz,Ahmed"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 427",
+      "courseTitle": "CONST MGMT CAPSTN I",
+      "section": "A",
+      "instructor": "Septelka,Darlene M"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 429",
+      "courseTitle": "CONSTSUPER",
+      "section": "A",
+      "instructor": "Salzer,David"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 432",
+      "courseTitle": "SOILS & FOUNDATIONS",
+      "section": "A",
+      "instructor": "Smith,Matt"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 434",
+      "courseTitle": "LEAN PROJ PLANNING",
+      "section": "A",
+      "instructor": "Kim,Yong-Woo"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Salzer,David"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 500",
+      "courseTitle": "DESIGN & CONST LAW",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 520",
+      "courseTitle": "CONST PROCURE SYST",
+      "section": "A",
+      "instructor": "Kim,Yong-Woo"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 527",
+      "courseTitle": "SCOPE & RISK MGMT",
+      "section": "A",
+      "instructor": "Pulliam,Jeffrey Andrew"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 535",
+      "courseTitle": "RSCH MTDS IN CONST",
+      "section": "A",
+      "instructor": "Darko,Amos"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 588",
+      "courseTitle": "CONST OPNS AND PROD",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "F diFuria,Renzo"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 250",
+      "courseTitle": "CONST AND CULTURE",
+      "section": "A",
+      "instructor": "Aaronson,Barry L."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "B",
+      "instructor": "F Alidu,Abdul-Razak"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "A",
+      "instructor": "F SOLIU,IDRIS"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 301",
+      "courseTitle": "CONSTRUCTION COMM",
+      "section": "A",
+      "instructor": "F Smith,Carey C."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 320",
+      "courseTitle": "CONST CONTR DOCS",
+      "section": "A",
+      "instructor": "Hochstatter,Kirk"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 321",
+      "courseTitle": "MECH SYSTEMS BLDGS",
+      "section": "A",
+      "instructor": "Danner,Jay Cameron"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 321",
+      "courseTitle": "MECH SYSTEMS BLDGS",
+      "section": "B",
+      "instructor": "Danner,Jay Cameron"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 322",
+      "courseTitle": "ELECTRICAL SYST BLD",
+      "section": "A",
+      "instructor": "Miller,Deborah J"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 322",
+      "courseTitle": "ELECTRICAL SYST BLD",
+      "section": "B",
+      "instructor": "NOSACK,JAMES T."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "A",
+      "instructor": "Wiggins,Matt"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 333",
+      "courseTitle": "CONSTRUCTION SAFETY",
+      "section": "A",
+      "instructor": "Salzer,David"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 343",
+      "courseTitle": "CONST MTHD & MAT III",
+      "section": "A",
+      "instructor": "Migliaccio,Giovanni C"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 412",
+      "courseTitle": "CONSTRUCTN PRACTICE",
+      "section": "A",
+      "instructor": "Faber Machacha,Rachel A"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 420",
+      "courseTitle": "TEMP STRUCTURES",
+      "section": "A",
+      "instructor": "Salzer,David"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 421",
+      "courseTitle": "PROJECT MGMT I",
+      "section": "C",
+      "instructor": "Scharrer,Amelia W"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 423",
+      "courseTitle": "CONSTRUCTION LAW",
+      "section": "A",
+      "instructor": "Tramountanas,Athan"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 431",
+      "courseTitle": "CONST MGMT CAPSTN II",
+      "section": "B",
+      "instructor": "Pulliam,Jeffrey Andrew"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 431",
+      "courseTitle": "CONST MGMT CAPSTN II",
+      "section": "A",
+      "instructor": "Septelka,Darlene M"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 431",
+      "courseTitle": "CONST MGMT CAPSTN II",
+      "section": "C",
+      "instructor": "Wu,Lingzi"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Salzer,David"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 515",
+      "courseTitle": "VIRTUAL CONST MGMT",
+      "section": "A",
+      "instructor": "Dossick,Carrie Sturts"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 518",
+      "courseTitle": "LEAN CONSTRUCTION",
+      "section": "A",
+      "instructor": "Kim,Yong-Woo"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 530",
+      "courseTitle": "PROJ ECON & RISK",
+      "section": "A",
+      "instructor": "F Abdel Aziz,Ahmed"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 540",
+      "courseTitle": "SUSTAINABLE CONST",
+      "section": "A",
+      "instructor": "Lee,H.W. Chris"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 560",
+      "courseTitle": "DSGN-BUILD PROJ MGT",
+      "section": "A",
+      "instructor": "Natta,Jeannie L."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 580",
+      "courseTitle": "TEMP STRUCTURES",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2025",
+      "course": "CM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SUM2025",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SUM2025",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SUM2025",
+      "course": "CM 582",
+      "courseTitle": "HVY CONST ESTIM",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SUM2025",
+      "course": "CM 586",
+      "courseTitle": "UTIL SYSTEMS CONST",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SUM2025",
+      "course": "CM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SUM2025",
+      "course": "CM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 250",
+      "courseTitle": "CONST AND CULTURE",
+      "section": "A",
+      "instructor": "Aaronson,Barry L."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "A",
+      "instructor": "F SOLIU,IDRIS"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "B",
+      "instructor": "F Saah,Alvina"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 301",
+      "courseTitle": "CONSTRUCTION COMM",
+      "section": "A",
+      "instructor": "Smith,Carey C."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 301",
+      "courseTitle": "CONSTRUCTION COMM",
+      "section": "B",
+      "instructor": "Smith,Carey C."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 310",
+      "courseTitle": "BLDG CONST INTRO",
+      "section": "B",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 310",
+      "courseTitle": "BLDG CONST INTRO",
+      "section": "A",
+      "instructor": "Hochstatter,Kirk"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 313",
+      "courseTitle": "CONST METH & MAT I",
+      "section": "A",
+      "instructor": "Simon,Erik Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 314",
+      "courseTitle": "CONST MTH/MAT I LAB",
+      "section": "A",
+      "instructor": "Bucek,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 314",
+      "courseTitle": "CONST MTH/MAT I LAB",
+      "section": "B",
+      "instructor": "Bucek,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 314",
+      "courseTitle": "CONST MTH/MAT I LAB",
+      "section": "C",
+      "instructor": "Bucek,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 314",
+      "courseTitle": "CONST MTH/MAT I LAB",
+      "section": "D",
+      "instructor": "Bucek,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 320",
+      "courseTitle": "CONST CONTR DOCS",
+      "section": "B",
+      "instructor": "Hochstatter,Kirk"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 320",
+      "courseTitle": "CONST CONTR DOCS",
+      "section": "A",
+      "instructor": "Salzer,David"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 410",
+      "courseTitle": "CONST ESTIMATING II",
+      "section": "B",
+      "instructor": "Bjork,Larry D"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 410",
+      "courseTitle": "CONST ESTIMATING II",
+      "section": "A",
+      "instructor": "Lee,H.W. Chris"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 413",
+      "courseTitle": "COMP BUS PRES",
+      "section": "A",
+      "instructor": "Salzer,David"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 414",
+      "courseTitle": "VIRTUAL CONST",
+      "section": "A",
+      "instructor": "Dossick,Carrie Sturts"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 418",
+      "courseTitle": "PROJ PLAN/SCHED I",
+      "section": "A",
+      "instructor": "Abdel Aziz,Ahmed"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 426",
+      "courseTitle": "PRECON TECHNIQUES",
+      "section": "A",
+      "instructor": "Hochstatter,Kirk"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 429",
+      "courseTitle": "CONSTSUPER",
+      "section": "A",
+      "instructor": "Salzer,David"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 449",
+      "courseTitle": "CONST PLAN READ EST",
+      "section": "A",
+      "instructor": "Wu,Lingzi"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Salzer,David"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 500",
+      "courseTitle": "DESIGN & CONST LAW",
+      "section": "A",
+      "instructor": "Tramountanas,Athan"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 520",
+      "courseTitle": "CONST PROCURE SYST",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 525",
+      "courseTitle": "COST ANALYSIS & MGMT",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 565",
+      "courseTitle": "MANAGING INT PROJ",
+      "section": "A",
+      "instructor": "Darko,Amos"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 570",
+      "courseTitle": "FACIL MANAGEMENT",
+      "section": "A",
+      "instructor": "Emam,Behrooz Ben"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Warhoe,Stephen"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2025",
+      "course": "CM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 220",
+      "courseTitle": "COLLAB COMMUNICATION",
+      "section": "A",
+      "instructor": "Smith,Carey C."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 250",
+      "courseTitle": "CONST AND CULTURE",
+      "section": "A",
+      "instructor": "Aaronson,Barry L."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "A",
+      "instructor": "F Borjigin,Ori"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "B",
+      "instructor": "F Zhao,Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 312",
+      "courseTitle": "CONSTR ACCOUNTING",
+      "section": "A",
+      "instructor": "Salzer,David"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 320",
+      "courseTitle": "CONST CONTR DOCS",
+      "section": "A",
+      "instructor": "Bailon-Schubert,Suzanne M"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 323",
+      "courseTitle": "CONST METH & MAT II",
+      "section": "A",
+      "instructor": "Bucek,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "B",
+      "instructor": "Beltran,Gerald"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "C",
+      "instructor": "Bjork,Larry D"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "A",
+      "instructor": "Rundquist,Brad"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 335",
+      "courseTitle": "SUSTAINABLE CONST",
+      "section": "A",
+      "instructor": "Darko,Amos"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 404",
+      "courseTitle": "INTEGRAT D/B STUDIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 411",
+      "courseTitle": "PROJ PLNG & CONTROL",
+      "section": "C",
+      "instructor": "Simon,Erik Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 416",
+      "courseTitle": "RES PROJ DEVELOP",
+      "section": "A",
+      "instructor": "Hochstatter,Kirk"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 421",
+      "courseTitle": "PROJECT MGMT I",
+      "section": "A",
+      "instructor": "Hochstatter,Kirk"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 421",
+      "courseTitle": "PROJECT MGMT I",
+      "section": "B",
+      "instructor": "Pulliam,Jeffrey Andrew"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 424",
+      "courseTitle": "PROJ PLAN/SCHED II",
+      "section": "A",
+      "instructor": "Abdel Aziz,Ahmed"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 424",
+      "courseTitle": "PROJ PLAN/SCHED II",
+      "section": "B",
+      "instructor": "Abdel Aziz,Ahmed"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 427",
+      "courseTitle": "CONST MGMT CAPSTN I",
+      "section": "A",
+      "instructor": "Pulliam,Jeffrey Andrew"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 434",
+      "courseTitle": "LEAN PROJ PLANNING",
+      "section": "A",
+      "instructor": "Kim,Yong-Woo"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Salzer,David"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 500",
+      "courseTitle": "DESIGN & CONST LAW",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 520",
+      "courseTitle": "CONST PROCURE SYST",
+      "section": "A",
+      "instructor": "Kim,Yong-Woo"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 535",
+      "courseTitle": "RSCH MTDS IN CONST",
+      "section": "A",
+      "instructor": "Lin,Ken-Yu"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 560",
+      "courseTitle": "DSGN-BUILD PROJ MGT",
+      "section": "A",
+      "instructor": "Natta,Jeannie L."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 588",
+      "courseTitle": "CONST OPNS AND PROD",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "diFuria,Renzo"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2026",
+      "course": "CM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 250",
+      "courseTitle": "CONST AND CULTURE",
+      "section": "A",
+      "instructor": "Aaronson,Barry L."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "A",
+      "instructor": "F Borjigin,Ori"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 260",
+      "courseTitle": "DIGITAL TOOLS",
+      "section": "B",
+      "instructor": "F Zhao,Sean"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 301",
+      "courseTitle": "CONSTRUCTION COMM",
+      "section": "A",
+      "instructor": "F Smith,Carey C."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 320",
+      "courseTitle": "CONST CONTR DOCS",
+      "section": "A",
+      "instructor": "Hochstatter,Kirk"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "A",
+      "instructor": "Rundquist,Brad"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 333",
+      "courseTitle": "CONSTRUCTION SAFETY",
+      "section": "A",
+      "instructor": "Salzer,David"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 343",
+      "courseTitle": "CONST MTHD & MAT III",
+      "section": "A",
+      "instructor": "Smith,Matt"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 412",
+      "courseTitle": "CONSTRUCTN PRACTICE",
+      "section": "A",
+      "instructor": "Faber Machacha,Rachel A"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 420",
+      "courseTitle": "TEMP STRUCTURES",
+      "section": "A",
+      "instructor": "Salzer,David"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 421",
+      "courseTitle": "PROJECT MGMT I",
+      "section": "C",
+      "instructor": "Scharrer,Amelia W"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 423",
+      "courseTitle": "CONSTRUCTION LAW",
+      "section": "A",
+      "instructor": "Tramountanas,Athan"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 431",
+      "courseTitle": "CONST MGMT CAPSTN II",
+      "section": "B",
+      "instructor": "Hochstatter,Kirk"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 431",
+      "courseTitle": "CONST MGMT CAPSTN II",
+      "section": "A",
+      "instructor": "Pulliam,Jeffrey Andrew"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Darko,Amos"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "Salzer,David"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 515",
+      "courseTitle": "VIRTUAL CONST MGMT",
+      "section": "A",
+      "instructor": "Dossick,Carrie Sturts"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 518",
+      "courseTitle": "LEAN CONSTRUCTION",
+      "section": "A",
+      "instructor": "Kim,Yong-Woo"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 530",
+      "courseTitle": "PROJ ECON & RISK",
+      "section": "A",
+      "instructor": "F Abdel Aziz,Ahmed"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 540",
+      "courseTitle": "SUSTAINABLE CONST",
+      "section": "A",
+      "instructor": "Lee,H.W. Chris"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 575",
+      "courseTitle": "LEADERSHIP IN CONST",
+      "section": "A",
+      "instructor": "Smith,Carey C."
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 580",
+      "courseTitle": "TEMP STRUCTURES",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
 }

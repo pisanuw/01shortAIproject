@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Seroy%2CSasha%20K",
+  "professor": "Seroy,Sasha K",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2020",
+      "course": "OCEAN 461",
+      "courseTitle": "ADV OCN TECH MGMNT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2020",
+      "course": "OCEAN 361",
+      "courseTitle": "OC TECH I SENSORS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2020",
+      "course": "OCEAN 261",
+      "courseTitle": "INTRO OCEAN TECH",
+      "section": "A"
+    }
+  ]
+}

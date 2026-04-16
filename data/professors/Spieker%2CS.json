@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Spieker%2CS",
+  "professor": "Spieker,S",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 445",
+      "courseTitle": "SPEC TOP NSG",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NURS 445",
+      "courseTitle": "SPEC TOP NSG",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "iecmh",
+      "deptName": "Infant and Early Childhood Mental Health",
+      "term": "AUT2020",
+      "course": "IECMH 537",
+      "courseTitle": "INF DEV & PSYCHOPTH",
+      "section": "A"
+    }
+  ]
+}

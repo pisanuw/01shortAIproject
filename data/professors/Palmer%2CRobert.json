@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Palmer%2CRobert",
+  "professor": "Palmer,Robert",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "WIN2023",
+      "course": "CSS 481",
+      "courseTitle": "WEB PROG & APPL",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "AUT2022",
+      "course": "CSS 430",
+      "courseTitle": "OPERATING SYSTEMS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "WIN2022",
+      "course": "CSS 343",
+      "courseTitle": "DATA, ALG, MATH II",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "AUT2021",
+      "course": "CSS 430",
+      "courseTitle": "OPERATING SYSTEMS",
+      "section": "B"
+    }
+  ]
+}

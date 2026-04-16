@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Schnee%2CI",
+  "professor": "Schnee,I",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "AUT2021",
+      "course": "PHIL 149",
+      "courseTitle": "EXISTENTIALISM&FILM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "SUM2021",
+      "course": "PHIL 120",
+      "courseTitle": "INTRO TO LOGIC",
+      "section": "A"
+    }
+  ]
+}

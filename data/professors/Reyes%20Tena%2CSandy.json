@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Reyes%20Tena%2CSandy",
+  "professor": "Reyes Tena,Sandy",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "spanish",
+      "deptName": "Spanish",
+      "term": "SPR2025",
+      "course": "SPAN 103",
+      "courseTitle": "ELEMENTARY SPANISH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "spanish",
+      "deptName": "Spanish",
+      "term": "WIN2025",
+      "course": "SPAN 103",
+      "courseTitle": "ELEMENTARY SPANISH",
+      "section": "B"
+    }
+  ]
+}

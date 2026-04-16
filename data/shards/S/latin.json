@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:55Z",
+  "generatedAt": "2026-04-16T02:57:11Z",
   "campus": "S",
   "dept": "latin",
   "deptName": "Latin",
@@ -268,6 +268,76 @@
       "campus": "S",
       "dept": "latin",
       "deptName": "Latin",
+      "term": "SUM2021",
+      "course": "LATIN 103",
+      "courseTitle": "INTRODUCTORY LATIN",
+      "section": "A",
+      "instructor": "Molkova,Diana"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "SUM2021",
+      "course": "LATIN 300",
+      "courseTitle": "INTRO LATIN ACCEL",
+      "section": "A",
+      "instructor": "McNulty,Mary"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "SUM2021",
+      "course": "LATIN 405",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "A",
+      "instructor": "Clauss,James J"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "SUM2021",
+      "course": "LATIN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "SUM2021",
+      "course": "LATIN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "SUM2021",
+      "course": "LATIN 590",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "SUM2021",
+      "course": "LATIN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
       "term": "AUT2021",
       "course": "LATIN 101",
       "courseTitle": "INTRODUCTORY LATIN",
@@ -449,6 +519,86 @@
       "dept": "latin",
       "deptName": "Latin",
       "term": "WIN2022",
+      "course": "LATIN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "SPR2022",
+      "course": "LATIN 103",
+      "courseTitle": "INTRODUCTORY LATIN",
+      "section": "A",
+      "instructor": "McNulty,Mary"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "SPR2022",
+      "course": "LATIN 103",
+      "courseTitle": "INTRODUCTORY LATIN",
+      "section": "B",
+      "instructor": "Molkova,Diana"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "SPR2022",
+      "course": "LATIN 307",
+      "courseTitle": "VERGIL",
+      "section": "A",
+      "instructor": "Clauss,James J"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "SPR2022",
+      "course": "LATIN 463",
+      "courseTitle": "LAT LIT OF EMPIRE",
+      "section": "A",
+      "instructor": "Gowing,Alain M"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "SPR2022",
+      "course": "LATIN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "SPR2022",
+      "course": "LATIN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "SPR2022",
+      "course": "LATIN 590",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "SPR2022",
       "course": "LATIN 600",
       "courseTitle": "INDEPNDNT STDY/RSCH",
       "section": "A",
@@ -1198,6 +1348,96 @@
       "campus": "S",
       "dept": "latin",
       "deptName": "Latin",
+      "term": "AUT2024",
+      "course": "LATIN 101",
+      "courseTitle": "INTRODUCTORY LATIN",
+      "section": "A",
+      "instructor": "CLARK,JONATHAN"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "AUT2024",
+      "course": "LATIN 101",
+      "courseTitle": "INTRODUCTORY LATIN",
+      "section": "B",
+      "instructor": "Chase,Cat"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "AUT2024",
+      "course": "LATIN 305",
+      "courseTitle": "INTROD LAT LIT",
+      "section": "A",
+      "instructor": "Lahiri,Ray"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "AUT2024",
+      "course": "LATIN 461",
+      "courseTitle": "LAT LIT OF REPUBLIC",
+      "section": "A",
+      "instructor": "Connors,Catherine M"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "AUT2024",
+      "course": "LATIN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "AUT2024",
+      "course": "LATIN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "AUT2024",
+      "course": "LATIN 520",
+      "courseTitle": "SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "AUT2024",
+      "course": "LATIN 590",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "AUT2024",
+      "course": "LATIN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
       "term": "WIN2025",
       "course": "LATIN 102",
       "courseTitle": "INTRODUCTORY LATIN",
@@ -1378,9 +1618,69 @@
       "campus": "S",
       "dept": "latin",
       "deptName": "Latin",
-      "term": "AUT2025",
-      "course": "LATIN 101",
+      "term": "SUM2025",
+      "course": "LATIN 103",
       "courseTitle": "INTRODUCTORY LATIN",
+      "section": "A",
+      "instructor": "Rahat,Guy"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "SUM2025",
+      "course": "LATIN 300",
+      "courseTitle": "INTRO LATIN ACCEL",
+      "section": "A",
+      "instructor": "Dulany,Liam"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "SUM2025",
+      "course": "LATIN 405",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "A",
+      "instructor": "Clauss,James J"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "SUM2025",
+      "course": "LATIN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "SUM2025",
+      "course": "LATIN 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "SUM2025",
+      "course": "LATIN 590",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "SUM2025",
+      "course": "LATIN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
       "section": "A",
       "instructor": "TBA"
     },
@@ -1392,7 +1692,17 @@
       "course": "LATIN 101",
       "courseTitle": "INTRODUCTORY LATIN",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Dulany,Liam"
+    },
+    {
+      "campus": "S",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "AUT2025",
+      "course": "LATIN 101",
+      "courseTitle": "INTRODUCTORY LATIN",
+      "section": "A",
+      "instructor": "Rahat,Guy"
     },
     {
       "campus": "S",
@@ -1402,7 +1712,7 @@
       "course": "LATIN 305",
       "courseTitle": "INTROD LAT LIT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lahiri,Ray"
     },
     {
       "campus": "S",
@@ -1412,7 +1722,7 @@
       "course": "LATIN 461",
       "courseTitle": "LAT LIT OF REPUBLIC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Clauss,James J"
     },
     {
       "campus": "S",
@@ -1471,8 +1781,8 @@
       "term": "WIN2026",
       "course": "LATIN 102",
       "courseTitle": "INTRODUCTORY LATIN",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Dulany,Liam"
     },
     {
       "campus": "S",
@@ -1481,8 +1791,8 @@
       "term": "WIN2026",
       "course": "LATIN 102",
       "courseTitle": "INTRODUCTORY LATIN",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Rahat,Guy"
     },
     {
       "campus": "S",
@@ -1492,7 +1802,7 @@
       "course": "LATIN 300",
       "courseTitle": "INTRO LATIN ACCEL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bringman,Joseph"
     },
     {
       "campus": "S",
@@ -1502,7 +1812,7 @@
       "course": "LATIN 306",
       "courseTitle": "CICERO & OVID",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Clauss,James J"
     },
     {
       "campus": "S",
@@ -1512,7 +1822,7 @@
       "course": "LATIN 462",
       "courseTitle": "LAT LIT OF AUG AGE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Connors,Catherine M"
     },
     {
       "campus": "S",
@@ -1571,8 +1881,8 @@
       "term": "SPR2026",
       "course": "LATIN 103",
       "courseTitle": "INTRODUCTORY LATIN",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Dulany,Liam"
     },
     {
       "campus": "S",
@@ -1581,8 +1891,8 @@
       "term": "SPR2026",
       "course": "LATIN 103",
       "courseTitle": "INTRODUCTORY LATIN",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Rahat,Guy"
     },
     {
       "campus": "S",
@@ -1592,7 +1902,7 @@
       "course": "LATIN 307",
       "courseTitle": "VERGIL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ritter,Michael"
     },
     {
       "campus": "S",
@@ -1602,7 +1912,7 @@
       "course": "LATIN 463",
       "courseTitle": "LAT LIT OF EMPIRE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lahiri,Ray"
     },
     {
       "campus": "S",

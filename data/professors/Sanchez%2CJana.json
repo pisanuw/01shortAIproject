@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Sanchez%2CJana",
+  "professor": "Sanchez,Jana",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "SPR2023",
+      "course": "B EDUC 419",
+      "courseTitle": "MATHEMATICS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "AUT2022",
+      "course": "B EDUC 418",
+      "courseTitle": "INTERMEDIATE MATH",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "AUT2021",
+      "course": "B EDUC 418",
+      "courseTitle": "INTERMEDIATE MATH",
+      "section": "B"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20CSE%20515",
+  "course": "S - CSE 515",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "WIN2026",
+      "course": "CSE 515",
+      "courseTitle": "STAT METH IN CS",
+      "section": "A",
+      "instructor": "Oh,Sewoong"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "AUT2023",
+      "course": "CSE 515",
+      "courseTitle": "STAT METH IN CS",
+      "section": "A",
+      "instructor": "Morgenstern,Jamie"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "WIN2021",
+      "course": "CSE 515",
+      "courseTitle": "STAT METH IN CS",
+      "section": "A",
+      "instructor": "Oh,Sewoong"
+    }
+  ]
+}

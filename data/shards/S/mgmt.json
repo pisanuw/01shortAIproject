@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:58Z",
+  "generatedAt": "2026-04-16T02:57:13Z",
   "campus": "S",
   "dept": "mgmt",
   "deptName": "Management",
@@ -12,7 +12,7 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Bergstrom,Tod"
     },
     {
       "campus": "S",
@@ -462,7 +462,7 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bergstrom,Tod"
     },
     {
       "campus": "S",
@@ -982,7 +982,7 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bergstrom,Tod"
     },
     {
       "campus": "S",
@@ -992,7 +992,7 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "McCormack,Timothy B"
     },
     {
       "campus": "S",
@@ -1002,7 +1002,7 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "McCormack,Timothy B"
     },
     {
       "campus": "S",
@@ -1528,10 +1528,130 @@
       "campus": "S",
       "dept": "mgmt",
       "deptName": "Management",
-      "term": "AUT2021",
+      "term": "SUM2021",
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "A",
+      "instructor": "McCormack,Timothy B"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SUM2021",
+      "course": "MGMT 300",
+      "courseTitle": "LDRSHIP & ORG BEHAV",
+      "section": "A",
+      "instructor": "She Her,Ruth Huwe"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SUM2021",
+      "course": "MGMT 320",
+      "courseTitle": "BUS GOVT & SOC",
+      "section": "A",
+      "instructor": "She Her,Ruth Huwe"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SUM2021",
+      "course": "MGMT 430",
+      "courseTitle": "STRATEGIC MGMT",
+      "section": "A",
+      "instructor": "Olson,Dan"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SUM2021",
+      "course": "MGMT 495",
+      "courseTitle": "MGMT INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SUM2021",
+      "course": "MGMT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SUM2021",
+      "course": "MGMT 509",
+      "courseTitle": "GLOBAL STRATEGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SUM2021",
+      "course": "MGMT 509",
+      "courseTitle": "GLOBAL STRATEGY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SUM2021",
+      "course": "MGMT 579",
+      "courseTitle": "SPECIAL TOPICS MGMT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SUM2021",
+      "course": "MGMT 579",
+      "courseTitle": "SPECIAL TOPICS MGMT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SUM2021",
+      "course": "MGMT 579",
+      "courseTitle": "SPECIAL TOPICS MGMT",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SUM2021",
+      "course": "MGMT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SUM2021",
+      "course": "MGMT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
       "instructor": "TBA"
     },
     {
@@ -1542,7 +1662,17 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Bergstrom,Tod"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2021",
+      "course": "MGMT 200",
+      "courseTitle": "INTRODUCTION TO LAW",
+      "section": "A",
+      "instructor": "McCormack,Timothy B"
     },
     {
       "campus": "S",
@@ -2002,7 +2132,7 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bergstrom,Tod"
     },
     {
       "campus": "S",
@@ -2082,7 +2212,7 @@
       "course": "MGMT 305",
       "courseTitle": "MGMT & ENTRE ESSNTL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bigley,Gregory"
     },
     {
       "campus": "S",
@@ -2492,7 +2622,7 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bergstrom,Tod"
     },
     {
       "campus": "S",
@@ -2502,7 +2632,7 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "McCormack,Timothy B"
     },
     {
       "campus": "S",
@@ -2512,7 +2642,7 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "McCormack,Timothy B"
     },
     {
       "campus": "S",
@@ -2562,7 +2692,7 @@
       "course": "MGMT 305",
       "courseTitle": "MGMT & ENTRE ESSNTL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bigley,Gregory"
     },
     {
       "campus": "S",
@@ -3101,8 +3231,8 @@
       "term": "AUT2022",
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Bergstrom,Tod"
     },
     {
       "campus": "S",
@@ -3111,8 +3241,8 @@
       "term": "AUT2022",
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "McCormack,Timothy B"
     },
     {
       "campus": "S",
@@ -3552,7 +3682,7 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McCormack,Timothy B"
     },
     {
       "campus": "S",
@@ -3622,7 +3752,7 @@
       "course": "MGMT 305",
       "courseTitle": "MGMT & ENTRE ESSNTL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bigley,G"
     },
     {
       "campus": "S",
@@ -4072,7 +4202,7 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bergstrom,Tod"
     },
     {
       "campus": "S",
@@ -4082,7 +4212,7 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "McCormack,Timothy B"
     },
     {
       "campus": "S",
@@ -4092,7 +4222,7 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "McCormack,Timothy B"
     },
     {
       "campus": "S",
@@ -4142,7 +4272,7 @@
       "course": "MGMT 305",
       "courseTitle": "MGMT & ENTRE ESSNTL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bigley,Gregory"
     },
     {
       "campus": "S",
@@ -4631,6 +4761,16 @@
       "term": "SUM2023",
       "course": "MGMT 579",
       "courseTitle": "SPECIAL TOPICS MGMT",
+      "section": "D",
+      "instructor": "Chung,Jack"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SUM2023",
+      "course": "MGMT 579",
+      "courseTitle": "SPECIAL TOPICS MGMT",
       "section": "A",
       "instructor": "TBA"
     },
@@ -4659,16 +4799,6 @@
       "dept": "mgmt",
       "deptName": "Management",
       "term": "SUM2023",
-      "course": "MGMT 579",
-      "courseTitle": "SPECIAL TOPICS MGMT",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "mgmt",
-      "deptName": "Management",
-      "term": "SUM2023",
       "course": "MGMT 600",
       "courseTitle": "INDEPNDNT STDY/RSCH",
       "section": "A",
@@ -4688,11 +4818,451 @@
       "campus": "S",
       "dept": "mgmt",
       "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 200",
+      "courseTitle": "INTRODUCTION TO LAW",
+      "section": "A",
+      "instructor": "Bales,Bebe"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 200",
+      "courseTitle": "INTRODUCTION TO LAW",
+      "section": "B",
+      "instructor": "Bergstrom,Tod"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 300",
+      "courseTitle": "LDRSHIP & ORG BEHAV",
+      "section": "C",
+      "instructor": "Middlebrook,Blair"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 300",
+      "courseTitle": "LDRSHIP & ORG BEHAV",
+      "section": "A",
+      "instructor": "Muyia,Helen"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 300",
+      "courseTitle": "LDRSHIP & ORG BEHAV",
+      "section": "D",
+      "instructor": "Muyia,Helen"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 300",
+      "courseTitle": "LDRSHIP & ORG BEHAV",
+      "section": "B",
+      "instructor": "Quan,Shawn"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 300",
+      "courseTitle": "LDRSHIP & ORG BEHAV",
+      "section": "E",
+      "instructor": "Wee,Elijah"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 305",
+      "courseTitle": "MGMT & ENTRE ESSNTL",
+      "section": "A",
+      "instructor": "Schabram,Kira"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 311",
+      "courseTitle": "INTR HUMAN RES MGMT",
+      "section": "A",
+      "instructor": "Shao,Lian"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 320",
+      "courseTitle": "BUS GOVT & SOC",
+      "section": "C",
+      "instructor": "Bergstrom,Tod"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 320",
+      "courseTitle": "BUS GOVT & SOC",
+      "section": "A",
+      "instructor": "Huwe,Ruth Ann"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 320",
+      "courseTitle": "BUS GOVT & SOC",
+      "section": "B",
+      "instructor": "Huwe,Ruth Ann"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 402",
+      "courseTitle": "NEGOTIATIONS",
+      "section": "A",
+      "instructor": "Huwe,Ruth Ann"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 407",
+      "courseTitle": "GLBL WORKFORCE MGMT",
+      "section": "A",
+      "instructor": "Shao,Lian"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 430",
+      "courseTitle": "STRATEGIC MGMT",
+      "section": "A",
+      "instructor": "McPherson,Rick"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 430",
+      "courseTitle": "STRATEGIC MGMT",
+      "section": "B",
+      "instructor": "McPherson,Rick"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 430",
+      "courseTitle": "STRATEGIC MGMT",
+      "section": "C",
+      "instructor": "McPherson,Rick"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 500",
+      "courseTitle": "MGT AND LEADERSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 500",
+      "courseTitle": "MGT AND LEADERSHIP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 500",
+      "courseTitle": "MGT AND LEADERSHIP",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 500",
+      "courseTitle": "MGT AND LEADERSHIP",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 501",
+      "courseTitle": "LEAD TEAMS & ORGS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 501",
+      "courseTitle": "LEAD TEAMS & ORGS",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 502",
+      "courseTitle": "BUSINESS STRATEGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 504",
+      "courseTitle": "ETHICAL LEADERSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 504",
+      "courseTitle": "ETHICAL LEADERSHIP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 504",
+      "courseTitle": "ETHICAL LEADERSHIP",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 504",
+      "courseTitle": "ETHICAL LEADERSHIP",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 504",
+      "courseTitle": "ETHICAL LEADERSHIP",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 510",
+      "courseTitle": "DEV LEADER SKILLS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 510",
+      "courseTitle": "DEV LEADER SKILLS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 511",
+      "courseTitle": "LDRSHP/COACH PRACTCM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 531",
+      "courseTitle": "LEAD ORG CHANGE",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 547",
+      "courseTitle": "SUCCESS NEGOTIATIONS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 547",
+      "courseTitle": "SUCCESS NEGOTIATIONS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 555",
+      "courseTitle": "BOARD FELLOWS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 555",
+      "courseTitle": "BOARD FELLOWS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 584",
+      "courseTitle": "SPECIAL TOPICS OB II",
+      "section": "A",
+      "instructor": "Reynolds,Scott J."
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 592",
+      "courseTitle": "CONTEMP RES--ST MGT",
+      "section": "A",
+      "instructor": "Sirmon,David G."
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 599",
+      "courseTitle": "DOCTORAL SEM MGMT",
+      "section": "A",
+      "instructor": "Fehr,Ryan"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2023",
+      "course": "MGMT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
       "term": "WIN2024",
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bergstrom,Tod"
     },
     {
       "campus": "S",
@@ -4772,7 +5342,7 @@
       "course": "MGMT 305",
       "courseTitle": "MGMT & ENTRE ESSNTL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Schabram,Kira"
     },
     {
       "campus": "S",
@@ -4782,7 +5352,7 @@
       "course": "MGMT 305",
       "courseTitle": "MGMT & ENTRE ESSNTL",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Schabram,Kira"
     },
     {
       "campus": "S",
@@ -5252,17 +5822,7 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "mgmt",
-      "deptName": "Management",
-      "term": "SPR2024",
-      "course": "MGMT 200",
-      "courseTitle": "INTRODUCTION TO LAW",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Bales,Bebe"
     },
     {
       "campus": "S",
@@ -5272,7 +5832,17 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Bales,Bebe"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SPR2024",
+      "course": "MGMT 200",
+      "courseTitle": "INTRODUCTION TO LAW",
+      "section": "B",
+      "instructor": "Bergstrom,Tod"
     },
     {
       "campus": "S",
@@ -5322,7 +5892,7 @@
       "course": "MGMT 305",
       "courseTitle": "MGMT & ENTRE ESSNTL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pahnke,Emily"
     },
     {
       "campus": "S",
@@ -5872,7 +6442,7 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bales,Bebe"
     },
     {
       "campus": "S",
@@ -5882,7 +6452,7 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Bergstrom,Tod"
     },
     {
       "campus": "S",
@@ -5942,7 +6512,7 @@
       "course": "MGMT 305",
       "courseTitle": "MGMT & ENTRE ESSNTL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Schabram,Kira"
     },
     {
       "campus": "S",
@@ -5952,7 +6522,7 @@
       "course": "MGMT 305",
       "courseTitle": "MGMT & ENTRE ESSNTL",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Schabram,Kira"
     },
     {
       "campus": "S",
@@ -6342,7 +6912,7 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bergstrom,Tod"
     },
     {
       "campus": "S",
@@ -6412,7 +6982,7 @@
       "course": "MGMT 305",
       "courseTitle": "MGMT & ENTRE ESSNTL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Schabram,Kira"
     },
     {
       "campus": "S",
@@ -6422,7 +6992,7 @@
       "course": "MGMT 305",
       "courseTitle": "MGMT & ENTRE ESSNTL",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Schabram,Kira"
     },
     {
       "campus": "S",
@@ -6902,17 +7472,7 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "mgmt",
-      "deptName": "Management",
-      "term": "SPR2025",
-      "course": "MGMT 200",
-      "courseTitle": "INTRODUCTION TO LAW",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Bales,Bebe"
     },
     {
       "campus": "S",
@@ -6922,7 +7482,17 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Bales,Bebe"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SPR2025",
+      "course": "MGMT 200",
+      "courseTitle": "INTRODUCTION TO LAW",
+      "section": "B",
+      "instructor": "Bergstrom,Tod"
     },
     {
       "campus": "S",
@@ -6972,7 +7542,7 @@
       "course": "MGMT 305",
       "courseTitle": "MGMT & ENTRE ESSNTL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Banerjee,Anusuya"
     },
     {
       "campus": "S",
@@ -7482,7 +8052,7 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bales,Bebe"
     },
     {
       "campus": "S",
@@ -7492,17 +8062,7 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "mgmt",
-      "deptName": "Management",
-      "term": "AUT2025",
-      "course": "MGMT 300",
-      "courseTitle": "LDRSHIP & ORG BEHAV",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bergstrom,Tod"
     },
     {
       "campus": "S",
@@ -7512,7 +8072,7 @@
       "course": "MGMT 300",
       "courseTitle": "LDRSHIP & ORG BEHAV",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Bari,Asiya N"
     },
     {
       "campus": "S",
@@ -7522,7 +8082,17 @@
       "course": "MGMT 300",
       "courseTitle": "LDRSHIP & ORG BEHAV",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Moy,Jason"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2025",
+      "course": "MGMT 300",
+      "courseTitle": "LDRSHIP & ORG BEHAV",
+      "section": "A",
+      "instructor": "Muyia,Helen"
     },
     {
       "campus": "S",
@@ -7532,7 +8102,7 @@
       "course": "MGMT 300",
       "courseTitle": "LDRSHIP & ORG BEHAV",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Muyia,Helen"
     },
     {
       "campus": "S",
@@ -7542,7 +8112,7 @@
       "course": "MGMT 300",
       "courseTitle": "LDRSHIP & ORG BEHAV",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Rhodes,Jesse"
     },
     {
       "campus": "S",
@@ -7552,7 +8122,7 @@
       "course": "MGMT 305",
       "courseTitle": "MGMT & ENTRE ESSNTL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Metcalfe,Christian Primack"
     },
     {
       "campus": "S",
@@ -7562,7 +8132,7 @@
       "course": "MGMT 305",
       "courseTitle": "MGMT & ENTRE ESSNTL",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Metcalfe,Christian Primack"
     },
     {
       "campus": "S",
@@ -7572,27 +8142,7 @@
       "course": "MGMT 311",
       "courseTitle": "INTR HUMAN RES MGMT",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "mgmt",
-      "deptName": "Management",
-      "term": "AUT2025",
-      "course": "MGMT 320",
-      "courseTitle": "BUS GOVT & SOC",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "mgmt",
-      "deptName": "Management",
-      "term": "AUT2025",
-      "course": "MGMT 320",
-      "courseTitle": "BUS GOVT & SOC",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Shao,Lian"
     },
     {
       "campus": "S",
@@ -7602,7 +8152,27 @@
       "course": "MGMT 320",
       "courseTitle": "BUS GOVT & SOC",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Bergstrom,Tod"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2025",
+      "course": "MGMT 320",
+      "courseTitle": "BUS GOVT & SOC",
+      "section": "A",
+      "instructor": "Huwe,Ruth Ann"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2025",
+      "course": "MGMT 320",
+      "courseTitle": "BUS GOVT & SOC",
+      "section": "B",
+      "instructor": "Huwe,Ruth Ann"
     },
     {
       "campus": "S",
@@ -7612,7 +8182,7 @@
       "course": "MGMT 402",
       "courseTitle": "NEGOTIATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Huwe,Ruth Ann"
     },
     {
       "campus": "S",
@@ -7622,27 +8192,7 @@
       "course": "MGMT 407",
       "courseTitle": "GLBL WORKFORCE MGMT",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "mgmt",
-      "deptName": "Management",
-      "term": "AUT2025",
-      "course": "MGMT 430",
-      "courseTitle": "STRATEGIC MGMT",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "mgmt",
-      "deptName": "Management",
-      "term": "AUT2025",
-      "course": "MGMT 430",
-      "courseTitle": "STRATEGIC MGMT",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Shao,Lian"
     },
     {
       "campus": "S",
@@ -7652,7 +8202,27 @@
       "course": "MGMT 430",
       "courseTitle": "STRATEGIC MGMT",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Carlson,Kjiel Emil"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2025",
+      "course": "MGMT 430",
+      "courseTitle": "STRATEGIC MGMT",
+      "section": "A",
+      "instructor": "Fadel,Mazen"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2025",
+      "course": "MGMT 430",
+      "courseTitle": "STRATEGIC MGMT",
+      "section": "B",
+      "instructor": "Radke,Rohan"
     },
     {
       "campus": "S",
@@ -7741,8 +8311,8 @@
       "term": "AUT2025",
       "course": "MGMT 502",
       "courseTitle": "BUSINESS STRATEGY",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Boeker,Warren"
     },
     {
       "campus": "S",
@@ -7751,7 +8321,7 @@
       "term": "AUT2025",
       "course": "MGMT 502",
       "courseTitle": "BUSINESS STRATEGY",
-      "section": "B",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -7892,7 +8462,7 @@
       "course": "MGMT 584",
       "courseTitle": "SPECIAL TOPICS OB II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Reynolds,Scott J."
     },
     {
       "campus": "S",
@@ -7902,7 +8472,7 @@
       "course": "MGMT 599",
       "courseTitle": "DOCTORAL SEM MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wee,Elijah"
     },
     {
       "campus": "S",
@@ -7932,47 +8502,7 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "mgmt",
-      "deptName": "Management",
-      "term": "WIN2026",
-      "course": "MGMT 300",
-      "courseTitle": "LDRSHIP & ORG BEHAV",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "mgmt",
-      "deptName": "Management",
-      "term": "WIN2026",
-      "course": "MGMT 300",
-      "courseTitle": "LDRSHIP & ORG BEHAV",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "mgmt",
-      "deptName": "Management",
-      "term": "WIN2026",
-      "course": "MGMT 300",
-      "courseTitle": "LDRSHIP & ORG BEHAV",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "mgmt",
-      "deptName": "Management",
-      "term": "WIN2026",
-      "course": "MGMT 300",
-      "courseTitle": "LDRSHIP & ORG BEHAV",
-      "section": "D",
-      "instructor": "TBA"
+      "instructor": "Bergstrom,Tod"
     },
     {
       "campus": "S",
@@ -7982,7 +8512,7 @@
       "course": "MGMT 300",
       "courseTitle": "LDRSHIP & ORG BEHAV",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Chico,Robert"
     },
     {
       "campus": "S",
@@ -7992,7 +8522,47 @@
       "course": "MGMT 300",
       "courseTitle": "LDRSHIP & ORG BEHAV",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Kapustka,Louise"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "WIN2026",
+      "course": "MGMT 300",
+      "courseTitle": "LDRSHIP & ORG BEHAV",
+      "section": "D",
+      "instructor": "May,Alan Richard"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "WIN2026",
+      "course": "MGMT 300",
+      "courseTitle": "LDRSHIP & ORG BEHAV",
+      "section": "B",
+      "instructor": "Muyia,Helen"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "WIN2026",
+      "course": "MGMT 300",
+      "courseTitle": "LDRSHIP & ORG BEHAV",
+      "section": "C",
+      "instructor": "Muyia,Helen"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "WIN2026",
+      "course": "MGMT 300",
+      "courseTitle": "LDRSHIP & ORG BEHAV",
+      "section": "A",
+      "instructor": "Shao,Lian"
     },
     {
       "campus": "S",
@@ -8002,17 +8572,7 @@
       "course": "MGMT 305",
       "courseTitle": "MGMT & ENTRE ESSNTL",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "mgmt",
-      "deptName": "Management",
-      "term": "WIN2026",
-      "course": "MGMT 305",
-      "courseTitle": "MGMT & ENTRE ESSNTL",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Fletcher,Shannon"
     },
     {
       "campus": "S",
@@ -8022,7 +8582,17 @@
       "course": "MGMT 305",
       "courseTitle": "MGMT & ENTRE ESSNTL",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Fletcher,Shannon"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "WIN2026",
+      "course": "MGMT 305",
+      "courseTitle": "MGMT & ENTRE ESSNTL",
+      "section": "B",
+      "instructor": "Metcalfe,Christian Primack"
     },
     {
       "campus": "S",
@@ -8032,7 +8602,7 @@
       "course": "MGMT 312",
       "courseTitle": "CAREER DEV WKSHP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chang,Jonathan"
     },
     {
       "campus": "S",
@@ -8042,7 +8612,7 @@
       "course": "MGMT 320",
       "courseTitle": "BUS GOVT & SOC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bergstrom,Tod"
     },
     {
       "campus": "S",
@@ -8052,7 +8622,7 @@
       "course": "MGMT 320",
       "courseTitle": "BUS GOVT & SOC",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Huwe,Ruth Ann"
     },
     {
       "campus": "S",
@@ -8062,7 +8632,7 @@
       "course": "MGMT 320",
       "courseTitle": "BUS GOVT & SOC",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Huwe,Ruth Ann"
     },
     {
       "campus": "S",
@@ -8072,7 +8642,7 @@
       "course": "MGMT 400",
       "courseTitle": "CORPORATE DEI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jones,S"
     },
     {
       "campus": "S",
@@ -8082,7 +8652,7 @@
       "course": "MGMT 401",
       "courseTitle": "LEADERSHIP DVLPMNT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Huwe,Ruth Ann"
     },
     {
       "campus": "S",
@@ -8092,7 +8662,7 @@
       "course": "MGMT 412",
       "courseTitle": "PERF MGMT & COMPEN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Shao,Lian"
     },
     {
       "campus": "S",
@@ -8102,7 +8672,7 @@
       "course": "MGMT 430",
       "courseTitle": "STRATEGIC MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Carlson,Kjiel Emil"
     },
     {
       "campus": "S",
@@ -8112,7 +8682,7 @@
       "course": "MGMT 430",
       "courseTitle": "STRATEGIC MGMT",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Fadel,Mazen"
     },
     {
       "campus": "S",
@@ -8122,7 +8692,7 @@
       "course": "MGMT 430",
       "courseTitle": "STRATEGIC MGMT",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Fadel,Mazen"
     },
     {
       "campus": "S",
@@ -8132,7 +8702,7 @@
       "course": "MGMT 430",
       "courseTitle": "STRATEGIC MGMT",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Fadel,Mazen"
     },
     {
       "campus": "S",
@@ -8142,7 +8712,7 @@
       "course": "MGMT 430",
       "courseTitle": "STRATEGIC MGMT",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Rituraj,Vishal"
     },
     {
       "campus": "S",
@@ -8322,7 +8892,7 @@
       "course": "MGMT 530",
       "courseTitle": "GLOBAL STRATEGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Steensma,H Kevin"
     },
     {
       "campus": "S",
@@ -8332,7 +8902,7 @@
       "course": "MGMT 531",
       "courseTitle": "LEAD ORG CHANGE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bigley,Gregory"
     },
     {
       "campus": "S",
@@ -8452,7 +9022,7 @@
       "course": "MGMT 583",
       "courseTitle": "SPECIAL TOPICS OB I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Farh,Crystal"
     },
     {
       "campus": "S",
@@ -8462,7 +9032,7 @@
       "course": "MGMT 592",
       "courseTitle": "CONTEMP RES--ST MGT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sirmon,David G."
     },
     {
       "campus": "S",
@@ -8472,7 +9042,7 @@
       "course": "MGMT 599",
       "courseTitle": "DOCTORAL SEM MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wee,Elijah"
     },
     {
       "campus": "S",
@@ -8502,17 +9072,7 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "mgmt",
-      "deptName": "Management",
-      "term": "SPR2026",
-      "course": "MGMT 200",
-      "courseTitle": "INTRODUCTION TO LAW",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Bales,Bebe"
     },
     {
       "campus": "S",
@@ -8522,27 +9082,17 @@
       "course": "MGMT 200",
       "courseTitle": "INTRODUCTION TO LAW",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Bales,Bebe"
     },
     {
       "campus": "S",
       "dept": "mgmt",
       "deptName": "Management",
       "term": "SPR2026",
-      "course": "MGMT 300",
-      "courseTitle": "LDRSHIP & ORG BEHAV",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "mgmt",
-      "deptName": "Management",
-      "term": "SPR2026",
-      "course": "MGMT 300",
-      "courseTitle": "LDRSHIP & ORG BEHAV",
+      "course": "MGMT 200",
+      "courseTitle": "INTRODUCTION TO LAW",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Bergstrom,Tod"
     },
     {
       "campus": "S",
@@ -8552,7 +9102,7 @@
       "course": "MGMT 300",
       "courseTitle": "LDRSHIP & ORG BEHAV",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Kapustka,Louise"
     },
     {
       "campus": "S",
@@ -8562,17 +9112,27 @@
       "course": "MGMT 300",
       "courseTitle": "LDRSHIP & ORG BEHAV",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Li,Zeren"
     },
     {
       "campus": "S",
       "dept": "mgmt",
       "deptName": "Management",
       "term": "SPR2026",
-      "course": "MGMT 305",
-      "courseTitle": "MGMT & ENTRE ESSNTL",
+      "course": "MGMT 300",
+      "courseTitle": "LDRSHIP & ORG BEHAV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Muyia,Helen"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SPR2026",
+      "course": "MGMT 300",
+      "courseTitle": "LDRSHIP & ORG BEHAV",
+      "section": "B",
+      "instructor": "Wee,Elijah"
     },
     {
       "campus": "S",
@@ -8582,27 +9142,17 @@
       "course": "MGMT 305",
       "courseTitle": "MGMT & ENTRE ESSNTL",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Fletcher,Shannon"
     },
     {
       "campus": "S",
       "dept": "mgmt",
       "deptName": "Management",
       "term": "SPR2026",
-      "course": "MGMT 320",
-      "courseTitle": "BUS GOVT & SOC",
+      "course": "MGMT 305",
+      "courseTitle": "MGMT & ENTRE ESSNTL",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "mgmt",
-      "deptName": "Management",
-      "term": "SPR2026",
-      "course": "MGMT 320",
-      "courseTitle": "BUS GOVT & SOC",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Metcalfe,Christian Primack"
     },
     {
       "campus": "S",
@@ -8612,7 +9162,27 @@
       "course": "MGMT 320",
       "courseTitle": "BUS GOVT & SOC",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Bergstrom,Tod"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SPR2026",
+      "course": "MGMT 320",
+      "courseTitle": "BUS GOVT & SOC",
+      "section": "A",
+      "instructor": "Huwe,Ruth Ann"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SPR2026",
+      "course": "MGMT 320",
+      "courseTitle": "BUS GOVT & SOC",
+      "section": "B",
+      "instructor": "Huwe,Ruth Ann"
     },
     {
       "campus": "S",
@@ -8622,7 +9192,7 @@
       "course": "MGMT 403",
       "courseTitle": "HIGH PERF TEAMS&ORGS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Huwe,Ruth Ann"
     },
     {
       "campus": "S",
@@ -8632,7 +9202,7 @@
       "course": "MGMT 404",
       "courseTitle": "ORG DEV & CHANGE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fehr,Ryan"
     },
     {
       "campus": "S",
@@ -8642,57 +9212,7 @@
       "course": "MGMT 411",
       "courseTitle": "RECR,HIR &RETAIN TAL",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "mgmt",
-      "deptName": "Management",
-      "term": "SPR2026",
-      "course": "MGMT 430",
-      "courseTitle": "STRATEGIC MGMT",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "mgmt",
-      "deptName": "Management",
-      "term": "SPR2026",
-      "course": "MGMT 430",
-      "courseTitle": "STRATEGIC MGMT",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "mgmt",
-      "deptName": "Management",
-      "term": "SPR2026",
-      "course": "MGMT 430",
-      "courseTitle": "STRATEGIC MGMT",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "mgmt",
-      "deptName": "Management",
-      "term": "SPR2026",
-      "course": "MGMT 430",
-      "courseTitle": "STRATEGIC MGMT",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "mgmt",
-      "deptName": "Management",
-      "term": "SPR2026",
-      "course": "MGMT 430",
-      "courseTitle": "STRATEGIC MGMT",
-      "section": "E",
-      "instructor": "TBA"
+      "instructor": "Efroymson,Amy"
     },
     {
       "campus": "S",
@@ -8702,7 +9222,57 @@
       "course": "MGMT 430",
       "courseTitle": "STRATEGIC MGMT",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Gupta,Abhinav"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SPR2026",
+      "course": "MGMT 430",
+      "courseTitle": "STRATEGIC MGMT",
+      "section": "A",
+      "instructor": "Heshmati,Mana"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SPR2026",
+      "course": "MGMT 430",
+      "courseTitle": "STRATEGIC MGMT",
+      "section": "B",
+      "instructor": "Heshmati,Mana"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SPR2026",
+      "course": "MGMT 430",
+      "courseTitle": "STRATEGIC MGMT",
+      "section": "C",
+      "instructor": "Heshmati,Mana"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SPR2026",
+      "course": "MGMT 430",
+      "courseTitle": "STRATEGIC MGMT",
+      "section": "D",
+      "instructor": "Heshmati,Mana"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SPR2026",
+      "course": "MGMT 430",
+      "courseTitle": "STRATEGIC MGMT",
+      "section": "E",
+      "instructor": "McPherson,Rick"
     },
     {
       "campus": "S",
@@ -8712,7 +9282,7 @@
       "course": "MGMT 430",
       "courseTitle": "STRATEGIC MGMT",
       "section": "G",
-      "instructor": "TBA"
+      "instructor": "McPherson,Rick"
     },
     {
       "campus": "S",
@@ -8722,7 +9292,7 @@
       "course": "MGMT 440",
       "courseTitle": "DVRS BUS CONSULTING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Agrella,Renato"
     },
     {
       "campus": "S",
@@ -8732,7 +9302,7 @@
       "course": "MGMT 450",
       "courseTitle": "WOMEN IN LEADERSHIP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Funkhouser Watkins,Amy"
     },
     {
       "campus": "S",
@@ -8811,6 +9381,16 @@
       "term": "SPR2026",
       "course": "MGMT 547",
       "courseTitle": "SUCCESS NEGOTIATIONS",
+      "section": "C",
+      "instructor": "Barnes,Christopher"
+    },
+    {
+      "campus": "S",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SPR2026",
+      "course": "MGMT 547",
+      "courseTitle": "SUCCESS NEGOTIATIONS",
       "section": "A",
       "instructor": "TBA"
     },
@@ -8822,16 +9402,6 @@
       "course": "MGMT 547",
       "courseTitle": "SUCCESS NEGOTIATIONS",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "mgmt",
-      "deptName": "Management",
-      "term": "SPR2026",
-      "course": "MGMT 547",
-      "courseTitle": "SUCCESS NEGOTIATIONS",
-      "section": "C",
       "instructor": "TBA"
     },
     {
@@ -8902,7 +9472,7 @@
       "course": "MGMT 582",
       "courseTitle": "CONT OB RESEARCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chen,Xiao-Ping"
     },
     {
       "campus": "S",
@@ -8912,7 +9482,7 @@
       "course": "MGMT 585",
       "courseTitle": "CAPSTONE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McPherson,Rick"
     },
     {
       "campus": "S",
@@ -8922,7 +9492,7 @@
       "course": "MGMT 599",
       "courseTitle": "DOCTORAL SEM MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wee,Elijah"
     },
     {
       "campus": "S",

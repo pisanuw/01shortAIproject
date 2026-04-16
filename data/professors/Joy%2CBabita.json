@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Joy%2CBabita",
+  "professor": "Joy,Babita",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "be",
+      "deptName": "Built Environment",
+      "term": "SPR2024",
+      "course": "B E 211",
+      "courseTitle": "GLOBAL BUILT ENV II",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "be",
+      "deptName": "Built Environment",
+      "term": "SPR2023",
+      "course": "B E 211",
+      "courseTitle": "GLOBAL BUILT ENV II",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "be",
+      "deptName": "Built Environment",
+      "term": "WIN2023",
+      "course": "B E 210",
+      "courseTitle": "GLOBAL BUILT ENV I",
+      "section": "A"
+    }
+  ]
+}

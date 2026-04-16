@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20PHRMSC%20312",
+  "course": "S - PHRMSC 312",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phrmsc",
+      "deptName": "Pharmaceutical Sciences",
+      "term": "SPR2026",
+      "course": "PHRMSC 312",
+      "courseTitle": "THE SCIENCE OF DRUGS",
+      "section": "A",
+      "instructor": "Xu,Libin"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phrmsc",
+      "deptName": "Pharmaceutical Sciences",
+      "term": "SPR2025",
+      "course": "PHRMSC 312",
+      "courseTitle": "THE SCIENCE OF DRUGS",
+      "section": "A",
+      "instructor": "Xu,Libin"
+    }
+  ]
+}

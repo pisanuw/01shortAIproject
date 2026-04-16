@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Horner-Devine%2CAlexander%20R",
+  "professor": "Horner-Devine,Alexander R",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "WIN2023",
+      "course": "OCEAN 569",
+      "courseTitle": "TPCS PHYSICAL OCEAN",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cewa",
+      "deptName": "Environmental Engineering",
+      "term": "SPR2022",
+      "course": "CEWA 574",
+      "courseTitle": "SEDIMENT TRANSPORT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cewa",
+      "deptName": "Environmental Engineering",
+      "term": "WIN2021",
+      "course": "CEWA 570",
+      "courseTitle": "HYDRODYNAMICS",
+      "section": "A"
+    }
+  ]
+}

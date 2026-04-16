@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Medlin%2CMatt",
+  "professor": "Medlin,Matt",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "finance",
+      "deptName": "Finance",
+      "term": "SPR2026",
+      "course": "FIN 457",
+      "courseTitle": "ENTREPRENEURIAL FIN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "entre",
+      "deptName": "Entrepreneurship",
+      "term": "SPR2026",
+      "course": "ENTRE 457",
+      "courseTitle": "ENTREPRENEURIAL FIN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "finance",
+      "deptName": "Finance",
+      "term": "SPR2025",
+      "course": "FIN 457",
+      "courseTitle": "ENTREPRENEURIAL FIN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "entre",
+      "deptName": "Entrepreneurship",
+      "term": "SPR2025",
+      "course": "ENTRE 457",
+      "courseTitle": "ENTREPRENEURIAL FIN",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Hawes%2CS",
+  "professor": "Hawes,S",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "SPR2023",
+      "course": "EPI 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "WIN2023",
+      "course": "EPI 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "AUT2022",
+      "course": "EPI 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "B"
+    }
+  ]
+}

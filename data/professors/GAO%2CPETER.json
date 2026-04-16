@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "GAO%2CPETER",
+  "professor": "GAO,PETER",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2022",
+      "course": "STAT 303",
+      "courseTitle": "ALGO DCSN-MKNG ETHCS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "WIN2022",
+      "course": "STAT 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2021",
+      "course": "STAT 302",
+      "courseTitle": "STAT COMPUTING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2021",
+      "course": "STAT 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20I%20S%20581",
+  "course": "S - I S 581",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2026",
+      "course": "I S 581",
+      "courseTitle": "ADV RSRCH TOPICSII",
+      "section": "A",
+      "instructor": "Wang,Yingfei"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "WIN2023",
+      "course": "I S 581",
+      "courseTitle": "ADV RSRCH TOPICSII",
+      "section": "A",
+      "instructor": "Ananthakrishnan,Uttara Mad"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "AUT2020",
+      "course": "I S 581",
+      "courseTitle": "ADV RSRCH TOPICSII",
+      "section": "A",
+      "instructor": "Dey,Deb"
+    }
+  ]
+}

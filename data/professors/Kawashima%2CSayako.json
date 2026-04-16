@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Kawashima%2CSayako",
+  "professor": "Kawashima,Sayako",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "SPR2026",
+      "course": "BIOL 413",
+      "courseTitle": "HUMAN ANATOMY SURVEY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "WIN2026",
+      "course": "BIOL 118",
+      "courseTitle": "SURVEY OF PHYSIOL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "SUM2024",
+      "course": "BIOL 310",
+      "courseTitle": "HUMAN ANATOMY SURVEY",
+      "section": "A"
+    }
+  ]
+}

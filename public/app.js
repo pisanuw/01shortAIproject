@@ -4,6 +4,12 @@ const QUARTER_ORDER = ["Autumn", "Winter", "Spring", "Summer"];
 const TERM_TO_QUARTER = { AUT: "Autumn", WIN: "Winter", SPR: "Spring", SUM: "Summer" };
 const PAGE_SIZE = 20;
 const FILTER_DROPDOWN_THRESHOLD = 5;
+const DATA_VERSION = Date.now();
+
+function withDataVersion(url) {
+  const sep = url.includes("?") ? "&" : "?";
+  return `${url}${sep}v=${DATA_VERSION}`;
+}
 
 // ── FilterDropdown component ───────────────────────────────────────────────────
 
@@ -107,12 +113,22 @@ class FilterDropdown {
 // ── State ──────────────────────────────────────────────────────────────────────
 
 let state = {
-  view: "campus",       // "campus" | "dept" | "filter"
+  view: "campus",       // "campus" | "dept" | "filter" | "professor"
   campus: null,         // "B" | "T" | "S"
   dept: null,           // dept code string e.g. "css"
   catalogIndex: null,   // parsed catalog_index.json
+  professorIndex: null, // parsed professor_index.json
+  courseIndex: null,    // parsed course_index.json
+  professorId: null,
+  professorName: "",
+  courseId: null,
+  courseName: "",
   records: [],          // records for current dept shard
+  professorRecords: [],
+  courseRecords: [],
   currentPage: 1,
+  professorPage: 1,
+  coursePage: 1,
 };
 
 // ── DOM refs ───────────────────────────────────────────────────────────────────
@@ -120,8 +136,16 @@ let state = {
 const stepCampus   = document.getElementById("stepCampus");
 const stepDept     = document.getElementById("stepDept");
 const stepFilter   = document.getElementById("stepFilter");
+const stepProfessor = document.getElementById("stepProfessor");
+const stepCourse = document.getElementById("stepCourse");
 const campusCards  = document.getElementById("campusCards");
 const campusLoading = document.getElementById("campusLoading");
+const professorLaunch = document.getElementById("professorLaunch");
+const professorLoading = document.getElementById("professorLoading");
+const viewProfessorBtn = document.getElementById("viewProfessorBtn");
+const courseLaunch = document.getElementById("courseLaunch");
+const courseLoading = document.getElementById("courseLoading");
+const viewCourseBtn = document.getElementById("viewCourseBtn");
 const deptSearch   = document.getElementById("deptSearch");
 const deptList     = document.getElementById("deptList");
 const crumbCampus  = document.getElementById("crumbCampus");
@@ -141,10 +165,32 @@ const nextPageBtn    = document.getElementById("nextPageBtn");
 const pageText       = document.getElementById("pageText");
 const summaryText    = document.getElementById("summaryText");
 const resultsBody    = document.getElementById("resultsBody");
+const professorSummaryText = document.getElementById("professorSummaryText");
+const professorResultsBody = document.getElementById("professorResultsBody");
+const professorPageText = document.getElementById("professorPageText");
+const professorPrevPageBtn = document.getElementById("professorPrevPageBtn");
+const professorNextPageBtn = document.getElementById("professorNextPageBtn");
+const professorResultsTitle = document.getElementById("professorResultsTitle");
+const courseSummaryText = document.getElementById("courseSummaryText");
+const courseResultsBody = document.getElementById("courseResultsBody");
+const coursePageText = document.getElementById("coursePageText");
+const coursePrevPageBtn = document.getElementById("coursePrevPageBtn");
+const courseNextPageBtn = document.getElementById("courseNextPageBtn");
+const courseResultsTitle = document.getElementById("courseResultsTitle");
 
 // ── Routing (hash-based) ───────────────────────────────────────────────────────
 
-function encodeHash(campus, dept) {
+const landingProfessorDD = new FilterDropdown("landingProfessorDropdown", () => {
+  viewProfessorBtn.disabled = !landingProfessorDD.value;
+});
+const landingCourseDD = new FilterDropdown("landingCourseDropdown", () => {
+  viewCourseBtn.disabled = !landingCourseDD.value;
+});
+
+function encodeHash(campus, dept, professorId) {
+  if (professorId) return `#/professor/${professorId}`;
+  const courseId = arguments.length > 3 ? arguments[3] : null;
+  if (courseId) return `#/course/${courseId}`;
   if (!campus) return "#/";
   if (!dept)   return `#/${campus}`;
   return `#/${campus}/${dept}`;
@@ -153,16 +199,51 @@ function encodeHash(campus, dept) {
 function parseHash() {
   const hash = location.hash.replace(/^#\/?/, "");
   const parts = hash.split("/").filter(Boolean);
-  return { campus: parts[0] || null, dept: parts[1] || null };
+  if (parts[0] === "professor") {
+    return { campus: null, dept: null, professorId: parts[1] || null, courseId: null };
+  }
+  if (parts[0] === "course") {
+    return { campus: null, dept: null, professorId: null, courseId: parts[1] || null };
+  }
+  return { campus: parts[0] || null, dept: parts[1] || null, professorId: null, courseId: null };
 }
 
-function pushHash(campus, dept) {
-  history.pushState(null, "", encodeHash(campus, dept));
+function normalizeProfessorId(professorId) {
+  if (!professorId) return null;
+  const directMatch = (state.professorIndex?.professors || []).find(entry => entry.id === professorId);
+  if (directMatch) return directMatch.id;
+
+  const encoded = encodeURIComponent(professorId);
+  const encodedMatch = (state.professorIndex?.professors || []).find(entry => entry.id === encoded);
+  if (encodedMatch) return encodedMatch.id;
+
+  try {
+    const decoded = decodeURIComponent(professorId);
+    const decodedMatch = (state.professorIndex?.professors || []).find(entry => entry.id === decoded);
+    if (decodedMatch) return decodedMatch.id;
+
+    const reencoded = encodeURIComponent(decoded);
+    const reencodedMatch = (state.professorIndex?.professors || []).find(entry => entry.id === reencoded);
+    if (reencodedMatch) return reencodedMatch.id;
+  } catch {
+    // Ignore malformed URI sequences and fall back to the original value.
+  }
+
+  return professorId;
+}
+
+function pushHash(campus, dept, professorId = null) {
+  const courseId = arguments.length > 3 ? arguments[3] : null;
+  history.pushState(null, "", encodeHash(campus, dept, professorId, courseId));
 }
 
 window.addEventListener("popstate", () => {
-  const { campus, dept } = parseHash();
-  if (dept && state.catalogIndex) {
+  const { campus, dept, professorId, courseId } = parseHash();
+  if (professorId && state.professorIndex) {
+    selectProfessor(professorId, false);
+  } else if (courseId && state.courseIndex) {
+    selectCourse(courseId, false);
+  } else if (dept && state.catalogIndex) {
     selectDept(campus, dept, false);
   } else if (campus && state.catalogIndex) {
     selectCampus(campus, false);
@@ -174,7 +255,7 @@ window.addEventListener("popstate", () => {
 // ── Step visibility ────────────────────────────────────────────────────────────
 
 function showOnly(step) {
-  [stepCampus, stepDept, stepFilter].forEach(s => s.classList.add("hidden"));
+  [stepCampus, stepDept, stepFilter, stepProfessor, stepCourse].forEach(s => s.classList.add("hidden"));
   step.classList.remove("hidden");
 }
 
@@ -210,11 +291,19 @@ function showCampusStep() {
   state.view = "campus";
   state.campus = null;
   state.dept = null;
+  state.professorId = null;
+  state.professorName = "";
+  state.courseId = null;
+  state.courseName = "";
   state.records = [];
+  state.professorRecords = [];
+  state.courseRecords = [];
   showOnly(stepCampus);
   updateBreadcrumb();
   renderCampusCards();
-  pushHash(null, null);
+  renderProfessorLaunch();
+  renderCourseLaunch();
+  pushHash(null, null, null, null);
 }
 
 function renderCampusCards() {
@@ -252,6 +341,46 @@ function renderCampusCards() {
     campusCards.innerHTML =
       '<p class="empty-state">No campus data found. Run <code>npm run build:data -- --campus all</code> first.</p>';
   }
+}
+
+function renderProfessorLaunch() {
+  if (!state.professorIndex || !(state.professorIndex.professors || []).length) {
+    professorLaunch.classList.add("hidden");
+    professorLoading.style.display = "block";
+    return;
+  }
+
+  professorLaunch.classList.remove("hidden");
+  professorLoading.style.display = "none";
+  const values = state.professorIndex.professors.map(entry => entry.id);
+  const labels = Object.fromEntries(
+    state.professorIndex.professors.map(entry => [
+      entry.id,
+      `${entry.name} (${entry.recordCount.toLocaleString()} records)`,
+    ])
+  );
+  landingProfessorDD.populate(values, "Select a professor", labels);
+  viewProfessorBtn.disabled = !landingProfessorDD.value;
+}
+
+function renderCourseLaunch() {
+  if (!state.courseIndex || !(state.courseIndex.courses || []).length) {
+    courseLaunch.classList.add("hidden");
+    courseLoading.style.display = "block";
+    return;
+  }
+
+  courseLaunch.classList.remove("hidden");
+  courseLoading.style.display = "none";
+  const values = state.courseIndex.courses.map(entry => entry.id);
+  const labels = Object.fromEntries(
+    state.courseIndex.courses.map(entry => [
+      entry.id,
+      `${entry.name} (${entry.recordCount.toLocaleString()} offerings)`,
+    ])
+  );
+  landingCourseDD.populate(values, "Select a course", labels);
+  viewCourseBtn.disabled = !landingCourseDD.value;
 }
 
 function selectCampus(code, pushRoute = true) {
@@ -337,7 +466,7 @@ async function selectDept(campus, deptCode, pushRoute = true) {
   state.dept = deptCode;
   state.view = "filter";
   state.currentPage = 1;
-  if (pushRoute) pushHash(campus, deptCode);
+  if (pushRoute) pushHash(campus, deptCode, null);
 
   showOnly(stepFilter);
   updateBreadcrumb();
@@ -349,17 +478,111 @@ async function selectDept(campus, deptCode, pushRoute = true) {
   updateResults();
 }
 
+async function selectProfessor(professorId, pushRoute = true) {
+  const normalizedProfessorId = normalizeProfessorId(professorId);
+  const professor = (state.professorIndex?.professors || []).find(entry => entry.id === normalizedProfessorId);
+  state.view = "professor";
+  state.campus = null;
+  state.dept = null;
+  state.professorId = normalizedProfessorId;
+  state.professorName = professor?.name || normalizedProfessorId;
+  state.professorPage = 1;
+  if (pushRoute) pushHash(null, null, normalizedProfessorId);
+
+  showOnly(stepProfessor);
+  updateBreadcrumb();
+  professorResultsTitle.textContent = state.professorName;
+  professorSummaryText.textContent = "Loading professor data…";
+  professorResultsBody.innerHTML = "";
+  state.professorRecords = [];
+
+  await loadProfessorRecords(normalizedProfessorId);
+  updateProfessorResults();
+}
+
+function normalizeCourseId(courseId) {
+  if (!courseId) return null;
+  const directMatch = (state.courseIndex?.courses || []).find(entry => entry.id === courseId);
+  if (directMatch) return directMatch.id;
+
+  const encoded = encodeURIComponent(courseId);
+  const encodedMatch = (state.courseIndex?.courses || []).find(entry => entry.id === encoded);
+  if (encodedMatch) return encodedMatch.id;
+
+  try {
+    const decoded = decodeURIComponent(courseId);
+    const decodedMatch = (state.courseIndex?.courses || []).find(entry => entry.id === decoded);
+    if (decodedMatch) return decodedMatch.id;
+
+    const reencoded = encodeURIComponent(decoded);
+    const reencodedMatch = (state.courseIndex?.courses || []).find(entry => entry.id === reencoded);
+    if (reencodedMatch) return reencodedMatch.id;
+  } catch {
+    // Ignore malformed URI sequences and fall back to the original value.
+  }
+
+  return courseId;
+}
+
+async function selectCourse(courseId, pushRoute = true) {
+  const normalizedCourseId = normalizeCourseId(courseId);
+  const course = (state.courseIndex?.courses || []).find(entry => entry.id === normalizedCourseId);
+  state.view = "course";
+  state.campus = null;
+  state.dept = null;
+  state.courseId = normalizedCourseId;
+  state.courseName = course?.name || normalizedCourseId;
+  state.coursePage = 1;
+  if (pushRoute) pushHash(null, null, null, normalizedCourseId);
+
+  showOnly(stepCourse);
+  updateBreadcrumb();
+  courseResultsTitle.textContent = state.courseName;
+  courseSummaryText.textContent = "Loading course data…";
+  courseResultsBody.innerHTML = "";
+  state.courseRecords = [];
+
+  await loadCourseRecords(normalizedCourseId);
+  updateCourseResults();
+}
+
 // ── Shard loading ──────────────────────────────────────────────────────────────
 
 async function loadShard(campus, deptCode) {
   try {
-    const resp = await fetch(`../data/shards/${campus}/${deptCode}.json`);
+    const resp = await fetch(withDataVersion(`../data/shards/${campus}/${deptCode}.json`), { cache: "no-store" });
     if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
     const payload = await resp.json();
     state.records = payload.records || [];
   } catch (err) {
     summaryText.textContent = `Could not load data for ${deptCode.toUpperCase()}. Run the build script first.`;
     state.records = [];
+  }
+}
+
+async function loadProfessorRecords(professorId) {
+  try {
+    const fileProfessorId = encodeURIComponent(professorId);
+    const resp = await fetch(withDataVersion(`../data/professors/${fileProfessorId}.json`), { cache: "no-store" });
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const payload = await resp.json();
+    state.professorRecords = payload.records || [];
+  } catch {
+    professorSummaryText.textContent = `Could not load data for ${state.professorName}. Run the build script first.`;
+    state.professorRecords = [];
+  }
+}
+
+async function loadCourseRecords(courseId) {
+  try {
+    const fileCourseId = encodeURIComponent(courseId);
+    const resp = await fetch(withDataVersion(`../data/courses/${fileCourseId}.json`), { cache: "no-store" });
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const payload = await resp.json();
+    state.courseRecords = payload.records || [];
+  } catch {
+    courseSummaryText.textContent = `Could not load data for ${state.courseName}. Run the build script first.`;
+    state.courseRecords = [];
   }
 }
 
@@ -448,7 +671,7 @@ function refreshFilterOptions() {
 
 function renderRows(filtered) {
   if (!filtered.length) {
-    resultsBody.innerHTML = '<tr><td colspan="5">No matches found for that search.</td></tr>';
+    resultsBody.innerHTML = '<tr><td colspan="6">No matches found for that search.</td></tr>';
     pageText.textContent = "Page 0 of 0";
     prevPageBtn.disabled = true;
     nextPageBtn.disabled = true;
@@ -465,6 +688,7 @@ function renderRows(filtered) {
   resultsBody.innerHTML = page.map(r => `
     <tr>
       <td>${r.course}</td>
+      <td>${r.section}</td>
       <td>${r.courseTitle}</td>
       <td>${r.instructor}</td>
       <td>${getYearLabel(r.term)}</td>
@@ -485,6 +709,106 @@ function updateResults() {
   renderRows(filtered);
 }
 
+function sortProfessorRecords(list) {
+  return [...list].sort((a, b) => {
+    const aKey = termSortKey(a.term);
+    const bKey = termSortKey(b.term);
+    if (aKey.academicYear !== bKey.academicYear) return bKey.academicYear - aKey.academicYear;
+    if (aKey.quarterIndex !== bKey.quarterIndex) return bKey.quarterIndex - aKey.quarterIndex;
+    return byLocale(a.campusName || a.campus, b.campusName || b.campus)
+      || sortCourseCodes(a.course, b.course)
+      || byLocale(a.section, b.section);
+  });
+}
+
+function renderProfessorRows(filtered) {
+  if (!filtered.length) {
+    professorResultsBody.innerHTML = '<tr><td colspan="6">No courses found for this professor.</td></tr>';
+    professorPageText.textContent = 'Page 0 of 0';
+    professorPrevPageBtn.disabled = true;
+    professorNextPageBtn.disabled = true;
+    return;
+  }
+
+  const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
+  if (state.professorPage > totalPages) state.professorPage = totalPages;
+  if (state.professorPage < 1) state.professorPage = 1;
+
+  const start = (state.professorPage - 1) * PAGE_SIZE;
+  const page = filtered.slice(start, start + PAGE_SIZE);
+
+  professorResultsBody.innerHTML = page.map(r => `
+    <tr>
+      <td>${r.campusName || r.campus}</td>
+      <td>${r.course}</td>
+      <td>${r.section}</td>
+      <td>${r.courseTitle}</td>
+      <td>${getYearLabel(r.term)}</td>
+      <td>${getQuarterLabel(r.term)}</td>
+    </tr>
+  `).join("");
+
+  professorPageText.textContent = `Page ${state.professorPage} of ${totalPages}`;
+  professorPrevPageBtn.disabled = state.professorPage <= 1;
+  professorNextPageBtn.disabled = state.professorPage >= totalPages;
+}
+
+function updateProfessorResults() {
+  const filtered = sortProfessorRecords(state.professorRecords);
+  professorSummaryText.textContent = `Showing ${filtered.length} section records for ${state.professorName}.`;
+  renderProfessorRows(filtered);
+}
+
+function sortCourseRecords(list) {
+  return [...list].sort((a, b) => {
+    const aKey = termSortKey(a.term);
+    const bKey = termSortKey(b.term);
+    if (aKey.academicYear !== bKey.academicYear) return bKey.academicYear - aKey.academicYear;
+    if (aKey.quarterIndex !== bKey.quarterIndex) return bKey.quarterIndex - aKey.quarterIndex;
+    return byLocale(a.instructor || "TBA", b.instructor || "TBA")
+      || byLocale(a.section || "", b.section || "");
+  });
+}
+
+function renderCourseRows(filtered) {
+  if (!filtered.length) {
+    courseResultsBody.innerHTML = '<tr><td colspan="7">No offerings found for this course.</td></tr>';
+    coursePageText.textContent = 'Page 0 of 0';
+    coursePrevPageBtn.disabled = true;
+    courseNextPageBtn.disabled = true;
+    return;
+  }
+
+  const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
+  if (state.coursePage > totalPages) state.coursePage = totalPages;
+  if (state.coursePage < 1) state.coursePage = 1;
+
+  const start = (state.coursePage - 1) * PAGE_SIZE;
+  const page = filtered.slice(start, start + PAGE_SIZE);
+
+  courseResultsBody.innerHTML = page.map(r => `
+    <tr>
+      <td>${r.campusName || r.campus}</td>
+      <td>${r.course}</td>
+      <td>${r.section}</td>
+      <td>${r.courseTitle}</td>
+      <td>${r.instructor || 'TBA'}</td>
+      <td>${getYearLabel(r.term)}</td>
+      <td>${getQuarterLabel(r.term)}</td>
+    </tr>
+  `).join("");
+
+  coursePageText.textContent = `Page ${state.coursePage} of ${totalPages}`;
+  coursePrevPageBtn.disabled = state.coursePage <= 1;
+  courseNextPageBtn.disabled = state.coursePage >= totalPages;
+}
+
+function updateCourseResults() {
+  const filtered = sortCourseRecords(state.courseRecords);
+  courseSummaryText.textContent = `Showing ${filtered.length} offerings for ${state.courseName}.`;
+  renderCourseRows(filtered);
+}
+
 // ── Event listeners ────────────────────────────────────────────────────────────
 
 document.getElementById("backToCampus").addEventListener("click", showCampusStep);
@@ -493,11 +817,23 @@ document.getElementById("backToDept").addEventListener("click", () => {
   showDeptStep();
   pushHash(state.campus, null);
 });
+document.getElementById("backToHome").addEventListener("click", showCampusStep);
+document.getElementById("backToHomeFromCourse").addEventListener("click", showCampusStep);
+viewProfessorBtn.addEventListener("click", () => {
+  if (landingProfessorDD.value) selectProfessor(landingProfessorDD.value, true);
+});
+viewCourseBtn.addEventListener("click", () => {
+  if (landingCourseDD.value) selectCourse(landingCourseDD.value, true);
+});
 
 deptSearch.addEventListener("input", () => renderDeptList(deptSearch.value));
 
 prevPageBtn.addEventListener("click", () => { state.currentPage -= 1; updateResults(); });
 nextPageBtn.addEventListener("click", () => { state.currentPage += 1; updateResults(); });
+professorPrevPageBtn.addEventListener("click", () => { state.professorPage -= 1; updateProfessorResults(); });
+professorNextPageBtn.addEventListener("click", () => { state.professorPage += 1; updateProfessorResults(); });
+coursePrevPageBtn.addEventListener("click", () => { state.coursePage -= 1; updateCourseResults(); });
+courseNextPageBtn.addEventListener("click", () => { state.coursePage += 1; updateCourseResults(); });
 
 clearBtn.addEventListener("click", () => {
   courseDD.value    = "";
@@ -513,7 +849,27 @@ clearBtn.addEventListener("click", () => {
 
 async function loadCatalogIndex() {
   try {
-    const resp = await fetch("../data/catalog_index.json");
+    const resp = await fetch(withDataVersion("../data/catalog_index.json"), { cache: "no-store" });
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    return await resp.json();
+  } catch {
+    return null;
+  }
+}
+
+async function loadProfessorIndex() {
+  try {
+    const resp = await fetch(withDataVersion("../data/professor_index.json"), { cache: "no-store" });
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    return await resp.json();
+  } catch {
+    return null;
+  }
+}
+
+async function loadCourseIndex() {
+  try {
+    const resp = await fetch(withDataVersion("../data/course_index.json"), { cache: "no-store" });
     if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
     return await resp.json();
   } catch {
@@ -523,14 +879,24 @@ async function loadCatalogIndex() {
 
 async function start() {
   // Try new multi-campus index first
-  const index = await loadCatalogIndex();
+  const [index, professorIndex, courseIndex] = await Promise.all([
+    loadCatalogIndex(),
+    loadProfessorIndex(),
+    loadCourseIndex(),
+  ]);
 
   if (index && Object.keys(index.campuses || {}).length > 0) {
     state.catalogIndex = index;
+    state.professorIndex = professorIndex;
+    state.courseIndex = courseIndex;
 
     // Check if deep link in hash
-    const { campus, dept } = parseHash();
-    if (dept && campus) {
+    const { campus, dept, professorId, courseId } = parseHash();
+    if (professorId && state.professorIndex) {
+      await selectProfessor(professorId, false);
+    } else if (courseId && state.courseIndex) {
+      await selectCourse(courseId, false);
+    } else if (dept && campus) {
       await selectDept(campus, dept, false);
     } else if (campus) {
       selectCampus(campus, false);
@@ -542,7 +908,7 @@ async function start() {
 
   // Fallback: legacy catalog.json (Bothell CSS only)
   try {
-    const resp = await fetch("../data/catalog.json");
+    const resp = await fetch(withDataVersion("../data/catalog.json"), { cache: "no-store" });
     if (!resp.ok) throw new Error("Failed to load catalog data");
     const payload = await resp.json();
     state.records = payload.records || [];

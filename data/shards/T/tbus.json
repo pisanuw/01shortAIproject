@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T15:51:12Z",
+  "generatedAt": "2026-04-16T02:57:09Z",
   "campus": "T",
   "dept": "tbus",
   "deptName": "Business Administration",
@@ -4431,18 +4431,8 @@
       "term": "AUT2025",
       "course": "T BUS 300",
       "courseTitle": "MANAGING PEOPLE",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tbus",
-      "deptName": "Business Administration",
-      "term": "AUT2025",
-      "course": "T BUS 300",
-      "courseTitle": "MANAGING PEOPLE",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Hernandez,Abel"
     },
     {
       "campus": "T",
@@ -4452,27 +4442,17 @@
       "course": "T BUS 300",
       "courseTitle": "MANAGING PEOPLE",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Hernandez,Abel"
     },
     {
       "campus": "T",
       "dept": "tbus",
       "deptName": "Business Administration",
       "term": "AUT2025",
-      "course": "T BUS 301",
-      "courseTitle": "QUANT METHODS",
+      "course": "T BUS 300",
+      "courseTitle": "MANAGING PEOPLE",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tbus",
-      "deptName": "Business Administration",
-      "term": "AUT2025",
-      "course": "T BUS 301",
-      "courseTitle": "QUANT METHODS",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Potter,Jennifer"
     },
     {
       "campus": "T",
@@ -4482,7 +4462,27 @@
       "course": "T BUS 301",
       "courseTitle": "QUANT METHODS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Huang,Su"
+    },
+    {
+      "campus": "T",
+      "dept": "tbus",
+      "deptName": "Business Administration",
+      "term": "AUT2025",
+      "course": "T BUS 301",
+      "courseTitle": "QUANT METHODS",
+      "section": "A",
+      "instructor": "Ni,Jinlan"
+    },
+    {
+      "campus": "T",
+      "dept": "tbus",
+      "deptName": "Business Administration",
+      "term": "AUT2025",
+      "course": "T BUS 301",
+      "courseTitle": "QUANT METHODS",
+      "section": "B",
+      "instructor": "Ni,Jinlan"
     },
     {
       "campus": "T",
@@ -4492,7 +4492,7 @@
       "course": "T BUS 310",
       "courseTitle": "EFFECTIVE MNGL COMM",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Stone Fazio,Lisa"
     },
     {
       "campus": "T",
@@ -4531,18 +4531,8 @@
       "term": "AUT2025",
       "course": "T BUS 320",
       "courseTitle": "INTRO MKTG MGMT",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tbus",
-      "deptName": "Business Administration",
-      "term": "AUT2025",
-      "course": "T BUS 320",
-      "courseTitle": "INTRO MKTG MGMT",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Hill,Benjamin Mako"
     },
     {
       "campus": "T",
@@ -4552,7 +4542,17 @@
       "course": "T BUS 320",
       "courseTitle": "INTRO MKTG MGMT",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Hill,Benjamin Mako"
+    },
+    {
+      "campus": "T",
+      "dept": "tbus",
+      "deptName": "Business Administration",
+      "term": "AUT2025",
+      "course": "T BUS 320",
+      "courseTitle": "INTRO MKTG MGMT",
+      "section": "A",
+      "instructor": "Kucuk,S. Umit"
     },
     {
       "campus": "T",
@@ -4562,7 +4562,7 @@
       "course": "T BUS 330",
       "courseTitle": "INTRO TO INFO TECH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Demirkan,Haluk"
     },
     {
       "campus": "T",
@@ -4572,7 +4572,7 @@
       "course": "T BUS 350",
       "courseTitle": "BUSINESS FINANCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chen,Ben"
     },
     {
       "campus": "T",
@@ -4582,7 +4582,7 @@
       "course": "T BUS 350",
       "courseTitle": "BUSINESS FINANCE",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Chen,Ben"
     },
     {
       "campus": "T",
@@ -4632,7 +4632,7 @@
       "course": "T BUS 500",
       "courseTitle": "DATA ANYLS MANAGERS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Norman,Stephen"
     },
     {
       "campus": "T",
@@ -4642,7 +4642,7 @@
       "course": "T BUS 507",
       "courseTitle": "LEAD PPL, TEAM & CUL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Eberly,Marion B."
     },
     {
       "campus": "T",
@@ -4652,7 +4652,7 @@
       "course": "T BUS 510",
       "courseTitle": "QUANTITATIVE LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "So,Hui Suk"
     },
     {
       "campus": "T",
@@ -4662,7 +4662,7 @@
       "course": "T BUS 511",
       "courseTitle": "LEADERSHIP LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wilkinson,Richard"
     },
     {
       "campus": "T",
@@ -4692,27 +4692,7 @@
       "course": "T BUS 102",
       "courseTitle": "BUSINESS & SOCIETY",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tbus",
-      "deptName": "Business Administration",
-      "term": "WIN2026",
-      "course": "T BUS 300",
-      "courseTitle": "MANAGING PEOPLE",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tbus",
-      "deptName": "Business Administration",
-      "term": "WIN2026",
-      "course": "T BUS 300",
-      "courseTitle": "MANAGING PEOPLE",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Ferrer,Jorge"
     },
     {
       "campus": "T",
@@ -4722,27 +4702,27 @@
       "course": "T BUS 300",
       "courseTitle": "MANAGING PEOPLE",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Glein,Beth"
     },
     {
       "campus": "T",
       "dept": "tbus",
       "deptName": "Business Administration",
       "term": "WIN2026",
-      "course": "T BUS 301",
-      "courseTitle": "QUANT METHODS",
+      "course": "T BUS 300",
+      "courseTitle": "MANAGING PEOPLE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jago,Arthur"
     },
     {
       "campus": "T",
       "dept": "tbus",
       "deptName": "Business Administration",
       "term": "WIN2026",
-      "course": "T BUS 301",
-      "courseTitle": "QUANT METHODS",
+      "course": "T BUS 300",
+      "courseTitle": "MANAGING PEOPLE",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Jago,Arthur"
     },
     {
       "campus": "T",
@@ -4752,7 +4732,27 @@
       "course": "T BUS 301",
       "courseTitle": "QUANT METHODS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Boloori,Alireza"
+    },
+    {
+      "campus": "T",
+      "dept": "tbus",
+      "deptName": "Business Administration",
+      "term": "WIN2026",
+      "course": "T BUS 301",
+      "courseTitle": "QUANT METHODS",
+      "section": "A",
+      "instructor": "Ni,Jinlan"
+    },
+    {
+      "campus": "T",
+      "dept": "tbus",
+      "deptName": "Business Administration",
+      "term": "WIN2026",
+      "course": "T BUS 301",
+      "courseTitle": "QUANT METHODS",
+      "section": "B",
+      "instructor": "Ni,Jinlan"
     },
     {
       "campus": "T",
@@ -4762,7 +4762,7 @@
       "course": "T BUS 310",
       "courseTitle": "EFFECTIVE MNGL COMM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hernandez,Abel"
     },
     {
       "campus": "T",
@@ -4792,7 +4792,7 @@
       "course": "T BUS 320",
       "courseTitle": "INTRO MKTG MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Haghighi,Nasir"
     },
     {
       "campus": "T",
@@ -4802,7 +4802,7 @@
       "course": "T BUS 320",
       "courseTitle": "INTRO MKTG MGMT",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Haghighi,Nasir"
     },
     {
       "campus": "T",
@@ -4812,7 +4812,7 @@
       "course": "T BUS 320",
       "courseTitle": "INTRO MKTG MGMT",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Haghighi,Nasir"
     },
     {
       "campus": "T",
@@ -4822,7 +4822,7 @@
       "course": "T BUS 330",
       "courseTitle": "INTRO TO INFO TECH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Demirkan,Haluk"
     },
     {
       "campus": "T",
@@ -4832,7 +4832,7 @@
       "course": "T BUS 330",
       "courseTitle": "INTRO TO INFO TECH",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Demirkan,Haluk"
     },
     {
       "campus": "T",
@@ -4842,7 +4842,7 @@
       "course": "T BUS 350",
       "courseTitle": "BUSINESS FINANCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Borough-Kim,David L"
     },
     {
       "campus": "T",
@@ -4852,7 +4852,7 @@
       "course": "T BUS 350",
       "courseTitle": "BUSINESS FINANCE",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Borough-Kim,David L"
     },
     {
       "campus": "T",
@@ -4862,7 +4862,7 @@
       "course": "T BUS 350",
       "courseTitle": "BUSINESS FINANCE",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Huang,Su"
     },
     {
       "campus": "T",
@@ -4902,7 +4902,7 @@
       "course": "T BUS 503",
       "courseTitle": "FIN REPORTING & ANLY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wu,Juan"
     },
     {
       "campus": "T",
@@ -4912,7 +4912,7 @@
       "course": "T BUS 506",
       "courseTitle": "STRAT, VALUE & SUST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Shin,S. Joseph"
     },
     {
       "campus": "T",
@@ -4922,7 +4922,7 @@
       "course": "T BUS 530",
       "courseTitle": "OPERATIONS MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Easton,Nicolas Z"
     },
     {
       "campus": "T",
@@ -4952,7 +4952,7 @@
       "course": "T BUS 590",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McGoogan,Tom"
     },
     {
       "campus": "T",
@@ -4962,7 +4962,7 @@
       "course": "T BUS 101",
       "courseTitle": "INTRO TO BUSINESS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jain,S"
     },
     {
       "campus": "T",
@@ -4972,7 +4972,7 @@
       "course": "T BUS 101",
       "courseTitle": "INTRO TO BUSINESS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Jain,S"
     },
     {
       "campus": "T",
@@ -4982,27 +4982,7 @@
       "course": "T BUS 102",
       "courseTitle": "BUSINESS & SOCIETY",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tbus",
-      "deptName": "Business Administration",
-      "term": "SPR2026",
-      "course": "T BUS 300",
-      "courseTitle": "MANAGING PEOPLE",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tbus",
-      "deptName": "Business Administration",
-      "term": "SPR2026",
-      "course": "T BUS 300",
-      "courseTitle": "MANAGING PEOPLE",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Jain,S"
     },
     {
       "campus": "T",
@@ -5012,7 +4992,27 @@
       "course": "T BUS 300",
       "courseTitle": "MANAGING PEOPLE",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Hernandez,Abel"
+    },
+    {
+      "campus": "T",
+      "dept": "tbus",
+      "deptName": "Business Administration",
+      "term": "SPR2026",
+      "course": "T BUS 300",
+      "courseTitle": "MANAGING PEOPLE",
+      "section": "A",
+      "instructor": "Potter,Jennifer"
+    },
+    {
+      "campus": "T",
+      "dept": "tbus",
+      "deptName": "Business Administration",
+      "term": "SPR2026",
+      "course": "T BUS 300",
+      "courseTitle": "MANAGING PEOPLE",
+      "section": "B",
+      "instructor": "Potter,Jennifer"
     },
     {
       "campus": "T",
@@ -5022,7 +5022,7 @@
       "course": "T BUS 301",
       "courseTitle": "QUANT METHODS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Huang,Su"
     },
     {
       "campus": "T",
@@ -5052,7 +5052,7 @@
       "course": "T BUS 320",
       "courseTitle": "INTRO MKTG MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kucuk,S. Umit"
     },
     {
       "campus": "T",
@@ -5062,7 +5062,7 @@
       "course": "T BUS 330",
       "courseTitle": "INTRO TO INFO TECH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Davalos,Sergio V."
     },
     {
       "campus": "T",
@@ -5072,7 +5072,7 @@
       "course": "T BUS 330",
       "courseTitle": "INTRO TO INFO TECH",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Lee,Brian B"
     },
     {
       "campus": "T",
@@ -5082,7 +5082,7 @@
       "course": "T BUS 350",
       "courseTitle": "BUSINESS FINANCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "So,Hui Suk"
     },
     {
       "campus": "T",
@@ -5092,7 +5092,7 @@
       "course": "T BUS 350",
       "courseTitle": "BUSINESS FINANCE",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "So,Hui Suk"
     },
     {
       "campus": "T",
@@ -5152,7 +5152,7 @@
       "course": "T BUS 501",
       "courseTitle": "MANAGERIAL FINANCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "So,Hui Suk"
     },
     {
       "campus": "T",
@@ -5162,7 +5162,7 @@
       "course": "T BUS 504",
       "courseTitle": "STRAT MARKETING MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jindal,Rupinder P"
     },
     {
       "campus": "T",
@@ -5172,7 +5172,7 @@
       "course": "T BUS 508",
       "courseTitle": "SYSTEMS THINKING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Everill,Thomas"
     },
     {
       "campus": "T",
@@ -5202,7 +5202,7 @@
       "course": "T BUS 570",
       "courseTitle": "DRIVING CHG & INNOV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jago,Arthur"
     },
     {
       "campus": "T",
@@ -5212,7 +5212,7 @@
       "course": "T BUS 590",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lee,Brian B"
     },
     {
       "campus": "T",
@@ -5222,7 +5222,7 @@
       "course": "T BUS 590",
       "courseTitle": "SPECIAL TOPICS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Lee,Brian B"
     }
   ]
 }

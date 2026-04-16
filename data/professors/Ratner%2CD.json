@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Ratner%2CD",
+  "professor": "Ratner,D",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "SPR2023",
+      "course": "BIOEN 315",
+      "courseTitle": "BIOCH MOLEC BIOE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "SPR2021",
+      "course": "BIOEN 315",
+      "courseTitle": "BIOCH MOLEC BIOE",
+      "section": "A"
+    }
+  ]
+}

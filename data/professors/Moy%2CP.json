@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Moy%2CP",
+  "professor": "Moy,P",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "polisci",
+      "deptName": "Political Science",
+      "term": "SUM2021",
+      "course": "POL S 452",
+      "courseTitle": "MASS MEDIA PUB OPIN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "SUM2021",
+      "course": "COM 414",
+      "courseTitle": "MASS MEDIA PUB OPIN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "WIN2021",
+      "course": "COM 594",
+      "courseTitle": "PROFSNL PROSEMINAR",
+      "section": "A"
+    }
+  ]
+}

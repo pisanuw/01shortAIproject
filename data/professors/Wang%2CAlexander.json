@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Wang%2CAlexander",
+  "professor": "Wang,Alexander",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2023",
+      "course": "MATH 340",
+      "courseTitle": "ABSTRACT LINER ALG",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SPR2023",
+      "course": "MATH 224",
+      "courseTitle": "ADV MULTIVAR CALC",
+      "section": "E"
+    }
+  ]
+}

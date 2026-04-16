@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:58Z",
+  "generatedAt": "2026-04-16T02:57:13Z",
   "campus": "S",
   "dept": "qmeth",
   "deptName": "Quantitative Methods",
@@ -12,7 +12,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Madunic,M"
     },
     {
       "campus": "S",
@@ -22,7 +22,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Madunic,M"
     },
     {
       "campus": "S",
@@ -142,7 +142,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -152,7 +152,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -302,7 +302,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -312,7 +312,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -378,10 +378,60 @@
       "campus": "S",
       "dept": "qmeth",
       "deptName": "Quantitative Methods",
-      "term": "AUT2021",
+      "term": "SUM2021",
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "A",
+      "instructor": "Madunic,Marko"
+    },
+    {
+      "campus": "S",
+      "dept": "qmeth",
+      "deptName": "Quantitative Methods",
+      "term": "SUM2021",
+      "course": "QMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "qmeth",
+      "deptName": "Quantitative Methods",
+      "term": "SUM2021",
+      "course": "QMETH 505",
+      "courseTitle": "DEC MODELING",
+      "section": "A",
+      "instructor": "Hillier,Mark S"
+    },
+    {
+      "campus": "S",
+      "dept": "qmeth",
+      "deptName": "Quantitative Methods",
+      "term": "SUM2021",
+      "course": "QMETH 510",
+      "courseTitle": "DATA ANALYSIS",
+      "section": "A",
+      "instructor": "Sirichakwal,Issariya"
+    },
+    {
+      "campus": "S",
+      "dept": "qmeth",
+      "deptName": "Quantitative Methods",
+      "term": "SUM2021",
+      "course": "QMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "qmeth",
+      "deptName": "Quantitative Methods",
+      "term": "SUM2021",
+      "course": "QMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
       "instructor": "TBA"
     },
     {
@@ -391,8 +441,18 @@
       "term": "AUT2021",
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
+      "section": "A",
+      "instructor": "Madunic,M"
+    },
+    {
+      "campus": "S",
+      "dept": "qmeth",
+      "deptName": "Quantitative Methods",
+      "term": "AUT2021",
+      "course": "QMETH 201",
+      "courseTitle": "INTRO TO STAT MTHDS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Madunic,M"
     },
     {
       "campus": "S",
@@ -482,7 +542,7 @@
       "course": "QMETH 599",
       "courseTitle": "OPERATIONS RESEARCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ananthakrishnan,Uttara Mad"
     },
     {
       "campus": "S",
@@ -512,7 +572,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -522,7 +582,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -672,7 +732,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -682,7 +742,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -812,7 +872,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -822,7 +882,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -942,7 +1002,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -952,7 +1012,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -1098,10 +1158,130 @@
       "campus": "S",
       "dept": "qmeth",
       "deptName": "Quantitative Methods",
-      "term": "AUT2023",
+      "term": "SPR2023",
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "A",
+      "instructor": "Madunic,Marko"
+    },
+    {
+      "campus": "S",
+      "dept": "qmeth",
+      "deptName": "Quantitative Methods",
+      "term": "SPR2023",
+      "course": "QMETH 201",
+      "courseTitle": "INTRO TO STAT MTHDS",
+      "section": "B",
+      "instructor": "Madunic,Marko"
+    },
+    {
+      "campus": "S",
+      "dept": "qmeth",
+      "deptName": "Quantitative Methods",
+      "term": "SPR2023",
+      "course": "QMETH 450",
+      "courseTitle": "SPREADSHEET MODELS",
+      "section": "A",
+      "instructor": "Hillier,Mark S"
+    },
+    {
+      "campus": "S",
+      "dept": "qmeth",
+      "deptName": "Quantitative Methods",
+      "term": "SPR2023",
+      "course": "QMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "qmeth",
+      "deptName": "Quantitative Methods",
+      "term": "SPR2023",
+      "course": "QMETH 505",
+      "courseTitle": "DEC MODELING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "qmeth",
+      "deptName": "Quantitative Methods",
+      "term": "SPR2023",
+      "course": "QMETH 599",
+      "courseTitle": "OPERATIONS RESEARCH",
+      "section": "A",
+      "instructor": "Lee,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "qmeth",
+      "deptName": "Quantitative Methods",
+      "term": "SPR2023",
+      "course": "QMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "qmeth",
+      "deptName": "Quantitative Methods",
+      "term": "SPR2023",
+      "course": "QMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "qmeth",
+      "deptName": "Quantitative Methods",
+      "term": "SUM2023",
+      "course": "QMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "qmeth",
+      "deptName": "Quantitative Methods",
+      "term": "SUM2023",
+      "course": "QMETH 500",
+      "courseTitle": "STAT ANLYS FOR MGMT",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "qmeth",
+      "deptName": "Quantitative Methods",
+      "term": "SUM2023",
+      "course": "QMETH 505",
+      "courseTitle": "DEC MODELING",
+      "section": "A",
+      "instructor": "Hillier,Mark S"
+    },
+    {
+      "campus": "S",
+      "dept": "qmeth",
+      "deptName": "Quantitative Methods",
+      "term": "SUM2023",
+      "course": "QMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "qmeth",
+      "deptName": "Quantitative Methods",
+      "term": "SUM2023",
+      "course": "QMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
       "instructor": "TBA"
     },
     {
@@ -1111,8 +1291,18 @@
       "term": "AUT2023",
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
+      "section": "A",
+      "instructor": "Madunic,Marko"
+    },
+    {
+      "campus": "S",
+      "dept": "qmeth",
+      "deptName": "Quantitative Methods",
+      "term": "AUT2023",
+      "course": "QMETH 201",
+      "courseTitle": "INTRO TO STAT MTHDS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -1242,7 +1432,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -1252,7 +1442,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -1402,7 +1592,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -1412,7 +1602,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -1541,8 +1731,8 @@
       "term": "AUT2024",
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Gao,Frank"
     },
     {
       "campus": "S",
@@ -1551,8 +1741,8 @@
       "term": "AUT2024",
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -1682,7 +1872,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -1692,7 +1882,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -1842,7 +2032,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -1852,7 +2042,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -1982,7 +2172,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -1992,7 +2182,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -2002,7 +2192,7 @@
       "course": "QMETH 450",
       "courseTitle": "SPREADSHEET MODELS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -2082,7 +2272,7 @@
       "course": "QMETH 580",
       "courseTitle": "MATH PROGRAMMING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wagner,Michael R"
     },
     {
       "campus": "S",
@@ -2092,7 +2282,7 @@
       "course": "QMETH 599",
       "courseTitle": "OPERATIONS RESEARCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nageswaran,Leela"
     },
     {
       "campus": "S",
@@ -2122,7 +2312,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -2132,7 +2322,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -2182,7 +2372,7 @@
       "course": "QMETH 592",
       "courseTitle": "STOCHASTIC MODELS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Moinzadeh,Kamran"
     },
     {
       "campus": "S",
@@ -2192,7 +2382,7 @@
       "course": "QMETH 599",
       "courseTitle": "OPERATIONS RESEARCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hwang,Elina"
     },
     {
       "campus": "S",
@@ -2222,7 +2412,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -2232,7 +2422,7 @@
       "course": "QMETH 201",
       "courseTitle": "INTRO TO STAT MTHDS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Madunic,Marko"
     },
     {
       "campus": "S",
@@ -2242,7 +2432,7 @@
       "course": "QMETH 450",
       "courseTitle": "SPREADSHEET MODELS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wagner,Michael R"
     },
     {
       "campus": "S",
@@ -2272,7 +2462,7 @@
       "course": "QMETH 599",
       "courseTitle": "OPERATIONS RESEARCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ananthakrishnan,Uttara Mad"
     },
     {
       "campus": "S",

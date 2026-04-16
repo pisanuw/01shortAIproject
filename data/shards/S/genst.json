@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:56Z",
+  "generatedAt": "2026-04-16T02:57:11Z",
   "campus": "S",
   "dept": "genst",
   "deptName": "General Studies",
@@ -381,6 +381,16 @@
       "term": "AUT2020",
       "course": "GEN ST 297",
       "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "J",
+      "instructor": "Antia,Meher"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2020",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
       "section": "X",
       "instructor": "Arguetty,D"
     },
@@ -451,6 +461,26 @@
       "term": "AUT2020",
       "course": "GEN ST 297",
       "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "M",
+      "instructor": "POUX,D"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2020",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "N",
+      "instructor": "POUX,D"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2020",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
       "section": "A",
       "instructor": "TBA"
     },
@@ -461,37 +491,7 @@
       "term": "AUT2020",
       "course": "GEN ST 297",
       "courseTitle": "UNDERGRAD SEMINAR",
-      "section": "J",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "genst",
-      "deptName": "General Studies",
-      "term": "AUT2020",
-      "course": "GEN ST 297",
-      "courseTitle": "UNDERGRAD SEMINAR",
       "section": "K",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "genst",
-      "deptName": "General Studies",
-      "term": "AUT2020",
-      "course": "GEN ST 297",
-      "courseTitle": "UNDERGRAD SEMINAR",
-      "section": "M",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "genst",
-      "deptName": "General Studies",
-      "term": "AUT2020",
-      "course": "GEN ST 297",
-      "courseTitle": "UNDERGRAD SEMINAR",
-      "section": "N",
       "instructor": "TBA"
     },
     {
@@ -671,6 +671,16 @@
       "term": "AUT2020",
       "course": "GEN ST 391",
       "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "I",
+      "instructor": "Harris,Jennifer"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2020",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
       "section": "A",
       "instructor": "TBA"
     },
@@ -732,16 +742,6 @@
       "course": "GEN ST 391",
       "courseTitle": "SUP STDY SEL FIELDS",
       "section": "H",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "genst",
-      "deptName": "General Studies",
-      "term": "AUT2020",
-      "course": "GEN ST 391",
-      "courseTitle": "SUP STDY SEL FIELDS",
-      "section": "I",
       "instructor": "TBA"
     },
     {
@@ -1238,6 +1238,466 @@
       "campus": "S",
       "dept": "genst",
       "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 197",
+      "courseTitle": "FRESHMAN SEMINAR",
+      "section": "B",
+      "instructor": "Oehme,Annegret"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 197",
+      "courseTitle": "FRESHMAN SEMINAR",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 197",
+      "courseTitle": "FRESHMAN SEMINAR",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 197",
+      "courseTitle": "FRESHMAN SEMINAR",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 197",
+      "courseTitle": "FRESHMAN SEMINAR",
+      "section": "I",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 197",
+      "courseTitle": "FRESHMAN SEMINAR",
+      "section": "D",
+      "instructor": "Vallier,John"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "G",
+      "instructor": "Arguetty he.him,Danny"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "J",
+      "instructor": "Arguetty he.him,Danny"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "K",
+      "instructor": "Mayer,Kyla"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "L",
+      "instructor": "Mayer,Kyla"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "F",
+      "instructor": "POUX,DANIEL"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "E",
+      "instructor": "Santiago,Luis"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "I",
+      "instructor": "Schmidt,Sean G."
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 346",
+      "courseTitle": "FIELDWK EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 347",
+      "courseTitle": "FIELDWK-EDUCATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 347",
+      "courseTitle": "FIELDWK-EDUCATION",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 349",
+      "courseTitle": "FIELDWK,SPECIAL",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 349",
+      "courseTitle": "FIELDWK,SPECIAL",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 350",
+      "courseTitle": "INDEPENDENT FLDWK",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 350",
+      "courseTitle": "INDEPENDENT FLDWK",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "M",
+      "instructor": "Lo,Francesca C."
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "I",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "J",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "K",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 470",
+      "courseTitle": "UG PEER INSTR PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 470",
+      "courseTitle": "UG PEER INSTR PRACT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 470",
+      "courseTitle": "UG PEER INSTR PRACT",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 470",
+      "courseTitle": "UG PEER INSTR PRACT",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 470",
+      "courseTitle": "UG PEER INSTR PRACT",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 470",
+      "courseTitle": "UG PEER INSTR PRACT",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 470",
+      "courseTitle": "UG PEER INSTR PRACT",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 470",
+      "courseTitle": "UG PEER INSTR PRACT",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2021",
+      "course": "GEN ST 470",
+      "courseTitle": "UG PEER INSTR PRACT",
+      "section": "I",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SUM2021",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "A",
+      "instructor": "Schmidt,Sean G."
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SUM2021",
+      "course": "GEN ST 350",
+      "courseTitle": "INDEPENDENT FLDWK",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SUM2021",
+      "course": "GEN ST 350",
+      "courseTitle": "INDEPENDENT FLDWK",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SUM2021",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SUM2021",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SUM2021",
+      "course": "GEN ST 470",
+      "courseTitle": "UG PEER INSTR PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
       "term": "AUT2021",
       "course": "GEN ST 105",
       "courseTitle": "INTRO LIBERAL STDY",
@@ -1621,6 +2081,26 @@
       "term": "AUT2021",
       "course": "GEN ST 297",
       "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "M",
+      "instructor": "POUX,D"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2021",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "N",
+      "instructor": "POUX,D"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2021",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
       "section": "Z",
       "instructor": "Schmidt,Sean G."
     },
@@ -1642,26 +2122,6 @@
       "course": "GEN ST 297",
       "courseTitle": "UNDERGRAD SEMINAR",
       "section": "K",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "genst",
-      "deptName": "General Studies",
-      "term": "AUT2021",
-      "course": "GEN ST 297",
-      "courseTitle": "UNDERGRAD SEMINAR",
-      "section": "M",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "genst",
-      "deptName": "General Studies",
-      "term": "AUT2021",
-      "course": "GEN ST 297",
-      "courseTitle": "UNDERGRAD SEMINAR",
-      "section": "N",
       "instructor": "TBA"
     },
     {
@@ -1821,6 +2281,26 @@
       "term": "AUT2021",
       "course": "GEN ST 391",
       "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "I",
+      "instructor": "Pierszalowski,Sophie Penny"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2021",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "J",
+      "instructor": "Pierszalowski,Sophie Penny"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2021",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
       "section": "A",
       "instructor": "TBA"
     },
@@ -1882,26 +2362,6 @@
       "course": "GEN ST 391",
       "courseTitle": "SUP STDY SEL FIELDS",
       "section": "H",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "genst",
-      "deptName": "General Studies",
-      "term": "AUT2021",
-      "course": "GEN ST 391",
-      "courseTitle": "SUP STDY SEL FIELDS",
-      "section": "I",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "genst",
-      "deptName": "General Studies",
-      "term": "AUT2021",
-      "course": "GEN ST 391",
-      "courseTitle": "SUP STDY SEL FIELDS",
-      "section": "J",
       "instructor": "TBA"
     },
     {
@@ -2321,6 +2781,16 @@
       "term": "WIN2022",
       "course": "GEN ST 391",
       "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "D",
+      "instructor": "Pierszalowski,Sophie Penny"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "WIN2022",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
       "section": "A",
       "instructor": "TBA"
     },
@@ -2342,16 +2812,6 @@
       "course": "GEN ST 391",
       "courseTitle": "SUP STDY SEL FIELDS",
       "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "genst",
-      "deptName": "General Studies",
-      "term": "WIN2022",
-      "course": "GEN ST 391",
-      "courseTitle": "SUP STDY SEL FIELDS",
-      "section": "D",
       "instructor": "TBA"
     },
     {
@@ -2432,6 +2892,356 @@
       "course": "GEN ST 470",
       "courseTitle": "UG PEER INSTR PRACT",
       "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 197",
+      "courseTitle": "FRESHMAN SEMINAR",
+      "section": "A",
+      "instructor": "Oehme,Annegret"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 197",
+      "courseTitle": "FRESHMAN SEMINAR",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 197",
+      "courseTitle": "FRESHMAN SEMINAR",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "G",
+      "instructor": "Eli,Kat"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "J",
+      "instructor": "Eli,Kat"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "F",
+      "instructor": "POUX,D"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "E",
+      "instructor": "Santiago,L"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "I",
+      "instructor": "Schmidt,Sean G."
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "K",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "L",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "M",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 346",
+      "courseTitle": "FIELDWK EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 347",
+      "courseTitle": "FIELDWK-EDUCATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 347",
+      "courseTitle": "FIELDWK-EDUCATION",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 349",
+      "courseTitle": "FIELDWK,SPECIAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 349",
+      "courseTitle": "FIELDWK,SPECIAL",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 349",
+      "courseTitle": "FIELDWK,SPECIAL",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 350",
+      "courseTitle": "INDEPENDENT FLDWK",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 350",
+      "courseTitle": "INDEPENDENT FLDWK",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "I",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "J",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "K",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "L",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 470",
+      "courseTitle": "UG PEER INSTR PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 470",
+      "courseTitle": "UG PEER INSTR PRACT",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 470",
+      "courseTitle": "UG PEER INSTR PRACT",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 470",
+      "courseTitle": "UG PEER INSTR PRACT",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2022",
+      "course": "GEN ST 470",
+      "courseTitle": "UG PEER INSTR PRACT",
+      "section": "G",
       "instructor": "TBA"
     },
     {
@@ -2811,18 +3621,8 @@
       "term": "AUT2022",
       "course": "GEN ST 297",
       "courseTitle": "UNDERGRAD SEMINAR",
-      "section": "L",
-      "instructor": "Bellman,Scott"
-    },
-    {
-      "campus": "S",
-      "dept": "genst",
-      "deptName": "General Studies",
-      "term": "AUT2022",
-      "course": "GEN ST 297",
-      "courseTitle": "UNDERGRAD SEMINAR",
       "section": "X",
-      "instructor": "Duttchoudhury,Sasha"
+      "instructor": "A Duttchoudhury,Sasha"
     },
     {
       "campus": "S",
@@ -2832,7 +3632,17 @@
       "course": "GEN ST 297",
       "courseTitle": "UNDERGRAD SEMINAR",
       "section": "Y",
-      "instructor": "Duttchoudhury,Sasha"
+      "instructor": "A Duttchoudhury,Sasha"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2022",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "L",
+      "instructor": "Bellman,Scott"
     },
     {
       "campus": "S",
@@ -2871,26 +3681,6 @@
       "term": "AUT2022",
       "course": "GEN ST 297",
       "courseTitle": "UNDERGRAD SEMINAR",
-      "section": "M",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "genst",
-      "deptName": "General Studies",
-      "term": "AUT2022",
-      "course": "GEN ST 297",
-      "courseTitle": "UNDERGRAD SEMINAR",
-      "section": "N",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "genst",
-      "deptName": "General Studies",
-      "term": "AUT2022",
-      "course": "GEN ST 297",
-      "courseTitle": "UNDERGRAD SEMINAR",
       "section": "Q",
       "instructor": "TBA"
     },
@@ -2913,6 +3703,26 @@
       "courseTitle": "UNDERGRAD SEMINAR",
       "section": "S",
       "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2022",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "M",
+      "instructor": "Wood,Meaghan"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2022",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "N",
+      "instructor": "Wood,Meaghan"
     },
     {
       "campus": "S",
@@ -3041,6 +3851,16 @@
       "term": "AUT2022",
       "course": "GEN ST 391",
       "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "I",
+      "instructor": "Pierszalowski,Sophie Penny"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2022",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
       "section": "A",
       "instructor": "TBA"
     },
@@ -3102,16 +3922,6 @@
       "course": "GEN ST 391",
       "courseTitle": "SUP STDY SEL FIELDS",
       "section": "H",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "genst",
-      "deptName": "General Studies",
-      "term": "AUT2022",
-      "course": "GEN ST 391",
-      "courseTitle": "SUP STDY SEL FIELDS",
-      "section": "I",
       "instructor": "TBA"
     },
     {
@@ -3571,6 +4381,16 @@
       "term": "SPR2023",
       "course": "GEN ST 297",
       "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "J",
+      "instructor": "A Duttchoudhury,Sasha"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2023",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
       "section": "G",
       "instructor": "Duttchoudhury,Sasha"
     },
@@ -3581,8 +4401,8 @@
       "term": "SPR2023",
       "course": "GEN ST 297",
       "courseTitle": "UNDERGRAD SEMINAR",
-      "section": "J",
-      "instructor": "Duttchoudhury,Sasha"
+      "section": "K",
+      "instructor": "Marriott,L"
     },
     {
       "campus": "S",
@@ -3621,16 +4441,6 @@
       "term": "SPR2023",
       "course": "GEN ST 297",
       "courseTitle": "UNDERGRAD SEMINAR",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "genst",
-      "deptName": "General Studies",
-      "term": "SPR2023",
-      "course": "GEN ST 297",
-      "courseTitle": "UNDERGRAD SEMINAR",
       "section": "C",
       "instructor": "TBA"
     },
@@ -3651,7 +4461,7 @@
       "term": "SPR2023",
       "course": "GEN ST 297",
       "courseTitle": "UNDERGRAD SEMINAR",
-      "section": "K",
+      "section": "N",
       "instructor": "TBA"
     },
     {
@@ -3661,8 +4471,8 @@
       "term": "SPR2023",
       "course": "GEN ST 297",
       "courseTitle": "UNDERGRAD SEMINAR",
-      "section": "N",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Weng,Yen-Chu"
     },
     {
       "campus": "S",
@@ -4001,7 +4811,7 @@
       "term": "AUT2023",
       "course": "GEN ST 151",
       "courseTitle": "PRE-HEALTH EXPLORE",
-      "section": "A",
+      "section": "B",
       "instructor": "TBA"
     },
     {
@@ -4011,8 +4821,8 @@
       "term": "AUT2023",
       "course": "GEN ST 151",
       "courseTitle": "PRE-HEALTH EXPLORE",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Wood,Meaghan"
     },
     {
       "campus": "S",
@@ -5212,7 +6022,7 @@
       "course": "GEN ST 220",
       "courseTitle": "INTEGRATED LRNG TPCS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mayer,Kyla"
     },
     {
       "campus": "S",
@@ -5292,7 +6102,7 @@
       "course": "GEN ST 297",
       "courseTitle": "UNDERGRAD SEMINAR",
       "section": "J",
-      "instructor": "Kennedy,Megan M."
+      "instructor": "A Kennedy,Megan M."
     },
     {
       "campus": "S",
@@ -5601,6 +6411,686 @@
       "term": "SUM2024",
       "course": "GEN ST 470",
       "courseTitle": "ADV PEER EDUCTR PRAC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 105",
+      "courseTitle": "INTRO LIBERAL STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 105",
+      "courseTitle": "INTRO LIBERAL STDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 105",
+      "courseTitle": "INTRO LIBERAL STDY",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 150",
+      "courseTitle": "EXPLORING MAJORS",
+      "section": "B",
+      "instructor": "Feetham,Dan"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 150",
+      "courseTitle": "EXPLORING MAJORS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 170",
+      "courseTitle": "PEER EDUCATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 180",
+      "courseTitle": "ACADEMIC TRANSITIONS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 180",
+      "courseTitle": "ACADEMIC TRANSITIONS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 180",
+      "courseTitle": "ACADEMIC TRANSITIONS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 181",
+      "courseTitle": "ACADEMIC EXPLORATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 181",
+      "courseTitle": "ACADEMIC EXPLORATION",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 181",
+      "courseTitle": "ACADEMIC EXPLORATION",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 199",
+      "courseTitle": "UNIV COMMUNITY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 199",
+      "courseTitle": "UNIV COMMUNITY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 199",
+      "courseTitle": "UNIV COMMUNITY",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 199",
+      "courseTitle": "UNIV COMMUNITY",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 199",
+      "courseTitle": "UNIV COMMUNITY",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 199",
+      "courseTitle": "UNIV COMMUNITY",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 199",
+      "courseTitle": "UNIV COMMUNITY",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 199",
+      "courseTitle": "UNIV COMMUNITY",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 199",
+      "courseTitle": "UNIV COMMUNITY",
+      "section": "I",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 199",
+      "courseTitle": "UNIV COMMUNITY",
+      "section": "J",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 199",
+      "courseTitle": "UNIV COMMUNITY",
+      "section": "K",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 199",
+      "courseTitle": "UNIV COMMUNITY",
+      "section": "M",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 199",
+      "courseTitle": "UNIV COMMUNITY",
+      "section": "O",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 199",
+      "courseTitle": "UNIV COMMUNITY",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 199",
+      "courseTitle": "UNIV COMMUNITY",
+      "section": "Q",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 199",
+      "courseTitle": "UNIV COMMUNITY",
+      "section": "R",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 199",
+      "courseTitle": "UNIV COMMUNITY",
+      "section": "S",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 199",
+      "courseTitle": "UNIV COMMUNITY",
+      "section": "T",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 205",
+      "courseTitle": "ACADEMIC DEVELOPMENT",
+      "section": "A",
+      "instructor": "Zhu,Dan"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 240",
+      "courseTitle": "CMTY ENGAGE SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 263",
+      "courseTitle": "ADV DISCOVERY SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 263",
+      "courseTitle": "ADV DISCOVERY SEM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 263",
+      "courseTitle": "ADV DISCOVERY SEM",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 263",
+      "courseTitle": "ADV DISCOVERY SEM",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 263",
+      "courseTitle": "ADV DISCOVERY SEM",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 263",
+      "courseTitle": "ADV DISCOVERY SEM",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 270",
+      "courseTitle": "PEER EDUCATOR PRACT",
+      "section": "A",
+      "instructor": "Coletta,Meghan"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 270",
+      "courseTitle": "PEER EDUCATOR PRACT",
+      "section": "E",
+      "instructor": "Goodwin,Nick"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 270",
+      "courseTitle": "PEER EDUCATOR PRACT",
+      "section": "D",
+      "instructor": "Henderson,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 270",
+      "courseTitle": "PEER EDUCATOR PRACT",
+      "section": "B",
+      "instructor": "Kolby,Emily"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 270",
+      "courseTitle": "PEER EDUCATOR PRACT",
+      "section": "G",
+      "instructor": "Smith,Em"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "X",
+      "instructor": "A Duttchoudhury,Sasha"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "L",
+      "instructor": "Bellman,Scott"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "Y",
+      "instructor": "Duttchoudhury,Sasha"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "Z",
+      "instructor": "Schmidt,Sean G."
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 305",
+      "courseTitle": "CAREER STRATEGIES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 310",
+      "courseTitle": "CAREER MENTORSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 310",
+      "courseTitle": "CAREER MENTORSHIP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 346",
+      "courseTitle": "CMTY ENGAGEMENT EDUC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 350",
+      "courseTitle": "INTERN PRAC & RFLCTN",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 350",
+      "courseTitle": "INTERN PRAC & RFLCTN",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 370",
+      "courseTitle": "PEER FACILITATR PRAC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 375",
+      "courseTitle": "TUTORING & COACHING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 375",
+      "courseTitle": "TUTORING & COACHING",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 375",
+      "courseTitle": "TUTORING & COACHING",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 375",
+      "courseTitle": "TUTORING & COACHING",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 391",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 410",
+      "courseTitle": "GRAD SCHOOL INTRO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 412",
+      "courseTitle": "GRAD SCHOOL APPLCTN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 470",
+      "courseTitle": "ADV PEER EDUCTR PRAC",
+      "section": "A",
+      "instructor": "Coletta,Meghan"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 470",
+      "courseTitle": "ADV PEER EDUCTR PRAC",
+      "section": "E",
+      "instructor": "Goodwin,Nick"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 470",
+      "courseTitle": "ADV PEER EDUCTR PRAC",
+      "section": "D",
+      "instructor": "Henderson,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 470",
+      "courseTitle": "ADV PEER EDUCTR PRAC",
+      "section": "B",
+      "instructor": "Kolby,Emily"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 470",
+      "courseTitle": "ADV PEER EDUCTR PRAC",
+      "section": "G",
+      "instructor": "Smith,Em"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 470",
+      "courseTitle": "ADV PEER EDUCTR PRAC",
+      "section": "M",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2024",
+      "course": "GEN ST 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
       "section": "A",
       "instructor": "TBA"
     },
@@ -6002,7 +7492,7 @@
       "course": "GEN ST 297",
       "courseTitle": "UNDERGRAD SEMINAR",
       "section": "G",
-      "instructor": "McDermott,Sara"
+      "instructor": "A McDermott,Sara"
     },
     {
       "campus": "S",
@@ -6198,6 +7688,86 @@
       "campus": "S",
       "dept": "genst",
       "deptName": "General Studies",
+      "term": "SUM2025",
+      "course": "GEN ST 240",
+      "courseTitle": "CMTY ENGAGE SEMINAR",
+      "section": "A",
+      "instructor": "Oppenheim,Willy"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SUM2025",
+      "course": "GEN ST 270",
+      "courseTitle": "PEER EDUCATOR PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SUM2025",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SUM2025",
+      "course": "GEN ST 350",
+      "courseTitle": "INTERN PRAC & RFLCTN",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SUM2025",
+      "course": "GEN ST 350",
+      "courseTitle": "INTERN PRAC & RFLCTN",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SUM2025",
+      "course": "GEN ST 391",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SUM2025",
+      "course": "GEN ST 399",
+      "courseTitle": "RSCH: PRAC & PRESNTN",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SUM2025",
+      "course": "GEN ST 470",
+      "courseTitle": "ADV PEER EDUCTR PRAC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
       "term": "AUT2025",
       "course": "GEN ST 105",
       "courseTitle": "INTRO LIBERAL STDY",
@@ -6242,7 +7812,7 @@
       "course": "GEN ST 150",
       "courseTitle": "EXPLORING MAJORS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Pieracci,Gina"
     },
     {
       "campus": "S",
@@ -6511,8 +8081,8 @@
       "term": "AUT2025",
       "course": "GEN ST 205",
       "courseTitle": "ACADEMIC DEVELOPMENT",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "Kolby,Emily"
     },
     {
       "campus": "S",
@@ -6521,8 +8091,8 @@
       "term": "AUT2025",
       "course": "GEN ST 205",
       "courseTitle": "ACADEMIC DEVELOPMENT",
-      "section": "C",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Zhu,Dan"
     },
     {
       "campus": "S",
@@ -6532,7 +8102,7 @@
       "course": "GEN ST 240",
       "courseTitle": "CMTY ENGAGE SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Oppenheim,Willy"
     },
     {
       "campus": "S",
@@ -6592,17 +8162,7 @@
       "course": "GEN ST 270",
       "courseTitle": "PEER EDUCATOR PRACT",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "genst",
-      "deptName": "General Studies",
-      "term": "AUT2025",
-      "course": "GEN ST 270",
-      "courseTitle": "PEER EDUCATOR PRACT",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Coletta,Meghan"
     },
     {
       "campus": "S",
@@ -6612,7 +8172,17 @@
       "course": "GEN ST 270",
       "courseTitle": "PEER EDUCATOR PRACT",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Henderson,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2025",
+      "course": "GEN ST 270",
+      "courseTitle": "PEER EDUCATOR PRACT",
+      "section": "B",
+      "instructor": "Iwanski,Analise Riane"
     },
     {
       "campus": "S",
@@ -6622,17 +8192,7 @@
       "course": "GEN ST 270",
       "courseTitle": "PEER EDUCATOR PRACT",
       "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "genst",
-      "deptName": "General Studies",
-      "term": "AUT2025",
-      "course": "GEN ST 270",
-      "courseTitle": "PEER EDUCATOR PRACT",
-      "section": "E",
-      "instructor": "TBA"
+      "instructor": "Smith,Em"
     },
     {
       "campus": "S",
@@ -6649,10 +8209,10 @@
       "dept": "genst",
       "deptName": "General Studies",
       "term": "AUT2025",
-      "course": "GEN ST 297",
-      "courseTitle": "UNDERGRAD SEMINAR",
-      "section": "A",
-      "instructor": "TBA"
+      "course": "GEN ST 270",
+      "courseTitle": "PEER EDUCATOR PRACT",
+      "section": "E",
+      "instructor": "Trinidad,Halee"
     },
     {
       "campus": "S",
@@ -6662,7 +8222,7 @@
       "course": "GEN ST 297",
       "courseTitle": "UNDERGRAD SEMINAR",
       "section": "X",
-      "instructor": "TBA"
+      "instructor": "Duttchoudhury,Sasha"
     },
     {
       "campus": "S",
@@ -6672,7 +8232,7 @@
       "course": "GEN ST 297",
       "courseTitle": "UNDERGRAD SEMINAR",
       "section": "Y",
-      "instructor": "TBA"
+      "instructor": "Duttchoudhury,Sasha"
     },
     {
       "campus": "S",
@@ -6682,6 +8242,16 @@
       "course": "GEN ST 297",
       "courseTitle": "UNDERGRAD SEMINAR",
       "section": "Z",
+      "instructor": "Schmidt,Sean G."
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2025",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -6732,17 +8302,7 @@
       "course": "GEN ST 375",
       "courseTitle": "TUTORING & COACHING",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "genst",
-      "deptName": "General Studies",
-      "term": "AUT2025",
-      "course": "GEN ST 375",
-      "courseTitle": "TUTORING & COACHING",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Burt,Ryan E."
     },
     {
       "campus": "S",
@@ -6752,6 +8312,16 @@
       "course": "GEN ST 375",
       "courseTitle": "TUTORING & COACHING",
       "section": "C",
+      "instructor": "Burt,Ryan E."
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2025",
+      "course": "GEN ST 375",
+      "courseTitle": "TUTORING & COACHING",
+      "section": "B",
       "instructor": "TBA"
     },
     {
@@ -6802,17 +8372,7 @@
       "course": "GEN ST 470",
       "courseTitle": "ADV PEER EDUCTR PRAC",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "genst",
-      "deptName": "General Studies",
-      "term": "AUT2025",
-      "course": "GEN ST 470",
-      "courseTitle": "ADV PEER EDUCTR PRAC",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Coletta,Meghan"
     },
     {
       "campus": "S",
@@ -6822,7 +8382,17 @@
       "course": "GEN ST 470",
       "courseTitle": "ADV PEER EDUCTR PRAC",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Henderson,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2025",
+      "course": "GEN ST 470",
+      "courseTitle": "ADV PEER EDUCTR PRAC",
+      "section": "B",
+      "instructor": "Iwanski,Analise Riane"
     },
     {
       "campus": "S",
@@ -6832,17 +8402,7 @@
       "course": "GEN ST 470",
       "courseTitle": "ADV PEER EDUCTR PRAC",
       "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "genst",
-      "deptName": "General Studies",
-      "term": "AUT2025",
-      "course": "GEN ST 470",
-      "courseTitle": "ADV PEER EDUCTR PRAC",
-      "section": "E",
-      "instructor": "TBA"
+      "instructor": "Smith,Em"
     },
     {
       "campus": "S",
@@ -6853,6 +8413,16 @@
       "courseTitle": "ADV PEER EDUCTR PRAC",
       "section": "F",
       "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2025",
+      "course": "GEN ST 470",
+      "courseTitle": "ADV PEER EDUCTR PRAC",
+      "section": "E",
+      "instructor": "Trinidad,Halee"
     },
     {
       "campus": "S",
@@ -6902,7 +8472,7 @@
       "course": "GEN ST 205",
       "courseTitle": "ACADEMIC DEVELOPMENT",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Kelly,Maja"
     },
     {
       "campus": "S",
@@ -6912,7 +8482,7 @@
       "course": "GEN ST 220",
       "courseTitle": "INTEGRATED LRNG TPCS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mayer,Kyla"
     },
     {
       "campus": "S",
@@ -6923,6 +8493,26 @@
       "courseTitle": "PEER EDUCATOR PRACT",
       "section": "A",
       "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "WIN2026",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "X",
+      "instructor": "Duttchoudhury,Sasha"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "WIN2026",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "Y",
+      "instructor": "Martin-Gill,Brooke"
     },
     {
       "campus": "S",
@@ -6949,30 +8539,10 @@
       "dept": "genst",
       "deptName": "General Studies",
       "term": "WIN2026",
-      "course": "GEN ST 297",
-      "courseTitle": "UNDERGRAD SEMINAR",
-      "section": "X",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "genst",
-      "deptName": "General Studies",
-      "term": "WIN2026",
-      "course": "GEN ST 297",
-      "courseTitle": "UNDERGRAD SEMINAR",
-      "section": "Y",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "genst",
-      "deptName": "General Studies",
-      "term": "WIN2026",
       "course": "GEN ST 298",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Burt,Ryan E."
     },
     {
       "campus": "S",
@@ -6982,7 +8552,7 @@
       "course": "GEN ST 299",
       "courseTitle": "RSCH: WAYS OF KNOWNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pierszalowski,Sophie"
     },
     {
       "campus": "S",
@@ -7072,7 +8642,7 @@
       "course": "GEN ST 498",
       "courseTitle": "ADV SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Shah,Arti"
     },
     {
       "campus": "S",
@@ -7102,7 +8672,7 @@
       "course": "GEN ST 205",
       "courseTitle": "ACADEMIC DEVELOPMENT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kelly,Maja"
     },
     {
       "campus": "S",
@@ -7182,7 +8752,17 @@
       "course": "GEN ST 297",
       "courseTitle": "UNDERGRAD SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dawson,Karan N"
+    },
+    {
+      "campus": "S",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "SPR2026",
+      "course": "GEN ST 297",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "J",
+      "instructor": "McDermott,Sara"
     },
     {
       "campus": "S",
@@ -7202,16 +8782,6 @@
       "course": "GEN ST 297",
       "courseTitle": "UNDERGRAD SEMINAR",
       "section": "I",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "genst",
-      "deptName": "General Studies",
-      "term": "SPR2026",
-      "course": "GEN ST 297",
-      "courseTitle": "UNDERGRAD SEMINAR",
-      "section": "J",
       "instructor": "TBA"
     },
     {

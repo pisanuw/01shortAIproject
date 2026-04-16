@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "C%20Costarella%2CCharles",
+  "professor": "C Costarella,Charles",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tinfo",
+      "deptName": "Information Technology and Systems",
+      "term": "AUT2021",
+      "course": "T INFO 451",
+      "courseTitle": "ROUTING & SWITCHING",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tinfo",
+      "deptName": "Information Technology and Systems",
+      "term": "AUT2021",
+      "course": "T INFO 250",
+      "courseTitle": "FDNS INFO NETWRKING",
+      "section": "C"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tinfo",
+      "deptName": "Information Technology and Systems",
+      "term": "AUT2021",
+      "course": "T INFO 250",
+      "courseTitle": "FDNS INFO NETWRKING",
+      "section": "B"
+    }
+  ]
+}

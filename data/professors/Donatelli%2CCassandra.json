@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Donatelli%2CCassandra",
+  "professor": "Donatelli,Cassandra",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tme",
+      "deptName": "Mechanical Engineering",
+      "term": "SPR2026",
+      "course": "TME 491",
+      "courseTitle": "SEMINAR MECH ENGR",
+      "section": "G"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tme",
+      "deptName": "Mechanical Engineering",
+      "term": "SPR2026",
+      "course": "TME 402",
+      "courseTitle": "ENG LICENSE EXAM REV",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tme",
+      "deptName": "Mechanical Engineering",
+      "term": "SPR2026",
+      "course": "TME 345",
+      "courseTitle": "MACHINING FUND",
+      "section": "A"
+    }
+  ]
+}

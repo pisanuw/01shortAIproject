@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Ensign%2CJosephine",
+  "professor": "Ensign,Josephine",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nsg",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NSG 551",
+      "courseTitle": "HEALTH POLICY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NURS 420",
+      "courseTitle": "COMM &PUB HLTH NURS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NURS 420",
+      "courseTitle": "COMM &PUB HLTH NURS",
+      "section": "A"
+    }
+  ]
+}

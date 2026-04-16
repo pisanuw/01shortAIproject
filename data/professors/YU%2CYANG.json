@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "YU%2CYANG",
+  "professor": "YU,YANG",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2023",
+      "course": "MATH 208",
+      "courseTitle": "MATRIX ALGEBRA",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2022",
+      "course": "STAT 394",
+      "courseTitle": "PROBABILITY I",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2022",
+      "course": "MATH 394",
+      "courseTitle": "PROBABILITY I",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2021",
+      "course": "MATH 308",
+      "courseTitle": "MATRIX ALGEBRA",
+      "section": "B"
+    }
+  ]
+}

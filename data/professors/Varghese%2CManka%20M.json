@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Varghese%2CManka%20M",
+  "professor": "Varghese,Manka M",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "AUT2023",
+      "course": "EDUC 225",
+      "courseTitle": "INTRO LANG, ED & SOC",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "SPR2021",
+      "course": "EDUC 200",
+      "courseTitle": "SP TOPICS EDUC SOC",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "teached",
+      "deptName": "Education",
+      "term": "WIN2021",
+      "course": "EDTEP 544",
+      "courseTitle": "DIFFERENTIATED INST",
+      "section": "A"
+    }
+  ]
+}

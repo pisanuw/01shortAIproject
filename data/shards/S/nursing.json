@@ -1,7 +1,4898 @@
 {
-  "generatedAt": "2026-04-15T16:28:01Z",
+  "generatedAt": "2026-04-16T02:57:16Z",
   "campus": "S",
   "dept": "nursing",
   "deptName": "Nursing",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NURS 201",
+      "courseTitle": "LIFESPAN GROWTH",
+      "section": "A",
+      "instructor": "Churchill,Shervin S"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NURS 301",
+      "courseTitle": "GENERAL ANATOMY",
+      "section": "A",
+      "instructor": "HEITKEMPER,ANN L"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NURS 303",
+      "courseTitle": "FOUND PROF NSG",
+      "section": "A",
+      "instructor": "Hulick,Johanna P"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NURS 304",
+      "courseTitle": "PHARM/PATHOPHYS",
+      "section": "A",
+      "instructor": "Pinson,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NURS 417",
+      "courseTitle": "PSYCH NURSING",
+      "section": "A",
+      "instructor": "Bongiorno,Wioleta"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NURS 420",
+      "courseTitle": "COMM &PUB HLTH NURS",
+      "section": "A",
+      "instructor": "Ensign,Josephine"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NURS 445",
+      "courseTitle": "SPEC TOP NSG",
+      "section": "A",
+      "instructor": "Spieker,S"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NURS 452",
+      "courseTitle": "CARE COOR TRAN MGMT",
+      "section": "A",
+      "instructor": "Cunitz,Tamara Cyhan"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NURS 507",
+      "courseTitle": "MENTAL HLTH & AGING",
+      "section": "A",
+      "instructor": "Trigg,Lisa J."
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NURS 514",
+      "courseTitle": "PHYS WOMEN CHILDREN",
+      "section": "A",
+      "instructor": "Kantrowitz-Gordon,Ira"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NURS 514",
+      "courseTitle": "PHYS WOMEN CHILDREN",
+      "section": "C",
+      "instructor": "Kantrowitz-Gordon,Ira"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NURS 524",
+      "courseTitle": "CON FND ORG STR EFF",
+      "section": "B",
+      "instructor": "Boston-Fleischhauer,Carol"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NURS 529",
+      "courseTitle": "CHILD DEV BEHAV ISS",
+      "section": "A",
+      "instructor": "Agtarap,Sarah R."
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NURS 540",
+      "courseTitle": "SPECIAL TOP IN BNHS",
+      "section": "C",
+      "instructor": "Thompson,Hilaire J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NURS 549",
+      "courseTitle": "ASSESSMENT IN PSN",
+      "section": "A",
+      "instructor": "Tang,Jean"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NURS 573",
+      "courseTitle": "FND SEM APN",
+      "section": "D",
+      "instructor": "Howells,Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NURS 576",
+      "courseTitle": "ASSESS & COLLAB SYS",
+      "section": "A",
+      "instructor": "KOUTLAS,ALEXIS M."
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NURS 587",
+      "courseTitle": "LEADERSHIP SEM",
+      "section": "A",
+      "instructor": "Zierler,Brenda K"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NURS 588",
+      "courseTitle": "PHIL INQ NSG SCI",
+      "section": "A",
+      "instructor": "Belza,B"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "NURS 610",
+      "courseTitle": "TEACHING PRACTICUM",
+      "section": "A",
+      "instructor": "Tang,Jean"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 201",
+      "courseTitle": "LIFESPAN GROWTH",
+      "section": "A",
+      "instructor": "Churchill,Shervin S"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 210",
+      "courseTitle": "SCI, EVID, HEALTH",
+      "section": "A",
+      "instructor": "Reding,Kerryn"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 210",
+      "courseTitle": "SCI, EVID, HEALTH",
+      "section": "B",
+      "instructor": "Reding,Kerryn"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 210",
+      "courseTitle": "SCI, EVID, HEALTH",
+      "section": "C",
+      "instructor": "Reding,Kerryn"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 301",
+      "courseTitle": "GENERAL ANATOMY",
+      "section": "A",
+      "instructor": "Pinson,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 401",
+      "courseTitle": "CARE IN ILLNESS I",
+      "section": "A",
+      "instructor": "Altman,Gaylene"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 415",
+      "courseTitle": "CARE CHILDBEAR/FAM",
+      "section": "A",
+      "instructor": "Rasmussen,Sheryl"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 425",
+      "courseTitle": "HEALTH EQUITY",
+      "section": "A",
+      "instructor": "Myers,Julie Ann"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 431",
+      "courseTitle": "CHILDHEALTH",
+      "section": "A",
+      "instructor": "Kalkbrenner,Anne"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 445",
+      "courseTitle": "SPEC TOP NSG",
+      "section": "A",
+      "instructor": "Spieker,S"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "D",
+      "instructor": "Cochrane,Barbara B."
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 501",
+      "courseTitle": "CHILD MENTAL HEALTH",
+      "section": "A",
+      "instructor": "LAW,YINGXUAN"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 518",
+      "courseTitle": "CHILD MGT I: ACUTE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 525",
+      "courseTitle": "MNG QI ACCESS UTIL",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 539",
+      "courseTitle": "MGMT ACUTE ILL I",
+      "section": "B",
+      "instructor": "Howells,Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 540",
+      "courseTitle": "SPECIAL TOP IN BNHS",
+      "section": "C",
+      "instructor": "Heitkemper,M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 546",
+      "courseTitle": "INTERPERSONAL THERAP",
+      "section": "A",
+      "instructor": "P Blue,Ophelia"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 547",
+      "courseTitle": "NEURO BASIS PMH",
+      "section": "A",
+      "instructor": "Pike,Christina M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 587",
+      "courseTitle": "LEADERSHIP SEM",
+      "section": "A",
+      "instructor": "Zierler,Brenda K"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 589",
+      "courseTitle": "THEORY & EVIDENCE",
+      "section": "A",
+      "instructor": "Cochrane,Barbara B."
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "G",
+      "instructor": "Cochrane,Barbara B."
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "NURS 610",
+      "courseTitle": "TEACHING PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 201",
+      "courseTitle": "LIFESPAN GROWTH",
+      "section": "A",
+      "instructor": "Churchill,Shervin S"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 204",
+      "courseTitle": "SCI ART WELLNESS",
+      "section": "A",
+      "instructor": "Salazar,Francisca"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 215",
+      "courseTitle": "DSTR MGMT RSK & HLTH",
+      "section": "A",
+      "instructor": "Peck,Rikki"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 301",
+      "courseTitle": "GENERAL ANATOMY",
+      "section": "A",
+      "instructor": "Pinson She Her,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 405",
+      "courseTitle": "CARE IN ILLNESS II",
+      "section": "A",
+      "instructor": "Pinson She Her,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 412",
+      "courseTitle": "HEALTHCARE SYSTEMS",
+      "section": "A",
+      "instructor": "Ensign,J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 419",
+      "courseTitle": "TRANS TO PRO PRACT",
+      "section": "A",
+      "instructor": "Hulick-she,her, Johanna"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 445",
+      "courseTitle": "SPEC TOP NSG",
+      "section": "B",
+      "instructor": "Pintye - She Her,Jillian"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 445",
+      "courseTitle": "SPEC TOP NSG",
+      "section": "A",
+      "instructor": "Spieker"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "B",
+      "instructor": "Cochrane - she,her, Barbar"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 505",
+      "courseTitle": "TOP CHLD FAM POP NSG",
+      "section": "A",
+      "instructor": "Willgerodt - she,her, Mayu"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 515",
+      "courseTitle": "ADOLESCENT PROBLEMS",
+      "section": "A",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 515",
+      "courseTitle": "ADOLESCENT PROBLEMS",
+      "section": "C",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 517",
+      "courseTitle": "PED PULM PATHOPHYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 517",
+      "courseTitle": "PED PULM PATHOPHYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 535",
+      "courseTitle": "PHARM ACUTE/CRIT ILL",
+      "section": "A",
+      "instructor": "Corlett,Karen"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 537",
+      "courseTitle": "SYMPTOM SCIENCE",
+      "section": "A",
+      "instructor": "Berry"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 540",
+      "courseTitle": "SPECIAL TOP IN BNHS",
+      "section": "C",
+      "instructor": "Heitkemper,Margaret"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 552",
+      "courseTitle": "WL HLTH PRM DIS PRV",
+      "section": "A",
+      "instructor": "Kemble,Katie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 554",
+      "courseTitle": "MGMT PSYCH DISORDER",
+      "section": "A",
+      "instructor": "Frantz,L"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 564",
+      "courseTitle": "BIOTREATMENT PMHNP",
+      "section": "A",
+      "instructor": "Brink,Eliza W."
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 569",
+      "courseTitle": "MGMT ACUTE ILL II",
+      "section": "A",
+      "instructor": "Howells,she-her, Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 580",
+      "courseTitle": "CR ISS OCC/ENV MED",
+      "section": "A",
+      "instructor": "Cherry,Debbie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 580",
+      "courseTitle": "CR ISS OCC/ENV MED",
+      "section": "B",
+      "instructor": "Cherry,Debbie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 580",
+      "courseTitle": "CR ISS OCC/ENV MED",
+      "section": "C",
+      "instructor": "Nkyekyer,Esi W."
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 580",
+      "courseTitle": "CR ISS OCC/ENV MED",
+      "section": "D",
+      "instructor": "Nkyekyer,Esi W."
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 587",
+      "courseTitle": "LEADERSHIP SEM",
+      "section": "A",
+      "instructor": "Zierler - she,her, Brenda"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 595",
+      "courseTitle": "SYNTHESIS NURS SCI",
+      "section": "A",
+      "instructor": "Dougherty,C"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "B",
+      "instructor": "Cochrane - she,her, Barbar"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2021",
+      "course": "NURS 610",
+      "courseTitle": "TEACHING PRACTICUM",
+      "section": "A",
+      "instructor": "Iribarren - she,her,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2021",
+      "course": "NURS 301",
+      "courseTitle": "GENERAL ANATOMY",
+      "section": "A",
+      "instructor": "Pinson She Her,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2021",
+      "course": "NURS 413",
+      "courseTitle": "HLTH & CULTURE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2021",
+      "course": "NURS 500",
+      "courseTitle": "CHILD MANAGEMENT II",
+      "section": "A",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2021",
+      "course": "NURS 527",
+      "courseTitle": "CSM EFFECT ACC UTIL",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2021",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NURS 201",
+      "courseTitle": "LIFESPAN GROWTH",
+      "section": "A",
+      "instructor": "Kim,Eunjung"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NURS 301",
+      "courseTitle": "GENERAL ANATOMY",
+      "section": "A",
+      "instructor": "Pinson She Her,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NURS 303",
+      "courseTitle": "FOUND PROF NSG",
+      "section": "A",
+      "instructor": "Hulick-she,her,Johanna"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NURS 304",
+      "courseTitle": "PHARM/PATHOPHYS",
+      "section": "A",
+      "instructor": "Pinson She Her,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NURS 417",
+      "courseTitle": "PSYCH NURSING",
+      "section": "A",
+      "instructor": "Sharp,Mollie M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NURS 420",
+      "courseTitle": "COMM &PUB HLTH NURS",
+      "section": "A",
+      "instructor": "Ensign,Josephine"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NURS 445",
+      "courseTitle": "SPEC TOP NSG",
+      "section": "A",
+      "instructor": "Kantrowitz-Gordon - he,him"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NURS 452",
+      "courseTitle": "CARE COOR TRAN MGMT",
+      "section": "A",
+      "instructor": "Cunitz,Tamara Cyhan"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NURS 507",
+      "courseTitle": "MENTAL HLTH & AGING",
+      "section": "A",
+      "instructor": "Baker,Wendy"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NURS 514",
+      "courseTitle": "PHYS WOMEN CHILDREN",
+      "section": "A",
+      "instructor": "Kantrowitz-Gordon - he,him"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NURS 514",
+      "courseTitle": "PHYS WOMEN CHILDREN",
+      "section": "C",
+      "instructor": "Kantrowitz-Gordon - he,him"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NURS 524",
+      "courseTitle": "CON FND ORG STR EFF",
+      "section": "B",
+      "instructor": "Reid Ponte,Patricia"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NURS 529",
+      "courseTitle": "CHILD DEV BEHAV ISS",
+      "section": "A",
+      "instructor": "Agtarap,S"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NURS 540",
+      "courseTitle": "SPECIAL TOP IN BNHS",
+      "section": "C",
+      "instructor": "Thompson-she,her,Hilaire J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NURS 549",
+      "courseTitle": "ASSESSMENT IN PSN",
+      "section": "A",
+      "instructor": "Tang,J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NURS 573",
+      "courseTitle": "FND SEM APN",
+      "section": "D",
+      "instructor": "Howells,she-her,Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NURS 581",
+      "courseTitle": "GLOBAL HLTH NURSING",
+      "section": "A",
+      "instructor": "Gimbel,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NURS 587",
+      "courseTitle": "LEADERSHIP SEM",
+      "section": "A",
+      "instructor": "Zierler - she,her, Brenda"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NURS 588",
+      "courseTitle": "PHIL INQ NSG SCI",
+      "section": "A",
+      "instructor": "Belza"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "NURS 610",
+      "courseTitle": "TEACHING PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 201",
+      "courseTitle": "LIFESPAN GROWTH",
+      "section": "A",
+      "instructor": "Kim,Eunjung"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 301",
+      "courseTitle": "GENERAL ANATOMY",
+      "section": "A",
+      "instructor": "Pinson She Her,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 401",
+      "courseTitle": "CARE IN ILLNESS I",
+      "section": "A",
+      "instructor": "Altman,Gaylene"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 415",
+      "courseTitle": "CARE CHILDBEAR/FAM",
+      "section": "A",
+      "instructor": "Rasmussen,Sheryl"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 425",
+      "courseTitle": "HEALTH EQUITY",
+      "section": "A",
+      "instructor": "McFadden,SarahAnn"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 431",
+      "courseTitle": "CHILDHEALTH",
+      "section": "A",
+      "instructor": "Kalkbrenner,A"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 445",
+      "courseTitle": "SPEC TOP NSG",
+      "section": "A",
+      "instructor": "Kantrowitz-Gordon - he,him"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "D",
+      "instructor": "Cochrane - she,her, Barbar"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 501",
+      "courseTitle": "CHILD MENTAL HEALTH",
+      "section": "A",
+      "instructor": "LAW,YINGXUAN"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 518",
+      "courseTitle": "CHILD MGT I: ACUTE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 525",
+      "courseTitle": "MNG QI ACCESS UTIL",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 539",
+      "courseTitle": "MGMT ACUTE ILL I",
+      "section": "B",
+      "instructor": "Howells,she-her,Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 540",
+      "courseTitle": "SPECIAL TOP IN BNHS",
+      "section": "C",
+      "instructor": "Heitkemper,Margaret"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 546",
+      "courseTitle": "INTERPERSONAL THERAP",
+      "section": "A",
+      "instructor": "Sadak - She Her,Tatiana"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 547",
+      "courseTitle": "NEURO BASIS PMH",
+      "section": "A",
+      "instructor": "Baker,Wendy"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 587",
+      "courseTitle": "LEADERSHIP SEM",
+      "section": "A",
+      "instructor": "Zierler - she,her,Brenda"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 589",
+      "courseTitle": "THEORY & EVIDENCE",
+      "section": "A",
+      "instructor": "Cochrane - she,her, Barbar"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 595",
+      "courseTitle": "SYNTHESIS NURS SCI",
+      "section": "A",
+      "instructor": "Dougherty,Cynthia M."
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 595",
+      "courseTitle": "SYNTHESIS NURS SCI",
+      "section": "B",
+      "instructor": "Lewis,Frances M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "G",
+      "instructor": "Cochrane - she,her, Barbar"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "NURS 610",
+      "courseTitle": "TEACHING PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 201",
+      "courseTitle": "LIFESPAN GROWTH",
+      "section": "A",
+      "instructor": "Kim,Eunjung"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 204",
+      "courseTitle": "SCI ART WELLNESS",
+      "section": "A",
+      "instructor": "Kim,Eunjung"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 215",
+      "courseTitle": "DSTR MGMT RSK & HLTH",
+      "section": "A",
+      "instructor": "Liu,Tiffany"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 301",
+      "courseTitle": "GENERAL ANATOMY",
+      "section": "A",
+      "instructor": "Pinson She Her,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 405",
+      "courseTitle": "CARE IN ILLNESS II",
+      "section": "A",
+      "instructor": "Howells,she-her,Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 412",
+      "courseTitle": "HEALTHCARE SYSTEMS",
+      "section": "A",
+      "instructor": "Ensign,J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 419",
+      "courseTitle": "TRANS TO PRO PRACT",
+      "section": "A",
+      "instructor": "Hulick-she,her, Johanna"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 445",
+      "courseTitle": "SPEC TOP NSG",
+      "section": "A",
+      "instructor": "Kantrowitz-Gordon - he,him"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 457",
+      "courseTitle": "SEM RSRCH & CLIN TOP",
+      "section": "A",
+      "instructor": "Pintye - She Her,Jillian"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "B",
+      "instructor": "Cochrane - she,her, Barbar"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 505",
+      "courseTitle": "TOP CHLD FAM POP NSG",
+      "section": "B",
+      "instructor": "Kohler,Pamela"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 515",
+      "courseTitle": "ADOLESCENT PROBLEMS",
+      "section": "A",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 515",
+      "courseTitle": "ADOLESCENT PROBLEMS",
+      "section": "C",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 517",
+      "courseTitle": "PED PULM PATHOPHYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 517",
+      "courseTitle": "PED PULM PATHOPHYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 526",
+      "courseTitle": "MNG ORG EFFECT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 535",
+      "courseTitle": "PHARM ACUTE/CRIT ILL",
+      "section": "A",
+      "instructor": "Corlett,K"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 540",
+      "courseTitle": "SPECIAL TOP IN BNHS",
+      "section": "C",
+      "instructor": "Heitkemper,Margaret"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 552",
+      "courseTitle": "WL HLTH PRM DIS PRV",
+      "section": "A",
+      "instructor": "Kemble - she,her, Katie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 554",
+      "courseTitle": "MGMT PSYCH DISORDER",
+      "section": "A",
+      "instructor": "Frantz she,her,Laura E"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 564",
+      "courseTitle": "BIOTREATMENT PMHNP",
+      "section": "A",
+      "instructor": "Brink,E"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 569",
+      "courseTitle": "MGMT ACUTE ILL II",
+      "section": "A",
+      "instructor": "Howells,she-her,Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 580",
+      "courseTitle": "ISS OCCPTNL/ENV MED",
+      "section": "A",
+      "instructor": "Kaufman,Joel D"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 587",
+      "courseTitle": "LEADERSHIP SEM",
+      "section": "A",
+      "instructor": "Zierler - she,her, Brenda"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "B",
+      "instructor": "Cochrane - she,her, Barbar"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2022",
+      "course": "NURS 610",
+      "courseTitle": "TEACHING PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2022",
+      "course": "NURS 301",
+      "courseTitle": "GENERAL ANATOMY",
+      "section": "A",
+      "instructor": "Pinson She Her,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2022",
+      "course": "NURS 419",
+      "courseTitle": "TRANS TO PRO PRACT",
+      "section": "B",
+      "instructor": "Howells,she-her,Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2022",
+      "course": "NURS 500",
+      "courseTitle": "CHILD MANAGEMENT II",
+      "section": "A",
+      "instructor": "Summerour,M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2022",
+      "course": "NURS 580",
+      "courseTitle": "ISS OCCPTNL/ENV MED",
+      "section": "B",
+      "instructor": "Cherry,Debbie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2022",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "NURS 201",
+      "courseTitle": "LIFESPAN GROWTH",
+      "section": "A",
+      "instructor": "Kim,Eunjung"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "NURS 301",
+      "courseTitle": "GENERAL ANATOMY",
+      "section": "A",
+      "instructor": "Pinson She Her,M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "NURS 303",
+      "courseTitle": "FOUND PROF NSG",
+      "section": "A",
+      "instructor": "Bradywood,Alison Claire"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "NURS 304",
+      "courseTitle": "PHARM/PATHOPHYS",
+      "section": "A",
+      "instructor": "Howells,she-her,Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "NURS 417",
+      "courseTitle": "PSYCH NURSING",
+      "section": "A",
+      "instructor": "Moore,Ann Teresa"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "NURS 420",
+      "courseTitle": "COMM &PUB HLTH NURS",
+      "section": "A",
+      "instructor": "Ensign,J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "NURS 445",
+      "courseTitle": "SPEC TOP NSG",
+      "section": "A",
+      "instructor": "HB"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "NURS 452",
+      "courseTitle": "CARE COOR TRAN MGMT",
+      "section": "A",
+      "instructor": "Cunitz,Tamara Cyhan"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "NURS 505",
+      "courseTitle": "TOP CHLD FAM POP NSG",
+      "section": "A",
+      "instructor": "Kohler,Pamela"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "NURS 507",
+      "courseTitle": "MENTAL HLTH & AGING",
+      "section": "A",
+      "instructor": "Shekinah,Zion"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "NURS 514",
+      "courseTitle": "PHYS WOMEN CHILDREN",
+      "section": "A",
+      "instructor": "Zengion,Andie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "NURS 514",
+      "courseTitle": "PHYS WOMEN CHILDREN",
+      "section": "C",
+      "instructor": "Zengion,Andie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "NURS 524",
+      "courseTitle": "CON FND ORG STR EFF",
+      "section": "B",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "NURS 529",
+      "courseTitle": "CHILD DEV BEHAV ISS",
+      "section": "A",
+      "instructor": "Agtarap,S"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "NURS 540",
+      "courseTitle": "SPECIAL TOP IN BNHS",
+      "section": "C",
+      "instructor": "Thompson,Hilaire J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "NURS 549",
+      "courseTitle": "ASSESSMENT IN PSN",
+      "section": "A",
+      "instructor": "Tang,Jean"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "NURS 573",
+      "courseTitle": "FND SEM APN",
+      "section": "D",
+      "instructor": "Howells,she-her,Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "NURS 581",
+      "courseTitle": "GLOBAL HLTH NURSING",
+      "section": "A",
+      "instructor": "Kawakyu,Nami"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "NURS 587",
+      "courseTitle": "LEADERSHIP SEM",
+      "section": "A",
+      "instructor": "Willgerodt - she,her, Mayu"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "NURS 588",
+      "courseTitle": "PHIL INQ NSG SCI",
+      "section": "A",
+      "instructor": "Belza"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "NURS 610",
+      "courseTitle": "TEACHING PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 201",
+      "courseTitle": "LIFESPAN GROWTH",
+      "section": "A",
+      "instructor": "Borgen,Carley"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 211",
+      "courseTitle": "SOCIAL JUSTICE HLTH",
+      "section": "A",
+      "instructor": "Boutain,Doris"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 301",
+      "courseTitle": "GENERAL ANATOMY",
+      "section": "A",
+      "instructor": "Pinson She Her,M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 401",
+      "courseTitle": "CARE IN ILLNESS I",
+      "section": "A",
+      "instructor": "Altman,G"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 415",
+      "courseTitle": "CARE CHILDBEAR/FAM",
+      "section": "A",
+      "instructor": "Bennett CNM,ARNP, Olivia"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 425",
+      "courseTitle": "HEALTH EQUITY",
+      "section": "A",
+      "instructor": "Tang,Hai-Yen"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 431",
+      "courseTitle": "CHILDHEALTH",
+      "section": "A",
+      "instructor": "Kalkbrenner,A"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 445",
+      "courseTitle": "SPEC TOP NSG",
+      "section": "A",
+      "instructor": "Byun,Eeeseung"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "D",
+      "instructor": "Cochrane,Barbara"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 501",
+      "courseTitle": "CHILD MENTAL HEALTH",
+      "section": "A",
+      "instructor": "Goodwin-Yoon,Alice"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 505",
+      "courseTitle": "TOP CHLD FAM POP NSG",
+      "section": "A",
+      "instructor": "Kohler,Pamela"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 518",
+      "courseTitle": "CHILD MGT I: ACUTE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 525",
+      "courseTitle": "MNG QI ACCESS UTIL",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 539",
+      "courseTitle": "MGMT ACUTE ILL I",
+      "section": "B",
+      "instructor": "Howells,Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 540",
+      "courseTitle": "SPECIAL TOP IN BNHS",
+      "section": "C",
+      "instructor": "Heitkemper,Margaret"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 546",
+      "courseTitle": "INTERPERSONAL THERAP",
+      "section": "A",
+      "instructor": "Bailey,Amanda P"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 564",
+      "courseTitle": "BIOTREATMENT PMHNP",
+      "section": "A",
+      "instructor": "Brink,Eliza W"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 587",
+      "courseTitle": "LEADERSHIP SEM",
+      "section": "A",
+      "instructor": "Willgerodt - she,her, Mayu"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 589",
+      "courseTitle": "THEORY & EVIDENCE",
+      "section": "A",
+      "instructor": "Sonney - she,her, Jennifer"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 595",
+      "courseTitle": "SYNTHESIS NURS SCI",
+      "section": "A",
+      "instructor": "Zaslavsky,Oleg"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "G",
+      "instructor": "Cochrane,Barbara"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 610",
+      "courseTitle": "TEACHING PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 201",
+      "courseTitle": "LIFESPAN GROWTH",
+      "section": "A",
+      "instructor": "Borgen,Carley"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 215",
+      "courseTitle": "DSTR MGMT RSK & HLTH",
+      "section": "A",
+      "instructor": "Liu,Tiffany"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 301",
+      "courseTitle": "GENERAL ANATOMY",
+      "section": "A",
+      "instructor": "Pinson She Her,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 405",
+      "courseTitle": "CARE IN ILLNESS II",
+      "section": "A",
+      "instructor": "Altman,Gaylene"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 412",
+      "courseTitle": "HEALTHCARE SYSTEMS",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 419",
+      "courseTitle": "TRANS TO PRO PRACT",
+      "section": "A",
+      "instructor": "Walker - she,her, Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 445",
+      "courseTitle": "SPEC TOP NSG",
+      "section": "A",
+      "instructor": "Byun,Eeeseung"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 457",
+      "courseTitle": "SEM RSRCH & CLIN TOP",
+      "section": "A",
+      "instructor": "Ge,Shaoqing"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "B",
+      "instructor": "Cochrane,Barbara"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 505",
+      "courseTitle": "TOP CHLD FAM POP NSG",
+      "section": "A",
+      "instructor": "Kohler,Pamela"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 515",
+      "courseTitle": "ADOLESCENT PROBLEMS",
+      "section": "A",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 515",
+      "courseTitle": "ADOLESCENT PROBLEMS",
+      "section": "C",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 517",
+      "courseTitle": "PED PULM PATHOPHYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 517",
+      "courseTitle": "PED PULM PATHOPHYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 526",
+      "courseTitle": "MNG ORG EFFECT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 535",
+      "courseTitle": "PHARM ACUTE/CRIT ILL",
+      "section": "A",
+      "instructor": "Oliveros,Lena"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 540",
+      "courseTitle": "SPECIAL TOP IN BNHS",
+      "section": "C",
+      "instructor": "Thompson,Hilaire J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 547",
+      "courseTitle": "MGMT OF PSYCH DISORD",
+      "section": "A",
+      "instructor": "Ivory,Rebecca Ann"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 552",
+      "courseTitle": "WL HLTH PRM DIS PRV",
+      "section": "A",
+      "instructor": "Iribarren - she,her, Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 554",
+      "courseTitle": "MGMT PSYCH DISORDER",
+      "section": "A",
+      "instructor": "Frantz she,her,Laura E"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 569",
+      "courseTitle": "MGMT ACUTE ILL II",
+      "section": "A",
+      "instructor": "Oliveros,Lena"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 580",
+      "courseTitle": "ISS OCCPTNL/ENV MED",
+      "section": "A",
+      "instructor": "Cherry,Debbie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 587",
+      "courseTitle": "LEADERSHIP SEM",
+      "section": "A",
+      "instructor": "Hirsch,she,her,Anne"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "B",
+      "instructor": "Cochrane,Barbara"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2023",
+      "course": "NURS 610",
+      "courseTitle": "TEACHING PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2023",
+      "course": "NURS 301",
+      "courseTitle": "GENERAL ANATOMY",
+      "section": "A",
+      "instructor": "Pinson She Her,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2023",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2023",
+      "course": "NURS 500",
+      "courseTitle": "CHILD MANAGEMENT II",
+      "section": "A",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2023",
+      "course": "NURS 580",
+      "courseTitle": "ISS OCCPTNL/ENV MED",
+      "section": "B",
+      "instructor": "Havens,Deborah"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2023",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2023",
+      "course": "NURS 610",
+      "courseTitle": "TEACHING PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 201",
+      "courseTitle": "LIFESPAN GROWTH",
+      "section": "A",
+      "instructor": "Kim,Eunjung"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 301",
+      "courseTitle": "GENERAL ANATOMY",
+      "section": "A",
+      "instructor": "Pinson She Her,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 303",
+      "courseTitle": "FOUND PROF NSG",
+      "section": "A",
+      "instructor": "Tang,Hai-Yen"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 304",
+      "courseTitle": "PHARM/PATHOPHYS",
+      "section": "A",
+      "instructor": "Shipp,Caitlin"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 417",
+      "courseTitle": "PSYCH NURSING",
+      "section": "A",
+      "instructor": "Moore,Ann"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 420",
+      "courseTitle": "COMM &PUB HLTH NURS",
+      "section": "A",
+      "instructor": "WBJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 422",
+      "courseTitle": "ADV CLIN JUDGMT",
+      "section": "A",
+      "instructor": "Howells,Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 445",
+      "courseTitle": "SPEC TOP NSG",
+      "section": "A",
+      "instructor": "HB"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 452",
+      "courseTitle": "CARE COOR TRAN MGMT",
+      "section": "A",
+      "instructor": "Forbes,Angela"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 505",
+      "courseTitle": "TOP CHLD FAM POP NSG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 507",
+      "courseTitle": "MENTAL HLTH & AGING",
+      "section": "A",
+      "instructor": "Jajesnica,Jessica Lee"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 514",
+      "courseTitle": "PHYS WOMEN CHILDREN",
+      "section": "A",
+      "instructor": "Zengion,Andie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 514",
+      "courseTitle": "PHYS WOMEN CHILDREN",
+      "section": "C",
+      "instructor": "Zengion,Andie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 524",
+      "courseTitle": "CON FND ORG STR EFF",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 529",
+      "courseTitle": "CHILD DEV BEHAV ISS",
+      "section": "A",
+      "instructor": "Agtarap,Sarah R."
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 540",
+      "courseTitle": "SPECIAL TOP IN BNHS",
+      "section": "C",
+      "instructor": "Heitkemper,Margaret"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 549",
+      "courseTitle": "ASSESSMENT IN PSN",
+      "section": "A",
+      "instructor": "Tang,Jean"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 573",
+      "courseTitle": "FND SEM APN",
+      "section": "D",
+      "instructor": "Howells,Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 581",
+      "courseTitle": "GLOBAL HLTH NURSING",
+      "section": "A",
+      "instructor": "Kawakyu,Nami"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 587",
+      "courseTitle": "LEADERSHIP SEM",
+      "section": "A",
+      "instructor": "Zierler - she,her, Brenda"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 588",
+      "courseTitle": "PHIL INQ NSG SCI",
+      "section": "A",
+      "instructor": "Iribarren - she,her, Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "NURS 610",
+      "courseTitle": "TEACHING PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 201",
+      "courseTitle": "LIFESPAN GROWTH",
+      "section": "A",
+      "instructor": "Kim,Eunjung"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 211",
+      "courseTitle": "SOCIAL JUSTICE HLTH",
+      "section": "A",
+      "instructor": "Boutain,Doris"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 301",
+      "courseTitle": "GENERAL ANATOMY",
+      "section": "A",
+      "instructor": "Pinson She Her,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 401",
+      "courseTitle": "CARE IN ILLNESS I",
+      "section": "A",
+      "instructor": "Altman,Gaylene"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 415",
+      "courseTitle": "CARE CHILDBEAR/FAM",
+      "section": "A",
+      "instructor": "Bennett CNM,ARNP, Olivia"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 425",
+      "courseTitle": "HEALTH EQUITY",
+      "section": "A",
+      "instructor": "Zengion,Andie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 431",
+      "courseTitle": "CHILDHEALTH",
+      "section": "A",
+      "instructor": "Tang,Hai-Yen"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 445",
+      "courseTitle": "SPEC TOP NSG",
+      "section": "A",
+      "instructor": "Byun,Eeeseung"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "D",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 501",
+      "courseTitle": "CHILD MENTAL HEALTH",
+      "section": "A",
+      "instructor": "Goodwin-Yoon,Alice"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 505",
+      "courseTitle": "TOP CHLD FAM POP NSG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 518",
+      "courseTitle": "CHILD MGT I: ACUTE",
+      "section": "A",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 525",
+      "courseTitle": "MNG QI ACCESS UTIL",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 539",
+      "courseTitle": "MGMT ACUTE ILL I",
+      "section": "B",
+      "instructor": "Howells,Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 540",
+      "courseTitle": "SPECIAL TOP IN BNHS",
+      "section": "C",
+      "instructor": "Dougherty,Cynthia M."
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 546",
+      "courseTitle": "INTERPERSONAL THERAP",
+      "section": "A",
+      "instructor": "Jajesnica,Jessica Lee"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 564",
+      "courseTitle": "BIOTREATMENT PMHNP",
+      "section": "A",
+      "instructor": "Brink,Eliza W"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 587",
+      "courseTitle": "LEADERSHIP SEM",
+      "section": "A",
+      "instructor": "Zierler - she,her, Brenda"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 589",
+      "courseTitle": "THEORY & EVIDENCE",
+      "section": "A",
+      "instructor": "Sonney,Jennifer"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 595",
+      "courseTitle": "SYNTHESIS NURS SCI",
+      "section": "A",
+      "instructor": "Zaslavsky,Oleg"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 596",
+      "courseTitle": "COLLOQUIUM",
+      "section": "A",
+      "instructor": "Thompson,Hilaire J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "G",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 610",
+      "courseTitle": "TEACHING PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 201",
+      "courseTitle": "LIFESPAN GROWTH",
+      "section": "A",
+      "instructor": "Borgen,Carley"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 204",
+      "courseTitle": "SCI ART WELLNESS",
+      "section": "A",
+      "instructor": "Kim,Eunjung"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 301",
+      "courseTitle": "GENERAL ANATOMY",
+      "section": "A",
+      "instructor": "Pinson She Her,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 405",
+      "courseTitle": "CARE IN ILLNESS II",
+      "section": "A",
+      "instructor": "Altman,Gaylene"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 412",
+      "courseTitle": "HEALTHCARE SYSTEMS",
+      "section": "A",
+      "instructor": "Liu,Tiffany"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 419",
+      "courseTitle": "TRANS TO PRO PRACT",
+      "section": "A",
+      "instructor": "Zengion,Andie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 445",
+      "courseTitle": "SPEC TOP NSG",
+      "section": "A",
+      "instructor": "Byun,Eeeseung"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 457",
+      "courseTitle": "SEM RSRCH & CLIN TOP",
+      "section": "A",
+      "instructor": "Vasbinder,Alexi"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "B",
+      "instructor": "Cochrane,Barbara"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "C",
+      "instructor": "McLemore,Monica Rose"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 505",
+      "courseTitle": "TOP CHLD FAM POP NSG",
+      "section": "A",
+      "instructor": "Kohler,Pamela"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 515",
+      "courseTitle": "ADOLESCENT PROBLEMS",
+      "section": "A",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 515",
+      "courseTitle": "ADOLESCENT PROBLEMS",
+      "section": "C",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 517",
+      "courseTitle": "PED PULM PATHOPHYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 517",
+      "courseTitle": "PED PULM PATHOPHYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 535",
+      "courseTitle": "PHARM ACUTE/CRIT ILL",
+      "section": "A",
+      "instructor": "Oliveros,Lena"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 540",
+      "courseTitle": "SPECIAL TOP IN BNHS",
+      "section": "C",
+      "instructor": "Heitkemper,Margaret"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 547",
+      "courseTitle": "MGMT OF PSYCH DISORD",
+      "section": "A",
+      "instructor": "Jajesnica,Jessica Lee"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 552",
+      "courseTitle": "WL HLTH PRM DIS PRV",
+      "section": "A",
+      "instructor": "Tope,Dawn Hostenske"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 554",
+      "courseTitle": "MGMT PSYCH DISORDER",
+      "section": "A",
+      "instructor": "Frantz she,her,Laura E"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 569",
+      "courseTitle": "MGMT ACUTE ILL II",
+      "section": "A",
+      "instructor": "Oliveros,Lena"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 580",
+      "courseTitle": "ISS OCCPTNL/ENV MED",
+      "section": "A",
+      "instructor": "Cherry,Debbie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 582",
+      "courseTitle": "CLTR SOC & GENOMICS",
+      "section": "A",
+      "instructor": "Yu,Joon-Ho"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 587",
+      "courseTitle": "LEADERSHIP SEM",
+      "section": "A",
+      "instructor": "Zierler - she,her, Brenda"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 596",
+      "courseTitle": "COLLOQUIUM",
+      "section": "A",
+      "instructor": "Thompson,Hilaire J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "B",
+      "instructor": "Cochrane,Barbara"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2024",
+      "course": "NURS 610",
+      "courseTitle": "TEACHING PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2024",
+      "course": "NURS 301",
+      "courseTitle": "GENERAL ANATOMY",
+      "section": "A",
+      "instructor": "Marshall,Connie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2024",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2024",
+      "course": "NURS 500",
+      "courseTitle": "CHILD MANAGEMENT II",
+      "section": "A",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2024",
+      "course": "NURS 580",
+      "courseTitle": "ISS OCCPTNL/ENV MED",
+      "section": "B",
+      "instructor": "Havens,Deborah"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2024",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 201",
+      "courseTitle": "LIFESPAN GROWTH",
+      "section": "A",
+      "instructor": "Kim,Eunjung"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 301",
+      "courseTitle": "GENERAL ANATOMY",
+      "section": "A",
+      "instructor": "Pinson She Her,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 303",
+      "courseTitle": "FOUND PROF NSG",
+      "section": "A",
+      "instructor": "McLemore,Monica Rose"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 304",
+      "courseTitle": "PHARM/PATHOPHYS",
+      "section": "A",
+      "instructor": "Shipp,Caitlin"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 417",
+      "courseTitle": "PSYCH NURSING",
+      "section": "A",
+      "instructor": "Moore,Ann"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 420",
+      "courseTitle": "COMM &PUB HLTH NURS",
+      "section": "A",
+      "instructor": "WBJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 422",
+      "courseTitle": "ADV CLIN JUDGMT",
+      "section": "A",
+      "instructor": "Hunt,Teneisha Williams"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 445",
+      "courseTitle": "SPEC TOP NSG",
+      "section": "A",
+      "instructor": "HB"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 452",
+      "courseTitle": "CARE COOR TRAN MGMT",
+      "section": "A",
+      "instructor": "Record,Sydney"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 505",
+      "courseTitle": "TOP CHLD FAM POP NSG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 507",
+      "courseTitle": "MENTAL HLTH & AGING",
+      "section": "A",
+      "instructor": "Jajesnica,Jessica Lee"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 514",
+      "courseTitle": "PHYSLGC PREG/PSTPRTM",
+      "section": "A",
+      "instructor": "Zengion,Andie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 514",
+      "courseTitle": "PHYSLGC PREG/PSTPRTM",
+      "section": "C",
+      "instructor": "Zengion,Andie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 524",
+      "courseTitle": "CON FND ORG STR EFF",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 529",
+      "courseTitle": "CHILD DEV BEHAV ISS",
+      "section": "A",
+      "instructor": "Agtarap,Sarah R."
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 540",
+      "courseTitle": "SPECIAL TOP IN BNHS",
+      "section": "C",
+      "instructor": "Heitkemper,Margaret"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 549",
+      "courseTitle": "ASSESSMENT IN PSN",
+      "section": "A",
+      "instructor": "Tang,Jean"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 568",
+      "courseTitle": "HIST OF ABOR/FAM PLN",
+      "section": "B",
+      "instructor": "Jenkins,Julie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 573",
+      "courseTitle": "FND SEM APN",
+      "section": "D",
+      "instructor": "Howells,Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 581",
+      "courseTitle": "GLOBAL HLTH NURSING",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 587",
+      "courseTitle": "LDRSHP/TEAM SCI SMNR",
+      "section": "A",
+      "instructor": "O'Connor,M. Rebecca"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 588",
+      "courseTitle": "PHIL INQ NSG SCI",
+      "section": "A",
+      "instructor": "Belza,Basia"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 596",
+      "courseTitle": "COLLOQUIUM",
+      "section": "A",
+      "instructor": "Reding,Kerry"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "NURS 610",
+      "courseTitle": "TEACHING PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 201",
+      "courseTitle": "GROWTH/DEV LIFE SPAN",
+      "section": "A",
+      "instructor": "Kalkbrenner,Anne"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 301",
+      "courseTitle": "GENERAL ANATOMY",
+      "section": "A",
+      "instructor": "Pinson,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 401",
+      "courseTitle": "CARE IN ILLNESS I",
+      "section": "A",
+      "instructor": "Altman,Gaylene"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 415",
+      "courseTitle": "CARE CHILDBEAR/FAM",
+      "section": "A",
+      "instructor": "Robinson,Keely"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 425",
+      "courseTitle": "HEALTH EQUITY",
+      "section": "A",
+      "instructor": "Kaneshiro,Jasmine"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 431",
+      "courseTitle": "CHILDHEALTH",
+      "section": "A",
+      "instructor": "Tang,Hai-Yen"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 445",
+      "courseTitle": "SPEC TOP NSG",
+      "section": "A",
+      "instructor": "Byun,Eeeseung"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "D",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 501",
+      "courseTitle": "CHILD MENTAL HEALTH",
+      "section": "A",
+      "instructor": "Goodwin-Yoon,Alice"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 505",
+      "courseTitle": "TOP CHLD FAM POP NSG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 518",
+      "courseTitle": "CHILD MGT I: ACUTE",
+      "section": "A",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 525",
+      "courseTitle": "MNG QI ACCESS UTIL",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 539",
+      "courseTitle": "MGMT ACUTE ILL I",
+      "section": "B",
+      "instructor": "Howells,Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 540",
+      "courseTitle": "SPECIAL TOP IN BNHS",
+      "section": "C",
+      "instructor": "Dougherty,Cynthia M."
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 546",
+      "courseTitle": "INTERPERSONAL THERAP",
+      "section": "A",
+      "instructor": "Jajesnica,Jessica Lee"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 564",
+      "courseTitle": "BIOTREATMENT PMHNP",
+      "section": "A",
+      "instructor": "Goodwin-Yoon,Alice"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 570",
+      "courseTitle": "SYST APRCH ABOR CARE",
+      "section": "A",
+      "instructor": "Jenkins,Julie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 587",
+      "courseTitle": "LDRSHP/TEAM SCI SMNR",
+      "section": "A",
+      "instructor": "O'Connor,M. Rebecca"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 589",
+      "courseTitle": "THEORY & EVIDENCE",
+      "section": "A",
+      "instructor": "Sonney,Jennifer"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 595",
+      "courseTitle": "SYNTHESIS NURS SCI",
+      "section": "A",
+      "instructor": "Byun,Eeeseung"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 596",
+      "courseTitle": "COLLOQUIUM",
+      "section": "A",
+      "instructor": "Reding,Kerry"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "G",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "NURS 610",
+      "courseTitle": "TEACHING PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 201",
+      "courseTitle": "LIFESPAN GROWTH",
+      "section": "A",
+      "instructor": "Kim,Eunjung"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 301",
+      "courseTitle": "GENERAL ANATOMY",
+      "section": "A",
+      "instructor": "Pinson,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 405",
+      "courseTitle": "CARE IN ILLNESS II",
+      "section": "A",
+      "instructor": "Howells,Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 412",
+      "courseTitle": "HEALTHCARE SYSTEMS",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 419",
+      "courseTitle": "TRANS TO PRO PRACT",
+      "section": "A",
+      "instructor": "Linton,Christopher James"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 445",
+      "courseTitle": "SPEC TOP NSG",
+      "section": "A",
+      "instructor": "Byun,Eeeseung"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 457",
+      "courseTitle": "SEM RSRCH & CLIN TOP",
+      "section": "A",
+      "instructor": "Reding,Kerry"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "C",
+      "instructor": "Willgerodt,Mayumi"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 505",
+      "courseTitle": "TOP CHLD FAM POP NSG",
+      "section": "A",
+      "instructor": "Kohler,Pamela"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 515",
+      "courseTitle": "ADOLESCENT PROBLEMS",
+      "section": "A",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 515",
+      "courseTitle": "ADOLESCENT PROBLEMS",
+      "section": "C",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 535",
+      "courseTitle": "PHARM ACUTE/CRIT ILL",
+      "section": "A",
+      "instructor": "Oliveros,Lena"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 540",
+      "courseTitle": "SPECIAL TOP IN BNHS",
+      "section": "C",
+      "instructor": "Dougherty,Cynthia M."
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 547",
+      "courseTitle": "MGMT OF PSYCH DISORD",
+      "section": "A",
+      "instructor": "Jajesnica,Jessica Lee"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 552",
+      "courseTitle": "WL HLTH PRM DIS PRV",
+      "section": "A",
+      "instructor": "Lewis,Fran M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 554",
+      "courseTitle": "MGMT PSYCH DISORDER",
+      "section": "A",
+      "instructor": "Frantz she,her,Laura E"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 569",
+      "courseTitle": "MGMT ACUTE ILL II",
+      "section": "A",
+      "instructor": "Underwood,Lindsay F"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 572",
+      "courseTitle": "ADV SEX/REPRO HLTHCR",
+      "section": "B",
+      "instructor": "Smrcina,Lauren K"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 580",
+      "courseTitle": "ISS OCCPTNL/ENV MED",
+      "section": "A",
+      "instructor": "Cherry,Debbie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 596",
+      "courseTitle": "COLLOQUIUM",
+      "section": "A",
+      "instructor": "Reding,Kerry"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2025",
+      "course": "NURS 610",
+      "courseTitle": "TEACHING PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2025",
+      "course": "NURS 301",
+      "courseTitle": "GENERAL ANATOMY",
+      "section": "A",
+      "instructor": "Pinson,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2025",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2025",
+      "course": "NURS 500",
+      "courseTitle": "CHILD MANAGEMENT II",
+      "section": "A",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2025",
+      "course": "NURS 577",
+      "courseTitle": "MGT ABOR & PREG LOSS",
+      "section": "B",
+      "instructor": "Fitzgerald,Kelly"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2025",
+      "course": "NURS 580",
+      "courseTitle": "ISS OCCPTNL/ENV MED",
+      "section": "B",
+      "instructor": "Havens,Deborah"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SUM2025",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 201",
+      "courseTitle": "GROWTH/DEV LIFE SPAN",
+      "section": "A",
+      "instructor": "Kim,Eunjung"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 301",
+      "courseTitle": "GENERAL ANATOMY",
+      "section": "A",
+      "instructor": "Pinson,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 303",
+      "courseTitle": "FOUND PROF NSG",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 304",
+      "courseTitle": "PHARM/PATHOPHYS",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 417",
+      "courseTitle": "PSYCH NURSING",
+      "section": "A",
+      "instructor": "Moore,Ann"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 420",
+      "courseTitle": "COMM &PUB HLTH NURS",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 422",
+      "courseTitle": "ADV CLIN JUDGMT",
+      "section": "A",
+      "instructor": "Ullrich,Katie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 445",
+      "courseTitle": "SPEC TOP NSG",
+      "section": "A",
+      "instructor": "Hash - she,her, Jonika"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 452",
+      "courseTitle": "CARE COOR TRAN MGMT",
+      "section": "A",
+      "instructor": "Record,Sydney"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 505",
+      "courseTitle": "TOP CHLD FAM POP NSG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 507",
+      "courseTitle": "MENTAL HLTH & AGING",
+      "section": "A",
+      "instructor": "Jajesnica,Jessica Lee"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 514",
+      "courseTitle": "PHYSLGC PREG/PSTPRTM",
+      "section": "A",
+      "instructor": "Zengion,Andie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 514",
+      "courseTitle": "PHYSLGC PREG/PSTPRTM",
+      "section": "C",
+      "instructor": "Zengion,Andie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 524",
+      "courseTitle": "CON FND ORG STR EFF",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 529",
+      "courseTitle": "CHILD DEV BEHAV ISS",
+      "section": "A",
+      "instructor": "Agtarap,Sarah R."
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 540",
+      "courseTitle": "SPECIAL TOP IN BNHS",
+      "section": "C",
+      "instructor": "Heitkemper,Margaret"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 549",
+      "courseTitle": "ASSESSMENT IN PSN",
+      "section": "A",
+      "instructor": "Tang,Jean"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 568",
+      "courseTitle": "HIST OF ABOR/FAM PLN",
+      "section": "B",
+      "instructor": "Jenkins,Julie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 573",
+      "courseTitle": "FND SEM APN",
+      "section": "D",
+      "instructor": "Douthitt,Gabrielle"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 581",
+      "courseTitle": "GLOBAL HLTH NURSING",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 587",
+      "courseTitle": "LDRSHP/TEAM SCI SMNR",
+      "section": "A",
+      "instructor": "O'Connor,M. Rebecca"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 588",
+      "courseTitle": "PHIL INQ & NSG SCI",
+      "section": "A",
+      "instructor": "Iribarren - she,her, Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 596",
+      "courseTitle": "COLLOQUIUM",
+      "section": "A",
+      "instructor": "Thompson,Hilaire J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "NURS 610",
+      "courseTitle": "TEACHING PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 201",
+      "courseTitle": "GROWTH/DEV LIFE SPAN",
+      "section": "A",
+      "instructor": "Kalkbrenner,Anne"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 301",
+      "courseTitle": "GENERAL ANATOMY",
+      "section": "A",
+      "instructor": "Pinson,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 401",
+      "courseTitle": "CARE IN ILLNESS I",
+      "section": "A",
+      "instructor": "Howells,Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 415",
+      "courseTitle": "CARE CHILDBEAR/FAM",
+      "section": "A",
+      "instructor": "Salazar,Dr. Letitia"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 425",
+      "courseTitle": "HEALTH EQUITY",
+      "section": "A",
+      "instructor": "Kaneshiro,Jasmine"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 431",
+      "courseTitle": "CHILDHEALTH",
+      "section": "A",
+      "instructor": "Ullrich,Katie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 445",
+      "courseTitle": "SPEC TOP NSG",
+      "section": "A",
+      "instructor": "Hash - she,her, Jonika"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "B",
+      "instructor": "Coulter,Christina Ann"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "D",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 501",
+      "courseTitle": "CHILD MENTAL HEALTH",
+      "section": "A",
+      "instructor": "Goodwin-Yoon,Alice"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 505",
+      "courseTitle": "TOP CHLD FAM POP NSG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 518",
+      "courseTitle": "CHILD MGT I: ACUTE",
+      "section": "A",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 525",
+      "courseTitle": "MNG QI ACCESS UTIL",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 539",
+      "courseTitle": "MGMT ACUTE ILL I",
+      "section": "B",
+      "instructor": "Jackson,Emma Olson"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 540",
+      "courseTitle": "SPECIAL TPCS IN BNHI",
+      "section": "C",
+      "instructor": "Heitkemper,Margaret"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 541",
+      "courseTitle": "REPRODUCTIVE HEALTH",
+      "section": "C",
+      "instructor": "Smrcina,Lauren K"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 546",
+      "courseTitle": "INTERPERSONAL THERAP",
+      "section": "A",
+      "instructor": "Jajesnica,Jessica Lee"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 564",
+      "courseTitle": "BIOTREATMENT PMHNP",
+      "section": "A",
+      "instructor": "Brink,Eliza W"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 570",
+      "courseTitle": "SYST APRCH ABOR CARE",
+      "section": "A",
+      "instructor": "Jenkins,Julie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 587",
+      "courseTitle": "LDRSHP/TEAM SCI SMNR",
+      "section": "A",
+      "instructor": "O'Connor,M. Rebecca"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 589",
+      "courseTitle": "APPLCTN OF THRY/EVID",
+      "section": "A",
+      "instructor": "Suarez-Baquero,Daniel"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 595",
+      "courseTitle": "SYNTHESIS NURS SCI",
+      "section": "A",
+      "instructor": "Byun,Eeeseung"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 596",
+      "courseTitle": "COLLOQUIUM",
+      "section": "A",
+      "instructor": "Thompson,Hilaire J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "G",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2026",
+      "course": "NURS 610",
+      "courseTitle": "TEACHING PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 201",
+      "courseTitle": "GROWTH/DEV LIFE SPAN",
+      "section": "A",
+      "instructor": "Borgen,Carley"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 301",
+      "courseTitle": "GENERAL ANATOMY",
+      "section": "A",
+      "instructor": "Pinson,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 405",
+      "courseTitle": "CARE IN ILLNESS II",
+      "section": "A",
+      "instructor": "Wickline,Mihkai"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 412",
+      "courseTitle": "HEALTHCARE SYSTEMS",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 419",
+      "courseTitle": "TRANSTN TO PROF PRAC",
+      "section": "A",
+      "instructor": "Linton,Christopher James"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 445",
+      "courseTitle": "SPEC TOP NSG",
+      "section": "A",
+      "instructor": "Hash - she,her, Jonika"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 457",
+      "courseTitle": "SEM RSRCH & CLIN TOP",
+      "section": "A",
+      "instructor": "Byun,Eeeseung"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 499",
+      "courseTitle": "SPECIAL ELECTIVES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 505",
+      "courseTitle": "TOP CHLD FAM POP NSG",
+      "section": "A",
+      "instructor": "Kohler,Pamela"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 515",
+      "courseTitle": "ADOLESCENT PROBLEMS",
+      "section": "A",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 515",
+      "courseTitle": "ADOLESCENT PROBLEMS",
+      "section": "C",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 517",
+      "courseTitle": "PED PULM PATHOPHYS",
+      "section": "B",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 517",
+      "courseTitle": "PED PULM PATHOPHYS",
+      "section": "A",
+      "instructor": "Klontz,Stacey"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 535",
+      "courseTitle": "PHARM ACUTE/CRIT ILL",
+      "section": "A",
+      "instructor": "Underwood,Lindsay F"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 540",
+      "courseTitle": "SPECIAL TPCS IN BNHI",
+      "section": "C",
+      "instructor": "Heitkemper,Margaret"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 547",
+      "courseTitle": "MGMT OF PSYCH DISORD",
+      "section": "A",
+      "instructor": "Weatherton,Noah"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 552",
+      "courseTitle": "WL HLTH PRM DIS PRV",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 554",
+      "courseTitle": "MGMT PSYCH DISORDER",
+      "section": "A",
+      "instructor": "Frantz she,her,Laura E"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 569",
+      "courseTitle": "MGMT ACUTE ILL II",
+      "section": "A",
+      "instructor": "Underwood,Lindsay F"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 572",
+      "courseTitle": "ADV SEX/REPRO HLTHCR",
+      "section": "B",
+      "instructor": "Smrcina,Lauren K"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 580",
+      "courseTitle": "ISS OCCPTNL/ENV MED",
+      "section": "A",
+      "instructor": "Cherry,Debbie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 596",
+      "courseTitle": "COLLOQUIUM",
+      "section": "A",
+      "instructor": "Thompson,Hilaire J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 599",
+      "courseTitle": "SEL RDGS IN NSG SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "NURS 610",
+      "courseTitle": "TEACHING PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
 }

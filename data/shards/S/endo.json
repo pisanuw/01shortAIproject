@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:58Z",
+  "generatedAt": "2026-04-16T02:57:14Z",
   "campus": "S",
   "dept": "endo",
   "deptName": "Endodontics",
@@ -309,6 +309,126 @@
       "dept": "endo",
       "deptName": "Endodontics",
       "term": "SPR2021",
+      "course": "ENDO 660",
+      "courseTitle": "CLINICAL ENDODONTCS",
+      "section": "A",
+      "instructor": "Johnson,James D"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "SUM2021",
+      "course": "ENDO 550P",
+      "courseTitle": "P-DIR STDYS ENDO",
+      "section": "B",
+      "instructor": "Johnson,James D"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "SUM2021",
+      "course": "ENDO 550P",
+      "courseTitle": "P-DIR STDYS ENDO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "SUM2021",
+      "course": "ENDO 561",
+      "courseTitle": "ANATOMICAL ENDO",
+      "section": "A",
+      "instructor": "Johnson,James D"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "SUM2021",
+      "course": "ENDO 568",
+      "courseTitle": "PRACTICE MANAGEMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "SUM2021",
+      "course": "ENDO 580",
+      "courseTitle": "ENDODONTIC SEMINAR",
+      "section": "A",
+      "instructor": "Johnson,James D"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "SUM2021",
+      "course": "ENDO 584",
+      "courseTitle": "ENDODONTIC SEMINAR",
+      "section": "A",
+      "instructor": "Johnson,James D"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "SUM2021",
+      "course": "ENDO 590",
+      "courseTitle": "TREATMNT PLANN SMNR",
+      "section": "A",
+      "instructor": "Johnson,James D"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "SUM2021",
+      "course": "ENDO 594",
+      "courseTitle": "ENDODONTIC LIT",
+      "section": "A",
+      "instructor": "Johnson,James D"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "SUM2021",
+      "course": "ENDO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "SUM2021",
+      "course": "ENDO 651",
+      "courseTitle": "HONORS ENDO LIT SEM",
+      "section": "A",
+      "instructor": "Johnson,James D"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "SUM2021",
+      "course": "ENDO 655",
+      "courseTitle": "PEER MENTOR ENDO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "SUM2021",
       "course": "ENDO 660",
       "courseTitle": "CLINICAL ENDODONTCS",
       "section": "A",
@@ -729,6 +849,96 @@
       "dept": "endo",
       "deptName": "Endodontics",
       "term": "SUM2022",
+      "course": "ENDO 660",
+      "courseTitle": "CLINICAL ENDODONTCS",
+      "section": "A",
+      "instructor": "Johnson,James D"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2022",
+      "course": "ENDO 550P",
+      "courseTitle": "P-DIR STDYS ENDO",
+      "section": "B",
+      "instructor": "Johnson,James D"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2022",
+      "course": "ENDO 550P",
+      "courseTitle": "P-DIR STDYS ENDO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2022",
+      "course": "ENDO 581",
+      "courseTitle": "ENDODONTIC SEMINAR",
+      "section": "A",
+      "instructor": "Johnson,James D"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2022",
+      "course": "ENDO 585",
+      "courseTitle": "ENDODONTIC SEMINAR",
+      "section": "A",
+      "instructor": "Johnson,James D"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2022",
+      "course": "ENDO 590",
+      "courseTitle": "TREATMNT PLANN SMNR",
+      "section": "A",
+      "instructor": "Johnson,James D"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2022",
+      "course": "ENDO 594",
+      "courseTitle": "ENDODONTIC LIT",
+      "section": "A",
+      "instructor": "Johnson,James D"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2022",
+      "course": "ENDO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2022",
+      "course": "ENDO 651",
+      "courseTitle": "HONORS ENDO LIT SEM",
+      "section": "A",
+      "instructor": "Johnson,James D"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2022",
       "course": "ENDO 660",
       "courseTitle": "CLINICAL ENDODONTCS",
       "section": "A",
@@ -1078,6 +1288,106 @@
       "campus": "S",
       "dept": "endo",
       "deptName": "Endodontics",
+      "term": "AUT2023",
+      "course": "ENDO 550P",
+      "courseTitle": "P-DIR STDYS ENDO",
+      "section": "B",
+      "instructor": "Paranjpe,Avina"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2023",
+      "course": "ENDO 550P",
+      "courseTitle": "P-DIR STDYS ENDO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2023",
+      "course": "ENDO 568",
+      "courseTitle": "PRACTICE MANAGEMENT",
+      "section": "A",
+      "instructor": "Paranjpe,Avina"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2023",
+      "course": "ENDO 581",
+      "courseTitle": "ENDODONTIC SEMINAR",
+      "section": "A",
+      "instructor": "Johnson,James D"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2023",
+      "course": "ENDO 585",
+      "courseTitle": "ENDODONTIC SEMINAR",
+      "section": "A",
+      "instructor": "Johnson,James D"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2023",
+      "course": "ENDO 590",
+      "courseTitle": "TREATMNT PLANN SMNR",
+      "section": "A",
+      "instructor": "Johnson,James D"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2023",
+      "course": "ENDO 594",
+      "courseTitle": "ENDODONTIC LIT",
+      "section": "A",
+      "instructor": "Paranjpe,Avina"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2023",
+      "course": "ENDO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2023",
+      "course": "ENDO 651",
+      "courseTitle": "HONORS ENDO LIT SEM",
+      "section": "A",
+      "instructor": "Paranjpe,Avina"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2023",
+      "course": "ENDO 660",
+      "courseTitle": "CLINICAL ENDODONTCS",
+      "section": "A",
+      "instructor": "Paranjpe,Avina"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
       "term": "WIN2024",
       "course": "ENDO 550P",
       "courseTitle": "P-DIR STDYS ENDO",
@@ -1403,6 +1713,106 @@
       "courseTitle": "CLINICAL ENDODONTCS",
       "section": "A",
       "instructor": "Johnson,James D"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2024",
+      "course": "ENDO 550P",
+      "courseTitle": "P-DIR STDYS ENDO",
+      "section": "B",
+      "instructor": "Paranjpe,Avina"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2024",
+      "course": "ENDO 550P",
+      "courseTitle": "P-DIR STDYS ENDO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2024",
+      "course": "ENDO 568",
+      "courseTitle": "PRACTICE MANAGEMENT",
+      "section": "A",
+      "instructor": "Paranjpe,Avina"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2024",
+      "course": "ENDO 581",
+      "courseTitle": "ENDODONTIC SEMINAR",
+      "section": "A",
+      "instructor": "Johnson,James D"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2024",
+      "course": "ENDO 585",
+      "courseTitle": "ENDODONTIC SEMINAR",
+      "section": "A",
+      "instructor": "Johnson,James D"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2024",
+      "course": "ENDO 590",
+      "courseTitle": "TREATMNT PLANN SMNR",
+      "section": "A",
+      "instructor": "Johnson,James D"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2024",
+      "course": "ENDO 594",
+      "courseTitle": "ENDODONTIC LIT",
+      "section": "A",
+      "instructor": "Paranjpe,Avina"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2024",
+      "course": "ENDO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2024",
+      "course": "ENDO 651",
+      "courseTitle": "HONORS ENDO LIT SEM",
+      "section": "A",
+      "instructor": "Paranjpe,Avina"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "AUT2024",
+      "course": "ENDO 660",
+      "courseTitle": "CLINICAL ENDODONTCS",
+      "section": "A",
+      "instructor": "Paranjpe,Avina"
     },
     {
       "campus": "S",
@@ -1741,8 +2151,8 @@
       "term": "AUT2025",
       "course": "ENDO 550P",
       "courseTitle": "P-DIR STDYS ENDO",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Paranjpe,Avina"
     },
     {
       "campus": "S",
@@ -1751,7 +2161,7 @@
       "term": "AUT2025",
       "course": "ENDO 550P",
       "courseTitle": "P-DIR STDYS ENDO",
-      "section": "B",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -1762,7 +2172,7 @@
       "course": "ENDO 568",
       "courseTitle": "PRACTICE MANAGEMENT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Paranjpe,Avina"
     },
     {
       "campus": "S",
@@ -1772,7 +2182,7 @@
       "course": "ENDO 581",
       "courseTitle": "ENDODONTIC SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Paranjpe,Avina"
     },
     {
       "campus": "S",
@@ -1782,7 +2192,7 @@
       "course": "ENDO 585",
       "courseTitle": "ENDODONTIC SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Paranjpe,Avina"
     },
     {
       "campus": "S",
@@ -1792,7 +2202,7 @@
       "course": "ENDO 590",
       "courseTitle": "TREATMNT PLANN SMNR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Paranjpe,Avina"
     },
     {
       "campus": "S",
@@ -1802,7 +2212,7 @@
       "course": "ENDO 594",
       "courseTitle": "ENDODONTIC LIT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Yap,Lindsey R."
     },
     {
       "campus": "S",
@@ -1822,7 +2232,7 @@
       "course": "ENDO 651",
       "courseTitle": "HONORS ENDO LIT SEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Paranjpe,Avina"
     },
     {
       "campus": "S",
@@ -1832,17 +2242,7 @@
       "course": "ENDO 660",
       "courseTitle": "CLINICAL ENDODONTCS",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "endo",
-      "deptName": "Endodontics",
-      "term": "WIN2026",
-      "course": "ENDO 550P",
-      "courseTitle": "P-DIR STDYS ENDO",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Paranjpe,Avina"
     },
     {
       "campus": "S",
@@ -1852,6 +2252,16 @@
       "course": "ENDO 550P",
       "courseTitle": "P-DIR STDYS ENDO",
       "section": "B",
+      "instructor": "Paranjpe,Avina"
+    },
+    {
+      "campus": "S",
+      "dept": "endo",
+      "deptName": "Endodontics",
+      "term": "WIN2026",
+      "course": "ENDO 550P",
+      "courseTitle": "P-DIR STDYS ENDO",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -1862,7 +2272,7 @@
       "course": "ENDO 582",
       "courseTitle": "ENDODONTIC SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Paranjpe,Avina"
     },
     {
       "campus": "S",
@@ -1872,7 +2282,7 @@
       "course": "ENDO 586",
       "courseTitle": "ENDODONTIC SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Paranjpe,Avina"
     },
     {
       "campus": "S",
@@ -1882,7 +2292,7 @@
       "course": "ENDO 590",
       "courseTitle": "TREATMNT PLANN SMNR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Paranjpe,Avina"
     },
     {
       "campus": "S",
@@ -1892,7 +2302,7 @@
       "course": "ENDO 594",
       "courseTitle": "ENDODONTIC LIT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Paranjpe,Avina"
     },
     {
       "campus": "S",
@@ -1912,7 +2322,7 @@
       "course": "ENDO 651",
       "courseTitle": "HONORS ENDO LIT SEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Paranjpe,Avina"
     },
     {
       "campus": "S",
@@ -1932,7 +2342,7 @@
       "course": "ENDO 660",
       "courseTitle": "CLINICAL ENDODONTCS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Paranjpe,Avina"
     },
     {
       "campus": "S",
@@ -1942,7 +2352,7 @@
       "course": "ENDO 671",
       "courseTitle": "ENDO TREATMENT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Yap,Lindsey R."
     },
     {
       "campus": "S",
@@ -1962,7 +2372,7 @@
       "course": "ENDO 583",
       "courseTitle": "ENDODONTIC SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Paranjpe,Avina"
     },
     {
       "campus": "S",
@@ -1972,7 +2382,7 @@
       "course": "ENDO 587",
       "courseTitle": "ENDODONTIC SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Paranjpe,Avina"
     },
     {
       "campus": "S",
@@ -1982,7 +2392,7 @@
       "course": "ENDO 590",
       "courseTitle": "TREATMNT PLANN SMNR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Paranjpe,Avina"
     },
     {
       "campus": "S",
@@ -1992,7 +2402,7 @@
       "course": "ENDO 593",
       "courseTitle": "CLIN PRACTICE TEACH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Johnson,James D"
     },
     {
       "campus": "S",
@@ -2002,7 +2412,7 @@
       "course": "ENDO 593",
       "courseTitle": "CLIN PRACTICE TEACH",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Johnson,James D"
     },
     {
       "campus": "S",
@@ -2012,7 +2422,7 @@
       "course": "ENDO 594",
       "courseTitle": "ENDODONTIC LIT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Paranjpe,Avina"
     },
     {
       "campus": "S",
@@ -2032,7 +2442,7 @@
       "course": "ENDO 651",
       "courseTitle": "HONORS ENDO LIT SEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Paranjpe,Avina"
     },
     {
       "campus": "S",
@@ -2052,7 +2462,7 @@
       "course": "ENDO 660",
       "courseTitle": "CLINICAL ENDODONTCS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Paranjpe,Avina"
     }
   ]
 }

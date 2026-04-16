@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Sanchez-Gallego%2CJose",
+  "professor": "Sanchez-Gallego,Jose",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "astro",
+      "deptName": "Astronomy",
+      "term": "SPR2025",
+      "course": "ASTR 480",
+      "courseTitle": "ASTRO DATA ANALYS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "astro",
+      "deptName": "Astronomy",
+      "term": "WIN2024",
+      "course": "ASTR 301",
+      "courseTitle": "ASTR FOR SCI & ENGR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "astro",
+      "deptName": "Astronomy",
+      "term": "SPR2022",
+      "course": "ASTR 575",
+      "courseTitle": "ASTRON SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "astro",
+      "deptName": "Astronomy",
+      "term": "SUM2021",
+      "course": "ASTR 101",
+      "courseTitle": "ASTRONOMY",
+      "section": "B"
+    }
+  ]
+}

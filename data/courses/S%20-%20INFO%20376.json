@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20INFO%20376",
+  "course": "S - INFO 376",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2026",
+      "course": "INFO 376",
+      "courseTitle": "SRCH & RECOMNDR SYST",
+      "section": "A",
+      "instructor": "West,Jevin"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2025",
+      "course": "INFO 376",
+      "courseTitle": "SRCH & RECOMNDR SYST",
+      "section": "A",
+      "instructor": "Kaur,Kiran"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2024",
+      "course": "INFO 376",
+      "courseTitle": "SRCH & RECOMNDR SYST",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Chen%2CTyler",
+  "professor": "Chen,Tyler",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "SPR2021",
+      "course": "AMATH 352",
+      "courseTitle": "LINR ALG & NUM ANLY",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engl",
+      "deptName": "English",
+      "term": "AUT2020",
+      "course": "ENGL 199",
+      "courseTitle": "WRITING NAT SCI",
+      "section": "B"
+    }
+  ]
+}

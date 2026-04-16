@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "MOZELESKI%2CAMBER",
+  "professor": "MOZELESKI,AMBER",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "SUM2023",
+      "course": "TMATH 126",
+      "courseTitle": "CALC ANYL GEOM III",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "SUM2022",
+      "course": "TMATH 125",
+      "courseTitle": "CALC ANALYT GEOM II",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "SUM2021",
+      "course": "TMATH 126",
+      "courseTitle": "CALC ANYL GEOM III",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tmath",
+      "deptName": "Mathematics",
+      "term": "SUM2021",
+      "course": "TMATH 124",
+      "courseTitle": "CALC ANALYT GEOM I",
+      "section": "A"
+    }
+  ]
+}

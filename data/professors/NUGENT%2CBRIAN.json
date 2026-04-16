@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "NUGENT%2CBRIAN",
+  "professor": "NUGENT,BRIAN",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SPR2024",
+      "course": "MATH 224",
+      "courseTitle": "ADV MULTIVAR CALC",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2022",
+      "course": "MATH 441",
+      "courseTitle": "TOPOLOGY",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20ENGL%20256",
+  "course": "S - ENGL 256",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engl",
+      "deptName": "English",
+      "term": "WIN2025",
+      "course": "ENGL 256",
+      "courseTitle": "INTRO QUEER STUDIES",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engl",
+      "deptName": "English",
+      "term": "WIN2024",
+      "course": "ENGL 256",
+      "courseTitle": "INTRO QUEER STUDIES",
+      "section": "A",
+      "instructor": "WJO"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engl",
+      "deptName": "English",
+      "term": "AUT2020",
+      "course": "ENGL 256",
+      "courseTitle": "INTRO QUEER STUDIES",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
+}

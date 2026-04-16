@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:55Z",
+  "generatedAt": "2026-04-16T02:57:10Z",
   "campus": "S",
   "dept": "beng",
   "deptName": "Bengali",
@@ -8,6 +8,46 @@
       "campus": "S",
       "dept": "beng",
       "deptName": "Bengali",
+      "term": "AUT2020",
+      "course": "BENG 101",
+      "courseTitle": "ELEMENTARY BENGALI",
+      "section": "A",
+      "instructor": "Abedin,N"
+    },
+    {
+      "campus": "S",
+      "dept": "beng",
+      "deptName": "Bengali",
+      "term": "AUT2020",
+      "course": "BENG 201",
+      "courseTitle": "INTERMED BENGALI",
+      "section": "A",
+      "instructor": "Abedin,N"
+    },
+    {
+      "campus": "S",
+      "dept": "beng",
+      "deptName": "Bengali",
+      "term": "AUT2020",
+      "course": "BENG 301",
+      "courseTitle": "ADVANCED BENGALI",
+      "section": "A",
+      "instructor": "Abedin,N"
+    },
+    {
+      "campus": "S",
+      "dept": "beng",
+      "deptName": "Bengali",
+      "term": "AUT2020",
+      "course": "BENG 499",
+      "courseTitle": "BENG INDPT STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "beng",
+      "deptName": "Bengali",
       "term": "WIN2021",
       "course": "BENG 102",
       "courseTitle": "ELEMENTARY BENGALI",
@@ -302,7 +342,7 @@
       "course": "BENG 203",
       "courseTitle": "INTERMED BENGALI",
       "section": "A",
-      "instructor": "Abedin,N"
+      "instructor": "B Abedin,N"
     },
     {
       "campus": "S",
@@ -359,6 +399,116 @@
       "dept": "beng",
       "deptName": "Bengali",
       "term": "AUT2023",
+      "course": "BENG 499",
+      "courseTitle": "BENG INDPT STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "beng",
+      "deptName": "Bengali",
+      "term": "WIN2024",
+      "course": "BENG 102",
+      "courseTitle": "ELEMENTARY BENGALI",
+      "section": "A",
+      "instructor": "Abedin,N"
+    },
+    {
+      "campus": "S",
+      "dept": "beng",
+      "deptName": "Bengali",
+      "term": "WIN2024",
+      "course": "BENG 202",
+      "courseTitle": "INTERMED BENGALI",
+      "section": "A",
+      "instructor": "Abedin,N"
+    },
+    {
+      "campus": "S",
+      "dept": "beng",
+      "deptName": "Bengali",
+      "term": "WIN2024",
+      "course": "BENG 302",
+      "courseTitle": "ADVANCED BENGALI",
+      "section": "A",
+      "instructor": "Abedin,N"
+    },
+    {
+      "campus": "S",
+      "dept": "beng",
+      "deptName": "Bengali",
+      "term": "WIN2024",
+      "course": "BENG 499",
+      "courseTitle": "BENG INDPT STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "beng",
+      "deptName": "Bengali",
+      "term": "SPR2024",
+      "course": "BENG 103",
+      "courseTitle": "ELEMENTARY BENGALI",
+      "section": "A",
+      "instructor": "Abedin,N"
+    },
+    {
+      "campus": "S",
+      "dept": "beng",
+      "deptName": "Bengali",
+      "term": "SPR2024",
+      "course": "BENG 203",
+      "courseTitle": "INTERMED BENGALI",
+      "section": "A",
+      "instructor": "Abedin,N"
+    },
+    {
+      "campus": "S",
+      "dept": "beng",
+      "deptName": "Bengali",
+      "term": "SPR2024",
+      "course": "BENG 303",
+      "courseTitle": "ADVANCED BENGALI",
+      "section": "A",
+      "instructor": "Abedin,N"
+    },
+    {
+      "campus": "S",
+      "dept": "beng",
+      "deptName": "Bengali",
+      "term": "SPR2024",
+      "course": "BENG 499",
+      "courseTitle": "BENG INDPT STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "beng",
+      "deptName": "Bengali",
+      "term": "AUT2024",
+      "course": "BENG 101",
+      "courseTitle": "ELEMENTARY BENGALI",
+      "section": "A",
+      "instructor": "Chowdhuri,Binata"
+    },
+    {
+      "campus": "S",
+      "dept": "beng",
+      "deptName": "Bengali",
+      "term": "AUT2024",
+      "course": "BENG 201",
+      "courseTitle": "INTERMED BENGALI",
+      "section": "A",
+      "instructor": "Chowdhuri,Binata"
+    },
+    {
+      "campus": "S",
+      "dept": "beng",
+      "deptName": "Bengali",
+      "term": "AUT2024",
       "course": "BENG 499",
       "courseTitle": "BENG INDPT STDY",
       "section": "A",

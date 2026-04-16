@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Chang%2CSylvia",
+  "professor": "Chang,Sylvia",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mktg",
+      "deptName": "Marketing",
+      "term": "SPR2024",
+      "course": "MKTG 301",
+      "courseTitle": "MARKETING CONCEPTS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mktg",
+      "deptName": "Marketing",
+      "term": "WIN2023",
+      "course": "MKTG 460",
+      "courseTitle": "CONSUMER INSIGHTS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mktg",
+      "deptName": "Marketing",
+      "term": "WIN2022",
+      "course": "MKTG 456",
+      "courseTitle": "ADVERTISING",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Cobbe%2CRichard",
+  "professor": "Cobbe,Richard",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "SPR2023",
+      "course": "CSS 475",
+      "courseTitle": "DATABASE SYSTEMS",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "WIN2023",
+      "course": "CSS 142",
+      "courseTitle": "CMPT PROG I",
+      "section": "D"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "AUT2022",
+      "course": "CSS 142",
+      "courseTitle": "CMPT PROG I",
+      "section": "B"
+    }
+  ]
+}

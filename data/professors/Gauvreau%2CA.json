@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Gauvreau%2CA",
+  "professor": "Gauvreau,A",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2022",
+      "course": "EDSPE 525",
+      "courseTitle": "AUTISM AND SOC DIS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2021",
+      "course": "EDSPE 525",
+      "courseTitle": "AUTISM AND SOC DIS",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Lee%2CHeather",
+  "professor": "Lee,Heather",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SPR2021",
+      "course": "MATH 309",
+      "courseTitle": "LINEAR ANALYSIS",
+      "section": "F"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SPR2021",
+      "course": "MATH 309",
+      "courseTitle": "LINEAR ANALYSIS",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "WIN2021",
+      "course": "MATH 309",
+      "courseTitle": "LINEAR ANALYSIS",
+      "section": "D"
+    }
+  ]
+}

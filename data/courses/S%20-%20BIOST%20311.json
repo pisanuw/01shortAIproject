@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20BIOST%20311",
+  "course": "S - BIOST 311",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "SPR2024",
+      "course": "BIOST 311",
+      "courseTitle": "REGRESSION METHODS",
+      "section": "A",
+      "instructor": "Masaki,Nobu"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "SPR2023",
+      "course": "BIOST 311",
+      "courseTitle": "REGRESSION METHODS",
+      "section": "A",
+      "instructor": "Galanter,Nina"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "SPR2022",
+      "course": "BIOST 311",
+      "courseTitle": "REGRESSION METHODS",
+      "section": "A",
+      "instructor": "Wolock,Charlie"
+    }
+  ]
+}

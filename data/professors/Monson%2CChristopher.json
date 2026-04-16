@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Monson%2CChristopher",
+  "professor": "Monson,Christopher",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "AUT2023",
+      "course": "BIOL 463",
+      "courseTitle": "ADV ANIMAL PHYS LAB",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "AUT2023",
+      "course": "BIOL 462",
+      "courseTitle": "ADV ANIMAL PHYS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fish",
+      "deptName": "Aquatic and Fishery Sciences",
+      "term": "WIN2022",
+      "course": "FISH 324",
+      "courseTitle": "AQUATIC PHYSIOLOGY",
+      "section": "B"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Vogt%2CK",
+  "professor": "Vogt,K",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "esrm",
+      "deptName": "Environmental Science and Resource Management",
+      "term": "SPR2022",
+      "course": "ESRM 101",
+      "courseTitle": "FORESTS AND SOCIETY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sefs",
+      "deptName": "School of Environmental and Forest Sciences",
+      "term": "WIN2021",
+      "course": "SEFS 590",
+      "courseTitle": "GRADUATE STUDIES",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "esrm",
+      "deptName": "Environmental Science and Resource Management",
+      "term": "WIN2021",
+      "course": "ESRM 490",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C"
+    }
+  ]
+}

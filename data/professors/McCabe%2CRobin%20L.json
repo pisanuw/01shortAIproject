@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "McCabe%2CRobin%20L",
+  "professor": "McCabe,Robin L",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "music",
+      "deptName": "Music",
+      "term": "SPR2026",
+      "course": "MUSIC 436",
+      "courseTitle": "PEDAGOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "music",
+      "deptName": "Music",
+      "term": "WIN2026",
+      "course": "MUSIC 435",
+      "courseTitle": "PEDAGOGY",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "music",
+      "deptName": "Music",
+      "term": "AUT2025",
+      "course": "MUSIC 434",
+      "courseTitle": "PEDAGOGY",
+      "section": "B"
+    }
+  ]
+}

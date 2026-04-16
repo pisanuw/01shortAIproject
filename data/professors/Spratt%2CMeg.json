@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Spratt%2CMeg",
+  "professor": "Spratt,Meg",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "polisci",
+      "deptName": "Political Science",
+      "term": "SUM2021",
+      "course": "POL S 304",
+      "courseTitle": "AM PRESS & POLITICS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "SUM2021",
+      "course": "COM 304",
+      "courseTitle": "AM PRESS & POLITICS",
+      "section": "C"
+    }
+  ]
+}

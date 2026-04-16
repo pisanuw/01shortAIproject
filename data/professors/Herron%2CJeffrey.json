@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Herron%2CJeffrey",
+  "professor": "Herron,Jeffrey",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "AUT2024",
+      "course": "E E 560",
+      "courseTitle": "NEURAL ENGINEERING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "AUT2024",
+      "course": "E E 460",
+      "courseTitle": "NEURAL ENGINEERING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "AUT2024",
+      "course": "CSE 490",
+      "courseTitle": "SPECIAL TOPICS CSE",
+      "section": "N"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "AUT2024",
+      "course": "BIOEN 560",
+      "courseTitle": "NEURAL ENGINEERING",
+      "section": "A"
+    }
+  ]
+}

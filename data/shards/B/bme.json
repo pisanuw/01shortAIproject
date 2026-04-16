@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:24:45Z",
+  "generatedAt": "2026-04-16T02:57:09Z",
   "campus": "B",
   "dept": "bme",
   "deptName": "Mechanical Engineering",
@@ -1252,7 +1252,7 @@
       "course": "B ME 333",
       "courseTitle": "HEAT TRANSFER",
       "section": "A",
-      "instructor": "Abrous,Abdelouahab"
+      "instructor": "G Abrous,Abdelouahab"
     },
     {
       "campus": "B",
@@ -1812,7 +1812,7 @@
       "course": "B ME 333",
       "courseTitle": "HEAT TRANSFER",
       "section": "A",
-      "instructor": "Abrous,Abdelouahab"
+      "instructor": "G Abrous,Abdelouahab"
     },
     {
       "campus": "B",
@@ -1921,8 +1921,8 @@
       "term": "AUT2023",
       "course": "B ME 343",
       "courseTitle": "MECH SYS DESIGN III",
-      "section": "A",
-      "instructor": "Yoon,Jong"
+      "section": "B",
+      "instructor": "G Yoon,Jong"
     },
     {
       "campus": "B",
@@ -1931,7 +1931,7 @@
       "term": "AUT2023",
       "course": "B ME 343",
       "courseTitle": "MECH SYS DESIGN III",
-      "section": "B",
+      "section": "A",
       "instructor": "Yoon,Jong"
     },
     {
@@ -2992,7 +2992,7 @@
       "course": "B ME 221",
       "courseTitle": "STATICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kim,J"
     },
     {
       "campus": "B",
@@ -3002,7 +3002,7 @@
       "course": "B ME 301",
       "courseTitle": "INTRO TO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Abadi,Shima"
     },
     {
       "campus": "B",
@@ -3012,7 +3012,7 @@
       "course": "B ME 315",
       "courseTitle": "INTRO 3D MODELING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anderson,Bill"
     },
     {
       "campus": "B",
@@ -3022,7 +3022,7 @@
       "course": "B ME 331",
       "courseTitle": "THERMODYNAMICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Balzan,Miguel"
     },
     {
       "campus": "B",
@@ -3032,7 +3032,7 @@
       "course": "B ME 331",
       "courseTitle": "THERMODYNAMICS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Balzan,Miguel"
     },
     {
       "campus": "B",
@@ -3042,7 +3042,7 @@
       "course": "B ME 343",
       "courseTitle": "MECH SYS DESIGN III",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Yoon,Jong"
     },
     {
       "campus": "B",
@@ -3132,7 +3132,7 @@
       "course": "B ME 222",
       "courseTitle": "MECH OF MATERIALS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Masoumi,Narges"
     },
     {
       "campus": "B",
@@ -3142,7 +3142,7 @@
       "course": "B ME 222",
       "courseTitle": "MECH OF MATERIALS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Masoumi,Narges"
     },
     {
       "campus": "B",
@@ -3152,17 +3152,7 @@
       "course": "B ME 315",
       "courseTitle": "INTRO 3D MODELING",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bme",
-      "deptName": "Mechanical Engineering",
-      "term": "WIN2026",
-      "course": "B ME 332",
-      "courseTitle": "FLUID MECHANICS",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Yoon,Jong"
     },
     {
       "campus": "B",
@@ -3172,7 +3162,17 @@
       "course": "B ME 332",
       "courseTitle": "FLUID MECHANICS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Abadi,Shima"
+    },
+    {
+      "campus": "B",
+      "dept": "bme",
+      "deptName": "Mechanical Engineering",
+      "term": "WIN2026",
+      "course": "B ME 332",
+      "courseTitle": "FLUID MECHANICS",
+      "section": "A",
+      "instructor": "LEONEN,ELIJAH CUNANAN"
     },
     {
       "campus": "B",
@@ -3182,7 +3182,7 @@
       "course": "B ME 341",
       "courseTitle": "MECH SYS DESIGN I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anderson,Bill"
     },
     {
       "campus": "B",
@@ -3192,7 +3192,7 @@
       "course": "B ME 341",
       "courseTitle": "MECH SYS DESIGN I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Anderson,Bill"
     },
     {
       "campus": "B",
@@ -3202,7 +3202,7 @@
       "course": "B ME 345",
       "courseTitle": "MACHINING FUND",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anderson,Bill"
     },
     {
       "campus": "B",
@@ -3212,7 +3212,7 @@
       "course": "B ME 410",
       "courseTitle": "ELEC POWR MACHINRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mead,Nathan"
     },
     {
       "campus": "B",
@@ -3222,7 +3222,7 @@
       "course": "B ME 433",
       "courseTitle": "ADV THERMAL FLUIDS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Balzan,Miguel"
     },
     {
       "campus": "B",
@@ -3232,7 +3232,7 @@
       "course": "B ME 460",
       "courseTitle": "INTRO TO MECHATRON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Yoon,Jong"
     },
     {
       "campus": "B",
@@ -3281,8 +3281,8 @@
       "term": "SPR2026",
       "course": "B ME 223",
       "courseTitle": "DYNAMICS",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Kim,J"
     },
     {
       "campus": "B",
@@ -3291,8 +3291,8 @@
       "term": "SPR2026",
       "course": "B ME 223",
       "courseTitle": "DYNAMICS",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Yoon,Jong"
     },
     {
       "campus": "B",
@@ -3302,7 +3302,7 @@
       "course": "B ME 333",
       "courseTitle": "HEAT TRANSFER",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Balzan,Miguel"
     },
     {
       "campus": "B",
@@ -3312,7 +3312,7 @@
       "course": "B ME 333",
       "courseTitle": "HEAT TRANSFER",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Balzan,Miguel"
     },
     {
       "campus": "B",
@@ -3322,7 +3322,7 @@
       "course": "B ME 334",
       "courseTitle": "THERM FLDS LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Balzan,Miguel"
     },
     {
       "campus": "B",
@@ -3332,7 +3332,7 @@
       "course": "B ME 334",
       "courseTitle": "THERM FLDS LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Balzan,Miguel"
     },
     {
       "campus": "B",
@@ -3342,7 +3342,7 @@
       "course": "B ME 334",
       "courseTitle": "THERM FLDS LAB",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Balzan,Miguel"
     },
     {
       "campus": "B",
@@ -3352,7 +3352,7 @@
       "course": "B ME 342",
       "courseTitle": "MECH SYS DESIGN II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anderson,Bill"
     },
     {
       "campus": "B",
@@ -3362,7 +3362,7 @@
       "course": "B ME 342",
       "courseTitle": "MECH SYS DESIGN II",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Anderson,Bill"
     },
     {
       "campus": "B",
@@ -3372,7 +3372,7 @@
       "course": "B ME 345",
       "courseTitle": "MACHINING FUND",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anderson,Bill"
     },
     {
       "campus": "B",
@@ -3382,7 +3382,7 @@
       "course": "B ME 450",
       "courseTitle": "OCEAN ENGR & SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Abadi,Shima"
     },
     {
       "campus": "B",
@@ -3392,7 +3392,17 @@
       "course": "B ME 481",
       "courseTitle": "CITIZEN ENGINEER",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Enten,Aaron"
+    },
+    {
+      "campus": "B",
+      "dept": "bme",
+      "deptName": "Mechanical Engineering",
+      "term": "SPR2026",
+      "course": "B ME 493",
+      "courseTitle": "ADV SPEC TOPICS ME",
+      "section": "C",
+      "instructor": "Herrero,Javier"
     },
     {
       "campus": "B",
@@ -3412,17 +3422,7 @@
       "course": "B ME 493",
       "courseTitle": "ADV SPEC TOPICS ME",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bme",
-      "deptName": "Mechanical Engineering",
-      "term": "SPR2026",
-      "course": "B ME 493",
-      "courseTitle": "ADV SPEC TOPICS ME",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Thielman,Scott Craig"
     },
     {
       "campus": "B",

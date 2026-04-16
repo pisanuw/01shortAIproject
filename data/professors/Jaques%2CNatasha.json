@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Jaques%2CNatasha",
+  "professor": "Jaques,Natasha",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "SPR2026",
+      "course": "CSE 446",
+      "courseTitle": "MACHINE LEARNING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "SPR2025",
+      "course": "CSE 446",
+      "courseTitle": "MACHINE LEARNING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "SPR2024",
+      "course": "CSE 599",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "J"
+    }
+  ]
+}

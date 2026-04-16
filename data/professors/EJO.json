@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "EJO",
+  "professor": "EJO",
+  "recordCount": 5,
+  "records": [
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tcrim",
+      "deptName": "Criminal Justice",
+      "term": "SPR2026",
+      "course": "T CRIM 498",
+      "courseTitle": "CRIM & JUST INTRNSHP",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tcrim",
+      "deptName": "Criminal Justice",
+      "term": "SPR2025",
+      "course": "T CRIM 498",
+      "courseTitle": "INTERNSHIP",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tcrim",
+      "deptName": "Criminal Justice",
+      "term": "WIN2025",
+      "course": "T CRIM 498",
+      "courseTitle": "INTERNSHIP",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "WIN2025",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "WIN2025",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "A"
+    }
+  ]
+}

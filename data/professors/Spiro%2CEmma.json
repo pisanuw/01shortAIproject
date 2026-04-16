@@ -1,0 +1,68 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Spiro%2CEmma",
+  "professor": "Spiro,Emma",
+  "recordCount": 6,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2026",
+      "course": "INFO 300",
+      "courseTitle": "RESEARCH METHODS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2026",
+      "course": "INFO 300",
+      "courseTitle": "RESEARCH METHODS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "imt",
+      "deptName": "Information Management",
+      "term": "SPR2025",
+      "course": "IMT 571",
+      "courseTitle": "SOC NET ANALYSIS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2023",
+      "course": "INFO 370",
+      "courseTitle": "DATA SCIENCE METHDS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2023",
+      "course": "INFO 370",
+      "courseTitle": "DATA SCIENCE METHDS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "imt",
+      "deptName": "Information Management",
+      "term": "SPR2023",
+      "course": "IMT 571",
+      "courseTitle": "SOC NET ANALYSIS",
+      "section": "B"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Stevens%2CChristine",
+  "professor": "Stevens,Christine",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tcore",
+      "deptName": "Core Courses",
+      "term": "AUT2024",
+      "course": "T CORE 103",
+      "courseTitle": "INTRO SOC SCI",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tcore",
+      "deptName": "Core Courses",
+      "term": "WIN2024",
+      "course": "T CORE 113",
+      "courseTitle": "INTRO SOC SCI",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "thlth",
+      "deptName": "Health",
+      "term": "WIN2021",
+      "course": "T HLTH 340",
+      "courseTitle": "ADDICT MNTL ILL FILM",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Johnson%2CBrian",
+  "professor": "Johnson,Brian",
+  "recordCount": 5,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "AUT2021",
+      "course": "E E 532",
+      "courseTitle": "PWR ELECTRONIC DES",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "AUT2021",
+      "course": "E E 452",
+      "courseTitle": "PWR ELECTRONIC DES",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "WIN2021",
+      "course": "E E 559",
+      "courseTitle": "TOPICS ELEC ENERGY",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "WIN2021",
+      "course": "E E 458",
+      "courseTitle": "POWER ELEC CONTROLS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "AUT2020",
+      "course": "E E 559",
+      "courseTitle": "TOPICS ELEC ENERGY",
+      "section": "B"
+    }
+  ]
+}

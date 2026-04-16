@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Hillyard%2CCinnamon",
+  "professor": "Hillyard,Cinnamon",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcusp",
+      "deptName": "University Studies and Programs",
+      "term": "AUT2024",
+      "course": "B CUSP 131",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "WIN2024",
+      "course": "B CORE 133",
+      "courseTitle": "DISCOVERY CORE III",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "WIN2023",
+      "course": "B CORE 133",
+      "courseTitle": "DISCOVERY CORE III",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcusp",
+      "deptName": "University Studies and Programs",
+      "term": "AUT2020",
+      "course": "B CUSP 131",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B"
+    }
+  ]
+}

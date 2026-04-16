@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Kalus%2CA",
+  "professor": "Kalus,A",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "medicine",
+      "deptName": "Medicine",
+      "term": "AUT2022",
+      "course": "MED 556",
+      "courseTitle": "VISUAL THINKING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "medicine",
+      "deptName": "Medicine",
+      "term": "AUT2021",
+      "course": "MED 556",
+      "courseTitle": "VISUAL THINKING",
+      "section": "A"
+    }
+  ]
+}

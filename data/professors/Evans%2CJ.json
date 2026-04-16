@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Evans%2CJ",
+  "professor": "Evans,J",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dentcl",
+      "deptName": "Dental Clerkship",
+      "term": "AUT2021",
+      "course": "DENTCL 637",
+      "courseTitle": "OMS CLERKSHIP",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dentpc",
+      "deptName": "Dental Pre-Clinical",
+      "term": "SUM2021",
+      "course": "DENTPC 553",
+      "courseTitle": "LOCAL ANESTHESIA",
+      "section": "A"
+    }
+  ]
+}

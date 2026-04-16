@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20FIN%20445",
+  "course": "S - FIN 445",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "finance",
+      "deptName": "Finance",
+      "term": "SPR2026",
+      "course": "FIN 445",
+      "courseTitle": "RE DEV & FEAS ANLSYS",
+      "section": "A",
+      "instructor": "Seslen,Tracey"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "finance",
+      "deptName": "Finance",
+      "term": "SPR2025",
+      "course": "FIN 445",
+      "courseTitle": "RE DEV & FEAS ANLSYS",
+      "section": "A",
+      "instructor": "Seslen,Tracey"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "finance",
+      "deptName": "Finance",
+      "term": "SPR2023",
+      "course": "FIN 445",
+      "courseTitle": "RE DEV & FEAS ANLSYS",
+      "section": "A",
+      "instructor": "Seslen,Tracey"
+    }
+  ]
+}

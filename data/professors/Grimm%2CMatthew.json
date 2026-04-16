@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Grimm%2CMatthew",
+  "professor": "Grimm,Matthew",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2025",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2025",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICROECON",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2024",
+      "course": "ECON 301",
+      "courseTitle": "INTERMED MACRO-ECON",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2023",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "F"
+    }
+  ]
+}

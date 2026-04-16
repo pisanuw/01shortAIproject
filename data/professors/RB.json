@@ -1,0 +1,118 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "RB",
+  "professor": "RB",
+  "recordCount": 11,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "soc",
+      "deptName": "Sociology",
+      "term": "WIN2026",
+      "course": "SOC 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bearth",
+      "deptName": "Earth System Science",
+      "term": "AUT2025",
+      "course": "BEARTH 317",
+      "courseTitle": "SOILS IN THE ENVIRON",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2024",
+      "course": "BIS 498",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "C"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2024",
+      "course": "BIS 498",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "AUT2023",
+      "course": "GEOG 326",
+      "courseTitle": "QUANT METHODS GEOG",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tpsych",
+      "deptName": "Psychology",
+      "term": "WIN2023",
+      "course": "TPSYCH 455",
+      "courseTitle": "IMMIGRANT YOUTH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2023",
+      "course": "GEOG 326",
+      "courseTitle": "QUANT METHODS GEOG",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2023",
+      "course": "BIS 498",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "SPR2022",
+      "course": "M E 495",
+      "courseTitle": "MECH ENGR DESIGN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2022",
+      "course": "GEOG 326",
+      "courseTitle": "QUANT METHODS GEOG",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bnurs",
+      "deptName": "Nursing",
+      "term": "WIN2021",
+      "course": "B NURS 520",
+      "courseTitle": "TRNSL RSCH I",
+      "section": "A"
+    }
+  ]
+}

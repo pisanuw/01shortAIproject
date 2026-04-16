@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:56Z",
+  "generatedAt": "2026-04-16T02:57:11Z",
   "campus": "S",
   "dept": "econ",
   "deptName": "Economics",
@@ -61,6 +61,16 @@
       "term": "AUT2020",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
+      "section": "B",
+      "instructor": "Jacobs,Joshua Abraham"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2020",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
       "section": "I",
       "instructor": "Kang,Changgi"
     },
@@ -91,28 +101,18 @@
       "term": "AUT2020",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
+      "section": "A",
+      "instructor": "Salehi-Esfahani,H"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2020",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
       "section": "M",
       "instructor": "Sardar,Ferdous Zaman"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "AUT2020",
-      "course": "ECON 200",
-      "courseTitle": "INTRO MICROECON",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "AUT2020",
-      "course": "ECON 200",
-      "courseTitle": "INTRO MICROECON",
-      "section": "B",
-      "instructor": "TBA"
     },
     {
       "campus": "S",
@@ -152,7 +152,7 @@
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "O'Dea,Dennis C"
     },
     {
       "campus": "S",
@@ -171,8 +171,8 @@
       "term": "AUT2020",
       "course": "ECON 300",
       "courseTitle": "INTERMED MICRO-ECON",
-      "section": "C",
-      "instructor": "RIVERO,JORGE"
+      "section": "A",
+      "instructor": "Ellis,Gregory M"
     },
     {
       "campus": "S",
@@ -181,8 +181,8 @@
       "term": "AUT2020",
       "course": "ECON 300",
       "courseTitle": "INTERMED MICRO-ECON",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "RIVERO,JORGE"
     },
     {
       "campus": "S",
@@ -232,7 +232,7 @@
       "course": "ECON 382",
       "courseTitle": "INTRO ECONOMETRICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ellis,Gregory M"
     },
     {
       "campus": "S",
@@ -601,6 +601,26 @@
       "term": "WIN2021",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
+      "section": "B",
+      "instructor": "Jacobs,Joshua"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2021",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "A",
+      "instructor": "Knox,Melissa A"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2021",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
       "section": "J",
       "instructor": "Kwak,Kyongjun"
     },
@@ -613,26 +633,6 @@
       "courseTitle": "INTRO MICROECON",
       "section": "G",
       "instructor": "Park,Hyeonseok"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "WIN2021",
-      "course": "ECON 200",
-      "courseTitle": "INTRO MICROECON",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "WIN2021",
-      "course": "ECON 200",
-      "courseTitle": "INTRO MICROECON",
-      "section": "B",
-      "instructor": "TBA"
     },
     {
       "campus": "S",
@@ -662,7 +662,7 @@
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "O'Dea,Dennis"
     },
     {
       "campus": "S",
@@ -691,8 +691,8 @@
       "term": "WIN2021",
       "course": "ECON 300",
       "courseTitle": "INTERMED MICRO-ECON",
-      "section": "C",
-      "instructor": "Sardar,Ferdous Zaman"
+      "section": "A",
+      "instructor": "Mao,Junwei"
     },
     {
       "campus": "S",
@@ -701,8 +701,8 @@
       "term": "WIN2021",
       "course": "ECON 300",
       "courseTitle": "INTERMED MICRO-ECON",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "Sardar,Ferdous Zaman"
     },
     {
       "campus": "S",
@@ -752,7 +752,7 @@
       "course": "ECON 382",
       "courseTitle": "INTRO ECONOMETRICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jacobs,Joshua"
     },
     {
       "campus": "S",
@@ -1088,11 +1088,741 @@
       "campus": "S",
       "dept": "econ",
       "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "B",
+      "instructor": "ABKEN,AMRE"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "A",
+      "instructor": "Knox,Melissa A"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "F",
+      "instructor": "KWAK,KYONGJUN"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "A",
+      "instructor": "O'Dea,Dennis C"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "C",
+      "instructor": "Yang,Zhou"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 230",
+      "courseTitle": "ECONOMICS FISH&OCN",
+      "section": "A",
+      "instructor": "Anderson,Christopher M."
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 235",
+      "courseTitle": "INTRO ENVIRO ECON",
+      "section": "A",
+      "instructor": "Rabotyagov,Sergey"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICRO-ECON",
+      "section": "C",
+      "instructor": "RIVERO,JORGE"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICRO-ECON",
+      "section": "B",
+      "instructor": "Sardar,Ferdous Zaman"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICRO-ECON",
+      "section": "A",
+      "instructor": "Xu,Lia"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 301",
+      "courseTitle": "INTERMED MACRO-ECON",
+      "section": "A",
+      "instructor": "Chen,Qiliang"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 301",
+      "courseTitle": "INTERMED MACRO-ECON",
+      "section": "C",
+      "instructor": "DI,AOCHUN"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 301",
+      "courseTitle": "INTERMED MACRO-ECON",
+      "section": "B",
+      "instructor": "Didgar,Dadmehr"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 301",
+      "courseTitle": "INTERMED MACRO-ECON",
+      "section": "D",
+      "instructor": "Granera,Luis Diego"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 345",
+      "courseTitle": "GLOBAL HEALTH ECON",
+      "section": "A",
+      "instructor": "Levin,Carol E."
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 382",
+      "courseTitle": "INTRO ECONOMETRICS",
+      "section": "A",
+      "instructor": "Jacobs,Joshua Abraham"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 396",
+      "courseTitle": "HONORS RESEARCH SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 399",
+      "courseTitle": "ECON INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 400",
+      "courseTitle": "ADVANCED MICROECON",
+      "section": "A",
+      "instructor": "Hang,Victoria Ziqi"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 401",
+      "courseTitle": "ADVANCED MACROECON",
+      "section": "A",
+      "instructor": "Granados-Castro,Joan-Camil"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 404",
+      "courseTitle": "IND ORG&PRICE ANLYS",
+      "section": "A",
+      "instructor": "Takahashi,Yuya"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 408",
+      "courseTitle": "LAW & ECONOMICS",
+      "section": "A",
+      "instructor": "Tapia,Christina P."
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 409",
+      "courseTitle": "UNDERG SEM-POL ECON",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 409",
+      "courseTitle": "UNDERG SEM-POL ECON",
+      "section": "B",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 422",
+      "courseTitle": "INVESTM CAPTL FNANC",
+      "section": "A",
+      "instructor": "Jacobs,Joshua Abraham"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 423",
+      "courseTitle": "TOPICS IN FIN ECON",
+      "section": "A",
+      "instructor": "Tapia,Christina P."
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 424",
+      "courseTitle": "COMPUTATNL FINANCE",
+      "section": "A",
+      "instructor": "Liu,Yuming Herbert"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 431",
+      "courseTitle": "GOVT & BUSINESS",
+      "section": "A",
+      "instructor": "Santesteban,Cristian"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 436",
+      "courseTitle": "ENVIRONMENTAL ECON",
+      "section": "A",
+      "instructor": "Halvorsen,R"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 443",
+      "courseTitle": "LABOR MKT ANALYSIS",
+      "section": "A",
+      "instructor": "Rose,E"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 447",
+      "courseTitle": "ECON OF GENDER",
+      "section": "A",
+      "instructor": "Heath,Rachel M"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 451",
+      "courseTitle": "PUB FIN: TAX POLICY",
+      "section": "A",
+      "instructor": "O'Dea,Dennis C"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 454",
+      "courseTitle": "COST-BENEFIT ANLYS",
+      "section": "A",
+      "instructor": "Halvorsen,R"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 471",
+      "courseTitle": "INTERNATIONAL TRADE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 471",
+      "courseTitle": "INTERNATIONAL TRADE",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 482",
+      "courseTitle": "ECONOMETRIC THRY&PR",
+      "section": "A",
+      "instructor": "Jalali,Samin"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 484",
+      "courseTitle": "ECNMTRCS & DATA SCI",
+      "section": "A",
+      "instructor": "Duncan,Gregory M"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 485",
+      "courseTitle": "GAME THEORY",
+      "section": "A",
+      "instructor": "Lawarree,Jacques P"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 486",
+      "courseTitle": "ECON OF INFORMATION",
+      "section": "A",
+      "instructor": "Khalil,Fahad A"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 508",
+      "courseTitle": "MICROECN ANLYS III",
+      "section": "A",
+      "instructor": "Khalil,Fahad A"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 509",
+      "courseTitle": "MACROECON ANLYS III",
+      "section": "A",
+      "instructor": "Greaney,Brian"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 527",
+      "courseTitle": "MACRO EMPIR & THRY",
+      "section": "A",
+      "instructor": "Greaney,Brian"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 534",
+      "courseTitle": "EMPIRICAL INDUST ORG",
+      "section": "A",
+      "instructor": "Takahashi,Yuya"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 582",
+      "courseTitle": "ECONOMETRICS III",
+      "section": "A",
+      "instructor": "Tao,Jing"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 585",
+      "courseTitle": "ECONOMETRIC THY III",
+      "section": "A",
+      "instructor": "Fan,Yanqin"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 586",
+      "courseTitle": "TIME SERIES ANALYSIS",
+      "section": "A",
+      "instructor": "Kim,Chang-Jin"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 593",
+      "courseTitle": "MICROECON OF DEVELP",
+      "section": "A",
+      "instructor": "Heath,Rachel M"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 596",
+      "courseTitle": "PRACT IN MICROECON",
+      "section": "A",
+      "instructor": "Bajari,Patrick L"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 599",
+      "courseTitle": "ISSUES ECONOMETRICS",
+      "section": "A",
+      "instructor": "Fan,Yanqin"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2021",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "B",
+      "instructor": "CHOUNG,HAE YUN"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2021",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "A",
+      "instructor": "KWAK,KYONGJUN"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2021",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "C",
+      "instructor": "Khurana,Mikita"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2021",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "D",
+      "instructor": "P Didgar,Dadmehr"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2021",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "B",
+      "instructor": "Aminkhaki,Alireza"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2021",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "A",
+      "instructor": "DI,AOCHUN"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2021",
+      "course": "ECON 235",
+      "courseTitle": "INTRO ENVIRO ECON",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2021",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICRO-ECON",
+      "section": "A",
+      "instructor": "RIVERO,JORGE"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2021",
+      "course": "ECON 301",
+      "courseTitle": "INTERMED MACRO-ECON",
+      "section": "A",
+      "instructor": "Granera,Luis Diego"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2021",
+      "course": "ECON 399",
+      "courseTitle": "ECON INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2021",
+      "course": "ECON 400",
+      "courseTitle": "ADVANCED MICROECON",
+      "section": "A",
+      "instructor": "O'Dea,Dennis C"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2021",
+      "course": "ECON 401",
+      "courseTitle": "ADVANCED MACROECON",
+      "section": "A",
+      "instructor": "Chen,Yu-Chin"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2021",
+      "course": "ECON 422",
+      "courseTitle": "INVESTM CAPTL FNANC",
+      "section": "A",
+      "instructor": "Jacobs,Joshua"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2021",
+      "course": "ECON 435",
+      "courseTitle": "NATRL RESOURCE ECON",
+      "section": "A",
+      "instructor": "Halvorsen,Robert"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2021",
+      "course": "ECON 485",
+      "courseTitle": "GAME THEORY",
+      "section": "A",
+      "instructor": "Lawarree,J"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2021",
+      "course": "ECON 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2021",
+      "course": "ECON 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2021",
+      "course": "ECON 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2021",
+      "course": "ECON 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
       "term": "AUT2021",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
       "section": "E",
       "instructor": "EWEN,SEAN"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2021",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "B",
+      "instructor": "Jacobs,Joshua"
     },
     {
       "campus": "S",
@@ -1121,6 +1851,16 @@
       "term": "AUT2021",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
+      "section": "A",
+      "instructor": "Knox,Melissa A"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2021",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
       "section": "I",
       "instructor": "LIAO,YUFEI"
     },
@@ -1133,26 +1873,6 @@
       "courseTitle": "INTRO MICROECON",
       "section": "C",
       "instructor": "Park,Jeewon"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "AUT2021",
-      "course": "ECON 200",
-      "courseTitle": "INTRO MICROECON",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "AUT2021",
-      "course": "ECON 200",
-      "courseTitle": "INTRO MICROECON",
-      "section": "B",
-      "instructor": "TBA"
     },
     {
       "campus": "S",
@@ -1192,7 +1912,7 @@
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "O'Dea,Dennis"
     },
     {
       "campus": "S",
@@ -1292,7 +2012,7 @@
       "course": "ECON 382",
       "courseTitle": "INTRO ECONOMETRICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jacobs,Joshua"
     },
     {
       "campus": "S",
@@ -1681,6 +2401,16 @@
       "term": "WIN2022",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
+      "section": "A",
+      "instructor": "Knox,Melissa A"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2022",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
       "section": "D",
       "instructor": "LIAO,YUFEI"
     },
@@ -1701,18 +2431,8 @@
       "term": "WIN2022",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "WIN2022",
-      "course": "ECON 200",
-      "courseTitle": "INTRO MICROECON",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "NINAN,THERADAPUZHA VARGHES"
     },
     {
       "campus": "S",
@@ -1761,6 +2481,16 @@
       "term": "WIN2022",
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
+      "section": "A",
+      "instructor": "Jacobs,Joshua"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2022",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
       "section": "C",
       "instructor": "KAWAI,REINA"
     },
@@ -1783,16 +2513,6 @@
       "courseTitle": "INTRO MACROECON",
       "section": "H",
       "instructor": "SHI,WEILUN"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "WIN2022",
-      "course": "ECON 201",
-      "courseTitle": "INTRO MACROECON",
-      "section": "A",
-      "instructor": "TBA"
     },
     {
       "campus": "S",
@@ -1972,7 +2692,7 @@
       "course": "ECON 451",
       "courseTitle": "PUB FIN: TAX POLICY",
       "section": "A",
-      "instructor": "O'Dea,Dennis"
+      "instructor": "A O'Dea,Dennis"
     },
     {
       "campus": "S",
@@ -2248,6 +2968,836 @@
       "campus": "S",
       "dept": "econ",
       "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "B",
+      "instructor": "HONG,LUCY"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "A",
+      "instructor": "Jacobs,Joshua"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "C",
+      "instructor": "Aminkhaki,Alireza"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "B",
+      "instructor": "CHOI,YOON"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "A",
+      "instructor": "O'Dea,Dennis"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "D",
+      "instructor": "SHI,WEILUN"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 230",
+      "courseTitle": "ECONOMICS FISH&OCN",
+      "section": "A",
+      "instructor": "SCHAMP,ABBY"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 235",
+      "courseTitle": "INTRO ENVIRO ECON",
+      "section": "A",
+      "instructor": "Rabotyagov,Sergey"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICRO-ECON",
+      "section": "D",
+      "instructor": "Didgar,Dadmehr"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICRO-ECON",
+      "section": "A",
+      "instructor": "LEE,YUHAN"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICRO-ECON",
+      "section": "C",
+      "instructor": "NG,YVONNE"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICRO-ECON",
+      "section": "E",
+      "instructor": "Xu,Lia"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICRO-ECON",
+      "section": "B",
+      "instructor": "Yao,Frida"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 301",
+      "courseTitle": "INTERMED MACRO-ECON",
+      "section": "A",
+      "instructor": "Dai,Terrence"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 301",
+      "courseTitle": "INTERMED MACRO-ECON",
+      "section": "D",
+      "instructor": "Khurana,Mikita"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 301",
+      "courseTitle": "INTERMED MACRO-ECON",
+      "section": "B",
+      "instructor": "Yang,Zhou"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 301",
+      "courseTitle": "INTERMED MACRO-ECON",
+      "section": "C",
+      "instructor": "Yoon,Dhongkyu"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 345",
+      "courseTitle": "GLOBAL HEALTH ECON",
+      "section": "A",
+      "instructor": "Levin,Carol"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 382",
+      "courseTitle": "INTRO ECONOMETRICS",
+      "section": "A",
+      "instructor": "Tao,Jing"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 396",
+      "courseTitle": "HONORS RESEARCH SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 399",
+      "courseTitle": "ECON INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 400",
+      "courseTitle": "ADVANCED MICROECON",
+      "section": "A",
+      "instructor": "O'Dea,Dennis"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 400",
+      "courseTitle": "ADVANCED MICROECON",
+      "section": "B",
+      "instructor": "Wen,Quan"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 401",
+      "courseTitle": "ADVANCED MACROECON",
+      "section": "A",
+      "instructor": "Ghironi,Fabio P"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 401",
+      "courseTitle": "ADVANCED MACROECON",
+      "section": "B",
+      "instructor": "Ghironi,Fabio P"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 408",
+      "courseTitle": "LAW & ECONOMICS",
+      "section": "A",
+      "instructor": "Tapia,Christina P."
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 410",
+      "courseTitle": "ECON OF NETWORKS",
+      "section": "A",
+      "instructor": "Griffith,Alan"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 411",
+      "courseTitle": "BEHAVIORAL ECONOMICS",
+      "section": "A",
+      "instructor": "Tan,Xu"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 421",
+      "courseTitle": "MNY CRDT & THE ECON",
+      "section": "A",
+      "instructor": "Brock,Philip"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 422",
+      "courseTitle": "INVESTM CAPTL FNANC",
+      "section": "A",
+      "instructor": "Jacobs,Joshua"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 423",
+      "courseTitle": "TOPICS IN FIN ECON",
+      "section": "A",
+      "instructor": "Tapia,Christina P."
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 424",
+      "courseTitle": "COMPUTATNL FINANCE",
+      "section": "A",
+      "instructor": "Liu,Yuming Herbert"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 432",
+      "courseTitle": "EMPIRICAL INDSTR ORG",
+      "section": "A",
+      "instructor": "Takahashi,Yuya"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 436",
+      "courseTitle": "ENVIRONMENTAL ECON",
+      "section": "A",
+      "instructor": "Halvorsen,R"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 443",
+      "courseTitle": "LABOR MKT ANALYSIS",
+      "section": "A",
+      "instructor": "Rose,Elaina"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 447",
+      "courseTitle": "ECON OF GENDER",
+      "section": "A",
+      "instructor": "Heath,Rachel M"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 448",
+      "courseTitle": "POPULATION & DEVEL",
+      "section": "A",
+      "instructor": "Knox,Melissa A"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 454",
+      "courseTitle": "COST-BENEFIT ANLYS",
+      "section": "A",
+      "instructor": "Halvorsen,R"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 471",
+      "courseTitle": "INTERNATIONAL TRADE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 471",
+      "courseTitle": "INTERNATIONAL TRADE",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 482",
+      "courseTitle": "ECONOMETRIC THRY&PR",
+      "section": "A",
+      "instructor": "Tao,Jing"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 484",
+      "courseTitle": "ECNMTRCS & DATA SCI",
+      "section": "A",
+      "instructor": "Duncan,Gregory M"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 485",
+      "courseTitle": "GAME THEORY",
+      "section": "A",
+      "instructor": "Lawarree,Jacques P"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 486",
+      "courseTitle": "ECON OF INFORMATION",
+      "section": "A",
+      "instructor": "Khalil,Fahad A"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 491",
+      "courseTitle": "ISSUES ECON DEVELOP",
+      "section": "A",
+      "instructor": "Griffith,Alan"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 508",
+      "courseTitle": "MICROECN ANLYS III",
+      "section": "A",
+      "instructor": "Khalil,Fahad A"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 509",
+      "courseTitle": "MACROECON ANLYS III",
+      "section": "A",
+      "instructor": "Greaney,Brian"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 516",
+      "courseTitle": "GAME THEORY FOR ECON",
+      "section": "A",
+      "instructor": "Tan,Xu"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 527",
+      "courseTitle": "MACRO EMPIR & THRY",
+      "section": "A",
+      "instructor": "Greaney,Brian"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 534",
+      "courseTitle": "EMPIRICAL INDUST ORG",
+      "section": "A",
+      "instructor": "Takahashi,Yuya"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 547",
+      "courseTitle": "HEALTH POLICY ECON",
+      "section": "A",
+      "instructor": "Wong,Edwin S."
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 582",
+      "courseTitle": "ECONOMETRICS III",
+      "section": "A",
+      "instructor": "Zivot,Eric"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 585",
+      "courseTitle": "ECONOMETRIC THY III",
+      "section": "A",
+      "instructor": "Fan,Yanqin"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 586",
+      "courseTitle": "TIME SERIES ANALYSIS",
+      "section": "A",
+      "instructor": "Kim,Chang-Jin"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 591",
+      "courseTitle": "MICROECON OF DVL",
+      "section": "A",
+      "instructor": "Heath,Rachel M"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 592",
+      "courseTitle": "DEVELOPMENT POLICY",
+      "section": "A",
+      "instructor": "Brock,Philip"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 596",
+      "courseTitle": "PRACT IN MICROECON",
+      "section": "A",
+      "instructor": "Bajari,Patrick L"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 599",
+      "courseTitle": "ISSUES ECONOMETRICS",
+      "section": "A",
+      "instructor": "Fan,Yanqin"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2022",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "C",
+      "instructor": "Ahmed,Shabab"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2022",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "B",
+      "instructor": "Kim,Hyun Ji"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2022",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "A",
+      "instructor": "NINAN,THERADAPUZHA VARGHES"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2022",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "D",
+      "instructor": "Zhang,Bocheng"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2022",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "A",
+      "instructor": "DIWAKANT,ANANYA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2022",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "B",
+      "instructor": "KARIMI,MAHTAB"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2022",
+      "course": "ECON 235",
+      "courseTitle": "INTRO ENVIRO ECON",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2022",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICRO-ECON",
+      "section": "A",
+      "instructor": "Yao,Frida"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2022",
+      "course": "ECON 301",
+      "courseTitle": "INTERMED MACRO-ECON",
+      "section": "A",
+      "instructor": "Didgar,Dadmehr"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2022",
+      "course": "ECON 399",
+      "courseTitle": "ECON INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2022",
+      "course": "ECON 400",
+      "courseTitle": "ADVANCED MICROECON",
+      "section": "A",
+      "instructor": "O'Dea,Dennis"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2022",
+      "course": "ECON 421",
+      "courseTitle": "MNY CRDT & THE ECON",
+      "section": "A",
+      "instructor": "Brock,Philip"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2022",
+      "course": "ECON 424",
+      "courseTitle": "COMPUTATNL FINANCE",
+      "section": "A",
+      "instructor": "Liu,Yuming Herbert"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2022",
+      "course": "ECON 426",
+      "courseTitle": "ADV FINANCIAL ECON",
+      "section": "A",
+      "instructor": "Chen,Y"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2022",
+      "course": "ECON 435",
+      "courseTitle": "NATRL RESOURCE ECON",
+      "section": "A",
+      "instructor": "Halvorsen,R"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2022",
+      "course": "ECON 482",
+      "courseTitle": "ECONOMETRIC THRY&PR",
+      "section": "A",
+      "instructor": "RIVERO,JORGE"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2022",
+      "course": "ECON 485",
+      "courseTitle": "GAME THEORY",
+      "section": "A",
+      "instructor": "Hang,Victoria Ziqi"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2022",
+      "course": "ECON 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2022",
+      "course": "ECON 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2022",
+      "course": "ECON 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2022",
+      "course": "ECON 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
       "term": "AUT2022",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
@@ -2271,8 +3821,28 @@
       "term": "AUT2022",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
+      "section": "A",
+      "instructor": "Jacobs,Yael"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2022",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
       "section": "I",
       "instructor": "Kim,Hyun Ji"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2022",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "B",
+      "instructor": "Knox,Melissa A"
     },
     {
       "campus": "S",
@@ -2311,26 +3881,6 @@
       "term": "AUT2022",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "AUT2022",
-      "course": "ECON 200",
-      "courseTitle": "INTRO MICROECON",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "AUT2022",
-      "course": "ECON 200",
-      "courseTitle": "INTRO MICROECON",
       "section": "E",
       "instructor": "Won,Seyoung"
     },
@@ -2341,8 +3891,8 @@
       "term": "AUT2022",
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
-      "section": "B",
-      "instructor": "Park,Jeewon"
+      "section": "A",
+      "instructor": "O'Dea,Dennis"
     },
     {
       "campus": "S",
@@ -2351,8 +3901,8 @@
       "term": "AUT2022",
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Park,Jeewon"
     },
     {
       "campus": "S",
@@ -2852,7 +4402,7 @@
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Knox,Melissa A"
     },
     {
       "campus": "S",
@@ -2891,6 +4441,16 @@
       "term": "WIN2023",
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
+      "section": "A",
+      "instructor": "Jacobs,Yael"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2023",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
       "section": "C",
       "instructor": "MALIK,MANYA"
     },
@@ -2901,18 +4461,18 @@
       "term": "WIN2023",
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "D",
+      "instructor": "Zhang,Will"
     },
     {
       "campus": "S",
       "dept": "econ",
       "deptName": "Economics",
       "term": "WIN2023",
-      "course": "ECON 201",
-      "courseTitle": "INTRO MACROECON",
-      "section": "D",
-      "instructor": "Zhang,Will"
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICRO-ECON",
+      "section": "A",
+      "instructor": "A Yao,Frida"
     },
     {
       "campus": "S",
@@ -2953,16 +4513,6 @@
       "courseTitle": "INTERMED MICRO-ECON",
       "section": "B",
       "instructor": "Won,Seyoung"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "WIN2023",
-      "course": "ECON 300",
-      "courseTitle": "INTERMED MICRO-ECON",
-      "section": "A",
-      "instructor": "Yao,Frida"
     },
     {
       "campus": "S",
@@ -3341,8 +4891,8 @@
       "term": "SPR2023",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
-      "section": "B",
-      "instructor": "MALIK,MANYA"
+      "section": "A",
+      "instructor": "Jacobs,Yael"
     },
     {
       "campus": "S",
@@ -3351,8 +4901,8 @@
       "term": "SPR2023",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "MALIK,MANYA"
     },
     {
       "campus": "S",
@@ -3371,8 +4921,8 @@
       "term": "SPR2023",
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
-      "section": "B",
-      "instructor": "Park,Jeewon"
+      "section": "A",
+      "instructor": "O'Dea,Dennis"
     },
     {
       "campus": "S",
@@ -3381,8 +4931,8 @@
       "term": "SPR2023",
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Park,Jeewon"
     },
     {
       "campus": "S",
@@ -3512,7 +5062,7 @@
       "course": "ECON 382",
       "courseTitle": "INTRO ECONOMETRICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tao,Jing"
     },
     {
       "campus": "S",
@@ -4071,18 +5621,8 @@
       "term": "AUT2023",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "AUT2023",
-      "course": "ECON 200",
-      "courseTitle": "INTRO MICROECON",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Jacobs,Yael"
     },
     {
       "campus": "S",
@@ -4091,8 +5631,8 @@
       "term": "AUT2023",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
-      "section": "D",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Knox,Melissa A"
     },
     {
       "campus": "S",
@@ -4103,6 +5643,16 @@
       "courseTitle": "INTRO MICROECON",
       "section": "E",
       "instructor": "WANG,HAOHUI"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2023",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "D",
+      "instructor": "de Figueredo,Felipe Carnei"
     },
     {
       "campus": "S",
@@ -4122,7 +5672,7 @@
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "O'Dea,Dennis"
     },
     {
       "campus": "S",
@@ -4531,6 +6081,16 @@
       "term": "WIN2024",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
+      "section": "E",
+      "instructor": "A Spears,Elliot Lloyd"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2024",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
       "section": "D",
       "instructor": "CHEN,CHENG"
     },
@@ -4551,28 +6111,18 @@
       "term": "WIN2024",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
+      "section": "A",
+      "instructor": "Jacobs,Yael"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2024",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
       "section": "F",
       "instructor": "Pourtaheri,khashayar"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "WIN2024",
-      "course": "ECON 200",
-      "courseTitle": "INTRO MICROECON",
-      "section": "E",
-      "instructor": "Spears,Elliot Lloyd"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "WIN2024",
-      "course": "ECON 200",
-      "courseTitle": "INTRO MICROECON",
-      "section": "A",
-      "instructor": "TBA"
     },
     {
       "campus": "S",
@@ -4622,7 +6172,7 @@
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "O'Dea,Dennis"
     },
     {
       "campus": "S",
@@ -4722,7 +6272,7 @@
       "course": "ECON 382",
       "courseTitle": "INTRO ECONOMETRICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tao,Jing"
     },
     {
       "campus": "S",
@@ -5061,8 +6611,8 @@
       "term": "SPR2024",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
-      "section": "B",
-      "instructor": "Shi,Ruiyuan"
+      "section": "A",
+      "instructor": "Knox,Melissa A"
     },
     {
       "campus": "S",
@@ -5071,8 +6621,8 @@
       "term": "SPR2024",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Shi,Ruiyuan"
     },
     {
       "campus": "S",
@@ -5091,8 +6641,8 @@
       "term": "SPR2024",
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
-      "section": "B",
-      "instructor": "Spears,Elliot Lloyd"
+      "section": "A",
+      "instructor": "O'Dea,Dennis"
     },
     {
       "campus": "S",
@@ -5101,8 +6651,8 @@
       "term": "SPR2024",
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Spears,Elliot Lloyd"
     },
     {
       "campus": "S",
@@ -5582,7 +7132,7 @@
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hager,Lukas"
     },
     {
       "campus": "S",
@@ -5592,7 +7142,7 @@
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Andersen,Erik T"
     },
     {
       "campus": "S",
@@ -5652,7 +7202,7 @@
       "course": "ECON 422",
       "courseTitle": "INVESTM CAPTL FNANC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "NINAN,THERADAPUZHA VARGHES"
     },
     {
       "campus": "S",
@@ -5728,6 +7278,466 @@
       "campus": "S",
       "dept": "econ",
       "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "E",
+      "instructor": "Andersen,Erik T"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "B",
+      "instructor": "Jacobs,Yael"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "C",
+      "instructor": "Jung,Jason"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "F",
+      "instructor": "Kim,Hyun Ji"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "A",
+      "instructor": "Knox,Melissa A"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "D",
+      "instructor": "Zhang,Will"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "B",
+      "instructor": "DIWAKANT,ANANYA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "A",
+      "instructor": "O'Dea,Dennis"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICROECON",
+      "section": "C",
+      "instructor": "Chai,Zewei"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICROECON",
+      "section": "D",
+      "instructor": "Shi,Ruiyuan"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICROECON",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICROECON",
+      "section": "E",
+      "instructor": "XU,GAOQIAN"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICROECON",
+      "section": "B",
+      "instructor": "Zhang,Bocheng"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 301",
+      "courseTitle": "INTERMED MACRO-ECON",
+      "section": "B",
+      "instructor": "Huang,Cindy"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 301",
+      "courseTitle": "INTERMED MACRO-ECON",
+      "section": "A",
+      "instructor": "Karimirad,Ali"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 301",
+      "courseTitle": "INTERMED MACRO-ECON",
+      "section": "C",
+      "instructor": "Yoon,Dhongkyu"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 399",
+      "courseTitle": "ECON INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 400",
+      "courseTitle": "ADVANCED MICROECON",
+      "section": "A",
+      "instructor": "Wen,Quan"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 401",
+      "courseTitle": "ADVANCED MACROECON",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 409",
+      "courseTitle": "UNDERG SEM-POL ECON",
+      "section": "A",
+      "instructor": "Menaldo,Victor A"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 422",
+      "courseTitle": "INVESTM CAPTL FNANC",
+      "section": "A",
+      "instructor": "Jacobs,Yael"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 424",
+      "courseTitle": "COMPUTATNL FINANCE",
+      "section": "A",
+      "instructor": "Chen,Yu-Chin"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 425",
+      "courseTitle": "TPCS MONETARY ECON",
+      "section": "A",
+      "instructor": "Ghironi,Fabio P"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 425",
+      "courseTitle": "TPCS MONETARY ECON",
+      "section": "B",
+      "instructor": "Ghironi,Fabio P"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 435",
+      "courseTitle": "NATRL RESOURCE ECON",
+      "section": "A",
+      "instructor": "SCHAMP,ABBY"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 447",
+      "courseTitle": "ECON OF GENDER",
+      "section": "A",
+      "instructor": "Heath,Rachel M"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 448",
+      "courseTitle": "POPULATION & DEVEL",
+      "section": "A",
+      "instructor": "Knox,Melissa A"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 450",
+      "courseTitle": "PUB FIN: EXPEND POL",
+      "section": "A",
+      "instructor": "O'Dea,Dennis"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 475",
+      "courseTitle": "ECON OF EURO UNION",
+      "section": "A",
+      "instructor": "Turnovsky,Michelle H L"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 483",
+      "courseTitle": "ECONOMETRIC APP",
+      "section": "A",
+      "instructor": "Eun,Dong-Jae"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 485",
+      "courseTitle": "GAME THEORY",
+      "section": "A",
+      "instructor": "Lawarree,Jacques P"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 487",
+      "courseTitle": "DATA SCI FOR PRICING",
+      "section": "A",
+      "instructor": "Lariviere,Jacob S"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 496",
+      "courseTitle": "H-HONORS SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 500",
+      "courseTitle": "MICROECN ANLYS I",
+      "section": "A",
+      "instructor": "Wen,Quan"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 502",
+      "courseTitle": "MACROECN ANLYS I",
+      "section": "A",
+      "instructor": "Chen,Yu-Chin"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 532",
+      "courseTitle": "EMPIRICAL IND ORG I",
+      "section": "A",
+      "instructor": "Eun,Dong-Jae"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 580",
+      "courseTitle": "ECONMETI: MATH STAT",
+      "section": "A",
+      "instructor": "Richardson,Thomas S"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 583",
+      "courseTitle": "ECONOMETRIC THY I",
+      "section": "A",
+      "instructor": "Fan,Yanqin"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 587",
+      "courseTitle": "APP MICROECONOMETRIC",
+      "section": "A",
+      "instructor": "Griffith,Alan"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 590",
+      "courseTitle": "INTRO DEVELPMNT ECON",
+      "section": "A",
+      "instructor": "Heath,Rachel M"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 594",
+      "courseTitle": "ECONOMIC GROWTH",
+      "section": "A",
+      "instructor": "Turnovsky,Stephen J"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 602",
+      "courseTitle": "TEACHING INTRO ECON",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
       "term": "WIN2025",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
@@ -5762,7 +7772,7 @@
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Knox,Melissa A"
     },
     {
       "campus": "S",
@@ -5791,6 +7801,16 @@
       "term": "WIN2025",
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
+      "section": "A",
+      "instructor": "Karimirad,Ali"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2025",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
       "section": "B",
       "instructor": "Spears,Elliot Lloyd"
     },
@@ -5803,16 +7823,6 @@
       "courseTitle": "INTRO MACROECON",
       "section": "C",
       "instructor": "Sun,Tailai"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "WIN2025",
-      "course": "ECON 201",
-      "courseTitle": "INTRO MACROECON",
-      "section": "A",
-      "instructor": "TBA"
     },
     {
       "campus": "S",
@@ -5932,7 +7942,7 @@
       "course": "ECON 382",
       "courseTitle": "INTRO ECONOMETRICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tao,Jing"
     },
     {
       "campus": "S",
@@ -6282,7 +8292,17 @@
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Midnight,Yael"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2025",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "A",
+      "instructor": "O'Dea,Dennis"
     },
     {
       "campus": "S",
@@ -6293,16 +8313,6 @@
       "courseTitle": "INTRO MACROECON",
       "section": "B",
       "instructor": "Spears,Elliot Lloyd"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "SPR2025",
-      "course": "ECON 201",
-      "courseTitle": "INTRO MACROECON",
-      "section": "A",
-      "instructor": "TBA"
     },
     {
       "campus": "S",
@@ -6798,9 +8808,169 @@
       "campus": "S",
       "dept": "econ",
       "deptName": "Economics",
-      "term": "AUT2025",
+      "term": "SUM2025",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
+      "section": "B",
+      "instructor": "Lee,Yebeen"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2025",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "A",
+      "instructor": "Spears,Elliot Lloyd"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2025",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "A",
+      "instructor": "Grimm,Matthew"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2025",
+      "course": "ECON 235",
+      "courseTitle": "INTRO ENVIRO ECON",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2025",
+      "course": "ECON 235",
+      "courseTitle": "INTRO ENVIRO ECON",
+      "section": "B",
+      "instructor": "Rabotyagov,Sergey"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2025",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICROECON",
+      "section": "A",
+      "instructor": "Ramirez,Tyson Donley"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2025",
+      "course": "ECON 301",
+      "courseTitle": "INTERMED MACRO-ECON",
+      "section": "A",
+      "instructor": "Chen,Weiyue"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2025",
+      "course": "ECON 382",
+      "courseTitle": "INTRO ECONOMETRICS",
+      "section": "A",
+      "instructor": "CHOI,YOON"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2025",
+      "course": "ECON 399",
+      "courseTitle": "ECON INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2025",
+      "course": "ECON 422",
+      "courseTitle": "INVESTM CAPTL FNANC",
+      "section": "A",
+      "instructor": "Karimirad,Ali"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2025",
+      "course": "ECON 424",
+      "courseTitle": "COMPUTATNL FINANCE",
+      "section": "A",
+      "instructor": "Huang,Cindy"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2025",
+      "course": "ECON 482",
+      "courseTitle": "ECONOMETRIC THRY&PR",
+      "section": "A",
+      "instructor": "Zhang,Will"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2025",
+      "course": "ECON 485",
+      "courseTitle": "GAME THEORY",
+      "section": "A",
+      "instructor": "Ahmed,Shabab"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2025",
+      "course": "ECON 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2025",
+      "course": "ECON 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2025",
+      "course": "ECON 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2025",
+      "course": "ECON 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
       "section": "A",
       "instructor": "TBA"
     },
@@ -6811,8 +8981,18 @@
       "term": "AUT2025",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
+      "section": "A",
+      "instructor": "Knox,Melissa A"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2025",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Midnight,Yael"
     },
     {
       "campus": "S",
@@ -6822,7 +9002,7 @@
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Rankich,Kobe"
     },
     {
       "campus": "S",
@@ -6832,7 +9012,7 @@
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Karimirad,Ali"
     },
     {
       "campus": "S",
@@ -6842,37 +9022,7 @@
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "AUT2025",
-      "course": "ECON 300",
-      "courseTitle": "INTERMED MICROECON",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "AUT2025",
-      "course": "ECON 300",
-      "courseTitle": "INTERMED MICROECON",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "AUT2025",
-      "course": "ECON 300",
-      "courseTitle": "INTERMED MICROECON",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Spears,Elliot Lloyd"
     },
     {
       "campus": "S",
@@ -6882,7 +9032,17 @@
       "course": "ECON 300",
       "courseTitle": "INTERMED MICROECON",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Chang,Heejee"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2025",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICROECON",
+      "section": "C",
+      "instructor": "Fang,Francis Haoyu"
     },
     {
       "campus": "S",
@@ -6892,7 +9052,27 @@
       "course": "ECON 300",
       "courseTitle": "INTERMED MICROECON",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "HONG,LUCY"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2025",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICROECON",
+      "section": "A",
+      "instructor": "Wong,Kar-Yiu"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2025",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICROECON",
+      "section": "B",
+      "instructor": "Zhang,Bocheng"
     },
     {
       "campus": "S",
@@ -6902,7 +9082,7 @@
       "course": "ECON 301",
       "courseTitle": "INTERMED MACRO-ECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brock,Philip"
     },
     {
       "campus": "S",
@@ -6912,7 +9092,7 @@
       "course": "ECON 301",
       "courseTitle": "INTERMED MACRO-ECON",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Karimirad,Ali"
     },
     {
       "campus": "S",
@@ -6922,7 +9102,7 @@
       "course": "ECON 382",
       "courseTitle": "INTRO ECONOMETRICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Shi,Ruiyuan"
     },
     {
       "campus": "S",
@@ -6941,8 +9121,8 @@
       "term": "AUT2025",
       "course": "ECON 400",
       "courseTitle": "ADVANCED MICROECON",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "O'Dea,Dennis"
     },
     {
       "campus": "S",
@@ -6951,8 +9131,8 @@
       "term": "AUT2025",
       "course": "ECON 400",
       "courseTitle": "ADVANCED MICROECON",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Wen,Quan"
     },
     {
       "campus": "S",
@@ -6972,7 +9152,7 @@
       "course": "ECON 411",
       "courseTitle": "BEHAVIORAL ECONOMICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chen,Yu-Chin"
     },
     {
       "campus": "S",
@@ -6982,7 +9162,7 @@
       "course": "ECON 422",
       "courseTitle": "INVESTM CAPTL FNANC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Midnight,Yael"
     },
     {
       "campus": "S",
@@ -6992,7 +9172,7 @@
       "course": "ECON 425",
       "courseTitle": "TPCS MONETARY ECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ghironi,Fabio P"
     },
     {
       "campus": "S",
@@ -7002,7 +9182,7 @@
       "course": "ECON 425",
       "courseTitle": "TPCS MONETARY ECON",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Ghironi,Fabio P"
     },
     {
       "campus": "S",
@@ -7012,7 +9192,7 @@
       "course": "ECON 436",
       "courseTitle": "ENVIRONMENTAL ECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gillan,Jimmy"
     },
     {
       "campus": "S",
@@ -7022,7 +9202,7 @@
       "course": "ECON 447",
       "courseTitle": "ECON OF GENDER",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Heath,Rachel M"
     },
     {
       "campus": "S",
@@ -7032,7 +9212,7 @@
       "course": "ECON 448",
       "courseTitle": "POPULATION & DEVEL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Knox,Melissa A"
     },
     {
       "campus": "S",
@@ -7042,7 +9222,7 @@
       "course": "ECON 450",
       "courseTitle": "PUB FIN: EXPEND POL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "O'Dea,Dennis"
     },
     {
       "campus": "S",
@@ -7052,7 +9232,7 @@
       "course": "ECON 471",
       "courseTitle": "INTERNATIONAL TRADE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wong,Kar-Yiu"
     },
     {
       "campus": "S",
@@ -7062,7 +9242,7 @@
       "course": "ECON 483",
       "courseTitle": "ECONOMETRIC APP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Eun,Dong-Jae"
     },
     {
       "campus": "S",
@@ -7072,7 +9252,7 @@
       "course": "ECON 483",
       "courseTitle": "ECONOMETRIC APP",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Eun,Dong-Jae"
     },
     {
       "campus": "S",
@@ -7082,7 +9262,7 @@
       "course": "ECON 485",
       "courseTitle": "GAME THEORY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tan,Xu"
     },
     {
       "campus": "S",
@@ -7092,7 +9272,7 @@
       "course": "ECON 487",
       "courseTitle": "DATA SCI FOR PRICING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lariviere,Jacob S"
     },
     {
       "campus": "S",
@@ -7122,7 +9302,7 @@
       "course": "ECON 500",
       "courseTitle": "MICROECN ANLYS I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wen,Quan"
     },
     {
       "campus": "S",
@@ -7132,7 +9312,7 @@
       "course": "ECON 502",
       "courseTitle": "MACROECN ANLYS I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chen,Yu-Chin"
     },
     {
       "campus": "S",
@@ -7142,7 +9322,7 @@
       "course": "ECON 516",
       "courseTitle": "GAME THEORY FOR ECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tan,Xu"
     },
     {
       "campus": "S",
@@ -7152,7 +9332,7 @@
       "course": "ECON 580",
       "courseTitle": "ECONMETI: MATH STAT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Richardson,Thomas S"
     },
     {
       "campus": "S",
@@ -7162,7 +9342,7 @@
       "course": "ECON 583",
       "courseTitle": "ECONOMETRIC THY I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fan,Yanqin"
     },
     {
       "campus": "S",
@@ -7172,7 +9352,7 @@
       "course": "ECON 587",
       "courseTitle": "APP MICROECONOMETRIC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Griffith,Alan"
     },
     {
       "campus": "S",
@@ -7182,7 +9362,7 @@
       "course": "ECON 590",
       "courseTitle": "INTRO DEVELPMNT ECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Heath,Rachel M"
     },
     {
       "campus": "S",
@@ -7192,7 +9372,7 @@
       "course": "ECON 592",
       "courseTitle": "FIN MKTS & ECON DEV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brock,Philip"
     },
     {
       "campus": "S",
@@ -7241,8 +9421,18 @@
       "term": "WIN2026",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
+      "section": "C",
+      "instructor": "Chen,Weiyue"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2026",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Midnight,Yael"
     },
     {
       "campus": "S",
@@ -7259,10 +9449,10 @@
       "dept": "econ",
       "deptName": "Economics",
       "term": "WIN2026",
-      "course": "ECON 200",
-      "courseTitle": "INTRO MICROECON",
-      "section": "C",
-      "instructor": "TBA"
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "A",
+      "instructor": "Karimirad,Ali"
     },
     {
       "campus": "S",
@@ -7271,8 +9461,8 @@
       "term": "WIN2026",
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "Sherpa,Tsering"
     },
     {
       "campus": "S",
@@ -7282,17 +9472,7 @@
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "WIN2026",
-      "course": "ECON 201",
-      "courseTitle": "INTRO MACROECON",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Shi,Shiny"
     },
     {
       "campus": "S",
@@ -7302,37 +9482,7 @@
       "course": "ECON 216",
       "courseTitle": "ECONOMICS OF SPORTS",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "WIN2026",
-      "course": "ECON 300",
-      "courseTitle": "INTERMED MICROECON",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "WIN2026",
-      "course": "ECON 300",
-      "courseTitle": "INTERMED MICROECON",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "WIN2026",
-      "course": "ECON 300",
-      "courseTitle": "INTERMED MICROECON",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Midnight,Yael"
     },
     {
       "campus": "S",
@@ -7342,27 +9492,37 @@
       "course": "ECON 300",
       "courseTitle": "INTERMED MICROECON",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Chang,Heejee"
     },
     {
       "campus": "S",
       "dept": "econ",
       "deptName": "Economics",
       "term": "WIN2026",
-      "course": "ECON 301",
-      "courseTitle": "INTERMED MACRO-ECON",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICROECON",
+      "section": "C",
+      "instructor": "Fang,Francis Haoyu"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2026",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICROECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kerwin,Jason"
     },
     {
       "campus": "S",
       "dept": "econ",
       "deptName": "Economics",
       "term": "WIN2026",
-      "course": "ECON 301",
-      "courseTitle": "INTERMED MACRO-ECON",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICROECON",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Sun,Tailai"
     },
     {
       "campus": "S",
@@ -7372,7 +9532,27 @@
       "course": "ECON 301",
       "courseTitle": "INTERMED MACRO-ECON",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Huang,Cindy"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2026",
+      "course": "ECON 301",
+      "courseTitle": "INTERMED MACRO-ECON",
+      "section": "A",
+      "instructor": "Spears,Elliot Lloyd"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2026",
+      "course": "ECON 301",
+      "courseTitle": "INTERMED MACRO-ECON",
+      "section": "B",
+      "instructor": "Wang,Eric Suyuan"
     },
     {
       "campus": "S",
@@ -7382,7 +9562,7 @@
       "course": "ECON 382",
       "courseTitle": "INTRO ECONOMETRICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tao,Jing"
     },
     {
       "campus": "S",
@@ -7402,7 +9582,7 @@
       "course": "ECON 401",
       "courseTitle": "ADVANCED MACROECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Greaney,Brian"
     },
     {
       "campus": "S",
@@ -7412,7 +9592,7 @@
       "course": "ECON 406",
       "courseTitle": "UNDERGRAD SMR ECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Heath,Rachel M"
     },
     {
       "campus": "S",
@@ -7432,7 +9612,7 @@
       "course": "ECON 411",
       "courseTitle": "BEHAVIORAL ECONOMICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tan,Xu"
     },
     {
       "campus": "S",
@@ -7442,7 +9622,7 @@
       "course": "ECON 412",
       "courseTitle": "MACROECN & INEQLTY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Greaney,Brian"
     },
     {
       "campus": "S",
@@ -7452,7 +9632,7 @@
       "course": "ECON 422",
       "courseTitle": "INVESTM CAPTL FNANC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Karimirad,Ali"
     },
     {
       "campus": "S",
@@ -7472,7 +9652,7 @@
       "course": "ECON 432",
       "courseTitle": "EMPIRICAL INDSTR ORG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Takahashi,Yuya"
     },
     {
       "campus": "S",
@@ -7482,7 +9662,7 @@
       "course": "ECON 443",
       "courseTitle": "LABOR MKT ANALYSIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Takahashi,Yuya"
     },
     {
       "campus": "S",
@@ -7492,7 +9672,7 @@
       "course": "ECON 451",
       "courseTitle": "PUB FIN: TAX POLICY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "O'Dea,Dennis"
     },
     {
       "campus": "S",
@@ -7522,7 +9702,7 @@
       "course": "ECON 476",
       "courseTitle": "TRADE INVEST MIGRAT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wong,Kar-Yiu"
     },
     {
       "campus": "S",
@@ -7532,7 +9712,7 @@
       "course": "ECON 481",
       "courseTitle": "DATA SCI FOR ECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Eisenhauer,Philipp"
     },
     {
       "campus": "S",
@@ -7542,7 +9722,7 @@
       "course": "ECON 482",
       "courseTitle": "ECONOMETRIC THRY&PR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kim,Chang-Jin"
     },
     {
       "campus": "S",
@@ -7552,7 +9732,7 @@
       "course": "ECON 483",
       "courseTitle": "ECONOMETRIC APP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Eun,Dong-Jae"
     },
     {
       "campus": "S",
@@ -7562,7 +9742,7 @@
       "course": "ECON 485",
       "courseTitle": "GAME THEORY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Khalil,Fahad"
     },
     {
       "campus": "S",
@@ -7572,7 +9752,7 @@
       "course": "ECON 488",
       "courseTitle": "CAUSAL INFERENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bunting,Jackson"
     },
     {
       "campus": "S",
@@ -7582,7 +9762,7 @@
       "course": "ECON 493",
       "courseTitle": "ECON MDRN CHINA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wong,Kar-Yiu"
     },
     {
       "campus": "S",
@@ -7612,7 +9792,7 @@
       "course": "ECON 501",
       "courseTitle": "MICROECN ANLYS II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lawarree,Jacques P"
     },
     {
       "campus": "S",
@@ -7622,7 +9802,7 @@
       "course": "ECON 503",
       "courseTitle": "MACROECN ANLYS II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Turnovsky,Stephen J"
     },
     {
       "campus": "S",
@@ -7632,7 +9812,7 @@
       "course": "ECON 518",
       "courseTitle": "CONTRACT THEORY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Khalil,Fahad"
     },
     {
       "campus": "S",
@@ -7642,7 +9822,7 @@
       "course": "ECON 539",
       "courseTitle": "NATRL RESOURCES SMNR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anderson,Chris"
     },
     {
       "campus": "S",
@@ -7652,7 +9832,7 @@
       "course": "ECON 572",
       "courseTitle": "INTERNATL FINANCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chen,Yu-Chin"
     },
     {
       "campus": "S",
@@ -7662,7 +9842,7 @@
       "course": "ECON 581",
       "courseTitle": "ECONOMETRICS II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bunting,Jackson"
     },
     {
       "campus": "S",
@@ -7672,7 +9852,7 @@
       "course": "ECON 584",
       "courseTitle": "ECONOMETRIC THY II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kim,Chang-Jin"
     },
     {
       "campus": "S",
@@ -7682,7 +9862,7 @@
       "course": "ECON 585",
       "courseTitle": "ECONOMETRIC THY III",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fan,Yanqin"
     },
     {
       "campus": "S",
@@ -7692,7 +9872,7 @@
       "course": "ECON 591",
       "courseTitle": "TPCS DVLPMT ECON I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kerwin,Jason"
     },
     {
       "campus": "S",
@@ -7702,7 +9882,7 @@
       "course": "ECON 596",
       "courseTitle": "PRACT IN MICROECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Heath,Rachel M"
     },
     {
       "campus": "S",
@@ -7712,7 +9892,7 @@
       "course": "ECON 599",
       "courseTitle": "ISSUES ECONOMETRICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fan,Yanqin"
     },
     {
       "campus": "S",
@@ -7752,7 +9932,7 @@
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Knox,Melissa A"
     },
     {
       "campus": "S",
@@ -7762,17 +9942,7 @@
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "SPR2026",
-      "course": "ECON 201",
-      "courseTitle": "INTRO MACROECON",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nisat,Rafia"
     },
     {
       "campus": "S",
@@ -7782,7 +9952,7 @@
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "DIWAKANT,ANANYA"
     },
     {
       "campus": "S",
@@ -7792,7 +9962,17 @@
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Moore,Daniel"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2026",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "A",
+      "instructor": "O'Dea,Dennis"
     },
     {
       "campus": "S",
@@ -7802,7 +9982,7 @@
       "course": "ECON 230",
       "courseTitle": "ECONOMICS FISH&OCN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anderson,Chris"
     },
     {
       "campus": "S",
@@ -7812,17 +9992,7 @@
       "course": "ECON 235",
       "courseTitle": "INTRO ENVIRO ECON",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "SPR2026",
-      "course": "ECON 300",
-      "courseTitle": "INTERMED MICROECON",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rabotyagov,Sergey"
     },
     {
       "campus": "S",
@@ -7832,7 +10002,17 @@
       "course": "ECON 300",
       "courseTitle": "INTERMED MICROECON",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Kerwin,Jason"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2026",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICROECON",
+      "section": "A",
+      "instructor": "Khalil,Fahad"
     },
     {
       "campus": "S",
@@ -7842,7 +10022,7 @@
       "course": "ECON 301",
       "courseTitle": "INTERMED MACRO-ECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Karimirad,Ali"
     },
     {
       "campus": "S",
@@ -7852,7 +10032,7 @@
       "course": "ECON 301",
       "courseTitle": "INTERMED MACRO-ECON",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Spears,Elliot Lloyd"
     },
     {
       "campus": "S",
@@ -7862,7 +10042,7 @@
       "course": "ECON 301",
       "courseTitle": "INTERMED MACRO-ECON",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Zhang,Bocheng"
     },
     {
       "campus": "S",
@@ -7872,7 +10052,7 @@
       "course": "ECON 345",
       "courseTitle": "GLOBAL HEALTH ECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mukasa,David"
     },
     {
       "campus": "S",
@@ -7902,7 +10082,7 @@
       "course": "ECON 400",
       "courseTitle": "ADVANCED MICROECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "O'Dea,Dennis"
     },
     {
       "campus": "S",
@@ -7912,7 +10092,7 @@
       "course": "ECON 400",
       "courseTitle": "ADVANCED MICROECON",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Wen,Quan"
     },
     {
       "campus": "S",
@@ -7922,7 +10102,7 @@
       "course": "ECON 401",
       "courseTitle": "ADVANCED MACROECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ghironi,Fabio P"
     },
     {
       "campus": "S",
@@ -7932,7 +10112,7 @@
       "course": "ECON 401",
       "courseTitle": "ADVANCED MACROECON",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Ghironi,Fabio P"
     },
     {
       "campus": "S",
@@ -7942,7 +10122,7 @@
       "course": "ECON 404",
       "courseTitle": "IND ORG&PRICE ANLYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Takahashi,Yuya"
     },
     {
       "campus": "S",
@@ -7952,7 +10132,7 @@
       "course": "ECON 408",
       "courseTitle": "LAW & ECONOMICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tapia,Christina P."
     },
     {
       "campus": "S",
@@ -7962,7 +10142,7 @@
       "course": "ECON 423",
       "courseTitle": "TOPICS IN FIN ECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tapia,Christina P."
     },
     {
       "campus": "S",
@@ -7972,7 +10152,7 @@
       "course": "ECON 424",
       "courseTitle": "COMPUTATNL FINANCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zivot,Eric"
     },
     {
       "campus": "S",
@@ -7982,7 +10162,7 @@
       "course": "ECON 426",
       "courseTitle": "ADV FINANCIAL ECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Karimirad,Ali"
     },
     {
       "campus": "S",
@@ -7992,7 +10172,7 @@
       "course": "ECON 448",
       "courseTitle": "POPULATION & DEVEL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Knox,Melissa A"
     },
     {
       "campus": "S",
@@ -8032,7 +10212,7 @@
       "course": "ECON 483",
       "courseTitle": "ECONOMETRIC APP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Eun,Dong-Jae"
     },
     {
       "campus": "S",
@@ -8042,7 +10222,7 @@
       "course": "ECON 484",
       "courseTitle": "ECNMTRCS & DATA SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Duncan,Greg"
     },
     {
       "campus": "S",
@@ -8062,7 +10242,7 @@
       "course": "ECON 488",
       "courseTitle": "CAUSAL INFERENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bunting,Jackson"
     },
     {
       "campus": "S",
@@ -8072,7 +10252,7 @@
       "course": "ECON 491",
       "courseTitle": "ISSUES ECON DEVELOP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Garz,Seth"
     },
     {
       "campus": "S",
@@ -8092,7 +10272,7 @@
       "course": "ECON 508",
       "courseTitle": "MICROECN ANLYS III",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Khalil,Fahad"
     },
     {
       "campus": "S",
@@ -8102,7 +10282,7 @@
       "course": "ECON 509",
       "courseTitle": "MACROECON ANLYS III",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Greaney,Brian"
     },
     {
       "campus": "S",
@@ -8112,7 +10292,7 @@
       "course": "ECON 511",
       "courseTitle": "ADV MICROECON THEORY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wen,Quan"
     },
     {
       "campus": "S",
@@ -8122,7 +10302,7 @@
       "course": "ECON 527",
       "courseTitle": "MACRO EMPIR & THRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Greaney,Brian"
     },
     {
       "campus": "S",
@@ -8132,7 +10312,7 @@
       "course": "ECON 534",
       "courseTitle": "EMPIRICAL IND ORG II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Takahashi,Yuya"
     },
     {
       "campus": "S",
@@ -8142,7 +10322,7 @@
       "course": "ECON 582",
       "courseTitle": "ECONOMETRICS III",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zivot,Eric"
     },
     {
       "campus": "S",
@@ -8152,7 +10332,7 @@
       "course": "ECON 586",
       "courseTitle": "TIME SERIES ANALYSIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kim,Chang-Jin"
     },
     {
       "campus": "S",
@@ -8162,7 +10342,7 @@
       "course": "ECON 593",
       "courseTitle": "TPCS DVLPMT ECON II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Griffith,Alan"
     },
     {
       "campus": "S",

@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Ertan%2CEmre",
+  "professor": "Ertan,Emre",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "infosys",
+      "deptName": "Information Systems",
+      "term": "SPR2025",
+      "course": "I S 451",
+      "courseTitle": "BUS DATA ANALYTICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2024",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2024",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "B"
+    }
+  ]
+}

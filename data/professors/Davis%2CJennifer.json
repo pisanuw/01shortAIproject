@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Davis%2CJennifer",
+  "professor": "Davis,Jennifer",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "patho",
+      "deptName": "Pathology",
+      "term": "SPR2024",
+      "course": "PATH 558",
+      "courseTitle": "OMICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "molmed",
+      "deptName": "Molecular Medicine",
+      "term": "SPR2024",
+      "course": "MOLMED 558",
+      "courseTitle": "OMICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "patho",
+      "deptName": "Pathology",
+      "term": "SPR2023",
+      "course": "PATH 558",
+      "courseTitle": "OMICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "molmed",
+      "deptName": "Molecular Medicine",
+      "term": "SPR2023",
+      "course": "MOLMED 558",
+      "courseTitle": "OMICS",
+      "section": "A"
+    }
+  ]
+}

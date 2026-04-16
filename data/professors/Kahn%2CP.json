@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Kahn%2CP",
+  "professor": "Kahn,P",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "esrm",
+      "deptName": "Environmental Science and Resource Management",
+      "term": "WIN2021",
+      "course": "ESRM 431",
+      "courseTitle": "ECOPSYCHOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2021",
+      "course": "ENVIR 431",
+      "courseTitle": "ECOPSYCHOLOGY",
+      "section": "A"
+    }
+  ]
+}

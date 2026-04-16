@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Weber%2CNicholas",
+  "professor": "Weber,Nicholas",
+  "recordCount": 5,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "insc",
+      "deptName": "Information Science",
+      "term": "WIN2025",
+      "course": "INSC 501",
+      "courseTitle": "THEO FOUND INFO SCI",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2024",
+      "course": "INFO 498",
+      "courseTitle": "TOPIC INFORMATICS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2024",
+      "course": "INFO 498",
+      "courseTitle": "TOPIC INFORMATICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "insc",
+      "deptName": "Information Science",
+      "term": "AUT2023",
+      "course": "INSC 570",
+      "courseTitle": "RESEARCH DESIGN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "insc",
+      "deptName": "Information Science",
+      "term": "AUT2022",
+      "course": "INSC 570",
+      "courseTitle": "RESEARCH DESIGN",
+      "section": "A"
+    }
+  ]
+}

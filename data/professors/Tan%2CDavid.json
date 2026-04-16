@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Tan%2CDavid",
+  "professor": "Tan,David",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SPR2023",
+      "course": "MGMT 590",
+      "courseTitle": "ECON FOUND ST MGMT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SPR2021",
+      "course": "MGMT 599",
+      "courseTitle": "DOCTORAL SEM MGMT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2020",
+      "course": "MGMT 590",
+      "courseTitle": "ECON FOUND ST MGMT",
+      "section": "A"
+    }
+  ]
+}

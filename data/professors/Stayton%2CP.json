@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Stayton%2CP",
+  "professor": "Stayton,P",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "AUT2022",
+      "course": "BIOEN 557",
+      "courseTitle": "ADV MOL BIOEN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "AUT2022",
+      "course": "BIOEN 457",
+      "courseTitle": "ADV MOL BIOEN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "AUT2020",
+      "course": "BIOEN 557",
+      "courseTitle": "ADV MOL BIOEN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "AUT2020",
+      "course": "BIOEN 457",
+      "courseTitle": "ADV MOL BIOEN",
+      "section": "A"
+    }
+  ]
+}

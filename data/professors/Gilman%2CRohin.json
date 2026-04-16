@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Gilman%2CRohin",
+  "professor": "Gilman,Rohin",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "SUM2025",
+      "course": "AMATH 351",
+      "courseTitle": "DIFF EQUATIONS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "SUM2024",
+      "course": "AMATH 351",
+      "courseTitle": "DIFF EQUATIONS",
+      "section": "A"
+    }
+  ]
+}

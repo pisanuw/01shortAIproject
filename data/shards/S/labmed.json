@@ -1,7 +1,3978 @@
 {
-  "generatedAt": "2026-04-15T16:28:00Z",
+  "generatedAt": "2026-04-16T02:57:16Z",
   "campus": "S",
   "dept": "labmed",
   "deptName": "Laboratory Medicine",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2020",
+      "course": "LAB M 301",
+      "courseTitle": "INTR MED LAB SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2020",
+      "course": "LAB M 302",
+      "courseTitle": "INTR MED LAB SCI LB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2020",
+      "course": "LAB M 302",
+      "courseTitle": "INTR MED LAB SCI LB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2020",
+      "course": "LAB M 302",
+      "courseTitle": "INTR MED LAB SCI LB",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2020",
+      "course": "LAB M 423",
+      "courseTitle": "CLINICAL CHEMISTRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2020",
+      "course": "LAB M 424",
+      "courseTitle": "CLIN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2020",
+      "course": "LAB M 425",
+      "courseTitle": "CLINICAL HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2020",
+      "course": "LAB M 426",
+      "courseTitle": "CL IMMUNOHEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2020",
+      "course": "LAB M 427",
+      "courseTitle": "SEL ST LAB MED",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2020",
+      "course": "LAB M 431",
+      "courseTitle": "IMMUNOHEM ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2020",
+      "course": "LAB M 433",
+      "courseTitle": "ENRICHMENT ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2020",
+      "course": "LAB M 436",
+      "courseTitle": "MDX Rotation",
+      "section": "A",
+      "instructor": "Callahan,Patty F"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2020",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2020",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2020",
+      "course": "LAB M 502",
+      "courseTitle": "LAB MED GRND ROUNDS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2020",
+      "course": "LAB M 510",
+      "courseTitle": "RESEARCH CONFERENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2020",
+      "course": "LAB M 521",
+      "courseTitle": "ADV LAB HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2020",
+      "course": "LAB M 590P",
+      "courseTitle": "P-RES PROJ LAB MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2020",
+      "course": "LAB M 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2020",
+      "course": "LAB M 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2020",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A",
+      "instructor": "Wener,M"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2020",
+      "course": "LAB M 699P",
+      "courseTitle": "P-WWAMI LAB M ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2020",
+      "course": "LAB M 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2021",
+      "course": "LAB M 423",
+      "courseTitle": "CLINICAL CHEMISTRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2021",
+      "course": "LAB M 424",
+      "courseTitle": "CLIN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2021",
+      "course": "LAB M 425",
+      "courseTitle": "CLINICAL HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2021",
+      "course": "LAB M 430",
+      "courseTitle": "MD TCH-INT CL HEMAT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2021",
+      "course": "LAB M 431",
+      "courseTitle": "IMMUNOHEM ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2021",
+      "course": "LAB M 433",
+      "courseTitle": "ENRICHMENT ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2021",
+      "course": "LAB M 435",
+      "courseTitle": "MOLECULAR DIAG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2021",
+      "course": "LAB M 436",
+      "courseTitle": "MDX Rotation",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2021",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2021",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2021",
+      "course": "LAB M 502",
+      "courseTitle": "LAB MED GRND ROUNDS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2021",
+      "course": "LAB M 510",
+      "courseTitle": "RESEARCH CONFERENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2021",
+      "course": "LAB M 521",
+      "courseTitle": "ADV LAB HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2021",
+      "course": "LAB M 555",
+      "courseTitle": "LM RESEARCH DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2021",
+      "course": "LAB M 590P",
+      "courseTitle": "P-RES PROJ LAB MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2021",
+      "course": "LAB M 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2021",
+      "course": "LAB M 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2021",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A",
+      "instructor": "Lieberman,Joshua A"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2021",
+      "course": "LAB M 685P",
+      "courseTitle": "P-CLIN LAB DIAG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2021",
+      "course": "LAB M 699P",
+      "courseTitle": "P-WWAMI LAB M ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2021",
+      "course": "LAB M 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2021",
+      "course": "LAB M 418",
+      "courseTitle": "INTRO CLINICAL CHEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2021",
+      "course": "LAB M 423",
+      "courseTitle": "CLINICAL CHEMISTRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2021",
+      "course": "LAB M 424",
+      "courseTitle": "CLIN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2021",
+      "course": "LAB M 425",
+      "courseTitle": "CLINICAL HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2021",
+      "course": "LAB M 431",
+      "courseTitle": "IMMUNOHEM ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2021",
+      "course": "LAB M 433",
+      "courseTitle": "ENRICHMENT ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2021",
+      "course": "LAB M 436",
+      "courseTitle": "MDX Rotation",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2021",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2021",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2021",
+      "course": "LAB M 502",
+      "courseTitle": "LAB MED GRND ROUNDS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2021",
+      "course": "LAB M 510",
+      "courseTitle": "RESEARCH CONFERENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2021",
+      "course": "LAB M 520",
+      "courseTitle": "ORG & MGT IN LM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2021",
+      "course": "LAB M 521",
+      "courseTitle": "ADV LAB HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2021",
+      "course": "LAB M 521",
+      "courseTitle": "ADV LAB HEMATOLOGY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2021",
+      "course": "LAB M 549",
+      "courseTitle": "GLOBAL LAB SYSTEMS",
+      "section": "A",
+      "instructor": "Perrone,L"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2021",
+      "course": "LAB M 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2021",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A",
+      "instructor": "Lieberman,Joshua A"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2021",
+      "course": "LAB M 699P",
+      "courseTitle": "P-WWAMI LAB M ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2021",
+      "course": "LAB M 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2021",
+      "course": "LAB M 419",
+      "courseTitle": "CLIN COAG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2021",
+      "course": "LAB M 420",
+      "courseTitle": "LAB ANLYS BODY FLUID",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2021",
+      "course": "LAB M 421",
+      "courseTitle": "MED MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2021",
+      "course": "LAB M 424",
+      "courseTitle": "CLIN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "Callahan,Patty F"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2021",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2021",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2021",
+      "course": "LAB M 590P",
+      "courseTitle": "P-RES PROJ LAB MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2021",
+      "course": "LAB M 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2021",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A",
+      "instructor": "Wener,M"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2021",
+      "course": "LAB M 699P",
+      "courseTitle": "P-WWAMI LAB M ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2021",
+      "course": "LAB M 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2021",
+      "course": "LAB M 301",
+      "courseTitle": "INTR MED LAB SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2021",
+      "course": "LAB M 302",
+      "courseTitle": "INTR MED LAB SCI LB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2021",
+      "course": "LAB M 302",
+      "courseTitle": "INTR MED LAB SCI LB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2021",
+      "course": "LAB M 423",
+      "courseTitle": "CLINICAL CHEMISTRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2021",
+      "course": "LAB M 424",
+      "courseTitle": "CLIN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2021",
+      "course": "LAB M 425",
+      "courseTitle": "CLINICAL HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2021",
+      "course": "LAB M 426",
+      "courseTitle": "CL IMMUNOHEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2021",
+      "course": "LAB M 427",
+      "courseTitle": "SEL ST LAB MED",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2021",
+      "course": "LAB M 431",
+      "courseTitle": "IMMUNOHEM ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2021",
+      "course": "LAB M 433",
+      "courseTitle": "ENRICHMENT ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2021",
+      "course": "LAB M 436",
+      "courseTitle": "MDX Rotation",
+      "section": "A",
+      "instructor": "Callahan,P"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2021",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2021",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2021",
+      "course": "LAB M 502",
+      "courseTitle": "LAB MED GRND ROUNDS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2021",
+      "course": "LAB M 510",
+      "courseTitle": "RESEARCH CONFERENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2021",
+      "course": "LAB M 521",
+      "courseTitle": "ADV LAB HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2021",
+      "course": "LAB M 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2021",
+      "course": "LAB M 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2021",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A",
+      "instructor": "Lieberman,Joshua A"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2021",
+      "course": "LAB M 699P",
+      "courseTitle": "P-WWAMI LAB M ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2021",
+      "course": "LAB M 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2022",
+      "course": "LAB M 423",
+      "courseTitle": "CLINICAL CHEMISTRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2022",
+      "course": "LAB M 424",
+      "courseTitle": "CLIN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2022",
+      "course": "LAB M 425",
+      "courseTitle": "CLINICAL HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2022",
+      "course": "LAB M 430",
+      "courseTitle": "MD TCH-INT CL HEMAT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2022",
+      "course": "LAB M 431",
+      "courseTitle": "IMMUNOHEM ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2022",
+      "course": "LAB M 433",
+      "courseTitle": "ENRICHMENT ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2022",
+      "course": "LAB M 435",
+      "courseTitle": "MOLECULAR DIAG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2022",
+      "course": "LAB M 436",
+      "courseTitle": "MDX Rotation",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2022",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2022",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2022",
+      "course": "LAB M 502",
+      "courseTitle": "LAB MED GRND ROUNDS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2022",
+      "course": "LAB M 510",
+      "courseTitle": "RESEARCH CONFERENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2022",
+      "course": "LAB M 521",
+      "courseTitle": "ADV LAB HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2022",
+      "course": "LAB M 555",
+      "courseTitle": "LM RESEARCH DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2022",
+      "course": "LAB M 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2022",
+      "course": "LAB M 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2022",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A",
+      "instructor": "Lieberman,J"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2022",
+      "course": "LAB M 685P",
+      "courseTitle": "P-CLIN LAB DIAG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2022",
+      "course": "LAB M 699P",
+      "courseTitle": "P-WWAMI LAB M ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2022",
+      "course": "LAB M 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2022",
+      "course": "LAB M 418",
+      "courseTitle": "INTRO CLINICAL CHEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2022",
+      "course": "LAB M 423",
+      "courseTitle": "CLINICAL CHEMISTRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2022",
+      "course": "LAB M 424",
+      "courseTitle": "CLIN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2022",
+      "course": "LAB M 425",
+      "courseTitle": "CLINICAL HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2022",
+      "course": "LAB M 431",
+      "courseTitle": "IMMUNOHEM ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2022",
+      "course": "LAB M 433",
+      "courseTitle": "ENRICHMENT ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2022",
+      "course": "LAB M 436",
+      "courseTitle": "MDX Rotation",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2022",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2022",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2022",
+      "course": "LAB M 502",
+      "courseTitle": "LAB MED GRND ROUNDS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2022",
+      "course": "LAB M 510",
+      "courseTitle": "RESEARCH CONFERENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2022",
+      "course": "LAB M 521",
+      "courseTitle": "ADV LAB HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2022",
+      "course": "LAB M 521",
+      "courseTitle": "ADV LAB HEMATOLOGY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2022",
+      "course": "LAB M 549",
+      "courseTitle": "GLOBAL LAB SYSTEMS",
+      "section": "A",
+      "instructor": "Soge,Olusegun O."
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2022",
+      "course": "LAB M 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2022",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A",
+      "instructor": "Lieberman,Joshua A"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2022",
+      "course": "LAB M 699P",
+      "courseTitle": "P-WWAMI LAB M ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2022",
+      "course": "LAB M 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2022",
+      "course": "LAB M 419",
+      "courseTitle": "CLIN COAG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2022",
+      "course": "LAB M 420",
+      "courseTitle": "LAB ANLYS BODY FLUID",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2022",
+      "course": "LAB M 421",
+      "courseTitle": "MED MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2022",
+      "course": "LAB M 431",
+      "courseTitle": "IMMUNOHEM ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2022",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2022",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2022",
+      "course": "LAB M 590P",
+      "courseTitle": "P-RES PROJ LAB MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2022",
+      "course": "LAB M 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2022",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A",
+      "instructor": "HO"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2022",
+      "course": "LAB M 699P",
+      "courseTitle": "P-WWAMI LAB M ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2022",
+      "course": "LAB M 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2022",
+      "course": "LAB M 301",
+      "courseTitle": "INTR MED LAB SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2022",
+      "course": "LAB M 302",
+      "courseTitle": "INTR MED LAB SCI LB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2022",
+      "course": "LAB M 302",
+      "courseTitle": "INTR MED LAB SCI LB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2022",
+      "course": "LAB M 423",
+      "courseTitle": "CLINICAL CHEMISTRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2022",
+      "course": "LAB M 424",
+      "courseTitle": "CLIN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2022",
+      "course": "LAB M 425",
+      "courseTitle": "CLINICAL HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2022",
+      "course": "LAB M 426",
+      "courseTitle": "CL IMMUNOHEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2022",
+      "course": "LAB M 427",
+      "courseTitle": "SEL ST LAB MED",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2022",
+      "course": "LAB M 431",
+      "courseTitle": "IMMUNOHEM ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2022",
+      "course": "LAB M 433",
+      "courseTitle": "ENRICHMENT ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2022",
+      "course": "LAB M 436",
+      "courseTitle": "MDX Rotation",
+      "section": "A",
+      "instructor": "Ronas,Jiro"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2022",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2022",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2022",
+      "course": "LAB M 502",
+      "courseTitle": "LAB MED GRND ROUNDS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2022",
+      "course": "LAB M 510",
+      "courseTitle": "RESEARCH CONFERENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2022",
+      "course": "LAB M 521",
+      "courseTitle": "ADV LAB HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2022",
+      "course": "LAB M 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2022",
+      "course": "LAB M 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2022",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A",
+      "instructor": "Lieberman,Joshua A"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2022",
+      "course": "LAB M 699P",
+      "courseTitle": "P-WWAMI LAB M ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2022",
+      "course": "LAB M 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2023",
+      "course": "LAB M 423",
+      "courseTitle": "CLINICAL CHEMISTRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2023",
+      "course": "LAB M 424",
+      "courseTitle": "CLIN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2023",
+      "course": "LAB M 425",
+      "courseTitle": "CLINICAL HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2023",
+      "course": "LAB M 430",
+      "courseTitle": "MD TCH-INT CL HEMAT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2023",
+      "course": "LAB M 431",
+      "courseTitle": "IMMUNOHEM ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2023",
+      "course": "LAB M 433",
+      "courseTitle": "ENRICHMENT ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2023",
+      "course": "LAB M 435",
+      "courseTitle": "MOLECULAR DIAG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2023",
+      "course": "LAB M 436",
+      "courseTitle": "MDX Rotation",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2023",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2023",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2023",
+      "course": "LAB M 502",
+      "courseTitle": "LAB MED GRND ROUNDS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2023",
+      "course": "LAB M 510",
+      "courseTitle": "RESEARCH CONFERENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2023",
+      "course": "LAB M 521",
+      "courseTitle": "ADV LAB HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2023",
+      "course": "LAB M 555",
+      "courseTitle": "LM RESEARCH DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2023",
+      "course": "LAB M 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2023",
+      "course": "LAB M 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2023",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A",
+      "instructor": "Lieberman,J"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2023",
+      "course": "LAB M 685P",
+      "courseTitle": "P-CLIN LAB DIAG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2023",
+      "course": "LAB M 699P",
+      "courseTitle": "P-WWAMI LAB M ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2023",
+      "course": "LAB M 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2023",
+      "course": "LAB M 418",
+      "courseTitle": "INTRO CLINICAL CHEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2023",
+      "course": "LAB M 423",
+      "courseTitle": "CLINICAL CHEMISTRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2023",
+      "course": "LAB M 424",
+      "courseTitle": "CLIN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2023",
+      "course": "LAB M 425",
+      "courseTitle": "CLINICAL HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2023",
+      "course": "LAB M 431",
+      "courseTitle": "IMMUNOHEM ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2023",
+      "course": "LAB M 433",
+      "courseTitle": "ENRICHMENT ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2023",
+      "course": "LAB M 436",
+      "courseTitle": "MDX Rotation",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2023",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2023",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2023",
+      "course": "LAB M 502",
+      "courseTitle": "LAB MED GRND ROUNDS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2023",
+      "course": "LAB M 510",
+      "courseTitle": "RESEARCH CONFERENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2023",
+      "course": "LAB M 520",
+      "courseTitle": "ORG & MGT IN LM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2023",
+      "course": "LAB M 521",
+      "courseTitle": "ADV LAB HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2023",
+      "course": "LAB M 521",
+      "courseTitle": "ADV LAB HEMATOLOGY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2023",
+      "course": "LAB M 549",
+      "courseTitle": "GLOBAL LAB SYSTEMS",
+      "section": "A",
+      "instructor": "Soge,Olusegun O."
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2023",
+      "course": "LAB M 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2023",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A",
+      "instructor": "Lieberman,J"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2023",
+      "course": "LAB M 699P",
+      "courseTitle": "P-WWAMI LAB M ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2023",
+      "course": "LAB M 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2023",
+      "course": "LAB M 419",
+      "courseTitle": "CLIN COAG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2023",
+      "course": "LAB M 420",
+      "courseTitle": "LAB ANLYS BODY FLUID",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2023",
+      "course": "LAB M 421",
+      "courseTitle": "MED MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2023",
+      "course": "LAB M 424",
+      "courseTitle": "CLIN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2023",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2023",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2023",
+      "course": "LAB M 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2023",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A",
+      "instructor": "HO"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2023",
+      "course": "LAB M 699P",
+      "courseTitle": "P-WWAMI LAB M ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2023",
+      "course": "LAB M 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2023",
+      "course": "LAB M 301",
+      "courseTitle": "INTR MED LAB SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2023",
+      "course": "LAB M 302",
+      "courseTitle": "INTR MED LAB SCI LB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2023",
+      "course": "LAB M 302",
+      "courseTitle": "INTR MED LAB SCI LB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2023",
+      "course": "LAB M 423",
+      "courseTitle": "CLINICAL CHEMISTRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2023",
+      "course": "LAB M 424",
+      "courseTitle": "CLIN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2023",
+      "course": "LAB M 425",
+      "courseTitle": "CLINICAL HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2023",
+      "course": "LAB M 426",
+      "courseTitle": "CL IMMUNOHEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2023",
+      "course": "LAB M 427",
+      "courseTitle": "SEL ST LAB MED",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2023",
+      "course": "LAB M 431",
+      "courseTitle": "IMMUNOHEM ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2023",
+      "course": "LAB M 433",
+      "courseTitle": "ENRICHMENT ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2023",
+      "course": "LAB M 436",
+      "courseTitle": "MDX Rotation",
+      "section": "A",
+      "instructor": "Ronas,Jiro"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2023",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2023",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2023",
+      "course": "LAB M 502",
+      "courseTitle": "LAB MED GRND ROUNDS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2023",
+      "course": "LAB M 510",
+      "courseTitle": "RESEARCH CONFERENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2023",
+      "course": "LAB M 521",
+      "courseTitle": "ADV LAB HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2023",
+      "course": "LAB M 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2023",
+      "course": "LAB M 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2023",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A",
+      "instructor": "Tsang,Hamilton C"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2023",
+      "course": "LAB M 699P",
+      "courseTitle": "P-WWAMI LAB M ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2023",
+      "course": "LAB M 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2024",
+      "course": "LAB M 423",
+      "courseTitle": "CLINICAL CHEMISTRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2024",
+      "course": "LAB M 424",
+      "courseTitle": "CLIN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2024",
+      "course": "LAB M 425",
+      "courseTitle": "CLINICAL HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2024",
+      "course": "LAB M 430",
+      "courseTitle": "MD TCH-INT CL HEMAT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2024",
+      "course": "LAB M 431",
+      "courseTitle": "IMMUNOHEM ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2024",
+      "course": "LAB M 433",
+      "courseTitle": "ENRICHMENT ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2024",
+      "course": "LAB M 435",
+      "courseTitle": "MOLECULAR DIAG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2024",
+      "course": "LAB M 436",
+      "courseTitle": "MDX Rotation",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2024",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2024",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2024",
+      "course": "LAB M 502",
+      "courseTitle": "LAB MED GRND ROUNDS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2024",
+      "course": "LAB M 510",
+      "courseTitle": "RESEARCH CONFERENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2024",
+      "course": "LAB M 521",
+      "courseTitle": "ADV LAB HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2024",
+      "course": "LAB M 555",
+      "courseTitle": "LM RESEARCH DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2024",
+      "course": "LAB M 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2024",
+      "course": "LAB M 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2024",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A",
+      "instructor": "Lieberman,Joshua A"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2024",
+      "course": "LAB M 685P",
+      "courseTitle": "P-CLIN LAB DIAG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2024",
+      "course": "LAB M 699P",
+      "courseTitle": "P-WWAMI LAB M ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2024",
+      "course": "LAB M 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2024",
+      "course": "LAB M 418",
+      "courseTitle": "INTRO CLINICAL CHEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2024",
+      "course": "LAB M 423",
+      "courseTitle": "CLINICAL CHEMISTRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2024",
+      "course": "LAB M 424",
+      "courseTitle": "CLIN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2024",
+      "course": "LAB M 425",
+      "courseTitle": "CLINICAL HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2024",
+      "course": "LAB M 431",
+      "courseTitle": "IMMUNOHEM ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2024",
+      "course": "LAB M 433",
+      "courseTitle": "ENRICHMENT ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2024",
+      "course": "LAB M 436",
+      "courseTitle": "MDX Rotation",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2024",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2024",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2024",
+      "course": "LAB M 502",
+      "courseTitle": "LAB MED GRND ROUNDS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2024",
+      "course": "LAB M 510",
+      "courseTitle": "RESEARCH CONFERENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2024",
+      "course": "LAB M 521",
+      "courseTitle": "ADV LAB HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2024",
+      "course": "LAB M 521",
+      "courseTitle": "ADV LAB HEMATOLOGY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2024",
+      "course": "LAB M 549",
+      "courseTitle": "GLOBAL LAB SYSTEMS",
+      "section": "A",
+      "instructor": "Soge,Olusegun O."
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2024",
+      "course": "LAB M 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2024",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A",
+      "instructor": "Lieberman,Joshua A"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2024",
+      "course": "LAB M 699P",
+      "courseTitle": "P-WWAMI LAB M ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2024",
+      "course": "LAB M 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2024",
+      "course": "LAB M 419",
+      "courseTitle": "CLIN COAG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2024",
+      "course": "LAB M 420",
+      "courseTitle": "LAB ANLYS BODY FLUID",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2024",
+      "course": "LAB M 421",
+      "courseTitle": "MED MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2024",
+      "course": "LAB M 424",
+      "courseTitle": "CLIN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2024",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2024",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2024",
+      "course": "LAB M 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2024",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A",
+      "instructor": "HO"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2024",
+      "course": "LAB M 699P",
+      "courseTitle": "P-WWAMI LAB M ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2024",
+      "course": "LAB M 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2024",
+      "course": "LAB M 301",
+      "courseTitle": "INTR MED LAB SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2024",
+      "course": "LAB M 302",
+      "courseTitle": "INTR MED LAB SCI LB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2024",
+      "course": "LAB M 302",
+      "courseTitle": "INTR MED LAB SCI LB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2024",
+      "course": "LAB M 426",
+      "courseTitle": "CL IMMUNOHEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2024",
+      "course": "LAB M 433",
+      "courseTitle": "ENRICHMENT ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2024",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2024",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2024",
+      "course": "LAB M 502",
+      "courseTitle": "LAB MED GRND ROUNDS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2024",
+      "course": "LAB M 510",
+      "courseTitle": "RESEARCH CONFERENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2024",
+      "course": "LAB M 521",
+      "courseTitle": "ADV LAB HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2024",
+      "course": "LAB M 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2024",
+      "course": "LAB M 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2024",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A",
+      "instructor": "Tsang,Hamilton C"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2024",
+      "course": "LAB M 699P",
+      "courseTitle": "P-WWAMI LAB M ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2024",
+      "course": "LAB M 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2025",
+      "course": "LAB M 423",
+      "courseTitle": "CLINICAL CHEMISTRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2025",
+      "course": "LAB M 424",
+      "courseTitle": "CLIN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2025",
+      "course": "LAB M 425",
+      "courseTitle": "CLINICAL HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2025",
+      "course": "LAB M 430",
+      "courseTitle": "MD TCH-INT CL HEMAT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2025",
+      "course": "LAB M 431",
+      "courseTitle": "IMMUNOHEM ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2025",
+      "course": "LAB M 435",
+      "courseTitle": "MOLECULAR DIAG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2025",
+      "course": "LAB M 436",
+      "courseTitle": "MDX Rotation",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2025",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2025",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2025",
+      "course": "LAB M 502",
+      "courseTitle": "LAB MED GRND ROUNDS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2025",
+      "course": "LAB M 510",
+      "courseTitle": "RESEARCH CONFERENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2025",
+      "course": "LAB M 521",
+      "courseTitle": "ADV LAB HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2025",
+      "course": "LAB M 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2025",
+      "course": "LAB M 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2025",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A",
+      "instructor": "Lieberman,Joshua A"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2025",
+      "course": "LAB M 686",
+      "courseTitle": "LAB CASE CLIN DIAG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2025",
+      "course": "LAB M 699P",
+      "courseTitle": "P-WWAMI LAB M ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2025",
+      "course": "LAB M 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2025",
+      "course": "LAB M 418",
+      "courseTitle": "INTRO CLINICAL CHEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2025",
+      "course": "LAB M 423",
+      "courseTitle": "CLINICAL CHEMISTRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2025",
+      "course": "LAB M 424",
+      "courseTitle": "CLIN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2025",
+      "course": "LAB M 425",
+      "courseTitle": "CLINICAL HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2025",
+      "course": "LAB M 431",
+      "courseTitle": "IMMUNOHEM ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2025",
+      "course": "LAB M 436",
+      "courseTitle": "MDX Rotation",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2025",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2025",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2025",
+      "course": "LAB M 502",
+      "courseTitle": "LAB MED GRND ROUNDS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2025",
+      "course": "LAB M 510",
+      "courseTitle": "RESEARCH CONFERENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2025",
+      "course": "LAB M 520",
+      "courseTitle": "ORG & MGT IN LM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2025",
+      "course": "LAB M 521",
+      "courseTitle": "ADV LAB HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2025",
+      "course": "LAB M 521",
+      "courseTitle": "ADV LAB HEMATOLOGY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2025",
+      "course": "LAB M 549",
+      "courseTitle": "GLOBAL LAB SYSTEMS",
+      "section": "A",
+      "instructor": "Soge,Olusegun O."
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2025",
+      "course": "LAB M 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2025",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A",
+      "instructor": "Lieberman,Joshua A"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2025",
+      "course": "LAB M 699P",
+      "courseTitle": "P-WWAMI LAB M ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2025",
+      "course": "LAB M 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2025",
+      "course": "LAB M 419",
+      "courseTitle": "CLIN COAG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2025",
+      "course": "LAB M 420",
+      "courseTitle": "LAB ANLYS BODY FLUID",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2025",
+      "course": "LAB M 421",
+      "courseTitle": "MED MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2025",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2025",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2025",
+      "course": "LAB M 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2025",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A",
+      "instructor": "HO"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2025",
+      "course": "LAB M 699P",
+      "courseTitle": "P-WWAMI LAB M ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SUM2025",
+      "course": "LAB M 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2025",
+      "course": "LAB M 301",
+      "courseTitle": "INTR MED LAB SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2025",
+      "course": "LAB M 302",
+      "courseTitle": "INTR MED LAB SCI LB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2025",
+      "course": "LAB M 302",
+      "courseTitle": "INTR MED LAB SCI LB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2025",
+      "course": "LAB M 426",
+      "courseTitle": "CL IMMUNOHEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2025",
+      "course": "LAB M 433",
+      "courseTitle": "ENRICHMENT ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2025",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2025",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2025",
+      "course": "LAB M 502",
+      "courseTitle": "LAB MED GRND ROUNDS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2025",
+      "course": "LAB M 510",
+      "courseTitle": "RESEARCH CONFERENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2025",
+      "course": "LAB M 521",
+      "courseTitle": "ADV LAB HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2025",
+      "course": "LAB M 555",
+      "courseTitle": "LM RESEARCH DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2025",
+      "course": "LAB M 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2025",
+      "course": "LAB M 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2025",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A",
+      "instructor": "Asif,Maryam"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2025",
+      "course": "LAB M 699P",
+      "courseTitle": "P-WWAMI LAB M ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "AUT2025",
+      "course": "LAB M 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2026",
+      "course": "LAB M 423",
+      "courseTitle": "CLINICAL CHEMISTRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2026",
+      "course": "LAB M 424",
+      "courseTitle": "CLIN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2026",
+      "course": "LAB M 425",
+      "courseTitle": "CLINICAL HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2026",
+      "course": "LAB M 430",
+      "courseTitle": "MD TCH-INT CL HEMAT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2026",
+      "course": "LAB M 431",
+      "courseTitle": "IMMUNOHEM ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2026",
+      "course": "LAB M 435",
+      "courseTitle": "MOLECULAR DIAG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2026",
+      "course": "LAB M 436",
+      "courseTitle": "MDX Rotation",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2026",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2026",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2026",
+      "course": "LAB M 502",
+      "courseTitle": "LAB MED GRND ROUNDS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2026",
+      "course": "LAB M 510",
+      "courseTitle": "RESEARCH CONFERENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2026",
+      "course": "LAB M 521",
+      "courseTitle": "ADV LAB HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2026",
+      "course": "LAB M 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2026",
+      "course": "LAB M 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2026",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A",
+      "instructor": "Treger,Rebecca"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2026",
+      "course": "LAB M 686",
+      "courseTitle": "LAB CASE CLIN DIAG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2026",
+      "course": "LAB M 699P",
+      "courseTitle": "P-WWAMI LAB M ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "WIN2026",
+      "course": "LAB M 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2026",
+      "course": "LAB M 419",
+      "courseTitle": "CLIN COAG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2026",
+      "course": "LAB M 420",
+      "courseTitle": "LAB ANLYS BODY FLUID",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2026",
+      "course": "LAB M 421",
+      "courseTitle": "MED MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2026",
+      "course": "LAB M 423",
+      "courseTitle": "CLINICAL CHEMISTRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2026",
+      "course": "LAB M 424",
+      "courseTitle": "CLIN MICROBIOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2026",
+      "course": "LAB M 425",
+      "courseTitle": "CLINICAL HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2026",
+      "course": "LAB M 431",
+      "courseTitle": "IMMUNOHEM ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2026",
+      "course": "LAB M 436",
+      "courseTitle": "MDX Rotation",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2026",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2026",
+      "course": "LAB M 499",
+      "courseTitle": "UNDERGRAD RES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2026",
+      "course": "LAB M 502",
+      "courseTitle": "LAB MED GRND ROUNDS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2026",
+      "course": "LAB M 510",
+      "courseTitle": "RESEARCH CONFERENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2026",
+      "course": "LAB M 520",
+      "courseTitle": "ORG & MGT IN LM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2026",
+      "course": "LAB M 521",
+      "courseTitle": "ADV LAB HEMATOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2026",
+      "course": "LAB M 521",
+      "courseTitle": "ADV LAB HEMATOLOGY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2026",
+      "course": "LAB M 549",
+      "courseTitle": "GLOBAL LAB SYSTEMS",
+      "section": "A",
+      "instructor": "Soge,Olusegun O."
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2026",
+      "course": "LAB M 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2026",
+      "course": "LAB M 680P",
+      "courseTitle": "P-CLIN LAB TEST",
+      "section": "A",
+      "instructor": "Treger,Rebecca"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2026",
+      "course": "LAB M 699P",
+      "courseTitle": "P-WWAMI LAB M ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labmed",
+      "deptName": "Laboratory Medicine",
+      "term": "SPR2026",
+      "course": "LAB M 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
 }

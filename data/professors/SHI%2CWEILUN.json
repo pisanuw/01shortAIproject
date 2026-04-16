@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "SHI%2CWEILUN",
+  "professor": "SHI,WEILUN",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2022",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "H"
+    }
+  ]
+}

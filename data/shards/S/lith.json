@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:57Z",
+  "generatedAt": "2026-04-16T02:57:13Z",
   "campus": "S",
   "dept": "lith",
   "deptName": "Lithuanian",
@@ -238,6 +238,46 @@
       "campus": "S",
       "dept": "lith",
       "deptName": "Lithuanian",
+      "term": "AUT2022",
+      "course": "LITH 101",
+      "courseTitle": "1ST YR LITHUANIAN 1",
+      "section": "A",
+      "instructor": "Daraskiene,I"
+    },
+    {
+      "campus": "S",
+      "dept": "lith",
+      "deptName": "Lithuanian",
+      "term": "AUT2022",
+      "course": "LITH 111",
+      "courseTitle": "BASIC LITHUANIAN",
+      "section": "A",
+      "instructor": "Daraskiene,I"
+    },
+    {
+      "campus": "S",
+      "dept": "lith",
+      "deptName": "Lithuanian",
+      "term": "AUT2022",
+      "course": "LITH 201",
+      "courseTitle": "2ND YEAR LITHUANIAN",
+      "section": "A",
+      "instructor": "Daraskiene,I"
+    },
+    {
+      "campus": "S",
+      "dept": "lith",
+      "deptName": "Lithuanian",
+      "term": "AUT2022",
+      "course": "LITH 490",
+      "courseTitle": "SUPERVISED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lith",
+      "deptName": "Lithuanian",
       "term": "WIN2023",
       "course": "LITH 102",
       "courseTitle": "1ST YR LITHUANIAN 2",
@@ -338,6 +378,56 @@
       "campus": "S",
       "dept": "lith",
       "deptName": "Lithuanian",
+      "term": "AUT2023",
+      "course": "LITH 101",
+      "courseTitle": "1ST YR LITHUANIAN 1",
+      "section": "A",
+      "instructor": "Daraskiene,Inga"
+    },
+    {
+      "campus": "S",
+      "dept": "lith",
+      "deptName": "Lithuanian",
+      "term": "AUT2023",
+      "course": "LITH 111",
+      "courseTitle": "BASIC LITHUANIAN",
+      "section": "A",
+      "instructor": "Daraskiene,Inga"
+    },
+    {
+      "campus": "S",
+      "dept": "lith",
+      "deptName": "Lithuanian",
+      "term": "AUT2023",
+      "course": "LITH 201",
+      "courseTitle": "2ND YEAR LITHUANIAN",
+      "section": "A",
+      "instructor": "Daraskiene,Inga"
+    },
+    {
+      "campus": "S",
+      "dept": "lith",
+      "deptName": "Lithuanian",
+      "term": "AUT2023",
+      "course": "LITH 211",
+      "courseTitle": "WRITTEN LITHUANIAN",
+      "section": "A",
+      "instructor": "Daraskiene,Inga"
+    },
+    {
+      "campus": "S",
+      "dept": "lith",
+      "deptName": "Lithuanian",
+      "term": "AUT2023",
+      "course": "LITH 490",
+      "courseTitle": "SUPERVISED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lith",
+      "deptName": "Lithuanian",
       "term": "WIN2024",
       "course": "LITH 102",
       "courseTitle": "1ST YR LITHUANIAN 2",
@@ -392,7 +482,7 @@
       "course": "LITH 103",
       "courseTitle": "1ST YR LITHUANIAN 3",
       "section": "A",
-      "instructor": "Daraskiene,Inga"
+      "instructor": "B Daraskiene,Inga"
     },
     {
       "campus": "S",
@@ -429,6 +519,56 @@
       "dept": "lith",
       "deptName": "Lithuanian",
       "term": "SPR2024",
+      "course": "LITH 490",
+      "courseTitle": "SUPERVISED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lith",
+      "deptName": "Lithuanian",
+      "term": "AUT2024",
+      "course": "LITH 101",
+      "courseTitle": "1ST YR LITHUANIAN 1",
+      "section": "A",
+      "instructor": "Holvoet,Gina"
+    },
+    {
+      "campus": "S",
+      "dept": "lith",
+      "deptName": "Lithuanian",
+      "term": "AUT2024",
+      "course": "LITH 111",
+      "courseTitle": "BASIC LITHUANIAN",
+      "section": "A",
+      "instructor": "Holvoet,Gina"
+    },
+    {
+      "campus": "S",
+      "dept": "lith",
+      "deptName": "Lithuanian",
+      "term": "AUT2024",
+      "course": "LITH 201",
+      "courseTitle": "2ND YEAR LITHUANIAN",
+      "section": "A",
+      "instructor": "Holvoet,Gina"
+    },
+    {
+      "campus": "S",
+      "dept": "lith",
+      "deptName": "Lithuanian",
+      "term": "AUT2024",
+      "course": "LITH 310",
+      "courseTitle": "LITERATURE&CULTURE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lith",
+      "deptName": "Lithuanian",
+      "term": "AUT2024",
       "course": "LITH 490",
       "courseTitle": "SUPERVISED READING",
       "section": "A",
@@ -512,7 +652,7 @@
       "course": "LITH 213",
       "courseTitle": "WRITTEN LITHUANIAN",
       "section": "A",
-      "instructor": "Holvoet,Gina"
+      "instructor": "B Holvoet,Gina"
     },
     {
       "campus": "S",
@@ -532,7 +672,7 @@
       "course": "LITH 101",
       "courseTitle": "1ST YR LITHUANIAN 1",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Holvoet,Gina"
     },
     {
       "campus": "S",
@@ -542,7 +682,7 @@
       "course": "LITH 111",
       "courseTitle": "BASIC LITHUANIAN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Holvoet,Gina"
     },
     {
       "campus": "S",
@@ -552,7 +692,7 @@
       "course": "LITH 201",
       "courseTitle": "2ND YEAR LITHUANIAN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Holvoet,Gina"
     },
     {
       "campus": "S",
@@ -562,7 +702,7 @@
       "course": "LITH 211",
       "courseTitle": "WRITTEN LITHUANIAN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Holvoet,Gina"
     },
     {
       "campus": "S",
@@ -572,7 +712,7 @@
       "course": "LITH 310",
       "courseTitle": "LITERATURE&CULTURE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Holvoet,Gina"
     },
     {
       "campus": "S",
@@ -592,7 +732,7 @@
       "course": "LITH 102",
       "courseTitle": "1ST YR LITHUANIAN 2",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Holvoet,Gina"
     },
     {
       "campus": "S",
@@ -612,7 +752,7 @@
       "course": "LITH 202",
       "courseTitle": "2ND YEAR LITHUANIAN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Holvoet,Gina"
     },
     {
       "campus": "S",
@@ -622,7 +762,7 @@
       "course": "LITH 212",
       "courseTitle": "WRITTEN LITHUANIAN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Holvoet,Gina"
     },
     {
       "campus": "S",
@@ -632,7 +772,7 @@
       "course": "LITH 310",
       "courseTitle": "LITERATURE&CULTURE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Holvoet,Gina"
     },
     {
       "campus": "S",
@@ -652,7 +792,7 @@
       "course": "LITH 103",
       "courseTitle": "1ST YR LITHUANIAN 3",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Holvoet,Gina"
     },
     {
       "campus": "S",
@@ -662,7 +802,7 @@
       "course": "LITH 113",
       "courseTitle": "BASIC LITHUANIAN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Holvoet,Gina"
     },
     {
       "campus": "S",
@@ -672,7 +812,7 @@
       "course": "LITH 203",
       "courseTitle": "2ND YEAR LITHUANIAN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Holvoet,Gina"
     },
     {
       "campus": "S",
@@ -682,7 +822,7 @@
       "course": "LITH 213",
       "courseTitle": "WRITTEN LITHUANIAN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Holvoet,Gina"
     },
     {
       "campus": "S",
@@ -692,7 +832,7 @@
       "course": "LITH 310",
       "courseTitle": "LITERATURE&CULTURE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Holvoet,Gina"
     },
     {
       "campus": "S",

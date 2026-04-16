@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Litterell%2CCollin%20D",
+  "professor": "Litterell,Collin D",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2023",
+      "course": "MATH 318",
+      "courseTitle": "ADV LINEAR ALGEBRA",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2022",
+      "course": "MATH 340",
+      "courseTitle": "ABSTRACT LINER ALG",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2021",
+      "course": "MATH 309",
+      "courseTitle": "LINEAR ANALYSIS",
+      "section": "A"
+    }
+  ]
+}

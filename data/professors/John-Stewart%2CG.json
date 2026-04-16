@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "John-Stewart%2CG",
+  "professor": "John-Stewart,G",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "obgyn",
+      "deptName": "Obstetrics and Gynecology",
+      "term": "AUT2021",
+      "course": "OB GYN 590",
+      "courseTitle": "HIV/STI WOMEN&CHILD",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "obgyn",
+      "deptName": "Obstetrics and Gynecology",
+      "term": "AUT2020",
+      "course": "OB GYN 590",
+      "courseTitle": "HIV/STI WOMEN&CHILD",
+      "section": "A"
+    }
+  ]
+}

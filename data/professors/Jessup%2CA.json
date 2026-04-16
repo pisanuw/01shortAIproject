@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Jessup%2CA",
+  "professor": "Jessup,A",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cewa",
+      "deptName": "Environmental Engineering",
+      "term": "WIN2022",
+      "course": "CEWA 577",
+      "courseTitle": "OPN CHN FLO HEC-RAS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cewa",
+      "deptName": "Environmental Engineering",
+      "term": "WIN2021",
+      "course": "CEWA 577",
+      "courseTitle": "OPN CHN FLO HEC-RAS",
+      "section": "A"
+    }
+  ]
+}

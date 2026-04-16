@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:55Z",
+  "generatedAt": "2026-04-16T02:57:10Z",
   "campus": "S",
   "dept": "astbio",
   "deptName": "Astrobiology",
@@ -88,6 +88,16 @@
       "campus": "S",
       "dept": "astbio",
       "deptName": "Astrobiology",
+      "term": "SUM2021",
+      "course": "ASTBIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "astbio",
+      "deptName": "Astrobiology",
       "term": "AUT2021",
       "course": "ASTBIO 502",
       "courseTitle": "ASTROBIO TOPICS",
@@ -129,6 +139,36 @@
       "dept": "astbio",
       "deptName": "Astrobiology",
       "term": "WIN2022",
+      "course": "ASTBIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "astbio",
+      "deptName": "Astrobiology",
+      "term": "SPR2022",
+      "course": "ASTBIO 115",
+      "courseTitle": "INTRO ASTROBIOLOGY",
+      "section": "A",
+      "instructor": "Barnes,Rory K"
+    },
+    {
+      "campus": "S",
+      "dept": "astbio",
+      "deptName": "Astrobiology",
+      "term": "SPR2022",
+      "course": "ASTBIO 576",
+      "courseTitle": "ASTBIO COLLOQUIUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "astbio",
+      "deptName": "Astrobiology",
+      "term": "SPR2022",
       "course": "ASTBIO 600",
       "courseTitle": "INDEPNDNT STDY/RSCH",
       "section": "A",
@@ -332,7 +372,7 @@
       "course": "ASTBIO 115",
       "courseTitle": "ASTROBIOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Buick,Roger"
     },
     {
       "campus": "S",
@@ -418,6 +458,16 @@
       "campus": "S",
       "dept": "astbio",
       "deptName": "Astrobiology",
+      "term": "SUM2025",
+      "course": "ASTBIO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "astbio",
+      "deptName": "Astrobiology",
       "term": "AUT2025",
       "course": "ASTBIO 502",
       "courseTitle": "ASTROBIO TOPICS",
@@ -472,7 +522,7 @@
       "course": "ASTBIO 115",
       "courseTitle": "ASTROBIOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Buick,Roger"
     },
     {
       "campus": "S",

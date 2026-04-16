@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Hill%2CTrent",
+  "professor": "Hill,Trent",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 200",
+      "courseTitle": "INTELL FOUNDATIONS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2024",
+      "course": "INFO 200",
+      "courseTitle": "INTELL FOUNDATIONS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2023",
+      "course": "INFO 200",
+      "courseTitle": "INTELL FOUNDATIONS",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "King%2CDonald%20I",
+  "professor": "King,Donald I",
+  "recordCount": 7,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "AUT2025",
+      "course": "ARCH 506",
+      "courseTitle": "ARCH EXPLORATION II",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "AUT2025",
+      "course": "ARCH 400",
+      "courseTitle": "ARCH DESIGN IV",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "AUT2022",
+      "course": "ARCH 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "AUT2022",
+      "course": "ARCH 498",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2022",
+      "course": "ARCH 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2022",
+      "course": "ARCH 498",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "G"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "WIN2021",
+      "course": "ARCH 504",
+      "courseTitle": "ARCH INTEGRATION III",
+      "section": "D"
+    }
+  ]
+}

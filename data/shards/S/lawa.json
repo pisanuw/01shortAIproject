@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:28:00Z",
+  "generatedAt": "2026-04-16T02:57:15Z",
   "campus": "S",
   "dept": "lawa",
   "deptName": "Law A",
@@ -12,7 +12,7 @@
       "course": "LAW A 502",
       "courseTitle": "CIVIL PROCEDURE I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Feldman,Jeffrey M"
     },
     {
       "campus": "S",
@@ -42,7 +42,7 @@
       "course": "LAW A 504",
       "courseTitle": "TORTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Calo,Ryan"
     },
     {
       "campus": "S",
@@ -62,7 +62,7 @@
       "course": "LAW A 506",
       "courseTitle": "LEGAL ANALYSIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McGinnis,Kathleen M"
     },
     {
       "campus": "S",
@@ -4512,7 +4512,7 @@
       "course": "LAW A 502",
       "courseTitle": "CIVIL PROCEDURE I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Feldman,Jeffrey M"
     },
     {
       "campus": "S",
@@ -4542,7 +4542,7 @@
       "course": "LAW A 504",
       "courseTitle": "TORTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Calo,Ryan"
     },
     {
       "campus": "S",
@@ -4562,7 +4562,7 @@
       "course": "LAW A 506",
       "courseTitle": "LEGAL ANALYSIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Butler,Mireille"
     },
     {
       "campus": "S",
@@ -7078,6 +7078,856 @@
       "campus": "S",
       "dept": "lawa",
       "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 500",
+      "courseTitle": "LAW PERSPECTIVES",
+      "section": "A",
+      "instructor": "Raigrodski,Dana"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 502",
+      "courseTitle": "CIVIL PROCEDURE I",
+      "section": "A",
+      "instructor": "Feldman,Jeffrey M"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 502",
+      "courseTitle": "CIVIL PROCEDURE I",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 502",
+      "courseTitle": "CIVIL PROCEDURE I",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 504",
+      "courseTitle": "TORTS",
+      "section": "A",
+      "instructor": "Calo,Ryan"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 504",
+      "courseTitle": "TORTS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 504",
+      "courseTitle": "TORTS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 506",
+      "courseTitle": "LEGAL ANALYSIS",
+      "section": "A",
+      "instructor": "Butler,Mireille"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 506",
+      "courseTitle": "LEGAL ANALYSIS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 506",
+      "courseTitle": "LEGAL ANALYSIS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 506",
+      "courseTitle": "LEGAL ANALYSIS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 506",
+      "courseTitle": "LEGAL ANALYSIS",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 506",
+      "courseTitle": "LEGAL ANALYSIS",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 506",
+      "courseTitle": "LEGAL ANALYSIS",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 506",
+      "courseTitle": "LEGAL ANALYSIS",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 506",
+      "courseTitle": "LEGAL ANALYSIS",
+      "section": "I",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 506",
+      "courseTitle": "LEGAL ANALYSIS",
+      "section": "J",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 507",
+      "courseTitle": "CON LAW I",
+      "section": "B",
+      "instructor": "Falvy,Dean G"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 507",
+      "courseTitle": "CON LAW I",
+      "section": "C",
+      "instructor": "Falvy,Dean G"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 507",
+      "courseTitle": "CON LAW I",
+      "section": "D",
+      "instructor": "Falvy,Dean G"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 507",
+      "courseTitle": "CON LAW I",
+      "section": "E",
+      "instructor": "Falvy,Dean G"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 507",
+      "courseTitle": "CON LAW I",
+      "section": "G",
+      "instructor": "Falvy,Dean G"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 507",
+      "courseTitle": "CON LAW I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 507",
+      "courseTitle": "CON LAW I",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 509",
+      "courseTitle": "ADMINISTRATIVE LAW",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 512",
+      "courseTitle": "SECURED TRANS",
+      "section": "C",
+      "instructor": "Ranade,Amit"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 512",
+      "courseTitle": "SECURED TRANS",
+      "section": "D",
+      "instructor": "Ranade,Amit"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 512",
+      "courseTitle": "SECURED TRANS",
+      "section": "E",
+      "instructor": "Ranade,Amit"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 512",
+      "courseTitle": "SECURED TRANS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 512",
+      "courseTitle": "SECURED TRANS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
+      "section": "C",
+      "instructor": "Ortiz-Velez,Ramon E"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
+      "section": "E",
+      "instructor": "Ortiz-Velez,Ramon E"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
+      "section": "F",
+      "instructor": "Ortiz-Velez,Ramon E"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
+      "section": "I",
+      "instructor": "Ortiz-Velez,Ramon E"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 525",
+      "courseTitle": "WATER LAW",
+      "section": "D",
+      "instructor": "Eberhard,Eric"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 525",
+      "courseTitle": "WATER LAW",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 525",
+      "courseTitle": "WATER LAW",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 525",
+      "courseTitle": "WATER LAW",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 530",
+      "courseTitle": "INDIV INCOME TAX",
+      "section": "C",
+      "instructor": "McCormack,Shannon Weeks"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 530",
+      "courseTitle": "INDIV INCOME TAX",
+      "section": "D",
+      "instructor": "McCormack,Shannon Weeks"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 530",
+      "courseTitle": "INDIV INCOME TAX",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 530",
+      "courseTitle": "INDIV INCOME TAX",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 552",
+      "courseTitle": "ANTITRUST LAW & POL",
+      "section": "C",
+      "instructor": "Ross,Douglas C."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 552",
+      "courseTitle": "ANTITRUST LAW & POL",
+      "section": "D",
+      "instructor": "Ross,Douglas C."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 552",
+      "courseTitle": "ANTITRUST LAW & POL",
+      "section": "E",
+      "instructor": "Ross,Douglas C."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 552",
+      "courseTitle": "ANTITRUST LAW & POL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 552",
+      "courseTitle": "ANTITRUST LAW & POL",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 552",
+      "courseTitle": "ANTITRUST LAW & POL",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 554",
+      "courseTitle": "LABOR RELTNS & LAW",
+      "section": "D",
+      "instructor": "Casillas,Chris J"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 554",
+      "courseTitle": "LABOR RELTNS & LAW",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 554",
+      "courseTitle": "LABOR RELTNS & LAW",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 554",
+      "courseTitle": "LABOR RELTNS & LAW",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 565",
+      "courseTitle": "AMERICAN INDIAN LAW",
+      "section": "C",
+      "instructor": "Mills,Monte"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 565",
+      "courseTitle": "AMERICAN INDIAN LAW",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 565",
+      "courseTitle": "AMERICAN INDIAN LAW",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 565",
+      "courseTitle": "AMERICAN INDIAN LAW",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 565",
+      "courseTitle": "AMERICAN INDIAN LAW",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 574",
+      "courseTitle": "INTERNATIONAL LAW",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 574",
+      "courseTitle": "INTERNATIONAL LAW",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 574",
+      "courseTitle": "INTERNATIONAL LAW",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 574",
+      "courseTitle": "INTERNATIONAL LAW",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 574",
+      "courseTitle": "INTERNATIONAL LAW",
+      "section": "C",
+      "instructor": "Zang,Dongsheng"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 574",
+      "courseTitle": "INTERNATIONAL LAW",
+      "section": "D",
+      "instructor": "Zang,Dongsheng"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 574",
+      "courseTitle": "INTERNATIONAL LAW",
+      "section": "G",
+      "instructor": "Zang,Dongsheng"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 577",
+      "courseTitle": "IMMIGRATION LAW",
+      "section": "D",
+      "instructor": "Olazcon Mozo,Georgina"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 577",
+      "courseTitle": "IMMIGRATION LAW",
+      "section": "F",
+      "instructor": "Olazcon Mozo,Georgina"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 577",
+      "courseTitle": "IMMIGRATION LAW",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 577",
+      "courseTitle": "IMMIGRATION LAW",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 577",
+      "courseTitle": "IMMIGRATION LAW",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 577",
+      "courseTitle": "IMMIGRATION LAW",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 590",
+      "courseTitle": "CON LAW: EP",
+      "section": "B",
+      "instructor": "Price,Terry J."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 590",
+      "courseTitle": "CON LAW: EP",
+      "section": "D",
+      "instructor": "Price,Terry J."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 590",
+      "courseTitle": "CON LAW: EP",
+      "section": "E",
+      "instructor": "Price,Terry J."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 590",
+      "courseTitle": "CON LAW: EP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 590",
+      "courseTitle": "CON LAW: EP",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 590",
+      "courseTitle": "CON LAW: EP",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 590",
+      "courseTitle": "CON LAW: EP",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 590",
+      "courseTitle": "CON LAW: EP",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 599",
+      "courseTitle": "LEGAL RSRCH MTHDS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2023",
+      "course": "LAW A 599",
+      "courseTitle": "LEGAL RSRCH MTHDS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
       "term": "WIN2024",
       "course": "LAW A 501",
       "courseTitle": "CONTRACTS",
@@ -9152,7 +10002,7 @@
       "course": "LAW A 504",
       "courseTitle": "TORTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Calo,Ryan"
     },
     {
       "campus": "S",
@@ -11048,6 +11898,796 @@
       "campus": "S",
       "dept": "lawa",
       "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 500",
+      "courseTitle": "LAW PERSPECTIVES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 505",
+      "courseTitle": "CRIMINAL LAW",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 505",
+      "courseTitle": "CRIMINAL LAW",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 506",
+      "courseTitle": "LEGAL ANALYSIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 506",
+      "courseTitle": "LEGAL ANALYSIS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 506",
+      "courseTitle": "LEGAL ANALYSIS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 506",
+      "courseTitle": "LEGAL ANALYSIS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 506",
+      "courseTitle": "LEGAL ANALYSIS",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 506",
+      "courseTitle": "LEGAL ANALYSIS",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 506",
+      "courseTitle": "LEGAL ANALYSIS",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 506",
+      "courseTitle": "LEGAL ANALYSIS",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 506",
+      "courseTitle": "LEGAL ANALYSIS",
+      "section": "I",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 506",
+      "courseTitle": "LEGAL ANALYSIS",
+      "section": "J",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 507",
+      "courseTitle": "CON LAW I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 507",
+      "courseTitle": "CON LAW I",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 509",
+      "courseTitle": "ADMINISTRATIVE LAW",
+      "section": "C",
+      "instructor": "Ross,Douglas C."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 509",
+      "courseTitle": "ADMINISTRATIVE LAW",
+      "section": "D",
+      "instructor": "Ross,Douglas C."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 509",
+      "courseTitle": "ADMINISTRATIVE LAW",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 509",
+      "courseTitle": "ADMINISTRATIVE LAW",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
+      "section": "C",
+      "instructor": "Nguyen,Xuanthao N."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
+      "section": "D",
+      "instructor": "Nguyen,Xuanthao N."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
+      "section": "E",
+      "instructor": "Nguyen,Xuanthao N."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
+      "section": "F",
+      "instructor": "Nguyen,Xuanthao N."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 516",
+      "courseTitle": "ACCTG FOR LAWYERS",
+      "section": "A",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 516",
+      "courseTitle": "ACCTG FOR LAWYERS",
+      "section": "B",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 516",
+      "courseTitle": "ACCTG FOR LAWYERS",
+      "section": "C",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 516",
+      "courseTitle": "ACCTG FOR LAWYERS",
+      "section": "D",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 516",
+      "courseTitle": "ACCTG FOR LAWYERS",
+      "section": "E",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 516",
+      "courseTitle": "ACCTG FOR LAWYERS",
+      "section": "F",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 519",
+      "courseTitle": "TRUSTS AND ESTATES",
+      "section": "C",
+      "instructor": "Cauthorn,Anton"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 519",
+      "courseTitle": "TRUSTS AND ESTATES",
+      "section": "D",
+      "instructor": "Cauthorn,Anton"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 519",
+      "courseTitle": "TRUSTS AND ESTATES",
+      "section": "E",
+      "instructor": "Cauthorn,Anton"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 519",
+      "courseTitle": "TRUSTS AND ESTATES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 519",
+      "courseTitle": "TRUSTS AND ESTATES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 521",
+      "courseTitle": "COMMUNITY PROPERTY",
+      "section": "C",
+      "instructor": "Boxx,Karen E"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 521",
+      "courseTitle": "COMMUNITY PROPERTY",
+      "section": "D",
+      "instructor": "Boxx,Karen E"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 521",
+      "courseTitle": "COMMUNITY PROPERTY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 521",
+      "courseTitle": "COMMUNITY PROPERTY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 523",
+      "courseTitle": "REAL ESTATE TRANS",
+      "section": "C",
+      "instructor": "Fikso,Bob"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 523",
+      "courseTitle": "REAL ESTATE TRANS",
+      "section": "D",
+      "instructor": "Fikso,Bob"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 523",
+      "courseTitle": "REAL ESTATE TRANS",
+      "section": "E",
+      "instructor": "Fikso,Bob"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 523",
+      "courseTitle": "REAL ESTATE TRANS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 523",
+      "courseTitle": "REAL ESTATE TRANS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 530",
+      "courseTitle": "INDIV INCOME TAX",
+      "section": "B",
+      "instructor": "Hatfield,Michael W"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 530",
+      "courseTitle": "INDIV INCOME TAX",
+      "section": "C",
+      "instructor": "Hatfield,Michael W"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 530",
+      "courseTitle": "INDIV INCOME TAX",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 548",
+      "courseTitle": "CIVIL RIGHTS",
+      "section": "C",
+      "instructor": "Schnapper,Eric"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 548",
+      "courseTitle": "CIVIL RIGHTS",
+      "section": "D",
+      "instructor": "Schnapper,Eric"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 548",
+      "courseTitle": "CIVIL RIGHTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 548",
+      "courseTitle": "CIVIL RIGHTS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 553",
+      "courseTitle": "FEMINIST JURIS SEM",
+      "section": "C",
+      "instructor": "Raigrodski,Dana"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 553",
+      "courseTitle": "FEMINIST JURIS SEM",
+      "section": "D",
+      "instructor": "Raigrodski,Dana"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 553",
+      "courseTitle": "FEMINIST JURIS SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 553",
+      "courseTitle": "FEMINIST JURIS SEM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 561",
+      "courseTitle": "LAW AND ECONOMICS",
+      "section": "C",
+      "instructor": "Calandrillo,Steve"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 561",
+      "courseTitle": "LAW AND ECONOMICS",
+      "section": "D",
+      "instructor": "Calandrillo,Steve"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 561",
+      "courseTitle": "LAW AND ECONOMICS",
+      "section": "E",
+      "instructor": "Calandrillo,Steve"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 561",
+      "courseTitle": "LAW AND ECONOMICS",
+      "section": "G",
+      "instructor": "Calandrillo,Steve"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 561",
+      "courseTitle": "LAW AND ECONOMICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 561",
+      "courseTitle": "LAW AND ECONOMICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 561",
+      "courseTitle": "LAW AND ECONOMICS",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 579",
+      "courseTitle": "CHILD ADVOCACY SMNR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 580",
+      "courseTitle": "FAMILY LAW",
+      "section": "C",
+      "instructor": "Lack,Jonathon"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 580",
+      "courseTitle": "FAMILY LAW",
+      "section": "D",
+      "instructor": "Lack,Jonathon"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 580",
+      "courseTitle": "FAMILY LAW",
+      "section": "E",
+      "instructor": "Lack,Jonathon"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 580",
+      "courseTitle": "FAMILY LAW",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 580",
+      "courseTitle": "FAMILY LAW",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 590",
+      "courseTitle": "CON LAW: EP",
+      "section": "B",
+      "instructor": "Price,Terry J."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 590",
+      "courseTitle": "CON LAW: EP",
+      "section": "C",
+      "instructor": "Price,Terry J."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 590",
+      "courseTitle": "CON LAW: EP",
+      "section": "D",
+      "instructor": "Price,Terry J."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 590",
+      "courseTitle": "CON LAW: EP",
+      "section": "E",
+      "instructor": "Price,Terry J."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 590",
+      "courseTitle": "CON LAW: EP",
+      "section": "F",
+      "instructor": "Price,Terry J."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 590",
+      "courseTitle": "CON LAW: EP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 590",
+      "courseTitle": "CON LAW: EP",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 592",
+      "courseTitle": "CONSTITUTION LAW II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 592",
+      "courseTitle": "CONSTITUTION LAW II",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2025",
+      "course": "LAW A 592",
+      "courseTitle": "CONSTITUTION LAW II",
+      "section": "C",
+      "instructor": "Walsh,Walter J"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
       "term": "SUM2025",
       "course": "LAW A 530",
       "courseTitle": "INDIV INCOME TAX",
@@ -11132,7 +12772,7 @@
       "course": "LAW A 502",
       "courseTitle": "CIVIL PROCEDURE I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Knudsen,Sanne H"
     },
     {
       "campus": "S",
@@ -11162,7 +12802,7 @@
       "course": "LAW A 504",
       "courseTitle": "TORTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Calo,Ryan"
     },
     {
       "campus": "S",
@@ -11182,7 +12822,7 @@
       "course": "LAW A 506",
       "courseTitle": "LEGAL ANALYSIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Butler,Mireille"
     },
     {
       "campus": "S",
@@ -11291,18 +12931,8 @@
       "term": "AUT2025",
       "course": "LAW A 507",
       "courseTitle": "CON LAW I",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "AUT2025",
-      "course": "LAW A 507",
-      "courseTitle": "CON LAW I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Falvy,Dean G"
     },
     {
       "campus": "S",
@@ -11312,7 +12942,7 @@
       "course": "LAW A 507",
       "courseTitle": "CON LAW I",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Falvy,Dean G"
     },
     {
       "campus": "S",
@@ -11322,7 +12952,7 @@
       "course": "LAW A 507",
       "courseTitle": "CON LAW I",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Falvy,Dean G"
     },
     {
       "campus": "S",
@@ -11332,6 +12962,16 @@
       "course": "LAW A 507",
       "courseTitle": "CON LAW I",
       "section": "E",
+      "instructor": "Falvy,Dean G"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2025",
+      "course": "LAW A 507",
+      "courseTitle": "CON LAW I",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -11361,6 +13001,26 @@
       "term": "AUT2025",
       "course": "LAW A 509",
       "courseTitle": "ADMINISTRATIVE LAW",
+      "section": "C",
+      "instructor": "Manheim,Lisa Marshall"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2025",
+      "course": "LAW A 509",
+      "courseTitle": "ADMINISTRATIVE LAW",
+      "section": "D",
+      "instructor": "Manheim,Lisa Marshall"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2025",
+      "course": "LAW A 509",
+      "courseTitle": "ADMINISTRATIVE LAW",
       "section": "A",
       "instructor": "TBA"
     },
@@ -11379,26 +13039,6 @@
       "dept": "lawa",
       "deptName": "Law A",
       "term": "AUT2025",
-      "course": "LAW A 509",
-      "courseTitle": "ADMINISTRATIVE LAW",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "AUT2025",
-      "course": "LAW A 509",
-      "courseTitle": "ADMINISTRATIVE LAW",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "AUT2025",
       "course": "LAW A 510",
       "courseTitle": "SALES",
       "section": "A",
@@ -11412,16 +13052,6 @@
       "course": "LAW A 510",
       "courseTitle": "SALES",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "AUT2025",
-      "course": "LAW A 510",
-      "courseTitle": "SALES",
-      "section": "C",
       "instructor": "TBA"
     },
     {
@@ -11449,6 +13079,46 @@
       "dept": "lawa",
       "deptName": "Law A",
       "term": "AUT2025",
+      "course": "LAW A 510",
+      "courseTitle": "SALES",
+      "section": "C",
+      "instructor": "Winn,Jane K"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2025",
+      "course": "LAW A 512",
+      "courseTitle": "SECURED TRANS",
+      "section": "C",
+      "instructor": "Ranade,Amit"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2025",
+      "course": "LAW A 512",
+      "courseTitle": "SECURED TRANS",
+      "section": "D",
+      "instructor": "Ranade,Amit"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2025",
+      "course": "LAW A 512",
+      "courseTitle": "SECURED TRANS",
+      "section": "E",
+      "instructor": "Ranade,Amit"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2025",
       "course": "LAW A 512",
       "courseTitle": "SECURED TRANS",
       "section": "A",
@@ -11469,30 +13139,30 @@
       "dept": "lawa",
       "deptName": "Law A",
       "term": "AUT2025",
-      "course": "LAW A 512",
-      "courseTitle": "SECURED TRANS",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Ortiz-Velez,Ramon E"
     },
     {
       "campus": "S",
       "dept": "lawa",
       "deptName": "Law A",
       "term": "AUT2025",
-      "course": "LAW A 512",
-      "courseTitle": "SECURED TRANS",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Ortiz-Velez,Ramon E"
     },
     {
       "campus": "S",
       "dept": "lawa",
       "deptName": "Law A",
       "term": "AUT2025",
-      "course": "LAW A 512",
-      "courseTitle": "SECURED TRANS",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Ortiz-Velez,Ramon E"
     },
     {
       "campus": "S",
@@ -11519,30 +13189,20 @@
       "dept": "lawa",
       "deptName": "Law A",
       "term": "AUT2025",
-      "course": "LAW A 515",
-      "courseTitle": "BUSINESS ORGNZATION",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "AUT2025",
-      "course": "LAW A 515",
-      "courseTitle": "BUSINESS ORGNZATION",
+      "course": "LAW A 519",
+      "courseTitle": "TRUSTS AND ESTATES",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Boxx,Karen E"
     },
     {
       "campus": "S",
       "dept": "lawa",
       "deptName": "Law A",
       "term": "AUT2025",
-      "course": "LAW A 515",
-      "courseTitle": "BUSINESS ORGNZATION",
+      "course": "LAW A 519",
+      "courseTitle": "TRUSTS AND ESTATES",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Boxx,Karen E"
     },
     {
       "campus": "S",
@@ -11572,26 +13232,6 @@
       "course": "LAW A 519",
       "courseTitle": "TRUSTS AND ESTATES",
       "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "AUT2025",
-      "course": "LAW A 519",
-      "courseTitle": "TRUSTS AND ESTATES",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "AUT2025",
-      "course": "LAW A 519",
-      "courseTitle": "TRUSTS AND ESTATES",
-      "section": "E",
       "instructor": "TBA"
     },
     {
@@ -11631,7 +13271,7 @@
       "term": "AUT2025",
       "course": "LAW A 525",
       "courseTitle": "WATER LAW",
-      "section": "C",
+      "section": "D",
       "instructor": "TBA"
     },
     {
@@ -11641,8 +13281,8 @@
       "term": "AUT2025",
       "course": "LAW A 525",
       "courseTitle": "WATER LAW",
-      "section": "D",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "Womble,Philip"
     },
     {
       "campus": "S",
@@ -11711,28 +13351,8 @@
       "term": "AUT2025",
       "course": "LAW A 534",
       "courseTitle": "MERGER & ACQUISITION",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "AUT2025",
-      "course": "LAW A 534",
-      "courseTitle": "MERGER & ACQUISITION",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "AUT2025",
-      "course": "LAW A 534",
-      "courseTitle": "MERGER & ACQUISITION",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "LeMaster,Matthew D."
     },
     {
       "campus": "S",
@@ -11742,7 +13362,7 @@
       "course": "LAW A 534",
       "courseTitle": "MERGER & ACQUISITION",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "LeMaster,Matthew D."
     },
     {
       "campus": "S",
@@ -11752,6 +13372,26 @@
       "course": "LAW A 534",
       "courseTitle": "MERGER & ACQUISITION",
       "section": "E",
+      "instructor": "LeMaster,Matthew D."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2025",
+      "course": "LAW A 534",
+      "courseTitle": "MERGER & ACQUISITION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2025",
+      "course": "LAW A 534",
+      "courseTitle": "MERGER & ACQUISITION",
+      "section": "B",
       "instructor": "TBA"
     },
     {
@@ -11772,7 +13412,7 @@
       "course": "LAW A 549",
       "courseTitle": "ADV LEG RESEARCH",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Wilcoxon,Laura Beth"
     },
     {
       "campus": "S",
@@ -11782,27 +13422,7 @@
       "course": "LAW A 549",
       "courseTitle": "ADV LEG RESEARCH",
       "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "AUT2025",
-      "course": "LAW A 552",
-      "courseTitle": "ANTITRUST LAW & POL",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "AUT2025",
-      "course": "LAW A 552",
-      "courseTitle": "ANTITRUST LAW & POL",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Wilcoxon,Laura Beth"
     },
     {
       "campus": "S",
@@ -11812,7 +13432,7 @@
       "course": "LAW A 552",
       "courseTitle": "ANTITRUST LAW & POL",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Ross,Douglas C."
     },
     {
       "campus": "S",
@@ -11822,7 +13442,7 @@
       "course": "LAW A 552",
       "courseTitle": "ANTITRUST LAW & POL",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Ross,Douglas C."
     },
     {
       "campus": "S",
@@ -11832,6 +13452,26 @@
       "course": "LAW A 552",
       "courseTitle": "ANTITRUST LAW & POL",
       "section": "E",
+      "instructor": "Ross,Douglas C."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2025",
+      "course": "LAW A 552",
+      "courseTitle": "ANTITRUST LAW & POL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2025",
+      "course": "LAW A 552",
+      "courseTitle": "ANTITRUST LAW & POL",
+      "section": "B",
       "instructor": "TBA"
     },
     {
@@ -11851,6 +13491,16 @@
       "term": "AUT2025",
       "course": "LAW A 554",
       "courseTitle": "LABOR RELTNS & LAW",
+      "section": "D",
+      "instructor": "Casillas,Chris J"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2025",
+      "course": "LAW A 554",
+      "courseTitle": "LABOR RELTNS & LAW",
       "section": "A",
       "instructor": "TBA"
     },
@@ -11879,10 +13529,20 @@
       "dept": "lawa",
       "deptName": "Law A",
       "term": "AUT2025",
-      "course": "LAW A 554",
-      "courseTitle": "LABOR RELTNS & LAW",
+      "course": "LAW A 561",
+      "courseTitle": "LAW AND ECONOMICS",
+      "section": "C",
+      "instructor": "Calandrillo,Steve"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2025",
+      "course": "LAW A 561",
+      "courseTitle": "LAW AND ECONOMICS",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Calandrillo,Steve"
     },
     {
       "campus": "S",
@@ -11911,28 +13571,28 @@
       "term": "AUT2025",
       "course": "LAW A 561",
       "courseTitle": "LAW AND ECONOMICS",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "AUT2025",
-      "course": "LAW A 561",
-      "courseTitle": "LAW AND ECONOMICS",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "AUT2025",
-      "course": "LAW A 561",
-      "courseTitle": "LAW AND ECONOMICS",
       "section": "E",
       "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2025",
+      "course": "LAW A 565",
+      "courseTitle": "AMERICAN INDIAN LAW",
+      "section": "C",
+      "instructor": "Mills,Monte"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2025",
+      "course": "LAW A 565",
+      "courseTitle": "AMERICAN INDIAN LAW",
+      "section": "D",
+      "instructor": "Mills,Monte"
     },
     {
       "campus": "S",
@@ -11959,26 +13619,6 @@
       "dept": "lawa",
       "deptName": "Law A",
       "term": "AUT2025",
-      "course": "LAW A 565",
-      "courseTitle": "AMERICAN INDIAN LAW",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "AUT2025",
-      "course": "LAW A 565",
-      "courseTitle": "AMERICAN INDIAN LAW",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "AUT2025",
       "course": "LAW A 574",
       "courseTitle": "INTERNATIONAL LAW",
       "section": "A",
@@ -12001,8 +13641,18 @@
       "term": "AUT2025",
       "course": "LAW A 574",
       "courseTitle": "INTERNATIONAL LAW",
-      "section": "C",
+      "section": "E",
       "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2025",
+      "course": "LAW A 574",
+      "courseTitle": "INTERNATIONAL LAW",
+      "section": "C",
+      "instructor": "Zang,Dongsheng"
     },
     {
       "campus": "S",
@@ -12012,17 +13662,27 @@
       "course": "LAW A 574",
       "courseTitle": "INTERNATIONAL LAW",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Zang,Dongsheng"
     },
     {
       "campus": "S",
       "dept": "lawa",
       "deptName": "Law A",
       "term": "AUT2025",
-      "course": "LAW A 574",
-      "courseTitle": "INTERNATIONAL LAW",
+      "course": "LAW A 577",
+      "courseTitle": "IMMIGRATION LAW",
+      "section": "D",
+      "instructor": "Olazcon Mozo,Georgina"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2025",
+      "course": "LAW A 577",
+      "courseTitle": "IMMIGRATION LAW",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Olazcon Mozo,Georgina"
     },
     {
       "campus": "S",
@@ -12059,20 +13719,10 @@
       "dept": "lawa",
       "deptName": "Law A",
       "term": "AUT2025",
-      "course": "LAW A 577",
-      "courseTitle": "IMMIGRATION LAW",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "AUT2025",
-      "course": "LAW A 577",
-      "courseTitle": "IMMIGRATION LAW",
+      "course": "LAW A 580",
+      "courseTitle": "FAMILY LAW",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Price,Terry J."
     },
     {
       "campus": "S",
@@ -12119,60 +13769,10 @@
       "dept": "lawa",
       "deptName": "Law A",
       "term": "AUT2025",
-      "course": "LAW A 580",
-      "courseTitle": "FAMILY LAW",
-      "section": "E",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "AUT2025",
-      "course": "LAW A 592",
-      "courseTitle": "CONSTITUTION LAW II",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "AUT2025",
-      "course": "LAW A 592",
-      "courseTitle": "CONSTITUTION LAW II",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "AUT2025",
-      "course": "LAW A 592",
-      "courseTitle": "CONSTITUTION LAW II",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "AUT2025",
-      "course": "LAW A 592",
-      "courseTitle": "CONSTITUTION LAW II",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "AUT2025",
       "course": "LAW A 592",
       "courseTitle": "CONSTITUTION LAW II",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Chin,Jeremiah"
     },
     {
       "campus": "S",
@@ -12182,7 +13782,7 @@
       "course": "LAW A 592",
       "courseTitle": "CONSTITUTION LAW II",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Chin,Jeremiah"
     },
     {
       "campus": "S",
@@ -12192,7 +13792,7 @@
       "course": "LAW A 592",
       "courseTitle": "CONSTITUTION LAW II",
       "section": "G",
-      "instructor": "TBA"
+      "instructor": "Evans,Danieli"
     },
     {
       "campus": "S",
@@ -12202,6 +13802,16 @@
       "course": "LAW A 592",
       "courseTitle": "CONSTITUTION LAW II",
       "section": "H",
+      "instructor": "Evans,Danieli"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2025",
+      "course": "LAW A 592",
+      "courseTitle": "CONSTITUTION LAW II",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -12209,9 +13819,29 @@
       "dept": "lawa",
       "deptName": "Law A",
       "term": "AUT2025",
-      "course": "LAW A 599",
-      "courseTitle": "LEGAL RSRCH MTHDS",
-      "section": "A",
+      "course": "LAW A 592",
+      "courseTitle": "CONSTITUTION LAW II",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2025",
+      "course": "LAW A 592",
+      "courseTitle": "CONSTITUTION LAW II",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2025",
+      "course": "LAW A 592",
+      "courseTitle": "CONSTITUTION LAW II",
+      "section": "D",
       "instructor": "TBA"
     },
     {
@@ -12222,6 +13852,16 @@
       "course": "LAW A 599",
       "courseTitle": "LEGAL RSRCH MTHDS",
       "section": "B",
+      "instructor": "Park,Christine"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "AUT2025",
+      "course": "LAW A 599",
+      "courseTitle": "LEGAL RSRCH MTHDS",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -12261,18 +13901,8 @@
       "term": "WIN2026",
       "course": "LAW A 502",
       "courseTitle": "CIVIL PROCEDURE I",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 502",
-      "courseTitle": "CIVIL PROCEDURE I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Kruckeberg,Kurt E"
     },
     {
       "campus": "S",
@@ -12282,7 +13912,7 @@
       "course": "LAW A 502",
       "courseTitle": "CIVIL PROCEDURE I",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Kruckeberg,Kurt E"
     },
     {
       "campus": "S",
@@ -12292,6 +13922,26 @@
       "course": "LAW A 502",
       "courseTitle": "CIVIL PROCEDURE I",
       "section": "D",
+      "instructor": "Kruckeberg,Kurt E"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 502",
+      "courseTitle": "CIVIL PROCEDURE I",
+      "section": "F",
+      "instructor": "Kruckeberg,Kurt E"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 502",
+      "courseTitle": "CIVIL PROCEDURE I",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -12309,16 +13959,6 @@
       "dept": "lawa",
       "deptName": "Law A",
       "term": "WIN2026",
-      "course": "LAW A 502",
-      "courseTitle": "CIVIL PROCEDURE I",
-      "section": "F",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
       "course": "LAW A 503",
       "courseTitle": "PROPERTY I",
       "section": "A",
@@ -12351,18 +13991,8 @@
       "term": "WIN2026",
       "course": "LAW A 504",
       "courseTitle": "TORTS",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 504",
-      "courseTitle": "TORTS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Kuszler,Patricia C."
     },
     {
       "campus": "S",
@@ -12372,7 +14002,7 @@
       "course": "LAW A 504",
       "courseTitle": "TORTS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Kuszler,Patricia C."
     },
     {
       "campus": "S",
@@ -12382,7 +14012,7 @@
       "course": "LAW A 504",
       "courseTitle": "TORTS",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Kuszler,Patricia C."
     },
     {
       "campus": "S",
@@ -12392,7 +14022,7 @@
       "course": "LAW A 504",
       "courseTitle": "TORTS",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Kuszler,Patricia C."
     },
     {
       "campus": "S",
@@ -12402,6 +14032,16 @@
       "course": "LAW A 504",
       "courseTitle": "TORTS",
       "section": "F",
+      "instructor": "Kuszler,Patricia C."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 504",
+      "courseTitle": "TORTS",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -12521,6 +14161,36 @@
       "term": "WIN2026",
       "course": "LAW A 509",
       "courseTitle": "ADMINISTRATIVE LAW",
+      "section": "C",
+      "instructor": "Knudsen,Sanne H"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 509",
+      "courseTitle": "ADMINISTRATIVE LAW",
+      "section": "D",
+      "instructor": "Knudsen,Sanne H"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 509",
+      "courseTitle": "ADMINISTRATIVE LAW",
+      "section": "E",
+      "instructor": "Knudsen,Sanne H"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 509",
+      "courseTitle": "ADMINISTRATIVE LAW",
       "section": "A",
       "instructor": "TBA"
     },
@@ -12539,30 +14209,70 @@
       "dept": "lawa",
       "deptName": "Law A",
       "term": "WIN2026",
-      "course": "LAW A 509",
-      "courseTitle": "ADMINISTRATIVE LAW",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
+      "section": "H",
+      "instructor": "Page,Norm"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
+      "section": "I",
+      "instructor": "Page,Norm"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
+      "section": "J",
+      "instructor": "Page,Norm"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
+      "section": "K",
+      "instructor": "Page,Norm"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Raigrodski,Dana"
     },
     {
       "campus": "S",
       "dept": "lawa",
       "deptName": "Law A",
       "term": "WIN2026",
-      "course": "LAW A 509",
-      "courseTitle": "ADMINISTRATIVE LAW",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Raigrodski,Dana"
     },
     {
       "campus": "S",
       "dept": "lawa",
       "deptName": "Law A",
       "term": "WIN2026",
-      "course": "LAW A 509",
-      "courseTitle": "ADMINISTRATIVE LAW",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Raigrodski,Dana"
     },
     {
       "campus": "S",
@@ -12582,36 +14292,6 @@
       "course": "LAW A 515",
       "courseTitle": "BUSINESS ORGNZATION",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 515",
-      "courseTitle": "BUSINESS ORGNZATION",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 515",
-      "courseTitle": "BUSINESS ORGNZATION",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 515",
-      "courseTitle": "BUSINESS ORGNZATION",
-      "section": "E",
       "instructor": "TBA"
     },
     {
@@ -12639,40 +14319,30 @@
       "dept": "lawa",
       "deptName": "Law A",
       "term": "WIN2026",
-      "course": "LAW A 515",
-      "courseTitle": "BUSINESS ORGNZATION",
-      "section": "H",
-      "instructor": "TBA"
+      "course": "LAW A 517",
+      "courseTitle": "SECURITIES REGULATN",
+      "section": "C",
+      "instructor": "Latimer,Matthew D."
     },
     {
       "campus": "S",
       "dept": "lawa",
       "deptName": "Law A",
       "term": "WIN2026",
-      "course": "LAW A 515",
-      "courseTitle": "BUSINESS ORGNZATION",
-      "section": "I",
-      "instructor": "TBA"
+      "course": "LAW A 517",
+      "courseTitle": "SECURITIES REGULATN",
+      "section": "D",
+      "instructor": "Latimer,Matthew D."
     },
     {
       "campus": "S",
       "dept": "lawa",
       "deptName": "Law A",
       "term": "WIN2026",
-      "course": "LAW A 515",
-      "courseTitle": "BUSINESS ORGNZATION",
-      "section": "J",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 515",
-      "courseTitle": "BUSINESS ORGNZATION",
-      "section": "K",
-      "instructor": "TBA"
+      "course": "LAW A 517",
+      "courseTitle": "SECURITIES REGULATN",
+      "section": "E",
+      "instructor": "Latimer,Matthew D."
     },
     {
       "campus": "S",
@@ -12692,36 +14362,6 @@
       "course": "LAW A 517",
       "courseTitle": "SECURITIES REGULATN",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 517",
-      "courseTitle": "SECURITIES REGULATN",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 517",
-      "courseTitle": "SECURITIES REGULATN",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 517",
-      "courseTitle": "SECURITIES REGULATN",
-      "section": "E",
       "instructor": "TBA"
     },
     {
@@ -12741,28 +14381,8 @@
       "term": "WIN2026",
       "course": "LAW A 519",
       "courseTitle": "TRUSTS AND ESTATES",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 519",
-      "courseTitle": "TRUSTS AND ESTATES",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 519",
-      "courseTitle": "TRUSTS AND ESTATES",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Price,Terry J."
     },
     {
       "campus": "S",
@@ -12772,7 +14392,7 @@
       "course": "LAW A 519",
       "courseTitle": "TRUSTS AND ESTATES",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Price,Terry J."
     },
     {
       "campus": "S",
@@ -12782,7 +14402,47 @@
       "course": "LAW A 519",
       "courseTitle": "TRUSTS AND ESTATES",
       "section": "E",
+      "instructor": "Price,Terry J."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 519",
+      "courseTitle": "TRUSTS AND ESTATES",
+      "section": "A",
       "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 519",
+      "courseTitle": "TRUSTS AND ESTATES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 527",
+      "courseTitle": "ENVIRONMENTAL LAW",
+      "section": "C",
+      "instructor": "Knudsen,Sanne H"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 527",
+      "courseTitle": "ENVIRONMENTAL LAW",
+      "section": "D",
+      "instructor": "Knudsen,Sanne H"
     },
     {
       "campus": "S",
@@ -12802,26 +14462,6 @@
       "course": "LAW A 527",
       "courseTitle": "ENVIRONMENTAL LAW",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 527",
-      "courseTitle": "ENVIRONMENTAL LAW",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 527",
-      "courseTitle": "ENVIRONMENTAL LAW",
-      "section": "D",
       "instructor": "TBA"
     },
     {
@@ -12841,6 +14481,26 @@
       "term": "WIN2026",
       "course": "LAW A 535",
       "courseTitle": "INTL MERGER CTRL SEM",
+      "section": "C",
+      "instructor": "Fullerton,Larry"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 535",
+      "courseTitle": "INTL MERGER CTRL SEM",
+      "section": "D",
+      "instructor": "Fullerton,Larry"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 535",
+      "courseTitle": "INTL MERGER CTRL SEM",
       "section": "A",
       "instructor": "TBA"
     },
@@ -12852,26 +14512,6 @@
       "course": "LAW A 535",
       "courseTitle": "INTL MERGER CTRL SEM",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 535",
-      "courseTitle": "INTL MERGER CTRL SEM",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 535",
-      "courseTitle": "INTL MERGER CTRL SEM",
-      "section": "D",
       "instructor": "TBA"
     },
     {
@@ -12902,7 +14542,27 @@
       "course": "LAW A 540",
       "courseTitle": "LAND USE PLAN SEM",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Vancil,Ryan"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 556",
+      "courseTitle": "EMPLOY DISCRIM",
+      "section": "C",
+      "instructor": "Schnapper,Eric"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 556",
+      "courseTitle": "EMPLOY DISCRIM",
+      "section": "D",
+      "instructor": "Schnapper,Eric"
     },
     {
       "campus": "S",
@@ -12929,20 +14589,20 @@
       "dept": "lawa",
       "deptName": "Law A",
       "term": "WIN2026",
-      "course": "LAW A 556",
-      "courseTitle": "EMPLOY DISCRIM",
+      "course": "LAW A 563",
+      "courseTitle": "LOCAL GVT LAW",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Marchisio,Lee"
     },
     {
       "campus": "S",
       "dept": "lawa",
       "deptName": "Law A",
       "term": "WIN2026",
-      "course": "LAW A 556",
-      "courseTitle": "EMPLOY DISCRIM",
+      "course": "LAW A 563",
+      "courseTitle": "LOCAL GVT LAW",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Marchisio,Lee"
     },
     {
       "campus": "S",
@@ -12962,26 +14622,6 @@
       "course": "LAW A 563",
       "courseTitle": "LOCAL GVT LAW",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 563",
-      "courseTitle": "LOCAL GVT LAW",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 563",
-      "courseTitle": "LOCAL GVT LAW",
-      "section": "D",
       "instructor": "TBA"
     },
     {
@@ -13032,7 +14672,7 @@
       "course": "LAW A 575",
       "courseTitle": "HUMAN RTS HISTORY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Walsh,Walter J"
     },
     {
       "campus": "S",
@@ -13042,7 +14682,27 @@
       "course": "LAW A 575",
       "courseTitle": "HUMAN RTS HISTORY",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Walsh,Walter J"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 576",
+      "courseTitle": "CROSS-BORDER CRIM",
+      "section": "C",
+      "instructor": "Hazim,Mahir"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 576",
+      "courseTitle": "CROSS-BORDER CRIM",
+      "section": "D",
+      "instructor": "Hazim,Mahir"
     },
     {
       "campus": "S",
@@ -13069,26 +14729,6 @@
       "dept": "lawa",
       "deptName": "Law A",
       "term": "WIN2026",
-      "course": "LAW A 576",
-      "courseTitle": "CROSS-BORDER CRIM",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 576",
-      "courseTitle": "CROSS-BORDER CRIM",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
       "course": "LAW A 578",
       "courseTitle": "INTL BUS TRANSACT",
       "section": "A",
@@ -13112,7 +14752,7 @@
       "course": "LAW A 578",
       "courseTitle": "INTL BUS TRANSACT",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Winn,Jane K"
     },
     {
       "campus": "S",
@@ -13122,7 +14762,27 @@
       "course": "LAW A 578",
       "courseTitle": "INTL BUS TRANSACT",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Winn,Jane K"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 582",
+      "courseTitle": "BANKRUPTCY",
+      "section": "C",
+      "instructor": "Ranade,Amit"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 582",
+      "courseTitle": "BANKRUPTCY",
+      "section": "D",
+      "instructor": "Ranade,Amit"
     },
     {
       "campus": "S",
@@ -13142,26 +14802,6 @@
       "course": "LAW A 582",
       "courseTitle": "BANKRUPTCY",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 582",
-      "courseTitle": "BANKRUPTCY",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 582",
-      "courseTitle": "BANKRUPTCY",
-      "section": "D",
       "instructor": "TBA"
     },
     {
@@ -13181,6 +14821,26 @@
       "term": "WIN2026",
       "course": "LAW A 584",
       "courseTitle": "AMER PUB SCHL LAW",
+      "section": "C",
+      "instructor": "Bay,Sydney Arizona"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 584",
+      "courseTitle": "AMER PUB SCHL LAW",
+      "section": "D",
+      "instructor": "Bay,Sydney Arizona"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 584",
+      "courseTitle": "AMER PUB SCHL LAW",
       "section": "A",
       "instructor": "TBA"
     },
@@ -13192,26 +14852,6 @@
       "course": "LAW A 584",
       "courseTitle": "AMER PUB SCHL LAW",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 584",
-      "courseTitle": "AMER PUB SCHL LAW",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 584",
-      "courseTitle": "AMER PUB SCHL LAW",
-      "section": "D",
       "instructor": "TBA"
     },
     {
@@ -13241,6 +14881,26 @@
       "term": "WIN2026",
       "course": "LAW A 599",
       "courseTitle": "LEGAL RSRCH MTHDS",
+      "section": "D",
+      "instructor": "Cadaret,David"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 599",
+      "courseTitle": "LEGAL RSRCH MTHDS",
+      "section": "E",
+      "instructor": "Cadaret,David"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 599",
+      "courseTitle": "LEGAL RSRCH MTHDS",
       "section": "A",
       "instructor": "TBA"
     },
@@ -13261,38 +14921,18 @@
       "term": "WIN2026",
       "course": "LAW A 599",
       "courseTitle": "LEGAL RSRCH MTHDS",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 599",
-      "courseTitle": "LEGAL RSRCH MTHDS",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 599",
-      "courseTitle": "LEGAL RSRCH MTHDS",
-      "section": "E",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "WIN2026",
-      "course": "LAW A 599",
-      "courseTitle": "LEGAL RSRCH MTHDS",
       "section": "F",
       "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "WIN2026",
+      "course": "LAW A 599",
+      "courseTitle": "LEGAL RSRCH MTHDS",
+      "section": "C",
+      "instructor": "Wilcoxon,Laura Beth"
     },
     {
       "campus": "S",
@@ -13311,18 +14951,8 @@
       "term": "SPR2026",
       "course": "LAW A 501",
       "courseTitle": "CONTRACTS",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "SPR2026",
-      "course": "LAW A 501",
-      "courseTitle": "CONTRACTS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Moore,Richard"
     },
     {
       "campus": "S",
@@ -13332,7 +14962,7 @@
       "course": "LAW A 501",
       "courseTitle": "CONTRACTS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Moore,Richard"
     },
     {
       "campus": "S",
@@ -13342,7 +14972,7 @@
       "course": "LAW A 501",
       "courseTitle": "CONTRACTS",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Moore,Richard"
     },
     {
       "campus": "S",
@@ -13352,7 +14982,7 @@
       "course": "LAW A 501",
       "courseTitle": "CONTRACTS",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Moore,Richard"
     },
     {
       "campus": "S",
@@ -13362,6 +14992,16 @@
       "course": "LAW A 501",
       "courseTitle": "CONTRACTS",
       "section": "F",
+      "instructor": "Moore,Richard"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2026",
+      "course": "LAW A 501",
+      "courseTitle": "CONTRACTS",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -13541,6 +15181,26 @@
       "term": "SPR2026",
       "course": "LAW A 509",
       "courseTitle": "ADMINISTRATIVE LAW",
+      "section": "C",
+      "instructor": "Ross,Douglas C."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2026",
+      "course": "LAW A 509",
+      "courseTitle": "ADMINISTRATIVE LAW",
+      "section": "D",
+      "instructor": "Ross,Douglas C."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2026",
+      "course": "LAW A 509",
+      "courseTitle": "ADMINISTRATIVE LAW",
       "section": "A",
       "instructor": "TBA"
     },
@@ -13552,26 +15212,6 @@
       "course": "LAW A 509",
       "courseTitle": "ADMINISTRATIVE LAW",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "SPR2026",
-      "course": "LAW A 509",
-      "courseTitle": "ADMINISTRATIVE LAW",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "SPR2026",
-      "course": "LAW A 509",
-      "courseTitle": "ADMINISTRATIVE LAW",
-      "section": "D",
       "instructor": "TBA"
     },
     {
@@ -13591,6 +15231,26 @@
       "term": "SPR2026",
       "course": "LAW A 515",
       "courseTitle": "BUSINESS ORGNZATION",
+      "section": "C",
+      "instructor": "Nguyen,Xuanthao N."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2026",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
+      "section": "D",
+      "instructor": "Nguyen,Xuanthao N."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2026",
+      "course": "LAW A 515",
+      "courseTitle": "BUSINESS ORGNZATION",
       "section": "A",
       "instructor": "TBA"
     },
@@ -13602,26 +15262,6 @@
       "course": "LAW A 515",
       "courseTitle": "BUSINESS ORGNZATION",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "SPR2026",
-      "course": "LAW A 515",
-      "courseTitle": "BUSINESS ORGNZATION",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "SPR2026",
-      "course": "LAW A 515",
-      "courseTitle": "BUSINESS ORGNZATION",
-      "section": "D",
       "instructor": "TBA"
     },
     {
@@ -13701,6 +15341,36 @@
       "term": "SPR2026",
       "course": "LAW A 521",
       "courseTitle": "COMMUNITY PROPERTY",
+      "section": "C",
+      "instructor": "Boxx,Karen E"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2026",
+      "course": "LAW A 521",
+      "courseTitle": "COMMUNITY PROPERTY",
+      "section": "D",
+      "instructor": "Boxx,Karen E"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2026",
+      "course": "LAW A 521",
+      "courseTitle": "COMMUNITY PROPERTY",
+      "section": "E",
+      "instructor": "Boxx,Karen E"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2026",
+      "course": "LAW A 521",
+      "courseTitle": "COMMUNITY PROPERTY",
       "section": "A",
       "instructor": "TBA"
     },
@@ -13719,30 +15389,30 @@
       "dept": "lawa",
       "deptName": "Law A",
       "term": "SPR2026",
-      "course": "LAW A 521",
-      "courseTitle": "COMMUNITY PROPERTY",
+      "course": "LAW A 530",
+      "courseTitle": "INDIV INCOME TAX",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Hatfield,Michael W"
     },
     {
       "campus": "S",
       "dept": "lawa",
       "deptName": "Law A",
       "term": "SPR2026",
-      "course": "LAW A 521",
-      "courseTitle": "COMMUNITY PROPERTY",
+      "course": "LAW A 530",
+      "courseTitle": "INDIV INCOME TAX",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Hatfield,Michael W"
     },
     {
       "campus": "S",
       "dept": "lawa",
       "deptName": "Law A",
       "term": "SPR2026",
-      "course": "LAW A 521",
-      "courseTitle": "COMMUNITY PROPERTY",
+      "course": "LAW A 530",
+      "courseTitle": "INDIV INCOME TAX",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Hatfield,Michael W"
     },
     {
       "campus": "S",
@@ -13762,36 +15432,6 @@
       "course": "LAW A 530",
       "courseTitle": "INDIV INCOME TAX",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "SPR2026",
-      "course": "LAW A 530",
-      "courseTitle": "INDIV INCOME TAX",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "SPR2026",
-      "course": "LAW A 530",
-      "courseTitle": "INDIV INCOME TAX",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "SPR2026",
-      "course": "LAW A 530",
-      "courseTitle": "INDIV INCOME TAX",
-      "section": "E",
       "instructor": "TBA"
     },
     {
@@ -13811,6 +15451,26 @@
       "term": "SPR2026",
       "course": "LAW A 548",
       "courseTitle": "CIVIL RIGHTS",
+      "section": "C",
+      "instructor": "Schnapper,Eric"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2026",
+      "course": "LAW A 548",
+      "courseTitle": "CIVIL RIGHTS",
+      "section": "D",
+      "instructor": "Schnapper,Eric"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2026",
+      "course": "LAW A 548",
+      "courseTitle": "CIVIL RIGHTS",
       "section": "A",
       "instructor": "TBA"
     },
@@ -13829,20 +15489,20 @@
       "dept": "lawa",
       "deptName": "Law A",
       "term": "SPR2026",
-      "course": "LAW A 548",
-      "courseTitle": "CIVIL RIGHTS",
+      "course": "LAW A 553",
+      "courseTitle": "FEMINIST JURIS SEM",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Raigrodski,Dana"
     },
     {
       "campus": "S",
       "dept": "lawa",
       "deptName": "Law A",
       "term": "SPR2026",
-      "course": "LAW A 548",
-      "courseTitle": "CIVIL RIGHTS",
+      "course": "LAW A 553",
+      "courseTitle": "FEMINIST JURIS SEM",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Raigrodski,Dana"
     },
     {
       "campus": "S",
@@ -13869,20 +15529,20 @@
       "dept": "lawa",
       "deptName": "Law A",
       "term": "SPR2026",
-      "course": "LAW A 553",
-      "courseTitle": "FEMINIST JURIS SEM",
+      "course": "LAW A 562",
+      "courseTitle": "EMPLOYMENT LAW",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Hotchkiss,Mary"
     },
     {
       "campus": "S",
       "dept": "lawa",
       "deptName": "Law A",
       "term": "SPR2026",
-      "course": "LAW A 553",
-      "courseTitle": "FEMINIST JURIS SEM",
+      "course": "LAW A 562",
+      "courseTitle": "EMPLOYMENT LAW",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Hotchkiss,Mary"
     },
     {
       "campus": "S",
@@ -13909,20 +15569,20 @@
       "dept": "lawa",
       "deptName": "Law A",
       "term": "SPR2026",
-      "course": "LAW A 562",
-      "courseTitle": "EMPLOYMENT LAW",
+      "course": "LAW A 580",
+      "courseTitle": "FAMILY LAW",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Lack,Jonathon"
     },
     {
       "campus": "S",
       "dept": "lawa",
       "deptName": "Law A",
       "term": "SPR2026",
-      "course": "LAW A 562",
-      "courseTitle": "EMPLOYMENT LAW",
+      "course": "LAW A 580",
+      "courseTitle": "FAMILY LAW",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Lack,Jonathon"
     },
     {
       "campus": "S",
@@ -13942,26 +15602,6 @@
       "course": "LAW A 580",
       "courseTitle": "FAMILY LAW",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "SPR2026",
-      "course": "LAW A 580",
-      "courseTitle": "FAMILY LAW",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "SPR2026",
-      "course": "LAW A 580",
-      "courseTitle": "FAMILY LAW",
-      "section": "D",
       "instructor": "TBA"
     },
     {
@@ -13981,6 +15621,26 @@
       "term": "SPR2026",
       "course": "LAW A 581",
       "courseTitle": "WA CONSTITUTION LAW",
+      "section": "C",
+      "instructor": "Fraser,Kristen L"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2026",
+      "course": "LAW A 581",
+      "courseTitle": "WA CONSTITUTION LAW",
+      "section": "D",
+      "instructor": "Fraser,Kristen L"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2026",
+      "course": "LAW A 581",
+      "courseTitle": "WA CONSTITUTION LAW",
       "section": "A",
       "instructor": "TBA"
     },
@@ -13999,20 +15659,20 @@
       "dept": "lawa",
       "deptName": "Law A",
       "term": "SPR2026",
-      "course": "LAW A 581",
-      "courseTitle": "WA CONSTITUTION LAW",
+      "course": "LAW A 585",
+      "courseTitle": "ADMIRALTY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Allen,Craig H."
     },
     {
       "campus": "S",
       "dept": "lawa",
       "deptName": "Law A",
       "term": "SPR2026",
-      "course": "LAW A 581",
-      "courseTitle": "WA CONSTITUTION LAW",
+      "course": "LAW A 585",
+      "courseTitle": "ADMIRALTY",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Allen,Craig H."
     },
     {
       "campus": "S",
@@ -14039,40 +15699,10 @@
       "dept": "lawa",
       "deptName": "Law A",
       "term": "SPR2026",
-      "course": "LAW A 585",
-      "courseTitle": "ADMIRALTY",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "SPR2026",
-      "course": "LAW A 585",
-      "courseTitle": "ADMIRALTY",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "SPR2026",
-      "course": "LAW A 590",
-      "courseTitle": "CON LAW: EP",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "SPR2026",
       "course": "LAW A 590",
       "courseTitle": "CON LAW: EP",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Price,Terry J."
     },
     {
       "campus": "S",
@@ -14082,7 +15712,7 @@
       "course": "LAW A 590",
       "courseTitle": "CON LAW: EP",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Price,Terry J."
     },
     {
       "campus": "S",
@@ -14092,7 +15722,7 @@
       "course": "LAW A 590",
       "courseTitle": "CON LAW: EP",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Price,Terry J."
     },
     {
       "campus": "S",
@@ -14102,7 +15732,7 @@
       "course": "LAW A 590",
       "courseTitle": "CON LAW: EP",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Price,Terry J."
     },
     {
       "campus": "S",
@@ -14112,6 +15742,16 @@
       "course": "LAW A 590",
       "courseTitle": "CON LAW: EP",
       "section": "F",
+      "instructor": "Price,Terry J."
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2026",
+      "course": "LAW A 590",
+      "courseTitle": "CON LAW: EP",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -14151,8 +15791,18 @@
       "term": "SPR2026",
       "course": "LAW A 592",
       "courseTitle": "CONSTITUTION LAW II",
-      "section": "C",
+      "section": "E",
       "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawa",
+      "deptName": "Law A",
+      "term": "SPR2026",
+      "course": "LAW A 592",
+      "courseTitle": "CONSTITUTION LAW II",
+      "section": "C",
+      "instructor": "Walsh,Walter J"
     },
     {
       "campus": "S",
@@ -14162,17 +15812,7 @@
       "course": "LAW A 592",
       "courseTitle": "CONSTITUTION LAW II",
       "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawa",
-      "deptName": "Law A",
-      "term": "SPR2026",
-      "course": "LAW A 592",
-      "courseTitle": "CONSTITUTION LAW II",
-      "section": "E",
-      "instructor": "TBA"
+      "instructor": "Walsh,Walter J"
     },
     {
       "campus": "S",
@@ -14182,7 +15822,7 @@
       "course": "LAW A 599",
       "courseTitle": "LEGAL RSRCH MTHDS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cadaret,David"
     },
     {
       "campus": "S",
@@ -14192,7 +15832,7 @@
       "course": "LAW A 599",
       "courseTitle": "LEGAL RSRCH MTHDS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Cadaret,David"
     }
   ]
 }

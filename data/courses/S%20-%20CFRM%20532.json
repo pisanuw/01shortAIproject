@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20CFRM%20532",
+  "course": "S - CFRM 532",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "SPR2026",
+      "course": "CFRM 532",
+      "courseTitle": "ENDOW INVEST MGMT",
+      "section": "A",
+      "instructor": "Ferguson,Keith"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "SPR2024",
+      "course": "CFRM 532",
+      "courseTitle": "ENDOW INVEST MGMT",
+      "section": "A",
+      "instructor": "Ferguson,Keith"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "SPR2022",
+      "course": "CFRM 532",
+      "courseTitle": "ENDOW INVEST MGMT",
+      "section": "B",
+      "instructor": "TBA"
+    }
+  ]
+}

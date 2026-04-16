@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Sanders%2CJ",
+  "professor": "Sanders,J",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "SPR2021",
+      "course": "M E 445",
+      "courseTitle": "INTRO TO BIOMECH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "SPR2021",
+      "course": "BIOEN 440",
+      "courseTitle": "INTRO TO BIOMECH",
+      "section": "A"
+    }
+  ]
+}

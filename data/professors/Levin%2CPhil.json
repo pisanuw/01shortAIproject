@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Levin%2CPhil",
+  "professor": "Levin,Phil",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "smea",
+      "deptName": "School of Marine and Environmental Affairs",
+      "term": "SPR2022",
+      "course": "SMEA 510",
+      "courseTitle": "TPCS MARINE ECOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "smea",
+      "deptName": "School of Marine and Environmental Affairs",
+      "term": "WIN2021",
+      "course": "SMEA 591",
+      "courseTitle": "MS IN COASTAL ZONE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sefs",
+      "deptName": "School of Environmental and Forest Sciences",
+      "term": "WIN2021",
+      "course": "SEFS 590",
+      "courseTitle": "GRADUATE STUDIES",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "esrm",
+      "deptName": "Environmental Science and Resource Management",
+      "term": "WIN2021",
+      "course": "ESRM 490",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B"
+    }
+  ]
+}

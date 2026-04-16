@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Ban%2CXuegang",
+  "professor": "Ban,Xuegang",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cee",
+      "deptName": "Civil and Environmental Engineering",
+      "term": "AUT2021",
+      "course": "CEE 500",
+      "courseTitle": "CEE SEMINARS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cet",
+      "deptName": "Transportation Engineering",
+      "term": "WIN2021",
+      "course": "CET 593",
+      "courseTitle": "TRANS SYSTM ANALYSIS",
+      "section": "A"
+    }
+  ]
+}

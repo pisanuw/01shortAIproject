@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Heerwagen%2CD",
+  "professor": "Heerwagen,D",
+  "recordCount": 5,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2023",
+      "course": "ARCH 436",
+      "courseTitle": "BUILDING ACOUSTICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2022",
+      "course": "ARCH 436",
+      "courseTitle": "BUILDING ACOUSTICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2021",
+      "course": "ARCH 436",
+      "courseTitle": "BUILDING ACOUSTICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "AUT2020",
+      "course": "ARCH 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "AUT2020",
+      "course": "ARCH 498",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "C"
+    }
+  ]
+}

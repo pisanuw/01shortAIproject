@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20GEEZ%20101",
+  "course": "S - GEEZ 101",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geez",
+      "deptName": "Ge'ez",
+      "term": "SPR2023",
+      "course": "GEEZ 101",
+      "courseTitle": "CLASSICAL ETHIOPIC",
+      "section": "A",
+      "instructor": "Zafer,Hamza M."
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geez",
+      "deptName": "Ge'ez",
+      "term": "SPR2022",
+      "course": "GEEZ 101",
+      "courseTitle": "CLASSICAL ETHIOPIC",
+      "section": "A",
+      "instructor": "Zafer,Hamza M."
+    }
+  ]
+}

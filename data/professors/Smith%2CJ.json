@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Smith%2CJ",
+  "professor": "Smith,J",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2023",
+      "course": "MICROM 445",
+      "courseTitle": "MEDICAL VIROLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "SPR2022",
+      "course": "MICROM 445",
+      "courseTitle": "MEDICAL VIROLOGY",
+      "section": "A"
+    }
+  ]
+}

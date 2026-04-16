@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20MGMT%20400",
+  "course": "S - MGMT 400",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "WIN2026",
+      "course": "MGMT 400",
+      "courseTitle": "CORPORATE DEI",
+      "section": "A",
+      "instructor": "Jones,S"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "WIN2025",
+      "course": "MGMT 400",
+      "courseTitle": "CORPORATE DEI",
+      "section": "A",
+      "instructor": "Jones,S"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "WIN2024",
+      "course": "MGMT 400",
+      "courseTitle": "CORPORATE DEI",
+      "section": "A",
+      "instructor": "Jones,S"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2022",
+      "course": "MGMT 400",
+      "courseTitle": "CORPORATE DEI",
+      "section": "A",
+      "instructor": "Jones,S"
+    }
+  ]
+}

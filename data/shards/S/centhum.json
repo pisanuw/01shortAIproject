@@ -1,7 +1,1278 @@
 {
-  "generatedAt": "2026-04-15T16:27:55Z",
+  "generatedAt": "2026-04-16T02:57:10Z",
   "campus": "S",
   "dept": "centhum",
   "deptName": "Center for the Humanities",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2020",
+      "course": "HUM 101",
+      "courseTitle": "HUMANITIES FIRST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2020",
+      "course": "HUM 101",
+      "courseTitle": "HUMANITIES FIRST",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2020",
+      "course": "HUM 101",
+      "courseTitle": "HUMANITIES FIRST",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2020",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "B",
+      "instructor": "Lucero,Jose Antonio"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2020",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "C",
+      "instructor": "Osanloo,Arzoo"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2020",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2021",
+      "course": "HUM 102",
+      "courseTitle": "HUM FIRST CAMPUS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2021",
+      "course": "HUM 102",
+      "courseTitle": "HUM FIRST CAMPUS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2021",
+      "course": "HUM 102",
+      "courseTitle": "HUM FIRST CAMPUS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2021",
+      "course": "HUM 596",
+      "courseTitle": "HUMANITIES RSCH SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2021",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "C",
+      "instructor": "Bunn-Marcuse,Kathryn"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2021",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "A",
+      "instructor": "Robinson,Cabeiri Debergh"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2021",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "B",
+      "instructor": "Ybarra,Megan"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2021",
+      "course": "HUM 600",
+      "courseTitle": "INDEPNDT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2021",
+      "course": "HUM 600",
+      "courseTitle": "INDEPNDT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2021",
+      "course": "HUM 103",
+      "courseTitle": "HUM FIRST COMMUNITY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2021",
+      "course": "HUM 103",
+      "courseTitle": "HUM FIRST COMMUNITY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2021",
+      "course": "HUM 103",
+      "courseTitle": "HUM FIRST COMMUNITY",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2021",
+      "course": "HUM 596",
+      "courseTitle": "HUMANITIES RSCH SEM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2021",
+      "course": "HUM 596",
+      "courseTitle": "HUMANITIES RSCH SEM",
+      "section": "A",
+      "instructor": "Wilke,Sabine"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2021",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "A",
+      "instructor": "Garcia,MariaElena"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2021",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "B",
+      "instructor": "Robinson,Cabeiri Debergh"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SUM2021",
+      "course": "HUM 498",
+      "courseTitle": "TOPICS HUMANITIES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SUM2021",
+      "course": "HUM 498",
+      "courseTitle": "TOPICS HUMANITIES",
+      "section": "A",
+      "instructor": "Warren,Adam W"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2021",
+      "course": "HUM 101",
+      "courseTitle": "HUMANITIES FIRST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2021",
+      "course": "HUM 101",
+      "courseTitle": "HUMANITIES FIRST",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2021",
+      "course": "HUM 101",
+      "courseTitle": "HUMANITIES FIRST",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2021",
+      "course": "HUM 498",
+      "courseTitle": "TOPICS HUMANITIES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2021",
+      "course": "HUM 596",
+      "courseTitle": "HUMANITIES RSCH SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2021",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2022",
+      "course": "HUM 102",
+      "courseTitle": "HUM FIRST CAMPUS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2022",
+      "course": "HUM 102",
+      "courseTitle": "HUM FIRST CAMPUS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2022",
+      "course": "HUM 102",
+      "courseTitle": "HUM FIRST CAMPUS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2022",
+      "course": "HUM 208",
+      "courseTitle": "HUMANITIES NEXT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2022",
+      "course": "HUM 596",
+      "courseTitle": "HUMANITIES RSCH SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2022",
+      "course": "HUM 103",
+      "courseTitle": "HUM FIRST COMMUNITY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2022",
+      "course": "HUM 103",
+      "courseTitle": "HUM FIRST COMMUNITY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2022",
+      "course": "HUM 103",
+      "courseTitle": "HUM FIRST COMMUNITY",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2022",
+      "course": "HUM 208",
+      "courseTitle": "HUMANITIES NEXT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2022",
+      "course": "HUM 596",
+      "courseTitle": "HUMANITIES RSCH SEM",
+      "section": "A",
+      "instructor": "Wilke,Sabine"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2022",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "D",
+      "instructor": "Chrisman,Laura H"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2022",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "C",
+      "instructor": "Habell-Pallan,Michelle"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2022",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SUM2022",
+      "course": "HUM 498",
+      "courseTitle": "TOPICS HUMANITIES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SUM2022",
+      "course": "HUM 498",
+      "courseTitle": "TOPICS HUMANITIES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2022",
+      "course": "HUM 101",
+      "courseTitle": "HUMANITIES FIRST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2022",
+      "course": "HUM 101",
+      "courseTitle": "HUMANITIES FIRST",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2022",
+      "course": "HUM 101",
+      "courseTitle": "HUMANITIES FIRST",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2022",
+      "course": "HUM 208",
+      "courseTitle": "HUMANITIES NEXT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2022",
+      "course": "HUM 596",
+      "courseTitle": "HUMANITIES RSCH SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2022",
+      "course": "HUM 596",
+      "courseTitle": "HUMANITIES RSCH SEM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2022",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "B",
+      "instructor": "Mahmoud,Jasmine Jamillah"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2022",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2023",
+      "course": "HUM 102",
+      "courseTitle": "HUM FIRST CAMPUS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2023",
+      "course": "HUM 102",
+      "courseTitle": "HUM FIRST CAMPUS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2023",
+      "course": "HUM 208",
+      "courseTitle": "HUMANITIES NEXT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2023",
+      "course": "HUM 596",
+      "courseTitle": "HUMANITIES RSCH SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2023",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "A",
+      "instructor": "Schleitwiler,Vince"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2023",
+      "course": "HUM 600",
+      "courseTitle": "INDEPNDT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2023",
+      "course": "HUM 600",
+      "courseTitle": "INDEPNDT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2023",
+      "course": "HUM 103",
+      "courseTitle": "HUM FIRST COMMUNITY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2023",
+      "course": "HUM 103",
+      "courseTitle": "HUM FIRST COMMUNITY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2023",
+      "course": "HUM 208",
+      "courseTitle": "HUMANITIES NEXT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2023",
+      "course": "HUM 596",
+      "courseTitle": "HUMANITIES RSCH SEM",
+      "section": "A",
+      "instructor": "Wilke,S"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2023",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2023",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SUM2023",
+      "course": "HUM 498",
+      "courseTitle": "TOPICS HUMANITIES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SUM2023",
+      "course": "HUM 498",
+      "courseTitle": "TOPICS HUMANITIES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2023",
+      "course": "HUM 101",
+      "courseTitle": "HUMANITIES FIRST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2023",
+      "course": "HUM 101",
+      "courseTitle": "HUMANITIES FIRST",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2023",
+      "course": "HUM 101",
+      "courseTitle": "HUMANITIES FIRST",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2023",
+      "course": "HUM 208",
+      "courseTitle": "HUMANITIES NEXT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2023",
+      "course": "HUM 498",
+      "courseTitle": "TOPICS HUMANITIES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2023",
+      "course": "HUM 596",
+      "courseTitle": "HUMANITIES RSCH SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2023",
+      "course": "HUM 596",
+      "courseTitle": "HUMANITIES RSCH SEM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2023",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2024",
+      "course": "HUM 102",
+      "courseTitle": "HUM FIRST CAMPUS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2024",
+      "course": "HUM 102",
+      "courseTitle": "HUM FIRST CAMPUS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2024",
+      "course": "HUM 208",
+      "courseTitle": "HUMANITIES NEXT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2024",
+      "course": "HUM 596",
+      "courseTitle": "HUMANITIES RSCH SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2024",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "A",
+      "instructor": "Lucero,Jose Antonio"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2024",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2024",
+      "course": "HUM 103",
+      "courseTitle": "HUM FIRST COMMUNITY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2024",
+      "course": "HUM 103",
+      "courseTitle": "HUM FIRST COMMUNITY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2024",
+      "course": "HUM 208",
+      "courseTitle": "HUMANITIES NEXT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2024",
+      "course": "HUM 596",
+      "courseTitle": "HUMANITIES RSCH SEM",
+      "section": "A",
+      "instructor": "Shields,Juliet"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SUM2024",
+      "course": "HUM 498",
+      "courseTitle": "TOPICS HUMANITIES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SUM2024",
+      "course": "HUM 498",
+      "courseTitle": "TOPICS HUMANITIES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2024",
+      "course": "HUM 101",
+      "courseTitle": "HUMANITIES FIRST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2024",
+      "course": "HUM 101",
+      "courseTitle": "HUMANITIES FIRST",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2024",
+      "course": "HUM 101",
+      "courseTitle": "HUMANITIES FIRST",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2024",
+      "course": "HUM 208",
+      "courseTitle": "HUMANITIES NEXT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2024",
+      "course": "HUM 498",
+      "courseTitle": "TOPICS HUMANITIES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2024",
+      "course": "HUM 596",
+      "courseTitle": "HUMANITIES RSCH SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2024",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2024",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "B",
+      "instructor": "Turnovsky,Geoffrey"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2025",
+      "course": "HUM 102",
+      "courseTitle": "HUM FIRST CAMPUS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2025",
+      "course": "HUM 102",
+      "courseTitle": "HUM FIRST CAMPUS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2025",
+      "course": "HUM 208",
+      "courseTitle": "HUMANITIES NEXT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2025",
+      "course": "HUM 596",
+      "courseTitle": "HUMANITIES RSCH SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2025",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "A",
+      "instructor": "Harkins,Gillian"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2025",
+      "course": "HUM 103",
+      "courseTitle": "HUM FIRST COMMUNITY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2025",
+      "course": "HUM 103",
+      "courseTitle": "HUM FIRST COMMUNITY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2025",
+      "course": "HUM 208",
+      "courseTitle": "HUMANITIES NEXT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2025",
+      "course": "HUM 596",
+      "courseTitle": "HUMANITIES RSCH SEM",
+      "section": "A",
+      "instructor": "LaPorte,Charles"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2025",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "A",
+      "instructor": "Florczyk,Piotr"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2025",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "B",
+      "instructor": "Gardiner,Stephen M."
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2025",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "C",
+      "instructor": "Ochoa Camacho,Ariana"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SUM2025",
+      "course": "HUM 498",
+      "courseTitle": "TOPICS HUMANITIES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SUM2025",
+      "course": "HUM 498",
+      "courseTitle": "TOPICS HUMANITIES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2025",
+      "course": "HUM 101",
+      "courseTitle": "HUMANITIES FIRST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2025",
+      "course": "HUM 101",
+      "courseTitle": "HUMANITIES FIRST",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2025",
+      "course": "HUM 101",
+      "courseTitle": "HUMANITIES FIRST",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2025",
+      "course": "HUM 208",
+      "courseTitle": "HUMANITIES NEXT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2025",
+      "course": "HUM 498",
+      "courseTitle": "TOPICS HUMANITIES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2025",
+      "course": "HUM 596",
+      "courseTitle": "HUMANITIES RSCH SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "AUT2025",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2026",
+      "course": "HUM 102",
+      "courseTitle": "HUM FIRST CAMPUS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2026",
+      "course": "HUM 102",
+      "courseTitle": "HUM FIRST CAMPUS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2026",
+      "course": "HUM 208",
+      "courseTitle": "HUMANITIES NEXT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2026",
+      "course": "HUM 596",
+      "courseTitle": "HUMANITIES RSCH SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "WIN2026",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "A",
+      "instructor": "Turnovsky,Geoffrey"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2026",
+      "course": "HUM 103",
+      "courseTitle": "HUM FIRST COMMUNITY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2026",
+      "course": "HUM 103",
+      "courseTitle": "HUM FIRST COMMUNITY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2026",
+      "course": "HUM 208",
+      "courseTitle": "HUMANITIES NEXT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2026",
+      "course": "HUM 596",
+      "courseTitle": "HUMANITIES RSCH SEM",
+      "section": "A",
+      "instructor": "Wieczorek,Marek"
+    },
+    {
+      "campus": "S",
+      "dept": "centhum",
+      "deptName": "Center for the Humanities",
+      "term": "SPR2026",
+      "course": "HUM 597",
+      "courseTitle": "SPEC TOPICS IN HUM",
+      "section": "A",
+      "instructor": "Taylor,Jesse Oak"
+    }
+  ]
 }

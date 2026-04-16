@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Goings%2CJoshua",
+  "professor": "Goings,Joshua",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2021",
+      "course": "CHEM 565",
+      "courseTitle": "COMPUTATIONAL CHEM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2021",
+      "course": "CHEM 465",
+      "courseTitle": "COMPUTATIONAL CHEM",
+      "section": "A"
+    }
+  ]
+}

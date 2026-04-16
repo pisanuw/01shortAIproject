@@ -85,6 +85,9 @@ npm run download:seattle
 
 # All three campuses
 npm run download:all
+
+# One department from one campus (example: Seattle Information Systems)
+python3 scripts/download_catalog.py --campus S --dept infosys --since SPR2026 --until SPR2026
 ```
 
 ### 2. Build the JSON shards
@@ -149,6 +152,12 @@ Seattle has 200+ departments × many quarters. Use `--since`/`--until` to limit:
 
 ```bash
 python3 scripts/download_catalog.py --campus S --since AUT2023 --until SPR2026
+
+# Re-download and overwrite existing raw files (useful when instructor fields changed)
+python3 scripts/download_catalog.py --campus all --force --cookie-file cookies.json
+
+# Then rebuild all shards/index
+python3 scripts/build_catalog.py --campus all
 ```
 
 ## Safety and privacy notes

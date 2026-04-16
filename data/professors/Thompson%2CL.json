@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Thompson%2CL",
+  "professor": "Thompson,L",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "WIN2022",
+      "course": "OCEAN 320",
+      "courseTitle": "COASTAL OCEAN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "WIN2021",
+      "course": "AMATH 301",
+      "courseTitle": "BEG SCI COMPUTING",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "WIN2021",
+      "course": "AMATH 301",
+      "courseTitle": "BEG SCI COMPUTING",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "WIN2021",
+      "course": "AMATH 301",
+      "courseTitle": "BEG SCI COMPUTING",
+      "section": "A"
+    }
+  ]
+}

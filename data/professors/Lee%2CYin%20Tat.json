@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Lee%2CYin%20Tat",
+  "professor": "Lee,Yin Tat",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "WIN2022",
+      "course": "CSE 421",
+      "courseTitle": "INTRO TO ALGORITHMS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "SPR2021",
+      "course": "CSE 535",
+      "courseTitle": "OPTIMIZATION THEORY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "WIN2021",
+      "course": "CSE 599",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "R"
+    }
+  ]
+}

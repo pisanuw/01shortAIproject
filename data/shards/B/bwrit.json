@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:24:44Z",
+  "generatedAt": "2026-04-16T02:57:08Z",
   "campus": "B",
   "dept": "bwrit",
   "deptName": "Writing",
@@ -792,7 +792,7 @@
       "course": "B WRIT 132",
       "courseTitle": "COMPOSITION STRTCH 1",
       "section": "B",
-      "instructor": "Janssen,Elizabeth Cole"
+      "instructor": "G Janssen,Elizabeth Cole"
     },
     {
       "campus": "B",
@@ -861,6 +861,16 @@
       "term": "AUT2021",
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
+      "section": "F",
+      "instructor": "G Lin,Hsinmei"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "AUT2021",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
       "section": "C",
       "instructor": "Harack,Katrina M"
     },
@@ -883,16 +893,6 @@
       "courseTitle": "COMPOSITION",
       "section": "H",
       "instructor": "Ketcham,Jessica"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "AUT2021",
-      "course": "B WRIT 134",
-      "courseTitle": "COMPOSITION",
-      "section": "F",
-      "instructor": "Lin,Hsinmei"
     },
     {
       "campus": "B",
@@ -1011,8 +1011,18 @@
       "term": "AUT2021",
       "course": "B WRIT 137",
       "courseTitle": "WRITING STUDIO",
+      "section": "C",
+      "instructor": "Echols,Erik"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "AUT2021",
+      "course": "B WRIT 137",
+      "courseTitle": "WRITING STUDIO",
       "section": "A",
-      "instructor": "Echols,Erik"
+      "instructor": "G Echols,Erik"
     },
     {
       "campus": "B",
@@ -1022,17 +1032,7 @@
       "course": "B WRIT 137",
       "courseTitle": "WRITING STUDIO",
       "section": "B",
-      "instructor": "Echols,Erik"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "AUT2021",
-      "course": "B WRIT 137",
-      "courseTitle": "WRITING STUDIO",
-      "section": "C",
-      "instructor": "Echols,Erik"
+      "instructor": "G Echols,Erik"
     },
     {
       "campus": "B",
@@ -1042,7 +1042,7 @@
       "course": "B WRIT 132",
       "courseTitle": "COMPOSITION STRTCH 1",
       "section": "B",
-      "instructor": "KELLEJIAN,KRIS"
+      "instructor": "G KELLEJIAN,KRIS"
     },
     {
       "campus": "B",
@@ -1052,7 +1052,7 @@
       "course": "B WRIT 132",
       "courseTitle": "COMPOSITION STRTCH 1",
       "section": "C",
-      "instructor": "Ketcham,Jessica"
+      "instructor": "G Ketcham,Jessica"
     },
     {
       "campus": "B",
@@ -1121,6 +1121,26 @@
       "term": "WIN2022",
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
+      "section": "E",
+      "instructor": "G Janssen,Elizabeth Cole"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "WIN2022",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
+      "section": "C",
+      "instructor": "G KELLEJIAN,KRIS"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "WIN2022",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
       "section": "B",
       "instructor": "Harack,Katrina M"
     },
@@ -1131,28 +1151,8 @@
       "term": "WIN2022",
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
-      "section": "E",
-      "instructor": "Janssen,Elizabeth Cole"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "WIN2022",
-      "course": "B WRIT 134",
-      "courseTitle": "COMPOSITION",
       "section": "A",
       "instructor": "JoEtta,Ashley"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "WIN2022",
-      "course": "B WRIT 134",
-      "courseTitle": "COMPOSITION",
-      "section": "C",
-      "instructor": "KELLEJIAN,KRIS"
     },
     {
       "campus": "B",
@@ -1342,7 +1342,7 @@
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
       "section": "A",
-      "instructor": "Harack,Katrina M"
+      "instructor": "G Harack,Katrina M"
     },
     {
       "campus": "B",
@@ -1352,7 +1352,7 @@
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
       "section": "B",
-      "instructor": "Lin,Hsinmei"
+      "instructor": "G Lin,Hsinmei"
     },
     {
       "campus": "B",
@@ -1362,7 +1362,7 @@
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
       "section": "C",
-      "instructor": "Lin,Hsinmei"
+      "instructor": "G Lin,Hsinmei"
     },
     {
       "campus": "B",
@@ -1781,8 +1781,8 @@
       "term": "WIN2023",
       "course": "B WRIT 132",
       "courseTitle": "COMPOSITION STRTCH 1",
-      "section": "B",
-      "instructor": "Janssen,Elizabeth Cole"
+      "section": "A",
+      "instructor": "G Reynoso,Enrique"
     },
     {
       "campus": "B",
@@ -1791,17 +1791,7 @@
       "term": "WIN2023",
       "course": "B WRIT 132",
       "courseTitle": "COMPOSITION STRTCH 1",
-      "section": "A",
-      "instructor": "Reynoso,Enrique"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "WIN2023",
-      "course": "B WRIT 133",
-      "courseTitle": "COMPOSITION STRTCH 2",
-      "section": "E",
+      "section": "B",
       "instructor": "Janssen,Elizabeth Cole"
     },
     {
@@ -1811,6 +1801,16 @@
       "term": "WIN2023",
       "course": "B WRIT 133",
       "courseTitle": "COMPOSITION STRTCH 2",
+      "section": "E",
+      "instructor": "G Janssen,Elizabeth Cole"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "WIN2023",
+      "course": "B WRIT 133",
+      "courseTitle": "COMPOSITION STRTCH 2",
       "section": "A",
       "instructor": "TBA"
     },
@@ -1852,17 +1852,7 @@
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
       "section": "B",
-      "instructor": "Harack,Katrina M"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "WIN2023",
-      "course": "B WRIT 134",
-      "courseTitle": "COMPOSITION",
-      "section": "D",
-      "instructor": "Harack,Katrina M"
+      "instructor": "G Harack,Katrina M"
     },
     {
       "campus": "B",
@@ -1872,7 +1862,7 @@
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
       "section": "A",
-      "instructor": "Ketcham,Jessica"
+      "instructor": "G Ketcham,Jessica"
     },
     {
       "campus": "B",
@@ -1882,7 +1872,7 @@
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
       "section": "C",
-      "instructor": "Pedersen,Alice"
+      "instructor": "G Pedersen,Alice"
     },
     {
       "campus": "B",
@@ -1892,7 +1882,17 @@
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
       "section": "E",
-      "instructor": "Reynoso,Enrique"
+      "instructor": "G Reynoso,Enrique"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "WIN2023",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
+      "section": "D",
+      "instructor": "Harack,Katrina M"
     },
     {
       "campus": "B",
@@ -2052,7 +2052,7 @@
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
       "section": "A",
-      "instructor": "Ketcham,Jessica"
+      "instructor": "G Ketcham,Jessica"
     },
     {
       "campus": "B",
@@ -2062,7 +2062,17 @@
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
       "section": "B",
-      "instructor": "Ketcham,Jessica"
+      "instructor": "G Ketcham,Jessica"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "SPR2023",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
+      "section": "C",
+      "instructor": "G Porter,Ian"
     },
     {
       "campus": "B",
@@ -2073,16 +2083,6 @@
       "courseTitle": "COMPOSITION",
       "section": "D",
       "instructor": "Pedersen,Alice"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "SPR2023",
-      "course": "B WRIT 134",
-      "courseTitle": "COMPOSITION",
-      "section": "C",
-      "instructor": "Porter,Ian"
     },
     {
       "campus": "B",
@@ -2191,8 +2191,8 @@
       "term": "SPR2023",
       "course": "B WRIT 135",
       "courseTitle": "RESEARCH WRITING",
-      "section": "L",
-      "instructor": "Simpkins,Neil"
+      "section": "A",
+      "instructor": "Sadashivan,Geeta"
     },
     {
       "campus": "B",
@@ -2201,8 +2201,8 @@
       "term": "SPR2023",
       "course": "B WRIT 135",
       "courseTitle": "RESEARCH WRITING",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "L",
+      "instructor": "Simpkins,Neil"
     },
     {
       "campus": "B",
@@ -2311,16 +2311,6 @@
       "term": "AUT2023",
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
-      "section": "G",
-      "instructor": "Brooks,Peter"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "AUT2023",
-      "course": "B WRIT 134",
-      "courseTitle": "COMPOSITION",
       "section": "H",
       "instructor": "Brooks,Peter"
     },
@@ -2371,8 +2361,28 @@
       "term": "AUT2023",
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
+      "section": "G",
+      "instructor": "G Brooks,Peter"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "AUT2023",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
       "section": "F",
-      "instructor": "Harack,Katrina M"
+      "instructor": "G Harack,Katrina M"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "AUT2023",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
+      "section": "J",
+      "instructor": "G Ketcham,Jessica"
     },
     {
       "campus": "B",
@@ -2383,16 +2393,6 @@
       "courseTitle": "COMPOSITION",
       "section": "A",
       "instructor": "KELLEJIAN,KRIS"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "AUT2023",
-      "course": "B WRIT 134",
-      "courseTitle": "COMPOSITION",
-      "section": "J",
-      "instructor": "Ketcham,Jessica"
     },
     {
       "campus": "B",
@@ -2601,18 +2601,8 @@
       "term": "WIN2024",
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
-      "section": "B",
-      "instructor": "Harack,Katrina M"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "WIN2024",
-      "course": "B WRIT 134",
-      "courseTitle": "COMPOSITION",
       "section": "C",
-      "instructor": "Ketcham,Jessica"
+      "instructor": "G Ketcham,Jessica"
     },
     {
       "campus": "B",
@@ -2622,7 +2612,7 @@
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
       "section": "E",
-      "instructor": "Lee,Jonathan Rey"
+      "instructor": "G Lee,Jonathan Rey"
     },
     {
       "campus": "B",
@@ -2632,7 +2622,17 @@
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
       "section": "F",
-      "instructor": "Lee,Jonathan Rey"
+      "instructor": "G Lee,Jonathan Rey"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "WIN2024",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
+      "section": "B",
+      "instructor": "Harack,Katrina M"
     },
     {
       "campus": "B",
@@ -3791,28 +3791,8 @@
       "term": "AUT2025",
       "course": "B WRIT 132",
       "courseTitle": "COMPOSITION STRTCH 1",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "AUT2025",
-      "course": "B WRIT 132",
-      "courseTitle": "COMPOSITION STRTCH 1",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "AUT2025",
-      "course": "B WRIT 132",
-      "courseTitle": "COMPOSITION STRTCH 1",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Ferreira,Silvia C"
     },
     {
       "campus": "B",
@@ -3822,37 +3802,27 @@
       "course": "B WRIT 132",
       "courseTitle": "COMPOSITION STRTCH 1",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Ferreira,Silvia C"
     },
     {
       "campus": "B",
       "dept": "bwrit",
       "deptName": "Writing",
       "term": "AUT2025",
-      "course": "B WRIT 134",
-      "courseTitle": "COMPOSITION",
+      "course": "B WRIT 132",
+      "courseTitle": "COMPOSITION STRTCH 1",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ketcham,Jessica"
     },
     {
       "campus": "B",
       "dept": "bwrit",
       "deptName": "Writing",
       "term": "AUT2025",
-      "course": "B WRIT 134",
-      "courseTitle": "COMPOSITION",
+      "course": "B WRIT 132",
+      "courseTitle": "COMPOSITION STRTCH 1",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "AUT2025",
-      "course": "B WRIT 134",
-      "courseTitle": "COMPOSITION",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Ketcham,Jessica"
     },
     {
       "campus": "B",
@@ -3862,7 +3832,7 @@
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Brooks,Peter"
     },
     {
       "campus": "B",
@@ -3871,18 +3841,8 @@
       "term": "AUT2025",
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
-      "section": "E",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "AUT2025",
-      "course": "B WRIT 134",
-      "courseTitle": "COMPOSITION",
-      "section": "F",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Campbell,Jessica"
     },
     {
       "campus": "B",
@@ -3892,7 +3852,17 @@
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
       "section": "G",
-      "instructor": "TBA"
+      "instructor": "Campbell,Jessica"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "AUT2025",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
+      "section": "F",
+      "instructor": "Ferreira,Silvia C"
     },
     {
       "campus": "B",
@@ -3902,17 +3872,7 @@
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
       "section": "H",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "AUT2025",
-      "course": "B WRIT 134",
-      "courseTitle": "COMPOSITION",
-      "section": "I",
-      "instructor": "TBA"
+      "instructor": "Harack,Katrina M"
     },
     {
       "campus": "B",
@@ -3922,7 +3882,7 @@
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
       "section": "J",
-      "instructor": "TBA"
+      "instructor": "Harack,Katrina M"
     },
     {
       "campus": "B",
@@ -3932,7 +3892,7 @@
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
       "section": "L",
-      "instructor": "TBA"
+      "instructor": "Janssen,Liz"
     },
     {
       "campus": "B",
@@ -3942,7 +3902,27 @@
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
       "section": "M",
-      "instructor": "TBA"
+      "instructor": "Janssen,Liz"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "AUT2025",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
+      "section": "A",
+      "instructor": "Kang,Stephie"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "AUT2025",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
+      "section": "C",
+      "instructor": "Kang,Stephie"
     },
     {
       "campus": "B",
@@ -3952,7 +3932,27 @@
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
       "section": "N",
-      "instructor": "TBA"
+      "instructor": "Kang,Stephie"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "AUT2025",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
+      "section": "E",
+      "instructor": "Morse,Jason H"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "AUT2025",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
+      "section": "I",
+      "instructor": "Porter,Ian"
     },
     {
       "campus": "B",
@@ -3962,17 +3962,7 @@
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
       "section": "O",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "AUT2025",
-      "course": "B WRIT 135",
-      "courseTitle": "RESEARCH WRITING",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Shimabukuro,Mira Chieko"
     },
     {
       "campus": "B",
@@ -3982,37 +3972,7 @@
       "course": "B WRIT 135",
       "courseTitle": "RESEARCH WRITING",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "AUT2025",
-      "course": "B WRIT 135",
-      "courseTitle": "RESEARCH WRITING",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "AUT2025",
-      "course": "B WRIT 135",
-      "courseTitle": "RESEARCH WRITING",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "AUT2025",
-      "course": "B WRIT 135",
-      "courseTitle": "RESEARCH WRITING",
-      "section": "E",
-      "instructor": "TBA"
+      "instructor": "Collins,Lupe R"
     },
     {
       "campus": "B",
@@ -4022,7 +3982,7 @@
       "course": "B WRIT 135",
       "courseTitle": "RESEARCH WRITING",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Collins,Lupe R"
     },
     {
       "campus": "B",
@@ -4032,7 +3992,17 @@
       "course": "B WRIT 135",
       "courseTitle": "RESEARCH WRITING",
       "section": "G",
-      "instructor": "TBA"
+      "instructor": "Collins,Lupe R"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "AUT2025",
+      "course": "B WRIT 135",
+      "courseTitle": "RESEARCH WRITING",
+      "section": "C",
+      "instructor": "Kellejian,Kris"
     },
     {
       "campus": "B",
@@ -4042,7 +4012,17 @@
       "course": "B WRIT 135",
       "courseTitle": "RESEARCH WRITING",
       "section": "H",
-      "instructor": "TBA"
+      "instructor": "Kellejian,Kris"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "AUT2025",
+      "course": "B WRIT 135",
+      "courseTitle": "RESEARCH WRITING",
+      "section": "D",
+      "instructor": "Lin,Hsinmei"
     },
     {
       "campus": "B",
@@ -4052,17 +4032,7 @@
       "course": "B WRIT 135",
       "courseTitle": "RESEARCH WRITING",
       "section": "I",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "AUT2025",
-      "course": "B WRIT 135",
-      "courseTitle": "RESEARCH WRITING",
-      "section": "J",
-      "instructor": "TBA"
+      "instructor": "Morse,Jason H"
     },
     {
       "campus": "B",
@@ -4072,7 +4042,37 @@
       "course": "B WRIT 135",
       "courseTitle": "RESEARCH WRITING",
       "section": "K",
-      "instructor": "TBA"
+      "instructor": "Morse,Jason H"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "AUT2025",
+      "course": "B WRIT 135",
+      "courseTitle": "RESEARCH WRITING",
+      "section": "J",
+      "instructor": "Porter,Ian"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "AUT2025",
+      "course": "B WRIT 135",
+      "courseTitle": "RESEARCH WRITING",
+      "section": "A",
+      "instructor": "Simpkins,Neil"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "AUT2025",
+      "course": "B WRIT 135",
+      "courseTitle": "RESEARCH WRITING",
+      "section": "E",
+      "instructor": "Simpkins,Neil"
     },
     {
       "campus": "B",
@@ -4082,7 +4082,7 @@
       "course": "B WRIT 132",
       "courseTitle": "COMPOSITION STRTCH 1",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Collins,Lupe R"
     },
     {
       "campus": "B",
@@ -4092,7 +4092,7 @@
       "course": "B WRIT 132",
       "courseTitle": "COMPOSITION STRTCH 1",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Collins,Lupe R"
     },
     {
       "campus": "B",
@@ -4131,46 +4131,6 @@
       "term": "WIN2026",
       "course": "B WRIT 133",
       "courseTitle": "COMPOSITION STRTCH 2",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "WIN2026",
-      "course": "B WRIT 134",
-      "courseTitle": "COMPOSITION",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "WIN2026",
-      "course": "B WRIT 134",
-      "courseTitle": "COMPOSITION",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "WIN2026",
-      "course": "B WRIT 134",
-      "courseTitle": "COMPOSITION",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "WIN2026",
-      "course": "B WRIT 134",
-      "courseTitle": "COMPOSITION",
       "section": "D",
       "instructor": "TBA"
     },
@@ -4182,7 +4142,7 @@
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Janssen,Liz"
     },
     {
       "campus": "B",
@@ -4191,18 +4151,8 @@
       "term": "WIN2026",
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
-      "section": "F",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "WIN2026",
-      "course": "B WRIT 134",
-      "courseTitle": "COMPOSITION",
-      "section": "G",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Kang,Stephie"
     },
     {
       "campus": "B",
@@ -4212,7 +4162,27 @@
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
       "section": "H",
-      "instructor": "TBA"
+      "instructor": "Kir,Furkan"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "WIN2026",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
+      "section": "B",
+      "instructor": "Lee,Jonathan Rey"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "WIN2026",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
+      "section": "D",
+      "instructor": "Lee,Jonathan Rey"
     },
     {
       "campus": "B",
@@ -4222,35 +4192,35 @@
       "course": "B WRIT 134",
       "courseTitle": "COMPOSITION",
       "section": "I",
-      "instructor": "TBA"
+      "instructor": "Lee,Jonathan Rey"
     },
     {
       "campus": "B",
       "dept": "bwrit",
       "deptName": "Writing",
       "term": "WIN2026",
-      "course": "B WRIT 135",
-      "courseTitle": "RESEARCH WRITING",
-      "section": "A",
-      "instructor": "TBA"
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
+      "section": "F",
+      "instructor": "Porter,Ian"
     },
     {
       "campus": "B",
       "dept": "bwrit",
       "deptName": "Writing",
       "term": "WIN2026",
-      "course": "B WRIT 135",
-      "courseTitle": "RESEARCH WRITING",
-      "section": "B",
-      "instructor": "TBA"
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
+      "section": "G",
+      "instructor": "Porter,Ian"
     },
     {
       "campus": "B",
       "dept": "bwrit",
       "deptName": "Writing",
       "term": "WIN2026",
-      "course": "B WRIT 135",
-      "courseTitle": "RESEARCH WRITING",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
       "section": "C",
       "instructor": "TBA"
     },
@@ -4261,18 +4231,8 @@
       "term": "WIN2026",
       "course": "B WRIT 135",
       "courseTitle": "RESEARCH WRITING",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "WIN2026",
-      "course": "B WRIT 135",
-      "courseTitle": "RESEARCH WRITING",
-      "section": "E",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "Campbell,Jessica"
     },
     {
       "campus": "B",
@@ -4282,7 +4242,7 @@
       "course": "B WRIT 135",
       "courseTitle": "RESEARCH WRITING",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Campbell,Jessica"
     },
     {
       "campus": "B",
@@ -4292,7 +4252,7 @@
       "course": "B WRIT 135",
       "courseTitle": "RESEARCH WRITING",
       "section": "G",
-      "instructor": "TBA"
+      "instructor": "Campbell,Jessica"
     },
     {
       "campus": "B",
@@ -4301,28 +4261,8 @@
       "term": "WIN2026",
       "course": "B WRIT 135",
       "courseTitle": "RESEARCH WRITING",
-      "section": "H",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "WIN2026",
-      "course": "B WRIT 135",
-      "courseTitle": "RESEARCH WRITING",
-      "section": "I",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "WIN2026",
-      "course": "B WRIT 135",
-      "courseTitle": "RESEARCH WRITING",
-      "section": "J",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Janssen,Liz"
     },
     {
       "campus": "B",
@@ -4332,7 +4272,17 @@
       "course": "B WRIT 135",
       "courseTitle": "RESEARCH WRITING",
       "section": "K",
-      "instructor": "TBA"
+      "instructor": "Janssen,Liz"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "WIN2026",
+      "course": "B WRIT 135",
+      "courseTitle": "RESEARCH WRITING",
+      "section": "B",
+      "instructor": "Kellejian,Kris"
     },
     {
       "campus": "B",
@@ -4342,146 +4292,66 @@
       "course": "B WRIT 135",
       "courseTitle": "RESEARCH WRITING",
       "section": "L",
-      "instructor": "TBA"
+      "instructor": "Ketcham,Jessica"
     },
     {
       "campus": "B",
       "dept": "bwrit",
       "deptName": "Writing",
-      "term": "SPR2026",
-      "course": "B WRIT 133",
-      "courseTitle": "COMPOSITION STRTCH 2",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "SPR2026",
-      "course": "B WRIT 133",
-      "courseTitle": "COMPOSITION STRTCH 2",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "SPR2026",
-      "course": "B WRIT 134",
-      "courseTitle": "COMPOSITION",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "SPR2026",
-      "course": "B WRIT 134",
-      "courseTitle": "COMPOSITION",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "SPR2026",
-      "course": "B WRIT 134",
-      "courseTitle": "COMPOSITION",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "SPR2026",
-      "course": "B WRIT 134",
-      "courseTitle": "COMPOSITION",
-      "section": "E",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "SPR2026",
-      "course": "B WRIT 135",
-      "courseTitle": "RESEARCH WRITING",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "SPR2026",
-      "course": "B WRIT 135",
-      "courseTitle": "RESEARCH WRITING",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "SPR2026",
-      "course": "B WRIT 135",
-      "courseTitle": "RESEARCH WRITING",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "SPR2026",
+      "term": "WIN2026",
       "course": "B WRIT 135",
       "courseTitle": "RESEARCH WRITING",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Lin,Hsinmei"
     },
     {
       "campus": "B",
       "dept": "bwrit",
       "deptName": "Writing",
-      "term": "SPR2026",
+      "term": "WIN2026",
       "course": "B WRIT 135",
       "courseTitle": "RESEARCH WRITING",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Morse,Jason H"
     },
     {
       "campus": "B",
       "dept": "bwrit",
       "deptName": "Writing",
-      "term": "SPR2026",
-      "course": "B WRIT 135",
-      "courseTitle": "RESEARCH WRITING",
-      "section": "F",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "SPR2026",
-      "course": "B WRIT 135",
-      "courseTitle": "RESEARCH WRITING",
-      "section": "G",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "SPR2026",
+      "term": "WIN2026",
       "course": "B WRIT 135",
       "courseTitle": "RESEARCH WRITING",
       "section": "H",
+      "instructor": "Morse,Jason H"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "WIN2026",
+      "course": "B WRIT 135",
+      "courseTitle": "RESEARCH WRITING",
+      "section": "I",
+      "instructor": "Morse,Jason H"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "WIN2026",
+      "course": "B WRIT 135",
+      "courseTitle": "RESEARCH WRITING",
+      "section": "J",
+      "instructor": "Simpkins,Neil"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "SPR2026",
+      "course": "B WRIT 133",
+      "courseTitle": "COMPOSITION STRTCH 2",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -4489,10 +4359,50 @@
       "dept": "bwrit",
       "deptName": "Writing",
       "term": "SPR2026",
-      "course": "B WRIT 135",
-      "courseTitle": "RESEARCH WRITING",
-      "section": "I",
+      "course": "B WRIT 133",
+      "courseTitle": "COMPOSITION STRTCH 2",
+      "section": "B",
       "instructor": "TBA"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "SPR2026",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
+      "section": "B",
+      "instructor": "Brooks,Peter"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "SPR2026",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
+      "section": "A",
+      "instructor": "Ketcham,Jessica"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "SPR2026",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
+      "section": "D",
+      "instructor": "Ketcham,Jessica"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "SPR2026",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
+      "section": "E",
+      "instructor": "Lee,Jonathan Rey"
     },
     {
       "campus": "B",
@@ -4502,7 +4412,7 @@
       "course": "B WRIT 135",
       "courseTitle": "RESEARCH WRITING",
       "section": "J",
-      "instructor": "TBA"
+      "instructor": "Brooks,Peter"
     },
     {
       "campus": "B",
@@ -4511,18 +4421,8 @@
       "term": "SPR2026",
       "course": "B WRIT 135",
       "courseTitle": "RESEARCH WRITING",
-      "section": "K",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bwrit",
-      "deptName": "Writing",
-      "term": "SPR2026",
-      "course": "B WRIT 135",
-      "courseTitle": "RESEARCH WRITING",
-      "section": "L",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Campbell,Jessica"
     },
     {
       "campus": "B",
@@ -4532,7 +4432,107 @@
       "course": "B WRIT 135",
       "courseTitle": "RESEARCH WRITING",
       "section": "M",
-      "instructor": "TBA"
+      "instructor": "Campbell,Jessica"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "SPR2026",
+      "course": "B WRIT 135",
+      "courseTitle": "RESEARCH WRITING",
+      "section": "F",
+      "instructor": "Ferreira,Silvia C"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "SPR2026",
+      "course": "B WRIT 135",
+      "courseTitle": "RESEARCH WRITING",
+      "section": "G",
+      "instructor": "Ferreira,Silvia C"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "SPR2026",
+      "course": "B WRIT 135",
+      "courseTitle": "RESEARCH WRITING",
+      "section": "I",
+      "instructor": "Janssen,Liz"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "SPR2026",
+      "course": "B WRIT 135",
+      "courseTitle": "RESEARCH WRITING",
+      "section": "L",
+      "instructor": "Janssen,Liz"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "SPR2026",
+      "course": "B WRIT 135",
+      "courseTitle": "RESEARCH WRITING",
+      "section": "C",
+      "instructor": "Kang,Stephie"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "SPR2026",
+      "course": "B WRIT 135",
+      "courseTitle": "RESEARCH WRITING",
+      "section": "B",
+      "instructor": "Kellejian,Kris"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "SPR2026",
+      "course": "B WRIT 135",
+      "courseTitle": "RESEARCH WRITING",
+      "section": "E",
+      "instructor": "Kellejian,Kris"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "SPR2026",
+      "course": "B WRIT 135",
+      "courseTitle": "RESEARCH WRITING",
+      "section": "D",
+      "instructor": "Lin,Hsinmei"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "SPR2026",
+      "course": "B WRIT 135",
+      "courseTitle": "RESEARCH WRITING",
+      "section": "K",
+      "instructor": "Morse,Jason H"
+    },
+    {
+      "campus": "B",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "SPR2026",
+      "course": "B WRIT 135",
+      "courseTitle": "RESEARCH WRITING",
+      "section": "H",
+      "instructor": "Porter,Ian"
     }
   ]
 }

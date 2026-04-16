@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Smith%2CMatt",
+  "professor": "Smith,Matt",
+  "recordCount": 5,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2026",
+      "course": "CM 343",
+      "courseTitle": "CONST MTHD & MAT III",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2025",
+      "course": "CM 432",
+      "courseTitle": "SOILS & FOUNDATIONS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2024",
+      "course": "CM 432",
+      "courseTitle": "SOILS & FOUNDATIONS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 432",
+      "courseTitle": "SOILS & FOUNDATIONS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 432",
+      "courseTitle": "SOILS & FOUNDATIONS",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Clancy%2CDavid%20John",
+  "professor": "Clancy,David John",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "WIN2022",
+      "course": "MATH 208",
+      "courseTitle": "MATRIX ALGEBRA",
+      "section": "G"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2021",
+      "course": "MATH 324",
+      "courseTitle": "ADV MULTIVAR CALC 1",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "WIN2021",
+      "course": "MATH 324",
+      "courseTitle": "ADV MULTIVAR CALC 1",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "AUT2020",
+      "course": "MATH 307",
+      "courseTitle": "INTRO TO DIFF EQ",
+      "section": "J"
+    }
+  ]
+}

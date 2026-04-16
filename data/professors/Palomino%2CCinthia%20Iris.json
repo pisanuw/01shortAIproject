@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Palomino%2CCinthia%20Iris",
+  "professor": "Palomino,Cinthia Iris",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "SUM2021",
+      "course": "ECFS 320",
+      "courseTitle": "CHILD CONTEXT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "WIN2021",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "AUT2020",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "A"
+    }
+  ]
+}

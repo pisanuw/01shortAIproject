@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Vining%2CJennifer%20Guinevere",
+  "professor": "Vining,Jennifer Guinevere",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "SPR2021",
+      "course": "E E 453",
+      "courseTitle": "ELECTRIC DRIVES",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "WIN2021",
+      "course": "E E 474",
+      "courseTitle": "INTRO EMBEDDED SYS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "WIN2021",
+      "course": "CSE 474",
+      "courseTitle": "INTRO EMBEDDED SYS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "AUT2020",
+      "course": "E E 271",
+      "courseTitle": "DIGITAL CIR & SYSTE",
+      "section": "A"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:24:45Z",
+  "generatedAt": "2026-04-16T02:57:09Z",
   "campus": "B",
   "dept": "bphys",
   "deptName": "Physics",
@@ -22,7 +22,7 @@
       "course": "B PHYS 114",
       "courseTitle": "GENERAL PHYSICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Key,Camas"
     },
     {
       "campus": "B",
@@ -92,7 +92,7 @@
       "course": "B PHYS 121",
       "courseTitle": "MECHANICS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "SCHERR,RACHEL E."
     },
     {
       "campus": "B",
@@ -242,7 +242,7 @@
       "course": "B PHYS 115",
       "courseTitle": "GENERAL PHYSICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Key,Camas"
     },
     {
       "campus": "B",
@@ -352,7 +352,7 @@
       "course": "B PHYS 122",
       "courseTitle": "ELMAG & OSCIL MOTN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "SCHERR,RACHEL E."
     },
     {
       "campus": "B",
@@ -582,7 +582,7 @@
       "course": "B PHYS 123",
       "courseTitle": "WAVES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gliboff,Matthew"
     },
     {
       "campus": "B",
@@ -1072,7 +1072,7 @@
       "course": "B PHYS 115",
       "courseTitle": "GENERAL PHYSICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gliboff,Matthew"
     },
     {
       "campus": "B",
@@ -1192,7 +1192,7 @@
       "course": "B PHYS 122",
       "courseTitle": "ELMAG & OSCIL MOTN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pawlak,Alanna"
     },
     {
       "campus": "B",
@@ -2502,7 +2502,7 @@
       "course": "B PHYS 321",
       "courseTitle": "ELECTROMAGNETISM",
       "section": "A",
-      "instructor": "Pawlak,Alanna"
+      "instructor": "G Pawlak,Alanna"
     },
     {
       "campus": "B",
@@ -2622,7 +2622,7 @@
       "course": "B PHYS 115",
       "courseTitle": "GENERAL PHYSICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gliboff,Matthew"
     },
     {
       "campus": "B",
@@ -3082,7 +3082,7 @@
       "course": "B PHYS 114",
       "courseTitle": "GENERAL PHYSICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gliboff,Matthew"
     },
     {
       "campus": "B",
@@ -3192,7 +3192,7 @@
       "course": "B PHYS 321",
       "courseTitle": "ELECTROMAGNETISM",
       "section": "A",
-      "instructor": "Kas,Joshua J."
+      "instructor": "B Kas,Joshua J."
     },
     {
       "campus": "B",
@@ -3792,7 +3792,7 @@
       "course": "B PHYS 101",
       "courseTitle": "INTRO ASTRONOMY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rodriguez Hidalgo,Paola"
     },
     {
       "campus": "B",
@@ -3812,7 +3812,7 @@
       "course": "B PHYS 117",
       "courseTitle": "GENERAL PHYSICS LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "BACON,NEIL"
     },
     {
       "campus": "B",
@@ -3822,7 +3822,7 @@
       "course": "B PHYS 117",
       "courseTitle": "GENERAL PHYSICS LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "BACON,NEIL"
     },
     {
       "campus": "B",
@@ -3832,7 +3832,7 @@
       "course": "B PHYS 117",
       "courseTitle": "GENERAL PHYSICS LAB",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Draper,Zachary Thomas"
     },
     {
       "campus": "B",
@@ -3842,17 +3842,7 @@
       "course": "B PHYS 117",
       "courseTitle": "GENERAL PHYSICS LAB",
       "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bphys",
-      "deptName": "Physics",
-      "term": "AUT2025",
-      "course": "B PHYS 117",
-      "courseTitle": "GENERAL PHYSICS LAB",
-      "section": "E",
-      "instructor": "TBA"
+      "instructor": "Ramachandran,Subramanian"
     },
     {
       "campus": "B",
@@ -3862,7 +3852,17 @@
       "course": "B PHYS 117",
       "courseTitle": "GENERAL PHYSICS LAB",
       "section": "G",
-      "instructor": "TBA"
+      "instructor": "Ramachandran,Subramanian"
+    },
+    {
+      "campus": "B",
+      "dept": "bphys",
+      "deptName": "Physics",
+      "term": "AUT2025",
+      "course": "B PHYS 117",
+      "courseTitle": "GENERAL PHYSICS LAB",
+      "section": "E",
+      "instructor": "Tomlinson,Jaimy"
     },
     {
       "campus": "B",
@@ -3872,7 +3872,7 @@
       "course": "B PHYS 121",
       "courseTitle": "MECHANICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Grossmann,Benjamin N."
     },
     {
       "campus": "B",
@@ -3882,7 +3882,7 @@
       "course": "B PHYS 121",
       "courseTitle": "MECHANICS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Grossmann,Benjamin N."
     },
     {
       "campus": "B",
@@ -3892,7 +3892,7 @@
       "course": "B PHYS 222",
       "courseTitle": "MODERN PHYSICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pawlak,Alanna"
     },
     {
       "campus": "B",
@@ -3902,7 +3902,7 @@
       "course": "B PHYS 231",
       "courseTitle": "INTRO EXP PHYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ramachandran,Subramanian"
     },
     {
       "campus": "B",
@@ -3912,7 +3912,7 @@
       "course": "B PHYS 321",
       "courseTitle": "ELECTROMAGNETISM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kas,Joshua J."
     },
     {
       "campus": "B",
@@ -3922,7 +3922,7 @@
       "course": "B PHYS 484",
       "courseTitle": "PHYS SOCIETY&INDUS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pawlak,Alanna"
     },
     {
       "campus": "B",
@@ -3932,7 +3932,7 @@
       "course": "B PHYS 494",
       "courseTitle": "SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pawlak,Alanna"
     },
     {
       "campus": "B",
@@ -3982,7 +3982,7 @@
       "course": "B PHYS 114",
       "courseTitle": "GENERAL PHYSICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tomlinson,Jaimy"
     },
     {
       "campus": "B",
@@ -3992,7 +3992,7 @@
       "course": "B PHYS 115",
       "courseTitle": "GENERAL PHYSICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gliboff,Matthew"
     },
     {
       "campus": "B",
@@ -4002,7 +4002,7 @@
       "course": "B PHYS 117",
       "courseTitle": "GENERAL PHYSICS LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tomlinson,Jaimy"
     },
     {
       "campus": "B",
@@ -4012,7 +4012,7 @@
       "course": "B PHYS 117",
       "courseTitle": "GENERAL PHYSICS LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Tomlinson,Jaimy"
     },
     {
       "campus": "B",
@@ -4022,27 +4022,7 @@
       "course": "B PHYS 117",
       "courseTitle": "GENERAL PHYSICS LAB",
       "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bphys",
-      "deptName": "Physics",
-      "term": "WIN2026",
-      "course": "B PHYS 118",
-      "courseTitle": "GENERAL PHYSICS LAB",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bphys",
-      "deptName": "Physics",
-      "term": "WIN2026",
-      "course": "B PHYS 118",
-      "courseTitle": "GENERAL PHYSICS LAB",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Tomlinson,Jaimy"
     },
     {
       "campus": "B",
@@ -4052,27 +4032,7 @@
       "course": "B PHYS 118",
       "courseTitle": "GENERAL PHYSICS LAB",
       "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bphys",
-      "deptName": "Physics",
-      "term": "WIN2026",
-      "course": "B PHYS 118",
-      "courseTitle": "GENERAL PHYSICS LAB",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bphys",
-      "deptName": "Physics",
-      "term": "WIN2026",
-      "course": "B PHYS 118",
-      "courseTitle": "GENERAL PHYSICS LAB",
-      "section": "E",
-      "instructor": "TBA"
+      "instructor": "Draper,Zachary Thomas"
     },
     {
       "campus": "B",
@@ -4082,7 +4042,47 @@
       "course": "B PHYS 118",
       "courseTitle": "GENERAL PHYSICS LAB",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Draper,Zachary Thomas"
+    },
+    {
+      "campus": "B",
+      "dept": "bphys",
+      "deptName": "Physics",
+      "term": "WIN2026",
+      "course": "B PHYS 118",
+      "courseTitle": "GENERAL PHYSICS LAB",
+      "section": "E",
+      "instructor": "Grossmann,Benjamin N."
+    },
+    {
+      "campus": "B",
+      "dept": "bphys",
+      "deptName": "Physics",
+      "term": "WIN2026",
+      "course": "B PHYS 118",
+      "courseTitle": "GENERAL PHYSICS LAB",
+      "section": "D",
+      "instructor": "Key,Joey Shapiro"
+    },
+    {
+      "campus": "B",
+      "dept": "bphys",
+      "deptName": "Physics",
+      "term": "WIN2026",
+      "course": "B PHYS 118",
+      "courseTitle": "GENERAL PHYSICS LAB",
+      "section": "A",
+      "instructor": "Ramachandran,Subramanian"
+    },
+    {
+      "campus": "B",
+      "dept": "bphys",
+      "deptName": "Physics",
+      "term": "WIN2026",
+      "course": "B PHYS 118",
+      "courseTitle": "GENERAL PHYSICS LAB",
+      "section": "B",
+      "instructor": "Ramachandran,Subramanian"
     },
     {
       "campus": "B",
@@ -4092,7 +4092,7 @@
       "course": "B PHYS 121",
       "courseTitle": "MECHANICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pawlak,Alanna"
     },
     {
       "campus": "B",
@@ -4102,7 +4102,7 @@
       "course": "B PHYS 122",
       "courseTitle": "ELMAG & OSCIL MOTN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Grossmann,Benjamin N."
     },
     {
       "campus": "B",
@@ -4112,7 +4112,7 @@
       "course": "B PHYS 224",
       "courseTitle": "THERMAL PHYSICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gliboff,Matthew"
     },
     {
       "campus": "B",
@@ -4122,7 +4122,7 @@
       "course": "B PHYS 311",
       "courseTitle": "INTRO ASTROPHYS I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rodriguez Hidalgo,Paola"
     },
     {
       "campus": "B",
@@ -4132,7 +4132,7 @@
       "course": "B PHYS 322",
       "courseTitle": "ELECTROMAG II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kas,Joshua J."
     },
     {
       "campus": "B",
@@ -4142,7 +4142,7 @@
       "course": "B PHYS 324",
       "courseTitle": "QUANT MECH I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "SCHERR,RACHEL E."
     },
     {
       "campus": "B",
@@ -4152,7 +4152,7 @@
       "course": "B PHYS 450",
       "courseTitle": "COMP MODELING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Salathe,Eric P"
     },
     {
       "campus": "B",
@@ -4202,7 +4202,7 @@
       "course": "B PHYS 101",
       "courseTitle": "INTRO ASTRONOMY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rodriguez Hidalgo,Paola"
     },
     {
       "campus": "B",
@@ -4212,7 +4212,7 @@
       "course": "B PHYS 115",
       "courseTitle": "GENERAL PHYSICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tomlinson,Jaimy"
     },
     {
       "campus": "B",
@@ -4232,7 +4232,7 @@
       "course": "B PHYS 118",
       "courseTitle": "GENERAL PHYSICS LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "BACON,NEIL"
     },
     {
       "campus": "B",
@@ -4242,7 +4242,7 @@
       "course": "B PHYS 118",
       "courseTitle": "GENERAL PHYSICS LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "BACON,NEIL"
     },
     {
       "campus": "B",
@@ -4252,7 +4252,7 @@
       "course": "B PHYS 118",
       "courseTitle": "GENERAL PHYSICS LAB",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Taushanoff,Stefanie"
     },
     {
       "campus": "B",
@@ -4262,7 +4262,7 @@
       "course": "B PHYS 119",
       "courseTitle": "GENERAL PHYSICS LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Draper,Zachary Thomas"
     },
     {
       "campus": "B",
@@ -4272,7 +4272,7 @@
       "course": "B PHYS 119",
       "courseTitle": "GENERAL PHYSICS LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Draper,Zachary Thomas"
     },
     {
       "campus": "B",
@@ -4282,7 +4282,7 @@
       "course": "B PHYS 119",
       "courseTitle": "GENERAL PHYSICS LAB",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Draper,Zachary Thomas"
     },
     {
       "campus": "B",
@@ -4292,7 +4292,7 @@
       "course": "B PHYS 119",
       "courseTitle": "GENERAL PHYSICS LAB",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Draper,Zachary Thomas"
     },
     {
       "campus": "B",
@@ -4322,7 +4322,7 @@
       "course": "B PHYS 122",
       "courseTitle": "ELMAG & OSCIL MOTN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pawlak,Alanna"
     },
     {
       "campus": "B",
@@ -4332,7 +4332,7 @@
       "course": "B PHYS 123",
       "courseTitle": "WAVES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Grossmann,Benjamin N."
     },
     {
       "campus": "B",
@@ -4342,7 +4342,7 @@
       "course": "B PHYS 201",
       "courseTitle": "THE COSMOS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Draper,Zachary Thomas"
     },
     {
       "campus": "B",
@@ -4352,7 +4352,7 @@
       "course": "B PHYS 221",
       "courseTitle": "CLASSICAL MECHANICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pawlak,Alanna"
     },
     {
       "campus": "B",
@@ -4362,7 +4362,7 @@
       "course": "B PHYS 323",
       "courseTitle": "ELECTROMAG III",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kas,Joshua J."
     },
     {
       "campus": "B",
@@ -4372,17 +4372,7 @@
       "course": "B PHYS 330",
       "courseTitle": "SPECIAL/GENERAL REL",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bphys",
-      "deptName": "Physics",
-      "term": "SPR2026",
-      "course": "B PHYS 433",
-      "courseTitle": "SEN PROJ PHYS",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "SCHERR,RACHEL E."
     },
     {
       "campus": "B",
@@ -4392,7 +4382,17 @@
       "course": "B PHYS 433",
       "courseTitle": "SEN PROJ PHYS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Key,Joey Shapiro"
+    },
+    {
+      "campus": "B",
+      "dept": "bphys",
+      "deptName": "Physics",
+      "term": "SPR2026",
+      "course": "B PHYS 433",
+      "courseTitle": "SEN PROJ PHYS",
+      "section": "A",
+      "instructor": "Ramachandran,Subramanian"
     },
     {
       "campus": "B",
@@ -4402,7 +4402,7 @@
       "course": "B PHYS 493",
       "courseTitle": "ADV TOPICS PHYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rodriguez Hidalgo,Paola"
     },
     {
       "campus": "B",

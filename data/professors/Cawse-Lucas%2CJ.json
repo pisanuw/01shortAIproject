@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Cawse-Lucas%2CJ",
+  "professor": "Cawse-Lucas,J",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "WIN2021",
+      "course": "MEDSCI 504",
+      "courseTitle": "FOUNDATION CLIN MED",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2020",
+      "course": "MEDSCI 508",
+      "courseTitle": "FOUNDATION CLIN MED",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "medsci",
+      "deptName": "Medical Science",
+      "term": "AUT2020",
+      "course": "MEDSCI 502",
+      "courseTitle": "FOUNDATION CLIN MED",
+      "section": "C"
+    }
+  ]
+}

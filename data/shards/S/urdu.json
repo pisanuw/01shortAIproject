@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:55Z",
+  "generatedAt": "2026-04-16T02:57:10Z",
   "campus": "S",
   "dept": "urdu",
   "deptName": "Urdu",
@@ -258,11 +258,51 @@
       "campus": "S",
       "dept": "urdu",
       "deptName": "Urdu",
+      "term": "SPR2022",
+      "course": "URDU 103",
+      "courseTitle": "ELEMENTARY URDU",
+      "section": "A",
+      "instructor": "Khalil,Fariha"
+    },
+    {
+      "campus": "S",
+      "dept": "urdu",
+      "deptName": "Urdu",
+      "term": "SPR2022",
+      "course": "URDU 203",
+      "courseTitle": "INTERMEDIATE URDU",
+      "section": "A",
+      "instructor": "Ahmad,Jameel"
+    },
+    {
+      "campus": "S",
+      "dept": "urdu",
+      "deptName": "Urdu",
+      "term": "SPR2022",
+      "course": "URDU 303",
+      "courseTitle": "ADVANCED URDU",
+      "section": "A",
+      "instructor": "Ahmad,Jameel"
+    },
+    {
+      "campus": "S",
+      "dept": "urdu",
+      "deptName": "Urdu",
+      "term": "SPR2022",
+      "course": "URDU 499",
+      "courseTitle": "URDU INDPT STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urdu",
+      "deptName": "Urdu",
       "term": "AUT2022",
       "course": "URDU 101",
       "courseTitle": "ELEMENTARY URDU",
       "section": "A",
-      "instructor": "Ahmad,Jameel"
+      "instructor": "A Ahmad,Jameel"
     },
     {
       "campus": "S",
@@ -418,6 +458,56 @@
       "campus": "S",
       "dept": "urdu",
       "deptName": "Urdu",
+      "term": "AUT2023",
+      "course": "URDU 101",
+      "courseTitle": "ELEMENTARY URDU",
+      "section": "A",
+      "instructor": "Ahmad,Jameel"
+    },
+    {
+      "campus": "S",
+      "dept": "urdu",
+      "deptName": "Urdu",
+      "term": "AUT2023",
+      "course": "URDU 201",
+      "courseTitle": "INTERMEDIATE URDU",
+      "section": "A",
+      "instructor": "Ahmad,Jameel"
+    },
+    {
+      "campus": "S",
+      "dept": "urdu",
+      "deptName": "Urdu",
+      "term": "AUT2023",
+      "course": "URDU 321",
+      "courseTitle": "ADV URDU SHORT STORY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urdu",
+      "deptName": "Urdu",
+      "term": "AUT2023",
+      "course": "URDU 421",
+      "courseTitle": "ADV URDU SHORT STORY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urdu",
+      "deptName": "Urdu",
+      "term": "AUT2023",
+      "course": "URDU 499",
+      "courseTitle": "URDU INDPT STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "urdu",
+      "deptName": "Urdu",
       "term": "WIN2024",
       "course": "URDU 102",
       "courseTitle": "ELEMENTARY URDU",
@@ -642,7 +732,7 @@
       "course": "URDU 324",
       "courseTitle": "ADV URDU DRAMA",
       "section": "A",
-      "instructor": "Pauwels,Heidi R"
+      "instructor": "A Pauwels,Heidi R"
     },
     {
       "campus": "S",
@@ -652,7 +742,7 @@
       "course": "URDU 424",
       "courseTitle": "MOD HINDI LIT-DRAMA",
       "section": "A",
-      "instructor": "Pauwels,Heidi R"
+      "instructor": "A Pauwels,Heidi R"
     },
     {
       "campus": "S",
@@ -672,7 +762,7 @@
       "course": "URDU 524",
       "courseTitle": "MOD HINDI LIT-DRAMA",
       "section": "A",
-      "instructor": "Pauwels,Heidi R"
+      "instructor": "A Pauwels,Heidi R"
     },
     {
       "campus": "S",
@@ -682,7 +772,7 @@
       "course": "URDU 101",
       "courseTitle": "ELEMENTARY URDU",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ahmad,Jameel"
     },
     {
       "campus": "S",
@@ -732,7 +822,7 @@
       "course": "URDU 102",
       "courseTitle": "ELEMENTARY URDU",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ahmad,Jameel"
     },
     {
       "campus": "S",
@@ -752,7 +842,7 @@
       "course": "URDU 323",
       "courseTitle": "ADV URDU NOVEL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dubrow,Jennifer"
     },
     {
       "campus": "S",
@@ -762,7 +852,7 @@
       "course": "URDU 423",
       "courseTitle": "ADV URDU NOVEL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dubrow,Jennifer"
     },
     {
       "campus": "S",
@@ -782,7 +872,7 @@
       "course": "URDU 103",
       "courseTitle": "ELEMENTARY URDU",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ahmad,Jameel"
     },
     {
       "campus": "S",
@@ -802,7 +892,7 @@
       "course": "URDU 324",
       "courseTitle": "ADV URDU DRAMA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pauwels,Heidi R"
     },
     {
       "campus": "S",
@@ -812,7 +902,7 @@
       "course": "URDU 424",
       "courseTitle": "MOD HINDI LIT-DRAMA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pauwels,Heidi R"
     },
     {
       "campus": "S",
@@ -832,7 +922,7 @@
       "course": "URDU 524",
       "courseTitle": "MOD HINDI LIT-DRAMA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pauwels,Heidi R"
     }
   ]
 }

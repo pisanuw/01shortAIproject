@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "WHE",
+  "professor": "WHE",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "esrm",
+      "deptName": "Environmental Science and Resource Management",
+      "term": "WIN2025",
+      "course": "ESRM 463",
+      "courseTitle": "RESTORATION ECOL 2",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "esrm",
+      "deptName": "Environmental Science and Resource Management",
+      "term": "AUT2024",
+      "course": "ESRM 462",
+      "courseTitle": "RESTORATION ECOL 1",
+      "section": "B"
+    }
+  ]
+}

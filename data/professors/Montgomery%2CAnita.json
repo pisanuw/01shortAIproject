@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Montgomery%2CAnita",
+  "professor": "Montgomery,Anita",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 599",
+      "courseTitle": "ADV STDY THEATR ART",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2023",
+      "course": "DRAMA 563",
+      "courseTitle": "SEMINAR DIRECTING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2020",
+      "course": "DRAMA 564",
+      "courseTitle": "HISTORY/THEORY/CRIT",
+      "section": "A"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:28:00Z",
+  "generatedAt": "2026-04-16T02:57:16Z",
   "campus": "S",
   "dept": "conj",
   "deptName": "Conjoint Courses",
@@ -462,7 +462,7 @@
       "course": "CONJ 550P",
       "courseTitle": "P-CLIN INFEC DIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pottinger,Paul S"
     },
     {
       "campus": "S",
@@ -481,8 +481,8 @@
       "term": "WIN2021",
       "course": "CONJ 570",
       "courseTitle": "TRANSGNDR PATIENTS",
-      "section": "A",
-      "instructor": "Dalley,Roberta W."
+      "section": "C",
+      "instructor": "Letourneau,Holly"
     },
     {
       "campus": "S",
@@ -491,8 +491,8 @@
       "term": "WIN2021",
       "course": "CONJ 570",
       "courseTitle": "TRANSGNDR PATIENTS",
-      "section": "C",
-      "instructor": "Letourneau,Holly"
+      "section": "A",
+      "instructor": "P Dalley,Roberta W."
     },
     {
       "campus": "S",
@@ -3371,7 +3371,7 @@
       "term": "WIN2023",
       "course": "CONJ 550P",
       "courseTitle": "P-CLIN INFEC DIS",
-      "section": "C",
+      "section": "A",
       "instructor": "Pottinger,P"
     },
     {
@@ -3381,8 +3381,8 @@
       "term": "WIN2023",
       "course": "CONJ 550P",
       "courseTitle": "P-CLIN INFEC DIS",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "Pottinger,P"
     },
     {
       "campus": "S",
@@ -3699,6 +3699,356 @@
       "dept": "conj",
       "deptName": "Conjoint Courses",
       "term": "WIN2023",
+      "course": "CONJ 699P",
+      "courseTitle": "P-CLIN CLERKSHIPS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 505P",
+      "courseTitle": "P-PAIN CLINIC PCPT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 511",
+      "courseTitle": "GENOMIC DISSECTION",
+      "section": "A",
+      "instructor": "Horwitz,M"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 526",
+      "courseTitle": "INTRO TO SYS BIO",
+      "section": "A",
+      "instructor": "Aitchison,J"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 539",
+      "courseTitle": "VACCINES",
+      "section": "A",
+      "instructor": "Fuller,D"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 557",
+      "courseTitle": "MICROBIAL EVOLUTION",
+      "section": "A",
+      "instructor": "Sokurenko,E"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 585",
+      "courseTitle": "SURGICAL ANATOMY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 585",
+      "courseTitle": "SURGICAL ANATOMY",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 605P",
+      "courseTitle": "P-INTRO PALL CONS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 606P",
+      "courseTitle": "P-ADV PALL INP HOS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 607P",
+      "courseTitle": "P-ADV PALL CARE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 608P",
+      "courseTitle": "P-INTR PALL CR ANMC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 610P",
+      "courseTitle": "P-INTR PALL CR OLY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 612P",
+      "courseTitle": "P-INTR PAL CR BOZE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 613P",
+      "courseTitle": "P-INTR PAL CR BOISE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 614P",
+      "courseTitle": "P-COR ADCT MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 615P",
+      "courseTitle": "P-ADV COR ADCT MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 617P",
+      "courseTitle": "P-NEURO ICU SUB-I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 618P",
+      "courseTitle": "P-SLEEP MEDICINE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 619",
+      "courseTitle": "ADV PALL CARE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 620",
+      "courseTitle": "OPIOID USE DISORDER",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 621",
+      "courseTitle": "ADV PALL CARE-SPOKAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 622",
+      "courseTitle": "ADV PALL CARE ID",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 623",
+      "courseTitle": "ADULT & PED HOSP MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 624",
+      "courseTitle": "HOSP & PALL CARE MT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 625",
+      "courseTitle": "GH CLINICAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 626",
+      "courseTitle": "GLOBAL HIV MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 627",
+      "courseTitle": "END OF LIFE HOME CRE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 628",
+      "courseTitle": "ADV PALL CARE-AK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 629",
+      "courseTitle": "CLINICAL PEDS DERM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 631",
+      "courseTitle": "HOSPC/PALL HOME CARE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 632",
+      "courseTitle": "INTR PAL CR MISSOULA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 696P",
+      "courseTitle": "P-WRITE ELECTIVES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 698P",
+      "courseTitle": "P-FOREIGN MED CLERK",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
+      "course": "CONJ 699P",
+      "courseTitle": "P-CLIN CLERKSHIPS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "conj",
+      "deptName": "Conjoint Courses",
+      "term": "SPR2023",
       "course": "CONJ 699P",
       "courseTitle": "P-CLIN CLERKSHIPS",
       "section": "B",
@@ -7112,7 +7462,7 @@
       "course": "CONJ 531",
       "courseTitle": "SIGNALING MECHANISM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zagotta,William N."
     },
     {
       "campus": "S",
@@ -7122,7 +7472,7 @@
       "course": "CONJ 532",
       "courseTitle": "SIGNAL TRANSDUCTION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ong,Shao-En"
     },
     {
       "campus": "S",
@@ -7142,7 +7492,7 @@
       "course": "CONJ 542",
       "courseTitle": "CELL BIO DEVELOPMENT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Raible,Dave"
     },
     {
       "campus": "S",
@@ -7152,7 +7502,7 @@
       "course": "CONJ 557",
       "courseTitle": "MICROBIAL EVOLUTION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sokurenko,Evgeni V."
     },
     {
       "campus": "S",
@@ -7512,7 +7862,7 @@
       "course": "CONJ 526",
       "courseTitle": "INTRO TO SYS BIO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Aitchison,John"
     },
     {
       "campus": "S",
@@ -7532,7 +7882,7 @@
       "course": "CONJ 556",
       "courseTitle": "ADDICTION RESEARCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ferguson,Susan"
     },
     {
       "campus": "S",
@@ -7542,7 +7892,7 @@
       "course": "CONJ 558",
       "courseTitle": "PROKARYOTIC BIOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Harwood,Carrie"
     },
     {
       "campus": "S",
@@ -7552,7 +7902,7 @@
       "course": "CONJ 570",
       "courseTitle": "TRANSGNDR PATIENTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kennison,Holly"
     },
     {
       "campus": "S",
@@ -7562,7 +7912,7 @@
       "course": "CONJ 570",
       "courseTitle": "TRANSGNDR PATIENTS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Kennison,Holly"
     },
     {
       "campus": "S",
@@ -7912,7 +8262,7 @@
       "course": "CONJ 539",
       "courseTitle": "VACCINES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fuller,Deborah Lynn"
     },
     {
       "campus": "S",

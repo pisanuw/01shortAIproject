@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Ronan%2CLiam",
+  "professor": "Ronan,Liam",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sefs",
+      "deptName": "School of Environmental and Forest Sciences",
+      "term": "SPR2024",
+      "course": "SEFS 520",
+      "courseTitle": "GEOG INFO SYSTEMS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "esrm",
+      "deptName": "Environmental Science and Resource Management",
+      "term": "SPR2024",
+      "course": "ESRM 250",
+      "courseTitle": "INTRO TO GIS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "esrm",
+      "deptName": "Environmental Science and Resource Management",
+      "term": "SPR2024",
+      "course": "ESRM 250",
+      "courseTitle": "INTRO TO GIS",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Fridley%2CJim",
+  "professor": "Fridley,Jim",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sefs",
+      "deptName": "School of Environmental and Forest Sciences",
+      "term": "AUT2020",
+      "course": "SEFS 549",
+      "courseTitle": "URBAN HORT SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "esrm",
+      "deptName": "Environmental Science and Resource Management",
+      "term": "AUT2020",
+      "course": "ESRM 474",
+      "courseTitle": "ECOLOGICAL ENG",
+      "section": "A"
+    }
+  ]
+}

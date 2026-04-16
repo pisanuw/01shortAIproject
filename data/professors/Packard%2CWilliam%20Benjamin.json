@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Packard%2CWilliam%20Benjamin",
+  "professor": "Packard,William Benjamin",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwk",
+      "deptName": "Social Work",
+      "term": "WIN2026",
+      "course": "SOC W 511",
+      "courseTitle": "SW WITH FAM/GROUPS",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwk",
+      "deptName": "Social Work",
+      "term": "WIN2025",
+      "course": "SOC W 511",
+      "courseTitle": "SW WITH FAM/GROUPS",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwk",
+      "deptName": "Social Work",
+      "term": "AUT2024",
+      "course": "SOC W 510",
+      "courseTitle": "SW WITH INDIVIDUALS",
+      "section": "E"
+    }
+  ]
+}

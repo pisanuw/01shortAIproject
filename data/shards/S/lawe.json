@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:28:00Z",
+  "generatedAt": "2026-04-16T02:57:15Z",
   "campus": "S",
   "dept": "lawe",
   "deptName": "Law E",
@@ -7391,6 +7391,16 @@
       "term": "AUT2024",
       "course": "LAW E 573",
       "courseTitle": "EMPIRICAL RSCH MTHDS",
+      "section": "C",
+      "instructor": "Garavito,David Michael Nol"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "AUT2024",
+      "course": "LAW E 573",
+      "courseTitle": "EMPIRICAL RSCH MTHDS",
       "section": "A",
       "instructor": "TBA"
     },
@@ -7402,16 +7412,6 @@
       "course": "LAW E 573",
       "courseTitle": "EMPIRICAL RSCH MTHDS",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "AUT2024",
-      "course": "LAW E 573",
-      "courseTitle": "EMPIRICAL RSCH MTHDS",
-      "section": "C",
       "instructor": "TBA"
     },
     {
@@ -8922,7 +8922,7 @@
       "course": "LAW E 508",
       "courseTitle": "PERSUASIVE WRITING",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Wolff,Eric"
     },
     {
       "campus": "S",
@@ -8932,27 +8932,7 @@
       "course": "LAW E 508",
       "courseTitle": "PERSUASIVE WRITING",
       "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "AUT2025",
-      "course": "LAW E 513",
-      "courseTitle": "COMBATTNG CORRUPTN",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "AUT2025",
-      "course": "LAW E 513",
-      "courseTitle": "COMBATTNG CORRUPTN",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Wolff,Eric"
     },
     {
       "campus": "S",
@@ -8962,7 +8942,7 @@
       "course": "LAW E 513",
       "courseTitle": "COMBATTNG CORRUPTN",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Baer,Jehiel I."
     },
     {
       "campus": "S",
@@ -8972,6 +8952,16 @@
       "course": "LAW E 513",
       "courseTitle": "COMBATTNG CORRUPTN",
       "section": "D",
+      "instructor": "Baer,Jehiel I."
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "AUT2025",
+      "course": "LAW E 513",
+      "courseTitle": "COMBATTNG CORRUPTN",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -8979,9 +8969,9 @@
       "dept": "lawe",
       "deptName": "Law E",
       "term": "AUT2025",
-      "course": "LAW E 523",
-      "courseTitle": "ENTREPRE LAW CLINC",
-      "section": "A",
+      "course": "LAW E 513",
+      "courseTitle": "COMBATTNG CORRUPTN",
+      "section": "B",
       "instructor": "TBA"
     },
     {
@@ -8992,6 +8982,16 @@
       "course": "LAW E 523",
       "courseTitle": "ENTREPRE LAW CLINC",
       "section": "B",
+      "instructor": "Lemker,Jeannine D."
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "AUT2025",
+      "course": "LAW E 523",
+      "courseTitle": "ENTREPRE LAW CLINC",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -9102,7 +9102,7 @@
       "course": "LAW E 529",
       "courseTitle": "TRIBAL COURT CLINIC",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Williams,Brenda E"
     },
     {
       "campus": "S",
@@ -9131,18 +9131,8 @@
       "term": "AUT2025",
       "course": "LAW E 554",
       "courseTitle": "TECH PUB POL CLINIC",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "AUT2025",
-      "course": "LAW E 554",
-      "courseTitle": "TECH PUB POL CLINIC",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Hutson,Jevan A"
     },
     {
       "campus": "S",
@@ -9152,6 +9142,16 @@
       "course": "LAW E 554",
       "courseTitle": "TECH PUB POL CLINIC",
       "section": "C",
+      "instructor": "Hutson,Jevan A"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "AUT2025",
+      "course": "LAW E 554",
+      "courseTitle": "TECH PUB POL CLINIC",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -9171,6 +9171,26 @@
       "term": "AUT2025",
       "course": "LAW E 555",
       "courseTitle": "LEGISLATION",
+      "section": "C",
+      "instructor": "Eberhard,Eric"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "AUT2025",
+      "course": "LAW E 555",
+      "courseTitle": "LEGISLATION",
+      "section": "D",
+      "instructor": "Eberhard,Eric"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "AUT2025",
+      "course": "LAW E 555",
+      "courseTitle": "LEGISLATION",
       "section": "A",
       "instructor": "TBA"
     },
@@ -9189,50 +9209,10 @@
       "dept": "lawe",
       "deptName": "Law E",
       "term": "AUT2025",
-      "course": "LAW E 555",
-      "courseTitle": "LEGISLATION",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "AUT2025",
-      "course": "LAW E 555",
-      "courseTitle": "LEGISLATION",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "AUT2025",
-      "course": "LAW E 562",
-      "courseTitle": "MUSEUM LAW",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "AUT2025",
-      "course": "LAW E 562",
-      "courseTitle": "MUSEUM LAW",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "AUT2025",
       "course": "LAW E 562",
       "courseTitle": "MUSEUM LAW",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Eisenberg,Adam"
     },
     {
       "campus": "S",
@@ -9242,7 +9222,7 @@
       "course": "LAW E 562",
       "courseTitle": "MUSEUM LAW",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Eisenberg,Adam"
     },
     {
       "campus": "S",
@@ -9252,7 +9232,47 @@
       "course": "LAW E 562",
       "courseTitle": "MUSEUM LAW",
       "section": "E",
+      "instructor": "Eisenberg,Adam"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "AUT2025",
+      "course": "LAW E 562",
+      "courseTitle": "MUSEUM LAW",
+      "section": "A",
       "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "AUT2025",
+      "course": "LAW E 562",
+      "courseTitle": "MUSEUM LAW",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "AUT2025",
+      "course": "LAW E 573",
+      "courseTitle": "EMPIRICAL RSCH MTHDS",
+      "section": "C",
+      "instructor": "Garavito,David Michael Nol"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "AUT2025",
+      "course": "LAW E 573",
+      "courseTitle": "EMPIRICAL RSCH MTHDS",
+      "section": "D",
+      "instructor": "Garavito,David Michael Nol"
     },
     {
       "campus": "S",
@@ -9272,26 +9292,6 @@
       "course": "LAW E 573",
       "courseTitle": "EMPIRICAL RSCH MTHDS",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "AUT2025",
-      "course": "LAW E 573",
-      "courseTitle": "EMPIRICAL RSCH MTHDS",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "AUT2025",
-      "course": "LAW E 573",
-      "courseTitle": "EMPIRICAL RSCH MTHDS",
-      "section": "D",
       "instructor": "TBA"
     },
     {
@@ -9311,6 +9311,26 @@
       "term": "AUT2025",
       "course": "LAW E 583",
       "courseTitle": "GLOBALIZATIN & LAW",
+      "section": "C",
+      "instructor": "Raigrodski,Dana"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "AUT2025",
+      "course": "LAW E 583",
+      "courseTitle": "GLOBALIZATIN & LAW",
+      "section": "D",
+      "instructor": "Raigrodski,Dana"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "AUT2025",
+      "course": "LAW E 583",
+      "courseTitle": "GLOBALIZATIN & LAW",
       "section": "A",
       "instructor": "TBA"
     },
@@ -9322,26 +9342,6 @@
       "course": "LAW E 583",
       "courseTitle": "GLOBALIZATIN & LAW",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "AUT2025",
-      "course": "LAW E 583",
-      "courseTitle": "GLOBALIZATIN & LAW",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "AUT2025",
-      "course": "LAW E 583",
-      "courseTitle": "GLOBALIZATIN & LAW",
-      "section": "D",
       "instructor": "TBA"
     },
     {
@@ -9382,7 +9382,7 @@
       "course": "LAW E 595",
       "courseTitle": "ANIMAL LAW",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Wale,Carla"
     },
     {
       "campus": "S",
@@ -9392,7 +9392,7 @@
       "course": "LAW E 595",
       "courseTitle": "ANIMAL LAW",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Wale,Carla"
     },
     {
       "campus": "S",
@@ -9432,7 +9432,7 @@
       "course": "LAW E 507",
       "courseTitle": "ACCESS TO JUST SMNR",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Winn,Jane K"
     },
     {
       "campus": "S",
@@ -9442,7 +9442,27 @@
       "course": "LAW E 507",
       "courseTitle": "ACCESS TO JUST SMNR",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Winn,Jane K"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "WIN2026",
+      "course": "LAW E 508",
+      "courseTitle": "PERSUASIVE WRITING",
+      "section": "G",
+      "instructor": "Celebrezze,Jaclyn"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "WIN2026",
+      "course": "LAW E 508",
+      "courseTitle": "PERSUASIVE WRITING",
+      "section": "H",
+      "instructor": "Celebrezze,Jaclyn"
     },
     {
       "campus": "S",
@@ -9481,16 +9501,6 @@
       "term": "WIN2026",
       "course": "LAW E 508",
       "courseTitle": "PERSUASIVE WRITING",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "WIN2026",
-      "course": "LAW E 508",
-      "courseTitle": "PERSUASIVE WRITING",
       "section": "E",
       "instructor": "TBA"
     },
@@ -9511,18 +9521,8 @@
       "term": "WIN2026",
       "course": "LAW E 508",
       "courseTitle": "PERSUASIVE WRITING",
-      "section": "G",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "WIN2026",
-      "course": "LAW E 508",
-      "courseTitle": "PERSUASIVE WRITING",
-      "section": "H",
-      "instructor": "TBA"
+      "section": "D",
+      "instructor": "Wolff,Eric"
     },
     {
       "campus": "S",
@@ -9551,8 +9551,8 @@
       "term": "WIN2026",
       "course": "LAW E 523",
       "courseTitle": "ENTREPRE LAW CLINC",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Lemker,Jeannine D."
     },
     {
       "campus": "S",
@@ -9561,7 +9561,7 @@
       "term": "WIN2026",
       "course": "LAW E 523",
       "courseTitle": "ENTREPRE LAW CLINC",
-      "section": "B",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -9661,28 +9661,8 @@
       "term": "WIN2026",
       "course": "LAW E 544",
       "courseTitle": "PRIVACY LAW",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "WIN2026",
-      "course": "LAW E 544",
-      "courseTitle": "PRIVACY LAW",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "WIN2026",
-      "course": "LAW E 544",
-      "courseTitle": "PRIVACY LAW",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Hintze,Mike"
     },
     {
       "campus": "S",
@@ -9692,7 +9672,7 @@
       "course": "LAW E 544",
       "courseTitle": "PRIVACY LAW",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Hintze,Mike"
     },
     {
       "campus": "S",
@@ -9702,15 +9682,15 @@
       "course": "LAW E 544",
       "courseTitle": "PRIVACY LAW",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Hintze,Mike"
     },
     {
       "campus": "S",
       "dept": "lawe",
       "deptName": "Law E",
       "term": "WIN2026",
-      "course": "LAW E 545",
-      "courseTitle": "INTL TRADE LAW",
+      "course": "LAW E 544",
+      "courseTitle": "PRIVACY LAW",
       "section": "A",
       "instructor": "TBA"
     },
@@ -9719,8 +9699,8 @@
       "dept": "lawe",
       "deptName": "Law E",
       "term": "WIN2026",
-      "course": "LAW E 545",
-      "courseTitle": "INTL TRADE LAW",
+      "course": "LAW E 544",
+      "courseTitle": "PRIVACY LAW",
       "section": "B",
       "instructor": "TBA"
     },
@@ -9732,7 +9712,7 @@
       "course": "LAW E 545",
       "courseTitle": "INTL TRADE LAW",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Ji,Mason"
     },
     {
       "campus": "S",
@@ -9742,7 +9722,7 @@
       "course": "LAW E 545",
       "courseTitle": "INTL TRADE LAW",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Ji,Mason"
     },
     {
       "campus": "S",
@@ -9752,15 +9732,15 @@
       "course": "LAW E 545",
       "courseTitle": "INTL TRADE LAW",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Ji,Mason"
     },
     {
       "campus": "S",
       "dept": "lawe",
       "deptName": "Law E",
       "term": "WIN2026",
-      "course": "LAW E 554",
-      "courseTitle": "TECH PUB POL CLINIC",
+      "course": "LAW E 545",
+      "courseTitle": "INTL TRADE LAW",
       "section": "A",
       "instructor": "TBA"
     },
@@ -9769,8 +9749,8 @@
       "dept": "lawe",
       "deptName": "Law E",
       "term": "WIN2026",
-      "course": "LAW E 554",
-      "courseTitle": "TECH PUB POL CLINIC",
+      "course": "LAW E 545",
+      "courseTitle": "INTL TRADE LAW",
       "section": "B",
       "instructor": "TBA"
     },
@@ -9781,7 +9761,27 @@
       "term": "WIN2026",
       "course": "LAW E 554",
       "courseTitle": "TECH PUB POL CLINIC",
+      "section": "B",
+      "instructor": "Hutson,Jevan A"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "WIN2026",
+      "course": "LAW E 554",
+      "courseTitle": "TECH PUB POL CLINIC",
       "section": "C",
+      "instructor": "Hutson,Jevan A"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "WIN2026",
+      "course": "LAW E 554",
+      "courseTitle": "TECH PUB POL CLINIC",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -9811,6 +9811,26 @@
       "term": "WIN2026",
       "course": "LAW E 557",
       "courseTitle": "HUMAN RIGHTS ADVOCY",
+      "section": "C",
+      "instructor": "Gonza,Alejandra"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "WIN2026",
+      "course": "LAW E 557",
+      "courseTitle": "HUMAN RIGHTS ADVOCY",
+      "section": "D",
+      "instructor": "Gonza,Alejandra"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "WIN2026",
+      "course": "LAW E 557",
+      "courseTitle": "HUMAN RIGHTS ADVOCY",
       "section": "A",
       "instructor": "TBA"
     },
@@ -9829,20 +9849,20 @@
       "dept": "lawe",
       "deptName": "Law E",
       "term": "WIN2026",
-      "course": "LAW E 557",
-      "courseTitle": "HUMAN RIGHTS ADVOCY",
+      "course": "LAW E 572",
+      "courseTitle": "RACE AND THE LAW",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Chin,Jeremiah"
     },
     {
       "campus": "S",
       "dept": "lawe",
       "deptName": "Law E",
       "term": "WIN2026",
-      "course": "LAW E 557",
-      "courseTitle": "HUMAN RIGHTS ADVOCY",
+      "course": "LAW E 572",
+      "courseTitle": "RACE AND THE LAW",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Chin,Jeremiah"
     },
     {
       "campus": "S",
@@ -9862,26 +9882,6 @@
       "course": "LAW E 572",
       "courseTitle": "RACE AND THE LAW",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "WIN2026",
-      "course": "LAW E 572",
-      "courseTitle": "RACE AND THE LAW",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "WIN2026",
-      "course": "LAW E 572",
-      "courseTitle": "RACE AND THE LAW",
-      "section": "D",
       "instructor": "TBA"
     },
     {
@@ -9901,18 +9901,8 @@
       "term": "WIN2026",
       "course": "LAW E 576",
       "courseTitle": "PERSUASIVE ORAL COM",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "WIN2026",
-      "course": "LAW E 576",
-      "courseTitle": "PERSUASIVE ORAL COM",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Murphy,Brennan Patrick"
     },
     {
       "campus": "S",
@@ -9922,15 +9912,15 @@
       "course": "LAW E 576",
       "courseTitle": "PERSUASIVE ORAL COM",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Murphy,Brennan Patrick"
     },
     {
       "campus": "S",
       "dept": "lawe",
       "deptName": "Law E",
       "term": "WIN2026",
-      "course": "LAW E 578",
-      "courseTitle": "FDN LAW BAR EXAM",
+      "course": "LAW E 576",
+      "courseTitle": "PERSUASIVE ORAL COM",
       "section": "A",
       "instructor": "TBA"
     },
@@ -9941,18 +9931,8 @@
       "term": "WIN2026",
       "course": "LAW E 578",
       "courseTitle": "FDN LAW BAR EXAM",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "WIN2026",
-      "course": "LAW E 578",
-      "courseTitle": "FDN LAW BAR EXAM",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Sanford,Carrie"
     },
     {
       "campus": "S",
@@ -9962,6 +9942,26 @@
       "course": "LAW E 578",
       "courseTitle": "FDN LAW BAR EXAM",
       "section": "D",
+      "instructor": "Sanford,Carrie"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "WIN2026",
+      "course": "LAW E 578",
+      "courseTitle": "FDN LAW BAR EXAM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "WIN2026",
+      "course": "LAW E 578",
+      "courseTitle": "FDN LAW BAR EXAM",
+      "section": "B",
       "instructor": "TBA"
     },
     {
@@ -9982,7 +9982,7 @@
       "course": "LAW E 584",
       "courseTitle": "MJ PROF DEV SEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kuszler,Patricia C."
     },
     {
       "campus": "S",
@@ -9992,7 +9992,37 @@
       "course": "LAW E 584",
       "courseTitle": "MJ PROF DEV SEM",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Kuszler,Patricia C."
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "WIN2026",
+      "course": "LAW E 585",
+      "courseTitle": "TRANSGNDR RIGHTS SEM",
+      "section": "C",
+      "instructor": "Leavitt,Adrien"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "WIN2026",
+      "course": "LAW E 585",
+      "courseTitle": "TRANSGNDR RIGHTS SEM",
+      "section": "D",
+      "instructor": "Leavitt,Adrien"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "WIN2026",
+      "course": "LAW E 585",
+      "courseTitle": "TRANSGNDR RIGHTS SEM",
+      "section": "E",
+      "instructor": "Leavitt,Adrien"
     },
     {
       "campus": "S",
@@ -10012,36 +10042,6 @@
       "course": "LAW E 585",
       "courseTitle": "TRANSGNDR RIGHTS SEM",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "WIN2026",
-      "course": "LAW E 585",
-      "courseTitle": "TRANSGNDR RIGHTS SEM",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "WIN2026",
-      "course": "LAW E 585",
-      "courseTitle": "TRANSGNDR RIGHTS SEM",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "WIN2026",
-      "course": "LAW E 585",
-      "courseTitle": "TRANSGNDR RIGHTS SEM",
-      "section": "E",
       "instructor": "TBA"
     },
     {
@@ -10102,7 +10102,27 @@
       "course": "LAW E 596",
       "courseTitle": "WILDLIFE LAW SEM",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Wildermuth,Todd A"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "WIN2026",
+      "course": "LAW E 598",
+      "courseTitle": "CLIMATE CHANGE LAW",
+      "section": "C",
+      "instructor": "Brown,Rodney L"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "WIN2026",
+      "course": "LAW E 598",
+      "courseTitle": "CLIMATE CHANGE LAW",
+      "section": "D",
+      "instructor": "Brown,Rodney L"
     },
     {
       "campus": "S",
@@ -10122,26 +10142,6 @@
       "course": "LAW E 598",
       "courseTitle": "CLIMATE CHANGE LAW",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "WIN2026",
-      "course": "LAW E 598",
-      "courseTitle": "CLIMATE CHANGE LAW",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "WIN2026",
-      "course": "LAW E 598",
-      "courseTitle": "CLIMATE CHANGE LAW",
-      "section": "D",
       "instructor": "TBA"
     },
     {
@@ -10161,6 +10161,36 @@
       "term": "SPR2026",
       "course": "LAW E 502",
       "courseTitle": "WHITE COLLAR CRIME",
+      "section": "C",
+      "instructor": "Lemker,Jeannine D."
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "SPR2026",
+      "course": "LAW E 502",
+      "courseTitle": "WHITE COLLAR CRIME",
+      "section": "D",
+      "instructor": "Lemker,Jeannine D."
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "SPR2026",
+      "course": "LAW E 502",
+      "courseTitle": "WHITE COLLAR CRIME",
+      "section": "E",
+      "instructor": "Lemker,Jeannine D."
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "SPR2026",
+      "course": "LAW E 502",
+      "courseTitle": "WHITE COLLAR CRIME",
       "section": "A",
       "instructor": "TBA"
     },
@@ -10172,86 +10202,6 @@
       "course": "LAW E 502",
       "courseTitle": "WHITE COLLAR CRIME",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "SPR2026",
-      "course": "LAW E 502",
-      "courseTitle": "WHITE COLLAR CRIME",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "SPR2026",
-      "course": "LAW E 502",
-      "courseTitle": "WHITE COLLAR CRIME",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "SPR2026",
-      "course": "LAW E 502",
-      "courseTitle": "WHITE COLLAR CRIME",
-      "section": "E",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "SPR2026",
-      "course": "LAW E 508",
-      "courseTitle": "PERSUASIVE WRITING",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "SPR2026",
-      "course": "LAW E 508",
-      "courseTitle": "PERSUASIVE WRITING",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "SPR2026",
-      "course": "LAW E 508",
-      "courseTitle": "PERSUASIVE WRITING",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "SPR2026",
-      "course": "LAW E 508",
-      "courseTitle": "PERSUASIVE WRITING",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "SPR2026",
-      "course": "LAW E 508",
-      "courseTitle": "PERSUASIVE WRITING",
-      "section": "E",
       "instructor": "TBA"
     },
     {
@@ -10262,7 +10212,7 @@
       "course": "LAW E 508",
       "courseTitle": "PERSUASIVE WRITING",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Myhre,Theodore A"
     },
     {
       "campus": "S",
@@ -10272,6 +10222,16 @@
       "course": "LAW E 508",
       "courseTitle": "PERSUASIVE WRITING",
       "section": "G",
+      "instructor": "Myhre,Theodore A"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "SPR2026",
+      "course": "LAW E 508",
+      "courseTitle": "PERSUASIVE WRITING",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -10281,28 +10241,48 @@
       "term": "SPR2026",
       "course": "LAW E 508",
       "courseTitle": "PERSUASIVE WRITING",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "SPR2026",
+      "course": "LAW E 508",
+      "courseTitle": "PERSUASIVE WRITING",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "SPR2026",
+      "course": "LAW E 508",
+      "courseTitle": "PERSUASIVE WRITING",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "SPR2026",
+      "course": "LAW E 508",
+      "courseTitle": "PERSUASIVE WRITING",
+      "section": "B",
+      "instructor": "Zaragoza,Nancy C."
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "SPR2026",
+      "course": "LAW E 508",
+      "courseTitle": "PERSUASIVE WRITING",
       "section": "H",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "SPR2026",
-      "course": "LAW E 512",
-      "courseTitle": "RULE OF LAW",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "SPR2026",
-      "course": "LAW E 512",
-      "courseTitle": "RULE OF LAW",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Zaragoza,Nancy C."
     },
     {
       "campus": "S",
@@ -10312,7 +10292,7 @@
       "course": "LAW E 512",
       "courseTitle": "RULE OF LAW",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Bosch,Anna B."
     },
     {
       "campus": "S",
@@ -10322,6 +10302,26 @@
       "course": "LAW E 512",
       "courseTitle": "RULE OF LAW",
       "section": "D",
+      "instructor": "Bosch,Anna B."
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "SPR2026",
+      "course": "LAW E 512",
+      "courseTitle": "RULE OF LAW",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "SPR2026",
+      "course": "LAW E 512",
+      "courseTitle": "RULE OF LAW",
+      "section": "B",
       "instructor": "TBA"
     },
     {
@@ -10342,7 +10342,7 @@
       "course": "LAW E 515",
       "courseTitle": "POST-CONVCTN REVIEW",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Wagner,Ann K."
     },
     {
       "campus": "S",
@@ -10352,7 +10352,17 @@
       "course": "LAW E 515",
       "courseTitle": "POST-CONVCTN REVIEW",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Wagner,Ann K."
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "SPR2026",
+      "course": "LAW E 516",
+      "courseTitle": "CRIM PRO: ADJUDICAT",
+      "section": "C",
+      "instructor": "Brunner,Helen J."
     },
     {
       "campus": "S",
@@ -10372,16 +10382,6 @@
       "course": "LAW E 516",
       "courseTitle": "CRIM PRO: ADJUDICAT",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "SPR2026",
-      "course": "LAW E 516",
-      "courseTitle": "CRIM PRO: ADJUDICAT",
-      "section": "C",
       "instructor": "TBA"
     },
     {
@@ -10411,6 +10411,26 @@
       "term": "SPR2026",
       "course": "LAW E 525",
       "courseTitle": "POVERTY LAW",
+      "section": "C",
+      "instructor": "Chazaro,Angelica"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "SPR2026",
+      "course": "LAW E 525",
+      "courseTitle": "POVERTY LAW",
+      "section": "D",
+      "instructor": "Chazaro,Angelica"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "SPR2026",
+      "course": "LAW E 525",
+      "courseTitle": "POVERTY LAW",
       "section": "A",
       "instructor": "TBA"
     },
@@ -10422,26 +10442,6 @@
       "course": "LAW E 525",
       "courseTitle": "POVERTY LAW",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "SPR2026",
-      "course": "LAW E 525",
-      "courseTitle": "POVERTY LAW",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "SPR2026",
-      "course": "LAW E 525",
-      "courseTitle": "POVERTY LAW",
-      "section": "D",
       "instructor": "TBA"
     },
     {
@@ -10541,6 +10541,26 @@
       "term": "SPR2026",
       "course": "LAW E 531",
       "courseTitle": "INDIGENOUS ECON DEV",
+      "section": "C",
+      "instructor": "Mills,Monte"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "SPR2026",
+      "course": "LAW E 531",
+      "courseTitle": "INDIGENOUS ECON DEV",
+      "section": "D",
+      "instructor": "Mills,Monte"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "SPR2026",
+      "course": "LAW E 531",
+      "courseTitle": "INDIGENOUS ECON DEV",
       "section": "A",
       "instructor": "TBA"
     },
@@ -10552,26 +10572,6 @@
       "course": "LAW E 531",
       "courseTitle": "INDIGENOUS ECON DEV",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "SPR2026",
-      "course": "LAW E 531",
-      "courseTitle": "INDIGENOUS ECON DEV",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "SPR2026",
-      "course": "LAW E 531",
-      "courseTitle": "INDIGENOUS ECON DEV",
-      "section": "D",
       "instructor": "TBA"
     },
     {
@@ -10601,6 +10601,16 @@
       "term": "SPR2026",
       "course": "LAW E 536",
       "courseTitle": "SMALL PRACTICE ISS",
+      "section": "C",
+      "instructor": "Benjamin,G Andrew H"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "SPR2026",
+      "course": "LAW E 536",
+      "courseTitle": "SMALL PRACTICE ISS",
       "section": "A",
       "instructor": "TBA"
     },
@@ -10619,10 +10629,20 @@
       "dept": "lawe",
       "deptName": "Law E",
       "term": "SPR2026",
-      "course": "LAW E 536",
-      "courseTitle": "SMALL PRACTICE ISS",
+      "course": "LAW E 541",
+      "courseTitle": "CANNABIS LAW SEM",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Boxx,Karen E"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "SPR2026",
+      "course": "LAW E 541",
+      "courseTitle": "CANNABIS LAW SEM",
+      "section": "D",
+      "instructor": "Boxx,Karen E"
     },
     {
       "campus": "S",
@@ -10642,26 +10662,6 @@
       "course": "LAW E 541",
       "courseTitle": "CANNABIS LAW SEM",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "SPR2026",
-      "course": "LAW E 541",
-      "courseTitle": "CANNABIS LAW SEM",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "SPR2026",
-      "course": "LAW E 541",
-      "courseTitle": "CANNABIS LAW SEM",
-      "section": "D",
       "instructor": "TBA"
     },
     {
@@ -10692,7 +10692,7 @@
       "course": "LAW E 546",
       "courseTitle": "INTL COMM ARBITRATN",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Zang,Dongsheng"
     },
     {
       "campus": "S",
@@ -10702,7 +10702,7 @@
       "course": "LAW E 546",
       "courseTitle": "INTL COMM ARBITRATN",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Zang,Dongsheng"
     },
     {
       "campus": "S",
@@ -10742,36 +10742,6 @@
       "course": "LAW E 553",
       "courseTitle": "TECH LAW PUB POLICY",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "SPR2026",
-      "course": "LAW E 553",
-      "courseTitle": "TECH LAW PUB POLICY",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "SPR2026",
-      "course": "LAW E 553",
-      "courseTitle": "TECH LAW PUB POLICY",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "SPR2026",
-      "course": "LAW E 553",
-      "courseTitle": "TECH LAW PUB POLICY",
-      "section": "E",
       "instructor": "TBA"
     },
     {
@@ -10789,10 +10759,30 @@
       "dept": "lawe",
       "deptName": "Law E",
       "term": "SPR2026",
-      "course": "LAW E 554",
-      "courseTitle": "TECH PUB POL CLINIC",
-      "section": "A",
-      "instructor": "TBA"
+      "course": "LAW E 553",
+      "courseTitle": "TECH LAW PUB POLICY",
+      "section": "C",
+      "instructor": "Wale,Carla"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "SPR2026",
+      "course": "LAW E 553",
+      "courseTitle": "TECH LAW PUB POLICY",
+      "section": "D",
+      "instructor": "Wale,Carla"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "SPR2026",
+      "course": "LAW E 553",
+      "courseTitle": "TECH LAW PUB POLICY",
+      "section": "E",
+      "instructor": "Wale,Carla"
     },
     {
       "campus": "S",
@@ -10802,7 +10792,7 @@
       "course": "LAW E 554",
       "courseTitle": "TECH PUB POL CLINIC",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Hutson,Jevan A"
     },
     {
       "campus": "S",
@@ -10812,6 +10802,16 @@
       "course": "LAW E 554",
       "courseTitle": "TECH PUB POL CLINIC",
       "section": "C",
+      "instructor": "Hutson,Jevan A"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "SPR2026",
+      "course": "LAW E 554",
+      "courseTitle": "TECH PUB POL CLINIC",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -10831,6 +10831,26 @@
       "term": "SPR2026",
       "course": "LAW E 557",
       "courseTitle": "HUMAN RIGHTS ADVOCY",
+      "section": "C",
+      "instructor": "Gonza,Alejandra"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "SPR2026",
+      "course": "LAW E 557",
+      "courseTitle": "HUMAN RIGHTS ADVOCY",
+      "section": "D",
+      "instructor": "Gonza,Alejandra"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "SPR2026",
+      "course": "LAW E 557",
+      "courseTitle": "HUMAN RIGHTS ADVOCY",
       "section": "A",
       "instructor": "TBA"
     },
@@ -10842,26 +10862,6 @@
       "course": "LAW E 557",
       "courseTitle": "HUMAN RIGHTS ADVOCY",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "SPR2026",
-      "course": "LAW E 557",
-      "courseTitle": "HUMAN RIGHTS ADVOCY",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "SPR2026",
-      "course": "LAW E 557",
-      "courseTitle": "HUMAN RIGHTS ADVOCY",
-      "section": "D",
       "instructor": "TBA"
     },
     {
@@ -10891,28 +10891,8 @@
       "term": "SPR2026",
       "course": "LAW E 578",
       "courseTitle": "FDN LAW BAR EXAM",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "SPR2026",
-      "course": "LAW E 578",
-      "courseTitle": "FDN LAW BAR EXAM",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "lawe",
-      "deptName": "Law E",
-      "term": "SPR2026",
-      "course": "LAW E 578",
-      "courseTitle": "FDN LAW BAR EXAM",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Sanford,Carrie"
     },
     {
       "campus": "S",
@@ -10922,7 +10902,7 @@
       "course": "LAW E 578",
       "courseTitle": "FDN LAW BAR EXAM",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Sanford,Carrie"
     },
     {
       "campus": "S",
@@ -10932,6 +10912,26 @@
       "course": "LAW E 578",
       "courseTitle": "FDN LAW BAR EXAM",
       "section": "E",
+      "instructor": "Sanford,Carrie"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "SPR2026",
+      "course": "LAW E 578",
+      "courseTitle": "FDN LAW BAR EXAM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "SPR2026",
+      "course": "LAW E 578",
+      "courseTitle": "FDN LAW BAR EXAM",
+      "section": "B",
       "instructor": "TBA"
     },
     {
@@ -10942,7 +10942,7 @@
       "course": "LAW E 584",
       "courseTitle": "MJ PROF DEV SEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kuszler,Patricia C."
     },
     {
       "campus": "S",
@@ -10952,7 +10952,7 @@
       "course": "LAW E 584",
       "courseTitle": "MJ PROF DEV SEM",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Kuszler,Patricia C."
     },
     {
       "campus": "S",

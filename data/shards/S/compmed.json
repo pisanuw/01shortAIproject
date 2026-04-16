@@ -1,7 +1,2858 @@
 {
-  "generatedAt": "2026-04-15T16:28:00Z",
+  "generatedAt": "2026-04-16T02:57:15Z",
   "campus": "S",
   "dept": "compmed",
   "deptName": "Comparative Medicine",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2020",
+      "course": "C MED 499",
+      "courseTitle": "UNDERGRAD LAB RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2020",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2020",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2020",
+      "course": "C MED 514",
+      "courseTitle": "COMP PATH CONF",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2020",
+      "course": "C MED 516",
+      "courseTitle": "RES AND LIT REV SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2020",
+      "course": "C MED 518",
+      "courseTitle": "CLIN CONF COMP PATH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2020",
+      "course": "C MED 520",
+      "courseTitle": "BIOL OF LAB ANIMALS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2020",
+      "course": "C MED 530",
+      "courseTitle": "LAB ANIM DISEASES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2020",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2020",
+      "course": "C MED 600",
+      "courseTitle": "RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2020",
+      "course": "C MED 601",
+      "courseTitle": "INTERNSHIP ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2020",
+      "course": "C MED 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2021",
+      "course": "C MED 499",
+      "courseTitle": "UNDERGRAD LAB RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2021",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2021",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2021",
+      "course": "C MED 514",
+      "courseTitle": "COMP PATH CONF",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2021",
+      "course": "C MED 516",
+      "courseTitle": "RES AND LIT REV SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2021",
+      "course": "C MED 518",
+      "courseTitle": "CLIN CONF COMP PATH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2021",
+      "course": "C MED 521",
+      "courseTitle": "BIOL OF LAB ANIMALS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2021",
+      "course": "C MED 531",
+      "courseTitle": "LAB ANIM DISEASES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2021",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2021",
+      "course": "C MED 592",
+      "courseTitle": "COMPARATIVE PATH",
+      "section": "A",
+      "instructor": "Frevert,C"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2021",
+      "course": "C MED 600",
+      "courseTitle": "RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2021",
+      "course": "C MED 601",
+      "courseTitle": "INTERNSHIP ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2021",
+      "course": "C MED 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2021",
+      "course": "C MED 499",
+      "courseTitle": "UNDERGRAD LAB RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2021",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2021",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2021",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2021",
+      "course": "C MED 514",
+      "courseTitle": "COMP PATH CONF",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2021",
+      "course": "C MED 516",
+      "courseTitle": "RES AND LIT REV SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2021",
+      "course": "C MED 518",
+      "courseTitle": "CLIN CONF COMP PATH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2021",
+      "course": "C MED 540",
+      "courseTitle": "ANIMAL MODELS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2021",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "B",
+      "instructor": "Iritani,Brian M."
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2021",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2021",
+      "course": "C MED 600",
+      "courseTitle": "RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2021",
+      "course": "C MED 601",
+      "courseTitle": "INTERNSHIP ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2021",
+      "course": "C MED 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2021",
+      "course": "C MED 499",
+      "courseTitle": "UNDERGRAD LAB RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2021",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2021",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2021",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2021",
+      "course": "C MED 514",
+      "courseTitle": "COMP PATH CONF",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2021",
+      "course": "C MED 516",
+      "courseTitle": "RES AND LIT REV SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2021",
+      "course": "C MED 518",
+      "courseTitle": "CLIN CONF COMP PATH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2021",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2021",
+      "course": "C MED 600",
+      "courseTitle": "RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2021",
+      "course": "C MED 601",
+      "courseTitle": "INTERNSHIP ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2021",
+      "course": "C MED 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2021",
+      "course": "C MED 499",
+      "courseTitle": "UNDERGRAD LAB RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2021",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2021",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2021",
+      "course": "C MED 514",
+      "courseTitle": "COMP PATH CONF",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2021",
+      "course": "C MED 516",
+      "courseTitle": "RES AND LIT REV SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2021",
+      "course": "C MED 518",
+      "courseTitle": "CLIN CONF COMP PATH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2021",
+      "course": "C MED 520",
+      "courseTitle": "BIOL OF LAB ANIMALS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2021",
+      "course": "C MED 530",
+      "courseTitle": "LAB ANIM DISEASES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2021",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2021",
+      "course": "C MED 600",
+      "courseTitle": "RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2021",
+      "course": "C MED 601",
+      "courseTitle": "INTERNSHIP ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2021",
+      "course": "C MED 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2022",
+      "course": "C MED 499",
+      "courseTitle": "UNDERGRAD LAB RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2022",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2022",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2022",
+      "course": "C MED 514",
+      "courseTitle": "COMP PATH CONF",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2022",
+      "course": "C MED 516",
+      "courseTitle": "RES AND LIT REV SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2022",
+      "course": "C MED 518",
+      "courseTitle": "CLIN CONF COMP PATH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2022",
+      "course": "C MED 521",
+      "courseTitle": "BIOL OF LAB ANIMALS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2022",
+      "course": "C MED 531",
+      "courseTitle": "LAB ANIM DISEASES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2022",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2022",
+      "course": "C MED 592",
+      "courseTitle": "COMPARATIVE PATH",
+      "section": "A",
+      "instructor": "Frevert,C"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2022",
+      "course": "C MED 600",
+      "courseTitle": "RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2022",
+      "course": "C MED 601",
+      "courseTitle": "INTERNSHIP ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2022",
+      "course": "C MED 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2022",
+      "course": "C MED 499",
+      "courseTitle": "UNDERGRAD LAB RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2022",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2022",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2022",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2022",
+      "course": "C MED 514",
+      "courseTitle": "COMP PATH CONF",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2022",
+      "course": "C MED 516",
+      "courseTitle": "RES AND LIT REV SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2022",
+      "course": "C MED 518",
+      "courseTitle": "CLIN CONF COMP PATH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2022",
+      "course": "C MED 540",
+      "courseTitle": "ANIMAL MODELS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2022",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "B",
+      "instructor": "Iritani,B"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2022",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2022",
+      "course": "C MED 600",
+      "courseTitle": "RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2022",
+      "course": "C MED 601",
+      "courseTitle": "INTERNSHIP ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2022",
+      "course": "C MED 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2022",
+      "course": "C MED 499",
+      "courseTitle": "UNDERGRAD LAB RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2022",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2022",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2022",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2022",
+      "course": "C MED 514",
+      "courseTitle": "COMP PATH CONF",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2022",
+      "course": "C MED 516",
+      "courseTitle": "RES AND LIT REV SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2022",
+      "course": "C MED 518",
+      "courseTitle": "CLIN CONF COMP PATH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2022",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2022",
+      "course": "C MED 600",
+      "courseTitle": "RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2022",
+      "course": "C MED 601",
+      "courseTitle": "INTERNSHIP ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2022",
+      "course": "C MED 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2022",
+      "course": "C MED 499",
+      "courseTitle": "UNDERGRAD LAB RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2022",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2022",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2022",
+      "course": "C MED 514",
+      "courseTitle": "COMP PATH CONF",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2022",
+      "course": "C MED 516",
+      "courseTitle": "RES AND LIT REV SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2022",
+      "course": "C MED 518",
+      "courseTitle": "CLIN CONF COMP PATH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2022",
+      "course": "C MED 520",
+      "courseTitle": "BIOL OF LAB ANIMALS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2022",
+      "course": "C MED 530",
+      "courseTitle": "LAB ANIM DISEASES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2022",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2022",
+      "course": "C MED 600",
+      "courseTitle": "RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2022",
+      "course": "C MED 601",
+      "courseTitle": "INTERNSHIP ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2022",
+      "course": "C MED 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2023",
+      "course": "C MED 499",
+      "courseTitle": "UNDERGRAD LAB RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2023",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2023",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2023",
+      "course": "C MED 514",
+      "courseTitle": "COMP PATH CONF",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2023",
+      "course": "C MED 516",
+      "courseTitle": "RES AND LIT REV SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2023",
+      "course": "C MED 518",
+      "courseTitle": "CLIN CONF COMP PATH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2023",
+      "course": "C MED 521",
+      "courseTitle": "BIOL OF LAB ANIMALS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2023",
+      "course": "C MED 531",
+      "courseTitle": "LAB ANIM DISEASES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2023",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2023",
+      "course": "C MED 592",
+      "courseTitle": "COMPARATIVE PATH",
+      "section": "A",
+      "instructor": "Frevert,C"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2023",
+      "course": "C MED 600",
+      "courseTitle": "RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2023",
+      "course": "C MED 601",
+      "courseTitle": "INTERNSHIP ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2023",
+      "course": "C MED 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2023",
+      "course": "C MED 407",
+      "courseTitle": "PRNC IN-VIVO SCI",
+      "section": "A",
+      "instructor": "Brabb,Thea L"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2023",
+      "course": "C MED 499",
+      "courseTitle": "UNDERGRAD LAB RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2023",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2023",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2023",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2023",
+      "course": "C MED 514",
+      "courseTitle": "COMP PATH CONF",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2023",
+      "course": "C MED 516",
+      "courseTitle": "RES AND LIT REV SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2023",
+      "course": "C MED 518",
+      "courseTitle": "CLIN CONF COMP PATH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2023",
+      "course": "C MED 540",
+      "courseTitle": "ANIMAL MODELS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2023",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "B",
+      "instructor": "Iritani,Brian M."
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2023",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2023",
+      "course": "C MED 600",
+      "courseTitle": "RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2023",
+      "course": "C MED 601",
+      "courseTitle": "INTERNSHIP ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2023",
+      "course": "C MED 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2023",
+      "course": "C MED 499",
+      "courseTitle": "UNDERGRAD LAB RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2023",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2023",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2023",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2023",
+      "course": "C MED 514",
+      "courseTitle": "COMP PATH CONF",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2023",
+      "course": "C MED 516",
+      "courseTitle": "RES AND LIT REV SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2023",
+      "course": "C MED 518",
+      "courseTitle": "CLIN CONF COMP PATH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2023",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2023",
+      "course": "C MED 600",
+      "courseTitle": "RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2023",
+      "course": "C MED 601",
+      "courseTitle": "INTERNSHIP ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2023",
+      "course": "C MED 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2023",
+      "course": "C MED 499",
+      "courseTitle": "UNDERGRAD LAB RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2023",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2023",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2023",
+      "course": "C MED 514",
+      "courseTitle": "COMP PATH CONF",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2023",
+      "course": "C MED 516",
+      "courseTitle": "RES AND LIT REV SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2023",
+      "course": "C MED 518",
+      "courseTitle": "CLIN CONF COMP PATH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2023",
+      "course": "C MED 520",
+      "courseTitle": "BIOL OF LAB ANIMALS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2023",
+      "course": "C MED 530",
+      "courseTitle": "LAB ANIM DISEASES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2023",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2023",
+      "course": "C MED 600",
+      "courseTitle": "RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2023",
+      "course": "C MED 601",
+      "courseTitle": "INTERNSHIP ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2023",
+      "course": "C MED 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2024",
+      "course": "C MED 499",
+      "courseTitle": "UNDERGRAD LAB RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2024",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2024",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2024",
+      "course": "C MED 514",
+      "courseTitle": "COMP PATH CONF",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2024",
+      "course": "C MED 516",
+      "courseTitle": "RES AND LIT REV SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2024",
+      "course": "C MED 518",
+      "courseTitle": "CLIN CONF COMP PATH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2024",
+      "course": "C MED 521",
+      "courseTitle": "BIOL OF LAB ANIMALS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2024",
+      "course": "C MED 531",
+      "courseTitle": "LAB ANIM DISEASES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2024",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2024",
+      "course": "C MED 592",
+      "courseTitle": "COMPARATIVE PATH",
+      "section": "A",
+      "instructor": "Frevert,Charles W."
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2024",
+      "course": "C MED 600",
+      "courseTitle": "RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2024",
+      "course": "C MED 601",
+      "courseTitle": "INTERNSHIP ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2024",
+      "course": "C MED 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2024",
+      "course": "C MED 407",
+      "courseTitle": "PRNC IN-VIVO SCI",
+      "section": "A",
+      "instructor": "Brabb,Thea L"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2024",
+      "course": "C MED 499",
+      "courseTitle": "UNDERGRAD LAB RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2024",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2024",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2024",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2024",
+      "course": "C MED 514",
+      "courseTitle": "COMP PATH CONF",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2024",
+      "course": "C MED 516",
+      "courseTitle": "RES AND LIT REV SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2024",
+      "course": "C MED 518",
+      "courseTitle": "CLIN CONF COMP PATH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2024",
+      "course": "C MED 540",
+      "courseTitle": "ANIMAL MODELS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2024",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "B",
+      "instructor": "Iritani,Brian M."
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2024",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2024",
+      "course": "C MED 600",
+      "courseTitle": "RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2024",
+      "course": "C MED 601",
+      "courseTitle": "INTERNSHIP ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2024",
+      "course": "C MED 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2024",
+      "course": "C MED 499",
+      "courseTitle": "UNDERGRAD LAB RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2024",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2024",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2024",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2024",
+      "course": "C MED 514",
+      "courseTitle": "COMP PATH CONF",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2024",
+      "course": "C MED 516",
+      "courseTitle": "RES AND LIT REV SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2024",
+      "course": "C MED 518",
+      "courseTitle": "CLIN CONF COMP PATH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2024",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2024",
+      "course": "C MED 600",
+      "courseTitle": "RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2024",
+      "course": "C MED 601",
+      "courseTitle": "INTERNSHIP ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2024",
+      "course": "C MED 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2024",
+      "course": "C MED 499",
+      "courseTitle": "UNDERGRAD LAB RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2024",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2024",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2024",
+      "course": "C MED 514",
+      "courseTitle": "COMP PATH CONF",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2024",
+      "course": "C MED 516",
+      "courseTitle": "RES AND LIT REV SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2024",
+      "course": "C MED 518",
+      "courseTitle": "CLIN CONF COMP PATH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2024",
+      "course": "C MED 520",
+      "courseTitle": "BIOL OF LAB ANIMALS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2024",
+      "course": "C MED 530",
+      "courseTitle": "LAB ANIM DISEASES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2024",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2024",
+      "course": "C MED 600",
+      "courseTitle": "RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2024",
+      "course": "C MED 601",
+      "courseTitle": "INTERNSHIP ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2024",
+      "course": "C MED 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2025",
+      "course": "C MED 499",
+      "courseTitle": "UNDERGRAD LAB RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2025",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2025",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2025",
+      "course": "C MED 514",
+      "courseTitle": "COMP PATH CONF",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2025",
+      "course": "C MED 516",
+      "courseTitle": "RES AND LIT REV SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2025",
+      "course": "C MED 518",
+      "courseTitle": "CLIN CONF COMP PATH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2025",
+      "course": "C MED 521",
+      "courseTitle": "BIOL OF LAB ANIMALS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2025",
+      "course": "C MED 531",
+      "courseTitle": "LAB ANIM DISEASES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2025",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2025",
+      "course": "C MED 600",
+      "courseTitle": "RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2025",
+      "course": "C MED 601",
+      "courseTitle": "INTERNSHIP ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2025",
+      "course": "C MED 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2025",
+      "course": "C MED 407",
+      "courseTitle": "PRNC IN-VIVO SCI",
+      "section": "A",
+      "instructor": "Brabb,Thea L"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2025",
+      "course": "C MED 499",
+      "courseTitle": "UNDERGRAD LAB RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2025",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2025",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2025",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2025",
+      "course": "C MED 514",
+      "courseTitle": "COMP PATH CONF",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2025",
+      "course": "C MED 516",
+      "courseTitle": "RES AND LIT REV SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2025",
+      "course": "C MED 518",
+      "courseTitle": "CLIN CONF COMP PATH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2025",
+      "course": "C MED 540",
+      "courseTitle": "ANIMAL MODELS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2025",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "B",
+      "instructor": "Iritani,Brian M."
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2025",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2025",
+      "course": "C MED 600",
+      "courseTitle": "RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2025",
+      "course": "C MED 601",
+      "courseTitle": "INTERNSHIP ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2025",
+      "course": "C MED 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2025",
+      "course": "C MED 499",
+      "courseTitle": "UNDERGRAD LAB RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2025",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2025",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2025",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2025",
+      "course": "C MED 514",
+      "courseTitle": "COMP PATH CONF",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2025",
+      "course": "C MED 516",
+      "courseTitle": "RES AND LIT REV SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2025",
+      "course": "C MED 518",
+      "courseTitle": "CLIN CONF COMP PATH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2025",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2025",
+      "course": "C MED 600",
+      "courseTitle": "RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2025",
+      "course": "C MED 601",
+      "courseTitle": "INTERNSHIP ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SUM2025",
+      "course": "C MED 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2025",
+      "course": "C MED 499",
+      "courseTitle": "UNDERGRAD LAB RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2025",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2025",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2025",
+      "course": "C MED 514",
+      "courseTitle": "COMP PATH CONF",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2025",
+      "course": "C MED 516",
+      "courseTitle": "RES AND LIT REV SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2025",
+      "course": "C MED 518",
+      "courseTitle": "CLIN CONF COMP PATH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2025",
+      "course": "C MED 520",
+      "courseTitle": "BIOL OF LAB ANIMALS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2025",
+      "course": "C MED 530",
+      "courseTitle": "LAB ANIM DISEASES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2025",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2025",
+      "course": "C MED 600",
+      "courseTitle": "RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2025",
+      "course": "C MED 601",
+      "courseTitle": "INTERNSHIP ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "AUT2025",
+      "course": "C MED 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2026",
+      "course": "C MED 499",
+      "courseTitle": "UNDERGRAD LAB RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2026",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2026",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2026",
+      "course": "C MED 514",
+      "courseTitle": "COMP PATH CONF",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2026",
+      "course": "C MED 516",
+      "courseTitle": "RES AND LIT REV SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2026",
+      "course": "C MED 518",
+      "courseTitle": "CLIN CONF COMP PATH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2026",
+      "course": "C MED 521",
+      "courseTitle": "BIOL OF LAB ANIMALS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2026",
+      "course": "C MED 531",
+      "courseTitle": "LAB ANIM DISEASES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2026",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2026",
+      "course": "C MED 600",
+      "courseTitle": "RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2026",
+      "course": "C MED 601",
+      "courseTitle": "INTERNSHIP ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "WIN2026",
+      "course": "C MED 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2026",
+      "course": "C MED 407",
+      "courseTitle": "PRNC IN-VIVO SCI",
+      "section": "A",
+      "instructor": "Brabb,Thea L"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2026",
+      "course": "C MED 499",
+      "courseTitle": "UNDERGRAD LAB RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2026",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2026",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2026",
+      "course": "C MED 512",
+      "courseTitle": "ANAT ANLYS ANM DSES",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2026",
+      "course": "C MED 514",
+      "courseTitle": "COMP PATH CONF",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2026",
+      "course": "C MED 516",
+      "courseTitle": "RES AND LIT REV SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2026",
+      "course": "C MED 518",
+      "courseTitle": "CLIN CONF COMP PATH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2026",
+      "course": "C MED 540",
+      "courseTitle": "ANIMAL MODELS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2026",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "B",
+      "instructor": "Iritani,Brian M."
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2026",
+      "course": "C MED 590",
+      "courseTitle": "SEL TOPICS ANIM MED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2026",
+      "course": "C MED 600",
+      "courseTitle": "RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2026",
+      "course": "C MED 601",
+      "courseTitle": "INTERNSHIP ROTATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "compmed",
+      "deptName": "Comparative Medicine",
+      "term": "SPR2026",
+      "course": "C MED 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
 }

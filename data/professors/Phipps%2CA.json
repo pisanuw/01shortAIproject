@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Phipps%2CA",
+  "professor": "Phipps,A",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "SPR2022",
+      "course": "EPI 592",
+      "courseTitle": "PROGRAM SEMINARS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "WIN2022",
+      "course": "EPI 513",
+      "courseTitle": "EPIDEM METHODS II",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "WIN2021",
+      "course": "EPI 513",
+      "courseTitle": "EPIDEM METHODS II",
+      "section": "A"
+    }
+  ]
+}

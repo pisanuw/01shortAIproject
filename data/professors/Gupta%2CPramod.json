@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Gupta%2CPramod",
+  "professor": "Gupta,Pramod",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2024",
+      "course": "INFO 201",
+      "courseTitle": "DATA SCI FOUNDATIONS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SUM2023",
+      "course": "INFO 201",
+      "courseTitle": "DATA SCI FOUNDATIONS",
+      "section": "A"
+    }
+  ]
+}

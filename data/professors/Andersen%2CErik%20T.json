@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Andersen%2CErik%20T",
+  "professor": "Andersen,Erik T",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2025",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICROECON",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2025",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICROECON",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2024",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2024",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "A"
+    }
+  ]
+}

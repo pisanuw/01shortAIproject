@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Smith%2CA",
+  "professor": "Smith,A",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "SUM2022",
+      "course": "B EDUC 495",
+      "courseTitle": "APPLIED EXPERIENCE",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "SUM2021",
+      "course": "B EDUC 495",
+      "courseTitle": "APPLIED EXPERIENCE",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Sardar%2CFerdous%20Zaman",
+  "professor": "Sardar,Ferdous Zaman",
+  "recordCount": 6,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbecn",
+      "deptName": "Business Economics",
+      "term": "SPR2022",
+      "course": "B BECN 300",
+      "courseTitle": "QUANT METHODS ECON",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2021",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICRO-ECON",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICRO-ECON",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "SPR2021",
+      "course": "B BUS 310",
+      "courseTitle": "MANAGERIAL ECON",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2021",
+      "course": "ECON 300",
+      "courseTitle": "INTERMED MICRO-ECON",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2020",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "M"
+    }
+  ]
+}

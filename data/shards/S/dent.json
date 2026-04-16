@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:58Z",
+  "generatedAt": "2026-04-16T02:57:14Z",
   "campus": "S",
   "dept": "dent",
   "deptName": "Dentistry",
@@ -79,6 +79,46 @@
       "dept": "dent",
       "deptName": "Dentistry",
       "term": "SPR2021",
+      "course": "DENT 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "dent",
+      "deptName": "Dentistry",
+      "term": "SUM2021",
+      "course": "DENT 550P",
+      "courseTitle": "P-SPEC STUDIES DENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "dent",
+      "deptName": "Dentistry",
+      "term": "SUM2021",
+      "course": "DENT 565",
+      "courseTitle": "DENTAL PHOTO & IMAGE",
+      "section": "A",
+      "instructor": "Wang,Johnny"
+    },
+    {
+      "campus": "S",
+      "dept": "dent",
+      "deptName": "Dentistry",
+      "term": "SUM2021",
+      "course": "DENT 690P",
+      "courseTitle": "P-EXT CLIN DENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "dent",
+      "deptName": "Dentistry",
+      "term": "SUM2021",
       "course": "DENT 700",
       "courseTitle": "MASTERS THESIS",
       "section": "A",
@@ -198,6 +238,26 @@
       "campus": "S",
       "dept": "dent",
       "deptName": "Dentistry",
+      "term": "AUT2022",
+      "course": "DENT 550P",
+      "courseTitle": "P-SPEC STUDIES DENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "dent",
+      "deptName": "Dentistry",
+      "term": "AUT2022",
+      "course": "DENT 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "dent",
+      "deptName": "Dentistry",
       "term": "WIN2023",
       "course": "DENT 550P",
       "courseTitle": "P-SPEC STUDIES DENT",
@@ -209,6 +269,96 @@
       "dept": "dent",
       "deptName": "Dentistry",
       "term": "WIN2023",
+      "course": "DENT 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "dent",
+      "deptName": "Dentistry",
+      "term": "SPR2023",
+      "course": "DENT 550P",
+      "courseTitle": "P-SPEC STUDIES DENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "dent",
+      "deptName": "Dentistry",
+      "term": "SPR2023",
+      "course": "DENT 550P",
+      "courseTitle": "P-SPEC STUDIES DENT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "dent",
+      "deptName": "Dentistry",
+      "term": "SPR2023",
+      "course": "DENT 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "dent",
+      "deptName": "Dentistry",
+      "term": "SUM2023",
+      "course": "DENT 550P",
+      "courseTitle": "P-SPEC STUDIES DENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "dent",
+      "deptName": "Dentistry",
+      "term": "SUM2023",
+      "course": "DENT 565",
+      "courseTitle": "DENTAL PHOTO & IMAGE",
+      "section": "A",
+      "instructor": "Wang,Johnny"
+    },
+    {
+      "campus": "S",
+      "dept": "dent",
+      "deptName": "Dentistry",
+      "term": "SUM2023",
+      "course": "DENT 690P",
+      "courseTitle": "P-EXT CLIN DENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "dent",
+      "deptName": "Dentistry",
+      "term": "SUM2023",
+      "course": "DENT 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "dent",
+      "deptName": "Dentistry",
+      "term": "AUT2023",
+      "course": "DENT 550P",
+      "courseTitle": "P-SPEC STUDIES DENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "dent",
+      "deptName": "Dentistry",
+      "term": "AUT2023",
       "course": "DENT 700",
       "courseTitle": "MASTERS THESIS",
       "section": "A",

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "WC%2CSabrina",
+  "professor": "WC,Sabrina",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwlbasw",
+      "deptName": "Social Welfare BASW",
+      "term": "WIN2026",
+      "course": "SOC WF 311",
+      "courseTitle": "SOCL WELF PRAC II",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwk",
+      "deptName": "Social Work",
+      "term": "AUT2025",
+      "course": "SOC W 510",
+      "courseTitle": "SW WITH INDIVIDUALS",
+      "section": "F"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwk",
+      "deptName": "Social Work",
+      "term": "AUT2025",
+      "course": "SOC W 500",
+      "courseTitle": "INTEL & HIST FNDTNS",
+      "section": "B"
+    }
+  ]
+}

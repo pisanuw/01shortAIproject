@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Vijay%2CAvin",
+  "professor": "Vijay,Avin",
+  "recordCount": 5,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "WIN2026",
+      "course": "M E 500",
+      "courseTitle": "ADV COMPOSITE STRUC",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "WIN2026",
+      "course": "A A 535",
+      "courseTitle": "ADV COMPOSITE STRUC",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2025",
+      "course": "A A 530",
+      "courseTitle": "MECHANICS OF SOLIDS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2025",
+      "course": "A A 332",
+      "courseTitle": "AEROSPACE STRUCT II",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "AUT2024",
+      "course": "A A 530",
+      "courseTitle": "MECHANICS OF SOLIDS",
+      "section": "A"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:28:00Z",
+  "generatedAt": "2026-04-16T02:57:15Z",
   "campus": "S",
   "dept": "moleng",
   "deptName": "Molecular Engineering",
@@ -111,8 +111,8 @@
       "term": "WIN2021",
       "course": "MOLENG 599",
       "courseTitle": "CURRENT TPCS MOLENG",
-      "section": "A",
-      "instructor": "Ginger,David S."
+      "section": "B",
+      "instructor": "Bohringer,Karl F."
     },
     {
       "campus": "S",
@@ -121,8 +121,8 @@
       "term": "WIN2021",
       "course": "MOLENG 599",
       "courseTitle": "CURRENT TPCS MOLENG",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Ginger,David S."
     },
     {
       "campus": "S",
@@ -1098,6 +1098,66 @@
       "campus": "S",
       "dept": "moleng",
       "deptName": "Molecular Engineering",
+      "term": "SPR2025",
+      "course": "MOLENG 520",
+      "courseTitle": "SEMINAR IN MOLENG",
+      "section": "A",
+      "instructor": "Nelson,Alshakim"
+    },
+    {
+      "campus": "S",
+      "dept": "moleng",
+      "deptName": "Molecular Engineering",
+      "term": "SPR2025",
+      "course": "MOLENG 535",
+      "courseTitle": "SMNR IN CLEAN ENERGY",
+      "section": "A",
+      "instructor": "Ginger,David S."
+    },
+    {
+      "campus": "S",
+      "dept": "moleng",
+      "deptName": "Molecular Engineering",
+      "term": "SPR2025",
+      "course": "MOLENG 599",
+      "courseTitle": "CURRENT TPCS MOLENG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "moleng",
+      "deptName": "Molecular Engineering",
+      "term": "SPR2025",
+      "course": "MOLENG 599",
+      "courseTitle": "CURRENT TPCS MOLENG",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "moleng",
+      "deptName": "Molecular Engineering",
+      "term": "SPR2025",
+      "course": "MOLENG 600",
+      "courseTitle": "INDEPENDT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "moleng",
+      "deptName": "Molecular Engineering",
+      "term": "SPR2025",
+      "course": "MOLENG 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "moleng",
+      "deptName": "Molecular Engineering",
       "term": "SUM2025",
       "course": "MOLENG 600",
       "courseTitle": "INDEPENDT STDY/RSCH",
@@ -1132,7 +1192,7 @@
       "course": "MOLENG 520",
       "courseTitle": "SEMINAR IN MOLENG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "DeForest,Cole A."
     },
     {
       "campus": "S",
@@ -1152,17 +1212,7 @@
       "course": "MOLENG 535",
       "courseTitle": "SMNR IN CLEAN ENERGY",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "moleng",
-      "deptName": "Molecular Engineering",
-      "term": "AUT2025",
-      "course": "MOLENG 599",
-      "courseTitle": "CURRENT TPCS MOLENG",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ginger,David S."
     },
     {
       "campus": "S",
@@ -1172,6 +1222,16 @@
       "course": "MOLENG 599",
       "courseTitle": "CURRENT TPCS MOLENG",
       "section": "C",
+      "instructor": "DeForest,Cole A."
+    },
+    {
+      "campus": "S",
+      "dept": "moleng",
+      "deptName": "Molecular Engineering",
+      "term": "AUT2025",
+      "course": "MOLENG 599",
+      "courseTitle": "CURRENT TPCS MOLENG",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -1202,7 +1262,7 @@
       "course": "MOLENG 520",
       "courseTitle": "SEMINAR IN MOLENG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "DeForest,Cole A."
     },
     {
       "campus": "S",
@@ -1252,7 +1312,7 @@
       "course": "MOLENG 520",
       "courseTitle": "SEMINAR IN MOLENG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "DeForest,Cole A."
     },
     {
       "campus": "S",
@@ -1262,7 +1322,7 @@
       "course": "MOLENG 535",
       "courseTitle": "SMNR IN CLEAN ENERGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ginger,David S."
     },
     {
       "campus": "S",

@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Guo%2CRichard",
+  "professor": "Guo,Richard",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SPR2024",
+      "course": "STAT 533",
+      "courseTitle": "THEORY LIN MODELS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "SPR2024",
+      "course": "BIOST 533",
+      "courseTitle": "THEORY LIN MODELS",
+      "section": "A"
+    }
+  ]
+}

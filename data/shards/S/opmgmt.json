@@ -1,7 +1,3108 @@
 {
-  "generatedAt": "2026-04-15T16:27:58Z",
+  "generatedAt": "2026-04-16T02:57:13Z",
   "campus": "S",
   "dept": "opmgmt",
   "deptName": "Operations Management",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2020",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "B",
+      "instructor": "Chen,Shi"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2020",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "C",
+      "instructor": "Nategh,Emisa"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2020",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "A",
+      "instructor": "Sirichakwal,Issariya"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2020",
+      "course": "OPMGT 443",
+      "courseTitle": "INV SUP CHN MGMT",
+      "section": "A",
+      "instructor": "Jain,Apurva"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2020",
+      "course": "OPMGT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2020",
+      "course": "OPMGT 502",
+      "courseTitle": "INTRO TO OPMGT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2020",
+      "course": "OPMGT 502",
+      "courseTitle": "INTRO TO OPMGT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2020",
+      "course": "OPMGT 502",
+      "courseTitle": "INTRO TO OPMGT",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2020",
+      "course": "OPMGT 502",
+      "courseTitle": "INTRO TO OPMGT",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2020",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2020",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2020",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2020",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2020",
+      "course": "OPMGT 579",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2020",
+      "course": "OPMGT 579",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2020",
+      "course": "OPMGT 579",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2020",
+      "course": "OPMGT 579",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2020",
+      "course": "OPMGT 587",
+      "courseTitle": "ADV TOPICS INV MGMT",
+      "section": "A",
+      "instructor": "Moinzadeh,K"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2020",
+      "course": "OPMGT 590",
+      "courseTitle": "STOCH MOD FOR BUS",
+      "section": "A",
+      "instructor": "Iravani,F"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2020",
+      "course": "OPMGT 599",
+      "courseTitle": "DOCTRL SM OPMGT",
+      "section": "A",
+      "instructor": "Hwang,Elina"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2020",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2020",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2021",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "C",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2021",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "A",
+      "instructor": "Nageswaran,Leela"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2021",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "B",
+      "instructor": "Nageswaran,Leela"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2021",
+      "course": "OPMGT 443",
+      "courseTitle": "INV SUP CHN MGMT",
+      "section": "A",
+      "instructor": "Jain,Apurva"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2021",
+      "course": "OPMGT 450",
+      "courseTitle": "INTRO PROJECT MGMT",
+      "section": "A",
+      "instructor": "Klastorin,T"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2021",
+      "course": "OPMGT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2021",
+      "course": "OPMGT 560",
+      "courseTitle": "SUPPLY CHAIN MGT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2021",
+      "course": "OPMGT 560",
+      "courseTitle": "SUPPLY CHAIN MGT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2021",
+      "course": "OPMGT 584",
+      "courseTitle": "FUND OF OPMGT RSCH",
+      "section": "A",
+      "instructor": "Klastorin,T"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2021",
+      "course": "OPMGT 599",
+      "courseTitle": "DOCTRL SM OPMGT",
+      "section": "A",
+      "instructor": "Nageswaran,Leela"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2021",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2021",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2021",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "C",
+      "instructor": "Chen,Shi"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2021",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "A",
+      "instructor": "Wettstein,David John"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2021",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "B",
+      "instructor": "Wettstein,David John"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2021",
+      "course": "OPMGT 450",
+      "courseTitle": "INTRO PROJECT MGMT",
+      "section": "A",
+      "instructor": "Klastorin,T"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2021",
+      "course": "OPMGT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2021",
+      "course": "OPMGT 520",
+      "courseTitle": "OPS MANAGEMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2021",
+      "course": "OPMGT 550",
+      "courseTitle": "PROJECT MANAGEMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2021",
+      "course": "OPMGT 550",
+      "courseTitle": "PROJECT MANAGEMENT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2021",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2021",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "B",
+      "instructor": "Wagner,Michael R"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2021",
+      "course": "OPMGT 579",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2021",
+      "course": "OPMGT 599",
+      "courseTitle": "DOCTRL SM OPMGT",
+      "section": "A",
+      "instructor": "Wang,Yingfei"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2021",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2021",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2021",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "A",
+      "instructor": "LEI,JUNFEI"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2021",
+      "course": "OPMGT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2021",
+      "course": "OPMGT 579",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2021",
+      "course": "OPMGT 579",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2021",
+      "course": "OPMGT 579",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2021",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2021",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2021",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "B",
+      "instructor": "Chen,Shi"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2021",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "C",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2021",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "A",
+      "instructor": "Sirichakwal,Issariya"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2021",
+      "course": "OPMGT 443",
+      "courseTitle": "INV SUP CHN MGMT",
+      "section": "A",
+      "instructor": "Jain,Apurva"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2021",
+      "course": "OPMGT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2021",
+      "course": "OPMGT 502",
+      "courseTitle": "INTRO TO OPMGT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2021",
+      "course": "OPMGT 502",
+      "courseTitle": "INTRO TO OPMGT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2021",
+      "course": "OPMGT 502",
+      "courseTitle": "INTRO TO OPMGT",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2021",
+      "course": "OPMGT 502",
+      "courseTitle": "INTRO TO OPMGT",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2021",
+      "course": "OPMGT 540",
+      "courseTitle": "SUSTNBLE GLOBAL SCM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2021",
+      "course": "OPMGT 540",
+      "courseTitle": "SUSTNBLE GLOBAL SCM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2021",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2021",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2021",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2021",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2021",
+      "course": "OPMGT 587",
+      "courseTitle": "ADV TOPICS INV MGMT",
+      "section": "A",
+      "instructor": "Moinzadeh,Kamran"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2021",
+      "course": "OPMGT 590",
+      "courseTitle": "STOCH MOD FOR BUS",
+      "section": "A",
+      "instructor": "Chen,Shi"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2021",
+      "course": "OPMGT 599",
+      "courseTitle": "DOCTRL SM OPMGT",
+      "section": "A",
+      "instructor": "Ananthakrishnan,Uttara Mad"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2021",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2021",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2022",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "C",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2022",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "A",
+      "instructor": "Nageswaran,Leela"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2022",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "B",
+      "instructor": "Nageswaran,Leela"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2022",
+      "course": "OPMGT 443",
+      "courseTitle": "INV SUP CHN MGMT",
+      "section": "A",
+      "instructor": "Jain,A"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2022",
+      "course": "OPMGT 450",
+      "courseTitle": "INTRO PROJECT MGMT",
+      "section": "A",
+      "instructor": "Klastorin,T"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2022",
+      "course": "OPMGT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2022",
+      "course": "OPMGT 599",
+      "courseTitle": "DOCTRL SM OPMGT",
+      "section": "A",
+      "instructor": "Nageswaran,Leela"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2022",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2022",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2022",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "A",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2022",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "B",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2022",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "C",
+      "instructor": "Zhou,Yong-Pin"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2022",
+      "course": "OPMGT 450",
+      "courseTitle": "INTRO PROJECT MGMT",
+      "section": "A",
+      "instructor": "Klastorin,T"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2022",
+      "course": "OPMGT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2022",
+      "course": "OPMGT 520",
+      "courseTitle": "OPS MANAGEMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2022",
+      "course": "OPMGT 540",
+      "courseTitle": "SUSTNBLE GLOBAL SCM",
+      "section": "A",
+      "instructor": "Shunko,Masha"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2022",
+      "course": "OPMGT 550",
+      "courseTitle": "PROJECT MANAGEMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2022",
+      "course": "OPMGT 550",
+      "courseTitle": "PROJECT MANAGEMENT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2022",
+      "course": "OPMGT 550",
+      "courseTitle": "PROJECT MANAGEMENT",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2022",
+      "course": "OPMGT 550",
+      "courseTitle": "PROJECT MANAGEMENT",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2022",
+      "course": "OPMGT 560",
+      "courseTitle": "SUPPLY CHAIN MGT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2022",
+      "course": "OPMGT 560",
+      "courseTitle": "SUPPLY CHAIN MGT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2022",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "A",
+      "instructor": "Wagner,Michael R"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2022",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "B",
+      "instructor": "Wagner,Michael R"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2022",
+      "course": "OPMGT 599",
+      "courseTitle": "DOCTRL SM OPMGT",
+      "section": "A",
+      "instructor": "Yang,Mingwen"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2022",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2022",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2022",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "A",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2022",
+      "course": "OPMGT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2022",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2022",
+      "course": "OPMGT 579",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2022",
+      "course": "OPMGT 579",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2022",
+      "course": "OPMGT 579",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2022",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2022",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "C",
+      "instructor": "Chen,Shi"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "B",
+      "instructor": "Sirichakwal,Issariya"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "A",
+      "instructor": "Zhou,Yong-Pin"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 443",
+      "courseTitle": "INV SUP CHN MGMT",
+      "section": "A",
+      "instructor": "Jain,Apurva"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 450",
+      "courseTitle": "INTRO PROJECT MGMT",
+      "section": "A",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 502",
+      "courseTitle": "INTRO TO OPMGT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 502",
+      "courseTitle": "INTRO TO OPMGT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 502",
+      "courseTitle": "INTRO TO OPMGT",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 502",
+      "courseTitle": "INTRO TO OPMGT",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 540",
+      "courseTitle": "SUSTNBLE GLOBAL SCM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 540",
+      "courseTitle": "SUSTNBLE GLOBAL SCM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 550",
+      "courseTitle": "PROJECT MANAGEMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 550",
+      "courseTitle": "PROJECT MANAGEMENT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 550",
+      "courseTitle": "PROJECT MANAGEMENT",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 550",
+      "courseTitle": "PROJECT MANAGEMENT",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 579",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 579",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 587",
+      "courseTitle": "ADV TOPICS INV MGMT",
+      "section": "A",
+      "instructor": "Moinzadeh,K"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 590",
+      "courseTitle": "STOCH MOD FOR BUS",
+      "section": "A",
+      "instructor": "Chen,Shi"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 599",
+      "courseTitle": "DOCTRL SM OPMGT",
+      "section": "A",
+      "instructor": "Chen,Wanning"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2022",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2023",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "A",
+      "instructor": "Nageswaran,Leela"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2023",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "B",
+      "instructor": "Nageswaran,Leela"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2023",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "C",
+      "instructor": "Nageswaran,Leela"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2023",
+      "course": "OPMGT 443",
+      "courseTitle": "INV SUP CHN MGMT",
+      "section": "A",
+      "instructor": "Jain,A"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2023",
+      "course": "OPMGT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2023",
+      "course": "OPMGT 560",
+      "courseTitle": "SUPPLY CHAIN MGT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2023",
+      "course": "OPMGT 560",
+      "courseTitle": "SUPPLY CHAIN MGT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2023",
+      "course": "OPMGT 599",
+      "courseTitle": "DOCTRL SM OPMGT",
+      "section": "A",
+      "instructor": "Chen,Shi"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2023",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2023",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2023",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "A",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2023",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "B",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2023",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "C",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2023",
+      "course": "OPMGT 450",
+      "courseTitle": "INTRO PROJECT MGMT",
+      "section": "A",
+      "instructor": "Klastorin,T"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2023",
+      "course": "OPMGT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2023",
+      "course": "OPMGT 520",
+      "courseTitle": "OPS MANAGEMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2023",
+      "course": "OPMGT 540",
+      "courseTitle": "SUSTNBLE GLOBAL SCM",
+      "section": "A",
+      "instructor": "Shunko,Masha"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2023",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "A",
+      "instructor": "Wagner,Michael R"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2023",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "B",
+      "instructor": "Wagner,Michael R"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2023",
+      "course": "OPMGT 599",
+      "courseTitle": "DOCTRL SM OPMGT",
+      "section": "A",
+      "instructor": "Lee,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2023",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2023",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2023",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "A",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2023",
+      "course": "OPMGT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2023",
+      "course": "OPMGT 530",
+      "courseTitle": "RISK: MEAS MGMT LEAD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2023",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2023",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "A",
+      "instructor": "Chen,Shi"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "B",
+      "instructor": "Chen,Shi"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "C",
+      "instructor": "Sirichakwal,Issariya"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 443",
+      "courseTitle": "INV SUP CHN MGMT",
+      "section": "A",
+      "instructor": "Jain,Apurva"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 450",
+      "courseTitle": "INTRO PROJECT MGMT",
+      "section": "A",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 502",
+      "courseTitle": "INTRO TO OPMGT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 502",
+      "courseTitle": "INTRO TO OPMGT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 502",
+      "courseTitle": "INTRO TO OPMGT",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 502",
+      "courseTitle": "INTRO TO OPMGT",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 530",
+      "courseTitle": "RISK: MEAS MGMT LEAD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 530",
+      "courseTitle": "RISK: MEAS MGMT LEAD",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 540",
+      "courseTitle": "SUSTNBLE GLOBAL SCM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 540",
+      "courseTitle": "SUSTNBLE GLOBAL SCM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 550",
+      "courseTitle": "PROJECT MANAGEMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 550",
+      "courseTitle": "PROJECT MANAGEMENT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 550",
+      "courseTitle": "PROJECT MANAGEMENT",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 550",
+      "courseTitle": "PROJECT MANAGEMENT",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 587",
+      "courseTitle": "ADV TOPICS INV MGMT",
+      "section": "A",
+      "instructor": "Moinzadeh,Kamran"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 590",
+      "courseTitle": "STOCH MOD FOR BUS",
+      "section": "A",
+      "instructor": "Chen,Shi"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 599",
+      "courseTitle": "DOCTRL SM OPMGT",
+      "section": "A",
+      "instructor": "Chen,Wanning"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2023",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2024",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "B",
+      "instructor": "Ertan,Emre"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2024",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "C",
+      "instructor": "Ertan,Emre"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2024",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "A",
+      "instructor": "Nageswaran,Leela"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2024",
+      "course": "OPMGT 443",
+      "courseTitle": "INV SUP CHN MGMT",
+      "section": "A",
+      "instructor": "Jain,Apurva"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2024",
+      "course": "OPMGT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2024",
+      "course": "OPMGT 540",
+      "courseTitle": "SUSTNBLE GLOBAL SCM",
+      "section": "A",
+      "instructor": "Shunko,Masha"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2024",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2024",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2024",
+      "course": "OPMGT 599",
+      "courseTitle": "DOCTRL SM OPMGT",
+      "section": "A",
+      "instructor": "Boussioux,Leonard"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2024",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2024",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2024",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "A",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2024",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "B",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2024",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "C",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2024",
+      "course": "OPMGT 450",
+      "courseTitle": "INTRO PROJECT MGMT",
+      "section": "A",
+      "instructor": "Klastorin,Ted"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2024",
+      "course": "OPMGT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2024",
+      "course": "OPMGT 520",
+      "courseTitle": "OPS MANAGEMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2024",
+      "course": "OPMGT 540",
+      "courseTitle": "SUSTNBLE GLOBAL SCM",
+      "section": "A",
+      "instructor": "Shunko,Masha"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2024",
+      "course": "OPMGT 560",
+      "courseTitle": "SUPPLY CHAIN MGT",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2024",
+      "course": "OPMGT 560",
+      "courseTitle": "SUPPLY CHAIN MGT",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2024",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2024",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "B",
+      "instructor": "Wagner,Michael R"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2024",
+      "course": "OPMGT 599",
+      "courseTitle": "DOCTRL SM OPMGT",
+      "section": "A",
+      "instructor": "Wagner,Michael R"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2024",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2024",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2024",
+      "course": "OPMGT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2024",
+      "course": "OPMGT 530",
+      "courseTitle": "RISK: MEAS MGMT LEAD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2024",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2024",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2024",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2024",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "A",
+      "instructor": "Chen,Shi"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2024",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "B",
+      "instructor": "Chen,Shi"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2024",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "C",
+      "instructor": "Sirichakwal,Issariya"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2024",
+      "course": "OPMGT 443",
+      "courseTitle": "INV SUP CHN MGMT",
+      "section": "A",
+      "instructor": "Jain,Apurva"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2024",
+      "course": "OPMGT 450",
+      "courseTitle": "INTRO PROJECT MGMT",
+      "section": "A",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2024",
+      "course": "OPMGT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2024",
+      "course": "OPMGT 502",
+      "courseTitle": "INTRO TO OPMGT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2024",
+      "course": "OPMGT 502",
+      "courseTitle": "INTRO TO OPMGT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2024",
+      "course": "OPMGT 502",
+      "courseTitle": "INTRO TO OPMGT",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2024",
+      "course": "OPMGT 502",
+      "courseTitle": "INTRO TO OPMGT",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2024",
+      "course": "OPMGT 550",
+      "courseTitle": "PROJECT MANAGEMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2024",
+      "course": "OPMGT 550",
+      "courseTitle": "PROJECT MANAGEMENT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2024",
+      "course": "OPMGT 550",
+      "courseTitle": "PROJECT MANAGEMENT",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2024",
+      "course": "OPMGT 550",
+      "courseTitle": "PROJECT MANAGEMENT",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2024",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2024",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2024",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2024",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2024",
+      "course": "OPMGT 587",
+      "courseTitle": "ADV TOPICS INV MGMT",
+      "section": "A",
+      "instructor": "Moinzadeh,Kamran"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2024",
+      "course": "OPMGT 590",
+      "courseTitle": "STOCH MOD FOR BUS",
+      "section": "A",
+      "instructor": "Chen,Shi"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2024",
+      "course": "OPMGT 599",
+      "courseTitle": "DOCTRL SM OPMGT",
+      "section": "A",
+      "instructor": "Wang,Yingfei"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2024",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2024",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2025",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "C",
+      "instructor": "Gao,Frank"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2025",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "A",
+      "instructor": "Nageswaran,Leela"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2025",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "B",
+      "instructor": "Nageswaran,Leela"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2025",
+      "course": "OPMGT 443",
+      "courseTitle": "INV SUP CHN MGMT",
+      "section": "A",
+      "instructor": "Jain,Apurva"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2025",
+      "course": "OPMGT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2025",
+      "course": "OPMGT 540",
+      "courseTitle": "SUSTNBLE GLOBAL SCM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2025",
+      "course": "OPMGT 540",
+      "courseTitle": "SUSTNBLE GLOBAL SCM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2025",
+      "course": "OPMGT 599",
+      "courseTitle": "DOCTRL SM OPMGT",
+      "section": "A",
+      "instructor": "Singh,Amandeep"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2025",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2025",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2025",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "A",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2025",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "B",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2025",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "C",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2025",
+      "course": "OPMGT 450",
+      "courseTitle": "INTRO PROJECT MGMT",
+      "section": "A",
+      "instructor": "Carlson,Kjiel Emil"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2025",
+      "course": "OPMGT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2025",
+      "course": "OPMGT 520",
+      "courseTitle": "OPS MANAGEMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2025",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "A",
+      "instructor": "Wagner,Michael R"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2025",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "B",
+      "instructor": "Wagner,Michael R"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2025",
+      "course": "OPMGT 599",
+      "courseTitle": "DOCTRL SM OPMGT",
+      "section": "A",
+      "instructor": "Shunko,Masha"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2025",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2025",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2025",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "A",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2025",
+      "course": "OPMGT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2025",
+      "course": "OPMGT 530",
+      "courseTitle": "RISK: MEAS MGMT LEAD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2025",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SUM2025",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2025",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "A",
+      "instructor": "Chen,Shi"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2025",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "B",
+      "instructor": "Chen,Shi"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2025",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "C",
+      "instructor": "Sirichakwal,Issariya"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2025",
+      "course": "OPMGT 443",
+      "courseTitle": "INV SUP CHN MGMT",
+      "section": "A",
+      "instructor": "Jain,Apurva"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2025",
+      "course": "OPMGT 450",
+      "courseTitle": "INTRO PROJECT MGMT",
+      "section": "A",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2025",
+      "course": "OPMGT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2025",
+      "course": "OPMGT 502",
+      "courseTitle": "INTRO TO OPMGT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2025",
+      "course": "OPMGT 502",
+      "courseTitle": "INTRO TO OPMGT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2025",
+      "course": "OPMGT 502",
+      "courseTitle": "INTRO TO OPMGT",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2025",
+      "course": "OPMGT 502",
+      "courseTitle": "INTRO TO OPMGT",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2025",
+      "course": "OPMGT 550",
+      "courseTitle": "PROJECT MANAGEMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2025",
+      "course": "OPMGT 550",
+      "courseTitle": "PROJECT MANAGEMENT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2025",
+      "course": "OPMGT 550",
+      "courseTitle": "PROJECT MANAGEMENT",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2025",
+      "course": "OPMGT 550",
+      "courseTitle": "PROJECT MANAGEMENT",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2025",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2025",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2025",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2025",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2025",
+      "course": "OPMGT 587",
+      "courseTitle": "ADV TOPICS INV MGMT",
+      "section": "A",
+      "instructor": "Moinzadeh,Kamran"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2025",
+      "course": "OPMGT 590",
+      "courseTitle": "STOCH MOD FOR BUS",
+      "section": "A",
+      "instructor": "Chen,Shi"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2025",
+      "course": "OPMGT 599",
+      "courseTitle": "DOCTRL SM OPMGT",
+      "section": "A",
+      "instructor": "Nageswaran,Leela"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2025",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "AUT2025",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2026",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "A",
+      "instructor": "Nageswaran,Leela"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2026",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "B",
+      "instructor": "Nageswaran,Leela"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2026",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "C",
+      "instructor": "Nageswaran,Leela"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2026",
+      "course": "OPMGT 443",
+      "courseTitle": "INV SUP CHN MGMT",
+      "section": "A",
+      "instructor": "Jain,Apurva"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2026",
+      "course": "OPMGT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2026",
+      "course": "OPMGT 540",
+      "courseTitle": "SUSTNBLE GLOBAL SCM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2026",
+      "course": "OPMGT 599",
+      "courseTitle": "DOCTRL SM OPMGT",
+      "section": "A",
+      "instructor": "Hwang,Elina"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2026",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2026",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2026",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "A",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2026",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "B",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2026",
+      "course": "OPMGT 301",
+      "courseTitle": "PRIN OPER MGT",
+      "section": "C",
+      "instructor": "Graves,Jennifer DeWhitt"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2026",
+      "course": "OPMGT 450",
+      "courseTitle": "INTRO PROJECT MGMT",
+      "section": "A",
+      "instructor": "Velcsov,Rush"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2026",
+      "course": "OPMGT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2026",
+      "course": "OPMGT 520",
+      "courseTitle": "OPS MANAGEMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2026",
+      "course": "OPMGT 565",
+      "courseTitle": "BUS ANALYTICS",
+      "section": "A",
+      "instructor": "Wagner,Michael R"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2026",
+      "course": "OPMGT 599",
+      "courseTitle": "DOCTRL SM OPMGT",
+      "section": "A",
+      "instructor": "Ananthakrishnan,Uttara Mad"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2026",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "SPR2026",
+      "course": "OPMGT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    }
+  ]
 }

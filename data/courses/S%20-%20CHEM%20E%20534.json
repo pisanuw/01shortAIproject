@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20CHEM%20E%20534",
+  "course": "S - CHEM E 534",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 534",
+      "courseTitle": "PHYSIO PROC NANOMED",
+      "section": "A",
+      "instructor": "Nance,Elizabeth"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 534",
+      "courseTitle": "PHYSIO PROC NANOMED",
+      "section": "A",
+      "instructor": "Nance,Elizabeth"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 534",
+      "courseTitle": "PHYSIO PROC NANOMED",
+      "section": "A",
+      "instructor": "Nance,Elizabeth"
+    }
+  ]
+}

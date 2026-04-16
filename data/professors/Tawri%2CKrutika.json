@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Tawri%2CKrutika",
+  "professor": "Tawri,Krutika",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "SPR2026",
+      "course": "AMATH 503",
+      "courseTitle": "METHODS PAR DIFF EQ",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "WIN2026",
+      "course": "AMATH 568",
+      "courseTitle": "ADV METHODS ODE",
+      "section": "A"
+    }
+  ]
+}

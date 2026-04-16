@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Marquez%2CAlex",
+  "professor": "Marquez,Alex",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bst",
+      "deptName": "Science and Technology",
+      "term": "SPR2026",
+      "course": "BST 301",
+      "courseTitle": "SCIENTIFIC WRITING",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bearth",
+      "deptName": "Earth System Science",
+      "term": "WIN2026",
+      "course": "BEARTH 154",
+      "courseTitle": "INTRO OCEANOGRAPHY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bearth",
+      "deptName": "Earth System Science",
+      "term": "WIN2025",
+      "course": "BEARTH 154",
+      "courseTitle": "INTRO OCEANOGRAPHY",
+      "section": "A"
+    }
+  ]
+}

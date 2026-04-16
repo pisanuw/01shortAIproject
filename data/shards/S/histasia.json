@@ -1,7 +1,1368 @@
 {
-  "generatedAt": "2026-04-15T16:27:56Z",
+  "generatedAt": "2026-04-16T02:57:12Z",
   "campus": "S",
   "dept": "histasia",
   "deptName": "History of Asia",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2020",
+      "course": "HSTAS 202",
+      "courseTitle": "INTRO MOD SO. ASIA",
+      "section": "A",
+      "instructor": "Dhavan,Purnima"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2020",
+      "course": "HSTAS 212",
+      "courseTitle": "HIST OF KOREAN CIV",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2020",
+      "course": "HSTAS 423",
+      "courseTitle": "ORIGINS MODERN JAPAN",
+      "section": "A",
+      "instructor": "Metzler,M"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2020",
+      "course": "HSTAS 502",
+      "courseTitle": "SEM HIST OF INDIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2020",
+      "course": "HSTAS 521",
+      "courseTitle": "MDRN JAPANESE HIST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2020",
+      "course": "HSTAS 590",
+      "courseTitle": "TOPICS IN ASIAN HST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2021",
+      "course": "HSTAS 211",
+      "courseTitle": "HIST OF CHIN CIV",
+      "section": "A",
+      "instructor": "Mosca,Matthew"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2021",
+      "course": "HSTAS 265",
+      "courseTitle": "THE VIET NAM WARS",
+      "section": "A",
+      "instructor": "Giebel,Christoph"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2021",
+      "course": "HSTAS 402",
+      "courseTitle": "HIST MED MUGHAL IND",
+      "section": "A",
+      "instructor": "Dhavan,Purnima"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2021",
+      "course": "HSTAS 404",
+      "courseTitle": "20TH CENTURY INDIA",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2021",
+      "course": "HSTAS 440",
+      "courseTitle": "JAPAN ECOLOGICL HIST",
+      "section": "A",
+      "instructor": "Metzler,M"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2021",
+      "course": "HSTAS 456",
+      "courseTitle": "CHINESE SOC HISTORY",
+      "section": "A",
+      "instructor": "Dong,Madeleine Y."
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2021",
+      "course": "HSTAS 482",
+      "courseTitle": "MODERN KOREAN HIST",
+      "section": "A",
+      "instructor": "Jun,Hajin"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2021",
+      "course": "HSTAS 530",
+      "courseTitle": "FLD CRS SE ASIAN HS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2021",
+      "course": "HSTAS 540",
+      "courseTitle": "JAPAN ECOLOGICL HIST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2021",
+      "course": "HSTAS 221",
+      "courseTitle": "HISTORY OF SE ASIA",
+      "section": "A",
+      "instructor": "Giebel,Christoph"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2021",
+      "course": "HSTAS 235",
+      "courseTitle": "MODERN TAIWAN HIST",
+      "section": "A",
+      "instructor": "Lin,J"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2021",
+      "course": "HSTAS 254",
+      "courseTitle": "MOD CHINA: 3 REVOLUT",
+      "section": "A",
+      "instructor": "Dong,Madeleine Y."
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2021",
+      "course": "HSTAS 317",
+      "courseTitle": "HISTORY BY BOLLYWOOD",
+      "section": "A",
+      "instructor": "Yang,Anand A"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2021",
+      "course": "HSTAS 490",
+      "courseTitle": "TOPICS ASIAN HISTORY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2021",
+      "course": "HSTAS 501",
+      "courseTitle": "INDIAN HISTORY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2021",
+      "course": "HSTAS 532",
+      "courseTitle": "SEM IN SE ASIAN HST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SUM2021",
+      "course": "HSTAS 211",
+      "courseTitle": "HIST OF CHIN CIV",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2021",
+      "course": "HSTAS 254",
+      "courseTitle": "MOD CHINA: 3 REVOLUT",
+      "section": "A",
+      "instructor": "Dong,Madeleine Y."
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2021",
+      "course": "HSTAS 423",
+      "courseTitle": "ORIGINS MODERN JAPAN",
+      "section": "A",
+      "instructor": "Metzler,M"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2021",
+      "course": "HSTAS 481",
+      "courseTitle": "HIST PRE-MOD KOREA",
+      "section": "A",
+      "instructor": "Hall,Emily Marie Anderson"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2021",
+      "course": "HSTAS 521",
+      "courseTitle": "MDRN JAPANESE HIST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2022",
+      "course": "HSTAS 212",
+      "courseTitle": "HIST OF KOREAN CIV",
+      "section": "A",
+      "instructor": "Hall,Emily Marie Anderson"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2022",
+      "course": "HSTAS 265",
+      "courseTitle": "THE VIET NAM WARS",
+      "section": "A",
+      "instructor": "Giebel,Christoph"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2022",
+      "course": "HSTAS 402",
+      "courseTitle": "HIST MED MUGHAL IND",
+      "section": "A",
+      "instructor": "Dhavan,Purnima"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2022",
+      "course": "HSTAS 404",
+      "courseTitle": "20TH CENTURY INDIA",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2022",
+      "course": "HSTAS 440",
+      "courseTitle": "JAPAN ECOLOGICL HIST",
+      "section": "A",
+      "instructor": "Metzler,M"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2022",
+      "course": "HSTAS 456",
+      "courseTitle": "CHINESE SOC HISTORY",
+      "section": "A",
+      "instructor": "Dong,Madeleine Y."
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2022",
+      "course": "HSTAS 490",
+      "courseTitle": "TOPICS ASIAN HISTORY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2022",
+      "course": "HSTAS 502",
+      "courseTitle": "SEM HIST OF INDIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2022",
+      "course": "HSTAS 540",
+      "courseTitle": "JAPAN ECOLOGICL HIST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2022",
+      "course": "HSTAS 590",
+      "courseTitle": "TOPICS IN ASIAN HST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2022",
+      "course": "HSTAS 244",
+      "courseTitle": "IMP & ANTI-COL ASIA",
+      "section": "A",
+      "instructor": "Giebel,Christoph"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2022",
+      "course": "HSTAS 317",
+      "courseTitle": "HISTORY BY BOLLYWOOD",
+      "section": "A",
+      "instructor": "Yang,Anand A"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2022",
+      "course": "HSTAS 327",
+      "courseTitle": "CHINA & THE WEST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2022",
+      "course": "HSTAS 424",
+      "courseTitle": "JAPAN SINCE 20TH CEN",
+      "section": "A",
+      "instructor": "Metzler,M"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2022",
+      "course": "HSTAS 432",
+      "courseTitle": "HIST JAPANESE EMPIRE",
+      "section": "A",
+      "instructor": "Jun,Hajin"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2022",
+      "course": "HSTAS 490",
+      "courseTitle": "TOPICS ASIAN HISTORY",
+      "section": "B",
+      "instructor": "Giebel,Christoph"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2022",
+      "course": "HSTAS 562",
+      "courseTitle": "SM CH HST:1268-1895",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2022",
+      "course": "HSTAS 212",
+      "courseTitle": "HIST OF KOREAN CIV",
+      "section": "A",
+      "instructor": "Jun,Hajin"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2022",
+      "course": "HSTAS 327",
+      "courseTitle": "CHINA & THE WEST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2022",
+      "course": "HSTAS 423",
+      "courseTitle": "ORIGINS MODERN JAPAN",
+      "section": "A",
+      "instructor": "Metzler,M"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2023",
+      "course": "HSTAS 254",
+      "courseTitle": "MOD CHINA: 3 REVOLUT",
+      "section": "A",
+      "instructor": "Dong,Madeleine Y."
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2023",
+      "course": "HSTAS 265",
+      "courseTitle": "THE VIET NAM WARS",
+      "section": "A",
+      "instructor": "Giebel,Christoph"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2023",
+      "course": "HSTAS 402",
+      "courseTitle": "HIST MED MUGHAL IND",
+      "section": "A",
+      "instructor": "Dhavan,Purnima"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2023",
+      "course": "HSTAS 404",
+      "courseTitle": "20TH CENTURY INDIA",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2023",
+      "course": "HSTAS 432",
+      "courseTitle": "HIST JAPANESE EMPIRE",
+      "section": "A",
+      "instructor": "Jun,Hajin"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2023",
+      "course": "HSTAS 440",
+      "courseTitle": "JAPAN ECOLOGICL HIST",
+      "section": "A",
+      "instructor": "Metzler,M"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2023",
+      "course": "HSTAS 482",
+      "courseTitle": "MODERN KOREAN HIST",
+      "section": "A",
+      "instructor": "Jun,Hajin"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2023",
+      "course": "HSTAS 530",
+      "courseTitle": "FLD CRS SE ASIAN HS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2023",
+      "course": "HSTAS 540",
+      "courseTitle": "JAPAN ECOLOGICL HIST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2023",
+      "course": "HSTAS 221",
+      "courseTitle": "HISTORY OF SE ASIA",
+      "section": "A",
+      "instructor": "Giebel,Christoph"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2023",
+      "course": "HSTAS 235",
+      "courseTitle": "MODERN TAIWAN HIST",
+      "section": "A",
+      "instructor": "Lin,James"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2023",
+      "course": "HSTAS 317",
+      "courseTitle": "HISTORY BY BOLLYWOOD",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2023",
+      "course": "HSTAS 424",
+      "courseTitle": "JAPAN SINCE 20TH CEN",
+      "section": "A",
+      "instructor": "Metzler,M"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2023",
+      "course": "HSTAS 490",
+      "courseTitle": "TOPICS ASIAN HISTORY",
+      "section": "B",
+      "instructor": "Giebel,Christoph"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2023",
+      "course": "HSTAS 524",
+      "courseTitle": "SMNR MDRN JAPN HIST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2023",
+      "course": "HSTAS 532",
+      "courseTitle": "SEM IN SE ASIAN HST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2023",
+      "course": "HSTAS 590",
+      "courseTitle": "TOPICS IN ASIAN HST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2023",
+      "course": "HSTAS 211",
+      "courseTitle": "HIST OF CHIN CIV",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2023",
+      "course": "HSTAS 212",
+      "courseTitle": "HIST OF KOREAN CIV",
+      "section": "A",
+      "instructor": "Jun,Hajin"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2023",
+      "course": "HSTAS 423",
+      "courseTitle": "ORIGINS MODERN JAPAN",
+      "section": "A",
+      "instructor": "Metzler,M"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2023",
+      "course": "HSTAS 523",
+      "courseTitle": "SMNR MDRN JAPN HIST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2023",
+      "course": "HSTAS 590",
+      "courseTitle": "TOPICS IN ASIAN HST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2024",
+      "course": "HSTAS 254",
+      "courseTitle": "MOD CHINA: 3 REVOLUT",
+      "section": "A",
+      "instructor": "Dong,Madeleine Y."
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2024",
+      "course": "HSTAS 265",
+      "courseTitle": "THE VIET NAM WARS",
+      "section": "A",
+      "instructor": "Giebel,Christoph"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2024",
+      "course": "HSTAS 402",
+      "courseTitle": "HIST MED MUGHAL IND",
+      "section": "A",
+      "instructor": "Dhavan,Purnima"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2024",
+      "course": "HSTAS 404",
+      "courseTitle": "20TH CENTURY INDIA",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2024",
+      "course": "HSTAS 424",
+      "courseTitle": "JAPAN SINCE 20TH CEN",
+      "section": "A",
+      "instructor": "Metzler,M"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2024",
+      "course": "HSTAS 502",
+      "courseTitle": "SEM HIST OF INDIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2024",
+      "course": "HSTAS 523",
+      "courseTitle": "SMNR MDRN JAPN HIST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2024",
+      "course": "HSTAS 590",
+      "courseTitle": "TOPICS IN ASIAN HST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2024",
+      "course": "HSTAS 202",
+      "courseTitle": "INTRO MOD SO. ASIA",
+      "section": "A",
+      "instructor": "Dhavan,Purnima"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2024",
+      "course": "HSTAS 221",
+      "courseTitle": "HISTORY OF SE ASIA",
+      "section": "A",
+      "instructor": "Giebel,Christoph"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2024",
+      "course": "HSTAS 235",
+      "courseTitle": "MODERN TAIWAN HIST",
+      "section": "A",
+      "instructor": "Lin,James"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2024",
+      "course": "HSTAS 245",
+      "courseTitle": "HUMAN RIGHTS: ASIA",
+      "section": "A",
+      "instructor": "Callahan,Mary"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2024",
+      "course": "HSTAS 303",
+      "courseTitle": "ENVIR HIST SO ASIA",
+      "section": "A",
+      "instructor": "Ramesh,Aditya"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2024",
+      "course": "HSTAS 317",
+      "courseTitle": "HISTORY BY BOLLYWOOD",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2024",
+      "course": "HSTAS 327",
+      "courseTitle": "CHINA & THE WEST",
+      "section": "A",
+      "instructor": "Mosca,Matthew"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2024",
+      "course": "HSTAS 432",
+      "courseTitle": "HIST JAPANESE EMPIRE",
+      "section": "A",
+      "instructor": "Jun,Hajin"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2024",
+      "course": "HSTAS 453",
+      "courseTitle": "CHIN HST 1276-1895",
+      "section": "A",
+      "instructor": "Mosca,Matthew"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2024",
+      "course": "HSTAS 482",
+      "courseTitle": "MODERN KOREAN HIST",
+      "section": "A",
+      "instructor": "Jun,Hajin"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2024",
+      "course": "HSTAS 490",
+      "courseTitle": "TOPICS ASIAN HISTORY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2024",
+      "course": "HSTAS 581",
+      "courseTitle": "MODERN KOREAN HIST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2024",
+      "course": "HSTAS 590",
+      "courseTitle": "TOPICS IN ASIAN HST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2024",
+      "course": "HSTAS 590",
+      "courseTitle": "TOPICS IN ASIAN HST",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2024",
+      "course": "HSTAS 211",
+      "courseTitle": "HIST OF CHIN CIV",
+      "section": "A",
+      "instructor": "Mosca,Matthew"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2024",
+      "course": "HSTAS 402",
+      "courseTitle": "HIST MED MUGHAL IND",
+      "section": "A",
+      "instructor": "Dhavan,Purnima"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2024",
+      "course": "HSTAS 501",
+      "courseTitle": "INDIAN HISTORY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2025",
+      "course": "HSTAS 202",
+      "courseTitle": "INTRO MOD SO. ASIA",
+      "section": "A",
+      "instructor": "Dhavan,Purnima"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2025",
+      "course": "HSTAS 235",
+      "courseTitle": "MODERN TAIWAN HIST",
+      "section": "A",
+      "instructor": "Lin,James"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2025",
+      "course": "HSTAS 245",
+      "courseTitle": "HUMAN RIGHTS: ASIA",
+      "section": "A",
+      "instructor": "Callahan,Mary"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2025",
+      "course": "HSTAS 254",
+      "courseTitle": "MOD CHINA: 3 REVOLUT",
+      "section": "A",
+      "instructor": "Dong,Madeleine Y."
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2025",
+      "course": "HSTAS 265",
+      "courseTitle": "THE VIET NAM WARS",
+      "section": "A",
+      "instructor": "Giebel,Christoph"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2025",
+      "course": "HSTAS 404",
+      "courseTitle": "20TH CENTURY INDIA",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2025",
+      "course": "HSTAS 490",
+      "courseTitle": "TOPICS ASIAN HISTORY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2025",
+      "course": "HSTAS 530",
+      "courseTitle": "FLD CRS SE ASIAN HS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2025",
+      "course": "HSTAS 590",
+      "courseTitle": "TOPICS IN ASIAN HST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2025",
+      "course": "HSTAS 317",
+      "courseTitle": "HISTORY BY BOLLYWOOD",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2025",
+      "course": "HSTAS 424",
+      "courseTitle": "JAPAN SINCE 20TH CEN",
+      "section": "A",
+      "instructor": "Metzler,M"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2025",
+      "course": "HSTAS 432",
+      "courseTitle": "HIST JAPANESE EMPIRE",
+      "section": "A",
+      "instructor": "Jun,Hajin"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2025",
+      "course": "HSTAS 453",
+      "courseTitle": "CHIN HST 1276-1895",
+      "section": "A",
+      "instructor": "Mosca,Matthew"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2025",
+      "course": "HSTAS 490",
+      "courseTitle": "TOPICS ASIAN HISTORY",
+      "section": "A",
+      "instructor": "Giebel,Christoph"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2025",
+      "course": "HSTAS 532",
+      "courseTitle": "SEM IN SE ASIAN HST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2025",
+      "course": "HSTAS 590",
+      "courseTitle": "TOPICS IN ASIAN HST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2025",
+      "course": "HSTAS 202",
+      "courseTitle": "INTRO MOD SO. ASIA",
+      "section": "A",
+      "instructor": "Dhavan,Purnima"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2025",
+      "course": "HSTAS 211",
+      "courseTitle": "HIST OF CHIN CIV",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2025",
+      "course": "HSTAS 235",
+      "courseTitle": "MODERN TAIWAN HIST",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2025",
+      "course": "HSTAS 303",
+      "courseTitle": "ENVIR HIST SO ASIA",
+      "section": "A",
+      "instructor": "Ramesh,Aditya"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2025",
+      "course": "HSTAS 423",
+      "courseTitle": "ORIGINS MODERN JAPAN",
+      "section": "A",
+      "instructor": "Metzler,M"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2025",
+      "course": "HSTAS 582",
+      "courseTitle": "SMNR KOREAN HISTORY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2025",
+      "course": "HSTAS 590",
+      "courseTitle": "TOPICS IN ASIAN HST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "AUT2025",
+      "course": "HSTAS 590",
+      "courseTitle": "TOPICS IN ASIAN HST",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2026",
+      "course": "HSTAS 212",
+      "courseTitle": "HIST OF KOREAN CIV",
+      "section": "A",
+      "instructor": "Jun,Hajin"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2026",
+      "course": "HSTAS 254",
+      "courseTitle": "MOD CHINA: 3 REVOLUT",
+      "section": "A",
+      "instructor": "Dong,Madeleine Y."
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2026",
+      "course": "HSTAS 265",
+      "courseTitle": "THE VIET NAM WARS",
+      "section": "A",
+      "instructor": "Giebel,Christoph"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2026",
+      "course": "HSTAS 327",
+      "courseTitle": "CHINA & THE WEST",
+      "section": "A",
+      "instructor": "Mosca,Matthew"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2026",
+      "course": "HSTAS 402",
+      "courseTitle": "HIST MED MUGHAL IND",
+      "section": "A",
+      "instructor": "Dhavan,Purnima"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2026",
+      "course": "HSTAS 424",
+      "courseTitle": "JAPAN SINCE 20TH CEN",
+      "section": "A",
+      "instructor": "Metzler,M"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2026",
+      "course": "HSTAS 452",
+      "courseTitle": "CHN HST TO AD 1276",
+      "section": "A",
+      "instructor": "Zheng,Yifan"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2026",
+      "course": "HSTAS 465",
+      "courseTitle": "BOOK BEF PRNT E ASIA",
+      "section": "A",
+      "instructor": "Xiao,Yunxiao"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "WIN2026",
+      "course": "HSTAS 490",
+      "courseTitle": "TOPICS ASIAN HISTORY",
+      "section": "B",
+      "instructor": "Giebel,Christoph"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2026",
+      "course": "HSTAS 221",
+      "courseTitle": "HISTORY OF SE ASIA",
+      "section": "A",
+      "instructor": "Averbuch,Bryan"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2026",
+      "course": "HSTAS 245",
+      "courseTitle": "HUMAN RIGHTS: ASIA",
+      "section": "A",
+      "instructor": "Callahan,Mary"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2026",
+      "course": "HSTAS 404",
+      "courseTitle": "20TH CENTURY INDIA",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2026",
+      "course": "HSTAS 432",
+      "courseTitle": "HIST JAPANESE EMPIRE",
+      "section": "A",
+      "instructor": "Jun,Hajin"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2026",
+      "course": "HSTAS 440",
+      "courseTitle": "JAPAN ECOLOGICL HIST",
+      "section": "A",
+      "instructor": "Metzler,M"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2026",
+      "course": "HSTAS 453",
+      "courseTitle": "CHIN HST 1276-1895",
+      "section": "A",
+      "instructor": "Mosca,Matthew"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2026",
+      "course": "HSTAS 482",
+      "courseTitle": "MODERN KOREAN HIST",
+      "section": "A",
+      "instructor": "Jun,Hajin"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2026",
+      "course": "HSTAS 521",
+      "courseTitle": "MDRN JAPANESE HIST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "histasia",
+      "deptName": "History of Asia",
+      "term": "SPR2026",
+      "course": "HSTAS 581",
+      "courseTitle": "MODERN KOREAN HIST",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
 }

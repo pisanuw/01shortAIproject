@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:59Z",
+  "generatedAt": "2026-04-16T02:57:15Z",
   "campus": "S",
   "dept": "imt",
   "deptName": "Information Management",
@@ -758,6 +758,86 @@
       "campus": "S",
       "dept": "imt",
       "deptName": "Information Management",
+      "term": "SPR2025",
+      "course": "IMT 511",
+      "courseTitle": "INTRO PROGRAMMING",
+      "section": "C",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "imt",
+      "deptName": "Information Management",
+      "term": "SPR2025",
+      "course": "IMT 526",
+      "courseTitle": "BLDG & APPLYNG LLMS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "imt",
+      "deptName": "Information Management",
+      "term": "SPR2025",
+      "course": "IMT 546",
+      "courseTitle": "DATA COMM & NET",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "imt",
+      "deptName": "Information Management",
+      "term": "SPR2025",
+      "course": "IMT 559",
+      "courseTitle": "CYBER FUNCTIONS",
+      "section": "B",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "imt",
+      "deptName": "Information Management",
+      "term": "SPR2025",
+      "course": "IMT 565",
+      "courseTitle": "DESIGNING INFO EXP",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "imt",
+      "deptName": "Information Management",
+      "term": "SPR2025",
+      "course": "IMT 571",
+      "courseTitle": "SOC NET ANALYSIS",
+      "section": "B",
+      "instructor": "Spiro,Emma"
+    },
+    {
+      "campus": "S",
+      "dept": "imt",
+      "deptName": "Information Management",
+      "term": "SPR2025",
+      "course": "IMT 575",
+      "courseTitle": "DATA SCI 3: SCALING",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "imt",
+      "deptName": "Information Management",
+      "term": "SPR2025",
+      "course": "IMT 589",
+      "courseTitle": "SPEC TOP INFO MGMNT",
+      "section": "N",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "imt",
+      "deptName": "Information Management",
       "term": "SUM2025",
       "course": "IMT 511",
       "courseTitle": "INTRO PROGRAMMING",
@@ -841,8 +921,8 @@
       "term": "WIN2026",
       "course": "IMT 574",
       "courseTitle": "DATA SCI 2:MACH LRN",
-      "section": "D",
-      "instructor": "TBA"
+      "section": "E",
+      "instructor": "Osman,Karim Hassan"
     },
     {
       "campus": "S",
@@ -851,7 +931,7 @@
       "term": "WIN2026",
       "course": "IMT 574",
       "courseTitle": "DATA SCI 2:MACH LRN",
-      "section": "E",
+      "section": "D",
       "instructor": "TBA"
     },
     {
@@ -872,7 +952,7 @@
       "course": "IMT 579",
       "courseTitle": "PEOPLE ANALYTICS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Whiteman,Heather"
     },
     {
       "campus": "S",
@@ -902,7 +982,7 @@
       "course": "IMT 561",
       "courseTitle": "DATA VISUALIZATION",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Saldias,Belen"
     },
     {
       "campus": "S",
@@ -912,7 +992,7 @@
       "course": "IMT 598",
       "courseTitle": "SPEC TPCS INFO MGMT",
       "section": "N",
-      "instructor": "TBA"
+      "instructor": "Khan,Fawad"
     }
   ]
 }

@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-04-15T16:27:55Z",
+  "generatedAt": "2026-04-16T02:57:10Z",
   "campus": "S",
   "dept": "csde",
   "deptName": "Center for Studies in Demography and Ecology",
   "records": [
+    {
+      "campus": "S",
+      "dept": "csde",
+      "deptName": "Center for Studies in Demography and Ecology",
+      "term": "AUT2020",
+      "course": "CSDE 501",
+      "courseTitle": "POP SEMINAR SERIES",
+      "section": "A",
+      "instructor": "Bleil,Maria E."
+    },
+    {
+      "campus": "S",
+      "dept": "csde",
+      "deptName": "Center for Studies in Demography and Ecology",
+      "term": "AUT2020",
+      "course": "CSDE 502",
+      "courseTitle": "POP PROSEMINAR",
+      "section": "A",
+      "instructor": "Leibbrand,Christine"
+    },
+    {
+      "campus": "S",
+      "dept": "csde",
+      "deptName": "Center for Studies in Demography and Ecology",
+      "term": "AUT2020",
+      "course": "CSDE 595",
+      "courseTitle": "SPEC TOPS-POPULATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
     {
       "campus": "S",
       "dept": "csde",
@@ -402,7 +432,7 @@
       "course": "CSDE 501",
       "courseTitle": "POP SEMINAR SERIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Arar,Rawan"
     },
     {
       "campus": "S",
@@ -412,7 +442,7 @@
       "course": "CSDE 533",
       "courseTitle": "RSCH MTHD DEMOGRPHY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Godwin,Jessica"
     },
     {
       "campus": "S",
@@ -422,7 +452,7 @@
       "course": "CSDE 533",
       "courseTitle": "RSCH MTHD DEMOGRPHY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Godwin,Jessica"
     },
     {
       "campus": "S",
@@ -432,7 +462,7 @@
       "course": "CSDE 501",
       "courseTitle": "POP SEMINAR SERIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Arar,Rawan"
     },
     {
       "campus": "S",
@@ -442,7 +472,7 @@
       "course": "CSDE 502",
       "courseTitle": "POP PROSEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Curran,Sara R"
     }
   ]
 }

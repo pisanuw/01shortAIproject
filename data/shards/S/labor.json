@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:56Z",
+  "generatedAt": "2026-04-16T02:57:12Z",
   "campus": "S",
   "dept": "labor",
   "deptName": "Labor Studies",
@@ -11,6 +11,16 @@
       "term": "SPR2022",
       "course": "LABOR 496",
       "courseTitle": "LABOR STDY INTRNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labor",
+      "deptName": "Labor Studies",
+      "term": "SUM2022",
+      "course": "LABOR 499",
+      "courseTitle": "LABOR INDEP STUDY",
       "section": "A",
       "instructor": "TBA"
     },
@@ -79,6 +89,26 @@
       "dept": "labor",
       "deptName": "Labor Studies",
       "term": "SUM2023",
+      "course": "LABOR 499",
+      "courseTitle": "LABOR INDEP STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labor",
+      "deptName": "Labor Studies",
+      "term": "AUT2023",
+      "course": "LABOR 360",
+      "courseTitle": "SOC REPRO AND CARE",
+      "section": "A",
+      "instructor": "Saung,Jey"
+    },
+    {
+      "campus": "S",
+      "dept": "labor",
+      "deptName": "Labor Studies",
+      "term": "AUT2023",
       "course": "LABOR 499",
       "courseTitle": "LABOR INDEP STUDY",
       "section": "A",
@@ -169,6 +199,16 @@
       "dept": "labor",
       "deptName": "Labor Studies",
       "term": "SUM2024",
+      "course": "LABOR 499",
+      "courseTitle": "LABOR INDEP STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "labor",
+      "deptName": "Labor Studies",
+      "term": "AUT2024",
       "course": "LABOR 499",
       "courseTitle": "LABOR INDEP STUDY",
       "section": "A",
@@ -292,7 +332,7 @@
       "course": "LABOR 360",
       "courseTitle": "SOC REPRO AND CARE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sorma,Mediha Pinar"
     },
     {
       "campus": "S",
@@ -312,7 +352,7 @@
       "course": "LABOR 274",
       "courseTitle": "SEATTLE LABOR HISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "A Hedden,Andrew"
     },
     {
       "campus": "S",
@@ -372,7 +412,7 @@
       "course": "LABOR 370",
       "courseTitle": "RACE/GENDR GLBL ECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nguyen,Linh Thuy"
     },
     {
       "campus": "S",
@@ -382,7 +422,7 @@
       "course": "LABOR 480",
       "courseTitle": "LABOR STDY RESEARCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Erstad,Rachel"
     },
     {
       "campus": "S",

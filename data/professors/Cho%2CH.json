@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Cho%2CH",
+  "professor": "Cho,H",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "korean",
+      "deptName": "Korean",
+      "term": "AUT2021",
+      "course": "KOREAN 415",
+      "courseTitle": "RDNGS KOR LIT CLTR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "korean",
+      "deptName": "Korean",
+      "term": "WIN2021",
+      "course": "KOREAN 416",
+      "courseTitle": "RDNGS KOR LIT CLTR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "korean",
+      "deptName": "Korean",
+      "term": "AUT2020",
+      "course": "KOREAN 415",
+      "courseTitle": "RDNGS KOR LIT CLTR",
+      "section": "A"
+    }
+  ]
+}

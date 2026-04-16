@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:57Z",
+  "generatedAt": "2026-04-16T02:57:12Z",
   "campus": "S",
   "dept": "kazakh",
   "deptName": "Kazakh",
@@ -228,6 +228,36 @@
       "campus": "S",
       "dept": "kazakh",
       "deptName": "Kazakh",
+      "term": "AUT2023",
+      "course": "KAZAKH 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "kazakh",
+      "deptName": "Kazakh",
+      "term": "AUT2023",
+      "course": "KAZAKH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "kazakh",
+      "deptName": "Kazakh",
+      "term": "AUT2023",
+      "course": "KAZAKH 600",
+      "courseTitle": "INDEPNDNT STDY/RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "kazakh",
+      "deptName": "Kazakh",
       "term": "AUT2024",
       "course": "KAZAKH 490",
       "courseTitle": "SUPERVISED STUDY",
@@ -292,7 +322,7 @@
       "course": "KAZAKH 402",
       "courseTitle": "KAZAKH THRU CULTR 2",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mawkanuli,Talant"
     }
   ]
 }

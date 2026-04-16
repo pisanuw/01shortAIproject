@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Abitua%2CPhil",
+  "professor": "Abitua,Phil",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "genome",
+      "deptName": "Genome Sciences",
+      "term": "AUT2025",
+      "course": "GENOME 520",
+      "courseTitle": "SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "genome",
+      "deptName": "Genome Sciences",
+      "term": "WIN2025",
+      "course": "GENOME 520",
+      "courseTitle": "SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "genome",
+      "deptName": "Genome Sciences",
+      "term": "AUT2024",
+      "course": "GENOME 520",
+      "courseTitle": "SEMINAR",
+      "section": "A"
+    }
+  ]
+}

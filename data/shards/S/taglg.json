@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-04-15T16:27:55Z",
+  "generatedAt": "2026-04-16T02:57:10Z",
   "campus": "S",
   "dept": "taglg",
   "deptName": "Tagalog",
   "records": [
+    {
+      "campus": "S",
+      "dept": "taglg",
+      "deptName": "Tagalog",
+      "term": "AUT2020",
+      "course": "TAGLG 101",
+      "courseTitle": "BASIC TAGALOG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "taglg",
+      "deptName": "Tagalog",
+      "term": "AUT2020",
+      "course": "TAGLG 101",
+      "courseTitle": "BASIC TAGALOG",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "taglg",
+      "deptName": "Tagalog",
+      "term": "AUT2020",
+      "course": "TAGLG 201",
+      "courseTitle": "INTERMEDIATE TAGALOG",
+      "section": "A",
+      "instructor": "TBA"
+    },
     {
       "campus": "S",
       "dept": "taglg",
@@ -348,6 +378,46 @@
       "campus": "S",
       "dept": "taglg",
       "deptName": "Tagalog",
+      "term": "SPR2024",
+      "course": "TAGLG 103",
+      "courseTitle": "BASIC TAGALOG",
+      "section": "A",
+      "instructor": "Juan,Kell Rigueros"
+    },
+    {
+      "campus": "S",
+      "dept": "taglg",
+      "deptName": "Tagalog",
+      "term": "SPR2024",
+      "course": "TAGLG 103",
+      "courseTitle": "BASIC TAGALOG",
+      "section": "B",
+      "instructor": "Juan,Kell Rigueros"
+    },
+    {
+      "campus": "S",
+      "dept": "taglg",
+      "deptName": "Tagalog",
+      "term": "SPR2024",
+      "course": "TAGLG 203",
+      "courseTitle": "INTERMEDIATE TAGALOG",
+      "section": "A",
+      "instructor": "Juan,Kell Rigueros"
+    },
+    {
+      "campus": "S",
+      "dept": "taglg",
+      "deptName": "Tagalog",
+      "term": "SPR2024",
+      "course": "TAGLG 303",
+      "courseTitle": "ADVANCED TAGALOG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "taglg",
+      "deptName": "Tagalog",
       "term": "AUT2024",
       "course": "TAGLG 101",
       "courseTitle": "BASIC TAGALOG",
@@ -412,7 +482,7 @@
       "course": "TAGLG 103",
       "courseTitle": "BASIC TAGALOG",
       "section": "A",
-      "instructor": "Juan,Kell Rigueros"
+      "instructor": "A Juan,Kell Rigueros"
     },
     {
       "campus": "S",
@@ -432,7 +502,7 @@
       "course": "TAGLG 203",
       "courseTitle": "INTERMEDIATE TAGALOG",
       "section": "A",
-      "instructor": "Juan,Kell Rigueros"
+      "instructor": "A Juan,Kell Rigueros"
     },
     {
       "campus": "S",
@@ -448,11 +518,21 @@
       "campus": "S",
       "dept": "taglg",
       "deptName": "Tagalog",
+      "term": "SUM2025",
+      "course": "TAGLG 134",
+      "courseTitle": "INTNSV BASIC TAGALOG",
+      "section": "A",
+      "instructor": "Juan,Kell Rigueros"
+    },
+    {
+      "campus": "S",
+      "dept": "taglg",
+      "deptName": "Tagalog",
       "term": "AUT2025",
       "course": "TAGLG 101",
       "courseTitle": "BASIC TAGALOG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Juan,Kell Rigueros"
     },
     {
       "campus": "S",
@@ -462,7 +542,7 @@
       "course": "TAGLG 101",
       "courseTitle": "BASIC TAGALOG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Juan,Kell Rigueros"
     },
     {
       "campus": "S",
@@ -472,7 +552,7 @@
       "course": "TAGLG 201",
       "courseTitle": "INTERMEDIATE TAGALOG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Juan,Kell Rigueros"
     },
     {
       "campus": "S",
@@ -502,7 +582,7 @@
       "course": "TAGLG 202",
       "courseTitle": "INTERMEDIATE TAGALOG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "A Juan,Kell Rigueros"
     },
     {
       "campus": "S",
@@ -512,7 +592,7 @@
       "course": "TAGLG 103",
       "courseTitle": "BASIC TAGALOG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "A Juan,Kell Rigueros"
     },
     {
       "campus": "S",
@@ -522,7 +602,7 @@
       "course": "TAGLG 103",
       "courseTitle": "BASIC TAGALOG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "A Juan,Kell Rigueros"
     },
     {
       "campus": "S",
@@ -532,7 +612,7 @@
       "course": "TAGLG 203",
       "courseTitle": "INTERMEDIATE TAGALOG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "A Juan,Kell Rigueros"
     },
     {
       "campus": "S",

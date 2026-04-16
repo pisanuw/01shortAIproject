@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:28:00Z",
+  "generatedAt": "2026-04-16T02:57:16Z",
   "campus": "S",
   "dept": "immun",
   "deptName": "Immunology",
@@ -4508,6 +4508,406 @@
       "campus": "S",
       "dept": "immun",
       "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 441",
+      "courseTitle": "INTRO IMMUNOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 537",
+      "courseTitle": "IMMUNOL METHODS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 540",
+      "courseTitle": "TEACHING CLERKSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 550",
+      "courseTitle": "SELECT TOPICS IMMUN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 551",
+      "courseTitle": "T DEP B CELL MAT",
+      "section": "A",
+      "instructor": "RAY,JOHN P."
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 552",
+      "courseTitle": "ANTIVIRAL RESPONSE",
+      "section": "A",
+      "instructor": "Stetson,Daniel B."
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 553",
+      "courseTitle": "R/R IN B CELLS",
+      "section": "A",
+      "instructor": "Prlic,Martin"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 554",
+      "courseTitle": "HUMAN IMMUNOGENETIC",
+      "section": "A",
+      "instructor": "Subramanian,Naeha"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 555",
+      "courseTitle": "AUTOIMMUNE REG",
+      "section": "A",
+      "instructor": "Tait Wojno,Elia"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 556",
+      "courseTitle": "IMMUNITY/ALLERGY",
+      "section": "A",
+      "instructor": "Ziegler,Steven F."
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 557",
+      "courseTitle": "CELL DEATH",
+      "section": "A",
+      "instructor": "Oberst,Andrew A"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 558",
+      "courseTitle": "AUTOIMMUNITY",
+      "section": "A",
+      "instructor": "Rongvaux,Anthony"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 559",
+      "courseTitle": "T CELLS IN TB",
+      "section": "A",
+      "instructor": "Urdahl,Kevin B."
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 560",
+      "courseTitle": "T CELL RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 561",
+      "courseTitle": "MECH PERIPH TOLER",
+      "section": "A",
+      "instructor": "Bettelli,Estelle"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 562",
+      "courseTitle": "IMMUNO STRUCT BIOL",
+      "section": "A",
+      "instructor": "Harrison,Oliver J."
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 563",
+      "courseTitle": "MACROPHAGE BIOLOGY",
+      "section": "A",
+      "instructor": "BARRY,KEVIN C"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 564",
+      "courseTitle": "CELL/MOL REG T RESP",
+      "section": "A",
+      "instructor": "Dudakov,Jarrod"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 565",
+      "courseTitle": "INNATE IMMUNE DEFS",
+      "section": "A",
+      "instructor": "Gale,Michael J"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 566",
+      "courseTitle": "MEMORY T & B",
+      "section": "A",
+      "instructor": "Pepper,Marion"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 567",
+      "courseTitle": "IMMUNE MIRNAS",
+      "section": "A",
+      "instructor": "Savan,Ram"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 568",
+      "courseTitle": "INFLAMM RESPONSE",
+      "section": "A",
+      "instructor": "Hamerman,Jessica A."
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 569",
+      "courseTitle": "T CELLS IN AUTOIMM",
+      "section": "A",
+      "instructor": "Riddell,Stanley R."
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 570",
+      "courseTitle": "MUCOSAL IMMUNITY",
+      "section": "A",
+      "instructor": "KOCH,MEGHAN A."
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 571",
+      "courseTitle": "DEV ACTIV B CELLS",
+      "section": "A",
+      "instructor": "Rawlings,David J"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 572",
+      "courseTitle": "SIGNALING IN B-CELLS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 573",
+      "courseTitle": "IMMUN SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 574",
+      "courseTitle": "KSHV: B-CELL/ENDOTH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 575",
+      "courseTitle": "INFECTION/IMMUNITY",
+      "section": "A",
+      "instructor": "HEADLEY,MARK B."
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 576",
+      "courseTitle": "INNATE REGULATION",
+      "section": "A",
+      "instructor": "Lacy-Hulbert,Adam"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 577",
+      "courseTitle": "LYM HOM AND FUNC",
+      "section": "A",
+      "instructor": "Campbell,Daniel"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 578",
+      "courseTitle": "IMM/PATH TUBERCULOS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 579",
+      "courseTitle": "LIVER IMMUNOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 580",
+      "courseTitle": "IMMUNE IMAGE SFB",
+      "section": "A",
+      "instructor": "Gerner,Michael Y"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 581",
+      "courseTitle": "TYPE 2 IMMUNITY",
+      "section": "A",
+      "instructor": "Von Moltke,Jakob"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 599",
+      "courseTitle": "INTRO TO IMMUN RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "AUT2023",
+      "course": "IMMUN 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
       "term": "WIN2024",
       "course": "IMMUN 499",
       "courseTitle": "UNDERGRAD RESEARCH",
@@ -6408,6 +6808,396 @@
       "campus": "S",
       "dept": "immun",
       "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 534",
+      "courseTitle": "CENTRAL ISSUES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 534",
+      "courseTitle": "CENTRAL ISSUES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 538",
+      "courseTitle": "IMM DIS TREATMENTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 550",
+      "courseTitle": "SELECT TOPICS IMMUN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 551",
+      "courseTitle": "T DEP B CELL MAT",
+      "section": "A",
+      "instructor": "RAY,JOHN P."
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 552",
+      "courseTitle": "ANTIVIRAL RESPONSE",
+      "section": "A",
+      "instructor": "Stetson,Daniel B."
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 553",
+      "courseTitle": "R/R IN B CELLS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 554",
+      "courseTitle": "HUMAN IMMUNOGENETIC",
+      "section": "A",
+      "instructor": "Subramanian,Naeha"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 555",
+      "courseTitle": "AUTOIMMUNE REG",
+      "section": "A",
+      "instructor": "Tait Wojno,Elia"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 556",
+      "courseTitle": "IMMUNITY/ALLERGY",
+      "section": "A",
+      "instructor": "Ziegler,Steven F."
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 557",
+      "courseTitle": "CELL DEATH",
+      "section": "A",
+      "instructor": "Oberst,Andrew A"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 558",
+      "courseTitle": "AUTOIMMUNITY",
+      "section": "A",
+      "instructor": "Rongvaux,Anthony"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 559",
+      "courseTitle": "T CELLS IN TB",
+      "section": "A",
+      "instructor": "Urdahl,Kevin B."
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 560",
+      "courseTitle": "T CELL RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 561",
+      "courseTitle": "MECH PERIPH TOLER",
+      "section": "A",
+      "instructor": "Bettelli,Estelle"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 562",
+      "courseTitle": "IMMUNO STRUCT BIOL",
+      "section": "A",
+      "instructor": "Harrison,Oliver J."
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 563",
+      "courseTitle": "MACROPHAGE BIOLOGY",
+      "section": "A",
+      "instructor": "BARRY,KEVIN C"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 564",
+      "courseTitle": "CELL/MOL REG T RESP",
+      "section": "A",
+      "instructor": "Dudakov,Jarrod"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 565",
+      "courseTitle": "INNATE IMMUNE DEFS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 566",
+      "courseTitle": "MEMORY T & B",
+      "section": "A",
+      "instructor": "Pepper,Marion"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 567",
+      "courseTitle": "IMMUNE MIRNAS",
+      "section": "A",
+      "instructor": "Savan,Ram"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 568",
+      "courseTitle": "INFLAMM RESPONSE",
+      "section": "A",
+      "instructor": "Hamerman,Jessica A."
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 569",
+      "courseTitle": "T CELLS IN AUTOIMM",
+      "section": "A",
+      "instructor": "Srivastava,Shivani"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 570",
+      "courseTitle": "MUCOSAL IMMUNITY",
+      "section": "A",
+      "instructor": "KOCH,MEGHAN A."
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 571",
+      "courseTitle": "DEV ACTIV B CELLS",
+      "section": "A",
+      "instructor": "Rawlings,David J"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 572",
+      "courseTitle": "SIGNALING IN B-CELLS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 573",
+      "courseTitle": "IMMUN SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 575",
+      "courseTitle": "INFECTION/IMMUNITY",
+      "section": "A",
+      "instructor": "HEADLEY,MARK B."
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 576",
+      "courseTitle": "INNATE REGULATION",
+      "section": "A",
+      "instructor": "Lacy-Hulbert,Adam"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 577",
+      "courseTitle": "LYM HOM AND FUNC",
+      "section": "A",
+      "instructor": "Campbell,Daniel"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 578",
+      "courseTitle": "IMM/PATH TUBERCULOS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 579",
+      "courseTitle": "LIVER IMMUNOLOGY",
+      "section": "A",
+      "instructor": "York,Autumn Gabrielle"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 580",
+      "courseTitle": "IMMUNE IMAGE SFB",
+      "section": "A",
+      "instructor": "Gerner,Michael Y"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 581",
+      "courseTitle": "TYPE 2 IMMUNITY",
+      "section": "A",
+      "instructor": "Von Moltke,Jakob"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 599",
+      "courseTitle": "INTRO TO IMMUN RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2025",
+      "course": "IMMUN 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "immun",
+      "deptName": "Immunology",
       "term": "SUM2025",
       "course": "IMMUN 499",
       "courseTitle": "UNDERGRAD RESEARCH",
@@ -6802,7 +7592,7 @@
       "course": "IMMUN 551",
       "courseTitle": "T DEP B CELL MAT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "RAY,JOHN P."
     },
     {
       "campus": "S",
@@ -6812,7 +7602,7 @@
       "course": "IMMUN 552",
       "courseTitle": "ANTIVIRAL RESPONSE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stetson,Daniel B."
     },
     {
       "campus": "S",
@@ -6822,7 +7612,7 @@
       "course": "IMMUN 553",
       "courseTitle": "R/R IN B CELLS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Prlic,Martin"
     },
     {
       "campus": "S",
@@ -6832,7 +7622,7 @@
       "course": "IMMUN 554",
       "courseTitle": "HUMAN IMMUNOGENETIC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Subramanian,Naeha"
     },
     {
       "campus": "S",
@@ -6842,7 +7632,7 @@
       "course": "IMMUN 555",
       "courseTitle": "AUTOIMMUNE REG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tait Wojno,Elia"
     },
     {
       "campus": "S",
@@ -6852,7 +7642,7 @@
       "course": "IMMUN 556",
       "courseTitle": "IMMUNITY/ALLERGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ziegler,Steven F."
     },
     {
       "campus": "S",
@@ -6862,7 +7652,7 @@
       "course": "IMMUN 557",
       "courseTitle": "CELL DEATH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Oberst,Andrew A"
     },
     {
       "campus": "S",
@@ -6872,7 +7662,7 @@
       "course": "IMMUN 558",
       "courseTitle": "AUTOIMMUNITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rongvaux,Anthony"
     },
     {
       "campus": "S",
@@ -6882,7 +7672,7 @@
       "course": "IMMUN 559",
       "courseTitle": "T CELLS IN TB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Urdahl,Kevin B."
     },
     {
       "campus": "S",
@@ -6902,7 +7692,7 @@
       "course": "IMMUN 561",
       "courseTitle": "MECH PERIPH TOLER",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bettelli,Estelle"
     },
     {
       "campus": "S",
@@ -6912,7 +7702,7 @@
       "course": "IMMUN 562",
       "courseTitle": "IMMUNO STRUCT BIOL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mitchell,Patrick"
     },
     {
       "campus": "S",
@@ -6922,7 +7712,7 @@
       "course": "IMMUN 563",
       "courseTitle": "MACROPHAGE BIOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "BARRY,KEVIN C"
     },
     {
       "campus": "S",
@@ -6932,7 +7722,7 @@
       "course": "IMMUN 564",
       "courseTitle": "CELL/MOL REG T RESP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dudakov,Jarrod"
     },
     {
       "campus": "S",
@@ -6952,7 +7742,7 @@
       "course": "IMMUN 566",
       "courseTitle": "MEMORY T & B",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pepper,Marion"
     },
     {
       "campus": "S",
@@ -6962,7 +7752,7 @@
       "course": "IMMUN 567",
       "courseTitle": "IMMUNE MIRNAS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Savan,Ram"
     },
     {
       "campus": "S",
@@ -6972,7 +7762,7 @@
       "course": "IMMUN 568",
       "courseTitle": "INFLAMM RESPONSE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hamerman,Jessica A."
     },
     {
       "campus": "S",
@@ -6982,7 +7772,7 @@
       "course": "IMMUN 569",
       "courseTitle": "T CELLS IN AUTOIMM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Veatch,Joshua"
     },
     {
       "campus": "S",
@@ -6992,7 +7782,7 @@
       "course": "IMMUN 570",
       "courseTitle": "MUCOSAL IMMUNITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "KOCH,MEGHAN A."
     },
     {
       "campus": "S",
@@ -7002,7 +7792,7 @@
       "course": "IMMUN 571",
       "courseTitle": "DEV ACTIV B CELLS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rawlings,David J"
     },
     {
       "campus": "S",
@@ -7042,7 +7832,7 @@
       "course": "IMMUN 575",
       "courseTitle": "INFECTION/IMMUNITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "HEADLEY,MARK B."
     },
     {
       "campus": "S",
@@ -7052,7 +7842,7 @@
       "course": "IMMUN 576",
       "courseTitle": "INNATE REGULATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lacy-Hulbert,Adam"
     },
     {
       "campus": "S",
@@ -7062,7 +7852,7 @@
       "course": "IMMUN 577",
       "courseTitle": "LYM HOM AND FUNC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Campbell,Daniel"
     },
     {
       "campus": "S",
@@ -7082,7 +7872,7 @@
       "course": "IMMUN 579",
       "courseTitle": "LIVER IMMUNOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "York,Autumn Gabrielle"
     },
     {
       "campus": "S",
@@ -7092,7 +7882,7 @@
       "course": "IMMUN 580",
       "courseTitle": "IMMUNE IMAGE SFB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gerner,Michael Y"
     },
     {
       "campus": "S",
@@ -7102,7 +7892,7 @@
       "course": "IMMUN 581",
       "courseTitle": "TYPE 2 IMMUNITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Von Moltke,Jakob"
     },
     {
       "campus": "S",
@@ -7162,7 +7952,7 @@
       "course": "IMMUN 532",
       "courseTitle": "ADVANCED IMMUNOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tait Wojno,Elia"
     },
     {
       "campus": "S",
@@ -7192,7 +7982,7 @@
       "course": "IMMUN 551",
       "courseTitle": "T DEP B CELL MAT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "RAY,JOHN P."
     },
     {
       "campus": "S",
@@ -7202,7 +7992,7 @@
       "course": "IMMUN 552",
       "courseTitle": "ANTIVIRAL RESPONSE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stetson,Daniel B."
     },
     {
       "campus": "S",
@@ -7212,7 +8002,7 @@
       "course": "IMMUN 553",
       "courseTitle": "R/R IN B CELLS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Prlic,Martin"
     },
     {
       "campus": "S",
@@ -7222,7 +8012,7 @@
       "course": "IMMUN 554",
       "courseTitle": "HUMAN IMMUNOGENETIC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Subramanian,Naeha"
     },
     {
       "campus": "S",
@@ -7232,7 +8022,7 @@
       "course": "IMMUN 555",
       "courseTitle": "AUTOIMMUNE REG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tait Wojno,Elia"
     },
     {
       "campus": "S",
@@ -7242,7 +8032,7 @@
       "course": "IMMUN 556",
       "courseTitle": "IMMUNITY/ALLERGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ziegler,Steven F."
     },
     {
       "campus": "S",
@@ -7252,7 +8042,7 @@
       "course": "IMMUN 557",
       "courseTitle": "CELL DEATH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Oberst,Andrew A"
     },
     {
       "campus": "S",
@@ -7262,7 +8052,7 @@
       "course": "IMMUN 558",
       "courseTitle": "AUTOIMMUNITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rongvaux,Anthony"
     },
     {
       "campus": "S",
@@ -7272,7 +8062,7 @@
       "course": "IMMUN 559",
       "courseTitle": "T CELLS IN TB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Urdahl,Kevin B."
     },
     {
       "campus": "S",
@@ -7292,7 +8082,7 @@
       "course": "IMMUN 561",
       "courseTitle": "MECH PERIPH TOLER",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bettelli,Estelle"
     },
     {
       "campus": "S",
@@ -7302,7 +8092,7 @@
       "course": "IMMUN 562",
       "courseTitle": "IMMUNO STRUCT BIOL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mitchell,Patrick"
     },
     {
       "campus": "S",
@@ -7312,7 +8102,7 @@
       "course": "IMMUN 563",
       "courseTitle": "MACROPHAGE BIOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "BARRY,KEVIN C"
     },
     {
       "campus": "S",
@@ -7322,7 +8112,7 @@
       "course": "IMMUN 564",
       "courseTitle": "CELL/MOL REG T RESP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dudakov,Jarrod"
     },
     {
       "campus": "S",
@@ -7342,7 +8132,7 @@
       "course": "IMMUN 566",
       "courseTitle": "MEMORY T & B",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pepper,Marion"
     },
     {
       "campus": "S",
@@ -7352,7 +8142,7 @@
       "course": "IMMUN 567",
       "courseTitle": "IMMUNE MIRNAS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Savan,Ram"
     },
     {
       "campus": "S",
@@ -7362,7 +8152,7 @@
       "course": "IMMUN 568",
       "courseTitle": "INFLAMM RESPONSE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hamerman,Jessica A."
     },
     {
       "campus": "S",
@@ -7372,7 +8162,7 @@
       "course": "IMMUN 569",
       "courseTitle": "T CELLS IN AUTOIMM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Veatch,Joshua"
     },
     {
       "campus": "S",
@@ -7382,7 +8172,7 @@
       "course": "IMMUN 570",
       "courseTitle": "MUCOSAL IMMUNITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "KOCH,MEGHAN A."
     },
     {
       "campus": "S",
@@ -7392,7 +8182,7 @@
       "course": "IMMUN 571",
       "courseTitle": "DEV ACTIV B CELLS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rawlings,David J"
     },
     {
       "campus": "S",
@@ -7432,7 +8222,7 @@
       "course": "IMMUN 575",
       "courseTitle": "INFECTION/IMMUNITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "HEADLEY,MARK B."
     },
     {
       "campus": "S",
@@ -7442,7 +8232,7 @@
       "course": "IMMUN 576",
       "courseTitle": "INNATE REGULATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lacy-Hulbert,Adam"
     },
     {
       "campus": "S",
@@ -7452,7 +8242,7 @@
       "course": "IMMUN 577",
       "courseTitle": "LYM HOM AND FUNC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Campbell,Daniel"
     },
     {
       "campus": "S",
@@ -7472,7 +8262,7 @@
       "course": "IMMUN 579",
       "courseTitle": "LIVER IMMUNOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "York,Autumn Gabrielle"
     },
     {
       "campus": "S",
@@ -7482,7 +8272,7 @@
       "course": "IMMUN 580",
       "courseTitle": "IMMUNE IMAGE SFB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gerner,Michael Y"
     },
     {
       "campus": "S",
@@ -7492,7 +8282,7 @@
       "course": "IMMUN 581",
       "courseTitle": "TYPE 2 IMMUNITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Von Moltke,Jakob"
     },
     {
       "campus": "S",
@@ -7592,7 +8382,7 @@
       "course": "IMMUN 551",
       "courseTitle": "T DEP B CELL MAT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "RAY,JOHN P."
     },
     {
       "campus": "S",
@@ -7602,7 +8392,7 @@
       "course": "IMMUN 552",
       "courseTitle": "ANTIVIRAL RESPONSE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stetson,Daniel B."
     },
     {
       "campus": "S",
@@ -7612,7 +8402,7 @@
       "course": "IMMUN 553",
       "courseTitle": "R/R IN B CELLS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Prlic,Martin"
     },
     {
       "campus": "S",
@@ -7622,7 +8412,7 @@
       "course": "IMMUN 554",
       "courseTitle": "HUMAN IMMUNOGENETIC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Subramanian,Naeha"
     },
     {
       "campus": "S",
@@ -7632,7 +8422,7 @@
       "course": "IMMUN 555",
       "courseTitle": "AUTOIMMUNE REG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tait Wojno,Elia"
     },
     {
       "campus": "S",
@@ -7642,7 +8432,7 @@
       "course": "IMMUN 556",
       "courseTitle": "IMMUNITY/ALLERGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jain,Aakanksha"
     },
     {
       "campus": "S",
@@ -7652,7 +8442,7 @@
       "course": "IMMUN 557",
       "courseTitle": "CELL DEATH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Oberst,Andrew A"
     },
     {
       "campus": "S",
@@ -7662,7 +8452,7 @@
       "course": "IMMUN 558",
       "courseTitle": "AUTOIMMUNITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rongvaux,Anthony"
     },
     {
       "campus": "S",
@@ -7672,7 +8462,7 @@
       "course": "IMMUN 559",
       "courseTitle": "T CELLS IN TB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Urdahl,Kevin B."
     },
     {
       "campus": "S",
@@ -7692,7 +8482,7 @@
       "course": "IMMUN 561",
       "courseTitle": "MECH PERIPH TOLER",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bettelli,Estelle"
     },
     {
       "campus": "S",
@@ -7702,7 +8492,7 @@
       "course": "IMMUN 562",
       "courseTitle": "IMMUNO STRUCT BIOL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mitchell,Patrick"
     },
     {
       "campus": "S",
@@ -7712,7 +8502,7 @@
       "course": "IMMUN 563",
       "courseTitle": "MACROPHAGE BIOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "BARRY,KEVIN C"
     },
     {
       "campus": "S",
@@ -7722,7 +8512,7 @@
       "course": "IMMUN 564",
       "courseTitle": "CELL/MOL REG T RESP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dudakov,Jarrod"
     },
     {
       "campus": "S",
@@ -7732,7 +8522,7 @@
       "course": "IMMUN 565",
       "courseTitle": "INNATE IMMUNE DEFS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Srivastava,Shivani"
     },
     {
       "campus": "S",
@@ -7742,7 +8532,7 @@
       "course": "IMMUN 566",
       "courseTitle": "MEMORY T & B",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pepper,Marion"
     },
     {
       "campus": "S",
@@ -7752,7 +8542,7 @@
       "course": "IMMUN 567",
       "courseTitle": "IMMUNE MIRNAS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Savan,Ram"
     },
     {
       "campus": "S",
@@ -7762,7 +8552,7 @@
       "course": "IMMUN 568",
       "courseTitle": "INFLAMM RESPONSE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hamerman,Jessica A."
     },
     {
       "campus": "S",
@@ -7772,7 +8562,7 @@
       "course": "IMMUN 569",
       "courseTitle": "T CELLS IN AUTOIMM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Veatch,Joshua"
     },
     {
       "campus": "S",
@@ -7782,7 +8572,7 @@
       "course": "IMMUN 570",
       "courseTitle": "MUCOSAL IMMUNITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "KOCH,MEGHAN A."
     },
     {
       "campus": "S",
@@ -7792,7 +8582,7 @@
       "course": "IMMUN 571",
       "courseTitle": "DEV ACTIV B CELLS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rawlings,David J"
     },
     {
       "campus": "S",
@@ -7822,7 +8612,7 @@
       "course": "IMMUN 575",
       "courseTitle": "INFECTION/IMMUNITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "HEADLEY,MARK B."
     },
     {
       "campus": "S",
@@ -7832,7 +8622,7 @@
       "course": "IMMUN 576",
       "courseTitle": "INNATE REGULATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lacy-Hulbert,Adam"
     },
     {
       "campus": "S",
@@ -7842,7 +8632,7 @@
       "course": "IMMUN 577",
       "courseTitle": "LYM HOM AND FUNC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Campbell,Daniel"
     },
     {
       "campus": "S",
@@ -7862,7 +8652,7 @@
       "course": "IMMUN 579",
       "courseTitle": "LIVER IMMUNOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "York,Autumn Gabrielle"
     },
     {
       "campus": "S",
@@ -7872,7 +8662,7 @@
       "course": "IMMUN 580",
       "courseTitle": "IMMUNE IMAGE SFB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gerner,Michael Y"
     },
     {
       "campus": "S",
@@ -7882,7 +8672,7 @@
       "course": "IMMUN 581",
       "courseTitle": "TYPE 2 IMMUNITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Von Moltke,Jakob"
     },
     {
       "campus": "S",

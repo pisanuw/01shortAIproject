@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Winkler%2CMari",
+  "professor": "Winkler,Mari",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2023",
+      "course": "MICROM 435",
+      "courseTitle": "MICROBIAL ECOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 435",
+      "courseTitle": "MICROBIAL ECOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cewa",
+      "deptName": "Environmental Engineering",
+      "term": "WIN2021",
+      "course": "CEWA 582",
+      "courseTitle": "WASTEWTR REUSE RECYC",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cee",
+      "deptName": "Civil and Environmental Engineering",
+      "term": "WIN2021",
+      "course": "CEE 482",
+      "courseTitle": "WASTEWTR REUSE/REC",
+      "section": "A"
+    }
+  ]
+}

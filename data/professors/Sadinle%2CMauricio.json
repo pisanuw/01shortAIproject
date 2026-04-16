@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Sadinle%2CMauricio",
+  "professor": "Sadinle,Mauricio",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2020",
+      "course": "STAT 570",
+      "courseTitle": "REGR METHODS:INDEPT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "AUT2020",
+      "course": "BIOST 570",
+      "courseTitle": "REGR METHODS:INDEPT",
+      "section": "A"
+    }
+  ]
+}

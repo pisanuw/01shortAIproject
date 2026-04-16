@@ -1,7 +1,288 @@
 {
-  "generatedAt": "2026-04-15T16:27:59Z",
+  "generatedAt": "2026-04-16T02:57:15Z",
   "campus": "S",
   "dept": "grad",
   "deptName": "Graduate School",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "AUT2020",
+      "course": "GRDSCH 200",
+      "courseTitle": "PREP FOR GRAD ED",
+      "section": "A",
+      "instructor": "Corey,Mariah"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "AUT2020",
+      "course": "GRDSCH 501",
+      "courseTitle": "TA PREPARATION",
+      "section": "A",
+      "instructor": "Zuo,W"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "WIN2021",
+      "course": "GRDSCH 200",
+      "courseTitle": "PREP FOR GRAD ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "WIN2021",
+      "course": "GRDSCH 610",
+      "courseTitle": "TEACHING MENTORSHIP",
+      "section": "B",
+      "instructor": "Edwards,K"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "WIN2021",
+      "course": "GRDSCH 610",
+      "courseTitle": "TEACHING MENTORSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "WIN2021",
+      "course": "GRDSCH 630",
+      "courseTitle": "SP TPC UNIV TEACHNG",
+      "section": "A",
+      "instructor": "Edwards,K"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "SPR2021",
+      "course": "GRDSCH 200",
+      "courseTitle": "PREP FOR GRAD ED",
+      "section": "A",
+      "instructor": "COREY,MARIAH"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "SPR2021",
+      "course": "GRDSCH 610",
+      "courseTitle": "TEACHING MENTORSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "SUM2021",
+      "course": "GRDSCH 610",
+      "courseTitle": "TEACHING MENTORSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "AUT2021",
+      "course": "GRDSCH 200",
+      "courseTitle": "PREP FOR GRAD ED",
+      "section": "A",
+      "instructor": "COREY,MARIAH"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "WIN2022",
+      "course": "GRDSCH 200",
+      "courseTitle": "PREP FOR GRAD ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "SPR2022",
+      "course": "GRDSCH 200",
+      "courseTitle": "PREP FOR GRAD ED",
+      "section": "A",
+      "instructor": "COREY,MARIAH"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "SUM2022",
+      "course": "GRDSCH 200",
+      "courseTitle": "PREP FOR GRAD ED",
+      "section": "A",
+      "instructor": "COREY,MARIAH"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "AUT2022",
+      "course": "GRDSCH 200",
+      "courseTitle": "PREP FOR GRAD ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "WIN2023",
+      "course": "GRDSCH 200",
+      "courseTitle": "PREP FOR GRAD ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "SPR2023",
+      "course": "GRDSCH 200",
+      "courseTitle": "PREP FOR GRAD ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "SUM2023",
+      "course": "GRDSCH 200",
+      "courseTitle": "PREP FOR GRAD ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "AUT2023",
+      "course": "GRDSCH 200",
+      "courseTitle": "PREP FOR GRAD ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "WIN2024",
+      "course": "GRDSCH 200",
+      "courseTitle": "PREP FOR GRAD ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "SPR2024",
+      "course": "GRDSCH 200",
+      "courseTitle": "PREP FOR GRAD ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "SUM2024",
+      "course": "GRDSCH 200",
+      "courseTitle": "PREP FOR GRAD ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "AUT2024",
+      "course": "GRDSCH 200",
+      "courseTitle": "PREP FOR GRAD ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "WIN2025",
+      "course": "GRDSCH 200",
+      "courseTitle": "PREP FOR GRAD ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "SPR2025",
+      "course": "GRDSCH 200",
+      "courseTitle": "PREP FOR GRAD ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "SUM2025",
+      "course": "GRDSCH 200",
+      "courseTitle": "PREP FOR GRAD ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "AUT2025",
+      "course": "GRDSCH 200",
+      "courseTitle": "PREP FOR GRAD ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "WIN2026",
+      "course": "GRDSCH 200",
+      "courseTitle": "PREP FOR GRAD ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "grad",
+      "deptName": "Graduate School",
+      "term": "SPR2026",
+      "course": "GRDSCH 200",
+      "courseTitle": "PREP FOR GRAD ED",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
 }

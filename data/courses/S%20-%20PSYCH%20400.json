@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2026-04-16T02:57:25Z",
+  "id": "S%20-%20PSYCH%20400",
+  "course": "S - PSYCH 400",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "WIN2026",
+      "course": "PSYCH 400",
+      "courseTitle": "LEARNING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "WIN2024",
+      "course": "PSYCH 400",
+      "courseTitle": "LEARNING",
+      "section": "A",
+      "instructor": "Culligan,Ann"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "PSYCH 400",
+      "courseTitle": "LEARNING",
+      "section": "A",
+      "instructor": "Culligan,Ann"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2021",
+      "course": "PSYCH 400",
+      "courseTitle": "LEARNING",
+      "section": "A",
+      "instructor": "Culligan,Ann"
+    }
+  ]
+}

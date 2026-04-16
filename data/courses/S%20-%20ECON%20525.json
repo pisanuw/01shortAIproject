@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20ECON%20525",
+  "course": "S - ECON 525",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2024",
+      "course": "ECON 525",
+      "courseTitle": "COMPUTATIONL METHODS",
+      "section": "A",
+      "instructor": "Takahashi,Yuya"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2023",
+      "course": "ECON 525",
+      "courseTitle": "COMPUTATIONAL ECON",
+      "section": "A",
+      "instructor": "Takahashi,Yuya"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2022",
+      "course": "ECON 525",
+      "courseTitle": "COMPUTATIONAL ECON",
+      "section": "A",
+      "instructor": "Takahashi,Yuya"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Regan%2CAmelia",
+  "professor": "Regan,Amelia",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cet",
+      "deptName": "Transportation Engineering",
+      "term": "SPR2023",
+      "course": "CET 599",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cee",
+      "deptName": "Civil and Environmental Engineering",
+      "term": "SPR2023",
+      "course": "CEE 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B"
+    }
+  ]
+}

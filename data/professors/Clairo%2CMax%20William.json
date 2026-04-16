@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Clairo%2CMax%20William",
+  "professor": "Clairo,Max William",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2025",
+      "course": "ARCH 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "F"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2025",
+      "course": "ARCH 498",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2025",
+      "course": "ARCH 402",
+      "courseTitle": "ARCH DESIGN VI",
+      "section": "D"
+    }
+  ]
+}

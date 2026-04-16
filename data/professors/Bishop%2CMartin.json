@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Bishop%2CMartin",
+  "professor": "Bishop,Martin",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SPR2022",
+      "course": "MATH 120",
+      "courseTitle": "PRECALCULUS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SPR2021",
+      "course": "MATH 120",
+      "courseTitle": "PRECALCULUS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "WIN2021",
+      "course": "MATH 308",
+      "courseTitle": "MATRIX ALGEBRA",
+      "section": "F"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-04-16T02:57:25Z",
+  "id": "S%20-%20Q%20SCI%20256",
+  "course": "S - Q SCI 256",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2026",
+      "course": "Q SCI 256",
+      "courseTitle": "INTRO DATA SCI MTHDS",
+      "section": "A",
+      "instructor": "WALLACE,BRENDAN"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2025",
+      "course": "Q SCI 256",
+      "courseTitle": "INTRO DATA SCI MTHDS",
+      "section": "A",
+      "instructor": "Berdahl,Andrew"
+    }
+  ]
+}

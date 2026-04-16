@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Kim%2CH",
+  "professor": "Kim,H",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwl",
+      "deptName": "Social Welfare",
+      "term": "WIN2025",
+      "course": "SOC WL 580",
+      "courseTitle": "QUANT RES METHODS",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tme",
+      "deptName": "Mechanical Engineering",
+      "term": "AUT2022",
+      "course": "TME 320",
+      "courseTitle": "FUND MAT SCI",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bchem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "B CHEM 426",
+      "courseTitle": "INSTRUMENTAL ANLYS",
+      "section": "A"
+    }
+  ]
+}

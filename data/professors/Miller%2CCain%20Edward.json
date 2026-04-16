@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Miller%2CCain%20Edward",
+  "professor": "Miller,Cain Edward",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2026",
+      "course": "CMS 240",
+      "courseTitle": "WRITING IN CMS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2024",
+      "course": "CMS 301",
+      "courseTitle": "FILM ANALYSIS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "WIN2024",
+      "course": "CMS 240",
+      "courseTitle": "WRITING IN CMS",
+      "section": "C"
+    }
+  ]
+}

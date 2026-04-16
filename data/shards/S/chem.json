@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:55Z",
+  "generatedAt": "2026-04-16T02:57:11Z",
   "campus": "S",
   "dept": "chem",
   "deptName": "Chemistry",
@@ -12,7 +12,7 @@
       "course": "CHEM 110",
       "courseTitle": "PREP GEN CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Carroll,Andrea D."
     },
     {
       "campus": "S",
@@ -22,7 +22,7 @@
       "course": "CHEM 120",
       "courseTitle": "PRINCIPLES OF CHEM I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha"
     },
     {
       "campus": "S",
@@ -32,7 +32,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Li,Xiaosong"
     },
     {
       "campus": "S",
@@ -42,7 +42,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Li,Xiaosong"
     },
     {
       "campus": "S",
@@ -52,7 +52,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Maibaum,Lutz G"
     },
     {
       "campus": "S",
@@ -62,7 +62,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Maibaum,Lutz G"
     },
     {
       "campus": "S",
@@ -92,7 +92,7 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Varani,Gabriele"
     },
     {
       "campus": "S",
@@ -102,7 +102,7 @@
       "course": "CHEM 162",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Craig,Colleen"
     },
     {
       "campus": "S",
@@ -132,17 +132,7 @@
       "course": "CHEM 223",
       "courseTitle": "ORG CHEM SHORT PROG",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "AUT2020",
-      "course": "CHEM 237",
-      "courseTitle": "ORGANIC CHEMISTRY",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "DUNFORD,DAMIAN G"
     },
     {
       "campus": "S",
@@ -152,7 +142,17 @@
       "course": "CHEM 237",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Goldman,Lawrence M"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2020",
+      "course": "CHEM 237",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "A",
+      "instructor": "Michael,Forrest"
     },
     {
       "campus": "S",
@@ -162,7 +162,7 @@
       "course": "CHEM 237",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha"
     },
     {
       "campus": "S",
@@ -172,7 +172,7 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lalic,Gojko"
     },
     {
       "campus": "S",
@@ -182,7 +182,7 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zalatan,Jesse G"
     },
     {
       "campus": "S",
@@ -192,7 +192,7 @@
       "course": "CHEM 241",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Lawrence M"
     },
     {
       "campus": "S",
@@ -202,7 +202,7 @@
       "course": "CHEM 242",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Lawrence M"
     },
     {
       "campus": "S",
@@ -232,7 +232,7 @@
       "course": "CHEM 312",
       "courseTitle": "INORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Xiao,Dianne"
     },
     {
       "campus": "S",
@@ -671,7 +671,7 @@
       "term": "AUT2020",
       "course": "CHEM 590",
       "courseTitle": "SMNR GENERAL CHEM",
-      "section": "B",
+      "section": "A",
       "instructor": "Kovacs,Julia"
     },
     {
@@ -681,8 +681,8 @@
       "term": "AUT2020",
       "course": "CHEM 590",
       "courseTitle": "SMNR GENERAL CHEM",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Kovacs,Julia"
     },
     {
       "campus": "S",
@@ -772,7 +772,7 @@
       "course": "CHEM 110",
       "courseTitle": "PREP GEN CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Leipzig,Benjamin"
     },
     {
       "campus": "S",
@@ -782,7 +782,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Maibaum,Lutz G"
     },
     {
       "campus": "S",
@@ -792,37 +792,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "WIN2021",
-      "course": "CHEM 152",
-      "courseTitle": "GENERAL CHEMISTRY",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "WIN2021",
-      "course": "CHEM 152",
-      "courseTitle": "GENERAL CHEMISTRY",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "WIN2021",
-      "course": "CHEM 152",
-      "courseTitle": "GENERAL CHEMISTRY",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Maibaum,Lutz G"
     },
     {
       "campus": "S",
@@ -832,7 +802,7 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Barrows,Charles J."
     },
     {
       "campus": "S",
@@ -842,7 +812,37 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Barrows,Charles J."
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2021",
+      "course": "CHEM 152",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "A",
+      "instructor": "Chiu,Daniel T."
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2021",
+      "course": "CHEM 152",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "B",
+      "instructor": "Chiu,Daniel T."
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2021",
+      "course": "CHEM 152",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "C",
+      "instructor": "Craig,Colleen"
     },
     {
       "campus": "S",
@@ -872,7 +872,7 @@
       "course": "CHEM 162",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Carroll,Andrea D."
     },
     {
       "campus": "S",
@@ -902,7 +902,7 @@
       "course": "CHEM 220",
       "courseTitle": "PRINCIPLES CHEM II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha"
     },
     {
       "campus": "S",
@@ -912,7 +912,7 @@
       "course": "CHEM 224",
       "courseTitle": "ORG CHEM SHORT PROG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "DUNFORD,DAMIAN G"
     },
     {
       "campus": "S",
@@ -922,27 +922,7 @@
       "course": "CHEM 237",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "WIN2021",
-      "course": "CHEM 238",
-      "courseTitle": "ORGANIC CHEMISTRY",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "WIN2021",
-      "course": "CHEM 238",
-      "courseTitle": "ORGANIC CHEMISTRY",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha"
     },
     {
       "campus": "S",
@@ -952,7 +932,27 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "DUNFORD,DAMIAN G"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2021",
+      "course": "CHEM 238",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "B",
+      "instructor": "Gelb,Michael H"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2021",
+      "course": "CHEM 238",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "A",
+      "instructor": "Goldman,Lawrence"
     },
     {
       "campus": "S",
@@ -962,7 +962,7 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chatterjee,Champak"
     },
     {
       "campus": "S",
@@ -972,7 +972,7 @@
       "course": "CHEM 241",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Lawrence"
     },
     {
       "campus": "S",
@@ -982,7 +982,7 @@
       "course": "CHEM 241",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Goldman,Lawrence"
     },
     {
       "campus": "S",
@@ -1012,7 +1012,7 @@
       "course": "CHEM 312",
       "courseTitle": "INORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cossairt,Brandi Michelle"
     },
     {
       "campus": "S",
@@ -1142,7 +1142,7 @@
       "course": "CHEM 452",
       "courseTitle": "PHYS CHEM BIOC I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Vaughan,Joshua Charles"
     },
     {
       "campus": "S",
@@ -1152,7 +1152,7 @@
       "course": "CHEM 453",
       "courseTitle": "PHYS CHEM BIOC II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Drobny,Gary P"
     },
     {
       "campus": "S",
@@ -1162,7 +1162,7 @@
       "course": "CHEM 456",
       "courseTitle": "PHYSICAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Campbell,Charles T"
     },
     {
       "campus": "S",
@@ -1362,7 +1362,7 @@
       "course": "CHEM 590",
       "courseTitle": "SMNR GENERAL CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Keller,Sarah L."
     },
     {
       "campus": "S",
@@ -1452,7 +1452,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Maibaum,Lutz G"
     },
     {
       "campus": "S",
@@ -1462,7 +1462,7 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Keller,Sarah L."
     },
     {
       "campus": "S",
@@ -1472,27 +1472,7 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "SPR2021",
-      "course": "CHEM 162",
-      "courseTitle": "GENERAL CHEMISTRY",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "SPR2021",
-      "course": "CHEM 162",
-      "courseTitle": "GENERAL CHEMISTRY",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Keller,Sarah L."
     },
     {
       "campus": "S",
@@ -1502,7 +1482,27 @@
       "course": "CHEM 162",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Leipzig,Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2021",
+      "course": "CHEM 162",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "A",
+      "instructor": "Robinson,Samantha"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2021",
+      "course": "CHEM 162",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "B",
+      "instructor": "Wiegand,Deborah H"
     },
     {
       "campus": "S",
@@ -1542,7 +1542,7 @@
       "course": "CHEM 221",
       "courseTitle": "PRINCIPLES CHEM III",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wiegand,Deborah H"
     },
     {
       "campus": "S",
@@ -1552,7 +1552,7 @@
       "course": "CHEM 237",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha"
     },
     {
       "campus": "S",
@@ -1562,7 +1562,7 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Golder,Matthew Ross"
     },
     {
       "campus": "S",
@@ -1572,7 +1572,7 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Lawrence"
     },
     {
       "campus": "S",
@@ -1582,7 +1582,7 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Rathod,Pradip"
     },
     {
       "campus": "S",
@@ -1592,7 +1592,7 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Rathod,Pradip"
     },
     {
       "campus": "S",
@@ -1602,7 +1602,7 @@
       "course": "CHEM 241",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sasaki,Tomikazu"
     },
     {
       "campus": "S",
@@ -1612,7 +1612,7 @@
       "course": "CHEM 242",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Lawrence"
     },
     {
       "campus": "S",
@@ -1622,7 +1622,7 @@
       "course": "CHEM 242",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Goldman,Lawrence"
     },
     {
       "campus": "S",
@@ -1732,7 +1732,7 @@
       "course": "CHEM 453",
       "courseTitle": "PHYS CHEM BIOC II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Varani,Gabriele"
     },
     {
       "campus": "S",
@@ -1752,7 +1752,7 @@
       "course": "CHEM 457",
       "courseTitle": "PHYSICAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "MASIELLO,David"
     },
     {
       "campus": "S",
@@ -2102,7 +2102,7 @@
       "course": "CHEM 162",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Carroll,Andrea D."
     },
     {
       "campus": "S",
@@ -2142,7 +2142,7 @@
       "course": "CHEM 237",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha"
     },
     {
       "campus": "S",
@@ -2162,7 +2162,7 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sasaki,Tomikazu"
     },
     {
       "campus": "S",
@@ -2182,7 +2182,7 @@
       "course": "CHEM 242",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Lawrence"
     },
     {
       "campus": "S",
@@ -2312,7 +2312,7 @@
       "course": "CHEM 110",
       "courseTitle": "PREP GEN CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Carroll,Andrea D."
     },
     {
       "campus": "S",
@@ -2322,7 +2322,7 @@
       "course": "CHEM 120",
       "courseTitle": "PRINCIPLES OF CHEM I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha"
     },
     {
       "campus": "S",
@@ -2332,7 +2332,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Li,Xiaosong"
     },
     {
       "campus": "S",
@@ -2342,7 +2342,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Li,Xiaosong"
     },
     {
       "campus": "S",
@@ -2352,7 +2352,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Wiegand,Deborah H"
     },
     {
       "campus": "S",
@@ -2362,7 +2362,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Wiegand,Deborah H"
     },
     {
       "campus": "S",
@@ -2392,7 +2392,7 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Varani,Gabriele"
     },
     {
       "campus": "S",
@@ -2402,7 +2402,7 @@
       "course": "CHEM 162",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Craig,Colleen"
     },
     {
       "campus": "S",
@@ -2432,17 +2432,7 @@
       "course": "CHEM 223",
       "courseTitle": "ORG CHEM SHORT PROG",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "AUT2021",
-      "course": "CHEM 237",
-      "courseTitle": "ORGANIC CHEMISTRY",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ingalls,Erica"
     },
     {
       "campus": "S",
@@ -2452,7 +2442,17 @@
       "course": "CHEM 237",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Goldman,Lawrence"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2021",
+      "course": "CHEM 237",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "A",
+      "instructor": "Michael,Forrest"
     },
     {
       "campus": "S",
@@ -2462,7 +2462,7 @@
       "course": "CHEM 237",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha"
     },
     {
       "campus": "S",
@@ -2472,7 +2472,7 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lalic,Gojko"
     },
     {
       "campus": "S",
@@ -2482,7 +2482,7 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zalatan,Jesse"
     },
     {
       "campus": "S",
@@ -2492,7 +2492,7 @@
       "course": "CHEM 241",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Lawrence"
     },
     {
       "campus": "S",
@@ -2502,7 +2502,7 @@
       "course": "CHEM 242",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Lawrence"
     },
     {
       "campus": "S",
@@ -2522,7 +2522,7 @@
       "course": "CHEM 312",
       "courseTitle": "INORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Velian,Alexandra"
     },
     {
       "campus": "S",
@@ -3062,7 +3062,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Carroll,Andrea D."
     },
     {
       "campus": "S",
@@ -3072,7 +3072,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Synovec,Robert E"
     },
     {
       "campus": "S",
@@ -3082,7 +3082,7 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chiu,Daniel T."
     },
     {
       "campus": "S",
@@ -3092,27 +3092,7 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "WIN2022",
-      "course": "CHEM 152",
-      "courseTitle": "GENERAL CHEMISTRY",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "WIN2022",
-      "course": "CHEM 152",
-      "courseTitle": "GENERAL CHEMISTRY",
-      "section": "D",
-      "instructor": "TBA"
+      "instructor": "Chiu,Daniel T."
     },
     {
       "campus": "S",
@@ -3122,7 +3102,27 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Craig,Colleen"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2022",
+      "course": "CHEM 152",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "C",
+      "instructor": "Keller,Sarah L."
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2022",
+      "course": "CHEM 152",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "D",
+      "instructor": "Keller,Sarah L."
     },
     {
       "campus": "S",
@@ -3152,7 +3152,7 @@
       "course": "CHEM 162",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Turecek,Frantisek"
     },
     {
       "campus": "S",
@@ -3182,7 +3182,7 @@
       "course": "CHEM 220",
       "courseTitle": "PRINCIPLES CHEM II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wiegand,Deborah H"
     },
     {
       "campus": "S",
@@ -3192,7 +3192,7 @@
       "course": "CHEM 224",
       "courseTitle": "ORG CHEM SHORT PROG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Lawrence"
     },
     {
       "campus": "S",
@@ -3202,17 +3202,7 @@
       "course": "CHEM 237",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "WIN2022",
-      "course": "CHEM 238",
-      "courseTitle": "ORGANIC CHEMISTRY",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha"
     },
     {
       "campus": "S",
@@ -3222,7 +3212,17 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Gelb,Michael H"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2022",
+      "course": "CHEM 238",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "A",
+      "instructor": "Maly,Dustin James"
     },
     {
       "campus": "S",
@@ -3232,7 +3232,7 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Nelson,Alshakim"
     },
     {
       "campus": "S",
@@ -3242,7 +3242,7 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chatterjee,Champak"
     },
     {
       "campus": "S",
@@ -3252,7 +3252,7 @@
       "course": "CHEM 241",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Lawrence"
     },
     {
       "campus": "S",
@@ -3262,7 +3262,7 @@
       "course": "CHEM 241",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Goldman,Lawrence"
     },
     {
       "campus": "S",
@@ -3292,7 +3292,7 @@
       "course": "CHEM 312",
       "courseTitle": "INORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Xiao,Dianne"
     },
     {
       "campus": "S",
@@ -3422,7 +3422,7 @@
       "course": "CHEM 452",
       "courseTitle": "PHYS CHEM BIOC I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Maibaum,Lutz G"
     },
     {
       "campus": "S",
@@ -3452,7 +3452,7 @@
       "course": "CHEM 456",
       "courseTitle": "PHYSICAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Campbell,Charles T"
     },
     {
       "campus": "S",
@@ -3462,7 +3462,7 @@
       "course": "CHEM 463",
       "courseTitle": "SPECTRO TECHNIQUES",
       "section": "A",
-      "instructor": "Sasaki,Tomikazu"
+      "instructor": "B Sasaki,Tomikazu"
     },
     {
       "campus": "S",
@@ -3572,7 +3572,7 @@
       "course": "CHEM 551",
       "courseTitle": "INTRO QUANTUM CHEM",
       "section": "A",
-      "instructor": "Stoll,Stefan"
+      "instructor": "A Stoll,Stefan"
     },
     {
       "campus": "S",
@@ -3671,8 +3671,8 @@
       "term": "WIN2022",
       "course": "CHEM 590",
       "courseTitle": "SMNR GENERAL CHEM",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Hermanns,Karl R"
     },
     {
       "campus": "S",
@@ -3681,7 +3681,7 @@
       "term": "WIN2022",
       "course": "CHEM 590",
       "courseTitle": "SMNR GENERAL CHEM",
-      "section": "B",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -3768,11 +3768,901 @@
       "campus": "S",
       "dept": "chem",
       "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 142",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "A",
+      "instructor": "Wiegand,Deborah H"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 152",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "A",
+      "instructor": "Maibaum,Lutz G"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 152",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "B",
+      "instructor": "Maibaum,Lutz G"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 162",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "B",
+      "instructor": "Carroll,Andrea D."
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 162",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "C",
+      "instructor": "Craig,Colleen"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 162",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "A",
+      "instructor": "Leipzig,Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 165",
+      "courseTitle": "H-GENERAL CHEMISTRY",
+      "section": "A",
+      "instructor": "Xiao,Dianne"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 196",
+      "courseTitle": "CHEMISTRY FRONTIERS",
+      "section": "A",
+      "instructor": "Velian,Alexandra"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 198",
+      "courseTitle": "TUTORIAL STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 199",
+      "courseTitle": "SPECIAL PROBLEMS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 221",
+      "courseTitle": "PRINCIPLES CHEM III",
+      "section": "A",
+      "instructor": "Wiegand,Deborah H"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 237",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "A",
+      "instructor": "Robinson,Samantha"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 238",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "A",
+      "instructor": "Golder,Matthew Ross"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 239",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "A",
+      "instructor": "Goldman,Lawrence"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 239",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "B",
+      "instructor": "Rathod,Pradip"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 239",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "C",
+      "instructor": "Rathod,Pradip"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 241",
+      "courseTitle": "ORGANIC CHEM LAB",
+      "section": "A",
+      "instructor": "Sasaki,Tomikazu"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 242",
+      "courseTitle": "ORGANIC CHEM LAB",
+      "section": "A",
+      "instructor": "Goldman,Lawrence"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 242",
+      "courseTitle": "ORGANIC CHEM LAB",
+      "section": "B",
+      "instructor": "Goldman,Lawrence"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 299",
+      "courseTitle": "SPEC PROBS/RPT WRTG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 317",
+      "courseTitle": "INORGANIC CHEM LAB",
+      "section": "A",
+      "instructor": "Robinson,Samantha"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 317",
+      "courseTitle": "INORGANIC CHEM LAB",
+      "section": "B",
+      "instructor": "Robinson,Samantha"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 321",
+      "courseTitle": "QUANTITATIVE ANLYS",
+      "section": "A",
+      "instructor": "Bush,Matt"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 337",
+      "courseTitle": "H-ORGANIC CHEMISTRY",
+      "section": "A",
+      "instructor": "Gelb,Michael H"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 347",
+      "courseTitle": "H-ORG&QUAL ORGN LAB",
+      "section": "A",
+      "instructor": "Maly,Dustin James"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 399",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 425",
+      "courseTitle": "MESO/MICROFLUIDICS",
+      "section": "A",
+      "instructor": "Theberge,Ashleigh B"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 432",
+      "courseTitle": "ADV BIO ORGNC CHEM",
+      "section": "A",
+      "instructor": "Rajakovich,Lauren J"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 443",
+      "courseTitle": "BIG DATA FOR MAT SCI",
+      "section": "A",
+      "instructor": "Huang,Luna"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 453",
+      "courseTitle": "PHYS CHEM BIOC II",
+      "section": "A",
+      "instructor": "Varani,Gabriele"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 455",
+      "courseTitle": "PHYSICAL CHEMISTRY",
+      "section": "A",
+      "instructor": "Ginger,David S."
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 457",
+      "courseTitle": "PHYSICAL CHEMISTRY",
+      "section": "A",
+      "instructor": "Drobny,Gary Peter"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 461",
+      "courseTitle": "PHYS CHEM LAB",
+      "section": "A",
+      "instructor": "A Robinson,Bruce H"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 464",
+      "courseTitle": "COMPUTER DATA ANLYS",
+      "section": "A",
+      "instructor": "Robinson,Bruce H"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 486",
+      "courseTitle": "ELEC DYN ORG INORG",
+      "section": "A",
+      "instructor": "Schlenker,Cody W"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 499",
+      "courseTitle": "UG RES/REPORT WRTG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 501",
+      "courseTitle": "READINGS IN CHEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 510",
+      "courseTitle": "CRNT PRBS INOR CHEM",
+      "section": "A",
+      "instructor": "A Kovacs,Julia"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 524",
+      "courseTitle": "ANLYT MASS SPECTROM",
+      "section": "A",
+      "instructor": "Turecek,Frantisek"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 525",
+      "courseTitle": "MESO/MICROFLUIDICS",
+      "section": "A",
+      "instructor": "Theberge,Ashleigh B"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 532",
+      "courseTitle": "ADV BIO ORGNC CHEM",
+      "section": "A",
+      "instructor": "Rajakovich,Lauren J"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 543",
+      "courseTitle": "BIG DATA FOR MAT SCI",
+      "section": "A",
+      "instructor": "Huang,Luna"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 547",
+      "courseTitle": "DATA SCI CAPSTONE",
+      "section": "A",
+      "instructor": "Beck,David A. C."
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 553",
+      "courseTitle": "STATISTCL MECHANICS",
+      "section": "A",
+      "instructor": "A MASIELLO,David"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 560",
+      "courseTitle": "CUR PROB PHYS CHEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 567",
+      "courseTitle": "COMPUTER DATA ANLYS",
+      "section": "A",
+      "instructor": "Robinson,Bruce H"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 571",
+      "courseTitle": "RESEARCH",
+      "section": "A",
+      "instructor": "Xiao,Dianne"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 573",
+      "courseTitle": "ORGANIC/BIOL RESRCH",
+      "section": "A",
+      "instructor": "Michael,Forrest"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 574",
+      "courseTitle": "SPECTROSCOPY RESERCH",
+      "section": "A",
+      "instructor": "McCoy,Anne B."
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 575",
+      "courseTitle": "RESEARCH COMPUTATION",
+      "section": "A",
+      "instructor": "Li,Xiaosong"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 578",
+      "courseTitle": "RESRCH MATERIAL CHEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 581",
+      "courseTitle": "PREP 2ND YEAR EXAM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 586",
+      "courseTitle": "ELEC DYN ORG INORG",
+      "section": "A",
+      "instructor": "Schlenker,Cody W"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 587",
+      "courseTitle": "NANOMAT CHEM ENGR",
+      "section": "A",
+      "instructor": "Holmberg,Vincent C"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 590",
+      "courseTitle": "SMNR GENERAL CHEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 591",
+      "courseTitle": "SMNR INORGANIC CHEM",
+      "section": "A",
+      "instructor": "Velian,Alexandra"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 592",
+      "courseTitle": "SMNR ANALYTCL CHEM",
+      "section": "A",
+      "instructor": "Theberge,Ashleigh B"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 593",
+      "courseTitle": "SMNR ORGANIC CHEM",
+      "section": "A",
+      "instructor": "Nelson,Alshakim"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 595",
+      "courseTitle": "SMNR PHYSICAL CHEM",
+      "section": "A",
+      "instructor": "MASIELLO,David"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 597",
+      "courseTitle": "SEMINAR IN MOLENG",
+      "section": "A",
+      "instructor": "Nelson,Alshakim"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2022",
+      "course": "CHEM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 110",
+      "courseTitle": "PREP GEN CHEM",
+      "section": "A",
+      "instructor": "Storfer,Dinara"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 120",
+      "courseTitle": "PRINCIPLES OF CHEM I",
+      "section": "A",
+      "instructor": "Dostie,Ashley"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 142",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "A",
+      "instructor": "MASIELLO,David"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 152",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "A",
+      "instructor": "Kontulis,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 162",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "A",
+      "instructor": "Carroll,Andrea D."
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 199",
+      "courseTitle": "SPECIAL PROBLEMS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 223",
+      "courseTitle": "ORG CHEM SHORT PROG",
+      "section": "A",
+      "instructor": "Long,Evan Timothy"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 224",
+      "courseTitle": "ORG CHEM SHORT PROG",
+      "section": "A",
+      "instructor": "Bartlett,Kevin"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 237",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "A",
+      "instructor": "Leipzig,Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 238",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "A",
+      "instructor": "Leipzig,Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 239",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "A",
+      "instructor": "Patterson,James G."
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 241",
+      "courseTitle": "ORGANIC CHEM LAB",
+      "section": "A",
+      "instructor": "Goldman,Lawrence"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 242",
+      "courseTitle": "ORGANIC CHEM LAB",
+      "section": "A",
+      "instructor": "Goldman,Lawrence"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 299",
+      "courseTitle": "SPEC PROBS/RPT WRTG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 312",
+      "courseTitle": "INORGANIC CHEMISTRY",
+      "section": "A",
+      "instructor": "Furutani,Tracy"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 317",
+      "courseTitle": "INORGANIC CHEM LAB",
+      "section": "A",
+      "instructor": "Leipzig,Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 321",
+      "courseTitle": "QUANTITATIVE ANLYS",
+      "section": "A",
+      "instructor": "Synovec,Robert E"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 399",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 452",
+      "courseTitle": "PHYS CHEM BIOC I",
+      "section": "A",
+      "instructor": "Drobny,Gary Peter"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 453",
+      "courseTitle": "PHYS CHEM BIOC II",
+      "section": "A",
+      "instructor": "Drobny,Gary Peter"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 456",
+      "courseTitle": "PHYSICAL CHEMISTRY",
+      "section": "A",
+      "instructor": "Drobny,Gary Peter"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 457",
+      "courseTitle": "PHYSICAL CHEMISTRY",
+      "section": "A",
+      "instructor": "Drobny,Gary Peter"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 499",
+      "courseTitle": "UG RES/REPORT WRTG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "CHEM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
       "term": "AUT2022",
       "course": "CHEM 110",
       "courseTitle": "PREP GEN CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Carroll,Andrea D."
     },
     {
       "campus": "S",
@@ -3782,7 +4672,7 @@
       "course": "CHEM 120",
       "courseTitle": "PRINCIPLES OF CHEM I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha"
     },
     {
       "campus": "S",
@@ -3792,7 +4682,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Barrows,Charles J"
     },
     {
       "campus": "S",
@@ -3802,17 +4692,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "AUT2022",
-      "course": "CHEM 142",
-      "courseTitle": "GENERAL CHEMISTRY",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Barrows,Charles J"
     },
     {
       "campus": "S",
@@ -3822,7 +4702,17 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Barrows,Charles J"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2022",
+      "course": "CHEM 142",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "C",
+      "instructor": "Leipzig,Benjamin"
     },
     {
       "campus": "S",
@@ -3852,7 +4742,7 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Craig,Colleen"
     },
     {
       "campus": "S",
@@ -3862,7 +4752,7 @@
       "course": "CHEM 162",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Maibaum,Lutz G"
     },
     {
       "campus": "S",
@@ -3892,27 +4782,7 @@
       "course": "CHEM 223",
       "courseTitle": "ORG CHEM SHORT PROG",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "AUT2022",
-      "course": "CHEM 237",
-      "courseTitle": "ORGANIC CHEMISTRY",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "AUT2022",
-      "course": "CHEM 237",
-      "courseTitle": "ORGANIC CHEMISTRY",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Leipzig,Benjamin"
     },
     {
       "campus": "S",
@@ -3922,7 +4792,27 @@
       "course": "CHEM 237",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Goldman,Lawrence"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2022",
+      "course": "CHEM 237",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "A",
+      "instructor": "Michael,Forrest"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2022",
+      "course": "CHEM 237",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "B",
+      "instructor": "Robinson,Samantha"
     },
     {
       "campus": "S",
@@ -3932,7 +4822,7 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lalic,Gojko"
     },
     {
       "campus": "S",
@@ -3942,7 +4832,7 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zalatan,Jesse"
     },
     {
       "campus": "S",
@@ -3952,7 +4842,7 @@
       "course": "CHEM 241",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Lawrence"
     },
     {
       "campus": "S",
@@ -3962,7 +4852,7 @@
       "course": "CHEM 242",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Lawrence"
     },
     {
       "campus": "S",
@@ -3982,7 +4872,7 @@
       "course": "CHEM 312",
       "courseTitle": "INORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Velian,Alexandra"
     },
     {
       "campus": "S",
@@ -4492,7 +5382,7 @@
       "course": "CHEM 110",
       "courseTitle": "PREP GEN CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha"
     },
     {
       "campus": "S",
@@ -4502,7 +5392,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Maibaum,Lutz G"
     },
     {
       "campus": "S",
@@ -4512,37 +5402,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "WIN2023",
-      "course": "CHEM 152",
-      "courseTitle": "GENERAL CHEMISTRY",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "WIN2023",
-      "course": "CHEM 152",
-      "courseTitle": "GENERAL CHEMISTRY",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "WIN2023",
-      "course": "CHEM 152",
-      "courseTitle": "GENERAL CHEMISTRY",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Synovec,Robert E"
     },
     {
       "campus": "S",
@@ -4552,7 +5412,7 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Barrows,Charles J"
     },
     {
       "campus": "S",
@@ -4562,7 +5422,37 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Barrows,Charles J"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2023",
+      "course": "CHEM 152",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "B",
+      "instructor": "Carroll,Andrea D."
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2023",
+      "course": "CHEM 152",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "A",
+      "instructor": "Craig,Colleen"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2023",
+      "course": "CHEM 152",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "C",
+      "instructor": "Goldman,Lawrence"
     },
     {
       "campus": "S",
@@ -4592,7 +5482,7 @@
       "course": "CHEM 162",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Turecek,Frantisek"
     },
     {
       "campus": "S",
@@ -4622,7 +5512,7 @@
       "course": "CHEM 220",
       "courseTitle": "PRINCIPLES CHEM II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha"
     },
     {
       "campus": "S",
@@ -4632,7 +5522,7 @@
       "course": "CHEM 224",
       "courseTitle": "ORG CHEM SHORT PROG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Leipzig,Benjamin"
     },
     {
       "campus": "S",
@@ -4642,17 +5532,7 @@
       "course": "CHEM 237",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "WIN2023",
-      "course": "CHEM 238",
-      "courseTitle": "ORGANIC CHEMISTRY",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chatterjee,Champak"
     },
     {
       "campus": "S",
@@ -4662,7 +5542,7 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Gelb,Michael H"
     },
     {
       "campus": "S",
@@ -4672,7 +5552,17 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Leipzig,Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2023",
+      "course": "CHEM 238",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "A",
+      "instructor": "Maly,Dustin James"
     },
     {
       "campus": "S",
@@ -4682,7 +5572,7 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rajakovich,Lauren J"
     },
     {
       "campus": "S",
@@ -4692,7 +5582,7 @@
       "course": "CHEM 241",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Lawrence"
     },
     {
       "campus": "S",
@@ -4702,7 +5592,7 @@
       "course": "CHEM 241",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Goldman,Lawrence"
     },
     {
       "campus": "S",
@@ -4732,7 +5622,7 @@
       "course": "CHEM 312",
       "courseTitle": "INORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Xiao,Dianne"
     },
     {
       "campus": "S",
@@ -4872,7 +5762,7 @@
       "course": "CHEM 452",
       "courseTitle": "PHYS CHEM BIOC I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Vaughan,Joshua Charles"
     },
     {
       "campus": "S",
@@ -4902,7 +5792,7 @@
       "course": "CHEM 456",
       "courseTitle": "PHYSICAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Varani,Gabriele"
     },
     {
       "campus": "S",
@@ -4922,7 +5812,7 @@
       "course": "CHEM 463",
       "courseTitle": "SPECTRO TECHNIQUES",
       "section": "A",
-      "instructor": "Sasaki,Tomikazu"
+      "instructor": "R Sasaki,Tomikazu"
     },
     {
       "campus": "S",
@@ -5032,7 +5922,7 @@
       "course": "CHEM 551",
       "courseTitle": "INTRO QUANTUM CHEM",
       "section": "A",
-      "instructor": "Stoll,Stefan"
+      "instructor": "A Stoll,Stefan"
     },
     {
       "campus": "S",
@@ -5202,7 +6092,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Craig,Colleen"
     },
     {
       "campus": "S",
@@ -5212,7 +6102,7 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Maibaum,Lutz G"
     },
     {
       "campus": "S",
@@ -5222,7 +6112,7 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Maibaum,Lutz G"
     },
     {
       "campus": "S",
@@ -5232,17 +6122,7 @@
       "course": "CHEM 162",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "SPR2023",
-      "course": "CHEM 162",
-      "courseTitle": "GENERAL CHEMISTRY",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Barrows,Charles J"
     },
     {
       "campus": "S",
@@ -5252,7 +6132,17 @@
       "course": "CHEM 162",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Leipzig,Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2023",
+      "course": "CHEM 162",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "B",
+      "instructor": "Robinson,Samantha"
     },
     {
       "campus": "S",
@@ -5302,7 +6192,7 @@
       "course": "CHEM 221",
       "courseTitle": "PRINCIPLES CHEM III",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Leipzig,Benjamin"
     },
     {
       "campus": "S",
@@ -5312,7 +6202,7 @@
       "course": "CHEM 237",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha"
     },
     {
       "campus": "S",
@@ -5322,7 +6212,7 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Golder,Matthew Ross"
     },
     {
       "campus": "S",
@@ -5332,7 +6222,7 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -5342,7 +6232,7 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Rathod,Pradip"
     },
     {
       "campus": "S",
@@ -5352,7 +6242,7 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Rathod,Pradip"
     },
     {
       "campus": "S",
@@ -5362,7 +6252,7 @@
       "course": "CHEM 241",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sasaki,Tomikazu"
     },
     {
       "campus": "S",
@@ -5372,7 +6262,7 @@
       "course": "CHEM 242",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -5382,7 +6272,7 @@
       "course": "CHEM 242",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -5492,7 +6382,7 @@
       "course": "CHEM 453",
       "courseTitle": "PHYS CHEM BIOC II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Varani,Gabriele"
     },
     {
       "campus": "S",
@@ -5512,7 +6402,7 @@
       "course": "CHEM 457",
       "courseTitle": "PHYSICAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Drobny,Gary Peter"
     },
     {
       "campus": "S",
@@ -5572,7 +6462,7 @@
       "course": "CHEM 510",
       "courseTitle": "CRNT PRBS INOR CHEM",
       "section": "A",
-      "instructor": "Kovacs,Julie"
+      "instructor": "A Kovacs,Julie"
     },
     {
       "campus": "S",
@@ -5882,7 +6772,7 @@
       "course": "CHEM 237",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wine,Tristan"
     },
     {
       "campus": "S",
@@ -5892,7 +6782,7 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Leipzig,Benjamin"
     },
     {
       "campus": "S",
@@ -5902,7 +6792,7 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Leipzig,Benjamin"
     },
     {
       "campus": "S",
@@ -6052,7 +6942,7 @@
       "course": "CHEM 110",
       "courseTitle": "PREP GEN CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Storfer,Dinara"
     },
     {
       "campus": "S",
@@ -6062,27 +6952,7 @@
       "course": "CHEM 120",
       "courseTitle": "PRINCIPLES OF CHEM I",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "AUT2023",
-      "course": "CHEM 142",
-      "courseTitle": "GENERAL CHEMISTRY",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "AUT2023",
-      "course": "CHEM 142",
-      "courseTitle": "GENERAL CHEMISTRY",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha"
     },
     {
       "campus": "S",
@@ -6092,7 +6962,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Barrows,Charles J"
     },
     {
       "campus": "S",
@@ -6102,7 +6972,27 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Barrows,Charles J"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2023",
+      "course": "CHEM 142",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "A",
+      "instructor": "Craig,Colleen"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2023",
+      "course": "CHEM 142",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "B",
+      "instructor": "Craig,Colleen"
     },
     {
       "campus": "S",
@@ -6132,7 +7022,7 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chiu,Daniel T."
     },
     {
       "campus": "S",
@@ -6142,7 +7032,7 @@
       "course": "CHEM 162",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Maibaum,Lutz G"
     },
     {
       "campus": "S",
@@ -6172,27 +7062,7 @@
       "course": "CHEM 223",
       "courseTitle": "ORG CHEM SHORT PROG",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "AUT2023",
-      "course": "CHEM 237",
-      "courseTitle": "ORGANIC CHEMISTRY",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "AUT2023",
-      "course": "CHEM 237",
-      "courseTitle": "ORGANIC CHEMISTRY",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Leipzig,Benjamin"
     },
     {
       "campus": "S",
@@ -6202,7 +7072,27 @@
       "course": "CHEM 237",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2023",
+      "course": "CHEM 237",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "A",
+      "instructor": "Michael,Forrest"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2023",
+      "course": "CHEM 237",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "B",
+      "instructor": "Robinson,Samantha"
     },
     {
       "campus": "S",
@@ -6212,7 +7102,7 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lalic,Gojko"
     },
     {
       "campus": "S",
@@ -6222,7 +7112,7 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rajakovich,Lauren J"
     },
     {
       "campus": "S",
@@ -6232,7 +7122,7 @@
       "course": "CHEM 241",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -6242,7 +7132,7 @@
       "course": "CHEM 242",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -6262,7 +7152,7 @@
       "course": "CHEM 312",
       "courseTitle": "INORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cossairt,Brandi"
     },
     {
       "campus": "S",
@@ -6392,7 +7282,7 @@
       "course": "CHEM 455",
       "courseTitle": "PHYSICAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "MASIELLO,David"
     },
     {
       "campus": "S",
@@ -6792,7 +7682,7 @@
       "course": "CHEM 110",
       "courseTitle": "PREP GEN CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha"
     },
     {
       "campus": "S",
@@ -6802,7 +7692,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Craig,Colleen"
     },
     {
       "campus": "S",
@@ -6812,37 +7702,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "WIN2024",
-      "course": "CHEM 152",
-      "courseTitle": "GENERAL CHEMISTRY",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "WIN2024",
-      "course": "CHEM 152",
-      "courseTitle": "GENERAL CHEMISTRY",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "WIN2024",
-      "course": "CHEM 152",
-      "courseTitle": "GENERAL CHEMISTRY",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Maibaum,Lutz G"
     },
     {
       "campus": "S",
@@ -6852,7 +7712,7 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Barrows,Charles J"
     },
     {
       "campus": "S",
@@ -6862,7 +7722,37 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Barrows,Charles J"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2024",
+      "course": "CHEM 152",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "A",
+      "instructor": "Chiu,Daniel T."
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2024",
+      "course": "CHEM 152",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "B",
+      "instructor": "Craig,Colleen"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2024",
+      "course": "CHEM 152",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "C",
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -6892,7 +7782,7 @@
       "course": "CHEM 162",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Turecek,Frantisek"
     },
     {
       "campus": "S",
@@ -6922,7 +7812,7 @@
       "course": "CHEM 220",
       "courseTitle": "PRINCIPLES CHEM II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha"
     },
     {
       "campus": "S",
@@ -6932,7 +7822,7 @@
       "course": "CHEM 224",
       "courseTitle": "ORG CHEM SHORT PROG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Leipzig,Benjamin"
     },
     {
       "campus": "S",
@@ -6942,17 +7832,7 @@
       "course": "CHEM 237",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "WIN2024",
-      "course": "CHEM 238",
-      "courseTitle": "ORGANIC CHEMISTRY",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bartlett,Kevin"
     },
     {
       "campus": "S",
@@ -6962,7 +7842,7 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Lalic,Gojko"
     },
     {
       "campus": "S",
@@ -6972,7 +7852,17 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Leipzig,Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2024",
+      "course": "CHEM 238",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "A",
+      "instructor": "Maly,Dustin James"
     },
     {
       "campus": "S",
@@ -6982,7 +7872,7 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Leipzig,Benjamin"
     },
     {
       "campus": "S",
@@ -6992,7 +7882,7 @@
       "course": "CHEM 241",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -7002,7 +7892,7 @@
       "course": "CHEM 241",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -7032,7 +7922,7 @@
       "course": "CHEM 312",
       "courseTitle": "INORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Xiao,Dianne"
     },
     {
       "campus": "S",
@@ -7172,7 +8062,7 @@
       "course": "CHEM 452",
       "courseTitle": "PHYS CHEM BIOC I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Vaughan,Joshua Charles"
     },
     {
       "campus": "S",
@@ -7202,7 +8092,7 @@
       "course": "CHEM 456",
       "courseTitle": "PHYSICAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Varani,Gabriele"
     },
     {
       "campus": "S",
@@ -7332,7 +8222,7 @@
       "course": "CHEM 551",
       "courseTitle": "INTRO QUANTUM CHEM",
       "section": "A",
-      "instructor": "Stoll,Stefan"
+      "instructor": "A Stoll,Stefan"
     },
     {
       "campus": "S",
@@ -7532,7 +8422,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Barrows,Charles J"
     },
     {
       "campus": "S",
@@ -7542,7 +8432,7 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Maibaum,Lutz G"
     },
     {
       "campus": "S",
@@ -7552,7 +8442,7 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Maibaum,Lutz G"
     },
     {
       "campus": "S",
@@ -7562,7 +8452,7 @@
       "course": "CHEM 162",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Barrows,Charles J"
     },
     {
       "campus": "S",
@@ -7572,7 +8462,7 @@
       "course": "CHEM 162",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Craig,Colleen"
     },
     {
       "campus": "S",
@@ -7582,7 +8472,7 @@
       "course": "CHEM 162",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Craig,Colleen"
     },
     {
       "campus": "S",
@@ -7632,7 +8522,7 @@
       "course": "CHEM 221",
       "courseTitle": "PRINCIPLES CHEM III",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Leipzig,Benjamin"
     },
     {
       "campus": "S",
@@ -7642,7 +8532,7 @@
       "course": "CHEM 237",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha"
     },
     {
       "campus": "S",
@@ -7652,7 +8542,7 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bartlett,Kevin"
     },
     {
       "campus": "S",
@@ -7662,7 +8552,7 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -7672,7 +8562,7 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -7682,7 +8572,7 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Rathod,Pradip"
     },
     {
       "campus": "S",
@@ -7692,7 +8582,7 @@
       "course": "CHEM 241",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sasaki,Tomikazu"
     },
     {
       "campus": "S",
@@ -7702,7 +8592,7 @@
       "course": "CHEM 242",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -7712,7 +8602,7 @@
       "course": "CHEM 242",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -7822,7 +8712,7 @@
       "course": "CHEM 453",
       "courseTitle": "PHYS CHEM BIOC II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Varani,Gabriele"
     },
     {
       "campus": "S",
@@ -7842,7 +8732,7 @@
       "course": "CHEM 457",
       "courseTitle": "PHYSICAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Drobny,Gary Peter"
     },
     {
       "campus": "S",
@@ -8202,7 +9092,7 @@
       "course": "CHEM 237",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "FORBES,ALAINA"
     },
     {
       "campus": "S",
@@ -8212,7 +9102,7 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lalic,Gojko"
     },
     {
       "campus": "S",
@@ -8222,7 +9112,7 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bartlett,Kevin"
     },
     {
       "campus": "S",
@@ -8372,7 +9262,7 @@
       "course": "CHEM 110",
       "courseTitle": "PREP GEN CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stanich,Cynthia A"
     },
     {
       "campus": "S",
@@ -8382,7 +9272,7 @@
       "course": "CHEM 120",
       "courseTitle": "PRINCIPLES OF CHEM I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bright Hettinger,Terri"
     },
     {
       "campus": "S",
@@ -8392,7 +9282,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Craig,Colleen"
     },
     {
       "campus": "S",
@@ -8402,7 +9292,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Craig,Colleen"
     },
     {
       "campus": "S",
@@ -8412,7 +9302,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Kroll,Alec"
     },
     {
       "campus": "S",
@@ -8422,7 +9312,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Kroll,Alec"
     },
     {
       "campus": "S",
@@ -8452,7 +9342,7 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Synovec,Robert E"
     },
     {
       "campus": "S",
@@ -8462,7 +9352,7 @@
       "course": "CHEM 162",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Maibaum,Lutz G"
     },
     {
       "campus": "S",
@@ -8482,27 +9372,7 @@
       "course": "CHEM 223",
       "courseTitle": "ORG CHEM SHORT PROG",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "AUT2024",
-      "course": "CHEM 237",
-      "courseTitle": "ORGANIC CHEMISTRY",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "AUT2024",
-      "course": "CHEM 237",
-      "courseTitle": "ORGANIC CHEMISTRY",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Bartlett,Kevin"
     },
     {
       "campus": "S",
@@ -8512,7 +9382,27 @@
       "course": "CHEM 237",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2024",
+      "course": "CHEM 237",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "A",
+      "instructor": "Michael,Forrest"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2024",
+      "course": "CHEM 237",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "B",
+      "instructor": "Robinson,Samantha"
     },
     {
       "campus": "S",
@@ -8522,7 +9412,7 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lalic,Gojko"
     },
     {
       "campus": "S",
@@ -8532,7 +9422,7 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zalatan,Jesse"
     },
     {
       "campus": "S",
@@ -8542,7 +9432,7 @@
       "course": "CHEM 241",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -8552,7 +9442,7 @@
       "course": "CHEM 242",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -8572,7 +9462,7 @@
       "course": "CHEM 312",
       "courseTitle": "INORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cossairt,Brandi"
     },
     {
       "campus": "S",
@@ -8682,7 +9572,7 @@
       "course": "CHEM 455",
       "courseTitle": "PHYSICAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "MASIELLO,David"
     },
     {
       "campus": "S",
@@ -8792,7 +9682,7 @@
       "course": "CHEM 508",
       "courseTitle": "ADV INORGANIC CHEM",
       "section": "A",
-      "instructor": "Gamelin,Daniel R."
+      "instructor": "A Gamelin,Daniel R."
     },
     {
       "campus": "S",
@@ -9052,7 +9942,7 @@
       "course": "CHEM 110",
       "courseTitle": "PREP GEN CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha Jo Conne"
     },
     {
       "campus": "S",
@@ -9062,7 +9952,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fu,Dan"
     },
     {
       "campus": "S",
@@ -9072,7 +9962,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Maibaum,Lutz G"
     },
     {
       "campus": "S",
@@ -9082,27 +9972,7 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "WIN2025",
-      "course": "CHEM 152",
-      "courseTitle": "GENERAL CHEMISTRY",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "WIN2025",
-      "course": "CHEM 152",
-      "courseTitle": "GENERAL CHEMISTRY",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Bright Hettinger,Terri"
     },
     {
       "campus": "S",
@@ -9112,7 +9982,7 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Chiu,Daniel T."
     },
     {
       "campus": "S",
@@ -9122,7 +9992,27 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Chiu,Daniel T."
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2025",
+      "course": "CHEM 152",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "B",
+      "instructor": "Kroll,Alec"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2025",
+      "course": "CHEM 152",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "C",
+      "instructor": "Kroll,Alec"
     },
     {
       "campus": "S",
@@ -9152,7 +10042,7 @@
       "course": "CHEM 162",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Turecek,Frantisek"
     },
     {
       "campus": "S",
@@ -9172,7 +10062,7 @@
       "course": "CHEM 220",
       "courseTitle": "PRINCIPLES CHEM II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha Jo Conne"
     },
     {
       "campus": "S",
@@ -9182,7 +10072,7 @@
       "course": "CHEM 224",
       "courseTitle": "ORG CHEM SHORT PROG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ingalls,Erica"
     },
     {
       "campus": "S",
@@ -9192,7 +10082,7 @@
       "course": "CHEM 237",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chatterjee,Champak"
     },
     {
       "campus": "S",
@@ -9202,17 +10092,7 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "WIN2025",
-      "course": "CHEM 238",
-      "courseTitle": "ORGANIC CHEMISTRY",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "FORBES,ALAINA"
     },
     {
       "campus": "S",
@@ -9222,7 +10102,17 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Lalic,Gojko"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2025",
+      "course": "CHEM 238",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "B",
+      "instructor": "Maly,Dustin James"
     },
     {
       "campus": "S",
@@ -9232,7 +10122,7 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "STODDARD,ETHAN"
     },
     {
       "campus": "S",
@@ -9242,7 +10132,7 @@
       "course": "CHEM 241",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -9252,7 +10142,7 @@
       "course": "CHEM 241",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -9292,7 +10182,7 @@
       "course": "CHEM 312",
       "courseTitle": "INORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Xiao,Dianne"
     },
     {
       "campus": "S",
@@ -9402,7 +10292,7 @@
       "course": "CHEM 452",
       "courseTitle": "PHYS CHEM BIOC I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Vaughan,Joshua Charles"
     },
     {
       "campus": "S",
@@ -9432,7 +10322,7 @@
       "course": "CHEM 456",
       "courseTitle": "PHYSICAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Varani,Gabriele"
     },
     {
       "campus": "S",
@@ -9732,7 +10622,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ginger,David S."
     },
     {
       "campus": "S",
@@ -9742,7 +10632,7 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Maibaum,Lutz G"
     },
     {
       "campus": "S",
@@ -9752,7 +10642,7 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Maibaum,Lutz G"
     },
     {
       "campus": "S",
@@ -9762,7 +10652,7 @@
       "course": "CHEM 162",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kroll,Alec"
     },
     {
       "campus": "S",
@@ -9772,7 +10662,7 @@
       "course": "CHEM 162",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Kroll,Alec"
     },
     {
       "campus": "S",
@@ -9782,7 +10672,7 @@
       "course": "CHEM 162",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha Jo Conne"
     },
     {
       "campus": "S",
@@ -9822,7 +10712,7 @@
       "course": "CHEM 221",
       "courseTitle": "PRINCIPLES CHEM III",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ingalls,Erica"
     },
     {
       "campus": "S",
@@ -9832,7 +10722,7 @@
       "course": "CHEM 237",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha Jo Conne"
     },
     {
       "campus": "S",
@@ -9842,17 +10732,7 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "SPR2025",
-      "course": "CHEM 239",
-      "courseTitle": "ORGANIC CHEMISTRY",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Golder,Matthew Ross"
     },
     {
       "campus": "S",
@@ -9862,7 +10742,17 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "FORBES,ALAINA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2025",
+      "course": "CHEM 239",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "A",
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -9872,7 +10762,7 @@
       "course": "CHEM 241",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sasaki,Tomikazu"
     },
     {
       "campus": "S",
@@ -9882,7 +10772,7 @@
       "course": "CHEM 242",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -9892,7 +10782,7 @@
       "course": "CHEM 242",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -9992,7 +10882,7 @@
       "course": "CHEM 453",
       "courseTitle": "QUANT/STAT MECH BIOC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Varani,Gabriele"
     },
     {
       "campus": "S",
@@ -10012,7 +10902,7 @@
       "course": "CHEM 457",
       "courseTitle": "STAT MECHANICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Drobny,Gary Peter"
     },
     {
       "campus": "S",
@@ -10288,11 +11178,201 @@
       "campus": "S",
       "dept": "chem",
       "deptName": "Chemistry",
+      "term": "SUM2025",
+      "course": "CHEM 110",
+      "courseTitle": "PREP GEN CHEM",
+      "section": "A",
+      "instructor": "Storfer,Dinara"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2025",
+      "course": "CHEM 142",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "A",
+      "instructor": "MASIELLO,David"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2025",
+      "course": "CHEM 152",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "A",
+      "instructor": "Kontulis,Mark"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2025",
+      "course": "CHEM 162",
+      "courseTitle": "GENERAL CHEMISTRY",
+      "section": "A",
+      "instructor": "Kroll,Alec"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2025",
+      "course": "CHEM 223",
+      "courseTitle": "ORG CHEM SHORT PROG",
+      "section": "A",
+      "instructor": "Singh,Sumita"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2025",
+      "course": "CHEM 224",
+      "courseTitle": "ORG CHEM SHORT PROG",
+      "section": "A",
+      "instructor": "Singh,Sumita"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2025",
+      "course": "CHEM 237",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "A",
+      "instructor": "FORBES,ALAINA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2025",
+      "course": "CHEM 238",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "A",
+      "instructor": "Lalic,Gojko"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2025",
+      "course": "CHEM 239",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "A",
+      "instructor": "PATTERSON,JAMES G."
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2025",
+      "course": "CHEM 241",
+      "courseTitle": "ORGANIC CHEM LAB",
+      "section": "A",
+      "instructor": "Goldman,Larry"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2025",
+      "course": "CHEM 242",
+      "courseTitle": "ORGANIC CHEM LAB",
+      "section": "A",
+      "instructor": "Goldman,Larry"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2025",
+      "course": "CHEM 312",
+      "courseTitle": "INORGANIC CHEMISTRY",
+      "section": "A",
+      "instructor": "Leipzig,Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2025",
+      "course": "CHEM 452",
+      "courseTitle": "THERMDYNM/KNTCS BIOC",
+      "section": "A",
+      "instructor": "Drobny,Gary Peter"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2025",
+      "course": "CHEM 453",
+      "courseTitle": "QUANT/STAT MECH BIOC",
+      "section": "A",
+      "instructor": "Drobny,Gary Peter"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2025",
+      "course": "CHEM 499",
+      "courseTitle": "UG RES/REPORT WRTG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2025",
+      "course": "CHEM 590",
+      "courseTitle": "SMNR GENERAL CHEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2025",
+      "course": "CHEM 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2025",
+      "course": "CHEM 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2025",
+      "course": "CHEM 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
       "term": "AUT2025",
       "course": "CHEM 110",
       "courseTitle": "PREP GEN CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Storfer,Dinara"
     },
     {
       "campus": "S",
@@ -10302,7 +11382,7 @@
       "course": "CHEM 120",
       "courseTitle": "PRINCIPLES OF CHEM I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha Jo Conne"
     },
     {
       "campus": "S",
@@ -10312,7 +11392,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEM I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Craig,Colleen"
     },
     {
       "campus": "S",
@@ -10322,7 +11402,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEM I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Craig,Colleen"
     },
     {
       "campus": "S",
@@ -10332,7 +11412,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEM I",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Kroll,Alec"
     },
     {
       "campus": "S",
@@ -10342,7 +11422,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEM I",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Kroll,Alec"
     },
     {
       "campus": "S",
@@ -10352,7 +11432,7 @@
       "course": "CHEM 143",
       "courseTitle": "ACCEL GEN CHEM I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Maibaum,Lutz G"
     },
     {
       "campus": "S",
@@ -10372,7 +11452,7 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Synovec,Robert E"
     },
     {
       "campus": "S",
@@ -10382,7 +11462,7 @@
       "course": "CHEM 162",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Maibaum,Lutz G"
     },
     {
       "campus": "S",
@@ -10402,7 +11482,7 @@
       "course": "CHEM 223",
       "courseTitle": "ORG CHEM SHORT PROG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ingalls,Erica"
     },
     {
       "campus": "S",
@@ -10412,17 +11492,7 @@
       "course": "CHEM 237",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "AUT2025",
-      "course": "CHEM 237",
-      "courseTitle": "ORGANIC CHEMISTRY",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Chatterjee,Champak"
     },
     {
       "campus": "S",
@@ -10432,7 +11502,17 @@
       "course": "CHEM 237",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2025",
+      "course": "CHEM 237",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "B",
+      "instructor": "Robinson,Samantha Jo Conne"
     },
     {
       "campus": "S",
@@ -10442,7 +11522,7 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lalic,Gojko"
     },
     {
       "campus": "S",
@@ -10452,7 +11532,7 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zalatan,Jesse"
     },
     {
       "campus": "S",
@@ -10462,7 +11542,7 @@
       "course": "CHEM 241",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -10472,7 +11552,7 @@
       "course": "CHEM 242",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -10492,7 +11572,7 @@
       "course": "CHEM 312",
       "courseTitle": "INORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cossairt,Brandi"
     },
     {
       "campus": "S",
@@ -10502,7 +11582,7 @@
       "course": "CHEM 321",
       "courseTitle": "QUANTITATIVE ANLYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Riley,Nick"
     },
     {
       "campus": "S",
@@ -10512,7 +11592,7 @@
       "course": "CHEM 416",
       "courseTitle": "TRANSITION METALS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Reed,Douglas"
     },
     {
       "campus": "S",
@@ -10522,7 +11602,7 @@
       "course": "CHEM 422",
       "courseTitle": "ANLYTIC SPECTROSCOPY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fu,Dan"
     },
     {
       "campus": "S",
@@ -10532,7 +11612,7 @@
       "course": "CHEM 430",
       "courseTitle": "ADV PHYS ORGNC CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Golder,Matthew Ross"
     },
     {
       "campus": "S",
@@ -10542,7 +11622,7 @@
       "course": "CHEM 441",
       "courseTitle": "DATA SCI & MAT INFO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cao,Ting"
     },
     {
       "campus": "S",
@@ -10552,7 +11632,7 @@
       "course": "CHEM 452",
       "courseTitle": "THERMDYNM/KNTCS BIOC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Robinson,Bruce H"
     },
     {
       "campus": "S",
@@ -10562,7 +11642,7 @@
       "course": "CHEM 452",
       "courseTitle": "THERMDYNM/KNTCS BIOC",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Robinson,Bruce H"
     },
     {
       "campus": "S",
@@ -10572,7 +11652,7 @@
       "course": "CHEM 455",
       "courseTitle": "QUANT MECH ATOMS/MOL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "MASIELLO,David"
     },
     {
       "campus": "S",
@@ -10582,7 +11662,7 @@
       "course": "CHEM 460",
       "courseTitle": "SPECT MOLEC IDENT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sasaki,Tomikazu"
     },
     {
       "campus": "S",
@@ -10592,7 +11672,7 @@
       "course": "CHEM 462",
       "courseTitle": "TECH SYNTH ORG CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sasaki,Tomikazu"
     },
     {
       "campus": "S",
@@ -10632,7 +11712,7 @@
       "course": "CHEM 484",
       "courseTitle": "ELECT &OPTO POLYMERS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jenekhe,Samson A"
     },
     {
       "campus": "S",
@@ -10652,7 +11732,7 @@
       "course": "CHEM 500",
       "courseTitle": "GRNT PRPS & SCI WRT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Reed,Douglas"
     },
     {
       "campus": "S",
@@ -10672,7 +11752,7 @@
       "course": "CHEM 508",
       "courseTitle": "ADV INORGANIC CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gamelin,Daniel R."
     },
     {
       "campus": "S",
@@ -10682,7 +11762,7 @@
       "course": "CHEM 516",
       "courseTitle": "TRANSITION METALS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Reed,Douglas"
     },
     {
       "campus": "S",
@@ -10692,7 +11772,7 @@
       "course": "CHEM 521",
       "courseTitle": "ELECTROCHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zhang,Bo"
     },
     {
       "campus": "S",
@@ -10702,7 +11782,7 @@
       "course": "CHEM 522",
       "courseTitle": "ANLYTIC SPECTROSCOPY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fu,Dan"
     },
     {
       "campus": "S",
@@ -10712,7 +11792,7 @@
       "course": "CHEM 530",
       "courseTitle": "ADV PHYS ORGNC CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Golder,Matthew Ross"
     },
     {
       "campus": "S",
@@ -10722,7 +11802,7 @@
       "course": "CHEM 541",
       "courseTitle": "DATA SCI & MAT INFO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cao,Ting"
     },
     {
       "campus": "S",
@@ -10732,7 +11812,7 @@
       "course": "CHEM 550",
       "courseTitle": "QUANTUM MECHANICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McCoy,Anne B."
     },
     {
       "campus": "S",
@@ -10742,7 +11822,7 @@
       "course": "CHEM 561",
       "courseTitle": "QUANTM INFO SCI ENGR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ginger,David S."
     },
     {
       "campus": "S",
@@ -10772,7 +11852,7 @@
       "course": "CHEM 571",
       "courseTitle": "RESEARCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Xiao,Dianne"
     },
     {
       "campus": "S",
@@ -10782,7 +11862,7 @@
       "course": "CHEM 573",
       "courseTitle": "ORGANIC/BIOL RESRCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Maly,Dustin James"
     },
     {
       "campus": "S",
@@ -10792,7 +11872,7 @@
       "course": "CHEM 574",
       "courseTitle": "SPECTROSCOPY RESERCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stoll,Stefan"
     },
     {
       "campus": "S",
@@ -10802,7 +11882,7 @@
       "course": "CHEM 575",
       "courseTitle": "RESEARCH COMPUTATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McCoy,Anne B."
     },
     {
       "campus": "S",
@@ -10822,7 +11902,7 @@
       "course": "CHEM 584",
       "courseTitle": "ELECT &OPTO POLYMERS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jenekhe,Samson A"
     },
     {
       "campus": "S",
@@ -10852,7 +11932,7 @@
       "course": "CHEM 591",
       "courseTitle": "SMNR INORGANIC CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Velian,Alexandra"
     },
     {
       "campus": "S",
@@ -10862,7 +11942,7 @@
       "course": "CHEM 592",
       "courseTitle": "SMNR ANALYTCL CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bush,Matt"
     },
     {
       "campus": "S",
@@ -10872,7 +11952,7 @@
       "course": "CHEM 593",
       "courseTitle": "SMNR ORGANIC CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rajakovich,Lauren J"
     },
     {
       "campus": "S",
@@ -10882,7 +11962,7 @@
       "course": "CHEM 595",
       "courseTitle": "SMNR PHYSICAL CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Varani,Gabriele"
     },
     {
       "campus": "S",
@@ -10892,7 +11972,7 @@
       "course": "CHEM 597",
       "courseTitle": "SEMINAR IN MOLENG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "DeForest,Cole A."
     },
     {
       "campus": "S",
@@ -10932,7 +12012,7 @@
       "course": "CHEM 110",
       "courseTitle": "PREP GEN CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kroll,Alec"
     },
     {
       "campus": "S",
@@ -10942,7 +12022,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEM I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Craig,Colleen"
     },
     {
       "campus": "S",
@@ -10952,37 +12032,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEM I",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "WIN2026",
-      "course": "CHEM 152",
-      "courseTitle": "GENERAL CHEM II",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "WIN2026",
-      "course": "CHEM 152",
-      "courseTitle": "GENERAL CHEM II",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "WIN2026",
-      "course": "CHEM 152",
-      "courseTitle": "GENERAL CHEM II",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Maibaum,Lutz G"
     },
     {
       "campus": "S",
@@ -10992,7 +12042,7 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEM II",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Chiu,Daniel T."
     },
     {
       "campus": "S",
@@ -11002,7 +12052,37 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEM II",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Chiu,Daniel T."
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2026",
+      "course": "CHEM 152",
+      "courseTitle": "GENERAL CHEM II",
+      "section": "A",
+      "instructor": "Craig,Colleen"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2026",
+      "course": "CHEM 152",
+      "courseTitle": "GENERAL CHEM II",
+      "section": "B",
+      "instructor": "Kroll,Alec"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2026",
+      "course": "CHEM 152",
+      "courseTitle": "GENERAL CHEM II",
+      "section": "C",
+      "instructor": "Zhang,Bo"
     },
     {
       "campus": "S",
@@ -11012,7 +12092,7 @@
       "course": "CHEM 153",
       "courseTitle": "ACCELERATD GEN CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Maibaum,Lutz G"
     },
     {
       "campus": "S",
@@ -11022,7 +12102,7 @@
       "course": "CHEM 155",
       "courseTitle": "H-GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Keller,Sarah L."
     },
     {
       "campus": "S",
@@ -11032,7 +12112,7 @@
       "course": "CHEM 162",
       "courseTitle": "GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stefanovic,Filip"
     },
     {
       "campus": "S",
@@ -11052,7 +12132,7 @@
       "course": "CHEM 220",
       "courseTitle": "PRINCIPLES CHEM II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goetz,Gunnar"
     },
     {
       "campus": "S",
@@ -11062,7 +12142,7 @@
       "course": "CHEM 224",
       "courseTitle": "ORG CHEM SHORT PROG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ingalls,Erica"
     },
     {
       "campus": "S",
@@ -11072,17 +12152,7 @@
       "course": "CHEM 237",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "WIN2026",
-      "course": "CHEM 238",
-      "courseTitle": "ORGANIC CHEMISTRY",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha Jo Conne"
     },
     {
       "campus": "S",
@@ -11092,7 +12162,17 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Gelb,Michael H"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2026",
+      "course": "CHEM 238",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "A",
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -11102,7 +12182,7 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Maly,Dustin James"
     },
     {
       "campus": "S",
@@ -11112,7 +12192,7 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rajakovich,Lauren J"
     },
     {
       "campus": "S",
@@ -11122,7 +12202,7 @@
       "course": "CHEM 241",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -11132,7 +12212,7 @@
       "course": "CHEM 241",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -11142,7 +12222,7 @@
       "course": "CHEM 242",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sasaki,Tomikazu"
     },
     {
       "campus": "S",
@@ -11152,7 +12232,7 @@
       "course": "CHEM 258",
       "courseTitle": "H-ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chatterjee,Champak"
     },
     {
       "campus": "S",
@@ -11162,7 +12242,7 @@
       "course": "CHEM 261",
       "courseTitle": "H-ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Maly,Dustin James"
     },
     {
       "campus": "S",
@@ -11172,7 +12252,7 @@
       "course": "CHEM 312",
       "courseTitle": "INORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Velian,Alexandra"
     },
     {
       "campus": "S",
@@ -11182,7 +12262,7 @@
       "course": "CHEM 317",
       "courseTitle": "INORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha Jo Conne"
     },
     {
       "campus": "S",
@@ -11192,7 +12272,7 @@
       "course": "CHEM 317",
       "courseTitle": "INORGANIC CHEM LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha Jo Conne"
     },
     {
       "campus": "S",
@@ -11202,7 +12282,7 @@
       "course": "CHEM 321",
       "courseTitle": "QUANTITATIVE ANLYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Theberge,Ashleigh B"
     },
     {
       "campus": "S",
@@ -11212,7 +12292,7 @@
       "course": "CHEM 418",
       "courseTitle": "NUCLEAR CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Czerwinski,Kenneth Ronald"
     },
     {
       "campus": "S",
@@ -11222,7 +12302,7 @@
       "course": "CHEM 426",
       "courseTitle": "INSTRUMENTAL ANLYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bush,Matt"
     },
     {
       "campus": "S",
@@ -11232,7 +12312,7 @@
       "course": "CHEM 429",
       "courseTitle": "SEPARATION TECHS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Synovec,Robert E"
     },
     {
       "campus": "S",
@@ -11242,7 +12322,7 @@
       "course": "CHEM 431",
       "courseTitle": "ADV SYN ORGNC CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Michael,Forrest"
     },
     {
       "campus": "S",
@@ -11252,7 +12332,7 @@
       "course": "CHEM 436",
       "courseTitle": "CHEMICAL BIOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zalatan,Jesse"
     },
     {
       "campus": "S",
@@ -11272,7 +12352,7 @@
       "course": "CHEM 452",
       "courseTitle": "THERMDYNM/KNTCS BIOC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Vaughan,Joshua Charles"
     },
     {
       "campus": "S",
@@ -11282,7 +12362,7 @@
       "course": "CHEM 453",
       "courseTitle": "QUANT/STAT MECH BIOC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Drobny,Gary Peter"
     },
     {
       "campus": "S",
@@ -11292,7 +12372,7 @@
       "course": "CHEM 453",
       "courseTitle": "QUANT/STAT MECH BIOC",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Drobny,Gary Peter"
     },
     {
       "campus": "S",
@@ -11302,7 +12382,7 @@
       "course": "CHEM 456",
       "courseTitle": "CHEMICAL THERMDYNMCS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Varani,Gabriele"
     },
     {
       "campus": "S",
@@ -11312,7 +12392,7 @@
       "course": "CHEM 458",
       "courseTitle": "AIR POLLUTION CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jaegle,Lyatt"
     },
     {
       "campus": "S",
@@ -11322,7 +12402,7 @@
       "course": "CHEM 463",
       "courseTitle": "SPECTRO TECHNIQUES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sasaki,Tomikazu"
     },
     {
       "campus": "S",
@@ -11332,7 +12412,7 @@
       "course": "CHEM 465",
       "courseTitle": "COMPUTATIONAL CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stoll,Stefan"
     },
     {
       "campus": "S",
@@ -11362,7 +12442,7 @@
       "course": "CHEM 485",
       "courseTitle": "ELEC STRUCT MATERLS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Velian,Alexandra"
     },
     {
       "campus": "S",
@@ -11382,7 +12462,7 @@
       "course": "CHEM 529",
       "courseTitle": "SEPARATION TECHS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Synovec,Robert E"
     },
     {
       "campus": "S",
@@ -11392,7 +12472,7 @@
       "course": "CHEM 531",
       "courseTitle": "ADV SYN ORGNC CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Michael,Forrest"
     },
     {
       "campus": "S",
@@ -11402,7 +12482,7 @@
       "course": "CHEM 536",
       "courseTitle": "CHEMICAL BIOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zalatan,Jesse"
     },
     {
       "campus": "S",
@@ -11442,7 +12522,7 @@
       "course": "CHEM 551",
       "courseTitle": "QUANTUM DYN & SPEC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Shi,Tristan"
     },
     {
       "campus": "S",
@@ -11452,7 +12532,7 @@
       "course": "CHEM 552",
       "courseTitle": "STATISTCL MECHANICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "MASIELLO,David"
     },
     {
       "campus": "S",
@@ -11462,7 +12542,7 @@
       "course": "CHEM 565",
       "courseTitle": "COMPUTATIONAL CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stoll,Stefan"
     },
     {
       "campus": "S",
@@ -11492,7 +12572,7 @@
       "course": "CHEM 571",
       "courseTitle": "RESEARCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Reed,Douglas"
     },
     {
       "campus": "S",
@@ -11502,7 +12582,7 @@
       "course": "CHEM 572",
       "courseTitle": "RES TPC BIOANYL CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Riley,Nick"
     },
     {
       "campus": "S",
@@ -11512,7 +12592,7 @@
       "course": "CHEM 573",
       "courseTitle": "ORGANIC/BIOL RESRCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lalic,Gojko"
     },
     {
       "campus": "S",
@@ -11522,7 +12602,7 @@
       "course": "CHEM 574",
       "courseTitle": "SPECTROSCOPY RESERCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Schlenker,Cody W"
     },
     {
       "campus": "S",
@@ -11532,7 +12612,7 @@
       "course": "CHEM 575",
       "courseTitle": "RESEARCH COMPUTATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McCoy,Anne B."
     },
     {
       "campus": "S",
@@ -11552,17 +12632,7 @@
       "course": "CHEM 585",
       "courseTitle": "ELEC STRUCT MATERLS",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "WIN2026",
-      "course": "CHEM 590",
-      "courseTitle": "SMNR GENERAL CHEM",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Velian,Alexandra"
     },
     {
       "campus": "S",
@@ -11572,6 +12642,16 @@
       "course": "CHEM 590",
       "courseTitle": "SMNR GENERAL CHEM",
       "section": "B",
+      "instructor": "Harwood,Eric"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2026",
+      "course": "CHEM 590",
+      "courseTitle": "SMNR GENERAL CHEM",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -11582,7 +12662,7 @@
       "course": "CHEM 591",
       "courseTitle": "SMNR INORGANIC CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cossairt,Brandi"
     },
     {
       "campus": "S",
@@ -11592,7 +12672,7 @@
       "course": "CHEM 592",
       "courseTitle": "SMNR ANALYTCL CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Synovec,Robert E"
     },
     {
       "campus": "S",
@@ -11602,7 +12682,7 @@
       "course": "CHEM 593",
       "courseTitle": "SMNR ORGANIC CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zalatan,Jesse"
     },
     {
       "campus": "S",
@@ -11612,7 +12692,7 @@
       "course": "CHEM 595",
       "courseTitle": "SMNR PHYSICAL CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Keller,Sarah L."
     },
     {
       "campus": "S",
@@ -11622,7 +12702,7 @@
       "course": "CHEM 597",
       "courseTitle": "SEMINAR IN MOLENG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "DeForest,Cole A."
     },
     {
       "campus": "S",
@@ -11662,7 +12742,7 @@
       "course": "CHEM 142",
       "courseTitle": "GENERAL CHEM I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kroll,Alec"
     },
     {
       "campus": "S",
@@ -11672,7 +12752,7 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEM II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Maibaum,Lutz G"
     },
     {
       "campus": "S",
@@ -11682,7 +12762,7 @@
       "course": "CHEM 152",
       "courseTitle": "GENERAL CHEM II",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Maibaum,Lutz G"
     },
     {
       "campus": "S",
@@ -11692,17 +12772,7 @@
       "course": "CHEM 162",
       "courseTitle": "GENERAL CHEM III",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "SPR2026",
-      "course": "CHEM 162",
-      "courseTitle": "GENERAL CHEM III",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Craig,Colleen"
     },
     {
       "campus": "S",
@@ -11712,7 +12782,17 @@
       "course": "CHEM 162",
       "courseTitle": "GENERAL CHEM III",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Craig,Colleen"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2026",
+      "course": "CHEM 162",
+      "courseTitle": "GENERAL CHEM III",
+      "section": "B",
+      "instructor": "Kroll,Alec"
     },
     {
       "campus": "S",
@@ -11722,7 +12802,7 @@
       "course": "CHEM 165",
       "courseTitle": "H-GENERAL CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Reed,Douglas"
     },
     {
       "campus": "S",
@@ -11732,7 +12812,7 @@
       "course": "CHEM 196",
       "courseTitle": "CHEMISTRY FRONTIERS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Riley,Nick"
     },
     {
       "campus": "S",
@@ -11752,7 +12832,7 @@
       "course": "CHEM 221",
       "courseTitle": "PRINCIPLES CHEM III",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stefanovic,Filip"
     },
     {
       "campus": "S",
@@ -11762,7 +12842,7 @@
       "course": "CHEM 237",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha Jo Conne"
     },
     {
       "campus": "S",
@@ -11772,17 +12852,7 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "chem",
-      "deptName": "Chemistry",
-      "term": "SPR2026",
-      "course": "CHEM 239",
-      "courseTitle": "ORGANIC CHEMISTRY",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lalic,Gojko"
     },
     {
       "campus": "S",
@@ -11792,7 +12862,17 @@
       "course": "CHEM 239",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
+    },
+    {
+      "campus": "S",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SPR2026",
+      "course": "CHEM 239",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "A",
+      "instructor": "Ingalls,Erica"
     },
     {
       "campus": "S",
@@ -11802,7 +12882,7 @@
       "course": "CHEM 241",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sasaki,Tomikazu"
     },
     {
       "campus": "S",
@@ -11812,7 +12892,7 @@
       "course": "CHEM 242",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -11822,7 +12902,7 @@
       "course": "CHEM 242",
       "courseTitle": "ORGANIC CHEM LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Goldman,Larry"
     },
     {
       "campus": "S",
@@ -11832,7 +12912,7 @@
       "course": "CHEM 259",
       "courseTitle": "H-ORGANIC CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gelb,Michael H"
     },
     {
       "campus": "S",
@@ -11842,7 +12922,7 @@
       "course": "CHEM 262",
       "courseTitle": "H-ORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Maly,Dustin James"
     },
     {
       "campus": "S",
@@ -11852,7 +12932,7 @@
       "course": "CHEM 317",
       "courseTitle": "INORGANIC CHEM LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha Jo Conne"
     },
     {
       "campus": "S",
@@ -11862,7 +12942,7 @@
       "course": "CHEM 317",
       "courseTitle": "INORGANIC CHEM LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Robinson,Samantha Jo Conne"
     },
     {
       "campus": "S",
@@ -11872,7 +12952,7 @@
       "course": "CHEM 321",
       "courseTitle": "QUANTITATIVE ANLYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fu,Dan"
     },
     {
       "campus": "S",
@@ -11882,7 +12962,7 @@
       "course": "CHEM 417",
       "courseTitle": "INORG REACTION MECH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Xiao,Dianne"
     },
     {
       "campus": "S",
@@ -11892,7 +12972,7 @@
       "course": "CHEM 425",
       "courseTitle": "MESO/MICROFLUIDICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Theberge,Ashleigh B"
     },
     {
       "campus": "S",
@@ -11902,7 +12982,7 @@
       "course": "CHEM 428",
       "courseTitle": "BIOMOLECULAR ANLYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Riley,Nick"
     },
     {
       "campus": "S",
@@ -11912,7 +12992,7 @@
       "course": "CHEM 432",
       "courseTitle": "ADV BIO-ORGANIC CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rajakovich,Lauren J"
     },
     {
       "campus": "S",
@@ -11922,7 +13002,7 @@
       "course": "CHEM 434",
       "courseTitle": "POLYMER CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Golder,Matthew Ross"
     },
     {
       "campus": "S",
@@ -11932,7 +13012,7 @@
       "course": "CHEM 443",
       "courseTitle": "BIG DATA FOR MAT SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Huang,Luna"
     },
     {
       "campus": "S",
@@ -11942,7 +13022,7 @@
       "course": "CHEM 453",
       "courseTitle": "QUANT/STAT MECH BIOC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Varani,Gabriele"
     },
     {
       "campus": "S",
@@ -11952,7 +13032,7 @@
       "course": "CHEM 454",
       "courseTitle": "BIOMOLE SPECTROSCPY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Drobny,Gary Peter"
     },
     {
       "campus": "S",
@@ -11962,7 +13042,7 @@
       "course": "CHEM 455",
       "courseTitle": "QUANT MECH ATOMS/MOL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stoll,Stefan"
     },
     {
       "campus": "S",
@@ -11972,7 +13052,7 @@
       "course": "CHEM 457",
       "courseTitle": "STAT MECHANICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Shi,Tristan"
     },
     {
       "campus": "S",
@@ -11992,7 +13072,7 @@
       "course": "CHEM 464",
       "courseTitle": "COMPUTER DATA ANLYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Robinson,Bruce H"
     },
     {
       "campus": "S",
@@ -12002,7 +13082,7 @@
       "course": "CHEM 486",
       "courseTitle": "ELEC DYN ORG INORG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Schlenker,Cody W"
     },
     {
       "campus": "S",
@@ -12032,7 +13112,7 @@
       "course": "CHEM 517",
       "courseTitle": "INORG REACTION MECH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Xiao,Dianne"
     },
     {
       "campus": "S",
@@ -12042,7 +13122,7 @@
       "course": "CHEM 524",
       "courseTitle": "ANLYT MASS SPECTROM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Turecek,Frantisek"
     },
     {
       "campus": "S",
@@ -12052,7 +13132,7 @@
       "course": "CHEM 525",
       "courseTitle": "MESO/MICROFLUIDICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Theberge,Ashleigh B"
     },
     {
       "campus": "S",
@@ -12062,7 +13142,7 @@
       "course": "CHEM 532",
       "courseTitle": "ADV BIO-ORGANIC CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rajakovich,Lauren J"
     },
     {
       "campus": "S",
@@ -12072,7 +13152,7 @@
       "course": "CHEM 534",
       "courseTitle": "POLYMER CHEMISTRY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Golder,Matthew Ross"
     },
     {
       "campus": "S",
@@ -12082,7 +13162,7 @@
       "course": "CHEM 543",
       "courseTitle": "BIG DATA FOR MAT SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Huang,Luna"
     },
     {
       "campus": "S",
@@ -12092,7 +13172,7 @@
       "course": "CHEM 547",
       "courseTitle": "DATA SCI CAPSTONE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Beck,David A. C."
     },
     {
       "campus": "S",
@@ -12102,7 +13182,7 @@
       "course": "CHEM 567",
       "courseTitle": "COMPUTER DATA ANLYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Robinson,Bruce H"
     },
     {
       "campus": "S",
@@ -12112,7 +13192,7 @@
       "course": "CHEM 571",
       "courseTitle": "RESEARCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gamelin,Daniel R."
     },
     {
       "campus": "S",
@@ -12122,7 +13202,7 @@
       "course": "CHEM 572",
       "courseTitle": "RES TPC BIOANYL CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Riley,Nick"
     },
     {
       "campus": "S",
@@ -12132,7 +13212,7 @@
       "course": "CHEM 573",
       "courseTitle": "ORGANIC/BIOL RESRCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Michael,Forrest"
     },
     {
       "campus": "S",
@@ -12142,7 +13222,7 @@
       "course": "CHEM 574",
       "courseTitle": "SPECTROSCOPY RESERCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McCoy,Anne B."
     },
     {
       "campus": "S",
@@ -12152,7 +13232,7 @@
       "course": "CHEM 575",
       "courseTitle": "RESEARCH COMPUTATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "MASIELLO,David"
     },
     {
       "campus": "S",
@@ -12172,7 +13252,7 @@
       "course": "CHEM 586",
       "courseTitle": "ELEC DYN ORG INORG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Schlenker,Cody W"
     },
     {
       "campus": "S",
@@ -12192,7 +13272,7 @@
       "course": "CHEM 591",
       "courseTitle": "SMNR INORGANIC CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Velian,Alexandra"
     },
     {
       "campus": "S",
@@ -12202,7 +13282,7 @@
       "course": "CHEM 592",
       "courseTitle": "SMNR ANALYTCL CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zhang,Bo"
     },
     {
       "campus": "S",
@@ -12212,7 +13292,7 @@
       "course": "CHEM 593",
       "courseTitle": "SMNR ORGANIC CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Golder,Matthew Ross"
     },
     {
       "campus": "S",
@@ -12222,7 +13302,7 @@
       "course": "CHEM 595",
       "courseTitle": "SMNR PHYSICAL CHEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Vaughan,Joshua Charles"
     },
     {
       "campus": "S",
@@ -12232,7 +13312,7 @@
       "course": "CHEM 597",
       "courseTitle": "SEMINAR IN MOLENG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "DeForest,Cole A."
     },
     {
       "campus": "S",

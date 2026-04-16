@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Shapiro%2CNaomi%20Tachikawa",
+  "professor": "Shapiro,Naomi Tachikawa",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "WIN2022",
+      "course": "LING 599",
+      "courseTitle": "LING COLLOQUIUM",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ling",
+      "deptName": "Linguistics",
+      "term": "SPR2021",
+      "course": "LING 472",
+      "courseTitle": "INTR TO COMPUT LING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "SPR2021",
+      "course": "CSE 472",
+      "courseTitle": "INTR TO COMPUT LING",
+      "section": "A"
+    }
+  ]
+}

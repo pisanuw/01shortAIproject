@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "NINAN%2CTHERADAPUZHA%20VARGHES",
+  "professor": "NINAN,THERADAPUZHA VARGHES",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2024",
+      "course": "ECON 422",
+      "courseTitle": "INVESTM CAPTL FNANC",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2022",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2022",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "F"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:58Z",
+  "generatedAt": "2026-04-16T02:57:14Z",
   "campus": "S",
   "dept": "pros",
   "deptName": "Prosthodontics",
@@ -41,8 +41,8 @@
       "term": "SUM2021",
       "course": "PROS 560",
       "courseTitle": "COMPLETE DENTURES",
-      "section": "A",
-      "instructor": "Ramos,V"
+      "section": "B",
+      "instructor": "A Zhang,Hai"
     },
     {
       "campus": "S",
@@ -51,8 +51,8 @@
       "term": "SUM2021",
       "course": "PROS 560",
       "courseTitle": "COMPLETE DENTURES",
-      "section": "B",
-      "instructor": "Zhang,Hai"
+      "section": "A",
+      "instructor": "Ramos,V"
     },
     {
       "campus": "S",
@@ -62,7 +62,7 @@
       "course": "PROS 563",
       "courseTitle": "MAXILLO PROS I",
       "section": "A",
-      "instructor": "Rubenstein,Jeffrey E"
+      "instructor": "A Rubenstein,Jeffrey E"
     },
     {
       "campus": "S",
@@ -72,7 +72,7 @@
       "course": "PROS 571",
       "courseTitle": "REVIEW OF LIT",
       "section": "A",
-      "instructor": "Rubenstein,Jeffrey E"
+      "instructor": "A Rubenstein,Jeffrey E"
     },
     {
       "campus": "S",
@@ -92,7 +92,7 @@
       "course": "PROS 651",
       "courseTitle": "INTRA-ORAL MAX PROS",
       "section": "A",
-      "instructor": "Rubenstein,Jeffrey E"
+      "instructor": "A Rubenstein,Jeffrey E"
     },
     {
       "campus": "S",
@@ -112,7 +112,7 @@
       "course": "PROS 564",
       "courseTitle": "MAXILLO PROS II",
       "section": "A",
-      "instructor": "Rubenstein,Jeffrey E"
+      "instructor": "A Rubenstein,Jeffrey E"
     },
     {
       "campus": "S",
@@ -122,7 +122,7 @@
       "course": "PROS 571",
       "courseTitle": "REVIEW OF LIT",
       "section": "A",
-      "instructor": "Rubenstein,Jeffrey E"
+      "instructor": "A Rubenstein,Jeffrey E"
     },
     {
       "campus": "S",
@@ -132,7 +132,7 @@
       "course": "PROS 571",
       "courseTitle": "REVIEW OF LIT",
       "section": "A",
-      "instructor": "Sutton,Alan"
+      "instructor": "A Sutton,Alan"
     },
     {
       "campus": "S",
@@ -152,7 +152,7 @@
       "course": "PROS 571",
       "courseTitle": "REVIEW OF LIT",
       "section": "A",
-      "instructor": "Sutton,Alan"
+      "instructor": "A Sutton,Alan"
     },
     {
       "campus": "S",
@@ -182,7 +182,7 @@
       "course": "PROS 563",
       "courseTitle": "MAXILLO PROS I",
       "section": "A",
-      "instructor": "Sutton,Alan"
+      "instructor": "A Sutton,Alan"
     },
     {
       "campus": "S",
@@ -208,7 +208,57 @@
       "campus": "S",
       "dept": "pros",
       "deptName": "Prosthodontics",
+      "term": "AUT2022",
+      "course": "PROS 550P",
+      "courseTitle": "P-DIR STDYS PROS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "pros",
+      "deptName": "Prosthodontics",
+      "term": "AUT2022",
+      "course": "PROS 564",
+      "courseTitle": "MAXILLO PROS II",
+      "section": "A",
+      "instructor": "A Sutton,Alan"
+    },
+    {
+      "campus": "S",
+      "dept": "pros",
+      "deptName": "Prosthodontics",
+      "term": "AUT2022",
+      "course": "PROS 571",
+      "courseTitle": "REVIEW OF LIT",
+      "section": "A",
+      "instructor": "A Sutton,Alan"
+    },
+    {
+      "campus": "S",
+      "dept": "pros",
+      "deptName": "Prosthodontics",
       "term": "WIN2023",
+      "course": "PROS 571",
+      "courseTitle": "REVIEW OF LIT",
+      "section": "A",
+      "instructor": "A Sutton,Alan"
+    },
+    {
+      "campus": "S",
+      "dept": "pros",
+      "deptName": "Prosthodontics",
+      "term": "SPR2023",
+      "course": "PROS 550P",
+      "courseTitle": "P-DIR STDYS PROS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "pros",
+      "deptName": "Prosthodontics",
+      "term": "SPR2023",
       "course": "PROS 571",
       "courseTitle": "REVIEW OF LIT",
       "section": "A",
@@ -242,7 +292,7 @@
       "course": "PROS 563",
       "courseTitle": "MAXILLO PROS I",
       "section": "A",
-      "instructor": "Sutton,Alan"
+      "instructor": "A Sutton,Alan"
     },
     {
       "campus": "S",
@@ -262,7 +312,7 @@
       "course": "PROS 651",
       "courseTitle": "INTRA-ORAL MAX PROS",
       "section": "A",
-      "instructor": "Sutton,Alan"
+      "instructor": "A Sutton,Alan"
     },
     {
       "campus": "S",
@@ -282,7 +332,7 @@
       "course": "PROS 564",
       "courseTitle": "MAXILLO PROS II",
       "section": "A",
-      "instructor": "Sutton,Alan"
+      "instructor": "A Sutton,Alan"
     },
     {
       "campus": "S",
@@ -352,7 +402,7 @@
       "course": "PROS 563",
       "courseTitle": "MAXILLO PROS I",
       "section": "A",
-      "instructor": "Sutton,Alan"
+      "instructor": "A Sutton,Alan"
     },
     {
       "campus": "S",
@@ -392,7 +442,7 @@
       "course": "PROS 564",
       "courseTitle": "MAXILLO PROS II",
       "section": "A",
-      "instructor": "Sutton,Alan"
+      "instructor": "A Sutton,Alan"
     },
     {
       "campus": "S",
@@ -402,13 +452,33 @@
       "course": "PROS 571",
       "courseTitle": "REVIEW OF LIT",
       "section": "A",
-      "instructor": "Sutton,Alan"
+      "instructor": "A Sutton,Alan"
     },
     {
       "campus": "S",
       "dept": "pros",
       "deptName": "Prosthodontics",
       "term": "WIN2025",
+      "course": "PROS 571",
+      "courseTitle": "REVIEW OF LIT",
+      "section": "A",
+      "instructor": "Sutton,Alan"
+    },
+    {
+      "campus": "S",
+      "dept": "pros",
+      "deptName": "Prosthodontics",
+      "term": "SPR2025",
+      "course": "PROS 550P",
+      "courseTitle": "P-DIR STDYS PROS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "pros",
+      "deptName": "Prosthodontics",
+      "term": "SPR2025",
       "course": "PROS 571",
       "courseTitle": "REVIEW OF LIT",
       "section": "A",
@@ -442,7 +512,7 @@
       "course": "PROS 563",
       "courseTitle": "MAXILLO PROS I",
       "section": "A",
-      "instructor": "Sutton,Alan"
+      "instructor": "A Sutton,Alan"
     },
     {
       "campus": "S",
@@ -462,7 +532,7 @@
       "course": "PROS 651",
       "courseTitle": "INTRA-ORAL MAX PROS",
       "section": "A",
-      "instructor": "Sutton,Alan"
+      "instructor": "A Sutton,Alan"
     },
     {
       "campus": "S",
@@ -482,7 +552,7 @@
       "course": "PROS 564",
       "courseTitle": "MAXILLO PROS II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "A Sutton,Alan"
     },
     {
       "campus": "S",
@@ -492,7 +562,7 @@
       "course": "PROS 571",
       "courseTitle": "REVIEW OF LIT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sutton,Alan"
     },
     {
       "campus": "S",
@@ -502,7 +572,7 @@
       "course": "PROS 571",
       "courseTitle": "REVIEW OF LIT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "A Wee,Alvin G"
     },
     {
       "campus": "S",

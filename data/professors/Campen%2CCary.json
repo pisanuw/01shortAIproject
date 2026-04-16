@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Campen%2CCary",
+  "professor": "Campen,Cary",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tacct",
+      "deptName": "Accounting",
+      "term": "SPR2026",
+      "course": "T ACCT 404",
+      "courseTitle": "ADV FINANCIAL ACCT",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tacct",
+      "deptName": "Accounting",
+      "term": "SPR2025",
+      "course": "T ACCT 404",
+      "courseTitle": "ADV FINANCIAL ACCT",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tacct",
+      "deptName": "Accounting",
+      "term": "SPR2024",
+      "course": "T ACCT 404",
+      "courseTitle": "ADV FINANCIAL ACCT",
+      "section": "A"
+    }
+  ]
+}

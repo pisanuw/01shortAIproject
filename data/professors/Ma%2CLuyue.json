@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Ma%2CLuyue",
+  "professor": "Ma,Luyue",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "SUM2023",
+      "course": "COM 200",
+      "courseTitle": "INTRO TO COM",
+      "section": "J"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "SUM2021",
+      "course": "COM 200",
+      "courseTitle": "INTRO TO COM",
+      "section": "A"
+    }
+  ]
+}

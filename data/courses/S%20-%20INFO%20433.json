@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20INFO%20433",
+  "course": "S - INFO 433",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2025",
+      "course": "INFO 433",
+      "courseTitle": "CONTENT STRATEGY",
+      "section": "A",
+      "instructor": "Barrett,Sarah"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2024",
+      "course": "INFO 433",
+      "courseTitle": "CONTENT STRATEGY",
+      "section": "A",
+      "instructor": "Podmajersky,Torrey"
+    }
+  ]
+}

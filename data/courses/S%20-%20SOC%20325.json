@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:25Z",
+  "id": "S%20-%20SOC%20325",
+  "course": "S - SOC 325",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "soc",
+      "deptName": "Sociology",
+      "term": "SUM2024",
+      "course": "SOC 325",
+      "courseTitle": "QUANTIFIED SELF",
+      "section": "A",
+      "instructor": "A Nova,Elizabeth"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "soc",
+      "deptName": "Sociology",
+      "term": "AUT2023",
+      "course": "SOC 325",
+      "courseTitle": "QUANTIFIED SELF",
+      "section": "A",
+      "instructor": "Almquist,Zack"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "soc",
+      "deptName": "Sociology",
+      "term": "WIN2023",
+      "course": "SOC 325",
+      "courseTitle": "QUANTIFIED SELF",
+      "section": "A",
+      "instructor": "Almquist,Zack"
+    }
+  ]
+}

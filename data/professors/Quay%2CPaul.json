@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Quay%2CPaul",
+  "professor": "Quay,Paul",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SPR2024",
+      "course": "OCEAN 200",
+      "courseTitle": "INTRO OCEANOGRAPHY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SPR2022",
+      "course": "OCEAN 200",
+      "courseTitle": "INTRO OCEANOGRAPHY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SPR2021",
+      "course": "OCEAN 200",
+      "courseTitle": "INTRO OCEANOGRAPHY",
+      "section": "A"
+    }
+  ]
+}

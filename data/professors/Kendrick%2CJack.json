@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Kendrick%2CJack",
+  "professor": "Kendrick,Jack",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SPR2026",
+      "course": "MATH 111",
+      "courseTitle": "ALGEBRA WITH APPL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2023",
+      "course": "MATH 124",
+      "courseTitle": "CALC ANALYT GEOM I",
+      "section": "B"
+    }
+  ]
+}

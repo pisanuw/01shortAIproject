@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "MARCANO%2CDAVID",
+  "professor": "MARCANO,DAVID",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SPR2025",
+      "course": "STAT 302",
+      "courseTitle": "STAT COMPUTING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "WIN2025",
+      "course": "STAT 302",
+      "courseTitle": "STAT COMPUTING",
+      "section": "A"
+    }
+  ]
+}

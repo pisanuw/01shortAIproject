@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20ENGR%20150",
+  "course": "S - ENGR 150",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "WIN2026",
+      "course": "ENGR 150",
+      "courseTitle": "STUDYING ENGINEERING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "WIN2025",
+      "course": "ENGR 150",
+      "courseTitle": "STUDYING ENGINEERING",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "WIN2025",
+      "course": "ENGR 150",
+      "courseTitle": "STUDYING ENGINEERING",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "O%27Donnell%2CM",
+  "professor": "O'Donnell,M",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "SPR2023",
+      "course": "BIOEN 420",
+      "courseTitle": "MEDICAL IMAGING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "SPR2022",
+      "course": "BIOEN 420",
+      "courseTitle": "MEDICAL IMAGING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "SPR2021",
+      "course": "BIOEN 420",
+      "courseTitle": "MEDICAL IMAGING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "AUT2020",
+      "course": "BIOEN 504",
+      "courseTitle": "INTRO TECH COMMERCN",
+      "section": "A"
+    }
+  ]
+}

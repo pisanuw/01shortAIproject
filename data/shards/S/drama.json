@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:56Z",
+  "generatedAt": "2026-04-16T02:57:11Z",
   "campus": "S",
   "dept": "drama",
   "deptName": "Drama",
@@ -12,7 +12,7 @@
       "course": "DRAMA 101",
       "courseTitle": "INTRO TO THEATRE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Magelssen,Scott"
     },
     {
       "campus": "S",
@@ -242,7 +242,7 @@
       "course": "DRAMA 466",
       "courseTitle": "STAGE MANAGEMENT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Farwell-Moreland,Elisabeth"
     },
     {
       "campus": "S",
@@ -632,7 +632,7 @@
       "course": "DRAMA 101",
       "courseTitle": "INTRO TO THEATRE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Magelssen,Scott"
     },
     {
       "campus": "S",
@@ -1268,11 +1268,791 @@
       "campus": "S",
       "dept": "drama",
       "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 101",
+      "courseTitle": "INTRO TO THEATRE",
+      "section": "A",
+      "instructor": "LI,WEIYU"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 103",
+      "courseTitle": "THEATRE APPRECIATN",
+      "section": "A",
+      "instructor": "Merhi,Mona"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 171",
+      "courseTitle": "BROADWAY MUSICAL",
+      "section": "A",
+      "instructor": "Armstrong,David Scott"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 180",
+      "courseTitle": "COLLAB & INCLUSION",
+      "section": "A",
+      "instructor": "Korf,Geoff"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 201",
+      "courseTitle": "PLAYS AND STYLES",
+      "section": "A",
+      "instructor": "HEINER,CATHERINE"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 212",
+      "courseTitle": "THEATRE TECH PRACT",
+      "section": "A",
+      "instructor": "Smith,Andrew D"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 213",
+      "courseTitle": "SOUND DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 252",
+      "courseTitle": "ACTING",
+      "section": "A",
+      "instructor": "Connors,Bridget"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 254",
+      "courseTitle": "INTROACTINGSKILLS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 261",
+      "courseTitle": "ACTING TOOLS PRSENTN",
+      "section": "A",
+      "instructor": "Madden,Catherine"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 270",
+      "courseTitle": "THEATRE SOCIAL CHNGE",
+      "section": "A",
+      "instructor": "Johnson,Odai"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 290",
+      "courseTitle": "TH TECH PRAC LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 291",
+      "courseTitle": "TH TECH PRAC LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 292",
+      "courseTitle": "TH TECH PRAC LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 298",
+      "courseTitle": "THEATRE PRODUCTION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 319",
+      "courseTitle": "PROJECTION DESIGN",
+      "section": "A",
+      "instructor": "Braun,N. Kwame"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 351",
+      "courseTitle": "INTERMED SCENE STDY",
+      "section": "A",
+      "instructor": "King,Libby"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 353",
+      "courseTitle": "INTERMD ACTNG-PHYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 372",
+      "courseTitle": "THEATRE HISTORY II",
+      "section": "A",
+      "instructor": "Magelssen,Scott"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 373",
+      "courseTitle": "THEATRE HISTORY III",
+      "section": "A",
+      "instructor": "Mihaylova,Stefka"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 391",
+      "courseTitle": "BEG TECHNICAL PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 396",
+      "courseTitle": "STUDY ABROAD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 410",
+      "courseTitle": "ADV THEAT TECH PRAC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 421",
+      "courseTitle": "THEAT DRAWING TECHS",
+      "section": "A",
+      "instructor": "Yin,Shuo"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 452",
+      "courseTitle": "ADV ACTG-SCENE STDY",
+      "section": "A",
+      "instructor": "Ellis,Sunam"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 457",
+      "courseTitle": "CREATING DRAMA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 466",
+      "courseTitle": "STAGE MANAGEMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 490",
+      "courseTitle": "SPEC STDY ACT-DIRCT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 490",
+      "courseTitle": "SPEC STDY ACT-DIRCT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 491",
+      "courseTitle": "SPEC STDY DSGN-TECH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 493",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 494",
+      "courseTitle": "STUDIES THEA&DRAMA",
+      "section": "A",
+      "instructor": "Johnson,Odai"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 498",
+      "courseTitle": "THEATRE PRODUCTION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "C",
+      "instructor": "Korf,Geoff"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 510",
+      "courseTitle": "DESIGN STUDIO",
+      "section": "B",
+      "instructor": "Trout,Deborah L"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 510",
+      "courseTitle": "DESIGN STUDIO",
+      "section": "C",
+      "instructor": "Trout,Deborah L"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 510",
+      "courseTitle": "DESIGN STUDIO",
+      "section": "A",
+      "instructor": "Wong,Carey"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 512",
+      "courseTitle": "ADVANCED LIGHTING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 514",
+      "courseTitle": "DESIGN TECH COLLOQ",
+      "section": "C",
+      "instructor": "Smith,Andrew D"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 514",
+      "courseTitle": "DESIGN TECH COLLOQ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 514",
+      "courseTitle": "DESIGN TECH COLLOQ",
+      "section": "B",
+      "instructor": "Trout,Deborah L"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 519",
+      "courseTitle": "PROJECTION DESIGN",
+      "section": "A",
+      "instructor": "Braun,N. Kwame"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 520",
+      "courseTitle": "ADV THEATRE PRACTCM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 530",
+      "courseTitle": "LTNG PR: LIGHT LAB",
+      "section": "A",
+      "instructor": "Smith,Andrew D"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 552",
+      "courseTitle": "TEACHING OF ACTING",
+      "section": "A",
+      "instructor": "Connors,Bridget"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 557",
+      "courseTitle": "STUDIO I",
+      "section": "A",
+      "instructor": "Frace,Jeffrey"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 558",
+      "courseTitle": "STUDIO II",
+      "section": "A",
+      "instructor": "Frace,Jeffrey"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 559",
+      "courseTitle": "STUDIO III",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 561",
+      "courseTitle": "DIRECTING PROJECTS",
+      "section": "A",
+      "instructor": "Curtis-Newton,Valerie"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 562",
+      "courseTitle": "PERFORMANCE STUDIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 563",
+      "courseTitle": "SEMINAR DIRECTING",
+      "section": "A",
+      "instructor": "Kitchens,Kelly"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 567",
+      "courseTitle": "ACTING PROCESS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 567",
+      "courseTitle": "ACTING PROCESS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 583",
+      "courseTitle": "DRAMA TEXT ANALYSIS",
+      "section": "A",
+      "instructor": "Magelssen,Scott"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 599",
+      "courseTitle": "ADV STDY THEATR ART",
+      "section": "A",
+      "instructor": "Mackey,Adrienne"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 599",
+      "courseTitle": "ADV STDY THEATR ART",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "Magelssen,Scott"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2021",
+      "course": "DRAMA 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2021",
+      "course": "DRAMA 103",
+      "courseTitle": "THEATRE APPRECIATN",
+      "section": "A",
+      "instructor": "ZIMMERMAN,SHADOW"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2021",
+      "course": "DRAMA 171",
+      "courseTitle": "BROADWAY MUSICAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2021",
+      "course": "DRAMA 290",
+      "courseTitle": "TH TECH PRAC LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2021",
+      "course": "DRAMA 316",
+      "courseTitle": "THEATRICAL MAKEUP",
+      "section": "A",
+      "instructor": "Gardner,Josie"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2021",
+      "course": "DRAMA 317",
+      "courseTitle": "COSTUM CONSTRUCTION",
+      "section": "A",
+      "instructor": "Skorstad,Deborah"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2021",
+      "course": "DRAMA 396",
+      "courseTitle": "STUDY ABROAD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2021",
+      "course": "DRAMA 410",
+      "courseTitle": "ADV THEAT TECH PRAC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2021",
+      "course": "DRAMA 491",
+      "courseTitle": "SPEC STDY DSGN-TECH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2021",
+      "course": "DRAMA 493",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2021",
+      "course": "DRAMA 498",
+      "courseTitle": "THEATRE PRODUCTION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2021",
+      "course": "DRAMA 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2021",
+      "course": "DRAMA 599",
+      "courseTitle": "ADV STDY THEATR ART",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2021",
+      "course": "DRAMA 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2021",
+      "course": "DRAMA 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2021",
+      "course": "DRAMA 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2021",
+      "course": "DRAMA 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
       "term": "AUT2021",
       "course": "DRAMA 101",
       "courseTitle": "INTRO TO THEATRE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Magelssen,Scott"
     },
     {
       "campus": "S",
@@ -1532,7 +2312,7 @@
       "course": "DRAMA 466",
       "courseTitle": "STAGE MANAGEMENT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Farwell-Moreland,Elisabeth"
     },
     {
       "campus": "S",
@@ -1922,7 +2702,7 @@
       "course": "DRAMA 101",
       "courseTitle": "INTRO TO THEATRE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Magelssen,Scott"
     },
     {
       "campus": "S",
@@ -1942,7 +2722,7 @@
       "course": "DRAMA 171",
       "courseTitle": "BROADWAY MUSICAL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Armstrong,David Scott"
     },
     {
       "campus": "S",
@@ -2352,7 +3132,7 @@
       "course": "DRAMA 551",
       "courseTitle": "TEACHING OF ACTING",
       "section": "A",
-      "instructor": "Hafso,Scott"
+      "instructor": "HPT Hafso,Scott"
     },
     {
       "campus": "S",
@@ -2558,11 +3338,781 @@
       "campus": "S",
       "dept": "drama",
       "deptName": "Drama",
-      "term": "AUT2022",
+      "term": "SPR2022",
       "course": "DRAMA 101",
       "courseTitle": "INTRO TO THEATRE",
       "section": "A",
       "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 103",
+      "courseTitle": "THEATRE APPRECIATN",
+      "section": "B",
+      "instructor": "Merhi,Mona"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 103",
+      "courseTitle": "THEATRE APPRECIATN",
+      "section": "A",
+      "instructor": "Rizzardi,Jonathan"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 103",
+      "courseTitle": "THEATRE APPRECIATN",
+      "section": "C",
+      "instructor": "Rogus,Amanda Marie"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 111",
+      "courseTitle": "BACKSTAGE TECH",
+      "section": "A",
+      "instructor": "Reay,Chris"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 180",
+      "courseTitle": "COLLAB & INCLUSION",
+      "section": "A",
+      "instructor": "Korf,Geoff"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 201",
+      "courseTitle": "PLAYS AND STYLES",
+      "section": "A",
+      "instructor": "VILLIERS,ERIC"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 212",
+      "courseTitle": "THEATRE TECH PRACT",
+      "section": "A",
+      "instructor": "Smith,Andrew D"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 252",
+      "courseTitle": "ACTING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 261",
+      "courseTitle": "ACTING TOOLS PRSENTN",
+      "section": "A",
+      "instructor": "Madden,Catherine"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 270",
+      "courseTitle": "THEATRE SOCIAL CHNGE",
+      "section": "A",
+      "instructor": "Johnson,Odai"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 290",
+      "courseTitle": "TH TECH PRAC LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 291",
+      "courseTitle": "TH TECH PRAC LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 292",
+      "courseTitle": "TH TECH PRAC LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 298",
+      "courseTitle": "THEATRE PRODUCTION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 302",
+      "courseTitle": "CRITICAL ANALYSIS",
+      "section": "A",
+      "instructor": "Mihaylova,Stefka"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 319",
+      "courseTitle": "PROJECTION DESIGN",
+      "section": "A",
+      "instructor": "Braun,N. Kwame"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 353",
+      "courseTitle": "INTERMD ACTNG-PHYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 373",
+      "courseTitle": "THEATRE HISTORY III",
+      "section": "A",
+      "instructor": "Mahmoud,Jasmine Jamillah"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 391",
+      "courseTitle": "BEG TECHNICAL PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 396",
+      "courseTitle": "STUDY ABROAD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 410",
+      "courseTitle": "ADV THEAT TECH PRAC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 414",
+      "courseTitle": "SCENE DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 421",
+      "courseTitle": "THEAT DRAWING TECHS",
+      "section": "A",
+      "instructor": "Weatherly,Ryan"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 452",
+      "courseTitle": "ADV ACTG-SCENE STDY",
+      "section": "A",
+      "instructor": "Thone,Amy"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 457",
+      "courseTitle": "CREATING DRAMA",
+      "section": "A",
+      "instructor": "Mackey,Adrienne"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 466",
+      "courseTitle": "STAGE MANAGEMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 490",
+      "courseTitle": "SPEC STDY ACT-DIRCT",
+      "section": "F",
+      "instructor": "Sears,Tikka O."
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 490",
+      "courseTitle": "SPEC STDY ACT-DIRCT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 490",
+      "courseTitle": "SPEC STDY ACT-DIRCT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 490",
+      "courseTitle": "SPEC STDY ACT-DIRCT",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 490",
+      "courseTitle": "SPEC STDY ACT-DIRCT",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 490",
+      "courseTitle": "SPEC STDY ACT-DIRCT",
+      "section": "C",
+      "instructor": "Wrenn,Bradley"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 491",
+      "courseTitle": "SPEC STDY DSGN-TECH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 493",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 494",
+      "courseTitle": "STUDIES THEA&DRAMA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 498",
+      "courseTitle": "THEATRE PRODUCTION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 509",
+      "courseTitle": "ADV LTNG: CHALLENGES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 510",
+      "courseTitle": "DESIGN STUDIO",
+      "section": "B",
+      "instructor": "Trout,Deborah L"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 510",
+      "courseTitle": "DESIGN STUDIO",
+      "section": "A",
+      "instructor": "Wong,Carey"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 512",
+      "courseTitle": "ADVANCED LIGHTING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 514",
+      "courseTitle": "DESIGN TECH COLLOQ",
+      "section": "B",
+      "instructor": "Trout,Deborah L"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 514",
+      "courseTitle": "DESIGN TECH COLLOQ",
+      "section": "A",
+      "instructor": "Wong,Carey"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 520",
+      "courseTitle": "ADV THEATRE PRACTCM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 552",
+      "courseTitle": "TEACHING OF ACTING",
+      "section": "A",
+      "instructor": "Connors,Bridget"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 557",
+      "courseTitle": "STUDIO I",
+      "section": "A",
+      "instructor": "Frace,Jeffrey"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 558",
+      "courseTitle": "STUDIO II",
+      "section": "A",
+      "instructor": "Frace,Jeffrey"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 559",
+      "courseTitle": "STUDIO III",
+      "section": "A",
+      "instructor": "Frace,Jeffrey"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 561",
+      "courseTitle": "DIRECTING PROJECTS",
+      "section": "A",
+      "instructor": "Curtis-Newton,Valerie"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 562",
+      "courseTitle": "PERFORMANCE STUDIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 563",
+      "courseTitle": "SEMINAR DIRECTING",
+      "section": "A",
+      "instructor": "Kitchens,Kelly"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 567",
+      "courseTitle": "ACTING PROCESS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 567",
+      "courseTitle": "ACTING PROCESS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 583",
+      "courseTitle": "DRAMA TEXT ANALYSIS",
+      "section": "A",
+      "instructor": "Mihaylova,Stefka"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 599",
+      "courseTitle": "ADV STDY THEATR ART",
+      "section": "A",
+      "instructor": "King,Libby"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 599",
+      "courseTitle": "ADV STDY THEATR ART",
+      "section": "C",
+      "instructor": "Sears,Tikka O."
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 599",
+      "courseTitle": "ADV STDY THEATR ART",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2022",
+      "course": "DRAMA 103",
+      "courseTitle": "THEATRE APPRECIATN",
+      "section": "B",
+      "instructor": "Rogus,Amanda Marie"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2022",
+      "course": "DRAMA 103",
+      "courseTitle": "THEATRE APPRECIATN",
+      "section": "A",
+      "instructor": "VILLIERS,ERIC"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2022",
+      "course": "DRAMA 171",
+      "courseTitle": "BROADWAY MUSICAL",
+      "section": "A",
+      "instructor": "Armstrong,David Scott"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2022",
+      "course": "DRAMA 317",
+      "courseTitle": "COSTUM CONSTRUCTION",
+      "section": "A",
+      "instructor": "Skorstad,D"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2022",
+      "course": "DRAMA 410",
+      "courseTitle": "ADV THEAT TECH PRAC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2022",
+      "course": "DRAMA 491",
+      "courseTitle": "SPEC STDY DSGN-TECH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2022",
+      "course": "DRAMA 493",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2022",
+      "course": "DRAMA 498",
+      "courseTitle": "THEATRE PRODUCTION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2022",
+      "course": "DRAMA 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2022",
+      "course": "DRAMA 599",
+      "courseTitle": "ADV STDY THEATR ART",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2022",
+      "course": "DRAMA 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2022",
+      "course": "DRAMA 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2022",
+      "course": "DRAMA 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2022",
+      "course": "DRAMA 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2022",
+      "course": "DRAMA 101",
+      "courseTitle": "INTRO TO THEATRE",
+      "section": "A",
+      "instructor": "Mahmoud,Jasmine Jamillah"
     },
     {
       "campus": "S",
@@ -2802,7 +4352,7 @@
       "course": "DRAMA 466",
       "courseTitle": "STAGE MANAGEMENT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Farwell-Moreland,Elisabeth"
     },
     {
       "campus": "S",
@@ -3252,7 +4802,7 @@
       "course": "DRAMA 101",
       "courseTitle": "INTRO TO THEATRE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mahmoud,Jasmine Jamillah"
     },
     {
       "campus": "S",
@@ -4642,7 +6192,7 @@
       "course": "DRAMA 171",
       "courseTitle": "BROADWAY MUSICAL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Armstrong,David Scott"
     },
     {
       "campus": "S",
@@ -4842,7 +6392,7 @@
       "course": "DRAMA 222",
       "courseTitle": "DESIGN FOR PERFORMNC",
       "section": "A",
-      "instructor": "Dauber,An-lin"
+      "instructor": "A Dauber,An-lin"
     },
     {
       "campus": "S",
@@ -5172,7 +6722,7 @@
       "course": "DRAMA 510",
       "courseTitle": "DESIGN STUDIO",
       "section": "A",
-      "instructor": "Dauber,An-lin"
+      "instructor": "E Dauber,An-lin"
     },
     {
       "campus": "S",
@@ -5182,7 +6732,7 @@
       "course": "DRAMA 512",
       "courseTitle": "ADVANCED LIGHTING",
       "section": "A",
-      "instructor": "Smith,Andrew D"
+      "instructor": "E Smith,Andrew D"
     },
     {
       "campus": "S",
@@ -5332,7 +6882,7 @@
       "course": "DRAMA 564",
       "courseTitle": "HISTORY/THEORY/CRIT",
       "section": "A",
-      "instructor": "Yeboah,Nikki"
+      "instructor": "C Yeboah,Nikki"
     },
     {
       "campus": "S",
@@ -5478,11 +7028,681 @@
       "campus": "S",
       "dept": "drama",
       "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 101",
+      "courseTitle": "INTRO TO THEATRE",
+      "section": "A",
+      "instructor": "Mahmoud,Jasmine Jamillah"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 103",
+      "courseTitle": "THEATRE APPRECIATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 201",
+      "courseTitle": "PLAYS AND STYLES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 201",
+      "courseTitle": "PLAYS AND STYLES",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 251",
+      "courseTitle": "ACTING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 252",
+      "courseTitle": "ACTING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 270",
+      "courseTitle": "THEATRE SOCIAL CHNGE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 291",
+      "courseTitle": "TH TECH PRAC LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 292",
+      "courseTitle": "TH TECH PRAC LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 298",
+      "courseTitle": "THEATRE PRODUCTION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 319",
+      "courseTitle": "PROJECTION DESIGN",
+      "section": "A",
+      "instructor": "B Braun,N. Kwame"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 352",
+      "courseTitle": "INTRMD ACTING-VERSE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 353",
+      "courseTitle": "INTERMD ACTNG-PHYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 365",
+      "courseTitle": "DIVERSE VOICES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 372",
+      "courseTitle": "THEATRE HISTORY II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 391",
+      "courseTitle": "BEG TECHNICAL PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 401",
+      "courseTitle": "MAJORS SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 406",
+      "courseTitle": "DIGITAL CINEMA PROD",
+      "section": "A",
+      "instructor": "Braun,N. Kwame"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 410",
+      "courseTitle": "ADV THEAT TECH PRAC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 414",
+      "courseTitle": "SCENE DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 441",
+      "courseTitle": "BEGIN PLAYWRITING",
+      "section": "A",
+      "instructor": "C Yeboah,Nikki"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 451",
+      "courseTitle": "ADV ACT-PRDCTN WKSP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 456",
+      "courseTitle": "THEATRE FOR YOUTH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 461",
+      "courseTitle": "ELEM DIRECTING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 466",
+      "courseTitle": "STAGE MANAGEMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 466",
+      "courseTitle": "STAGE MANAGEMENT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 490",
+      "courseTitle": "SPEC STDY ACT-DIRCT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 490",
+      "courseTitle": "SPEC STDY ACT-DIRCT",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 491",
+      "courseTitle": "SPEC STDY DSGN-TECH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 491",
+      "courseTitle": "SPEC STDY DSGN-TECH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 493",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 495",
+      "courseTitle": "DESIGN-TECH PRACTCM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 498",
+      "courseTitle": "THEATRE PRODUCTION",
+      "section": "B",
+      "instructor": "Smith,Andrew D"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 498",
+      "courseTitle": "THEATRE PRODUCTION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 510",
+      "courseTitle": "DESIGN STUDIO",
+      "section": "A",
+      "instructor": "Dauber,An-lin"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 512",
+      "courseTitle": "ADVANCED LIGHTING",
+      "section": "A",
+      "instructor": "Korf,Geoff"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 514",
+      "courseTitle": "DESIGN TECH COLLOQ",
+      "section": "B",
+      "instructor": "Dauber,An-lin"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 514",
+      "courseTitle": "DESIGN TECH COLLOQ",
+      "section": "C",
+      "instructor": "Smith,Andrew D"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 514",
+      "courseTitle": "DESIGN TECH COLLOQ",
+      "section": "A",
+      "instructor": "Walsh,Sara Catherine"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 519",
+      "courseTitle": "PROJECTION DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 520",
+      "courseTitle": "ADV THEATRE PRACTCM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 551",
+      "courseTitle": "TEACHING OF ACTING",
+      "section": "A",
+      "instructor": "Hafso,Scott"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 552",
+      "courseTitle": "TEACHING OF ACTING",
+      "section": "A",
+      "instructor": "Jones,Danny"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 557",
+      "courseTitle": "STUDIO I",
+      "section": "A",
+      "instructor": "Frace,Jeffrey"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 558",
+      "courseTitle": "STUDIO II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 559",
+      "courseTitle": "STUDIO III",
+      "section": "A",
+      "instructor": "Frace,Jeffrey"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 561",
+      "courseTitle": "DIRECTING PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 562",
+      "courseTitle": "PERFORMANCE STUDIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 562",
+      "courseTitle": "PERFORMANCE STUDIO",
+      "section": "B",
+      "instructor": "Thone,Amy"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 563",
+      "courseTitle": "SEMINAR DIRECTING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 564",
+      "courseTitle": "HISTORY/THEORY/CRIT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 566",
+      "courseTitle": "DIRECTING CINEMA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 567",
+      "courseTitle": "ACTING PROCESS",
+      "section": "B",
+      "instructor": "Frace,Jeffrey"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 567",
+      "courseTitle": "ACTING PROCESS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 568",
+      "courseTitle": "WRITING FOR STAGE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 569",
+      "courseTitle": "DIR/TEACH APPRENTIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 571",
+      "courseTitle": "THEATRE HSTRY PROBS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 585",
+      "courseTitle": "DRAMA THEORY SEMINA",
+      "section": "A",
+      "instructor": "C Mahmoud,Jasmine Jamillah"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 599",
+      "courseTitle": "ADV STDY THEATR ART",
+      "section": "C",
+      "instructor": "Mackey,Adrienne"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 599",
+      "courseTitle": "ADV STDY THEATR ART",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 599",
+      "courseTitle": "ADV STDY THEATR ART",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 599",
+      "courseTitle": "ADV STDY THEATR ART",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
       "term": "SPR2024",
       "course": "DRAMA 101",
       "courseTitle": "INTRO TO THEATRE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "VILLIERS,ERIC"
     },
     {
       "campus": "S",
@@ -5802,7 +8022,7 @@
       "course": "DRAMA 495",
       "courseTitle": "DESIGN-TECH PRACTCM",
       "section": "B",
-      "instructor": "Dogg,M.L."
+      "instructor": "B Dogg,M.L."
     },
     {
       "campus": "S",
@@ -5862,7 +8082,7 @@
       "course": "DRAMA 510",
       "courseTitle": "DESIGN STUDIO",
       "section": "A",
-      "instructor": "Walsh,Sara Catherine"
+      "instructor": "E Walsh,Sara Catherine"
     },
     {
       "campus": "S",
@@ -6218,11 +8438,621 @@
       "campus": "S",
       "dept": "drama",
       "deptName": "Drama",
-      "term": "WIN2025",
+      "term": "AUT2024",
       "course": "DRAMA 101",
       "courseTitle": "INTRO TO THEATRE",
       "section": "A",
       "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 103",
+      "courseTitle": "THEATRE APPRECIATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 103",
+      "courseTitle": "THEATRE APPRECIATN",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 111",
+      "courseTitle": "BACKSTAGE TECH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 201",
+      "courseTitle": "PLAYS AND STYLES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 203",
+      "courseTitle": "RESILIENC CREAT PROC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 213",
+      "courseTitle": "SOUND DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 222",
+      "courseTitle": "DESIGN FOR PERFORMNC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 251",
+      "courseTitle": "ACTING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 261",
+      "courseTitle": "ACTING TOOLS PRSENTN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 290",
+      "courseTitle": "TH TECH PRAC LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 291",
+      "courseTitle": "TH TECH PRAC LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 292",
+      "courseTitle": "TH TECH PRAC LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 298",
+      "courseTitle": "THEATRE PRODUCTION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 317",
+      "courseTitle": "COSTUM CONSTRUCTION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 351",
+      "courseTitle": "INTERMED SCENE STDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 354",
+      "courseTitle": "PSYCHOPHYSICAL ACTNG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 371",
+      "courseTitle": "THEATRE HISTORY I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 373",
+      "courseTitle": "THEATRE HISTORY III",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 391",
+      "courseTitle": "BEG TECHNICAL PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 396",
+      "courseTitle": "STUDY ABROAD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 410",
+      "courseTitle": "ADV THEAT TECH PRAC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 421",
+      "courseTitle": "THEAT DRAWING TECHS",
+      "section": "A",
+      "instructor": "Law,Jennifer"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 454",
+      "courseTitle": "PROJECTS IN ACTING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 460",
+      "courseTitle": "INTRO TO DIRECTING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 466",
+      "courseTitle": "STAGE MANAGEMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 466",
+      "courseTitle": "STAGE MANAGEMENT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 490",
+      "courseTitle": "SPEC STDY ACT-DIRCT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 490",
+      "courseTitle": "SPEC STDY ACT-DIRCT",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 491",
+      "courseTitle": "SPEC STDY DSGN-TECH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 493",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 494",
+      "courseTitle": "STUDIES THEA&DRAMA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 498",
+      "courseTitle": "THEATRE PRODUCTION",
+      "section": "B",
+      "instructor": "Dauber,An-lin"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 498",
+      "courseTitle": "THEATRE PRODUCTION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 506",
+      "courseTitle": "VISUAL COMMUNICATION",
+      "section": "A",
+      "instructor": "Walsh,Sara Catherine"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 508",
+      "courseTitle": "ADV LTNG: PLOTMAKING",
+      "section": "A",
+      "instructor": "Smith,Andrew D"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 510",
+      "courseTitle": "DESIGN STUDIO",
+      "section": "A",
+      "instructor": "Dauber,An-lin"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 510",
+      "courseTitle": "DESIGN STUDIO",
+      "section": "B",
+      "instructor": "Walsh,Sara Catherine"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 514",
+      "courseTitle": "DESIGN TECH COLLOQ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 514",
+      "courseTitle": "DESIGN TECH COLLOQ",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 514",
+      "courseTitle": "DESIGN TECH COLLOQ",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 520",
+      "courseTitle": "ADV THEATRE PRACTCM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 520",
+      "courseTitle": "ADV THEATRE PRACTCM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 551",
+      "courseTitle": "TEACHING OF ACTING",
+      "section": "A",
+      "instructor": "Hafso,Scott"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 558",
+      "courseTitle": "STUDIO II",
+      "section": "A",
+      "instructor": "Frace,Jeffrey"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 561",
+      "courseTitle": "DIRECTING PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 562",
+      "courseTitle": "PERFORMANCE STUDIO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 563",
+      "courseTitle": "SEMINAR DIRECTING",
+      "section": "A",
+      "instructor": "Curtis-Newton,Valerie Lynn"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 567",
+      "courseTitle": "ACTING PROCESS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 567",
+      "courseTitle": "ACTING PROCESS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 571",
+      "courseTitle": "THEATRE HSTRY PROBS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 575",
+      "courseTitle": "THEATRE HISTORY SEM",
+      "section": "A",
+      "instructor": "Magelssen,Scott"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 599",
+      "courseTitle": "ADV STDY THEATR ART",
+      "section": "C",
+      "instructor": "Mackey,Adrienne"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 599",
+      "courseTitle": "ADV STDY THEATR ART",
+      "section": "D",
+      "instructor": "Montgomery,Anita"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 599",
+      "courseTitle": "ADV STDY THEATR ART",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 599",
+      "courseTitle": "ADV STDY THEATR ART",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2024",
+      "course": "DRAMA 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2025",
+      "course": "DRAMA 101",
+      "courseTitle": "INTRO TO THEATRE",
+      "section": "A",
+      "instructor": "VILLIERS,ERIC"
     },
     {
       "campus": "S",
@@ -6882,7 +9712,7 @@
       "course": "DRAMA 101",
       "courseTitle": "INTRO TO THEATRE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Farooqi,Amna Marie"
     },
     {
       "campus": "S",
@@ -7362,7 +10192,7 @@
       "course": "DRAMA 561",
       "courseTitle": "DIRECTING PROJECTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Curtis-Newton,Valerie Lynn"
     },
     {
       "campus": "S",
@@ -7382,7 +10212,7 @@
       "course": "DRAMA 563",
       "courseTitle": "SEMINAR DIRECTING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Curtis-Newton,Valerie Lynn"
     },
     {
       "campus": "S",
@@ -7468,11 +10298,161 @@
       "campus": "S",
       "dept": "drama",
       "deptName": "Drama",
+      "term": "SUM2025",
+      "course": "DRAMA 103",
+      "courseTitle": "THEATRE APPRECIATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2025",
+      "course": "DRAMA 111",
+      "courseTitle": "BACKSTAGE TECH",
+      "section": "A",
+      "instructor": "Reay,Chris"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2025",
+      "course": "DRAMA 291",
+      "courseTitle": "TH TECH PRAC LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2025",
+      "course": "DRAMA 292",
+      "courseTitle": "TH TECH PRAC LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2025",
+      "course": "DRAMA 317",
+      "courseTitle": "COSTUM CONSTRUCTION",
+      "section": "A",
+      "instructor": "Skorstad,Deborah"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2025",
+      "course": "DRAMA 396",
+      "courseTitle": "STUDY ABROAD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2025",
+      "course": "DRAMA 410",
+      "courseTitle": "ADV THEAT TECH PRAC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2025",
+      "course": "DRAMA 493",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2025",
+      "course": "DRAMA 498",
+      "courseTitle": "THEATRE PRODUCTION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2025",
+      "course": "DRAMA 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2025",
+      "course": "DRAMA 599",
+      "courseTitle": "ADV STDY THEATR ART",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2025",
+      "course": "DRAMA 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2025",
+      "course": "DRAMA 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2025",
+      "course": "DRAMA 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SUM2025",
+      "course": "DRAMA 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
       "term": "AUT2025",
       "course": "DRAMA 101",
       "courseTitle": "INTRO TO THEATRE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Farooqi,Amna Marie"
     },
     {
       "campus": "S",
@@ -7652,7 +10632,7 @@
       "course": "DRAMA 421",
       "courseTitle": "THEAT DRAWING TECHS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "DRAPKIN,ABIGAIL"
     },
     {
       "campus": "S",
@@ -7682,7 +10662,7 @@
       "course": "DRAMA 456",
       "courseTitle": "THEATRE FOR YOUTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "PLATT,MYRA M"
     },
     {
       "campus": "S",
@@ -7802,7 +10782,7 @@
       "course": "DRAMA 508",
       "courseTitle": "ADV LTNG: PLOTMAKING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Smith,Andrew D"
     },
     {
       "campus": "S",
@@ -7822,17 +10802,7 @@
       "course": "DRAMA 512",
       "courseTitle": "ADVANCED LIGHTING",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "drama",
-      "deptName": "Drama",
-      "term": "AUT2025",
-      "course": "DRAMA 514",
-      "courseTitle": "DESIGN TECH COLLOQ",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Korf,Geoff"
     },
     {
       "campus": "S",
@@ -7842,17 +10812,7 @@
       "course": "DRAMA 514",
       "courseTitle": "DESIGN TECH COLLOQ",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "drama",
-      "deptName": "Drama",
-      "term": "AUT2025",
-      "course": "DRAMA 514",
-      "courseTitle": "DESIGN TECH COLLOQ",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Dauber,An-lin"
     },
     {
       "campus": "S",
@@ -7862,7 +10822,27 @@
       "course": "DRAMA 514",
       "courseTitle": "DESIGN TECH COLLOQ",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Dogg,M.L."
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2025",
+      "course": "DRAMA 514",
+      "courseTitle": "DESIGN TECH COLLOQ",
+      "section": "C",
+      "instructor": "Smith,Andrew D"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2025",
+      "course": "DRAMA 514",
+      "courseTitle": "DESIGN TECH COLLOQ",
+      "section": "A",
+      "instructor": "Walsh,Sara Catherine"
     },
     {
       "campus": "S",
@@ -7922,7 +10902,7 @@
       "course": "DRAMA 561",
       "courseTitle": "DIRECTING PROJECTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Curtis-Newton,Valerie Lynn"
     },
     {
       "campus": "S",
@@ -7942,7 +10922,7 @@
       "course": "DRAMA 563",
       "courseTitle": "SEMINAR DIRECTING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Curtis-Newton,Valerie Lynn"
     },
     {
       "campus": "S",
@@ -7952,7 +10932,7 @@
       "course": "DRAMA 564",
       "courseTitle": "HISTORY/THEORY/CRIT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Yeboah,Nikki"
     },
     {
       "campus": "S",
@@ -8031,6 +11011,16 @@
       "term": "AUT2025",
       "course": "DRAMA 599",
       "courseTitle": "ADV STDY THEATR ART",
+      "section": "C",
+      "instructor": "Mackey,Adrienne"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2025",
+      "course": "DRAMA 599",
+      "courseTitle": "ADV STDY THEATR ART",
       "section": "A",
       "instructor": "TBA"
     },
@@ -8042,16 +11032,6 @@
       "course": "DRAMA 599",
       "courseTitle": "ADV STDY THEATR ART",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "drama",
-      "deptName": "Drama",
-      "term": "AUT2025",
-      "course": "DRAMA 599",
-      "courseTitle": "ADV STDY THEATR ART",
-      "section": "C",
       "instructor": "TBA"
     },
     {
@@ -8092,7 +11072,7 @@
       "course": "DRAMA 101",
       "courseTitle": "INTRO TO THEATRE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mahmoud,Jasmine Jamillah"
     },
     {
       "campus": "S",
@@ -8172,7 +11152,7 @@
       "course": "DRAMA 254",
       "courseTitle": "INTROACTINGSKILLS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Wrenn,Bradley"
     },
     {
       "campus": "S",
@@ -8282,17 +11262,7 @@
       "course": "DRAMA 441",
       "courseTitle": "BEGIN PLAYWRITING",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "drama",
-      "deptName": "Drama",
-      "term": "WIN2026",
-      "course": "DRAMA 451",
-      "courseTitle": "ADV ACT-PRDCTN WKSP",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Yeboah,Nikki"
     },
     {
       "campus": "S",
@@ -8309,10 +11279,20 @@
       "dept": "drama",
       "deptName": "Drama",
       "term": "WIN2026",
+      "course": "DRAMA 451",
+      "courseTitle": "ADV ACT-PRDCTN WKSP",
+      "section": "A",
+      "instructor": "Yeboah,Nikki"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2026",
       "course": "DRAMA 452",
       "courseTitle": "ADV ACTG-SCENE STDY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Madden,Cathy"
     },
     {
       "campus": "S",
@@ -8411,8 +11391,8 @@
       "term": "WIN2026",
       "course": "DRAMA 498",
       "courseTitle": "THEATRE PRODUCTION",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Smith,Andrew D"
     },
     {
       "campus": "S",
@@ -8421,7 +11401,7 @@
       "term": "WIN2026",
       "course": "DRAMA 498",
       "courseTitle": "THEATRE PRODUCTION",
-      "section": "B",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -8452,7 +11432,7 @@
       "course": "DRAMA 510",
       "courseTitle": "DESIGN STUDIO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Walsh,Sara Catherine"
     },
     {
       "campus": "S",
@@ -8462,17 +11442,7 @@
       "course": "DRAMA 512",
       "courseTitle": "ADVANCED LIGHTING",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "drama",
-      "deptName": "Drama",
-      "term": "WIN2026",
-      "course": "DRAMA 514",
-      "courseTitle": "DESIGN TECH COLLOQ",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Smith,Andrew D"
     },
     {
       "campus": "S",
@@ -8482,17 +11452,7 @@
       "course": "DRAMA 514",
       "courseTitle": "DESIGN TECH COLLOQ",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "drama",
-      "deptName": "Drama",
-      "term": "WIN2026",
-      "course": "DRAMA 514",
-      "courseTitle": "DESIGN TECH COLLOQ",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Dauber,An-lin"
     },
     {
       "campus": "S",
@@ -8502,7 +11462,27 @@
       "course": "DRAMA 514",
       "courseTitle": "DESIGN TECH COLLOQ",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Dogg,M.L."
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2026",
+      "course": "DRAMA 514",
+      "courseTitle": "DESIGN TECH COLLOQ",
+      "section": "C",
+      "instructor": "Smith,Andrew D"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2026",
+      "course": "DRAMA 514",
+      "courseTitle": "DESIGN TECH COLLOQ",
+      "section": "A",
+      "instructor": "Walsh,Sara Catherine"
     },
     {
       "campus": "S",
@@ -8532,7 +11512,7 @@
       "course": "DRAMA 551",
       "courseTitle": "TEACHING OF ACTING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hafso,Scott"
     },
     {
       "campus": "S",
@@ -8542,7 +11522,7 @@
       "course": "DRAMA 552",
       "courseTitle": "TEACHING OF ACTING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jones,Danny"
     },
     {
       "campus": "S",
@@ -8592,7 +11572,7 @@
       "course": "DRAMA 562",
       "courseTitle": "PERFORMANCE STUDIO",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Thone,Amy"
     },
     {
       "campus": "S",
@@ -8632,7 +11612,7 @@
       "course": "DRAMA 576",
       "courseTitle": "THEATRE HISTORY SEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Johnson,Odai"
     },
     {
       "campus": "S",
@@ -8642,7 +11622,27 @@
       "course": "DRAMA 582",
       "courseTitle": "DRAMA TEXT ANALYSIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mahmoud,Jasmine Jamillah"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2026",
+      "course": "DRAMA 599",
+      "courseTitle": "ADV STDY THEATR ART",
+      "section": "E",
+      "instructor": "Dogg,M.L."
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2026",
+      "course": "DRAMA 599",
+      "courseTitle": "ADV STDY THEATR ART",
+      "section": "C",
+      "instructor": "Mackey,Adrienne"
     },
     {
       "campus": "S",
@@ -8662,16 +11662,6 @@
       "course": "DRAMA 599",
       "courseTitle": "ADV STDY THEATR ART",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "drama",
-      "deptName": "Drama",
-      "term": "WIN2026",
-      "course": "DRAMA 599",
-      "courseTitle": "ADV STDY THEATR ART",
-      "section": "C",
       "instructor": "TBA"
     },
     {
@@ -8682,27 +11672,7 @@
       "course": "DRAMA 599",
       "courseTitle": "ADV STDY THEATR ART",
       "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "drama",
-      "deptName": "Drama",
-      "term": "WIN2026",
-      "course": "DRAMA 599",
-      "courseTitle": "ADV STDY THEATR ART",
-      "section": "E",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "drama",
-      "deptName": "Drama",
-      "term": "WIN2026",
-      "course": "DRAMA 600",
-      "courseTitle": "INDEPNDNT STDY/RSCH",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Walsh,Sara Catherine"
     },
     {
       "campus": "S",
@@ -8712,6 +11682,16 @@
       "course": "DRAMA 600",
       "courseTitle": "INDEPNDNT STDY/RSCH",
       "section": "B",
+      "instructor": "Mihaylova,Stefka"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2026",
+      "course": "DRAMA 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -8742,17 +11722,7 @@
       "course": "DRAMA 101",
       "courseTitle": "INTRO TO THEATRE",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "drama",
-      "deptName": "Drama",
-      "term": "SPR2026",
-      "course": "DRAMA 103",
-      "courseTitle": "THEATRE APPRECIATN",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Herren,Rachael"
     },
     {
       "campus": "S",
@@ -8762,6 +11732,16 @@
       "course": "DRAMA 103",
       "courseTitle": "THEATRE APPRECIATN",
       "section": "B",
+      "instructor": "Farooqi,Amna Marie"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2026",
+      "course": "DRAMA 103",
+      "courseTitle": "THEATRE APPRECIATN",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -8772,7 +11752,7 @@
       "course": "DRAMA 171",
       "courseTitle": "BROADWAY MUSICAL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Armstrong,David Scott"
     },
     {
       "campus": "S",
@@ -9102,17 +12082,7 @@
       "course": "DRAMA 514",
       "courseTitle": "DESIGN TECH COLLOQ",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "drama",
-      "deptName": "Drama",
-      "term": "SPR2026",
-      "course": "DRAMA 514",
-      "courseTitle": "DESIGN TECH COLLOQ",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Dauber,An-lin"
     },
     {
       "campus": "S",
@@ -9122,7 +12092,17 @@
       "course": "DRAMA 514",
       "courseTitle": "DESIGN TECH COLLOQ",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Dogg,M.L."
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2026",
+      "course": "DRAMA 514",
+      "courseTitle": "DESIGN TECH COLLOQ",
+      "section": "C",
+      "instructor": "Smith,Andrew D"
     },
     {
       "campus": "S",
@@ -9132,7 +12112,7 @@
       "course": "DRAMA 530",
       "courseTitle": "LTNG PR: LIGHT LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Smith,Andrew D"
     },
     {
       "campus": "S",
@@ -9142,7 +12122,7 @@
       "course": "DRAMA 552",
       "courseTitle": "TEACHING OF ACTING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jones,Danny"
     },
     {
       "campus": "S",
@@ -9202,27 +12182,7 @@
       "course": "DRAMA 573",
       "courseTitle": "THEATRE HSTRY PROBS",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "drama",
-      "deptName": "Drama",
-      "term": "SPR2026",
-      "course": "DRAMA 599",
-      "courseTitle": "ADV STDY THEATR ART",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "drama",
-      "deptName": "Drama",
-      "term": "SPR2026",
-      "course": "DRAMA 599",
-      "courseTitle": "ADV STDY THEATR ART",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Johnson,Odai"
     },
     {
       "campus": "S",
@@ -9232,6 +12192,16 @@
       "course": "DRAMA 599",
       "courseTitle": "ADV STDY THEATR ART",
       "section": "C",
+      "instructor": "Mackey,Adrienne"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2026",
+      "course": "DRAMA 599",
+      "courseTitle": "ADV STDY THEATR ART",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -9239,9 +12209,9 @@
       "dept": "drama",
       "deptName": "Drama",
       "term": "SPR2026",
-      "course": "DRAMA 600",
-      "courseTitle": "INDEPNDNT STDY/RSCH",
-      "section": "A",
+      "course": "DRAMA 599",
+      "courseTitle": "ADV STDY THEATR ART",
+      "section": "B",
       "instructor": "TBA"
     },
     {
@@ -9252,6 +12222,16 @@
       "course": "DRAMA 600",
       "courseTitle": "INDEPNDNT STDY/RSCH",
       "section": "B",
+      "instructor": "Mahmoud,Jasmine Jamillah"
+    },
+    {
+      "campus": "S",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2026",
+      "course": "DRAMA 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
       "instructor": "TBA"
     },
     {

@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Zahorjan%2CJohn",
+  "professor": "Zahorjan,John",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "SPR2022",
+      "course": "CSE 451",
+      "courseTitle": "INTRO OPERATING SYS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "WIN2022",
+      "course": "CSE 410",
+      "courseTitle": "COMPUTER SYSTEMS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "SPR2021",
+      "course": "CSE 451",
+      "courseTitle": "INTRO OPERATING SYS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "WIN2021",
+      "course": "CSE 333",
+      "courseTitle": "SYSTEMS PROGRAMMING",
+      "section": "A"
+    }
+  ]
+}

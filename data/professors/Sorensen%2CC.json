@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Sorensen%2CC",
+  "professor": "Sorensen,C",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 584",
+      "courseTitle": "SURVEY KOREAN SOC",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 448",
+      "courseTitle": "MOD KOREAN SOCIETY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "anthro",
+      "deptName": "Anthropology",
+      "term": "AUT2022",
+      "course": "ANTH 448",
+      "courseTitle": "MOD KOREAN SOCIETY",
+      "section": "A"
+    }
+  ]
+}

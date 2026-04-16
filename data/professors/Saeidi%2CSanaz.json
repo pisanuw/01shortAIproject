@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Saeidi%2CSanaz",
+  "professor": "Saeidi,Sanaz",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2023",
+      "course": "CM 515",
+      "courseTitle": "VIRTUAL CONST MGMT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 414",
+      "courseTitle": "VIRTUAL CONST",
+      "section": "A"
+    }
+  ]
+}

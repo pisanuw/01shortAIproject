@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "LI%2CXUE",
+  "professor": "LI,XUE",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "SPR2025",
+      "course": "ACCTG 215",
+      "courseTitle": "ACCTG & FIN REPRTNG",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "WIN2024",
+      "course": "ACCTG 320",
+      "courseTitle": "ACCTG ANALYTICS",
+      "section": "A"
+    }
+  ]
+}

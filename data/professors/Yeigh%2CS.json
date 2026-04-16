@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Yeigh%2CS",
+  "professor": "Yeigh,S",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bmath",
+      "deptName": "Mathematics",
+      "term": "WIN2023",
+      "course": "B MATH 121",
+      "courseTitle": "ALG & QUANT REAS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bmath",
+      "deptName": "Mathematics",
+      "term": "AUT2022",
+      "course": "B MATH 121",
+      "courseTitle": "ALG & QUANT REAS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bmath",
+      "deptName": "Mathematics",
+      "term": "WIN2022",
+      "course": "B MATH 121",
+      "courseTitle": "ALG & QUANT REAS",
+      "section": "A"
+    }
+  ]
+}

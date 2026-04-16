@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Green%2CPhil",
+  "professor": "Green,Phil",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "genome",
+      "deptName": "Genome Sciences",
+      "term": "AUT2022",
+      "course": "GENOME 521",
+      "courseTitle": "SEM IN COMP BIO",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "genome",
+      "deptName": "Genome Sciences",
+      "term": "AUT2021",
+      "course": "GENOME 521",
+      "courseTitle": "SEM IN COMP BIO",
+      "section": "A"
+    }
+  ]
+}

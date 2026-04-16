@@ -1,7 +1,2838 @@
 {
-  "generatedAt": "2026-04-15T16:28:01Z",
+  "generatedAt": "2026-04-16T02:57:16Z",
   "campus": "S",
   "dept": "nursingmeth",
   "deptName": "Nursing Methods",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2020",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2020",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2020",
+      "course": "NMETH 523",
+      "courseTitle": "PROJ MGMT INFORMAT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2020",
+      "course": "NMETH 527",
+      "courseTitle": "INTRO CLIN INFORMAT",
+      "section": "B",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2020",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2020",
+      "course": "NMETH 610",
+      "courseTitle": "RESEARCH PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2020",
+      "course": "NMETH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2020",
+      "course": "NMETH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2020",
+      "course": "NMETH 801",
+      "courseTitle": "DOCTORATE PROJECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2021",
+      "course": "NMETH 450",
+      "courseTitle": "INFMX, PT SFTY & QI",
+      "section": "B",
+      "instructor": "Zierler,Brenda K"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2021",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2021",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2021",
+      "course": "NMETH 524",
+      "courseTitle": "HEALTH SYS & EHR",
+      "section": "B",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2021",
+      "course": "NMETH 528",
+      "courseTitle": "COMPUTING FUNDAMENT",
+      "section": "B",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2021",
+      "course": "NMETH 535",
+      "courseTitle": "NURSING INQUIRY",
+      "section": "A",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2021",
+      "course": "NMETH 583",
+      "courseTitle": "ADV QUAL RES MTHDS",
+      "section": "A",
+      "instructor": "Boutain,Doris"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2021",
+      "course": "NMETH 594",
+      "courseTitle": "HLTH SERVIC DELIVER",
+      "section": "A",
+      "instructor": "Gimbel,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2021",
+      "course": "NMETH 598",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2021",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2021",
+      "course": "NMETH 610",
+      "courseTitle": "RESEARCH PRACTICUM",
+      "section": "A",
+      "instructor": "Thompson,Hilaire J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2021",
+      "course": "NMETH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2021",
+      "course": "NMETH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2021",
+      "course": "NMETH 801",
+      "courseTitle": "DOCTORATE PROJECT",
+      "section": "A",
+      "instructor": "Altman,Molly"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2021",
+      "course": "NMETH 403",
+      "courseTitle": "INTRO RESEARCH NURS",
+      "section": "A",
+      "instructor": "Hash - she,her, Jonika"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2021",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "HR"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2021",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2021",
+      "course": "NMETH 526",
+      "courseTitle": "PATIENT-CENTER TECH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2021",
+      "course": "NMETH 529",
+      "courseTitle": "DATABASE CLIN INFOR",
+      "section": "B",
+      "instructor": "Yetisgen,Meliha"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2021",
+      "course": "NMETH 533",
+      "courseTitle": "APPRAIS AND TRANSL",
+      "section": "A",
+      "instructor": "Auld,Jonathan"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2021",
+      "course": "NMETH 536",
+      "courseTitle": "MTHD PROG EVAL",
+      "section": "A",
+      "instructor": "Pintye - She Her,Jillian"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2021",
+      "course": "NMETH 579",
+      "courseTitle": "QUANT RES METHODS",
+      "section": "A",
+      "instructor": "Ward - she,her,Teresa M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2021",
+      "course": "NMETH 582",
+      "courseTitle": "QUAL RES METHODS",
+      "section": "A",
+      "instructor": "Boutain,Doris"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2021",
+      "course": "NMETH 598",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2021",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2021",
+      "course": "NMETH 610",
+      "courseTitle": "RESEARCH PRACTICUM",
+      "section": "A",
+      "instructor": "Sadak - She Her,Tatiana"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2021",
+      "course": "NMETH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2021",
+      "course": "NMETH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2021",
+      "course": "NMETH 801",
+      "courseTitle": "DOCTORATE PROJECT",
+      "section": "A",
+      "instructor": "Walsh - she,her,Elaine"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2021",
+      "course": "NMETH 530",
+      "courseTitle": "SCHOLAR",
+      "section": "B",
+      "instructor": "Chen,Annie T"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2021",
+      "course": "NMETH 598",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2021",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2021",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2021",
+      "course": "NMETH 610",
+      "courseTitle": "RESEARCH PRACTICUM",
+      "section": "A",
+      "instructor": "Sadak - She Her,Tatiana"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2021",
+      "course": "NMETH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2021",
+      "course": "NMETH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2021",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2021",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2021",
+      "course": "NMETH 523",
+      "courseTitle": "PROJ MGMT INFORMAT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2021",
+      "course": "NMETH 527",
+      "courseTitle": "INTRO CLIN INFORMAT",
+      "section": "B",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2021",
+      "course": "NMETH 588",
+      "courseTitle": "MIX METH HLTH SCI",
+      "section": "A",
+      "instructor": "Iribarren - she,her, Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2021",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2021",
+      "course": "NMETH 610",
+      "courseTitle": "RESEARCH PRACTICUM",
+      "section": "A",
+      "instructor": "Sadak - She Her,Tatiana"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2021",
+      "course": "NMETH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2021",
+      "course": "NMETH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2021",
+      "course": "NMETH 801",
+      "courseTitle": "DOCTORATE PROJECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2022",
+      "course": "NMETH 210",
+      "courseTitle": "SCI, EVID, HEALTH",
+      "section": "A",
+      "instructor": "Reding,Kerryn"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2022",
+      "course": "NMETH 210",
+      "courseTitle": "SCI, EVID, HEALTH",
+      "section": "B",
+      "instructor": "Reding,Kerryn"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2022",
+      "course": "NMETH 450",
+      "courseTitle": "INFMX, PT SFTY & QI",
+      "section": "C",
+      "instructor": "HJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2022",
+      "course": "NMETH 450",
+      "courseTitle": "INFMX, PT SFTY & QI",
+      "section": "B",
+      "instructor": "Zierler - she,her,Brenda"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2022",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2022",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2022",
+      "course": "NMETH 524",
+      "courseTitle": "HEALTH SYS & EHR",
+      "section": "B",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2022",
+      "course": "NMETH 528",
+      "courseTitle": "COMPUTING FUNDAMENT",
+      "section": "B",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2022",
+      "course": "NMETH 535",
+      "courseTitle": "NURSING INQUIRY",
+      "section": "A",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2022",
+      "course": "NMETH 595",
+      "courseTitle": "BEHAVIORAL INTRVENT",
+      "section": "A",
+      "instructor": "Lewis,Frances M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2022",
+      "course": "NMETH 598",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2022",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2022",
+      "course": "NMETH 610",
+      "courseTitle": "RESEARCH PRACTICUM",
+      "section": "A",
+      "instructor": "Sadak - She Her,Tatiana"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2022",
+      "course": "NMETH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2022",
+      "course": "NMETH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2022",
+      "course": "NMETH 801",
+      "courseTitle": "DOCTORATE PROJECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2022",
+      "course": "NMETH 403",
+      "courseTitle": "INTRO RESEARCH NURS",
+      "section": "A",
+      "instructor": "Hash - she,her, Jonika"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2022",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "HR"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2022",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2022",
+      "course": "NMETH 520",
+      "courseTitle": "SCHOLAR INQ INFORM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2022",
+      "course": "NMETH 526",
+      "courseTitle": "PATIENT-CENTER TECH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2022",
+      "course": "NMETH 529",
+      "courseTitle": "DATABASE CLIN INFOR",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2022",
+      "course": "NMETH 533",
+      "courseTitle": "APPRAIS AND TRANSL",
+      "section": "A",
+      "instructor": "Auld,Jonathan"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2022",
+      "course": "NMETH 536",
+      "courseTitle": "MTHD PROG EVAL",
+      "section": "A",
+      "instructor": "Pintye - She Her,Jillian"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2022",
+      "course": "NMETH 579",
+      "courseTitle": "QUANT RES METHODS",
+      "section": "A",
+      "instructor": "Ward - she,her,Teresa M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2022",
+      "course": "NMETH 582",
+      "courseTitle": "QUAL RES METHODS",
+      "section": "A",
+      "instructor": "Boutain,D"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2022",
+      "course": "NMETH 584",
+      "courseTitle": "PHYSIOLOGIC MEASURE",
+      "section": "A",
+      "instructor": "Heitkemper,Margaret"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2022",
+      "course": "NMETH 596",
+      "courseTitle": "APPL CONDUCT RSCH",
+      "section": "A",
+      "instructor": "Kohler,Pamela"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2022",
+      "course": "NMETH 598",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2022",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2022",
+      "course": "NMETH 610",
+      "courseTitle": "RESEARCH PRACTICUM",
+      "section": "A",
+      "instructor": "Sadak - She Her,Tatiana"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2022",
+      "course": "NMETH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2022",
+      "course": "NMETH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2022",
+      "course": "NMETH 530",
+      "courseTitle": "SCHOLAR",
+      "section": "B",
+      "instructor": "Chen,Annie T"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2022",
+      "course": "NMETH 598",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2022",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2022",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2022",
+      "course": "NMETH 610",
+      "courseTitle": "RESEARCH PRACTICUM",
+      "section": "A",
+      "instructor": "Lewis,Fran M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2022",
+      "course": "NMETH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2022",
+      "course": "NMETH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2022",
+      "course": "NMETH 210",
+      "courseTitle": "SCI, EVID, HEALTH",
+      "section": "B",
+      "instructor": "Reding,Kerryn"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2022",
+      "course": "NMETH 210",
+      "courseTitle": "SCI, EVID, HEALTH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2022",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2022",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2022",
+      "course": "NMETH 523",
+      "courseTitle": "PROJ MGMT INFORMAT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2022",
+      "course": "NMETH 527",
+      "courseTitle": "INTRO CLIN INFORMAT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2022",
+      "course": "NMETH 583",
+      "courseTitle": "ADV QUAL RES MTHDS",
+      "section": "A",
+      "instructor": "Boutain,Doris"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2022",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2022",
+      "course": "NMETH 610",
+      "courseTitle": "RESEARCH PRACTICUM",
+      "section": "A",
+      "instructor": "Lewis,Fran M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2022",
+      "course": "NMETH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2022",
+      "course": "NMETH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2022",
+      "course": "NMETH 801",
+      "courseTitle": "DOCTORATE PROJECT",
+      "section": "A",
+      "instructor": "Bridges,Elizabeth"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2023",
+      "course": "NMETH 450",
+      "courseTitle": "INFMX, PT SFTY & QI",
+      "section": "A",
+      "instructor": "HJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2023",
+      "course": "NMETH 450",
+      "courseTitle": "INFMX, PT SFTY & QI",
+      "section": "B",
+      "instructor": "Miller,Justin L"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2023",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2023",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2023",
+      "course": "NMETH 524",
+      "courseTitle": "HEALTH SYS & EHR",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2023",
+      "course": "NMETH 528",
+      "courseTitle": "COMPUTING FUNDAMENT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2023",
+      "course": "NMETH 535",
+      "courseTitle": "NURSING INQUIRY",
+      "section": "A",
+      "instructor": "Berry,Donna L"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2023",
+      "course": "NMETH 594",
+      "courseTitle": "HLTH SERVIC DELIVER",
+      "section": "A",
+      "instructor": "Gimbel,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2023",
+      "course": "NMETH 598",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2023",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2023",
+      "course": "NMETH 610",
+      "courseTitle": "RESEARCH PRACTICUM",
+      "section": "A",
+      "instructor": "Lewis,Fran M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2023",
+      "course": "NMETH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2023",
+      "course": "NMETH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2023",
+      "course": "NMETH 801",
+      "courseTitle": "DOCTORATE PROJECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2023",
+      "course": "NMETH 403",
+      "courseTitle": "INTRO RESEARCH NURS",
+      "section": "A",
+      "instructor": "Kantrowitz-Gordon,Ira"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2023",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "HR"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2023",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2023",
+      "course": "NMETH 520",
+      "courseTitle": "SCHOLAR INQ INFORM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2023",
+      "course": "NMETH 526",
+      "courseTitle": "PATIENT-CENTER TECH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2023",
+      "course": "NMETH 529",
+      "courseTitle": "DATABASE CLIN INFOR",
+      "section": "B",
+      "instructor": "Yetisgen,Meliha"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2023",
+      "course": "NMETH 533",
+      "courseTitle": "APPRAIS AND TRANSL",
+      "section": "A",
+      "instructor": "Auld,Jonathan"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2023",
+      "course": "NMETH 536",
+      "courseTitle": "MTHD PROG EVAL",
+      "section": "A",
+      "instructor": "Flowers,Jan"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2023",
+      "course": "NMETH 579",
+      "courseTitle": "QUANT RES METHODS",
+      "section": "A",
+      "instructor": "Ward - she,her,T"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2023",
+      "course": "NMETH 582",
+      "courseTitle": "QUAL RES METHODS",
+      "section": "A",
+      "instructor": "Altman,Molly"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2023",
+      "course": "NMETH 596",
+      "courseTitle": "APPL CONDUCT RSCH",
+      "section": "A",
+      "instructor": "Kohler,Pamela"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2023",
+      "course": "NMETH 598",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2023",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2023",
+      "course": "NMETH 610",
+      "courseTitle": "RESEARCH PRACTICUM",
+      "section": "A",
+      "instructor": "Lewis,Fran M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2023",
+      "course": "NMETH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2023",
+      "course": "NMETH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2023",
+      "course": "NMETH 530",
+      "courseTitle": "SCHOLAR",
+      "section": "B",
+      "instructor": "Chen,Annie T"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2023",
+      "course": "NMETH 598",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2023",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2023",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2023",
+      "course": "NMETH 610",
+      "courseTitle": "RESEARCH PRACTICUM",
+      "section": "A",
+      "instructor": "Sadak - She Her,Tatiana"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2023",
+      "course": "NMETH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2023",
+      "course": "NMETH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2023",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2023",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2023",
+      "course": "NMETH 523",
+      "courseTitle": "PROJ MGMT INFORMAT",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2023",
+      "course": "NMETH 527",
+      "courseTitle": "INTRO CLIN INFORMAT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2023",
+      "course": "NMETH 588",
+      "courseTitle": "MIX METH HLTH SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2023",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2023",
+      "course": "NMETH 610",
+      "courseTitle": "RESEARCH PRACTICUM",
+      "section": "A",
+      "instructor": "Sonney,Jennifer"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2023",
+      "course": "NMETH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2023",
+      "course": "NMETH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2023",
+      "course": "NMETH 801",
+      "courseTitle": "DOCTORATE PROJECT",
+      "section": "A",
+      "instructor": "Kantrowitz-Gordon,Ira"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2024",
+      "course": "NMETH 210",
+      "courseTitle": "SCI, EVID, HEALTH",
+      "section": "A",
+      "instructor": "Reding,Kerry"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2024",
+      "course": "NMETH 210",
+      "courseTitle": "SCI, EVID, HEALTH",
+      "section": "B",
+      "instructor": "Reding,Kerry"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2024",
+      "course": "NMETH 450",
+      "courseTitle": "INFMX, PT SFTY & QI",
+      "section": "B",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2024",
+      "course": "NMETH 450",
+      "courseTitle": "INFMX, PT SFTY & QI",
+      "section": "A",
+      "instructor": "HBJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2024",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2024",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2024",
+      "course": "NMETH 524",
+      "courseTitle": "HEALTH SYS & EHR",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2024",
+      "course": "NMETH 528",
+      "courseTitle": "COMPUTING FUNDAMENT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2024",
+      "course": "NMETH 535",
+      "courseTitle": "NURSING INQUIRY",
+      "section": "A",
+      "instructor": "Kamp,Kendra"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2024",
+      "course": "NMETH 595",
+      "courseTitle": "BEHAVIORAL INTRVENT",
+      "section": "A",
+      "instructor": "Lewis,Fran M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2024",
+      "course": "NMETH 598",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2024",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2024",
+      "course": "NMETH 610",
+      "courseTitle": "RESEARCH PRACTICUM",
+      "section": "A",
+      "instructor": "Thompson,Hilaire J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2024",
+      "course": "NMETH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2024",
+      "course": "NMETH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2024",
+      "course": "NMETH 801",
+      "courseTitle": "DOCTORATE PROJECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2024",
+      "course": "NMETH 403",
+      "courseTitle": "INTRO RESEARCH NURS",
+      "section": "A",
+      "instructor": "Sackinger,Denise"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2024",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "HR"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2024",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2024",
+      "course": "NMETH 520",
+      "courseTitle": "SCHOLAR INQ INFORM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2024",
+      "course": "NMETH 526",
+      "courseTitle": "PATIENT-CENTER TECH",
+      "section": "B",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2024",
+      "course": "NMETH 529",
+      "courseTitle": "DATABASE CLIN INFOR",
+      "section": "B",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2024",
+      "course": "NMETH 533",
+      "courseTitle": "APPRAIS AND TRANSL",
+      "section": "A",
+      "instructor": "Zaslavsky,Oleg"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2024",
+      "course": "NMETH 536",
+      "courseTitle": "MTHD PROG EVAL",
+      "section": "A",
+      "instructor": "Cox- she,her,Paula"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2024",
+      "course": "NMETH 579",
+      "courseTitle": "QUANT RES METHODS",
+      "section": "A",
+      "instructor": "Reding,Kerry"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2024",
+      "course": "NMETH 582",
+      "courseTitle": "QUAL RES METHODS",
+      "section": "A",
+      "instructor": "Altman,Molly"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2024",
+      "course": "NMETH 584",
+      "courseTitle": "PHYSIOLOGIC MEASURE",
+      "section": "A",
+      "instructor": "Heitkemper,Margaret"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2024",
+      "course": "NMETH 596",
+      "courseTitle": "APPL CONDUCT RSCH",
+      "section": "A",
+      "instructor": "Bleil,Maria E."
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2024",
+      "course": "NMETH 598",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2024",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2024",
+      "course": "NMETH 610",
+      "courseTitle": "RESEARCH PRACTICUM",
+      "section": "A",
+      "instructor": "Thompson,Hilaire J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2024",
+      "course": "NMETH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2024",
+      "course": "NMETH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2024",
+      "course": "NMETH 530",
+      "courseTitle": "SCHOLAR",
+      "section": "B",
+      "instructor": "Chen,Annie T"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2024",
+      "course": "NMETH 598",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2024",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2024",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2024",
+      "course": "NMETH 610",
+      "courseTitle": "RESEARCH PRACTICUM",
+      "section": "A",
+      "instructor": "Thompson,Hilaire J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2024",
+      "course": "NMETH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2024",
+      "course": "NMETH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2024",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2024",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2024",
+      "course": "NMETH 523",
+      "courseTitle": "PROJ MGMT INFORMAT",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2024",
+      "course": "NMETH 527",
+      "courseTitle": "INTRO CLIN INFORMAT",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2024",
+      "course": "NMETH 583",
+      "courseTitle": "ADV QUAL RES MTHDS",
+      "section": "A",
+      "instructor": "Boutain,Doris"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2024",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2024",
+      "course": "NMETH 610",
+      "courseTitle": "RESEARCH PRACTICUM",
+      "section": "A",
+      "instructor": "Reding,Kerry"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2024",
+      "course": "NMETH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2024",
+      "course": "NMETH 801",
+      "courseTitle": "DOCTORATE PROJECT",
+      "section": "A",
+      "instructor": "Kantrowitz-Gordon,Ira"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2025",
+      "course": "NMETH 210",
+      "courseTitle": "SCI, EVID, HEALTH",
+      "section": "A",
+      "instructor": "Reding,Kerry"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2025",
+      "course": "NMETH 210",
+      "courseTitle": "SCI, EVID, HEALTH",
+      "section": "B",
+      "instructor": "Reding,Kerry"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2025",
+      "course": "NMETH 450",
+      "courseTitle": "INFMX, PT SFTY & QI",
+      "section": "B",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2025",
+      "course": "NMETH 450",
+      "courseTitle": "INFMX, PT SFTY & QI",
+      "section": "A",
+      "instructor": "HBJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2025",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2025",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2025",
+      "course": "NMETH 524",
+      "courseTitle": "HEALTH SYS & EHR",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2025",
+      "course": "NMETH 528",
+      "courseTitle": "COMPUTING FUNDAMENT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2025",
+      "course": "NMETH 535",
+      "courseTitle": "NURSING INQUIRY",
+      "section": "A",
+      "instructor": "Kamp,Kendra"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2025",
+      "course": "NMETH 594",
+      "courseTitle": "HLTH SERVIC DELIVER",
+      "section": "A",
+      "instructor": "Barrington,Wendy E"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2025",
+      "course": "NMETH 598",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2025",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2025",
+      "course": "NMETH 610",
+      "courseTitle": "RESEARCH PRACTICUM",
+      "section": "A",
+      "instructor": "Reding,Kerry"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2025",
+      "course": "NMETH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2025",
+      "course": "NMETH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2025",
+      "course": "NMETH 801",
+      "courseTitle": "DOCTORATE PROJECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2025",
+      "course": "NMETH 403",
+      "courseTitle": "INTRO RESEARCH NURS",
+      "section": "A",
+      "instructor": "Hash - she,her, Jonika"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2025",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "HR"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2025",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2025",
+      "course": "NMETH 520",
+      "courseTitle": "SCHOLAR INQ INFORM",
+      "section": "B",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2025",
+      "course": "NMETH 526",
+      "courseTitle": "PATIENT-CENTER TECH",
+      "section": "B",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2025",
+      "course": "NMETH 529",
+      "courseTitle": "DATABASE CLIN INFOR",
+      "section": "B",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2025",
+      "course": "NMETH 533",
+      "courseTitle": "APPRAIS AND TRANSL",
+      "section": "A",
+      "instructor": "Zaslavsky,Oleg"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2025",
+      "course": "NMETH 536",
+      "courseTitle": "MTHD PROG EVAL",
+      "section": "A",
+      "instructor": "Cox- she,her,Paula"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2025",
+      "course": "NMETH 579",
+      "courseTitle": "QUANT RES METHODS",
+      "section": "A",
+      "instructor": "Reding,Kerry"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2025",
+      "course": "NMETH 582",
+      "courseTitle": "QUAL RES INQ & MTHDS",
+      "section": "A",
+      "instructor": "Kantrowitz-Gordon,Ira"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2025",
+      "course": "NMETH 596",
+      "courseTitle": "APPL CONDUCT RSCH",
+      "section": "A",
+      "instructor": "Bleil,Maria E."
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2025",
+      "course": "NMETH 598",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2025",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2025",
+      "course": "NMETH 610",
+      "courseTitle": "RESEARCH PRACTICUM",
+      "section": "A",
+      "instructor": "Reding,Kerry"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2025",
+      "course": "NMETH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2025",
+      "course": "NMETH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2025",
+      "course": "NMETH 598",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2025",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2025",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2025",
+      "course": "NMETH 610",
+      "courseTitle": "RESEARCH PRACTICUM",
+      "section": "A",
+      "instructor": "Sonney,Jennifer"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2025",
+      "course": "NMETH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SUM2025",
+      "course": "NMETH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2025",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2025",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2025",
+      "course": "NMETH 523",
+      "courseTitle": "PROJ MGMT INFORMAT",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2025",
+      "course": "NMETH 527",
+      "courseTitle": "INTRO CLIN INFORMAT",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2025",
+      "course": "NMETH 588",
+      "courseTitle": "MIX METH HLTH SCI",
+      "section": "A",
+      "instructor": "Iribarren - she,her, Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2025",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2025",
+      "course": "NMETH 610",
+      "courseTitle": "RESEARCH PRACTICUM",
+      "section": "A",
+      "instructor": "Sonney,Jennifer"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2025",
+      "course": "NMETH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "AUT2025",
+      "course": "NMETH 801",
+      "courseTitle": "DOCTORATE PROJECT",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2026",
+      "course": "NMETH 210",
+      "courseTitle": "SCI, EVID, HEALTH",
+      "section": "A",
+      "instructor": "Reding,Kerry"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2026",
+      "course": "NMETH 210",
+      "courseTitle": "SCI, EVID, HEALTH",
+      "section": "B",
+      "instructor": "Reding,Kerry"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2026",
+      "course": "NMETH 450",
+      "courseTitle": "INFMX, PT SFTY & QI",
+      "section": "B",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2026",
+      "course": "NMETH 450",
+      "courseTitle": "INFMX, PT SFTY & QI",
+      "section": "A",
+      "instructor": "HBJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2026",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2026",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2026",
+      "course": "NMETH 524",
+      "courseTitle": "HEALTH SYS & EHR",
+      "section": "B",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2026",
+      "course": "NMETH 528",
+      "courseTitle": "COMPUTING FUNDAMENT",
+      "section": "B",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2026",
+      "course": "NMETH 535",
+      "courseTitle": "NURSING INQUIRY",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2026",
+      "course": "NMETH 595",
+      "courseTitle": "BEHAVIORAL INTRVENT",
+      "section": "A",
+      "instructor": "Lewis,Frances M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2026",
+      "course": "NMETH 598",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2026",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2026",
+      "course": "NMETH 610",
+      "courseTitle": "RESEARCH PRACTICUM",
+      "section": "A",
+      "instructor": "Sonney,Jennifer"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2026",
+      "course": "NMETH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2026",
+      "course": "NMETH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "WIN2026",
+      "course": "NMETH 801",
+      "courseTitle": "DOCTORATE PROJECT",
+      "section": "A",
+      "instructor": "Young,Jamie M."
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2026",
+      "course": "NMETH 403",
+      "courseTitle": "INTRO RESEARCH NURS",
+      "section": "A",
+      "instructor": "Lewis,Frances M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2026",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "HR"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2026",
+      "course": "NMETH 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2026",
+      "course": "NMETH 520",
+      "courseTitle": "SCHOLAR INQ INFORM",
+      "section": "B",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2026",
+      "course": "NMETH 526",
+      "courseTitle": "PATIENT-CENTER TECH",
+      "section": "B",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2026",
+      "course": "NMETH 529",
+      "courseTitle": "DATABASE CLIN INFOR",
+      "section": "B",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2026",
+      "course": "NMETH 533",
+      "courseTitle": "APPRAIS AND TRANSL",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2026",
+      "course": "NMETH 536",
+      "courseTitle": "MTHD PROG EVAL",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2026",
+      "course": "NMETH 579",
+      "courseTitle": "QUANT RES METHODS",
+      "section": "A",
+      "instructor": "Reding,Kerry"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2026",
+      "course": "NMETH 582",
+      "courseTitle": "QUAL RES INQ & MTHDS",
+      "section": "A",
+      "instructor": "Boutain,Doris"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2026",
+      "course": "NMETH 584",
+      "courseTitle": "PHYSIOLOGIC MEASURE",
+      "section": "A",
+      "instructor": "Heitkemper,Margaret"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2026",
+      "course": "NMETH 596",
+      "courseTitle": "APPL CONDUCT RSCH",
+      "section": "A",
+      "instructor": "Bleil,Maria E."
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2026",
+      "course": "NMETH 598",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2026",
+      "course": "NMETH 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2026",
+      "course": "NMETH 610",
+      "courseTitle": "RESEARCH PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2026",
+      "course": "NMETH 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingmeth",
+      "deptName": "Nursing Methods",
+      "term": "SPR2026",
+      "course": "NMETH 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
 }

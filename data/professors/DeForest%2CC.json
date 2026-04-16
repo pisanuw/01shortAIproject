@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "DeForest%2CC",
+  "professor": "DeForest,C",
+  "recordCount": 8,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2022",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 523",
+      "courseTitle": "SMNR IN CHEM ENGR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "WIN2022",
+      "course": "BIOEN 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 523",
+      "courseTitle": "SMNR IN CHEM ENGR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 523",
+      "courseTitle": "SMNR IN CHEM ENGR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "WIN2021",
+      "course": "BIOEN 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A"
+    }
+  ]
+}

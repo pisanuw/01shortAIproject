@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "SA",
+  "professor": "SA",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2023",
+      "course": "BIS 261",
+      "courseTitle": "INTRO FILM STUDIES",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tspan",
+      "deptName": "Spanish",
+      "term": "SUM2022",
+      "course": "TSPAN 496",
+      "courseTitle": "EXPER LEARNING SPAN",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tcom",
+      "deptName": "Communication",
+      "term": "SUM2022",
+      "course": "TCOM 490",
+      "courseTitle": "COMM INTERNSHIP",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SUM2022",
+      "course": "BIS 261",
+      "courseTitle": "INTRO FILM STUDIES",
+      "section": "A"
+    }
+  ]
+}

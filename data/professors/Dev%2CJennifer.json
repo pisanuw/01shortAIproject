@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Dev%2CJennifer",
+  "professor": "Dev,Jennifer",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "SPR2023",
+      "course": "COM 294",
+      "courseTitle": "MULTIMEDIA WORKSHOP",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "SPR2021",
+      "course": "COM 361",
+      "courseTitle": "ADV JOUR & PUB INT",
+      "section": "A"
+    }
+  ]
+}

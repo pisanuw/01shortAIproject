@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:28:00Z",
+  "generatedAt": "2026-04-16T02:57:15Z",
   "campus": "S",
   "dept": "neuro",
   "deptName": "Neuroscience",
@@ -122,7 +122,7 @@
       "course": "NEURO 510",
       "courseTitle": "SMNR NEURO & BEHAV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "De La Iglesia,H"
     },
     {
       "campus": "S",
@@ -1508,6 +1508,106 @@
       "campus": "S",
       "dept": "neuro",
       "deptName": "Neuroscience",
+      "term": "AUT2024",
+      "course": "NEURO 501",
+      "courseTitle": "INTRO NEUROBIOLOGY",
+      "section": "A",
+      "instructor": "Carlson,Steven S"
+    },
+    {
+      "campus": "S",
+      "dept": "neuro",
+      "deptName": "Neuroscience",
+      "term": "AUT2024",
+      "course": "NEURO 504",
+      "courseTitle": "BIOP NRV MSCL SYN",
+      "section": "A",
+      "instructor": "Sullivan,Jane"
+    },
+    {
+      "campus": "S",
+      "dept": "neuro",
+      "deptName": "Neuroscience",
+      "term": "AUT2024",
+      "course": "NEURO 510",
+      "courseTitle": "SMNR NEUROSCIENCE",
+      "section": "A",
+      "instructor": "Neitz,Maureen"
+    },
+    {
+      "campus": "S",
+      "dept": "neuro",
+      "deptName": "Neuroscience",
+      "term": "AUT2024",
+      "course": "NEURO 512",
+      "courseTitle": "READINGS ADV NEUBEH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neuro",
+      "deptName": "Neuroscience",
+      "term": "AUT2024",
+      "course": "NEURO 515",
+      "courseTitle": "NB TEACH PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neuro",
+      "deptName": "Neuroscience",
+      "term": "AUT2024",
+      "course": "NEURO 526",
+      "courseTitle": "NEUROBIOL LAB RSRCH",
+      "section": "A",
+      "instructor": "Neitz,Maureen"
+    },
+    {
+      "campus": "S",
+      "dept": "neuro",
+      "deptName": "Neuroscience",
+      "term": "AUT2024",
+      "course": "NEURO 527",
+      "courseTitle": "CURRENT TOPICS",
+      "section": "A",
+      "instructor": "Rieke,Fred"
+    },
+    {
+      "campus": "S",
+      "dept": "neuro",
+      "deptName": "Neuroscience",
+      "term": "AUT2024",
+      "course": "NEURO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neuro",
+      "deptName": "Neuroscience",
+      "term": "AUT2024",
+      "course": "NEURO 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neuro",
+      "deptName": "Neuroscience",
+      "term": "AUT2024",
+      "course": "NEURO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neuro",
+      "deptName": "Neuroscience",
       "term": "WIN2025",
       "course": "NEURO 502",
       "courseTitle": "INTRO NEUROBIOLOGY",
@@ -1608,6 +1708,106 @@
       "campus": "S",
       "dept": "neuro",
       "deptName": "Neuroscience",
+      "term": "SPR2025",
+      "course": "NEURO 503",
+      "courseTitle": "COG & INTGR NEUROBIO",
+      "section": "A",
+      "instructor": "Phillips,Paul E. M."
+    },
+    {
+      "campus": "S",
+      "dept": "neuro",
+      "deptName": "Neuroscience",
+      "term": "SPR2025",
+      "course": "NEURO 510",
+      "courseTitle": "SMNR NEUROSCIENCE",
+      "section": "A",
+      "instructor": "Neitz,Maureen"
+    },
+    {
+      "campus": "S",
+      "dept": "neuro",
+      "deptName": "Neuroscience",
+      "term": "SPR2025",
+      "course": "NEURO 511",
+      "courseTitle": "SEM ADV NEUBEH",
+      "section": "A",
+      "instructor": "Manookin,Michael B"
+    },
+    {
+      "campus": "S",
+      "dept": "neuro",
+      "deptName": "Neuroscience",
+      "term": "SPR2025",
+      "course": "NEURO 515",
+      "courseTitle": "NEUROSCI TEACH PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neuro",
+      "deptName": "Neuroscience",
+      "term": "SPR2025",
+      "course": "NEURO 526",
+      "courseTitle": "NEUROBIOL LAB RSRCH",
+      "section": "A",
+      "instructor": "Neitz,Maureen"
+    },
+    {
+      "campus": "S",
+      "dept": "neuro",
+      "deptName": "Neuroscience",
+      "term": "SPR2025",
+      "course": "NEURO 527",
+      "courseTitle": "CRNT TOPICS NEUROSCI",
+      "section": "A",
+      "instructor": "Zweifel,Larry"
+    },
+    {
+      "campus": "S",
+      "dept": "neuro",
+      "deptName": "Neuroscience",
+      "term": "SPR2025",
+      "course": "NEURO 559",
+      "courseTitle": "NEUROBIOL DISEASE",
+      "section": "A",
+      "instructor": "Carroll,Jeff"
+    },
+    {
+      "campus": "S",
+      "dept": "neuro",
+      "deptName": "Neuroscience",
+      "term": "SPR2025",
+      "course": "NEURO 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neuro",
+      "deptName": "Neuroscience",
+      "term": "SPR2025",
+      "course": "NEURO 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neuro",
+      "deptName": "Neuroscience",
+      "term": "SPR2025",
+      "course": "NEURO 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neuro",
+      "deptName": "Neuroscience",
       "term": "SUM2025",
       "course": "NEURO 512",
       "courseTitle": "READINGS ADV NEUBEH",
@@ -1682,7 +1882,7 @@
       "course": "NEURO 501",
       "courseTitle": "INTRO NEUROBIOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Carlson,Steven S"
     },
     {
       "campus": "S",
@@ -1692,7 +1892,7 @@
       "course": "NEURO 504",
       "courseTitle": "BIOP NRV MSCL SYN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sullivan,Jane"
     },
     {
       "campus": "S",
@@ -1702,7 +1902,7 @@
       "course": "NEURO 510",
       "courseTitle": "SMNR NEUROSCIENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Neitz,Maureen"
     },
     {
       "campus": "S",
@@ -1712,7 +1912,7 @@
       "course": "NEURO 511",
       "courseTitle": "SEM ADV NEUBEH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Phillips,Paul E. M."
     },
     {
       "campus": "S",
@@ -1742,7 +1942,7 @@
       "course": "NEURO 526",
       "courseTitle": "NEUROSCI LAB RSRCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Neitz,Maureen"
     },
     {
       "campus": "S",
@@ -1752,7 +1952,7 @@
       "course": "NEURO 527",
       "courseTitle": "CRNT TOPICS NEUROSCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rieke,Fred"
     },
     {
       "campus": "S",
@@ -1792,7 +1992,7 @@
       "course": "NEURO 502",
       "courseTitle": "INTRO NEUROBIOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dhaka,Ajay K"
     },
     {
       "campus": "S",
@@ -1802,7 +2002,7 @@
       "course": "NEURO 510",
       "courseTitle": "SMNR IN NEUROSCIENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Neitz,Maureen"
     },
     {
       "campus": "S",
@@ -1832,7 +2032,7 @@
       "course": "NEURO 526",
       "courseTitle": "NEUROSCI LAB RSRCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Neitz,Maureen"
     },
     {
       "campus": "S",
@@ -1842,7 +2042,7 @@
       "course": "NEURO 527",
       "courseTitle": "CRNT TOPICS NEUROSCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dembrow,Nikolai"
     },
     {
       "campus": "S",
@@ -1852,7 +2052,7 @@
       "course": "NEURO 545",
       "courseTitle": "QUANT MTHD NEUROSCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rieke,Fred"
     },
     {
       "campus": "S",
@@ -1892,7 +2092,7 @@
       "course": "NEURO 503",
       "courseTitle": "COG & INTGR NEUROBIO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Phillips,Paul E. M."
     },
     {
       "campus": "S",
@@ -1902,17 +2102,7 @@
       "course": "NEURO 510",
       "courseTitle": "SMNR IN NEUROSCIENCE",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "neuro",
-      "deptName": "Neuroscience",
-      "term": "SPR2026",
-      "course": "NEURO 511",
-      "courseTitle": "SEM ADV NEUBEH",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Neitz,Maureen"
     },
     {
       "campus": "S",
@@ -1922,7 +2112,17 @@
       "course": "NEURO 511",
       "courseTitle": "SEM ADV NEUBEH",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Bair,Wyeth"
+    },
+    {
+      "campus": "S",
+      "dept": "neuro",
+      "deptName": "Neuroscience",
+      "term": "SPR2026",
+      "course": "NEURO 511",
+      "courseTitle": "SEM ADV NEUBEH",
+      "section": "A",
+      "instructor": "Manookin,Michael B"
     },
     {
       "campus": "S",
@@ -1942,7 +2142,7 @@
       "course": "NEURO 526",
       "courseTitle": "NEUROSCI LAB RSRCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Neitz,Maureen"
     },
     {
       "campus": "S",
@@ -1952,7 +2152,7 @@
       "course": "NEURO 527",
       "courseTitle": "CRNT TOPICS NEUROSCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zweifel,Larry"
     },
     {
       "campus": "S",
@@ -1972,7 +2172,7 @@
       "course": "NEURO 557",
       "courseTitle": "ION CHANNEL GATING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zagotta,William N."
     },
     {
       "campus": "S",
@@ -1982,7 +2182,7 @@
       "course": "NEURO 559",
       "courseTitle": "NEUROBIOL DISEASE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jayadev,Suman"
     },
     {
       "campus": "S",

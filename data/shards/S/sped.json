@@ -1,7 +1,7268 @@
 {
-  "generatedAt": "2026-04-15T16:27:58Z",
+  "generatedAt": "2026-04-16T02:57:14Z",
   "campus": "S",
   "dept": "sped",
   "deptName": "Special Education",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 304",
+      "courseTitle": "EXCEPTIONAL CHLDRN",
+      "section": "A",
+      "instructor": "Chang,Huan-Ching"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 415",
+      "courseTitle": "FOUND READ DYSLEXIA",
+      "section": "A",
+      "instructor": "Hudson,Roxanne F."
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "B",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "A",
+      "instructor": "Fettig,Angel"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 501",
+      "courseTitle": "FOUNDATIONS SPEC ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "C",
+      "instructor": "Patish,Yelena"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 513",
+      "courseTitle": "ASSESSMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 517",
+      "courseTitle": "PRACT RES SPEC EDUC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 517",
+      "courseTitle": "PRACT RES SPEC EDUC",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 517",
+      "courseTitle": "PRACT RES SPEC EDUC",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 518",
+      "courseTitle": "SMNR SPEC EDUC RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "E",
+      "instructor": "Fisher,Marie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 532",
+      "courseTitle": "TIERED APPROACH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 533",
+      "courseTitle": "ABA PRINCIPLES A",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 536",
+      "courseTitle": "ASSESSMENT ABA A",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 571",
+      "courseTitle": "MEASUREMENT IN ABA",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 599",
+      "courseTitle": "INDEP STUDIES EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2020",
+      "course": "EDSPE 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 304",
+      "courseTitle": "EXCEPTIONAL CHLDRN",
+      "section": "A",
+      "instructor": "Lewis,Katherine"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 304",
+      "courseTitle": "EXCEPTIONAL CHLDRN",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "B",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 427",
+      "courseTitle": "INTRO BHV ANALYSIS",
+      "section": "A",
+      "instructor": "Finlayson,Robin"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "A",
+      "instructor": "Harbin,Shawna Guinevere"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "A",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "B",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 507",
+      "courseTitle": "INSTRUCT SEV DIS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 511",
+      "courseTitle": "METH APPL BEH ANLYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 514",
+      "courseTitle": "READING & WRITING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 517",
+      "courseTitle": "PRACT RES SPEC EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 517",
+      "courseTitle": "PRACT RES SPEC EDUC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 517",
+      "courseTitle": "PRACT RES SPEC EDUC",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 518",
+      "courseTitle": "SMNR SPEC EDUC RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 519",
+      "courseTitle": "LEARNRS W EXT NEEDS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 526",
+      "courseTitle": "SOC BEH ELE MLD DIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 527",
+      "courseTitle": "BEHAVIOR PRINCIPLES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 534",
+      "courseTitle": "ABA PRINCIPLES B",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 537",
+      "courseTitle": "ASSESSMENT ABA B",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 562",
+      "courseTitle": "CURRIC ASSESS YC DIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 563",
+      "courseTitle": "FAM TEAM COLLAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 564",
+      "courseTitle": "INFANTS & TODDLERS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 599",
+      "courseTitle": "INDEP STUDIES EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "Powell,Selma M"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2021",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 304",
+      "courseTitle": "EXCEPTIONAL CHLDRN",
+      "section": "A",
+      "instructor": "Hoston,Nathaniel Allen"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 414",
+      "courseTitle": "ISSUE TREND INCL ECE",
+      "section": "A",
+      "instructor": "Meeker,Kathleen Artman"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 415",
+      "courseTitle": "FOUND READ DYSLEXIA",
+      "section": "A",
+      "instructor": "ANDERSON,ERIN"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "B",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "C",
+      "instructor": "Harbin,Shawna Guinevere"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "B",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "C",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "A",
+      "instructor": "Schulze,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 517",
+      "courseTitle": "PRACT RES SPEC EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 517",
+      "courseTitle": "PRACT RES SPEC EDUC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 517",
+      "courseTitle": "PRACT RES SPEC EDUC",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 518",
+      "courseTitle": "SMNR SPEC EDUC RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 523",
+      "courseTitle": "MATH FUNDAMENTALS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 525",
+      "courseTitle": "AUTISM AND SOC DIS",
+      "section": "A",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 531",
+      "courseTitle": "COMP BEH INTERVENTN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 531",
+      "courseTitle": "COMP BEH INTERVENTN",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 539",
+      "courseTitle": "ETHICS IN ABA A",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 552",
+      "courseTitle": "INSTRUCT STRAT ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 560",
+      "courseTitle": "HOME SCH & COMMUNITY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 565",
+      "courseTitle": "ECE APPROACHES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 599",
+      "courseTitle": "INDEP STUDIES EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2021",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2021",
+      "course": "EDSPE 304",
+      "courseTitle": "EXCEPTIONAL CHLDRN",
+      "section": "A",
+      "instructor": "RAY,REBECCA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2021",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A",
+      "instructor": "Kirkland,Hasaan"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2021",
+      "course": "EDSPE 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2021",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "A",
+      "instructor": "Fisher,Marie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2021",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "D",
+      "instructor": "Schulze,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2021",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "A",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2021",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "B",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2021",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "C",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2021",
+      "course": "EDSPE 516",
+      "courseTitle": "DEV MAT EX CHILD",
+      "section": "A",
+      "instructor": "Fisher,Marie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2021",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "A",
+      "instructor": "Fisher,Marie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2021",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "C",
+      "instructor": "Schulze,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2021",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "D",
+      "instructor": "Schulze,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2021",
+      "course": "EDSPE 525",
+      "courseTitle": "AUTISM AND SOC DIS",
+      "section": "A",
+      "instructor": "Gauvreau,A"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2021",
+      "course": "EDSPE 548",
+      "courseTitle": "SPEC TOPICS ED LD",
+      "section": "B",
+      "instructor": "Schulze,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2021",
+      "course": "EDSPE 599",
+      "courseTitle": "INDEP STUDIES EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2021",
+      "course": "EDSPE 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2021",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2021",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 304",
+      "courseTitle": "EXCEPTIONAL CHLDRN",
+      "section": "A",
+      "instructor": "CHOI,GOUNAH"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 304",
+      "courseTitle": "EXCEPTIONAL CHLDRN",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "B",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "A",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "B",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 501",
+      "courseTitle": "FOUNDATIONS SPEC ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "A",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "B",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "C",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 513",
+      "courseTitle": "ASSESSMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 517",
+      "courseTitle": "PRACT RES SPEC EDUC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 517",
+      "courseTitle": "PRACT RES SPEC EDUC",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 518",
+      "courseTitle": "SMNR SPEC EDUC RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "E",
+      "instructor": "Fisher,M"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 530",
+      "courseTitle": "READINGS IN ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 532",
+      "courseTitle": "TIERED APPROACH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 533",
+      "courseTitle": "ABA PRINCIPLES A",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 535",
+      "courseTitle": "ABA PHILOSOPHY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 536",
+      "courseTitle": "ASSESSMENT ABA A",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 553",
+      "courseTitle": "SUPERVISION ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 571",
+      "courseTitle": "MEASUREMENT IN ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 599",
+      "courseTitle": "INDEP STUDIES EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "A",
+      "instructor": "Lewis,K"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "B",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 427",
+      "courseTitle": "INTRO BHV ANALYSIS",
+      "section": "A",
+      "instructor": "HOBSON,KATELIN"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "A",
+      "instructor": "Daniels,Sara"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "A",
+      "instructor": "Johnson,Y"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "B",
+      "instructor": "Johnson,Y"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 511",
+      "courseTitle": "METH APPL BEH ANLYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 514",
+      "courseTitle": "READING & WRITING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 517",
+      "courseTitle": "PRACT RES SPEC EDUC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 518",
+      "courseTitle": "SMNR SPEC EDUC RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 519",
+      "courseTitle": "INCLSVE INST METHD I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 526",
+      "courseTitle": "SOC BEH ELE MLD DIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 527",
+      "courseTitle": "BEHAVIOR PRINCIPLES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 530",
+      "courseTitle": "READINGS IN ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 534",
+      "courseTitle": "ABA PRINCIPLES B",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 537",
+      "courseTitle": "ASSESSMENT ABA B",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 549",
+      "courseTitle": "ETHICS IN ABA B",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 563",
+      "courseTitle": "FAM TEAM COLLAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 563",
+      "courseTitle": "FAM TEAM COLLAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 564",
+      "courseTitle": "INFANTS & TODDLERS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 599",
+      "courseTitle": "INDEP STUDIES EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2022",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "A",
+      "instructor": "TOV,SARAH ALENA ARVEY"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 414",
+      "courseTitle": "ISSUE TREND INCL ECE",
+      "section": "A",
+      "instructor": "UPANAN,NAWINDA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "B",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "A",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "C",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "A",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "B",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "C",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 511",
+      "courseTitle": "METH APPL BEH ANLYS",
+      "section": "A",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 517",
+      "courseTitle": "PRACT RES SPEC EDUC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 518",
+      "courseTitle": "SMNR SPEC EDUC RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 523",
+      "courseTitle": "MATH FUNDAMENTALS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 525",
+      "courseTitle": "AUTISM AND SOC DIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 525",
+      "courseTitle": "AUTISM AND SOC DIS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 530",
+      "courseTitle": "READINGS IN ABA",
+      "section": "A",
+      "instructor": "Schwartz,Ilene S"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 531",
+      "courseTitle": "COMP BEH INTERVENTN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 531",
+      "courseTitle": "COMP BEH INTERVENTN",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 539",
+      "courseTitle": "ETHICS IN ABA A",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 552",
+      "courseTitle": "INSTRUCT STRAT ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 554",
+      "courseTitle": "ABA IN THE SCHOOLS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 560",
+      "courseTitle": "HOME SCH & COMMUNITY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 565",
+      "courseTitle": "ECE APPROACHES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 599",
+      "courseTitle": "INDEP STUDIES EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2022",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "A",
+      "instructor": "Flaherty,Jessica"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2022",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2022",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2022",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "D",
+      "instructor": "Fisher,Marie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2022",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "C",
+      "instructor": "Schulze,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2022",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "A",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2022",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "B",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2022",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "C",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2022",
+      "course": "EDSPE 516",
+      "courseTitle": "DEV MAT EX CHILD",
+      "section": "A",
+      "instructor": "Fisher,Marie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2022",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "B",
+      "instructor": "A Fisher,Marie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2022",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "A",
+      "instructor": "Fisher,Marie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2022",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "D",
+      "instructor": "Schulze,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2022",
+      "course": "EDSPE 525",
+      "courseTitle": "AUTISM AND SOC DIS",
+      "section": "A",
+      "instructor": "Gauvreau,A"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2022",
+      "course": "EDSPE 548",
+      "courseTitle": "SPEC TOPICS ED LD",
+      "section": "B",
+      "instructor": "Schulze,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2022",
+      "course": "EDSPE 599",
+      "courseTitle": "INDEP STUDIES EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2022",
+      "course": "EDSPE 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2022",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "C",
+      "instructor": "Poole,Molly E."
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "A",
+      "instructor": "TOV,SARAH ALENA ARVEY"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 501",
+      "courseTitle": "FOUNDATIONS INCL ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "A",
+      "instructor": "Johnson,Y"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "B",
+      "instructor": "Johnson,Y"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "C",
+      "instructor": "Johnson,Y"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 513",
+      "courseTitle": "ASSESS INCLUSIVE EDU",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 517",
+      "courseTitle": "PRACT RES SPEC EDUC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 518",
+      "courseTitle": "SMNR SPEC EDUC RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "E",
+      "instructor": "Fisher,M"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 530",
+      "courseTitle": "READINGS IN ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 532",
+      "courseTitle": "TIERED APPROACH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 533",
+      "courseTitle": "ABA PRINCIPLES A",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 535",
+      "courseTitle": "ABA PHILOSOPHY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 536",
+      "courseTitle": "ASSESSMENT ABA A",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 553",
+      "courseTitle": "SUPERVISION ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 571",
+      "courseTitle": "MEASUREMENT IN ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 599",
+      "courseTitle": "INDEP STUDIES EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "B",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "C",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 427",
+      "courseTitle": "INTRO BHV ANALYSIS",
+      "section": "A",
+      "instructor": "FLAHERTY,JESSICA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "B",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "A",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "B",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 511",
+      "courseTitle": "METH APPL BEH ANLYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 514",
+      "courseTitle": "READING & WRITING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 517",
+      "courseTitle": "PRACT RES SPEC EDUC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 518",
+      "courseTitle": "SMNR SPEC EDUC RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 526",
+      "courseTitle": "SOC BEH ELE MLD DIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 530",
+      "courseTitle": "READINGS IN ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 534",
+      "courseTitle": "ABA PRINCIPLES B",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 537",
+      "courseTitle": "ASSESSMENT ABA B",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 549",
+      "courseTitle": "ETHICS IN ABA B",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 562",
+      "courseTitle": "CURRIC ASSESS YC DIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 563",
+      "courseTitle": "FAM TEAM COLLAB",
+      "section": "B",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 563",
+      "courseTitle": "FAM TEAM COLLAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 564",
+      "courseTitle": "INFANTS & TODDLERS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 599",
+      "courseTitle": "INDEP STUDIES EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2023",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "A",
+      "instructor": "Fair,Naomi"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "B",
+      "instructor": "Fair,Naomi"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "C",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "D",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 414",
+      "courseTitle": "ISSUE TREND INCL ECE",
+      "section": "A",
+      "instructor": "Meeker,Kathleen Artman"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "A",
+      "instructor": "CHOI,GOUNAH"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "A",
+      "instructor": "Johnson,Y"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "B",
+      "instructor": "Johnson,Y"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "C",
+      "instructor": "Johnson,Y"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 517",
+      "courseTitle": "PRACT RES SPEC EDUC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 518",
+      "courseTitle": "SMNR SPEC EDUC RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 523",
+      "courseTitle": "MATH FUNDAMENTALS",
+      "section": "A",
+      "instructor": "Lewis,K"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 525",
+      "courseTitle": "AUTISM AND SOC DIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 525",
+      "courseTitle": "AUTISM AND SOC DIS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 530",
+      "courseTitle": "READINGS IN ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 531",
+      "courseTitle": "COMP BEH INTERVENTN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 531",
+      "courseTitle": "COMP BEH INTERVENTN",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 539",
+      "courseTitle": "ETHICS IN ABA A",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 542",
+      "courseTitle": "ADV SINGLE CASE RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 552",
+      "courseTitle": "INSTRUCT STRAT ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 554",
+      "courseTitle": "ABA IN THE SCHOOLS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 560",
+      "courseTitle": "HOME SCH & COMMUNITY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 565",
+      "courseTitle": "ECE APPROACHES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 599",
+      "courseTitle": "INDEP STUDIES EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2023",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2023",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "D",
+      "instructor": "Morey,Megan Mackenzie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2023",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "C",
+      "instructor": "Schulze,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2023",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "A",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2023",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "B",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2023",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "C",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2023",
+      "course": "EDSPE 516",
+      "courseTitle": "DEV MAT EX CHILD",
+      "section": "A",
+      "instructor": "Fisher,Marie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2023",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "B",
+      "instructor": "A Morey,Megan Mackenzie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2023",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "A",
+      "instructor": "Fisher,Marie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2023",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "D",
+      "instructor": "Schulze,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2023",
+      "course": "EDSPE 525",
+      "courseTitle": "AUTISM AND SOC DIS",
+      "section": "A",
+      "instructor": "HOBSON,KATELIN"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2023",
+      "course": "EDSPE 548",
+      "courseTitle": "SPEC TOPICS ED LD",
+      "section": "B",
+      "instructor": "Schulze,Maggie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2023",
+      "course": "EDSPE 599",
+      "courseTitle": "INDEP STUDIES EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2023",
+      "course": "EDSPE 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2023",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "C",
+      "instructor": "Ender,Suzanne"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "C",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 501",
+      "courseTitle": "FOUNDATIONS INCL ED",
+      "section": "B",
+      "instructor": "Fair,Naomi"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 501",
+      "courseTitle": "FOUNDATIONS INCL ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 501",
+      "courseTitle": "FOUNDATIONS INCL ED",
+      "section": "C",
+      "instructor": "Upanan,Nawinda"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "A",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "B",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "C",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "D",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 513",
+      "courseTitle": "ASSESS INCLUSIVE EDU",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 517",
+      "courseTitle": "PRACT RES SPEC EDUC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 518",
+      "courseTitle": "SMNR SPEC EDUC RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "E",
+      "instructor": "Fisher,Marie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 530",
+      "courseTitle": "READINGS IN ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 532",
+      "courseTitle": "TIERED APPROACH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 533",
+      "courseTitle": "ABA PRINCIPLES A",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 535",
+      "courseTitle": "ABA PHILOSOPHY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 536",
+      "courseTitle": "ASSESSMENT ABA A",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 553",
+      "courseTitle": "SUPERVISION ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 571",
+      "courseTitle": "MEASUREMENT IN ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 599",
+      "courseTitle": "INDEP STUDIES EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2023",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "D",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "A",
+      "instructor": "Lewis,Katie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "B",
+      "instructor": "Lewis,Katie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "C",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "A",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "B",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "D",
+      "instructor": "Johnson,Yelena Patish"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 511",
+      "courseTitle": "METH APPL BEH ANLYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 514",
+      "courseTitle": "READING & WRITING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 517",
+      "courseTitle": "PRACT RES SPEC EDUC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 518",
+      "courseTitle": "SMNR SPEC EDUC RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 519",
+      "courseTitle": "INCLSVE INST METHD I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 530",
+      "courseTitle": "READINGS IN ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 534",
+      "courseTitle": "ABA PRINCIPLES B",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 537",
+      "courseTitle": "ASSESSMENT ABA B",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 549",
+      "courseTitle": "ETHICS IN ABA B",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 563",
+      "courseTitle": "FAM TEAM COLLAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 563",
+      "courseTitle": "FAM TEAM COLLAB",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 564",
+      "courseTitle": "INFANTS & TODDLERS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 599",
+      "courseTitle": "INDEP STUDIES EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2024",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "C",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "D",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "A",
+      "instructor": "TOV,SARAH ALENA ARVEY"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "B",
+      "instructor": "TOV,SARAH ALENA ARVEY"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 414",
+      "courseTitle": "ISSUE TREND INCL ECE",
+      "section": "A",
+      "instructor": "Upanan,Nawinda"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A",
+      "instructor": "Kirkland,Hasaan"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "A",
+      "instructor": "HORBANCZUK,STEFAN A"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 517",
+      "courseTitle": "PRACT RES SPEC EDUC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 518",
+      "courseTitle": "SMNR SPEC EDUC RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 523",
+      "courseTitle": "MATH FUNDAMENTALS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 525",
+      "courseTitle": "AUTISM AND SOC DIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 525",
+      "courseTitle": "AUTISM AND SOC DIS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 530",
+      "courseTitle": "READINGS IN ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 531",
+      "courseTitle": "COMP BEH INTERVENTN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 531",
+      "courseTitle": "COMP BEH INTERVENTN",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 539",
+      "courseTitle": "ETHICS IN ABA A",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 550",
+      "courseTitle": "DISABLTY JUSTICE SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 552",
+      "courseTitle": "INSTRUCT STRAT ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 554",
+      "courseTitle": "ABA IN THE SCHOOLS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 560",
+      "courseTitle": "HOME SCH & COMMUNITY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 565",
+      "courseTitle": "ECE APPROACHES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 566",
+      "courseTitle": "ABLISM & RACSM IN ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 599",
+      "courseTitle": "INDEP STUDIES EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2024",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2024",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A",
+      "instructor": "Peck,Charles A"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2024",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2024",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2024",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2024",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2024",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2024",
+      "course": "EDSPE 516",
+      "courseTitle": "DEV MAT EX CHILD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2024",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2024",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2024",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2024",
+      "course": "EDSPE 525",
+      "courseTitle": "AUTISM AND SOC DIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2024",
+      "course": "EDSPE 548",
+      "courseTitle": "SPEC TOPICS ED LD",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2024",
+      "course": "EDSPE 599",
+      "courseTitle": "INDEP STUDIES EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2024",
+      "course": "EDSPE 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2024",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "C",
+      "instructor": "FLAHERTY,JESSICA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "A",
+      "instructor": "Zhao,Yisha"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "B",
+      "instructor": "Zhao,Yisha"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "C",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 501",
+      "courseTitle": "FOUNDATIONS INCL ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 501",
+      "courseTitle": "FOUNDATIONS INCL ED",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 513",
+      "courseTitle": "ASSESS INCLUSIVE EDU",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 530",
+      "courseTitle": "READINGS IN ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 532",
+      "courseTitle": "TIERED APPROACH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 533",
+      "courseTitle": "ABA PRINCIPLES I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 535",
+      "courseTitle": "ABA PHILOSOPHY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 536",
+      "courseTitle": "ASSESSMENT ABA I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 550",
+      "courseTitle": "DISABLTY JUSTICE SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 553",
+      "courseTitle": "SUPERVISION ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 555",
+      "courseTitle": "RSRCH PRDGMS SPEC ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 571",
+      "courseTitle": "MEASUREMENT IN ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 599",
+      "courseTitle": "INDEP STUDIES EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2024",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "A",
+      "instructor": "Barnett-Perry,Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "B",
+      "instructor": "Barnett-Perry,Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "C",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 427",
+      "courseTitle": "INTRO BHV ANALYSIS",
+      "section": "A",
+      "instructor": "Colombo,Rick"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 511",
+      "courseTitle": "SNGL CASE RSRCH DSGN",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 514",
+      "courseTitle": "READING & WRITING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 526",
+      "courseTitle": "SOC BEH ELE MLD DIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 530",
+      "courseTitle": "READINGS IN ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 534",
+      "courseTitle": "ABA PRINCIPLES II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 537",
+      "courseTitle": "ASSESSMENT ABA II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 549",
+      "courseTitle": "ETHICS IN ABA II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 550",
+      "courseTitle": "DISABLTY JUSTICE SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 556",
+      "courseTitle": "WRITING A LIT REVIEW",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 562",
+      "courseTitle": "CURRIC ASSESS YC DIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 563",
+      "courseTitle": "FAM TEAM COLLAB",
+      "section": "B",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 563",
+      "courseTitle": "FAM TEAM COLLAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 564",
+      "courseTitle": "INFANTS & TODDLERS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 599",
+      "courseTitle": "INDEP STUDIES EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 599",
+      "courseTitle": "INDEP STUDIES EDUC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2025",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "A",
+      "instructor": "Barnett-Perry,Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "B",
+      "instructor": "Barnett-Perry,Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "C",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "D",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 414",
+      "courseTitle": "ISSUE TREND INCL ECE",
+      "section": "A",
+      "instructor": "Meeker,Kathleen Artman"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A",
+      "instructor": "Hudson,Roxanne"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "A",
+      "instructor": "Kuo,Yuanchen"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 523",
+      "courseTitle": "MATH FUNDAMENTALS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 525",
+      "courseTitle": "AUTISM AND SOC DIS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 530",
+      "courseTitle": "READINGS IN ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 531",
+      "courseTitle": "COMP BEH INTERVENTN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 531",
+      "courseTitle": "COMP BEH INTERVENTN",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 539",
+      "courseTitle": "ETHICS IN ABA I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 542",
+      "courseTitle": "ADV SINGLE CASE RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 550",
+      "courseTitle": "DISABLTY JUSTICE SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 552",
+      "courseTitle": "INSTRUCT STRAT ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 554",
+      "courseTitle": "ABA IN THE SCHOOLS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 557",
+      "courseTitle": "RSRCH DESGN SPEC ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 560",
+      "courseTitle": "HOME SCH & COMMUNITY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 565",
+      "courseTitle": "ECE APPROACHES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 599",
+      "courseTitle": "INDEP STUDIES EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "Powell,Selma M"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2025",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2025",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A",
+      "instructor": "Zhao,Yisha"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2025",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2025",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2025",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2025",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2025",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2025",
+      "course": "EDSPE 516",
+      "courseTitle": "DEV MAT EX CHILD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2025",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2025",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2025",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2025",
+      "course": "EDSPE 525",
+      "courseTitle": "AUTISM AND SOC DIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2025",
+      "course": "EDSPE 548",
+      "courseTitle": "SPEC TOPICS ED LD",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2025",
+      "course": "EDSPE 599",
+      "courseTitle": "INDEP STUDIES EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2025",
+      "course": "EDSPE 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SUM2025",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "A",
+      "instructor": "Barnett-Perry,Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "B",
+      "instructor": "Barnett-Perry,Benjamin"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "C",
+      "instructor": "Boyce,April Coloma"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "C",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 501",
+      "courseTitle": "FOUNDATIONS INCL ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 501",
+      "courseTitle": "FOUNDATIONS INCL ED",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 501",
+      "courseTitle": "FOUNDATIONS INCL ED",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 513",
+      "courseTitle": "ASSESS INCLUSIVE EDU",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 517",
+      "courseTitle": "PRACT RES SPEC EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 530",
+      "courseTitle": "READINGS IN ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 532",
+      "courseTitle": "TIERED APPROACH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 533",
+      "courseTitle": "ABA PRINCIPLES I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 535",
+      "courseTitle": "ABA PHILOSOPHY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 536",
+      "courseTitle": "ASSESSMENT ABA I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 550",
+      "courseTitle": "DISABLTY JUSTICE SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 553",
+      "courseTitle": "SUPERVISION ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 571",
+      "courseTitle": "MEASUREMENT IN ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 599",
+      "courseTitle": "INDEP STUDIES EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2025",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "A",
+      "instructor": "Lewis,Katie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "B",
+      "instructor": "Lewis,Katie"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 414",
+      "courseTitle": "ISSUE TREND INCL ECE",
+      "section": "A",
+      "instructor": "Meeker,Kathleen Artman"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "C",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "A",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MANAGEMENT EL",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 511",
+      "courseTitle": "SNGL CASE RSRCH DSGN",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 514",
+      "courseTitle": "RDG/WRT STUDNT DISAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 517",
+      "courseTitle": "PRACT RES SPEC EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 519",
+      "courseTitle": "INCLSVE INST METHD I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 530",
+      "courseTitle": "READINGS IN ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 534",
+      "courseTitle": "ABA PRINCIPLES II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 537",
+      "courseTitle": "ASSESSMENT ABA II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 549",
+      "courseTitle": "ETHICS IN ABA II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 550",
+      "courseTitle": "DISABLTY JUSTICE SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 556",
+      "courseTitle": "WRITING A LIT REVIEW",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 563",
+      "courseTitle": "FAM TEAM COLLAB",
+      "section": "B",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 563",
+      "courseTitle": "FAM TEAM COLLAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 564",
+      "courseTitle": "INFANTS & TODDLERS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 599",
+      "courseTitle": "INDEP STUDIES EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "WIN2026",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "C",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "D",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "A",
+      "instructor": "Shabirah Nurkhasanah,Diefa"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 304",
+      "courseTitle": "DISABILITY IN EDUC",
+      "section": "B",
+      "instructor": "Shabirah Nurkhasanah,Diefa"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 414",
+      "courseTitle": "ISSUE TREND INCL ECE",
+      "section": "A",
+      "instructor": "Meeker,Kathleen Artman"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 422",
+      "courseTitle": "(DIS)ABILITY, ED,ART",
+      "section": "A",
+      "instructor": "Hudson,Roxanne"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 435",
+      "courseTitle": "INTRO TO ASD",
+      "section": "A",
+      "instructor": "Kuo,Yuanchen"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 500",
+      "courseTitle": "PRACTICUM",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 502",
+      "courseTitle": "FAM HOME VISIT PRAC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MGMT ELEM SCHL",
+      "section": "B",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MGMT ELEM SCHL",
+      "section": "C",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MGMT ELEM SCHL",
+      "section": "D",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 503",
+      "courseTitle": "CLSRM MGMT ELEM SCHL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 517",
+      "courseTitle": "PRACT RES SPEC EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 523",
+      "courseTitle": "MATH FUNDAMENTALS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 530",
+      "courseTitle": "READINGS IN ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 531",
+      "courseTitle": "COMP BEH INTERVENTN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 531",
+      "courseTitle": "COMP BEH INTERVENTN",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 538",
+      "courseTitle": "EXPRMNTL ANLYS BEHAV",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 540",
+      "courseTitle": "FIELDWORK SEM",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 550",
+      "courseTitle": "DISABLTY JUSTICE SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 552",
+      "courseTitle": "INSTRUCT STRAT ABA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 553",
+      "courseTitle": "SUPERVISION ABA",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 554",
+      "courseTitle": "ABA IN THE SCHOOLS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 560",
+      "courseTitle": "HOME SCH & COMMUNITY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 565",
+      "courseTitle": "ECE APPROACHES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 566",
+      "courseTitle": "ABLISM & RACSM IN ED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 599",
+      "courseTitle": "INDEP STUDIES EDUC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2026",
+      "course": "EDSPE 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "C",
+      "instructor": "TBA"
+    }
+  ]
 }

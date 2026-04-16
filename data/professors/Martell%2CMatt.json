@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Martell%2CMatt",
+  "professor": "Martell,Matt",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "inde",
+      "deptName": "Industrial Engineering",
+      "term": "WIN2024",
+      "course": "IND E 426",
+      "courseTitle": "REL ENG & SYS SAFE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cet",
+      "deptName": "Transportation Engineering",
+      "term": "SPR2021",
+      "course": "CET 599",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A"
+    }
+  ]
+}

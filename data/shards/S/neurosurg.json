@@ -1,7 +1,1778 @@
 {
-  "generatedAt": "2026-04-15T16:28:01Z",
+  "generatedAt": "2026-04-16T02:57:16Z",
   "campus": "S",
   "dept": "neurosurg",
   "deptName": "Neurological Surgery",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2020",
+      "course": "NEUR S 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2020",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2020",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2020",
+      "course": "NEUR S 505P",
+      "courseTitle": "P-PRECEPT NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2020",
+      "course": "NEUR S 655P",
+      "courseTitle": "P-CLIN NEUR S SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2020",
+      "course": "NEUR S 665P",
+      "courseTitle": "P-CLIN NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2020",
+      "course": "NEUR S 699P",
+      "courseTitle": "P-WWAMI NEUR S ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2021",
+      "course": "NEUR S 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2021",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2021",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2021",
+      "course": "NEUR S 505P",
+      "courseTitle": "P-PRECEPT NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2021",
+      "course": "NEUR S 655P",
+      "courseTitle": "P-CLIN NEUR S SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2021",
+      "course": "NEUR S 665P",
+      "courseTitle": "P-CLIN NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2021",
+      "course": "NEUR S 699P",
+      "courseTitle": "P-WWAMI NEUR S ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2021",
+      "course": "NEUR S 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2021",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2021",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2021",
+      "course": "NEUR S 505P",
+      "courseTitle": "P-PRECEPT NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2021",
+      "course": "NEUR S 655P",
+      "courseTitle": "P-CLIN NEUR S SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2021",
+      "course": "NEUR S 665P",
+      "courseTitle": "P-CLIN NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2021",
+      "course": "NEUR S 699P",
+      "courseTitle": "P-WWAMI NEUR S ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2021",
+      "course": "NEUR S 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2021",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2021",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2021",
+      "course": "NEUR S 505P",
+      "courseTitle": "P-PRECEPT NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2021",
+      "course": "NEUR S 655P",
+      "courseTitle": "P-CLIN NEUR S SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2021",
+      "course": "NEUR S 665P",
+      "courseTitle": "P-CLIN NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2021",
+      "course": "NEUR S 699P",
+      "courseTitle": "P-WWAMI NEUR S ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2021",
+      "course": "NEUR S 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2021",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2021",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2021",
+      "course": "NEUR S 505P",
+      "courseTitle": "P-PRECEPT NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2021",
+      "course": "NEUR S 655P",
+      "courseTitle": "P-CLIN NEUR S SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2021",
+      "course": "NEUR S 665P",
+      "courseTitle": "P-CLIN NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2021",
+      "course": "NEUR S 699P",
+      "courseTitle": "P-WWAMI NEUR S ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2022",
+      "course": "NEUR S 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2022",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2022",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2022",
+      "course": "NEUR S 505P",
+      "courseTitle": "P-PRECEPT NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2022",
+      "course": "NEUR S 655P",
+      "courseTitle": "P-CLIN NEUR S SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2022",
+      "course": "NEUR S 665P",
+      "courseTitle": "P-CLIN NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2022",
+      "course": "NEUR S 699P",
+      "courseTitle": "P-WWAMI NEUR S ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2022",
+      "course": "NEUR S 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2022",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2022",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2022",
+      "course": "NEUR S 505P",
+      "courseTitle": "P-PRECEPT NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2022",
+      "course": "NEUR S 655P",
+      "courseTitle": "P-CLIN NEUR S SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2022",
+      "course": "NEUR S 665P",
+      "courseTitle": "P-CLIN NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2022",
+      "course": "NEUR S 699P",
+      "courseTitle": "P-WWAMI NEUR S ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2022",
+      "course": "NEUR S 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2022",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2022",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2022",
+      "course": "NEUR S 505P",
+      "courseTitle": "P-PRECEPT NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2022",
+      "course": "NEUR S 655P",
+      "courseTitle": "P-CLIN NEUR S SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2022",
+      "course": "NEUR S 665P",
+      "courseTitle": "P-CLIN NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2022",
+      "course": "NEUR S 699P",
+      "courseTitle": "P-WWAMI NEUR S ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2022",
+      "course": "NEUR S 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2022",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2022",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2022",
+      "course": "NEUR S 505P",
+      "courseTitle": "P-PRECEPT NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2022",
+      "course": "NEUR S 655P",
+      "courseTitle": "P-CLIN NEUR S SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2022",
+      "course": "NEUR S 665P",
+      "courseTitle": "P-CLIN NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2022",
+      "course": "NEUR S 699P",
+      "courseTitle": "P-WWAMI NEUR S ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2023",
+      "course": "NEUR S 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2023",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2023",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2023",
+      "course": "NEUR S 505P",
+      "courseTitle": "P-PRECEPT NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2023",
+      "course": "NEUR S 655P",
+      "courseTitle": "P-CLIN NEUR S SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2023",
+      "course": "NEUR S 665P",
+      "courseTitle": "P-CLIN NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2023",
+      "course": "NEUR S 699P",
+      "courseTitle": "P-WWAMI NEUR S ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2023",
+      "course": "NEUR S 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2023",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2023",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2023",
+      "course": "NEUR S 505P",
+      "courseTitle": "P-PRECEPT NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2023",
+      "course": "NEUR S 655P",
+      "courseTitle": "P-CLIN NEUR S SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2023",
+      "course": "NEUR S 665P",
+      "courseTitle": "P-CLIN NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2023",
+      "course": "NEUR S 699P",
+      "courseTitle": "P-WWAMI NEUR S ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2023",
+      "course": "NEUR S 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2023",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2023",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2023",
+      "course": "NEUR S 505P",
+      "courseTitle": "P-PRECEPT NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2023",
+      "course": "NEUR S 655P",
+      "courseTitle": "P-CLIN NEUR S SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2023",
+      "course": "NEUR S 665P",
+      "courseTitle": "P-CLIN NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2023",
+      "course": "NEUR S 699P",
+      "courseTitle": "P-WWAMI NEUR S ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2023",
+      "course": "NEUR S 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2023",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2023",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2023",
+      "course": "NEUR S 505P",
+      "courseTitle": "P-PRECEPT NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2023",
+      "course": "NEUR S 655P",
+      "courseTitle": "P-CLIN NEUR S SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2023",
+      "course": "NEUR S 665P",
+      "courseTitle": "P-CLIN NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2023",
+      "course": "NEUR S 699P",
+      "courseTitle": "P-WWAMI NEUR S ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2024",
+      "course": "NEUR S 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2024",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2024",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2024",
+      "course": "NEUR S 505P",
+      "courseTitle": "P-PRECEPT NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2024",
+      "course": "NEUR S 655P",
+      "courseTitle": "P-CLIN NEUR S SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2024",
+      "course": "NEUR S 665P",
+      "courseTitle": "P-CLIN NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2024",
+      "course": "NEUR S 675",
+      "courseTitle": "NEUROSURG BILLINGS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2024",
+      "course": "NEUR S 699P",
+      "courseTitle": "P-WWAMI NEUR S ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2024",
+      "course": "NEUR S 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2024",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2024",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2024",
+      "course": "NEUR S 505P",
+      "courseTitle": "P-PRECEPT NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2024",
+      "course": "NEUR S 655P",
+      "courseTitle": "P-CLIN NEUR S SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2024",
+      "course": "NEUR S 665P",
+      "courseTitle": "P-CLIN NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2024",
+      "course": "NEUR S 675",
+      "courseTitle": "NEUROSURG BILLINGS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2024",
+      "course": "NEUR S 699P",
+      "courseTitle": "P-WWAMI NEUR S ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2024",
+      "course": "NEUR S 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2024",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2024",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2024",
+      "course": "NEUR S 505P",
+      "courseTitle": "P-PRECEPT NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2024",
+      "course": "NEUR S 655P",
+      "courseTitle": "P-CLIN NEUR S SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2024",
+      "course": "NEUR S 665P",
+      "courseTitle": "P-CLIN NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2024",
+      "course": "NEUR S 675",
+      "courseTitle": "NEUROSURG BILLINGS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2024",
+      "course": "NEUR S 699P",
+      "courseTitle": "P-WWAMI NEUR S ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2024",
+      "course": "NEUR S 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2024",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2024",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2024",
+      "course": "NEUR S 505P",
+      "courseTitle": "P-PRECEPT NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2024",
+      "course": "NEUR S 655P",
+      "courseTitle": "P-CLIN NEUR S SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2024",
+      "course": "NEUR S 665P",
+      "courseTitle": "P-CLIN NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2024",
+      "course": "NEUR S 675",
+      "courseTitle": "NEUROSURG BILLINGS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2024",
+      "course": "NEUR S 699P",
+      "courseTitle": "P-WWAMI NEUR S ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2025",
+      "course": "NEUR S 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2025",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2025",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2025",
+      "course": "NEUR S 505P",
+      "courseTitle": "P-PRECEPT NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2025",
+      "course": "NEUR S 655P",
+      "courseTitle": "P-CLIN NEUR S SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2025",
+      "course": "NEUR S 665P",
+      "courseTitle": "P-CLIN NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2025",
+      "course": "NEUR S 675",
+      "courseTitle": "NEUROSURG BILLINGS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2025",
+      "course": "NEUR S 699P",
+      "courseTitle": "P-WWAMI NEUR S ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2025",
+      "course": "NEUR S 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2025",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2025",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2025",
+      "course": "NEUR S 501",
+      "courseTitle": "TRNSCRAN DPLR ULTSND",
+      "section": "A",
+      "instructor": "Sheehan,Florence H"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2025",
+      "course": "NEUR S 505P",
+      "courseTitle": "P-PRECEPT NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2025",
+      "course": "NEUR S 655P",
+      "courseTitle": "P-CLIN NEUR S SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2025",
+      "course": "NEUR S 665P",
+      "courseTitle": "P-CLIN NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2025",
+      "course": "NEUR S 675",
+      "courseTitle": "NEUROSURG BILLINGS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2025",
+      "course": "NEUR S 685",
+      "courseTitle": "NEUROS CLK ANCHORAGE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2025",
+      "course": "NEUR S 699P",
+      "courseTitle": "P-WWAMI NEUR S ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2025",
+      "course": "NEUR S 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2025",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2025",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2025",
+      "course": "NEUR S 505P",
+      "courseTitle": "P-PRECEPT NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2025",
+      "course": "NEUR S 655P",
+      "courseTitle": "P-CLIN NEUR S SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2025",
+      "course": "NEUR S 665P",
+      "courseTitle": "P-CLIN NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2025",
+      "course": "NEUR S 675",
+      "courseTitle": "NEUROSURG BILLINGS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2025",
+      "course": "NEUR S 685",
+      "courseTitle": "NEUROS CLK ANCHORAGE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SUM2025",
+      "course": "NEUR S 699P",
+      "courseTitle": "P-WWAMI NEUR S ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2025",
+      "course": "NEUR S 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2025",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2025",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2025",
+      "course": "NEUR S 505P",
+      "courseTitle": "P-PRECEPT NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2025",
+      "course": "NEUR S 655P",
+      "courseTitle": "P-CLIN NEUR S SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2025",
+      "course": "NEUR S 665P",
+      "courseTitle": "P-CLIN NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2025",
+      "course": "NEUR S 675",
+      "courseTitle": "NEUROSURG BILLINGS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2025",
+      "course": "NEUR S 685",
+      "courseTitle": "NEUROS CLK ANCHORAGE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "AUT2025",
+      "course": "NEUR S 699P",
+      "courseTitle": "P-WWAMI NEUR S ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2026",
+      "course": "NEUR S 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2026",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2026",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2026",
+      "course": "NEUR S 505P",
+      "courseTitle": "P-PRECEPT NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2026",
+      "course": "NEUR S 655P",
+      "courseTitle": "P-CLIN NEUR S SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2026",
+      "course": "NEUR S 665P",
+      "courseTitle": "P-CLIN NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2026",
+      "course": "NEUR S 675",
+      "courseTitle": "NEUROSURG BILLINGS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2026",
+      "course": "NEUR S 685",
+      "courseTitle": "NEUROS CLK ANCHORAGE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "WIN2026",
+      "course": "NEUR S 699P",
+      "courseTitle": "P-WWAMI NEUR S ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2026",
+      "course": "NEUR S 498",
+      "courseTitle": "UNDERGRAD THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2026",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2026",
+      "course": "NEUR S 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2026",
+      "course": "NEUR S 505P",
+      "courseTitle": "P-PRECEPT NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2026",
+      "course": "NEUR S 655P",
+      "courseTitle": "P-CLIN NEUR S SPO",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2026",
+      "course": "NEUR S 665P",
+      "courseTitle": "P-CLIN NEUROSURG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2026",
+      "course": "NEUR S 675",
+      "courseTitle": "NEUROSURG BILLINGS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2026",
+      "course": "NEUR S 685",
+      "courseTitle": "NEUROS CLK ANCHORAGE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "neurosurg",
+      "deptName": "Neurological Surgery",
+      "term": "SPR2026",
+      "course": "NEUR S 699P",
+      "courseTitle": "P-WWAMI NEUR S ELECT",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
 }

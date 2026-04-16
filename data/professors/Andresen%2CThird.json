@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Andresen%2CThird",
+  "professor": "Andresen,Third",
+  "recordCount": 5,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "WIN2026",
+      "course": "B EDUC 250",
+      "courseTitle": "TPCS EDUC POP CULTR",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "SPR2025",
+      "course": "B EDUC 250",
+      "courseTitle": "TPCS EDUC POP CULTR",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "WIN2025",
+      "course": "B EDUC 201",
+      "courseTitle": "TPCS IN DVRSTY/EDUC",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2021",
+      "course": "AAS 360",
+      "courseTitle": "CRIT FIL AM HISTS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "asamst",
+      "deptName": "Asian American Studies",
+      "term": "AUT2020",
+      "course": "AAS 360",
+      "courseTitle": "CRIT FIL AM HISTS",
+      "section": "A"
+    }
+  ]
+}

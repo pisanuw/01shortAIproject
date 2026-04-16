@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Goeckner%2CBennet",
+  "professor": "Goeckner,Bennet",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SPR2021",
+      "course": "MATH 409",
+      "courseTitle": "DISCRETE OPTIMIZATN",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SPR2021",
+      "course": "MATH 409",
+      "courseTitle": "DISCRETE OPTIMIZATN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "WIN2021",
+      "course": "MATH 407",
+      "courseTitle": "LINEAR OPTIMIZATION",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "WIN2021",
+      "course": "MATH 407",
+      "courseTitle": "LINEAR OPTIMIZATION",
+      "section": "A"
+    }
+  ]
+}

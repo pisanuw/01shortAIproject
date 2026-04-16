@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Thone%2CAmy",
+  "professor": "Thone,Amy",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2026",
+      "course": "DRAMA 562",
+      "courseTitle": "PERFORMANCE STUDIO",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2024",
+      "course": "DRAMA 562",
+      "courseTitle": "PERFORMANCE STUDIO",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "SPR2022",
+      "course": "DRAMA 452",
+      "courseTitle": "ADV ACTG-SCENE STDY",
+      "section": "A"
+    }
+  ]
+}

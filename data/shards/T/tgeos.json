@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T15:51:12Z",
+  "generatedAt": "2026-04-16T02:57:09Z",
   "campus": "T",
   "dept": "tgeos",
   "deptName": "Geosciences",
@@ -812,7 +812,7 @@
       "course": "T GEOS 341",
       "courseTitle": "CLIMATE CHANGE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Masura,Julie E."
     },
     {
       "campus": "T",
@@ -842,7 +842,7 @@
       "course": "T GEOS 215",
       "courseTitle": "METEOROLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Greengrove,Cheryl L."
     },
     {
       "campus": "T",
@@ -852,17 +852,7 @@
       "course": "T GEOS 243",
       "courseTitle": "GEOG PHYS ENVT",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tgeos",
-      "deptName": "Geosciences",
-      "term": "SPR2026",
-      "course": "T GEOS 117",
-      "courseTitle": "PHYSICAL GEOLOGY",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Batbaatar,Jigjidsurengiin"
     },
     {
       "campus": "T",
@@ -872,6 +862,16 @@
       "course": "T GEOS 117",
       "courseTitle": "PHYSICAL GEOLOGY",
       "section": "B",
+      "instructor": "Schiller,Christopher Micha"
+    },
+    {
+      "campus": "T",
+      "dept": "tgeos",
+      "deptName": "Geosciences",
+      "term": "SPR2026",
+      "course": "T GEOS 117",
+      "courseTitle": "PHYSICAL GEOLOGY",
+      "section": "A",
       "instructor": "TBA"
     },
     {

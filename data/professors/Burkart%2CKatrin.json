@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Burkart%2CKatrin",
+  "professor": "Burkart,Katrin",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hms",
+      "deptName": "Health Metrics Sciences",
+      "term": "WIN2025",
+      "course": "HMS 511",
+      "courseTitle": "PROBS IN GLOBL HLTH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2022",
+      "course": "INFO 478",
+      "courseTitle": "POP HEALTH INFO",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2021",
+      "course": "INFO 478",
+      "courseTitle": "POP HEALTH INFO",
+      "section": "A"
+    }
+  ]
+}

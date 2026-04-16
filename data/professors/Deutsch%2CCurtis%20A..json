@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Deutsch%2CCurtis%20A.",
+  "professor": "Deutsch,Curtis A.",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SPR2021",
+      "course": "OCEAN 210",
+      "courseTitle": "INTEGRATIVE OCEANS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "WIN2021",
+      "course": "OCEAN 588",
+      "courseTitle": "CARBON AND CLIMATE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ess",
+      "deptName": "Earth and Space Sciences",
+      "term": "WIN2021",
+      "course": "ESS 588",
+      "courseTitle": "CARBON AND CLIMATE",
+      "section": "A"
+    }
+  ]
+}

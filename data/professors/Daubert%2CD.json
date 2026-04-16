@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Daubert%2CD",
+  "professor": "Daubert,D",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "perio",
+      "deptName": "Periodontics",
+      "term": "SUM2021",
+      "course": "PERIO 661",
+      "courseTitle": "ADV ROOT PREP",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dentfn",
+      "deptName": "Dental Foundations",
+      "term": "SUM2021",
+      "course": "DENTFN 500",
+      "courseTitle": "EARLY CLIN IMMERSN",
+      "section": "A"
+    }
+  ]
+}

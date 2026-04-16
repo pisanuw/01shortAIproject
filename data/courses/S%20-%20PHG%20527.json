@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20PHG%20527",
+  "course": "S - PHG 527",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phg",
+      "deptName": "Public Health Genetics",
+      "term": "WIN2026",
+      "course": "PHG 527",
+      "courseTitle": "SOC SCI RSCH MTHDS",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phg",
+      "deptName": "Public Health Genetics",
+      "term": "WIN2025",
+      "course": "PHG 527",
+      "courseTitle": "SOC SCI RSCH MTHDS",
+      "section": "A",
+      "instructor": "WBJ"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phg",
+      "deptName": "Public Health Genetics",
+      "term": "WIN2023",
+      "course": "PHG 527",
+      "courseTitle": "SOC SCI RSCH MTHDS",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
+}

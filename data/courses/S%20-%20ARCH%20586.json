@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:22Z",
+  "id": "S%20-%20ARCH%20586",
+  "course": "S - ARCH 586",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "AUT2025",
+      "course": "ARCH 586",
+      "courseTitle": "COMP AND DESIGN SEM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "AUT2024",
+      "course": "ARCH 586",
+      "courseTitle": "COMP AND DESIGN SEM",
+      "section": "A",
+      "instructor": "Eaton,David"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "AUT2023",
+      "course": "ARCH 586",
+      "courseTitle": "COMP AND DESIGN SEM",
+      "section": "A",
+      "instructor": "Mendez Echenagucia,Tomas"
+    }
+  ]
+}

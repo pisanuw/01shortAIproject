@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Lee%2CJane",
+  "professor": "Lee,Jane",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwl",
+      "deptName": "Social Welfare",
+      "term": "WIN2024",
+      "course": "SOC WL 580",
+      "courseTitle": "QUANT RES METHODS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwl",
+      "deptName": "Social Welfare",
+      "term": "WIN2023",
+      "course": "SOC WL 580",
+      "courseTitle": "QUANT RES METHODS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwl",
+      "deptName": "Social Welfare",
+      "term": "WIN2022",
+      "course": "SOC WL 580",
+      "courseTitle": "QUANT RES METHODS",
+      "section": "A"
+    }
+  ]
+}

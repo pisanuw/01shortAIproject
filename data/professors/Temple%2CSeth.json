@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Temple%2CSeth",
+  "professor": "Temple,Seth",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "WIN2023",
+      "course": "BIOST 581",
+      "courseTitle": "STAT GEN SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SPR2022",
+      "course": "STAT 550",
+      "courseTitle": "STAT GENET I",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "SPR2022",
+      "course": "BIOST 550",
+      "courseTitle": "STAT GENET I",
+      "section": "A"
+    }
+  ]
+}

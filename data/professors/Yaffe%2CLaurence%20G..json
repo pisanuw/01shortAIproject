@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Yaffe%2CLaurence%20G.",
+  "professor": "Yaffe,Laurence G.",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "SPR2026",
+      "course": "PHYS 506",
+      "courseTitle": "NUMERICAL METHODS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "WIN2026",
+      "course": "PHYS 571",
+      "courseTitle": "QUANTUM FIELD THRY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "AUT2025",
+      "course": "PHYS 570",
+      "courseTitle": "QUANTUM FLD THEORY",
+      "section": "A"
+    }
+  ]
+}

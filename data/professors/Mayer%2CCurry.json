@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Mayer%2CCurry",
+  "professor": "Mayer,Curry",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "urban",
+      "deptName": "Urban",
+      "term": "WIN2026",
+      "course": "URBAN 549",
+      "courseTitle": "HAZARD MITIGATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2025",
+      "course": "URBDP 549",
+      "courseTitle": "HAZARD MITIGATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2024",
+      "course": "URBDP 549",
+      "courseTitle": "HAZARD MITIGATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "SUM2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:24:45Z",
+  "generatedAt": "2026-04-16T02:57:08Z",
   "campus": "B",
   "dept": "bdata",
   "deptName": "Data Analytics and Visualization",
@@ -111,8 +111,8 @@
       "term": "AUT2025",
       "course": "B DATA 200",
       "courseTitle": "INTRO DATA STUDIES",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Nurmukhametov,Gani"
     },
     {
       "campus": "B",
@@ -121,8 +121,8 @@
       "term": "AUT2025",
       "course": "B DATA 200",
       "courseTitle": "INTRO DATA STUDIES",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Trujillo,Caleb"
     },
     {
       "campus": "B",
@@ -132,7 +132,7 @@
       "course": "B DATA 232",
       "courseTitle": "INTRO DATA VISUALZTN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anderson,Baaska"
     },
     {
       "campus": "B",
@@ -142,7 +142,7 @@
       "course": "B DATA 232",
       "courseTitle": "INTRO DATA VISUALZTN",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Cote,Nicole"
     },
     {
       "campus": "B",
@@ -152,7 +152,7 @@
       "course": "B DATA 232",
       "courseTitle": "INTRO DATA VISUALZTN",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Nurmukhametov,Gani"
     },
     {
       "campus": "B",
@@ -162,17 +162,7 @@
       "course": "B DATA 412",
       "courseTitle": "ADVANCED DATA VIS",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bdata",
-      "deptName": "Data Analytics and Visualization",
-      "term": "WIN2026",
-      "course": "B DATA 200",
-      "courseTitle": "INTRO DATA STUDIES",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Trujillo,Caleb"
     },
     {
       "campus": "B",
@@ -182,7 +172,17 @@
       "course": "B DATA 200",
       "courseTitle": "INTRO DATA STUDIES",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Nurmukhametov,Gani"
+    },
+    {
+      "campus": "B",
+      "dept": "bdata",
+      "deptName": "Data Analytics and Visualization",
+      "term": "WIN2026",
+      "course": "B DATA 200",
+      "courseTitle": "INTRO DATA STUDIES",
+      "section": "A",
+      "instructor": "Trujillo,Caleb"
     },
     {
       "campus": "B",
@@ -192,7 +192,7 @@
       "course": "B DATA 232",
       "courseTitle": "INTRO DATA VISUALZTN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anderson,Baaska"
     },
     {
       "campus": "B",
@@ -202,7 +202,7 @@
       "course": "B DATA 232",
       "courseTitle": "INTRO DATA VISUALZTN",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Cote,Nicole"
     },
     {
       "campus": "B",
@@ -212,7 +212,7 @@
       "course": "B DATA 232",
       "courseTitle": "INTRO DATA VISUALZTN",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Nurmukhametov,Gani"
     },
     {
       "campus": "B",
@@ -222,17 +222,7 @@
       "course": "B DATA 412",
       "courseTitle": "ADVANCED DATA VIS",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bdata",
-      "deptName": "Data Analytics and Visualization",
-      "term": "WIN2026",
-      "course": "B DATA 497",
-      "courseTitle": "ADV TOPICS DATA VIS",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Trujillo,Caleb"
     },
     {
       "campus": "B",
@@ -242,17 +232,17 @@
       "course": "B DATA 497",
       "courseTitle": "ADV TOPICS DATA VIS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Bigham,Katie"
     },
     {
       "campus": "B",
       "dept": "bdata",
       "deptName": "Data Analytics and Visualization",
-      "term": "SPR2026",
-      "course": "B DATA 200",
-      "courseTitle": "INTRO DATA STUDIES",
+      "term": "WIN2026",
+      "course": "B DATA 497",
+      "courseTitle": "ADV TOPICS DATA VIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cote,Nicole"
     },
     {
       "campus": "B",
@@ -262,7 +252,7 @@
       "course": "B DATA 200",
       "courseTitle": "INTRO DATA STUDIES",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Albuquerque,Pedro"
     },
     {
       "campus": "B",
@@ -272,7 +262,17 @@
       "course": "B DATA 200",
       "courseTitle": "INTRO DATA STUDIES",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "NOVOKHODKO,ALEXANDER"
+    },
+    {
+      "campus": "B",
+      "dept": "bdata",
+      "deptName": "Data Analytics and Visualization",
+      "term": "SPR2026",
+      "course": "B DATA 200",
+      "courseTitle": "INTRO DATA STUDIES",
+      "section": "A",
+      "instructor": "Seah,Yee Mey"
     },
     {
       "campus": "B",
@@ -292,7 +292,7 @@
       "course": "B DATA 232",
       "courseTitle": "INTRO DATA VISUALZTN",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Nurmukhametov,Gani"
     },
     {
       "campus": "B",
@@ -302,7 +302,7 @@
       "course": "B DATA 412",
       "courseTitle": "ADVANCED DATA VIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nurmukhametov,Gani"
     },
     {
       "campus": "B",
@@ -312,7 +312,7 @@
       "course": "B DATA 497",
       "courseTitle": "ADV TOPICS DATA VIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cote,Nicole"
     }
   ]
 }

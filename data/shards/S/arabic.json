@@ -1,7 +1,2448 @@
 {
-  "generatedAt": "2026-04-15T16:27:57Z",
+  "generatedAt": "2026-04-16T02:57:12Z",
   "campus": "S",
   "dept": "arabic",
   "deptName": "Arabic",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2020",
+      "course": "ARAB 101",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2020",
+      "course": "ARAB 101",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2020",
+      "course": "ARAB 201",
+      "courseTitle": "INTERMEDIATE ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2020",
+      "course": "ARAB 401",
+      "courseTitle": "ARAB MEDIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2020",
+      "course": "ARAB 412",
+      "courseTitle": "INTRO CLASSIC ARAB",
+      "section": "A",
+      "instructor": "Zafer,Hamza M."
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2020",
+      "course": "ARAB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2020",
+      "course": "ARAB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2020",
+      "course": "ARAB 511",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2020",
+      "course": "ARAB 511",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2020",
+      "course": "ARAB 521",
+      "courseTitle": "INTERMEDIATE ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2020",
+      "course": "ARAB 541",
+      "courseTitle": "ARAB MEDIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2020",
+      "course": "ARAB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2021",
+      "course": "ARAB 102",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2021",
+      "course": "ARAB 102",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2021",
+      "course": "ARAB 202",
+      "courseTitle": "INTERMED ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2021",
+      "course": "ARAB 402",
+      "courseTitle": "ARAB MEDIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2021",
+      "course": "ARAB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2021",
+      "course": "ARAB 496",
+      "courseTitle": "SPEC ST IN ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2021",
+      "course": "ARAB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2021",
+      "course": "ARAB 512",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2021",
+      "course": "ARAB 512",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2021",
+      "course": "ARAB 522",
+      "courseTitle": "INTERMEDIATE ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2021",
+      "course": "ARAB 542",
+      "courseTitle": "ARAB MEDIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2021",
+      "course": "ARAB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2021",
+      "course": "ARAB 103",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "Kiali,Nida"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2021",
+      "course": "ARAB 103",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "Kiali,Nida"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2021",
+      "course": "ARAB 203",
+      "courseTitle": "INTERMED ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2021",
+      "course": "ARAB 403",
+      "courseTitle": "ARAB MEDIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2021",
+      "course": "ARAB 411",
+      "courseTitle": "ARABIC THROUGH SONG",
+      "section": "A",
+      "instructor": "Elkhafaifi,H"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2021",
+      "course": "ARAB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2021",
+      "course": "ARAB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2021",
+      "course": "ARAB 513",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "Kiali,Nida"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2021",
+      "course": "ARAB 513",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "Kiali,Nida"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2021",
+      "course": "ARAB 523",
+      "courseTitle": "INTERMEDIATE ARABIC",
+      "section": "A",
+      "instructor": "Ahmed,K"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2021",
+      "course": "ARAB 543",
+      "courseTitle": "ARAB MEDIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2021",
+      "course": "ARAB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2021",
+      "course": "ARAB 105",
+      "courseTitle": "INTENSIVE ELEM ARAB",
+      "section": "A",
+      "instructor": "Kiali,N"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2021",
+      "course": "ARAB 205",
+      "courseTitle": "INTENSIVE INTERMED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2021",
+      "course": "ARAB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2021",
+      "course": "ARAB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2021",
+      "course": "ARAB 515",
+      "courseTitle": "INTENSIVE ELEM ARAB",
+      "section": "A",
+      "instructor": "Kiali,N"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2021",
+      "course": "ARAB 525",
+      "courseTitle": "INTNSV INTERMED ARAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2021",
+      "course": "ARAB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2021",
+      "course": "ARAB 101",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2021",
+      "course": "ARAB 101",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2021",
+      "course": "ARAB 201",
+      "courseTitle": "INTERMEDIATE ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2021",
+      "course": "ARAB 401",
+      "courseTitle": "ARAB MEDIA",
+      "section": "A",
+      "instructor": "Weatherspoon,Makda G."
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2021",
+      "course": "ARAB 413",
+      "courseTitle": "ADV ARABIC CONV",
+      "section": "A",
+      "instructor": "Weatherspoon,Makda G."
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2021",
+      "course": "ARAB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2021",
+      "course": "ARAB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2021",
+      "course": "ARAB 511",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2021",
+      "course": "ARAB 521",
+      "courseTitle": "INTERMEDIATE ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2021",
+      "course": "ARAB 541",
+      "courseTitle": "ARAB MEDIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2021",
+      "course": "ARAB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2022",
+      "course": "ARAB 102",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2022",
+      "course": "ARAB 102",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2022",
+      "course": "ARAB 202",
+      "courseTitle": "INTERMED ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2022",
+      "course": "ARAB 402",
+      "courseTitle": "ARAB MEDIA",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2022",
+      "course": "ARAB 405",
+      "courseTitle": "MODRN ARABIC POETRY",
+      "section": "A",
+      "instructor": "DeYoung,Terri L"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2022",
+      "course": "ARAB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2022",
+      "course": "ARAB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2022",
+      "course": "ARAB 512",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2022",
+      "course": "ARAB 522",
+      "courseTitle": "INTERMEDIATE ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2022",
+      "course": "ARAB 542",
+      "courseTitle": "ARAB MEDIA",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2022",
+      "course": "ARAB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2022",
+      "course": "ARAB 103",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2022",
+      "course": "ARAB 103",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2022",
+      "course": "ARAB 203",
+      "courseTitle": "INTERMED ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2022",
+      "course": "ARAB 403",
+      "courseTitle": "ARAB MEDIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2022",
+      "course": "ARAB 411",
+      "courseTitle": "ARABIC THROUGH SONG",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2022",
+      "course": "ARAB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2022",
+      "course": "ARAB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2022",
+      "course": "ARAB 513",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2022",
+      "course": "ARAB 523",
+      "courseTitle": "INTERMEDIATE ARABIC",
+      "section": "A",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2022",
+      "course": "ARAB 543",
+      "courseTitle": "ARAB MEDIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2022",
+      "course": "ARAB 551",
+      "courseTitle": "ARABIC THROUGH SONG",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2022",
+      "course": "ARAB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2022",
+      "course": "ARAB 105",
+      "courseTitle": "INTENSIVE ELEM ARAB",
+      "section": "A",
+      "instructor": "Kiali,N"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2022",
+      "course": "ARAB 205",
+      "courseTitle": "INTENSIVE INTERMED",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2022",
+      "course": "ARAB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2022",
+      "course": "ARAB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2022",
+      "course": "ARAB 515",
+      "courseTitle": "INTENSIVE ELEM ARAB",
+      "section": "A",
+      "instructor": "Kiali,N"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2022",
+      "course": "ARAB 525",
+      "courseTitle": "INTNSV INTERMED ARAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2022",
+      "course": "ARAB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2022",
+      "course": "ARAB 101",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "C",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2022",
+      "course": "ARAB 101",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2022",
+      "course": "ARAB 101",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2022",
+      "course": "ARAB 201",
+      "courseTitle": "INTERMEDIATE ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2022",
+      "course": "ARAB 401",
+      "courseTitle": "ARAB MEDIA",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2022",
+      "course": "ARAB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2022",
+      "course": "ARAB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2022",
+      "course": "ARAB 511",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2022",
+      "course": "ARAB 511",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2022",
+      "course": "ARAB 511",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2022",
+      "course": "ARAB 521",
+      "courseTitle": "INTERMEDIATE ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2022",
+      "course": "ARAB 541",
+      "courseTitle": "ARAB MEDIA",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2022",
+      "course": "ARAB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2023",
+      "course": "ARAB 102",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2023",
+      "course": "ARAB 102",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2023",
+      "course": "ARAB 102",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2023",
+      "course": "ARAB 202",
+      "courseTitle": "INTERMED ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2023",
+      "course": "ARAB 402",
+      "courseTitle": "ARAB MEDIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2023",
+      "course": "ARAB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2023",
+      "course": "ARAB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2023",
+      "course": "ARAB 512",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2023",
+      "course": "ARAB 512",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2023",
+      "course": "ARAB 512",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2023",
+      "course": "ARAB 522",
+      "courseTitle": "INTERMEDIATE ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2023",
+      "course": "ARAB 542",
+      "courseTitle": "ARAB MEDIA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2023",
+      "course": "ARAB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2023",
+      "course": "ARAB 103",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2023",
+      "course": "ARAB 103",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2023",
+      "course": "ARAB 103",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2023",
+      "course": "ARAB 203",
+      "courseTitle": "INTERMED ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2023",
+      "course": "ARAB 403",
+      "courseTitle": "ARAB MEDIA",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2023",
+      "course": "ARAB 411",
+      "courseTitle": "ARABIC THROUGH SONG",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2023",
+      "course": "ARAB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2023",
+      "course": "ARAB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2023",
+      "course": "ARAB 513",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2023",
+      "course": "ARAB 513",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2023",
+      "course": "ARAB 513",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2023",
+      "course": "ARAB 523",
+      "courseTitle": "INTERMEDIATE ARABIC",
+      "section": "A",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2023",
+      "course": "ARAB 543",
+      "courseTitle": "ARAB MEDIA",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2023",
+      "course": "ARAB 551",
+      "courseTitle": "ARABIC THROUGH SONG",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2023",
+      "course": "ARAB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2023",
+      "course": "ARAB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2023",
+      "course": "ARAB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2023",
+      "course": "ARAB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2023",
+      "course": "ARAB 101",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2023",
+      "course": "ARAB 101",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2023",
+      "course": "ARAB 201",
+      "courseTitle": "INTERMEDIATE ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2023",
+      "course": "ARAB 401",
+      "courseTitle": "ARAB MEDIA",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2023",
+      "course": "ARAB 405",
+      "courseTitle": "MODRN ARABIC POETRY",
+      "section": "A",
+      "instructor": "DeYoung,Terri L"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2023",
+      "course": "ARAB 412",
+      "courseTitle": "INTRO CLASSIC ARAB",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2023",
+      "course": "ARAB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2023",
+      "course": "ARAB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2023",
+      "course": "ARAB 511",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2023",
+      "course": "ARAB 511",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2023",
+      "course": "ARAB 521",
+      "courseTitle": "INTERMEDIATE ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2023",
+      "course": "ARAB 541",
+      "courseTitle": "ARAB MEDIA",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2023",
+      "course": "ARAB 552",
+      "courseTitle": "INTRO CLASSIC ARAB",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2023",
+      "course": "ARAB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2024",
+      "course": "ARAB 102",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2024",
+      "course": "ARAB 102",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2024",
+      "course": "ARAB 202",
+      "courseTitle": "INTERMED ARABIC",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2024",
+      "course": "ARAB 402",
+      "courseTitle": "ARAB MEDIA",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2024",
+      "course": "ARAB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2024",
+      "course": "ARAB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2024",
+      "course": "ARAB 512",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2024",
+      "course": "ARAB 512",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2024",
+      "course": "ARAB 522",
+      "courseTitle": "INTERMEDIATE ARABIC",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2024",
+      "course": "ARAB 542",
+      "courseTitle": "ARAB MEDIA",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2024",
+      "course": "ARAB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2024",
+      "course": "ARAB 103",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2024",
+      "course": "ARAB 103",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2024",
+      "course": "ARAB 203",
+      "courseTitle": "INTERMED ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2024",
+      "course": "ARAB 403",
+      "courseTitle": "ARAB MEDIA",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2024",
+      "course": "ARAB 410",
+      "courseTitle": "ISLAM THEO MYST LIT",
+      "section": "A",
+      "instructor": "Bandy,Hunter C"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2024",
+      "course": "ARAB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2024",
+      "course": "ARAB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2024",
+      "course": "ARAB 513",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2024",
+      "course": "ARAB 513",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2024",
+      "course": "ARAB 523",
+      "courseTitle": "INTERMEDIATE ARABIC",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2024",
+      "course": "ARAB 543",
+      "courseTitle": "ARAB MEDIA",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2024",
+      "course": "ARAB 596",
+      "courseTitle": "SPEC ST IN ARABIC",
+      "section": "A",
+      "instructor": "Bandy,Hunter C"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2024",
+      "course": "ARAB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2024",
+      "course": "ARAB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2024",
+      "course": "ARAB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2024",
+      "course": "ARAB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2024",
+      "course": "ARAB 101",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2024",
+      "course": "ARAB 101",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2024",
+      "course": "ARAB 201",
+      "courseTitle": "INTERMEDIATE ARABIC",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2024",
+      "course": "ARAB 301",
+      "courseTitle": "THIRD YEAR ARABIC",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2024",
+      "course": "ARAB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2024",
+      "course": "ARAB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2024",
+      "course": "ARAB 511",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2024",
+      "course": "ARAB 511",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2024",
+      "course": "ARAB 521",
+      "courseTitle": "INTERMEDIATE ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2024",
+      "course": "ARAB 531",
+      "courseTitle": "THIRD YEAR ARABIC",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2024",
+      "course": "ARAB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2025",
+      "course": "ARAB 102",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2025",
+      "course": "ARAB 102",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2025",
+      "course": "ARAB 202",
+      "courseTitle": "INTERMED ARABIC",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2025",
+      "course": "ARAB 302",
+      "courseTitle": "THIRD YEAR ARABIC",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2025",
+      "course": "ARAB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2025",
+      "course": "ARAB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2025",
+      "course": "ARAB 512",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2025",
+      "course": "ARAB 512",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2025",
+      "course": "ARAB 522",
+      "courseTitle": "INTERMEDIATE ARABIC",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2025",
+      "course": "ARAB 532",
+      "courseTitle": "THIRD YEAR ARABIC",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2025",
+      "course": "ARAB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2025",
+      "course": "ARAB 103",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2025",
+      "course": "ARAB 103",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2025",
+      "course": "ARAB 203",
+      "courseTitle": "INTERMED ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2025",
+      "course": "ARAB 303",
+      "courseTitle": "THIRD YEAR ARABIC",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2025",
+      "course": "ARAB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2025",
+      "course": "ARAB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2025",
+      "course": "ARAB 513",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2025",
+      "course": "ARAB 513",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2025",
+      "course": "ARAB 523",
+      "courseTitle": "INTERMEDIATE ARABIC",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2025",
+      "course": "ARAB 533",
+      "courseTitle": "THIRD YEAR ARABIC",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2025",
+      "course": "ARAB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2025",
+      "course": "ARAB 105",
+      "courseTitle": "INTENSIVE ELEM ARAB",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2025",
+      "course": "ARAB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2025",
+      "course": "ARAB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2025",
+      "course": "ARAB 515",
+      "courseTitle": "INTENSIVE ELEM ARAB",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SUM2025",
+      "course": "ARAB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2025",
+      "course": "ARAB 101",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2025",
+      "course": "ARAB 101",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2025",
+      "course": "ARAB 201",
+      "courseTitle": "INTERMEDIATE ARABIC",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2025",
+      "course": "ARAB 301",
+      "courseTitle": "THIRD YEAR ARABIC",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2025",
+      "course": "ARAB 411",
+      "courseTitle": "ARABIC THROUGH SONG",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2025",
+      "course": "ARAB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2025",
+      "course": "ARAB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2025",
+      "course": "ARAB 511",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2025",
+      "course": "ARAB 511",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2025",
+      "course": "ARAB 521",
+      "courseTitle": "INTERMEDIATE ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2025",
+      "course": "ARAB 531",
+      "courseTitle": "THIRD YEAR ARABIC",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2025",
+      "course": "ARAB 551",
+      "courseTitle": "ARABIC THROUGH SONG",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "AUT2025",
+      "course": "ARAB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2026",
+      "course": "ARAB 102",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2026",
+      "course": "ARAB 102",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2026",
+      "course": "ARAB 202",
+      "courseTitle": "INTERMED ARABIC",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2026",
+      "course": "ARAB 302",
+      "courseTitle": "THIRD YEAR ARABIC",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2026",
+      "course": "ARAB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2026",
+      "course": "ARAB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2026",
+      "course": "ARAB 512",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2026",
+      "course": "ARAB 512",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2026",
+      "course": "ARAB 522",
+      "courseTitle": "INTERMEDIATE ARABIC",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2026",
+      "course": "ARAB 532",
+      "courseTitle": "THIRD YEAR ARABIC",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "WIN2026",
+      "course": "ARAB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2026",
+      "course": "ARAB 103",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2026",
+      "course": "ARAB 103",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2026",
+      "course": "ARAB 203",
+      "courseTitle": "INTERMED ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2026",
+      "course": "ARAB 303",
+      "courseTitle": "THIRD YEAR ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2026",
+      "course": "ARAB 405",
+      "courseTitle": "MODRN ARABIC POETRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2026",
+      "course": "ARAB 412",
+      "courseTitle": "INTRO CLASSIC ARAB",
+      "section": "A",
+      "instructor": "McCabe,Lillian"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2026",
+      "course": "ARAB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2026",
+      "course": "ARAB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2026",
+      "course": "ARAB 513",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "A",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2026",
+      "course": "ARAB 513",
+      "courseTitle": "ELEMENTARY ARABIC",
+      "section": "B",
+      "instructor": "Ahmed,Khalid A"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2026",
+      "course": "ARAB 523",
+      "courseTitle": "INTERMEDIATE ARABIC",
+      "section": "A",
+      "instructor": "Moujtahid,Amina"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2026",
+      "course": "ARAB 533",
+      "courseTitle": "THIRD YEAR ARABIC",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "arabic",
+      "deptName": "Arabic",
+      "term": "SPR2026",
+      "course": "ARAB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
 }

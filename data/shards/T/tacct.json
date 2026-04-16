@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T15:51:12Z",
+  "generatedAt": "2026-04-16T02:57:09Z",
   "campus": "T",
   "dept": "tacct",
   "deptName": "Accounting",
@@ -101,8 +101,8 @@
       "term": "AUT2020",
       "course": "T ACCT 451",
       "courseTitle": "INDIV INC TAXATION",
-      "section": "A",
-      "instructor": "Hastings,Aaron"
+      "section": "B",
+      "instructor": "P WPH MILGARD Hastings,A"
     },
     {
       "campus": "T",
@@ -111,8 +111,8 @@
       "term": "AUT2020",
       "course": "T ACCT 451",
       "courseTitle": "INDIV INC TAXATION",
-      "section": "B",
-      "instructor": "Hastings,Aaron"
+      "section": "A",
+      "instructor": "WPH MILGARD Hastings,A"
     },
     {
       "campus": "T",
@@ -5822,17 +5822,7 @@
       "course": "T ACCT 210",
       "courseTitle": "FINANCIAL ACCT I",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tacct",
-      "deptName": "Accounting",
-      "term": "AUT2025",
-      "course": "T ACCT 210",
-      "courseTitle": "FINANCIAL ACCT I",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Craig,Gordon"
     },
     {
       "campus": "T",
@@ -5842,7 +5832,7 @@
       "course": "T ACCT 210",
       "courseTitle": "FINANCIAL ACCT I",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Feroz,Ehsan H"
     },
     {
       "campus": "T",
@@ -5852,7 +5842,17 @@
       "course": "T ACCT 210",
       "courseTitle": "FINANCIAL ACCT I",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Feroz,Ehsan H"
+    },
+    {
+      "campus": "T",
+      "dept": "tacct",
+      "deptName": "Accounting",
+      "term": "AUT2025",
+      "course": "T ACCT 210",
+      "courseTitle": "FINANCIAL ACCT I",
+      "section": "B",
+      "instructor": "Viers,Gary"
     },
     {
       "campus": "T",
@@ -5862,7 +5862,7 @@
       "course": "T ACCT 230",
       "courseTitle": "MANAGERIAL ACCT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Craig,Gordon"
     },
     {
       "campus": "T",
@@ -5872,7 +5872,7 @@
       "course": "T ACCT 301",
       "courseTitle": "INTERMED ACCTG I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Viers,Gary"
     },
     {
       "campus": "T",
@@ -5882,7 +5882,7 @@
       "course": "T ACCT 301",
       "courseTitle": "INTERMED ACCTG I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Viers,Gary"
     },
     {
       "campus": "T",
@@ -5892,7 +5892,7 @@
       "course": "T ACCT 303",
       "courseTitle": "INTERMED ACCTG III",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lacy,Tressa"
     },
     {
       "campus": "T",
@@ -5902,7 +5902,7 @@
       "course": "T ACCT 311",
       "courseTitle": "COST ACCOUNTING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "SEOW,Gim S"
     },
     {
       "campus": "T",
@@ -5912,7 +5912,7 @@
       "course": "T ACCT 401",
       "courseTitle": "FORENSIC ACCOUNTING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Feroz,Ehsan H"
     },
     {
       "campus": "T",
@@ -5922,7 +5922,7 @@
       "course": "T ACCT 451",
       "courseTitle": "INDIV INC TAXATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wu,Juan"
     },
     {
       "campus": "T",
@@ -5932,7 +5932,7 @@
       "course": "T ACCT 451",
       "courseTitle": "INDIV INC TAXATION",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Wu,Juan"
     },
     {
       "campus": "T",
@@ -5942,7 +5942,7 @@
       "course": "T ACCT 501",
       "courseTitle": "INTERMED ACCTG I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Viers,Gary"
     },
     {
       "campus": "T",
@@ -5952,7 +5952,7 @@
       "course": "T ACCT 501",
       "courseTitle": "INTERMED ACCTG I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Viers,Gary"
     },
     {
       "campus": "T",
@@ -5962,7 +5962,7 @@
       "course": "T ACCT 511",
       "courseTitle": "COST ACCOUNTING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "SEOW,Gim S"
     },
     {
       "campus": "T",
@@ -5972,7 +5972,7 @@
       "course": "T ACCT 511",
       "courseTitle": "COST ACCOUNTING",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "SEOW,Gim S"
     },
     {
       "campus": "T",
@@ -5982,7 +5982,7 @@
       "course": "T ACCT 513",
       "courseTitle": "MGR ACCT FOR DEC MKG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tripathy,Arindam"
     },
     {
       "campus": "T",
@@ -6142,7 +6142,7 @@
       "course": "T ACCT 210",
       "courseTitle": "FINANCIAL ACCT I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Craig,Gordon"
     },
     {
       "campus": "T",
@@ -6152,17 +6152,7 @@
       "course": "T ACCT 210",
       "courseTitle": "FINANCIAL ACCT I",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tacct",
-      "deptName": "Accounting",
-      "term": "WIN2026",
-      "course": "T ACCT 220",
-      "courseTitle": "FINANCIAL ACCT II",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Saudagaran,Shahrokh"
     },
     {
       "campus": "T",
@@ -6172,7 +6162,7 @@
       "course": "T ACCT 220",
       "courseTitle": "FINANCIAL ACCT II",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Forbes,Bob"
     },
     {
       "campus": "T",
@@ -6182,7 +6172,17 @@
       "course": "T ACCT 220",
       "courseTitle": "FINANCIAL ACCT II",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Franklin,Marie"
+    },
+    {
+      "campus": "T",
+      "dept": "tacct",
+      "deptName": "Accounting",
+      "term": "WIN2026",
+      "course": "T ACCT 220",
+      "courseTitle": "FINANCIAL ACCT II",
+      "section": "A",
+      "instructor": "Saudagaran,Shahrokh"
     },
     {
       "campus": "T",
@@ -6192,7 +6192,7 @@
       "course": "T ACCT 301",
       "courseTitle": "INTERMED ACCTG I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Viers,Gary"
     },
     {
       "campus": "T",
@@ -6202,7 +6202,7 @@
       "course": "T ACCT 302",
       "courseTitle": "INTERMED ACCTG II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lacy,Tressa"
     },
     {
       "campus": "T",
@@ -6212,7 +6212,7 @@
       "course": "T ACCT 302",
       "courseTitle": "INTERMED ACCTG II",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Lacy,Tressa"
     },
     {
       "campus": "T",
@@ -6222,7 +6222,7 @@
       "course": "T ACCT 330",
       "courseTitle": "ACCTG INFO SYSTEMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bryan,Daniel"
     },
     {
       "campus": "T",
@@ -6232,7 +6232,7 @@
       "course": "T ACCT 330",
       "courseTitle": "ACCTG INFO SYSTEMS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Bryan,Daniel"
     },
     {
       "campus": "T",
@@ -6242,7 +6242,7 @@
       "course": "T ACCT 330",
       "courseTitle": "ACCTG INFO SYSTEMS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Bryan,Daniel"
     },
     {
       "campus": "T",
@@ -6252,7 +6252,7 @@
       "course": "T ACCT 411",
       "courseTitle": "AUDIT STANDRDS PRIN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Craig,Gordon"
     },
     {
       "campus": "T",
@@ -6262,7 +6262,7 @@
       "course": "T ACCT 411",
       "courseTitle": "AUDIT STANDRDS PRIN",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Craig,Gordon"
     },
     {
       "campus": "T",
@@ -6272,7 +6272,7 @@
       "course": "T ACCT 502",
       "courseTitle": "INTERMED ACCTG II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lacy,Tressa"
     },
     {
       "campus": "T",
@@ -6282,7 +6282,7 @@
       "course": "T ACCT 502",
       "courseTitle": "INTERMED ACCTG II",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Lacy,Tressa"
     },
     {
       "campus": "T",
@@ -6292,7 +6292,7 @@
       "course": "T ACCT 507",
       "courseTitle": "AUDIT STANDRDS PRIN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Craig,Gordon"
     },
     {
       "campus": "T",
@@ -6302,7 +6302,7 @@
       "course": "T ACCT 507",
       "courseTitle": "AUDIT STANDRDS PRIN",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Craig,Gordon"
     },
     {
       "campus": "T",
@@ -6312,7 +6312,7 @@
       "course": "T ACCT 530",
       "courseTitle": "ACCTG INFO SYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bryan,Daniel"
     },
     {
       "campus": "T",
@@ -6322,7 +6322,7 @@
       "course": "T ACCT 530",
       "courseTitle": "ACCTG INFO SYS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Bryan,Daniel"
     },
     {
       "campus": "T",
@@ -6452,17 +6452,7 @@
       "course": "T ACCT 220",
       "courseTitle": "FINANCIAL ACCT II",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tacct",
-      "deptName": "Accounting",
-      "term": "SPR2026",
-      "course": "T ACCT 230",
-      "courseTitle": "MANAGERIAL ACCT",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Forbes,Bob"
     },
     {
       "campus": "T",
@@ -6472,7 +6462,7 @@
       "course": "T ACCT 230",
       "courseTitle": "MANAGERIAL ACCT",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Forbes,Bob"
     },
     {
       "campus": "T",
@@ -6482,7 +6472,17 @@
       "course": "T ACCT 230",
       "courseTitle": "MANAGERIAL ACCT",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Lacy,Tressa"
+    },
+    {
+      "campus": "T",
+      "dept": "tacct",
+      "deptName": "Accounting",
+      "term": "SPR2026",
+      "course": "T ACCT 230",
+      "courseTitle": "MANAGERIAL ACCT",
+      "section": "A",
+      "instructor": "Salim,Shefin"
     },
     {
       "campus": "T",
@@ -6492,7 +6492,7 @@
       "course": "T ACCT 302",
       "courseTitle": "INTERMED ACCTG II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Forbes,Bob"
     },
     {
       "campus": "T",
@@ -6512,7 +6512,7 @@
       "course": "T ACCT 303",
       "courseTitle": "INTERMED ACCTG III",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lacy,Tressa"
     },
     {
       "campus": "T",
@@ -6522,7 +6522,7 @@
       "course": "T ACCT 311",
       "courseTitle": "COST ACCOUNTING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Liao,Leslie"
     },
     {
       "campus": "T",
@@ -6532,7 +6532,7 @@
       "course": "T ACCT 404",
       "courseTitle": "ADV FINANCIAL ACCT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Campen,Cary"
     },
     {
       "campus": "T",
@@ -6542,7 +6542,7 @@
       "course": "T ACCT 451",
       "courseTitle": "INDIV INC TAXATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Taylor,Scott L."
     },
     {
       "campus": "T",
@@ -6572,7 +6572,7 @@
       "course": "T ACCT 508",
       "courseTitle": "INDIV INC TAXATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Taylor,Scott L."
     },
     {
       "campus": "T",
@@ -6582,7 +6582,7 @@
       "course": "T ACCT 508",
       "courseTitle": "INDIV INC TAXATION",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Taylor,Scott L."
     },
     {
       "campus": "T",

@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:25Z",
+  "id": "S%20-%20PSYCH%20471",
+  "course": "S - PSYCH 471",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SUM2025",
+      "course": "PSYCH 471",
+      "courseTitle": "COG IN REAL WORLD",
+      "section": "A",
+      "instructor": "Han,Jee Hoon"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SUM2024",
+      "course": "PSYCH 471",
+      "courseTitle": "COG IN REAL WORLD",
+      "section": "A",
+      "instructor": "Qin,Chao"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "WIN2024",
+      "course": "PSYCH 471",
+      "courseTitle": "COG IN REAL WORLD",
+      "section": "A",
+      "instructor": "Qin,Chao"
+    }
+  ]
+}

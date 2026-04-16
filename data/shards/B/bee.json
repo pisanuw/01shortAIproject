@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:24:45Z",
+  "generatedAt": "2026-04-16T02:57:08Z",
   "campus": "B",
   "dept": "bee",
   "deptName": "Electrical Engineering",
@@ -4522,7 +4522,7 @@
       "course": "B EE 450",
       "courseTitle": "INTRO POWER ELEC",
       "section": "A",
-      "instructor": "Aintablian,Harry"
+      "instructor": "B Aintablian,Harry"
     },
     {
       "campus": "B",
@@ -4942,7 +4942,7 @@
       "course": "B EE 490",
       "courseTitle": "SPEC TOPICS IN EE",
       "section": "A",
-      "instructor": "Ghofrani,Mahmoud"
+      "instructor": "A Ghofrani,Mahmoud"
     },
     {
       "campus": "B",
@@ -5002,17 +5002,7 @@
       "course": "B EE 200",
       "courseTitle": "ELCTRC CIRCUITS LAB",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "bee",
-      "deptName": "Electrical Engineering",
-      "term": "AUT2025",
-      "course": "B EE 215",
-      "courseTitle": "FUND OF ELEC ENGR",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Basere,Abdlmagid"
     },
     {
       "campus": "B",
@@ -5022,7 +5012,17 @@
       "course": "B EE 215",
       "courseTitle": "FUND OF ELEC ENGR",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Basere,Abdlmagid"
+    },
+    {
+      "campus": "B",
+      "dept": "bee",
+      "deptName": "Electrical Engineering",
+      "term": "AUT2025",
+      "course": "B EE 215",
+      "courseTitle": "FUND OF ELEC ENGR",
+      "section": "A",
+      "instructor": "Choi,Seungkeun"
     },
     {
       "campus": "B",
@@ -5032,7 +5032,7 @@
       "course": "B EE 233",
       "courseTitle": "CIRCUIT THEORY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Aintablian,Harry"
     },
     {
       "campus": "B",
@@ -5042,7 +5042,7 @@
       "course": "B EE 235",
       "courseTitle": "CT LINEAR SYSTEMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ali,Konpal Shaukat"
     },
     {
       "campus": "B",
@@ -5052,7 +5052,7 @@
       "course": "B EE 271",
       "courseTitle": "DGTL CIRCUITS & SYST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Berger,Arnie"
     },
     {
       "campus": "B",
@@ -5062,7 +5062,7 @@
       "course": "B EE 332",
       "courseTitle": "DEV & CIRCUITS II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Aintablian,Harry"
     },
     {
       "campus": "B",
@@ -5072,7 +5072,7 @@
       "course": "B EE 341",
       "courseTitle": "DISCRETE TM LIN SYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ali,Konpal Shaukat"
     },
     {
       "campus": "B",
@@ -5082,7 +5082,7 @@
       "course": "B EE 361",
       "courseTitle": "APP ELECTROMAGNETICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Charczenko,Walter"
     },
     {
       "campus": "B",
@@ -5092,7 +5092,7 @@
       "course": "B EE 425",
       "courseTitle": "MICRO SYSTEM DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Berger,Arnie"
     },
     {
       "campus": "B",
@@ -5102,7 +5102,7 @@
       "course": "B EE 465",
       "courseTitle": "EMAG CMPAT/SIG INTEG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Charczenko,Walter"
     },
     {
       "campus": "B",
@@ -5112,7 +5112,7 @@
       "course": "B EE 478",
       "courseTitle": "PWR SYS ANALYSIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ghofrani,Mahmoud"
     },
     {
       "campus": "B",
@@ -5122,7 +5122,7 @@
       "course": "B EE 490",
       "courseTitle": "SPEC TOPICS IN EE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Vemuri,Madhava Sarma"
     },
     {
       "campus": "B",
@@ -5172,7 +5172,7 @@
       "course": "B EE 200",
       "courseTitle": "ELCTRC CIRCUITS LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Basere,Abdlmagid"
     },
     {
       "campus": "B",
@@ -5182,7 +5182,7 @@
       "course": "B EE 200",
       "courseTitle": "ELCTRC CIRCUITS LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Basere,Abdlmagid"
     },
     {
       "campus": "B",
@@ -5192,7 +5192,7 @@
       "course": "B EE 200",
       "courseTitle": "ELCTRC CIRCUITS LAB",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Chandrasekharan,Reshma"
     },
     {
       "campus": "B",
@@ -5212,7 +5212,7 @@
       "course": "B EE 215",
       "courseTitle": "FUND OF ELEC ENGR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chandrasekharan,Reshma"
     },
     {
       "campus": "B",
@@ -5232,7 +5232,7 @@
       "course": "B EE 233",
       "courseTitle": "CIRCUIT THEORY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ghofrani,Mahmoud"
     },
     {
       "campus": "B",
@@ -5242,7 +5242,7 @@
       "course": "B EE 271",
       "courseTitle": "DGTL CIRCUITS & SYST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chandrasekharan,Reshma"
     },
     {
       "campus": "B",
@@ -5252,7 +5252,7 @@
       "course": "B EE 331",
       "courseTitle": "DEV & CIRCUITS I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Charczenko,Walter"
     },
     {
       "campus": "B",
@@ -5262,7 +5262,7 @@
       "course": "B EE 341",
       "courseTitle": "DISCRETE TM LIN SYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Basere,Abdlmagid"
     },
     {
       "campus": "B",
@@ -5272,7 +5272,7 @@
       "course": "B EE 425",
       "courseTitle": "MICRO SYSTEM DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Vemuri,Madhava Sarma"
     },
     {
       "campus": "B",
@@ -5282,7 +5282,7 @@
       "course": "B EE 450",
       "courseTitle": "INTRO POWER ELEC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Aintablian,Harry"
     },
     {
       "campus": "B",
@@ -5292,7 +5292,7 @@
       "course": "B EE 454",
       "courseTitle": "RF AND MICROWAVE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Charczenko,Walter"
     },
     {
       "campus": "B",
@@ -5342,7 +5342,7 @@
       "course": "B EE 200",
       "courseTitle": "ELCTRC CIRCUITS LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chandrasekharan,Reshma"
     },
     {
       "campus": "B",
@@ -5352,7 +5352,7 @@
       "course": "B EE 200",
       "courseTitle": "ELCTRC CIRCUITS LAB",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Chandrasekharan,Reshma"
     },
     {
       "campus": "B",
@@ -5362,7 +5362,7 @@
       "course": "B EE 215",
       "courseTitle": "FUND OF ELEC ENGR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chandrasekharan,Reshma"
     },
     {
       "campus": "B",
@@ -5372,7 +5372,7 @@
       "course": "B EE 233",
       "courseTitle": "CIRCUIT THEORY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Aintablian,Harry"
     },
     {
       "campus": "B",
@@ -5382,7 +5382,7 @@
       "course": "B EE 235",
       "courseTitle": "CT LINEAR SYSTEMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ali,Konpal Shaukat"
     },
     {
       "campus": "B",
@@ -5392,7 +5392,7 @@
       "course": "B EE 235",
       "courseTitle": "CT LINEAR SYSTEMS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Kumar,Amy"
     },
     {
       "campus": "B",
@@ -5402,7 +5402,7 @@
       "course": "B EE 271",
       "courseTitle": "DGTL CIRCUITS & SYST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chandrasekharan,Reshma"
     },
     {
       "campus": "B",
@@ -5412,7 +5412,7 @@
       "course": "B EE 331",
       "courseTitle": "DEV & CIRCUITS I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Choi,Seungkeun"
     },
     {
       "campus": "B",
@@ -5422,7 +5422,7 @@
       "course": "B EE 332",
       "courseTitle": "DEV & CIRCUITS II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Aintablian,Harry"
     },
     {
       "campus": "B",
@@ -5432,7 +5432,7 @@
       "course": "B EE 361",
       "courseTitle": "APP ELECTROMAGNETICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Charczenko,Walter"
     },
     {
       "campus": "B",
@@ -5442,7 +5442,7 @@
       "course": "B EE 425",
       "courseTitle": "MICRO SYSTEM DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Berger,Arnie"
     },
     {
       "campus": "B",
@@ -5452,7 +5452,7 @@
       "course": "B EE 457",
       "courseTitle": "PWR ELEC RENEW ENGR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Aintablian,Harry"
     },
     {
       "campus": "B",
@@ -5462,7 +5462,7 @@
       "course": "B EE 484",
       "courseTitle": "SENSORS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Choi,Seungkeun"
     },
     {
       "campus": "B",

@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Swalla%2CB",
+  "professor": "Swalla,B",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "AUT2021",
+      "course": "BIOL 541",
+      "courseTitle": "TOPICS IN MCD BIO",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "AUT2020",
+      "course": "BIOL 541",
+      "courseTitle": "TOPICS IN MCD BIO",
+      "section": "D"
+    }
+  ]
+}

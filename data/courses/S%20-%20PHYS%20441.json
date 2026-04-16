@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20PHYS%20441",
+  "course": "S - PHYS 441",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "WIN2022",
+      "course": "PHYS 441",
+      "courseTitle": "QUANTUM PHYSICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "WIN2021",
+      "course": "PHYS 441",
+      "courseTitle": "QUANTUM PHYSICS",
+      "section": "B",
+      "instructor": "TBA"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Wijsman%2CEllen%20M",
+  "professor": "Wijsman,Ellen M",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "SPR2023",
+      "course": "BIOST 550",
+      "courseTitle": "STAT GENET I",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "WIN2022",
+      "course": "BIOST 581",
+      "courseTitle": "STAT GEN SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "WIN2021",
+      "course": "BIOST 581",
+      "courseTitle": "STAT GEN SEMINAR",
+      "section": "A"
+    }
+  ]
+}

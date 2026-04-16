@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Nagel%2CNicholas%20J",
+  "professor": "Nagel,Nicholas J",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "SPR2025",
+      "course": "E E 546",
+      "courseTitle": "CONTROL SYS THEORY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "WIN2025",
+      "course": "E E 557",
+      "courseTitle": "DYN CONTROLLED SYS",
+      "section": "B"
+    }
+  ]
+}

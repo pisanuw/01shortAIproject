@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Bennett%20CNM%2CARNP%2C%20Olivia",
+  "professor": "Bennett CNM,ARNP, Olivia",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bhs",
+      "deptName": "Health Studies",
+      "term": "SPR2024",
+      "course": "BHS 302",
+      "courseTitle": "SOC DIMEN OF HEALTH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "NURS 415",
+      "courseTitle": "CARE CHILDBEAR/FAM",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bnurs",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "B NURS 421",
+      "courseTitle": "SOC JUSTICE HLTH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nursing",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "NURS 415",
+      "courseTitle": "CARE CHILDBEAR/FAM",
+      "section": "A"
+    }
+  ]
+}

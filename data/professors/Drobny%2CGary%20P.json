@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Drobny%2CGary%20P",
+  "professor": "Drobny,Gary P",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2021",
+      "course": "CHEM 453",
+      "courseTitle": "PHYS CHEM BIOC II",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2020",
+      "course": "CHEM 452",
+      "courseTitle": "PHYS CHEM BIOC I",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2020",
+      "course": "CHEM 452",
+      "courseTitle": "PHYS CHEM BIOC I",
+      "section": "A"
+    }
+  ]
+}

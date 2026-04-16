@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Dodd%2CM",
+  "professor": "Dodd,M",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cewa",
+      "deptName": "Environmental Engineering",
+      "term": "SPR2022",
+      "course": "CEWA 545",
+      "courseTitle": "ENV ORG CHEM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cewa",
+      "deptName": "Environmental Engineering",
+      "term": "SPR2021",
+      "course": "CEWA 545",
+      "courseTitle": "ENV ORG CHEM",
+      "section": "A"
+    }
+  ]
+}

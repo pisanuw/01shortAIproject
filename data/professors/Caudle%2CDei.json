@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Caudle%2CDei",
+  "professor": "Caudle,Dei",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2023",
+      "course": "ENGR 106",
+      "courseTitle": "EXPERIENCE ENGR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "AUT2022",
+      "course": "ENGR 202",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "SPR2022",
+      "course": "ENGR 202",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engr",
+      "deptName": "Engineering",
+      "term": "WIN2022",
+      "course": "ENGR 202",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A"
+    }
+  ]
+}

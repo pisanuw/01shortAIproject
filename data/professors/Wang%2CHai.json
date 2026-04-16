@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Wang%2CHai",
+  "professor": "Wang,Hai",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "SUM2023",
+      "course": "COM 303",
+      "courseTitle": "SOC EFFECTS OF TECH",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "AUT2022",
+      "course": "COM 383",
+      "courseTitle": "QUAL COM RSRCH MTHD",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "SUM2022",
+      "course": "COM 303",
+      "courseTitle": "SOC EFFECTS OF TECH",
+      "section": "A"
+    }
+  ]
+}

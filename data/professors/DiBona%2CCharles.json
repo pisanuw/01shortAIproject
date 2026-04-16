@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "DiBona%2CCharles",
+  "professor": "DiBona,Charles",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "finance",
+      "deptName": "Finance",
+      "term": "SPR2026",
+      "course": "FIN 457",
+      "courseTitle": "ENTREPRENEURIAL FIN",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "entre",
+      "deptName": "Entrepreneurship",
+      "term": "SPR2026",
+      "course": "ENTRE 457",
+      "courseTitle": "ENTREPRENEURIAL FIN",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "finance",
+      "deptName": "Finance",
+      "term": "AUT2025",
+      "course": "FIN 457",
+      "courseTitle": "ENTREPRENEURIAL FIN",
+      "section": "A"
+    }
+  ]
+}

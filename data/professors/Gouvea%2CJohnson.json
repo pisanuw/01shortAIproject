@@ -1,0 +1,78 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Gouvea%2CJohnson",
+  "professor": "Gouvea,Johnson",
+  "recordCount": 7,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "spanish",
+      "deptName": "Spanish",
+      "term": "SPR2026",
+      "course": "SPAN 101",
+      "courseTitle": "ELEMENTARY SPANISH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "port",
+      "deptName": "Portuguese",
+      "term": "SPR2026",
+      "course": "PORT 201",
+      "courseTitle": "INTERMEDIATE PORT",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "port",
+      "deptName": "Portuguese",
+      "term": "WIN2026",
+      "course": "PORT 103",
+      "courseTitle": "ELEMENTARY PORT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "port",
+      "deptName": "Portuguese",
+      "term": "SPR2024",
+      "course": "PORT 301",
+      "courseTitle": "ADVANCED PORT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "port",
+      "deptName": "Portuguese",
+      "term": "WIN2024",
+      "course": "PORT 103",
+      "courseTitle": "ELEMENTARY PORT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "port",
+      "deptName": "Portuguese",
+      "term": "SPR2023",
+      "course": "PORT 201",
+      "courseTitle": "INTERMEDIATE PORT",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "port",
+      "deptName": "Portuguese",
+      "term": "WIN2023",
+      "course": "PORT 103",
+      "courseTitle": "ELEMENTARY PORT",
+      "section": "A"
+    }
+  ]
+}

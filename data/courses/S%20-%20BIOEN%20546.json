@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20BIOEN%20546",
+  "course": "S - BIOEN 546",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "AUT2023",
+      "course": "BIOEN 546",
+      "courseTitle": "BIOMEDICAL IMAGING",
+      "section": "A",
+      "instructor": "Kinahan,Paul"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "WIN2022",
+      "course": "BIOEN 546",
+      "courseTitle": "BIOMEDICAL IMAGING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "WIN2021",
+      "course": "BIOEN 546",
+      "courseTitle": "BIOMEDICAL IMAGING",
+      "section": "A",
+      "instructor": "Kinahan,Paul E."
+    }
+  ]
+}

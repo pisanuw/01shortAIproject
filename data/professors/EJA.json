@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "EJA",
+  "professor": "EJA",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tcrim",
+      "deptName": "Criminal Justice",
+      "term": "SPR2026",
+      "course": "T CRIM 498",
+      "courseTitle": "CRIM & JUST INTRNSHP",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tcrim",
+      "deptName": "Criminal Justice",
+      "term": "SPR2025",
+      "course": "T CRIM 498",
+      "courseTitle": "INTERNSHIP",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tcrim",
+      "deptName": "Criminal Justice",
+      "term": "WIN2025",
+      "course": "T CRIM 498",
+      "courseTitle": "INTERNSHIP",
+      "section": "B"
+    }
+  ]
+}

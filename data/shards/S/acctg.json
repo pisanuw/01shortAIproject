@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:58Z",
+  "generatedAt": "2026-04-16T02:57:13Z",
   "campus": "S",
   "dept": "acctg",
   "deptName": "Accounting",
@@ -21,8 +21,18 @@
       "term": "AUT2020",
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
+      "section": "C",
+      "instructor": "Nichols,Christina"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2020",
+      "course": "ACCTG 215",
+      "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Weber,Izzy"
     },
     {
       "campus": "S",
@@ -32,17 +42,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "acctg",
-      "deptName": "Accounting",
-      "term": "AUT2020",
-      "course": "ACCTG 215",
-      "courseTitle": "ACCTG & FIN REPRTNG",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Weber,Izzy"
     },
     {
       "campus": "S",
@@ -62,7 +62,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Baesler,Wendy Hansen"
     },
     {
       "campus": "S",
@@ -72,7 +72,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Baesler,Wendy Hansen"
     },
     {
       "campus": "S",
@@ -402,7 +402,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Grant,Stephanie"
     },
     {
       "campus": "S",
@@ -412,7 +412,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Grant,Stephanie"
     },
     {
       "campus": "S",
@@ -422,7 +422,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Grant,Stephanie"
     },
     {
       "campus": "S",
@@ -452,7 +452,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Baesler,Wendy Hansen"
     },
     {
       "campus": "S",
@@ -462,7 +462,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Baesler,Wendy Hansen"
     },
     {
       "campus": "S",
@@ -762,7 +762,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mookerjee,Simmi"
     },
     {
       "campus": "S",
@@ -772,7 +772,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Nichols,Christina"
     },
     {
       "campus": "S",
@@ -792,7 +792,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Quinn,Phil"
     },
     {
       "campus": "S",
@@ -802,7 +802,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Quinn,Phil"
     },
     {
       "campus": "S",
@@ -812,7 +812,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Quinn,Phil"
     },
     {
       "campus": "S",
@@ -1142,7 +1142,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pasternack,Nancy"
     },
     {
       "campus": "S",
@@ -1222,7 +1222,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Grant,Stephanie"
     },
     {
       "campus": "S",
@@ -1232,7 +1232,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Grant,Stephanie"
     },
     {
       "campus": "S",
@@ -1242,7 +1242,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Grant,Stephanie"
     },
     {
       "campus": "S",
@@ -1252,7 +1252,7 @@
       "course": "ACCTG 219",
       "courseTitle": "ACCOUNTING ESSNTLS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nichols,Christina"
     },
     {
       "campus": "S",
@@ -1262,7 +1262,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Baesler,Wendy Hansen"
     },
     {
       "campus": "S",
@@ -1272,7 +1272,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Baesler,Wendy Hansen"
     },
     {
       "campus": "S",
@@ -1571,18 +1571,8 @@
       "term": "WIN2022",
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "acctg",
-      "deptName": "Accounting",
-      "term": "WIN2022",
-      "course": "ACCTG 215",
-      "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Hyman,Ashton S."
     },
     {
       "campus": "S",
@@ -1592,7 +1582,17 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Hyman,Ashton S."
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "WIN2022",
+      "course": "ACCTG 215",
+      "courseTitle": "ACCTG & FIN REPRTNG",
+      "section": "A",
+      "instructor": "Nichols,Christina"
     },
     {
       "campus": "S",
@@ -1602,7 +1602,7 @@
       "course": "ACCTG 219",
       "courseTitle": "ACCOUNTING ESSNTLS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nichols,Christina"
     },
     {
       "campus": "S",
@@ -1612,7 +1612,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Baesler,Wendy Hansen"
     },
     {
       "campus": "S",
@@ -1622,7 +1622,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Baesler,Wendy Hansen"
     },
     {
       "campus": "S",
@@ -1941,8 +1941,8 @@
       "term": "SPR2022",
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Hyman,Ashton S."
     },
     {
       "campus": "S",
@@ -1951,8 +1951,8 @@
       "term": "SPR2022",
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Sefcik,Steve"
     },
     {
       "campus": "S",
@@ -1962,7 +1962,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Sefcik,Steve"
     },
     {
       "campus": "S",
@@ -1972,7 +1972,7 @@
       "course": "ACCTG 219",
       "courseTitle": "ACCOUNTING ESSNTLS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nichols,Christina"
     },
     {
       "campus": "S",
@@ -1982,17 +1982,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "acctg",
-      "deptName": "Accounting",
-      "term": "SPR2022",
-      "course": "ACCTG 225",
-      "courseTitle": "MANAGERIAL ACCTG",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Quinn,Phil"
     },
     {
       "campus": "S",
@@ -2002,7 +1992,17 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Quinn,Phil"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "SPR2022",
+      "course": "ACCTG 225",
+      "courseTitle": "MANAGERIAL ACCTG",
+      "section": "B",
+      "instructor": "Van Winkle,Matt"
     },
     {
       "campus": "S",
@@ -2332,7 +2332,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hyman,Ashton S."
     },
     {
       "campus": "S",
@@ -2388,6 +2388,366 @@
       "campus": "S",
       "dept": "acctg",
       "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 199",
+      "courseTitle": "ACCTG PROB SOLVING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 215",
+      "courseTitle": "ACCTG & FIN REPRTNG",
+      "section": "A",
+      "instructor": "Hyman,Ashton S."
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 215",
+      "courseTitle": "ACCTG & FIN REPRTNG",
+      "section": "B",
+      "instructor": "Hyman,Ashton S."
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 215",
+      "courseTitle": "ACCTG & FIN REPRTNG",
+      "section": "C",
+      "instructor": "Hyman,Ashton S."
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 219",
+      "courseTitle": "ACCOUNTING ESSNTLS",
+      "section": "A",
+      "instructor": "Nichols,Christina"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 219",
+      "courseTitle": "ACCOUNTING ESSNTLS",
+      "section": "B",
+      "instructor": "Nichols,Christina"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 225",
+      "courseTitle": "MANAGERIAL ACCTG",
+      "section": "A",
+      "instructor": "Baesler,Wendy Hansen"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 225",
+      "courseTitle": "MANAGERIAL ACCTG",
+      "section": "C",
+      "instructor": "Baesler,Wendy Hansen"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 301",
+      "courseTitle": "INTERMED ACCTG I",
+      "section": "A",
+      "instructor": "McVay,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 301",
+      "courseTitle": "INTERMED ACCTG I",
+      "section": "B",
+      "instructor": "McVay,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 303",
+      "courseTitle": "INTERMED ACCTG III",
+      "section": "A",
+      "instructor": "Hyman,Ashton S."
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 320",
+      "courseTitle": "ACCTG ANALYTICS",
+      "section": "A",
+      "instructor": "de Kok,Ties"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 320",
+      "courseTitle": "ACCTG ANALYTICS",
+      "section": "B",
+      "instructor": "de Kok,Ties"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 321",
+      "courseTitle": "TAX EFF OF BUS DECS",
+      "section": "A",
+      "instructor": "Finkelstein,Crystal"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 411",
+      "courseTitle": "AUDIT STANDRDS PRIN",
+      "section": "A",
+      "instructor": "Phillips,Thomas"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 500",
+      "courseTitle": "FINANCIAL ACCTG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 500",
+      "courseTitle": "FINANCIAL ACCTG",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 500",
+      "courseTitle": "FINANCIAL ACCTG",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 500",
+      "courseTitle": "FINANCIAL ACCTG",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 502",
+      "courseTitle": "FIN REP AND ANALYSIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 521",
+      "courseTitle": "ADV ASSURANCE CASES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 522",
+      "courseTitle": "ACCT DATA ANALYTICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 523",
+      "courseTitle": "ADV F/S ANALYSIS",
+      "section": "A",
+      "instructor": "Van Winkle,Matt"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 526",
+      "courseTitle": "CODIFICATION RSH",
+      "section": "A",
+      "instructor": "Nichols,Christina"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 530",
+      "courseTitle": "TAX ISSUES-PROPERTY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 533",
+      "courseTitle": "TAX PROCEDURE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 534",
+      "courseTitle": "CORPORATE TAXATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 539",
+      "courseTitle": "TAX RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 579",
+      "courseTitle": "SPEC TOPICS ACCTNG",
+      "section": "B",
+      "instructor": "de Kok,Ties"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 579",
+      "courseTitle": "SPEC TOPICS ACCTNG",
+      "section": "A",
+      "instructor": "deHaan,Ed"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 582",
+      "courseTitle": "PHD TOPICS/METHODS",
+      "section": "A",
+      "instructor": "Ge,Weili"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 596",
+      "courseTitle": "PHD SEM FIN ACT RES",
+      "section": "A",
+      "instructor": "Lee,Charles M. C."
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 599",
+      "courseTitle": "DOCTORAL SMNR-ACCTG",
+      "section": "A",
+      "instructor": "de Kok,Ties"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2022",
+      "course": "ACCTG 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
       "term": "WIN2023",
       "course": "ACCTG 199",
       "courseTitle": "ACCTG PROB SOLVING",
@@ -2402,7 +2762,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Shi,Shawn"
     },
     {
       "campus": "S",
@@ -2412,7 +2772,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Shi,Shawn"
     },
     {
       "campus": "S",
@@ -2422,7 +2782,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Shi,Shawn"
     },
     {
       "campus": "S",
@@ -2432,7 +2792,7 @@
       "course": "ACCTG 219",
       "courseTitle": "ACCOUNTING ESSNTLS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nichols,Christina"
     },
     {
       "campus": "S",
@@ -2442,7 +2802,7 @@
       "course": "ACCTG 219",
       "courseTitle": "ACCOUNTING ESSNTLS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Nichols,Christina"
     },
     {
       "campus": "S",
@@ -2452,7 +2812,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Baesler,Wendy Hansen"
     },
     {
       "campus": "S",
@@ -2462,7 +2822,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Baesler,Wendy Hansen"
     },
     {
       "campus": "S",
@@ -2762,7 +3122,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mookerjee,Simmi"
     },
     {
       "campus": "S",
@@ -2772,7 +3132,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Mookerjee,Simmi"
     },
     {
       "campus": "S",
@@ -2782,17 +3142,7 @@
       "course": "ACCTG 219",
       "courseTitle": "ACCOUNTING ESSNTLS",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "acctg",
-      "deptName": "Accounting",
-      "term": "SPR2023",
-      "course": "ACCTG 225",
-      "courseTitle": "MANAGERIAL ACCTG",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Phillips,Thomas"
     },
     {
       "campus": "S",
@@ -2802,7 +3152,17 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Baesler,Wendy Hansen"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "SPR2023",
+      "course": "ACCTG 225",
+      "courseTitle": "MANAGERIAL ACCTG",
+      "section": "A",
+      "instructor": "Quinn,Phil"
     },
     {
       "campus": "S",
@@ -2812,7 +3172,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Quinn,Phil"
     },
     {
       "campus": "S",
@@ -3122,7 +3482,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hyman,Ashton S."
     },
     {
       "campus": "S",
@@ -3198,6 +3558,346 @@
       "campus": "S",
       "dept": "acctg",
       "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 199",
+      "courseTitle": "ACCTG PROB SOLVING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 215",
+      "courseTitle": "ACCTG & FIN REPRTNG",
+      "section": "A",
+      "instructor": "Shi,Shawn"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 215",
+      "courseTitle": "ACCTG & FIN REPRTNG",
+      "section": "B",
+      "instructor": "Shi,Shawn"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 215",
+      "courseTitle": "ACCTG & FIN REPRTNG",
+      "section": "C",
+      "instructor": "Shi,Shawn"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 219",
+      "courseTitle": "ACCOUNTING ESSNTLS",
+      "section": "A",
+      "instructor": "Nichols,Christina"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 219",
+      "courseTitle": "ACCOUNTING ESSNTLS",
+      "section": "B",
+      "instructor": "Nichols,Christina"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 225",
+      "courseTitle": "MANAGERIAL ACCTG",
+      "section": "A",
+      "instructor": "Baesler,Wendy Hansen"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 225",
+      "courseTitle": "MANAGERIAL ACCTG",
+      "section": "C",
+      "instructor": "Udpa,Suneel C"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 301",
+      "courseTitle": "FIN REP & ANLYS I",
+      "section": "A",
+      "instructor": "McVay,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 301",
+      "courseTitle": "FIN REP & ANLYS I",
+      "section": "B",
+      "instructor": "McVay,Sarah"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 320",
+      "courseTitle": "ACCTG ANALYTICS",
+      "section": "A",
+      "instructor": "Curtis,Asher"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 320",
+      "courseTitle": "ACCTG ANALYTICS",
+      "section": "B",
+      "instructor": "Curtis,Asher"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 321",
+      "courseTitle": "TAX EFF OF BUS DECS",
+      "section": "A",
+      "instructor": "Finkelstein,Crystal"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 403",
+      "courseTitle": "FIN REP & ANLYS III",
+      "section": "A",
+      "instructor": "Hyman,Ashton S."
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 411",
+      "courseTitle": "AUDIT STANDRDS PRIN",
+      "section": "A",
+      "instructor": "Phillips,Thomas"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 500",
+      "courseTitle": "FINANCIAL ACCTG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 500",
+      "courseTitle": "FINANCIAL ACCTG",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 500",
+      "courseTitle": "FINANCIAL ACCTG",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 500",
+      "courseTitle": "FINANCIAL ACCTG",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 502",
+      "courseTitle": "FIN REP AND ANALYSIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 521",
+      "courseTitle": "ADV ASSURANCE CASES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 522",
+      "courseTitle": "ACCT DATA ANALYTICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 523",
+      "courseTitle": "ADV F/S ANALYSIS",
+      "section": "A",
+      "instructor": "Van Winkle,Matt"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 526",
+      "courseTitle": "CODIFICATION RSH",
+      "section": "A",
+      "instructor": "Nichols,Christina"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 530",
+      "courseTitle": "TAX ISSUES-PROPERTY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 533",
+      "courseTitle": "TAX PROCEDURE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 534",
+      "courseTitle": "CORPORATE TAXATION",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 539",
+      "courseTitle": "TAX RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 579",
+      "courseTitle": "SPEC TOPICS ACCTNG",
+      "section": "B",
+      "instructor": "de Kok,Ties"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 582",
+      "courseTitle": "PHD TOPICS/METHODS",
+      "section": "A",
+      "instructor": "Ge,Weili"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 599",
+      "courseTitle": "DOCTORAL SMNR-ACCTG",
+      "section": "A",
+      "instructor": "de Kok,Ties"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2023",
+      "course": "ACCTG 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
       "term": "WIN2024",
       "course": "ACCTG 199",
       "courseTitle": "ACCTG PROB SOLVING",
@@ -3212,7 +3912,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hyman,Ashton S."
     },
     {
       "campus": "S",
@@ -3222,7 +3922,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Hyman,Ashton S."
     },
     {
       "campus": "S",
@@ -3232,7 +3932,7 @@
       "course": "ACCTG 219",
       "courseTitle": "ACCOUNTING ESSNTLS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Phillips,Thomas"
     },
     {
       "campus": "S",
@@ -3242,7 +3942,7 @@
       "course": "ACCTG 219",
       "courseTitle": "ACCOUNTING ESSNTLS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Phillips,Thomas"
     },
     {
       "campus": "S",
@@ -3252,7 +3952,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Baesler,Wendy Hansen"
     },
     {
       "campus": "S",
@@ -3262,7 +3962,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Baesler,Wendy Hansen"
     },
     {
       "campus": "S",
@@ -3552,7 +4252,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Grant,Stephanie"
     },
     {
       "campus": "S",
@@ -3562,7 +4262,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Grant,Stephanie"
     },
     {
       "campus": "S",
@@ -3572,7 +4272,7 @@
       "course": "ACCTG 219",
       "courseTitle": "ACCOUNTING ESSNTLS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nichols,Christina"
     },
     {
       "campus": "S",
@@ -3582,7 +4282,7 @@
       "course": "ACCTG 219",
       "courseTitle": "ACCOUNTING ESSNTLS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Nichols,Christina"
     },
     {
       "campus": "S",
@@ -3592,7 +4292,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Quinn,Phil"
     },
     {
       "campus": "S",
@@ -3602,7 +4302,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Quinn,Phil"
     },
     {
       "campus": "S",
@@ -3962,7 +4662,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sampson,Carter"
     },
     {
       "campus": "S",
@@ -4062,7 +4762,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Shi,Shawn"
     },
     {
       "campus": "S",
@@ -4072,7 +4772,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Shi,Shawn"
     },
     {
       "campus": "S",
@@ -4082,7 +4782,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Shi,Shawn"
     },
     {
       "campus": "S",
@@ -4092,7 +4792,7 @@
       "course": "ACCTG 219",
       "courseTitle": "ACCOUNTING ESSNTLS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Phillips,Thomas"
     },
     {
       "campus": "S",
@@ -4102,7 +4802,7 @@
       "course": "ACCTG 219",
       "courseTitle": "ACCOUNTING ESSNTLS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Phillips,Thomas"
     },
     {
       "campus": "S",
@@ -4112,7 +4812,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Udpa,Suneel C"
     },
     {
       "campus": "S",
@@ -4122,7 +4822,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Udpa,Suneel C"
     },
     {
       "campus": "S",
@@ -4442,7 +5142,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Grant,Stephanie"
     },
     {
       "campus": "S",
@@ -4452,7 +5152,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Grant,Stephanie"
     },
     {
       "campus": "S",
@@ -4462,7 +5162,7 @@
       "course": "ACCTG 219",
       "courseTitle": "ACCOUNTING ESSNTLS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nichols,Christina"
     },
     {
       "campus": "S",
@@ -4472,7 +5172,7 @@
       "course": "ACCTG 219",
       "courseTitle": "ACCOUNTING ESSNTLS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Nichols,Christina"
     },
     {
       "campus": "S",
@@ -4482,7 +5182,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Baesler,Wendy Hansen"
     },
     {
       "campus": "S",
@@ -4492,7 +5192,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Baesler,Wendy Hansen"
     },
     {
       "campus": "S",
@@ -4801,8 +5501,8 @@
       "term": "SPR2025",
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "LI,XUE"
     },
     {
       "campus": "S",
@@ -4811,8 +5511,8 @@
       "term": "SPR2025",
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Udpa,Suneel C"
     },
     {
       "campus": "S",
@@ -4822,7 +5522,7 @@
       "course": "ACCTG 219",
       "courseTitle": "ACCOUNTING ESSNTLS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nichols,Christina"
     },
     {
       "campus": "S",
@@ -4832,7 +5532,7 @@
       "course": "ACCTG 219",
       "courseTitle": "ACCOUNTING ESSNTLS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Nichols,Christina"
     },
     {
       "campus": "S",
@@ -4842,7 +5542,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Quinn,Phil"
     },
     {
       "campus": "S",
@@ -4852,7 +5552,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Quinn,Phil"
     },
     {
       "campus": "S",
@@ -5202,7 +5902,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Udpa,Suneel C"
     },
     {
       "campus": "S",
@@ -5282,7 +5982,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Shi,Shawn"
     },
     {
       "campus": "S",
@@ -5292,7 +5992,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Shi,Shawn"
     },
     {
       "campus": "S",
@@ -5302,7 +6002,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Shi,Shawn"
     },
     {
       "campus": "S",
@@ -5312,7 +6012,7 @@
       "course": "ACCTG 219",
       "courseTitle": "ACCOUNTING ESSNTLS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Phillips,Thomas"
     },
     {
       "campus": "S",
@@ -5322,7 +6022,7 @@
       "course": "ACCTG 219",
       "courseTitle": "ACCOUNTING ESSNTLS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Phillips,Thomas"
     },
     {
       "campus": "S",
@@ -5332,7 +6032,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Udpa,Suneel C"
     },
     {
       "campus": "S",
@@ -5342,7 +6042,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Udpa,Suneel C"
     },
     {
       "campus": "S",
@@ -5352,7 +6052,7 @@
       "course": "ACCTG 301",
       "courseTitle": "FIN REP & ANLYS I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lynch,Kendall V."
     },
     {
       "campus": "S",
@@ -5362,7 +6062,7 @@
       "course": "ACCTG 301",
       "courseTitle": "FIN REP & ANLYS I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Lynch,Kendall V."
     },
     {
       "campus": "S",
@@ -5372,7 +6072,7 @@
       "course": "ACCTG 301",
       "courseTitle": "FIN REP & ANLYS I",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Lynch,Kendall V."
     },
     {
       "campus": "S",
@@ -5382,7 +6082,7 @@
       "course": "ACCTG 320",
       "courseTitle": "ACCTG ANALYTICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Silva,Rui"
     },
     {
       "campus": "S",
@@ -5392,7 +6092,7 @@
       "course": "ACCTG 320",
       "courseTitle": "ACCTG ANALYTICS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Silva,Rui"
     },
     {
       "campus": "S",
@@ -5402,7 +6102,7 @@
       "course": "ACCTG 321",
       "courseTitle": "TAX EFF OF BUS DECS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Finkelstein,Crystal"
     },
     {
       "campus": "S",
@@ -5412,7 +6112,7 @@
       "course": "ACCTG 402",
       "courseTitle": "FIN REP & ANLYS II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Baesler,Wendy Hansen"
     },
     {
       "campus": "S",
@@ -5422,7 +6122,7 @@
       "course": "ACCTG 411",
       "courseTitle": "AUDIT STANDRDS PRIN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Phillips,Thomas"
     },
     {
       "campus": "S",
@@ -5472,7 +6172,7 @@
       "course": "ACCTG 520",
       "courseTitle": "ACCTG REGULATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Van Winkle,Matt"
     },
     {
       "campus": "S",
@@ -5502,7 +6202,7 @@
       "course": "ACCTG 523",
       "courseTitle": "ADV F/S ANALYSIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Van Winkle,Matt"
     },
     {
       "campus": "S",
@@ -5572,7 +6272,7 @@
       "course": "ACCTG 582",
       "courseTitle": "PHD TOPICS/METHODS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bernard,Darren"
     },
     {
       "campus": "S",
@@ -5582,7 +6282,7 @@
       "course": "ACCTG 596",
       "courseTitle": "PHD SEM FIN ACT RES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lee,Charles M. C."
     },
     {
       "campus": "S",
@@ -5592,7 +6292,7 @@
       "course": "ACCTG 599",
       "courseTitle": "DOCTORAL SMNR-ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Shi,Shawn"
     },
     {
       "campus": "S",
@@ -5632,7 +6332,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Grant,Stephanie"
     },
     {
       "campus": "S",
@@ -5642,7 +6342,7 @@
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Grant,Stephanie"
     },
     {
       "campus": "S",
@@ -5652,7 +6352,7 @@
       "course": "ACCTG 219",
       "courseTitle": "ACCOUNTING ESSNTLS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nichols,Christina"
     },
     {
       "campus": "S",
@@ -5662,7 +6362,7 @@
       "course": "ACCTG 219",
       "courseTitle": "ACCOUNTING ESSNTLS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Phillips,Thomas"
     },
     {
       "campus": "S",
@@ -5672,7 +6372,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Udpa,Suneel C"
     },
     {
       "campus": "S",
@@ -5682,7 +6382,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Udpa,Suneel C"
     },
     {
       "campus": "S",
@@ -5692,7 +6392,7 @@
       "course": "ACCTG 301",
       "courseTitle": "FIN REP & ANLYS I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ge,Weili"
     },
     {
       "campus": "S",
@@ -5702,7 +6402,7 @@
       "course": "ACCTG 311",
       "courseTitle": "DEC MKG & PERF EVAL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Udpa,Suneel C"
     },
     {
       "campus": "S",
@@ -5712,7 +6412,7 @@
       "course": "ACCTG 320",
       "courseTitle": "ACCTG ANALYTICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Silva,Rui"
     },
     {
       "campus": "S",
@@ -5722,7 +6422,7 @@
       "course": "ACCTG 320",
       "courseTitle": "ACCTG ANALYTICS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Silva,Rui"
     },
     {
       "campus": "S",
@@ -5732,7 +6432,7 @@
       "course": "ACCTG 321",
       "courseTitle": "TAX EFF OF BUS DECS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Finkelstein,Crystal"
     },
     {
       "campus": "S",
@@ -5742,7 +6442,7 @@
       "course": "ACCTG 321",
       "courseTitle": "TAX EFF OF BUS DECS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Finkelstein,Crystal"
     },
     {
       "campus": "S",
@@ -5752,7 +6452,7 @@
       "course": "ACCTG 402",
       "courseTitle": "FIN REP & ANLYS II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nichols,Christina"
     },
     {
       "campus": "S",
@@ -5762,7 +6462,7 @@
       "course": "ACCTG 402",
       "courseTitle": "FIN REP & ANLYS II",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Nichols,Christina"
     },
     {
       "campus": "S",
@@ -5772,7 +6472,7 @@
       "course": "ACCTG 403",
       "courseTitle": "FIN REP & ANLYS III",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gale,Brian"
     },
     {
       "campus": "S",
@@ -5782,7 +6482,7 @@
       "course": "ACCTG 411",
       "courseTitle": "AUDIT STANDRDS PRIN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Phillips,Thomas"
     },
     {
       "campus": "S",
@@ -5792,7 +6492,7 @@
       "course": "ACCTG 440",
       "courseTitle": "INTRO FIN STMT ANLYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Van Winkle,Matt"
     },
     {
       "campus": "S",
@@ -5802,7 +6502,7 @@
       "course": "ACCTG 480",
       "courseTitle": "NOT FOR PROFIT ACCT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Baesler,Wendy Hansen"
     },
     {
       "campus": "S",
@@ -5822,7 +6522,7 @@
       "course": "ACCTG 501",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bernard,Darren"
     },
     {
       "campus": "S",
@@ -5962,7 +6662,7 @@
       "course": "ACCTG 580",
       "courseTitle": "PHD INTRO ACCT RES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McVay,Sarah"
     },
     {
       "campus": "S",
@@ -6011,8 +6711,8 @@
       "term": "SPR2026",
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Udpa,Suneel C"
     },
     {
       "campus": "S",
@@ -6021,8 +6721,8 @@
       "term": "SPR2026",
       "course": "ACCTG 215",
       "courseTitle": "ACCTG & FIN REPRTNG",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Yang,Benjamin"
     },
     {
       "campus": "S",
@@ -6032,7 +6732,7 @@
       "course": "ACCTG 219",
       "courseTitle": "ACCOUNTING ESSNTLS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nichols,Christina"
     },
     {
       "campus": "S",
@@ -6042,7 +6742,7 @@
       "course": "ACCTG 219",
       "courseTitle": "ACCOUNTING ESSNTLS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Nichols,Christina"
     },
     {
       "campus": "S",
@@ -6052,7 +6752,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Baesler,Wendy Hansen"
     },
     {
       "campus": "S",
@@ -6062,17 +6762,7 @@
       "course": "ACCTG 225",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "acctg",
-      "deptName": "Accounting",
-      "term": "SPR2026",
-      "course": "ACCTG 311",
-      "courseTitle": "DEC MKG & PERF EVAL",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Baesler,Wendy Hansen"
     },
     {
       "campus": "S",
@@ -6082,7 +6772,17 @@
       "course": "ACCTG 311",
       "courseTitle": "DEC MKG & PERF EVAL",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Ortiz,Nerelys Myrnet"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "SPR2026",
+      "course": "ACCTG 311",
+      "courseTitle": "DEC MKG & PERF EVAL",
+      "section": "A",
+      "instructor": "Udpa,Suneel C"
     },
     {
       "campus": "S",
@@ -6092,7 +6792,7 @@
       "course": "ACCTG 403",
       "courseTitle": "FIN REP & ANLYS III",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gale,Brian"
     },
     {
       "campus": "S",
@@ -6102,7 +6802,7 @@
       "course": "ACCTG 403",
       "courseTitle": "FIN REP & ANLYS III",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Gale,Brian"
     },
     {
       "campus": "S",
@@ -6112,7 +6812,7 @@
       "course": "ACCTG 411",
       "courseTitle": "AUDIT STANDRDS PRIN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Phillips,Thomas"
     },
     {
       "campus": "S",
@@ -6122,7 +6822,7 @@
       "course": "ACCTG 440",
       "courseTitle": "INTRO FIN STMT ANLYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Van Winkle,Matt"
     },
     {
       "campus": "S",
@@ -6132,7 +6832,7 @@
       "course": "ACCTG 450",
       "courseTitle": "BUSINESS TAXATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Finkelstein,Crystal"
     },
     {
       "campus": "S",
@@ -6142,7 +6842,7 @@
       "course": "ACCTG 490",
       "courseTitle": "SPEC TOPICS-ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McVay,Sarah"
     },
     {
       "campus": "S",
@@ -6152,7 +6852,7 @@
       "course": "ACCTG 490",
       "courseTitle": "SPEC TOPICS-ACCTG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "McVay,Sarah"
     },
     {
       "campus": "S",
@@ -6171,6 +6871,16 @@
       "term": "SPR2026",
       "course": "ACCTG 501",
       "courseTitle": "MANAGERIAL ACCTG",
+      "section": "G",
+      "instructor": "Baesler,Wendy Hansen"
+    },
+    {
+      "campus": "S",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "SPR2026",
+      "course": "ACCTG 501",
+      "courseTitle": "MANAGERIAL ACCTG",
       "section": "A",
       "instructor": "TBA"
     },
@@ -6182,16 +6892,6 @@
       "course": "ACCTG 501",
       "courseTitle": "MANAGERIAL ACCTG",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "acctg",
-      "deptName": "Accounting",
-      "term": "SPR2026",
-      "course": "ACCTG 501",
-      "courseTitle": "MANAGERIAL ACCTG",
-      "section": "G",
       "instructor": "TBA"
     },
     {
@@ -6322,7 +7022,7 @@
       "course": "ACCTG 599",
       "courseTitle": "DOCTORAL SMNR-ACCTG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Shi,Shawn"
     },
     {
       "campus": "S",

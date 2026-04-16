@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Meisner%2CAllison",
+  "professor": "Meisner,Allison",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "SPR2023",
+      "course": "BIOST 310",
+      "courseTitle": "BIOSTATISTICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "WIN2023",
+      "course": "BIOST 310",
+      "courseTitle": "BIOSTATISTICS",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "DiMarco%2CArt",
+  "professor": "DiMarco,Art",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dentpc",
+      "deptName": "Dental Pre-Clinical",
+      "term": "SUM2023",
+      "course": "DENTPC 553",
+      "courseTitle": "LOCAL ANESTHESIA",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dentpc",
+      "deptName": "Dental Pre-Clinical",
+      "term": "SUM2022",
+      "course": "DENTPC 553",
+      "courseTitle": "LOCAL ANESTHESIA",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dentpc",
+      "deptName": "Dental Pre-Clinical",
+      "term": "SUM2021",
+      "course": "DENTPC 553",
+      "courseTitle": "LOCAL ANESTHESIA",
+      "section": "B"
+    }
+  ]
+}

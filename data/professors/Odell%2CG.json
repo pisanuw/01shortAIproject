@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Odell%2CG",
+  "professor": "Odell,G",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "AUT2021",
+      "course": "BIOL 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "G"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "AUT2020",
+      "course": "BIOL 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "G"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Allen%2CCheri",
+  "professor": "Allen,Cheri",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2026",
+      "course": "INFO 442",
+      "courseTitle": "COOP SOFTWARE DEV",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2026",
+      "course": "INFO 441",
+      "courseTitle": "SERVER-SIDE DEV",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2026",
+      "course": "INFO 442",
+      "courseTitle": "COOP SOFTWARE DEV",
+      "section": "C"
+    }
+  ]
+}

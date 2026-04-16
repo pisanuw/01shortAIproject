@@ -1,0 +1,388 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "SJ",
+  "professor": "SJ",
+  "recordCount": 38,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "WIN2024",
+      "course": "EDUC 280",
+      "courseTitle": "INTRO TO ECO",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "WIN2024",
+      "course": "EDUC 280",
+      "courseTitle": "INTRO TO ECO",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "WIN2024",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "WIN2024",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "AUT2023",
+      "course": "EDUC 280",
+      "courseTitle": "INTRO TO ECO",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "AUT2023",
+      "course": "EDUC 280",
+      "courseTitle": "INTRO TO ECO",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "AUT2023",
+      "course": "EDUC 240",
+      "courseTitle": "INTRO TO EDUCATION",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "AUT2023",
+      "course": "EDUC 240",
+      "courseTitle": "INTRO TO EDUCATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "AUT2023",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "AUT2023",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "AUT2023",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "AUT2023",
+      "course": "B EDUC 541",
+      "courseTitle": "SEC LANG ACQUISITION",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "AUT2023",
+      "course": "B EDUC 441",
+      "courseTitle": "SEC LANG ACQUISTION",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bnurs",
+      "deptName": "Nursing",
+      "term": "SUM2023",
+      "course": "B NURS 424",
+      "courseTitle": "POP HLTH COMM PRAC",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "WIN2023",
+      "course": "EDUC 280",
+      "courseTitle": "INTRO TO ECO",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "WIN2023",
+      "course": "EDUC 280",
+      "courseTitle": "INTRO TO ECO",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "WIN2023",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "WIN2023",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "AUT2022",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "AUT2022",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "AUT2022",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "commenv",
+      "deptName": "Community, Environment, and Planning",
+      "term": "AUT2022",
+      "course": "CEP 200",
+      "courseTitle": "INTRO COM & ENV PLN",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "commenv",
+      "deptName": "Community, Environment, and Planning",
+      "term": "AUT2022",
+      "course": "CEP 200",
+      "courseTitle": "INTRO COM & ENV PLN",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "AUT2022",
+      "course": "B EDUC 541",
+      "courseTitle": "SEC LANG ACQUISITION",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "AUT2022",
+      "course": "B EDUC 441",
+      "courseTitle": "SEC LANG ACQUISTION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "SPR2022",
+      "course": "PHIL 595",
+      "courseTitle": "PHILS IN SCHOOLS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "SPR2022",
+      "course": "PHIL 495",
+      "courseTitle": "PHILS IN SCHOOLS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ethics",
+      "deptName": "Ethics",
+      "term": "WIN2022",
+      "course": "ETHICS 513",
+      "courseTitle": "CAPSTONE WORKSHOP",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ethics",
+      "deptName": "Ethics",
+      "term": "WIN2022",
+      "course": "ETHICS 495",
+      "courseTitle": "ETHICS IN PRACTICE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "AUT2021",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "AUT2021",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "AUT2021",
+      "course": "ECFS 200",
+      "courseTitle": "INTRO TO ECFS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "commenv",
+      "deptName": "Community, Environment, and Planning",
+      "term": "AUT2021",
+      "course": "CEP 200",
+      "courseTitle": "INTRO COM & ENV PLN",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "commenv",
+      "deptName": "Community, Environment, and Planning",
+      "term": "AUT2021",
+      "course": "CEP 200",
+      "courseTitle": "INTRO COM & ENV PLN",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "AUT2021",
+      "course": "B EDUC 541",
+      "courseTitle": "SEC LANG ACQUISITION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "commenv",
+      "deptName": "Community, Environment, and Planning",
+      "term": "AUT2020",
+      "course": "CEP 200",
+      "courseTitle": "INTRO COM & ENV PLN",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "commenv",
+      "deptName": "Community, Environment, and Planning",
+      "term": "AUT2020",
+      "course": "CEP 200",
+      "courseTitle": "INTRO COM & ENV PLN",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "AUT2020",
+      "course": "B EDUC 541",
+      "courseTitle": "SEC LANG ACQUISITION",
+      "section": "A"
+    }
+  ]
+}

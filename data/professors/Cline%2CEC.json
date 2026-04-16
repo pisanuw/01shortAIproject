@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Cline%2CEC",
+  "professor": "Cline,EC",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tbiol",
+      "deptName": "Biology",
+      "term": "AUT2025",
+      "course": "T BIOL 362",
+      "courseTitle": "INTRO RESTOR ECOL",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tbiomd",
+      "deptName": "Biomedical Sciences",
+      "term": "SPR2025",
+      "course": "TBIOMD 310",
+      "courseTitle": "FOUND IN BIOMED SCI",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tbiol",
+      "deptName": "Biology",
+      "term": "AUT2024",
+      "course": "T BIOL 362",
+      "courseTitle": "INTRO RESTOR ECOL",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tbiomd",
+      "deptName": "Biomedical Sciences",
+      "term": "SPR2022",
+      "course": "TBIOMD 310",
+      "courseTitle": "FOUND IN BIOMED SCI",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Leroux%2CB",
+  "professor": "Leroux,B",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ohs",
+      "deptName": "Oral Health Sciences",
+      "term": "SUM2021",
+      "course": "OHS 568",
+      "courseTitle": "BIOST IN DENTISTRY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "SUM2021",
+      "course": "BIOST 510",
+      "courseTitle": "BIOST IN DENTISTRY",
+      "section": "A"
+    }
+  ]
+}

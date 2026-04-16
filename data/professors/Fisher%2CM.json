@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Fisher%2CM",
+  "professor": "Fisher,M",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2022",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "teached",
+      "deptName": "Education",
+      "term": "SPR2022",
+      "course": "EDTEP 601",
+      "courseTitle": "QTR 4 FIELD EXP",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "AUT2021",
+      "course": "EDSPE 520",
+      "courseTitle": "SEM APPL SPEC ED",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "teached",
+      "deptName": "Education",
+      "term": "SPR2021",
+      "course": "EDTEP 601",
+      "courseTitle": "QTR 4 FIELD EXP",
+      "section": "D"
+    }
+  ]
+}

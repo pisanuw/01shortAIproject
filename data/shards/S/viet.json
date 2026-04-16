@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:55Z",
+  "generatedAt": "2026-04-16T02:57:10Z",
   "campus": "S",
   "dept": "viet",
   "deptName": "Vietnamese",
@@ -339,6 +339,76 @@
       "dept": "viet",
       "deptName": "Vietnamese",
       "term": "WIN2022",
+      "course": "VIET 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "viet",
+      "deptName": "Vietnamese",
+      "term": "SPR2022",
+      "course": "VIET 103",
+      "courseTitle": "1ST-YR NH VIETNAMESE",
+      "section": "A",
+      "instructor": "Turner,B"
+    },
+    {
+      "campus": "S",
+      "dept": "viet",
+      "deptName": "Vietnamese",
+      "term": "SPR2022",
+      "course": "VIET 123",
+      "courseTitle": "1ST-YR H VIETNAMESE",
+      "section": "A",
+      "instructor": "Nguyen,Y"
+    },
+    {
+      "campus": "S",
+      "dept": "viet",
+      "deptName": "Vietnamese",
+      "term": "SPR2022",
+      "course": "VIET 123",
+      "courseTitle": "1ST-YR H VIETNAMESE",
+      "section": "B",
+      "instructor": "Nguyen,Y"
+    },
+    {
+      "campus": "S",
+      "dept": "viet",
+      "deptName": "Vietnamese",
+      "term": "SPR2022",
+      "course": "VIET 213",
+      "courseTitle": "INTERMED VIETNAMESE",
+      "section": "A",
+      "instructor": "Turner,B"
+    },
+    {
+      "campus": "S",
+      "dept": "viet",
+      "deptName": "Vietnamese",
+      "term": "SPR2022",
+      "course": "VIET 249",
+      "courseTitle": "URB VIET-WORK/CULTR",
+      "section": "A",
+      "instructor": "Turner,B"
+    },
+    {
+      "campus": "S",
+      "dept": "viet",
+      "deptName": "Vietnamese",
+      "term": "SPR2022",
+      "course": "VIET 313",
+      "courseTitle": "ADVANCED VIETNAMESE",
+      "section": "A",
+      "instructor": "Nguyen,Y"
+    },
+    {
+      "campus": "S",
+      "dept": "viet",
+      "deptName": "Vietnamese",
+      "term": "SPR2022",
       "course": "VIET 499",
       "courseTitle": "UNDERGRAD RESEARCH",
       "section": "A",
@@ -952,7 +1022,7 @@
       "course": "VIET 249",
       "courseTitle": "URB VIET-WORK/CULTR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Turner,Bich-Ngoc"
     },
     {
       "campus": "S",

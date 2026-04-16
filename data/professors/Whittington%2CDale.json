@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Whittington%2CDale",
+  "professor": "Whittington,Dale",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phrmsc",
+      "deptName": "Pharmaceutical Sciences",
+      "term": "SPR2026",
+      "course": "PHRMSC 441",
+      "courseTitle": "INTRO MASS SPECTROM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "medchem",
+      "deptName": "Medicinal Chemistry",
+      "term": "SPR2026",
+      "course": "MEDCH 541",
+      "courseTitle": "INTRO MASS SPECTROM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "medchem",
+      "deptName": "Medicinal Chemistry",
+      "term": "SPR2025",
+      "course": "MEDCH 541",
+      "courseTitle": "BIO MASS SPEC",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "medchem",
+      "deptName": "Medicinal Chemistry",
+      "term": "SPR2024",
+      "course": "MEDCH 541",
+      "courseTitle": "BIO MASS SPEC",
+      "section": "A"
+    }
+  ]
+}

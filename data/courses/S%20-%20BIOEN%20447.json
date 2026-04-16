@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-04-16T02:57:22Z",
+  "id": "S%20-%20BIOEN%20447",
+  "course": "S - BIOEN 447",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "WIN2022",
+      "course": "BIOEN 447",
+      "courseTitle": "MRI & ULTRASOUND",
+      "section": "A",
+      "instructor": "Averkiou,M"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "WIN2021",
+      "course": "BIOEN 447",
+      "courseTitle": "MRI & ULTRASOUND",
+      "section": "A",
+      "instructor": "Averkiou,M"
+    }
+  ]
+}

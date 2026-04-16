@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Kalambay%2CPanick",
+  "professor": "Kalambay,Panick",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tme",
+      "deptName": "Mechanical Engineering",
+      "term": "SUM2025",
+      "course": "TME 403",
+      "courseTitle": "ENGR ECON",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tce",
+      "deptName": "Civil Engineering",
+      "term": "SPR2025",
+      "course": "TCE 490",
+      "courseTitle": "TOPICS IN CIVIL ENG",
+      "section": "A"
+    }
+  ]
+}

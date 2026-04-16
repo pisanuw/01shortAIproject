@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Lee%2CBen",
+  "professor": "Lee,Ben",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2026",
+      "course": "INFO 110",
+      "courseTitle": "AI: FNDTNS & SOCIETY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2025",
+      "course": "INFO 198",
+      "courseTitle": "EXPLORING INFORM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "AUT2021",
+      "course": "CSE 590",
+      "courseTitle": "RESEARCH SEMINAR",
+      "section": "T"
+    }
+  ]
+}

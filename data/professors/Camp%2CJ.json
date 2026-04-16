@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Camp%2CJ",
+  "professor": "Camp,J",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2022",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2021",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "psychbehav",
+      "deptName": "Psychiatry and Behavioral Sciences",
+      "term": "AUT2020",
+      "course": "PBSCI 649P",
+      "courseTitle": "P-PBSCI ESH SPO",
+      "section": "A"
+    }
+  ]
+}

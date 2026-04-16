@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Hawkins%2CV",
+  "professor": "Hawkins,V",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "SPR2023",
+      "course": "EPI 506",
+      "courseTitle": "SURVEILLANCE SYS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "SPR2022",
+      "course": "EPI 506",
+      "courseTitle": "SURVEILLANCE SYS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "SPR2021",
+      "course": "EPI 506",
+      "courseTitle": "SURVEILLANCE SYS",
+      "section": "A"
+    }
+  ]
+}

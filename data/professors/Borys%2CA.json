@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Borys%2CA",
+  "professor": "Borys,A",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2023",
+      "course": "ARCH 571",
+      "courseTitle": "PRO PRACTICE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "AUT2022",
+      "course": "ARCH 101",
+      "courseTitle": "INTRO ARCH STUDIES",
+      "section": "A"
+    }
+  ]
+}

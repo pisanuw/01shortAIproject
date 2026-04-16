@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Shen%2CXinwei",
+  "professor": "Shen,Xinwei",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SPR2026",
+      "course": "STAT 591",
+      "courseTitle": "SPEC TOP STAT",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SPR2026",
+      "course": "STAT 435",
+      "courseTitle": "MACHINE LEARNING",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SPR2026",
+      "course": "STAT 435",
+      "courseTitle": "MACHINE LEARNING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "WIN2026",
+      "course": "STAT 538",
+      "courseTitle": "STATISTICAL LEARNING",
+      "section": "A"
+    }
+  ]
+}

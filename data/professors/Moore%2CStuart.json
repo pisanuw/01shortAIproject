@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Moore%2CStuart",
+  "professor": "Moore,Stuart",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "SPR2025",
+      "course": "M E 478",
+      "courseTitle": "FINTE ELEMENT ANLYS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "SUM2024",
+      "course": "M E 478",
+      "courseTitle": "FINTE ELEMENT ANLYS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "SUM2023",
+      "course": "M E 478",
+      "courseTitle": "FINTE ELEMENT ANLYS",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "BASIBEK%2CTUNA",
+  "professor": "BASIBEK,TUNA",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "melc",
+      "deptName": "Middle Eastern Languages and Cultures",
+      "term": "SPR2026",
+      "course": "MELC 296",
+      "courseTitle": "SPECIAL STUDIES",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "jsis",
+      "deptName": "International Studies Core and Gateway Courses",
+      "term": "SPR2026",
+      "course": "JSIS 287",
+      "courseTitle": "TPCS MID EAST STDYS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hstcmp",
+      "deptName": "Comparative and Transregional History",
+      "term": "SPR2026",
+      "course": "HSTCMP 290",
+      "courseTitle": "TPCS COMPAR/GLBL HST",
+      "section": "A"
+    }
+  ]
+}

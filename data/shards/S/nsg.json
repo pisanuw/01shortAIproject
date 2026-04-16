@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:28:01Z",
+  "generatedAt": "2026-04-16T02:57:16Z",
   "campus": "S",
   "dept": "nsg",
   "deptName": "Nursing",
@@ -362,7 +362,7 @@
       "course": "NSG 552",
       "courseTitle": "SOC DETER LTH & EQ",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "O'Connor - she,her, M. Reb"
     },
     {
       "campus": "S",
@@ -612,7 +612,7 @@
       "course": "NSG 552",
       "courseTitle": "SOC DETER LTH & EQ",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "O'Connor - she,her, M. Reb"
     },
     {
       "campus": "S",
@@ -632,7 +632,7 @@
       "course": "NSG 573",
       "courseTitle": "SYS THINK POP HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Moore,she,her,Rachel Emmic"
     },
     {
       "campus": "S",
@@ -948,6 +948,16 @@
       "campus": "S",
       "dept": "nsg",
       "deptName": "Nursing",
+      "term": "SUM2024",
+      "course": "NSG 540",
+      "courseTitle": "TELEHEALTH",
+      "section": "B",
+      "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "nsg",
+      "deptName": "Nursing",
       "term": "AUT2024",
       "course": "NSG 516",
       "courseTitle": "PHYSIOLOGY OF AGING",
@@ -1222,7 +1232,7 @@
       "course": "NSG 557",
       "courseTitle": "PHYS PATHOPHYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zengion,Andie"
     },
     {
       "campus": "S",
@@ -1232,7 +1242,7 @@
       "course": "NSG 571",
       "courseTitle": "POP HLTH NSG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tsai,Jenny Hsin-Chun"
     },
     {
       "campus": "S",
@@ -1242,7 +1252,7 @@
       "course": "NSG 572",
       "courseTitle": "COLLAB HEALTH EQTY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "van Draanen,Jenna"
     },
     {
       "campus": "S",
@@ -1282,7 +1292,7 @@
       "course": "NSG 560",
       "courseTitle": "PEDS CASE STUDIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gumapas,Charisse Timbol"
     },
     {
       "campus": "S",
@@ -1302,7 +1312,7 @@
       "course": "NSG 570",
       "courseTitle": "MGMT SUD/OTHER ADDCT",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Weatherton,Noah"
     },
     {
       "campus": "S",
@@ -1312,7 +1322,7 @@
       "course": "NSG 573",
       "courseTitle": "SYS THINK POP HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Adhia,Avanti"
     },
     {
       "campus": "S",
@@ -1322,7 +1332,7 @@
       "course": "NSG 574",
       "courseTitle": "POP PROG DEV & EVAL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tsai,Jenny Hsin-Chun"
     },
     {
       "campus": "S",
@@ -1332,7 +1342,7 @@
       "course": "NSG 507",
       "courseTitle": "TECH ASP OCC SAFETY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kasner,Eddie"
     },
     {
       "campus": "S",
@@ -1352,7 +1362,7 @@
       "course": "NSG 554",
       "courseTitle": "POP HLTH & ENV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Riederer,Anne"
     },
     {
       "campus": "S",
@@ -1362,7 +1372,7 @@
       "course": "NSG 566",
       "courseTitle": "PEDS PHARM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Agtarap,Sarah R."
     },
     {
       "campus": "S",
@@ -1372,7 +1382,7 @@
       "course": "NSG 575",
       "courseTitle": "LEADERSHIP POP HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Martelino,Janelle Zamora"
     }
   ]
 }

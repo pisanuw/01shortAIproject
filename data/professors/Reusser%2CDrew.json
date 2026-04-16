@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Reusser%2CDrew",
+  "professor": "Reusser,Drew",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2026",
+      "course": "INFO 410",
+      "courseTitle": "CYBERSEC STRAT & POL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2026",
+      "course": "INFO 415",
+      "courseTitle": "TOPICS IN CYBERSEC",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 415",
+      "courseTitle": "TOPICS IN CYBERSEC",
+      "section": "A"
+    }
+  ]
+}

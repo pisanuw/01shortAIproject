@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20PATH%20510",
+  "course": "S - PATH 510",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "patho",
+      "deptName": "Pathology",
+      "term": "SPR2023",
+      "course": "PATH 510",
+      "courseTitle": "PATHOLOGY METHODS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "patho",
+      "deptName": "Pathology",
+      "term": "SPR2022",
+      "course": "PATH 510",
+      "courseTitle": "PATHOLOGY METHODS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "patho",
+      "deptName": "Pathology",
+      "term": "SPR2021",
+      "course": "PATH 510",
+      "courseTitle": "PATHOLOGY METHODS",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
+}

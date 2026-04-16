@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Wilson%2CK",
+  "professor": "Wilson,K",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "SPR2023",
+      "course": "BIOST 540",
+      "courseTitle": "LONG MULTILEVEL DAT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "SPR2022",
+      "course": "BIOST 540",
+      "courseTitle": "LONG MULTILEVEL DAT",
+      "section": "A"
+    }
+  ]
+}

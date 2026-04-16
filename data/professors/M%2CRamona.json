@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "M%2CRamona",
+  "professor": "M,Ramona",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "SUM2025",
+      "course": "PHIL 149",
+      "courseTitle": "EXISTENTIALISM&FILM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "SUM2024",
+      "course": "PHIL 100",
+      "courseTitle": "INTRO TO PHILOSOPHY",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "SUM2023",
+      "course": "PHIL 100",
+      "courseTitle": "INTRO TO PHILOSOPHY",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Reinke%2CGrace",
+  "professor": "Reinke,Grace",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "polisci",
+      "deptName": "Political Science",
+      "term": "SUM2021",
+      "course": "POL S 313",
+      "courseTitle": "WOMEN IN POLITICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "gwss",
+      "deptName": "Gender, Women, and Sexuality Studies",
+      "term": "SUM2021",
+      "course": "GWSS 313",
+      "courseTitle": "WOMEN IN POLITICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "polisci",
+      "deptName": "Political Science",
+      "term": "AUT2020",
+      "course": "POL S 201",
+      "courseTitle": "INTRO POL THEORY",
+      "section": "A"
+    }
+  ]
+}

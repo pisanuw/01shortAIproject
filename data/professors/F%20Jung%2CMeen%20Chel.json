@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "F%20Jung%2CMeen%20Chel",
+  "professor": "F Jung,Meen Chel",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2023",
+      "course": "URBDP 522",
+      "courseTitle": "GEOSPATIAL ANALYSIS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 504",
+      "courseTitle": "INTRO TO GIS",
+      "section": "B"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Pena%2CD",
+  "professor": "Pena,D",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "anthro",
+      "deptName": "Anthropology",
+      "term": "SUM2022",
+      "course": "ANTH 488",
+      "courseTitle": "AGROECOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "anthro",
+      "deptName": "Anthropology",
+      "term": "SUM2021",
+      "course": "ANTH 488",
+      "courseTitle": "AGROECOLOGY",
+      "section": "A"
+    }
+  ]
+}

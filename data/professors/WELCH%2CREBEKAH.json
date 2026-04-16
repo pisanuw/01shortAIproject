@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "WELCH%2CREBEKAH",
+  "professor": "WELCH,REBEKAH",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "AUT2025",
+      "course": "COM 200",
+      "courseTitle": "INTRO TO COM",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "SUM2024",
+      "course": "COM 238",
+      "courseTitle": "RHETORIC & POP CLTR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "polisci",
+      "deptName": "Political Science",
+      "term": "SPR2024",
+      "course": "POL S 306",
+      "courseTitle": "MEDIA, SOC & POL ID",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "SPR2024",
+      "course": "COM 306",
+      "courseTitle": "MEDIA, SOC & POL ID",
+      "section": "A"
+    }
+  ]
+}

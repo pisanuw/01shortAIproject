@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Perez%20Orozco%2CDaniela",
+  "professor": "Perez Orozco,Daniela",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "spanish",
+      "deptName": "Spanish",
+      "term": "SPR2026",
+      "course": "SPAN 103",
+      "courseTitle": "ELEMENTARY SPANISH",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "spanish",
+      "deptName": "Spanish",
+      "term": "WIN2026",
+      "course": "SPAN 103",
+      "courseTitle": "ELEMENTARY SPANISH",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "spanish",
+      "deptName": "Spanish",
+      "term": "AUT2025",
+      "course": "SPAN 103",
+      "courseTitle": "ELEMENTARY SPANISH",
+      "section": "C"
+    }
+  ]
+}

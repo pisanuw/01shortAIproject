@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:58Z",
+  "generatedAt": "2026-04-16T02:57:14Z",
   "campus": "S",
   "dept": "dentsl",
   "deptName": "Dental Selectives",
@@ -213,6 +213,36 @@
       "courseTitle": "PEER MENTOR INTERDIS",
       "section": "A",
       "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "dentsl",
+      "deptName": "Dental Selectives",
+      "term": "AUT2022",
+      "course": "DENTSL 655",
+      "courseTitle": "PEER MENTOR INTERDIS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "dentsl",
+      "deptName": "Dental Selectives",
+      "term": "AUT2022",
+      "course": "DENTSL 661",
+      "courseTitle": "DIR STDY GEN DENT 2",
+      "section": "A",
+      "instructor": "Marashi,Andy"
+    },
+    {
+      "campus": "S",
+      "dept": "dentsl",
+      "deptName": "Dental Selectives",
+      "term": "AUT2022",
+      "course": "DENTSL 665",
+      "courseTitle": "DENTAL PHOTOGRAPHY",
+      "section": "A",
+      "instructor": "Wang,Johnny"
     },
     {
       "campus": "S",
@@ -612,7 +642,7 @@
       "course": "DENTSL 665",
       "courseTitle": "DENTAL PHOTOGRAPHY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wang,Johnny"
     },
     {
       "campus": "S",
@@ -622,7 +652,7 @@
       "course": "DENTSL 671",
       "courseTitle": "DIR STDY GEN DENT 3",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Marashi,Andy"
     },
     {
       "campus": "S",
@@ -632,7 +662,7 @@
       "course": "DENTSL 681",
       "courseTitle": "DIR STDY GEN DENT 4",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Marashi,Andy"
     }
   ]
 }

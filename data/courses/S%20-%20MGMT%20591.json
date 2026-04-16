@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20MGMT%20591",
+  "course": "S - MGMT 591",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SPR2025",
+      "course": "MGMT 591",
+      "courseTitle": "SOC FOUND ST MGMT",
+      "section": "A",
+      "instructor": "Boeker,Warren"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2022",
+      "course": "MGMT 591",
+      "courseTitle": "SOC FOUND ST MGMT",
+      "section": "A",
+      "instructor": "Boeker,Warren"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SPR2021",
+      "course": "MGMT 591",
+      "courseTitle": "SOC FOUND ST MGMT",
+      "section": "A",
+      "instructor": "Boeker,Warren"
+    }
+  ]
+}

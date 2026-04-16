@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Seymour%2CJoe",
+  "professor": "Seymour,Joe",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ais",
+      "deptName": "American Indian Studies",
+      "term": "SPR2026",
+      "course": "AIS 375",
+      "courseTitle": "TPCS INDGENOUS STDY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ais",
+      "deptName": "American Indian Studies",
+      "term": "SPR2026",
+      "course": "AIS 253",
+      "courseTitle": "WOOD DESIGN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ais",
+      "deptName": "American Indian Studies",
+      "term": "SPR2021",
+      "course": "AIS 350",
+      "courseTitle": "NWC IND ART/2 DIM",
+      "section": "A"
+    }
+  ]
+}

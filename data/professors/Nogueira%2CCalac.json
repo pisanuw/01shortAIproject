@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Nogueira%2CCalac",
+  "professor": "Nogueira,Calac",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2026",
+      "course": "CMS 397",
+      "courseTitle": "CMS SPECIAL TOPICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "WIN2026",
+      "course": "CMS 397",
+      "courseTitle": "CMS SPECIAL TOPICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "AUT2024",
+      "course": "CMS 240",
+      "courseTitle": "WRITING IN CMS",
+      "section": "A"
+    }
+  ]
+}

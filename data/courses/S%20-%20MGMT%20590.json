@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20MGMT%20590",
+  "course": "S - MGMT 590",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "WIN2025",
+      "course": "MGMT 590",
+      "courseTitle": "ECON FOUND ST MGMT",
+      "section": "A",
+      "instructor": "Hallen,Benjamin L"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "SPR2023",
+      "course": "MGMT 590",
+      "courseTitle": "ECON FOUND ST MGMT",
+      "section": "A",
+      "instructor": "Tan,David"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "AUT2020",
+      "course": "MGMT 590",
+      "courseTitle": "ECON FOUND ST MGMT",
+      "section": "A",
+      "instructor": "Tan,David"
+    }
+  ]
+}

@@ -1,7 +1,2658 @@
 {
-  "generatedAt": "2026-04-15T16:28:01Z",
+  "generatedAt": "2026-04-16T02:57:16Z",
   "campus": "S",
   "dept": "nursingcl",
   "deptName": "Nursing Clinical",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2020",
+      "course": "NCLIN 302",
+      "courseTitle": "HEALTH ASSESSMENT",
+      "section": "A",
+      "instructor": "Chu,Adeline Y-M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2020",
+      "course": "NCLIN 306",
+      "courseTitle": "FND SKILLS PROF NSG",
+      "section": "A",
+      "instructor": "Ali,Yasmin A"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2020",
+      "course": "NCLIN 418",
+      "courseTitle": "PSYCH NSG CLINICAL",
+      "section": "A",
+      "instructor": "Frantz,Laura E"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2020",
+      "course": "NCLIN 422",
+      "courseTitle": "AMB CARE PRACTICUM",
+      "section": "A",
+      "instructor": "Myers,Julie Ann"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2020",
+      "course": "NCLIN 475",
+      "courseTitle": "FND INTERPROF PRACT",
+      "section": "B",
+      "instructor": "Altman,Gaylene"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2020",
+      "course": "NCLIN 500",
+      "courseTitle": "HEALTH ASSESSMENT",
+      "section": "A",
+      "instructor": "Cox,Paula P."
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2020",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "A",
+      "instructor": "Brink,Eliza W."
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2020",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "B",
+      "instructor": "Kozuki,Yoriko"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2020",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "N",
+      "instructor": "Salmon,Marla"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2020",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "C",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2020",
+      "course": "NCLIN 599",
+      "courseTitle": "INDEP CLIN PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2021",
+      "course": "NCLIN 306",
+      "courseTitle": "FND SKILLS PROF NSG",
+      "section": "A",
+      "instructor": "Chu,Ade"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2021",
+      "course": "NCLIN 403",
+      "courseTitle": "PRACTICUM: PED NSG",
+      "section": "A",
+      "instructor": "Ardres,Nicole S"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2021",
+      "course": "NCLIN 409",
+      "courseTitle": "COM HEALTH NURSING",
+      "section": "A",
+      "instructor": "Myers,Julie Ann"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2021",
+      "course": "NCLIN 416",
+      "courseTitle": "PRACT CHILDBEAR/FAM",
+      "section": "A",
+      "instructor": "Rasmussen,Sheryl"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2021",
+      "course": "NCLIN 475",
+      "courseTitle": "FND INTERPROF PRACT",
+      "section": "B",
+      "instructor": "Altman,Gaylene"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2021",
+      "course": "NCLIN 502",
+      "courseTitle": "PEDS HLTH ASSESS",
+      "section": "A",
+      "instructor": "Corlett,Karen"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2021",
+      "course": "NCLIN 567",
+      "courseTitle": "APN CLINICAL",
+      "section": "C",
+      "instructor": "Marks,Jessie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2021",
+      "course": "NCLIN 599",
+      "courseTitle": "INDEP CLIN PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2021",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "B",
+      "instructor": "Frantz,Laura E"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2021",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "C",
+      "instructor": "Marks,Jessie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2021",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "N",
+      "instructor": "Salmon,Marla"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2021",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "A",
+      "instructor": "Tang,Jean"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2021",
+      "course": "NCLIN 306",
+      "courseTitle": "FND SKILLS PROF NSG",
+      "section": "A",
+      "instructor": "Chu,Adeline Y-M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2021",
+      "course": "NCLIN 407",
+      "courseTitle": "PRACTICUM ADULT NSG",
+      "section": "A",
+      "instructor": "Altman,Gaylene"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2021",
+      "course": "NCLIN 411",
+      "courseTitle": "TRANS TO CLIN PRACT",
+      "section": "A",
+      "instructor": "Rasmussen,Sheryl"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2021",
+      "course": "NCLIN 475",
+      "courseTitle": "FND INTERPROF PRACT",
+      "section": "B",
+      "instructor": "Altman,Gaylene"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2021",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "B",
+      "instructor": "Brink,Eliza W."
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2021",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "A",
+      "instructor": "Gerlock,April"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2021",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "L",
+      "instructor": "Howells,she-her, Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2021",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "N",
+      "instructor": "Salmon,Marla"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2021",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "C",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2021",
+      "course": "NCLIN 546",
+      "courseTitle": "WOUND MANAGEMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2021",
+      "course": "NCLIN 567",
+      "courseTitle": "APN CLINICAL",
+      "section": "A",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2021",
+      "course": "NCLIN 599",
+      "courseTitle": "INDEP CLIN PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2021",
+      "course": "NCLIN 499",
+      "courseTitle": "CLINICAL ELECTIVE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2021",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "L",
+      "instructor": "Corlett,Karen"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2021",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "O",
+      "instructor": "Gerlock,April"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2021",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "B",
+      "instructor": "Kozuki-she,her, Yoriko"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2021",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "N",
+      "instructor": "O'Connor,Bridget"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2021",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "C",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2021",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "A",
+      "instructor": "Tang,J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2021",
+      "course": "NCLIN 302",
+      "courseTitle": "HEALTH ASSESSMENT",
+      "section": "A",
+      "instructor": "Chu,Ade"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2021",
+      "course": "NCLIN 306",
+      "courseTitle": "FND SKILLS PROF NSG",
+      "section": "A",
+      "instructor": "Blissitt,Pat"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2021",
+      "course": "NCLIN 418",
+      "courseTitle": "PSYCH NSG CLINICAL",
+      "section": "A",
+      "instructor": "UHART,OLIVIA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2021",
+      "course": "NCLIN 422",
+      "courseTitle": "AMB CARE PRACTICUM",
+      "section": "A",
+      "instructor": "Ardres,Nicole S"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2021",
+      "course": "NCLIN 475",
+      "courseTitle": "FND INTERPROF PRACT",
+      "section": "B",
+      "instructor": "Altman,Gaylene"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2021",
+      "course": "NCLIN 500",
+      "courseTitle": "HEALTH ASSESSMENT",
+      "section": "A",
+      "instructor": "Cox- she,her,Paula"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2021",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "A",
+      "instructor": "Brink,Eliza W."
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2021",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "L",
+      "instructor": "Corlett,Karen"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2021",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "B",
+      "instructor": "Kozuki-she,her, Yoriko"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2021",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "N",
+      "instructor": "Salmon,M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2021",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "C",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2021",
+      "course": "NCLIN 567",
+      "courseTitle": "APN CLINICAL",
+      "section": "B",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2021",
+      "course": "NCLIN 599",
+      "courseTitle": "INDEP CLIN PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2022",
+      "course": "NCLIN 306",
+      "courseTitle": "FND SKILLS PROF NSG",
+      "section": "A",
+      "instructor": "Chu,Ade"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2022",
+      "course": "NCLIN 403",
+      "courseTitle": "PRACTICUM: PED NSG",
+      "section": "A",
+      "instructor": "Ardres,Nicole S"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2022",
+      "course": "NCLIN 409",
+      "courseTitle": "COM HEALTH NURSING",
+      "section": "A",
+      "instructor": "Myers,Julie Ann"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2022",
+      "course": "NCLIN 416",
+      "courseTitle": "PRACT CHILDBEAR/FAM",
+      "section": "A",
+      "instructor": "Rasmussen,Sheryl"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2022",
+      "course": "NCLIN 475",
+      "courseTitle": "FND INTERPROF PRACT",
+      "section": "B",
+      "instructor": "Altman,Gaylene"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2022",
+      "course": "NCLIN 499",
+      "courseTitle": "CLINICAL ELECTIVE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2022",
+      "course": "NCLIN 502",
+      "courseTitle": "PEDS HLTH ASSESS",
+      "section": "A",
+      "instructor": "Marks,Jessie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2022",
+      "course": "NCLIN 567",
+      "courseTitle": "APN CLINICAL",
+      "section": "C",
+      "instructor": "Marks,Jessie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2022",
+      "course": "NCLIN 567",
+      "courseTitle": "APN CLINICAL",
+      "section": "B",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2022",
+      "course": "NCLIN 599",
+      "courseTitle": "INDEP CLIN PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2022",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "B",
+      "instructor": "Frantz,Laura E"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2022",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "L",
+      "instructor": "Howells,she-her,Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2022",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "C",
+      "instructor": "Marks,Jessie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2022",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "N",
+      "instructor": "Salmon,M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2022",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "A",
+      "instructor": "Tang,J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2022",
+      "course": "NCLIN 306",
+      "courseTitle": "FND SKILLS PROF NSG",
+      "section": "A",
+      "instructor": "Chu,Ade"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2022",
+      "course": "NCLIN 407",
+      "courseTitle": "PRACTICUM ADULT NSG",
+      "section": "A",
+      "instructor": "Altman,Gaylene"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2022",
+      "course": "NCLIN 411",
+      "courseTitle": "TRANS TO CLIN PRACT",
+      "section": "A",
+      "instructor": "Rasmussen,S"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2022",
+      "course": "NCLIN 475",
+      "courseTitle": "FND INTERPROF PRACT",
+      "section": "B",
+      "instructor": "Altman,Gaylene"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2022",
+      "course": "NCLIN 499",
+      "courseTitle": "CLINICAL ELECTIVE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2022",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "B",
+      "instructor": "Brink,E"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2022",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "A",
+      "instructor": "Gerlock,A"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2022",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "L",
+      "instructor": "Howells,she-her,Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2022",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "N",
+      "instructor": "Salmon,M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2022",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "C",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2022",
+      "course": "NCLIN 567",
+      "courseTitle": "APN CLINICAL",
+      "section": "A",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2022",
+      "course": "NCLIN 599",
+      "courseTitle": "INDEP CLIN PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2022",
+      "course": "NCLIN 499",
+      "courseTitle": "CLINICAL ELECTIVE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2022",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "L",
+      "instructor": "Corlett,Karen"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2022",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "N",
+      "instructor": "Hosey,Kristen N."
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2022",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "B",
+      "instructor": "Kozuki-she,her, Yoriko"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2022",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "C",
+      "instructor": "Summerour,M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2022",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "A",
+      "instructor": "Tang,J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2022",
+      "course": "NCLIN 567",
+      "courseTitle": "APN CLINICAL",
+      "section": "B",
+      "instructor": "Summerour,M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2022",
+      "course": "NCLIN 302",
+      "courseTitle": "HEALTH ASSESSMENT",
+      "section": "A",
+      "instructor": "Altman,Gaylene"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2022",
+      "course": "NCLIN 306",
+      "courseTitle": "FND SKILLS PROF NSG",
+      "section": "A",
+      "instructor": "Plovie,Barbara A"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2022",
+      "course": "NCLIN 418",
+      "courseTitle": "PSYCH NSG CLINICAL",
+      "section": "A",
+      "instructor": "Frantz she,her,Laura E"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2022",
+      "course": "NCLIN 422",
+      "courseTitle": "AMB CARE PRACTICUM",
+      "section": "A",
+      "instructor": "Ardres,Nicole S"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2022",
+      "course": "NCLIN 475",
+      "courseTitle": "FND INTERPROF PRACT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2022",
+      "course": "NCLIN 499",
+      "courseTitle": "CLINICAL ELECTIVE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2022",
+      "course": "NCLIN 500",
+      "courseTitle": "HEALTH ASSESSMENT",
+      "section": "A",
+      "instructor": "Cox- she,her,Paula"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2022",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "A",
+      "instructor": "Brink,Eliza W"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2022",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "L",
+      "instructor": "Howells,she-her,Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2022",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "B",
+      "instructor": "Kozuki-she,h"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2022",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "N",
+      "instructor": "Salmon,M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2022",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "C",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2022",
+      "course": "NCLIN 599",
+      "courseTitle": "INDEP CLIN PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2023",
+      "course": "NCLIN 306",
+      "courseTitle": "FND SKILLS PROF NSG",
+      "section": "A",
+      "instructor": "Plovie,Barbara A"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2023",
+      "course": "NCLIN 403",
+      "courseTitle": "PRACTICUM: PED NSG",
+      "section": "A",
+      "instructor": "Ardres,Nicole S"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2023",
+      "course": "NCLIN 409",
+      "courseTitle": "COM HEALTH NURSING",
+      "section": "A",
+      "instructor": "Bradywood,Alison Claire"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2023",
+      "course": "NCLIN 416",
+      "courseTitle": "PRACT CHILDBEAR/FAM",
+      "section": "A",
+      "instructor": "Rasmussen,Sheryl"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2023",
+      "course": "NCLIN 475",
+      "courseTitle": "FND INTERPROF PRACT",
+      "section": "B",
+      "instructor": "Kantrowitz-Gordon,Ira"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2023",
+      "course": "NCLIN 499",
+      "courseTitle": "CLINICAL ELECTIVE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2023",
+      "course": "NCLIN 502",
+      "courseTitle": "PEDS HLTH ASSESS",
+      "section": "A",
+      "instructor": "Marks,Jessie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2023",
+      "course": "NCLIN 567",
+      "courseTitle": "APN CLINICAL",
+      "section": "B",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2023",
+      "course": "NCLIN 599",
+      "courseTitle": "INDEP CLIN PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2023",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "C",
+      "instructor": "Agtarap,Sarah R."
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2023",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "B",
+      "instructor": "Frantz she,her,Laura E"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2023",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "A",
+      "instructor": "Gerlock,April"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2023",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "L",
+      "instructor": "Howells,Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2023",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "N",
+      "instructor": "Salmon,M"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2023",
+      "course": "NCLIN 306",
+      "courseTitle": "FND SKILLS PROF NSG",
+      "section": "A",
+      "instructor": "Plovie,Barbara A"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2023",
+      "course": "NCLIN 407",
+      "courseTitle": "PRACTICUM ADULT NSG",
+      "section": "A",
+      "instructor": "Altman,Gaylene"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2023",
+      "course": "NCLIN 411",
+      "courseTitle": "TRANS TO CLIN PRACT",
+      "section": "A",
+      "instructor": "Rasmussen,Sheryl"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2023",
+      "course": "NCLIN 475",
+      "courseTitle": "FND INTERPROF PRACT",
+      "section": "B",
+      "instructor": "Kantrowitz-Gordon,Ira"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2023",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "B",
+      "instructor": "Brink,E"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2023",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "A",
+      "instructor": "Gerlock,A"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2023",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "M",
+      "instructor": "Oliveros,Lena"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2023",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "N",
+      "instructor": "Salmon,Marla"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2023",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "O",
+      "instructor": "Salmon,Marla"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2023",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "C",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2023",
+      "course": "NCLIN 567",
+      "courseTitle": "APN CLINICAL",
+      "section": "A",
+      "instructor": "Oliveros,Lena"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2023",
+      "course": "NCLIN 599",
+      "courseTitle": "INDEP CLIN PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2023",
+      "course": "NCLIN 499",
+      "courseTitle": "CLINICAL ELECTIVE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2023",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "C",
+      "instructor": "Agtarap,Sarah R."
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2023",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "A",
+      "instructor": "Brink,Eliza W"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2023",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "B",
+      "instructor": "Kozuki-she,her, Yoriko"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2023",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "M",
+      "instructor": "Oliveros,Lena"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2023",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "N",
+      "instructor": "Rolfe Witham,Bethany"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2023",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "O",
+      "instructor": "Skene,Julie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2023",
+      "course": "NCLIN 567",
+      "courseTitle": "APN CLINICAL",
+      "section": "B",
+      "instructor": "Oliveros,Lena"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2023",
+      "course": "NCLIN 599",
+      "courseTitle": "INDEP CLIN PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2023",
+      "course": "NCLIN 302",
+      "courseTitle": "HEALTH ASSESSMENT",
+      "section": "A",
+      "instructor": "Altman,Gaylene"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2023",
+      "course": "NCLIN 306",
+      "courseTitle": "FND SKILLS PROF NSG",
+      "section": "A",
+      "instructor": "Plovie,Barbara A"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2023",
+      "course": "NCLIN 418",
+      "courseTitle": "PSYCH NSG CLINICAL",
+      "section": "A",
+      "instructor": "Frantz she,her,Laura E"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2023",
+      "course": "NCLIN 475",
+      "courseTitle": "FND INTERPROF PRACT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2023",
+      "course": "NCLIN 499",
+      "courseTitle": "CLINICAL ELECTIVE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2023",
+      "course": "NCLIN 500",
+      "courseTitle": "HEALTH ASSESSMENT",
+      "section": "A",
+      "instructor": "Cox- she,her,Paula"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2023",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "A",
+      "instructor": "Brink,Eliza W"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2023",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "B",
+      "instructor": "Kozuki-she,her, Yoriko"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2023",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "N",
+      "instructor": "Salmon,Marla"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2023",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "O",
+      "instructor": "Skene,Julie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2023",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "M",
+      "instructor": "Tumulty,Tara"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2023",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "C",
+      "instructor": "Underwood,Lindsay F"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2023",
+      "course": "NCLIN 599",
+      "courseTitle": "INDEP CLIN PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2024",
+      "course": "NCLIN 306",
+      "courseTitle": "FND SKILLS PROF NSG",
+      "section": "A",
+      "instructor": "Plovie,Barbara A"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2024",
+      "course": "NCLIN 403",
+      "courseTitle": "PRACTICUM: PED NSG",
+      "section": "A",
+      "instructor": "Ardres,Nicole S"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2024",
+      "course": "NCLIN 409",
+      "courseTitle": "COM HEALTH NURSING",
+      "section": "A",
+      "instructor": "Kaneshiro,Jasmine"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2024",
+      "course": "NCLIN 416",
+      "courseTitle": "PRACT CHILDBEAR/FAM",
+      "section": "A",
+      "instructor": "Rasmussen,Sheryl"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2024",
+      "course": "NCLIN 475",
+      "courseTitle": "FND INTERPROF PRACT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2024",
+      "course": "NCLIN 499",
+      "courseTitle": "CLINICAL ELECTIVE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2024",
+      "course": "NCLIN 502",
+      "courseTitle": "PEDS HLTH ASSESS",
+      "section": "A",
+      "instructor": "Oliveros,Lena"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2024",
+      "course": "NCLIN 599",
+      "courseTitle": "INDEP CLIN PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2024",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "C",
+      "instructor": "Agtarap,Sarah R."
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2024",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "B",
+      "instructor": "Frantz she,her,Laura E"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2024",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "M",
+      "instructor": "Howells,Amy J"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2024",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "N",
+      "instructor": "Salmon,Marla"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2024",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "O",
+      "instructor": "Salmon,Marla"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2024",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "A",
+      "instructor": "Tang,Jean"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2024",
+      "course": "NCLIN 306",
+      "courseTitle": "FND SKILLS PROF NSG",
+      "section": "A",
+      "instructor": "Plovie,Barbara A"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2024",
+      "course": "NCLIN 407",
+      "courseTitle": "PRACTICUM ADULT NSG",
+      "section": "A",
+      "instructor": "Altman,Gaylene"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2024",
+      "course": "NCLIN 411",
+      "courseTitle": "TRANS TO CLIN PRACT",
+      "section": "A",
+      "instructor": "Rasmussen,Sheryl"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2024",
+      "course": "NCLIN 475",
+      "courseTitle": "FND INTERPROF PRACT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2024",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "B",
+      "instructor": "Brink,Eliza W"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2024",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "O",
+      "instructor": "Frantz she,her,Laura E"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2024",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "A",
+      "instructor": "Gerlock,April"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2024",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "N",
+      "instructor": "Rolfe Witham,Bethany"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2024",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "C",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2024",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "M",
+      "instructor": "Underwood,Lindsay F"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2024",
+      "course": "NCLIN 567",
+      "courseTitle": "APN CLINICAL",
+      "section": "A",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2024",
+      "course": "NCLIN 599",
+      "courseTitle": "INDEP CLIN PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2024",
+      "course": "NCLIN 499",
+      "courseTitle": "CLINICAL ELECTIVE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2024",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "C",
+      "instructor": "Agtarap,Sarah R."
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2024",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "O",
+      "instructor": "Jajesnica,Jessica Lee"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2024",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "B",
+      "instructor": "Kozuki-she,her, Yoriko"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2024",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "M",
+      "instructor": "Oliveros,Lena"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2024",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "N",
+      "instructor": "Rolfe Witham,Bethany"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2024",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "A",
+      "instructor": "Tang,Jean"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2024",
+      "course": "NCLIN 567",
+      "courseTitle": "APN CLINICAL",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2024",
+      "course": "NCLIN 302",
+      "courseTitle": "HEALTH ASSESSMENT",
+      "section": "A",
+      "instructor": "Altman,Gaylene"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2024",
+      "course": "NCLIN 306",
+      "courseTitle": "FND SKILLS PROF NSG",
+      "section": "A",
+      "instructor": "Plovie,Barbara A"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2024",
+      "course": "NCLIN 418",
+      "courseTitle": "PSYCH NSG CLINICAL",
+      "section": "A",
+      "instructor": "Hogan,Jenn"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2024",
+      "course": "NCLIN 475",
+      "courseTitle": "FND INTERPROF PRACT",
+      "section": "B",
+      "instructor": "Kim,Eunjung"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2024",
+      "course": "NCLIN 499",
+      "courseTitle": "CLINICAL ELECTIVE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2024",
+      "course": "NCLIN 500",
+      "courseTitle": "HEALTH ASSESSMENT",
+      "section": "A",
+      "instructor": "Cox- she,her,Paula"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2024",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "A",
+      "instructor": "Brink,Eliza W"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2024",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "O",
+      "instructor": "Frantz she,her,Laura E"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2024",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "B",
+      "instructor": "Kozuki-she,her, Yoriko"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2024",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "N",
+      "instructor": "Record,Sydney"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2024",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "M",
+      "instructor": "Tumulty,Tara"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2024",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "C",
+      "instructor": "Underwood,Lindsay F"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2024",
+      "course": "NCLIN 599",
+      "courseTitle": "INDEP CLIN PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2025",
+      "course": "NCLIN 306",
+      "courseTitle": "FND SKILLS PROF NSG",
+      "section": "A",
+      "instructor": "Plovie,Barbara A"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2025",
+      "course": "NCLIN 403",
+      "courseTitle": "PRACTICUM: PED NSG",
+      "section": "A",
+      "instructor": "Ardres,Nicole S"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2025",
+      "course": "NCLIN 409",
+      "courseTitle": "COM HEALTH NURSING",
+      "section": "A",
+      "instructor": "Kaneshiro,Jasmine"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2025",
+      "course": "NCLIN 416",
+      "courseTitle": "PRACT CHILDBEAR/FAM",
+      "section": "A",
+      "instructor": "Rasmussen,Sheryl"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2025",
+      "course": "NCLIN 475",
+      "courseTitle": "FND INTERPROF PRACT",
+      "section": "B",
+      "instructor": "Willgerodt,Mayumi"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2025",
+      "course": "NCLIN 499",
+      "courseTitle": "CLINICAL ELECTIVE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2025",
+      "course": "NCLIN 502",
+      "courseTitle": "PEDS HLTH ASSESS",
+      "section": "A",
+      "instructor": "Oliveros,Lena"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2025",
+      "course": "NCLIN 567",
+      "courseTitle": "APN CLINICAL",
+      "section": "A",
+      "instructor": "Tang,Jean"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2025",
+      "course": "NCLIN 599",
+      "courseTitle": "INDEP CLIN PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2025",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "C",
+      "instructor": "Agtarap,Sarah R."
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2025",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "M",
+      "instructor": "Corlett,Karen"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2025",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "B",
+      "instructor": "Frantz she,her,Laura E"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2025",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "O",
+      "instructor": "Kozuki-she,her, Yoriko"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2025",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "N",
+      "instructor": "Record,Sydney"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2025",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "A",
+      "instructor": "Tang,Jean"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2025",
+      "course": "NCLIN 306",
+      "courseTitle": "FND SKILLS PROF NSG",
+      "section": "A",
+      "instructor": "Plovie,Barbara A"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2025",
+      "course": "NCLIN 407",
+      "courseTitle": "PRACTICUM ADULT NSG",
+      "section": "A",
+      "instructor": "Altman,Gaylene"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2025",
+      "course": "NCLIN 411",
+      "courseTitle": "TRANS TO CLIN PRACT",
+      "section": "A",
+      "instructor": "Rasmussen,Sheryl"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2025",
+      "course": "NCLIN 475",
+      "courseTitle": "FND INTERPROF PRACT",
+      "section": "B",
+      "instructor": "Kim,Eunjung"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2025",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "B",
+      "instructor": "Frantz she,her,Laura E"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2025",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "A",
+      "instructor": "Gerlock,April"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2025",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "O",
+      "instructor": "Kozuki-she,her, Yoriko"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2025",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "M",
+      "instructor": "Oliveros,Lena"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2025",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "N",
+      "instructor": "Rolfe Witham,Bethany"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2025",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "C",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2025",
+      "course": "NCLIN 567",
+      "courseTitle": "APN CLINICAL",
+      "section": "A",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2025",
+      "course": "NCLIN 599",
+      "courseTitle": "INDEP CLIN PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2025",
+      "course": "NCLIN 499",
+      "courseTitle": "CLINICAL ELECTIVE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2025",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "C",
+      "instructor": "Agtarap,Sarah R."
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2025",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "M",
+      "instructor": "Foster,Carrie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2025",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "A",
+      "instructor": "Kozuki-she,her, Yoriko"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2025",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "N",
+      "instructor": "Rolfe Witham,Bethany"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SUM2025",
+      "course": "NCLIN 517",
+      "courseTitle": "ADV CLIN PRACT II",
+      "section": "B",
+      "instructor": "Tang,Jean"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2025",
+      "course": "NCLIN 302",
+      "courseTitle": "HEALTH ASSESSMENT",
+      "section": "A",
+      "instructor": "Altman,Gaylene"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2025",
+      "course": "NCLIN 306",
+      "courseTitle": "FND SKILLS PROF NSG",
+      "section": "A",
+      "instructor": "Kamp,Kendra"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2025",
+      "course": "NCLIN 418",
+      "courseTitle": "PSYCH NSG CLINICAL",
+      "section": "A",
+      "instructor": "Hogan,Jenn"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2025",
+      "course": "NCLIN 475",
+      "courseTitle": "FND INTERPROF PRACT",
+      "section": "B",
+      "instructor": "Wolpin,Seth"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2025",
+      "course": "NCLIN 500",
+      "courseTitle": "HEALTH ASSESSMENT",
+      "section": "A",
+      "instructor": "Cox- she,her,Paula"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2025",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "B",
+      "instructor": "Brink,Eliza W"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2025",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "A",
+      "instructor": "Frantz she,her,Laura E"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2025",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "C",
+      "instructor": "Oliveros,Lena"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2025",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "N",
+      "instructor": "Record,Sydney"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2025",
+      "course": "NCLIN 518",
+      "courseTitle": "ADV CLIN PRACT III",
+      "section": "M",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "AUT2025",
+      "course": "NCLIN 599",
+      "courseTitle": "INDEP CLIN PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2026",
+      "course": "NCLIN 306",
+      "courseTitle": "FND SKILLS PROF NSG",
+      "section": "A",
+      "instructor": "Kamp,Kendra"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2026",
+      "course": "NCLIN 403",
+      "courseTitle": "PRACTICUM: PED NSG",
+      "section": "A",
+      "instructor": "Ardres,Nicole S"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2026",
+      "course": "NCLIN 409",
+      "courseTitle": "COM HEALTH NURSING",
+      "section": "A",
+      "instructor": "Kaneshiro,Jasmine"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2026",
+      "course": "NCLIN 416",
+      "courseTitle": "PRACT CHILDBEAR/FAM",
+      "section": "A",
+      "instructor": "Rasmussen,Sheryl"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2026",
+      "course": "NCLIN 475",
+      "courseTitle": "FND INTERPROF PRACT",
+      "section": "B",
+      "instructor": "Wolpin,Seth"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2026",
+      "course": "NCLIN 502",
+      "courseTitle": "PEDS HLTH ASSESS",
+      "section": "A",
+      "instructor": "Oliveros,Lena"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2026",
+      "course": "NCLIN 599",
+      "courseTitle": "INDEP CLIN PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2026",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "B",
+      "instructor": "Frantz she,her,Laura E"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2026",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "A",
+      "instructor": "Jajesnica,Jessica Lee"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2026",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "N",
+      "instructor": "Record,Sydney"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2026",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "C",
+      "instructor": "Tumulty,Tara"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "WIN2026",
+      "course": "NCLIN 801",
+      "courseTitle": "CLIN PRAC IMMERSION",
+      "section": "M",
+      "instructor": "Underwood,Lindsay F"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2026",
+      "course": "NCLIN 306",
+      "courseTitle": "FND SKILLS PROF NSG",
+      "section": "A",
+      "instructor": "Kamp,Kendra"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2026",
+      "course": "NCLIN 407",
+      "courseTitle": "PRACTICUM ADULT NSG",
+      "section": "A",
+      "instructor": "Altman,Gaylene"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2026",
+      "course": "NCLIN 411",
+      "courseTitle": "TRANS TO CLIN PRACT",
+      "section": "A",
+      "instructor": "EB"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2026",
+      "course": "NCLIN 475",
+      "courseTitle": "FND INTERPROF PRACT",
+      "section": "B",
+      "instructor": "Wolpin,Seth"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2026",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "A",
+      "instructor": "Brink,Eliza W"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2026",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "B",
+      "instructor": "Jajesnica,Jessica Lee"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2026",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "N",
+      "instructor": "Record,Sydney"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2026",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "C",
+      "instructor": "Tumulty,Tara"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2026",
+      "course": "NCLIN 516",
+      "courseTitle": "ADV CLIN PRACT I",
+      "section": "M",
+      "instructor": "Underwood,Lindsay F"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2026",
+      "course": "NCLIN 567",
+      "courseTitle": "APN CLINICAL",
+      "section": "A",
+      "instructor": "Summerour,Melanie"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2026",
+      "course": "NCLIN 579",
+      "courseTitle": "CLN PRCT SX/REP HLTH",
+      "section": "B",
+      "instructor": "Ellis,Simon Adriane"
+    },
+    {
+      "campus": "S",
+      "dept": "nursingcl",
+      "deptName": "Nursing Clinical",
+      "term": "SPR2026",
+      "course": "NCLIN 599",
+      "courseTitle": "INDEP CLIN PRACT",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
 }

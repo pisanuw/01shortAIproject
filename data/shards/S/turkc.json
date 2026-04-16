@@ -1,7 +1,578 @@
 {
-  "generatedAt": "2026-04-15T16:27:57Z",
+  "generatedAt": "2026-04-16T02:57:12Z",
   "campus": "S",
   "dept": "turkc",
   "deptName": "Turkic",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "AUT2020",
+      "course": "TURKIC 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "AUT2020",
+      "course": "TURKIC 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "AUT2020",
+      "course": "TURKIC 600",
+      "courseTitle": "INDEPNDNT STDY/RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "WIN2021",
+      "course": "TURKIC 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "WIN2021",
+      "course": "TURKIC 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "WIN2021",
+      "course": "TURKIC 600",
+      "courseTitle": "INDEPNDNT STDY/RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "SPR2021",
+      "course": "TURKIC 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "SPR2021",
+      "course": "TURKIC 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "SPR2021",
+      "course": "TURKIC 600",
+      "courseTitle": "INDEPNDNT STDY/RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "SUM2021",
+      "course": "TURKIC 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "SUM2021",
+      "course": "TURKIC 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "SUM2021",
+      "course": "TURKIC 600",
+      "courseTitle": "INDEPNDNT STDY/RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "AUT2021",
+      "course": "TURKIC 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "AUT2021",
+      "course": "TURKIC 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "AUT2021",
+      "course": "TURKIC 600",
+      "courseTitle": "INDEPNDNT STDY/RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "WIN2022",
+      "course": "TURKIC 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "WIN2022",
+      "course": "TURKIC 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "WIN2022",
+      "course": "TURKIC 600",
+      "courseTitle": "INDEPNDNT STDY/RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "SPR2022",
+      "course": "TURKIC 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "SPR2022",
+      "course": "TURKIC 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "SPR2022",
+      "course": "TURKIC 600",
+      "courseTitle": "INDEPNDNT STDY/RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "AUT2022",
+      "course": "TURKIC 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "AUT2022",
+      "course": "TURKIC 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "AUT2022",
+      "course": "TURKIC 600",
+      "courseTitle": "INDEPNDNT STDY/RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "WIN2023",
+      "course": "TURKIC 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "WIN2023",
+      "course": "TURKIC 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "WIN2023",
+      "course": "TURKIC 600",
+      "courseTitle": "INDEPNDNT STDY/RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "SPR2023",
+      "course": "TURKIC 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "SPR2023",
+      "course": "TURKIC 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "SPR2023",
+      "course": "TURKIC 600",
+      "courseTitle": "INDEPNDNT STDY/RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "AUT2023",
+      "course": "TURKIC 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "AUT2023",
+      "course": "TURKIC 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "AUT2023",
+      "course": "TURKIC 600",
+      "courseTitle": "INDEPNDNT STDY/RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "WIN2024",
+      "course": "TURKIC 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "WIN2024",
+      "course": "TURKIC 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "WIN2024",
+      "course": "TURKIC 600",
+      "courseTitle": "INDEPNDNT STDY/RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "SPR2024",
+      "course": "TURKIC 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "SPR2024",
+      "course": "TURKIC 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "SPR2024",
+      "course": "TURKIC 600",
+      "courseTitle": "INDEPNDNT STDY/RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "AUT2024",
+      "course": "TURKIC 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "AUT2024",
+      "course": "TURKIC 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "AUT2024",
+      "course": "TURKIC 600",
+      "courseTitle": "INDEPNDNT STDY/RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "WIN2025",
+      "course": "TURKIC 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "WIN2025",
+      "course": "TURKIC 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "WIN2025",
+      "course": "TURKIC 600",
+      "courseTitle": "INDEPNDNT STDY/RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "SPR2025",
+      "course": "TURKIC 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "SPR2025",
+      "course": "TURKIC 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "SPR2025",
+      "course": "TURKIC 600",
+      "courseTitle": "INDEPNDNT STDY/RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "AUT2025",
+      "course": "TURKIC 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "AUT2025",
+      "course": "TURKIC 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "AUT2025",
+      "course": "TURKIC 600",
+      "courseTitle": "INDEPNDNT STDY/RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "WIN2026",
+      "course": "TURKIC 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "WIN2026",
+      "course": "TURKIC 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "WIN2026",
+      "course": "TURKIC 600",
+      "courseTitle": "INDEPNDNT STDY/RES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "SPR2026",
+      "course": "TURKIC 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "SPR2026",
+      "course": "TURKIC 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "turkc",
+      "deptName": "Turkic",
+      "term": "SPR2026",
+      "course": "TURKIC 600",
+      "courseTitle": "INDEPNDNT STDY/RES",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
 }

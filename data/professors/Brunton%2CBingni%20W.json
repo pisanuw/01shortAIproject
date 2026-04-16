@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Brunton%2CBingni%20W",
+  "professor": "Brunton,Bingni W",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "SPR2021",
+      "course": "BIOL 511",
+      "courseTitle": "TOPICS IN MATH BIO",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "WIN2021",
+      "course": "BIOL 581",
+      "courseTitle": "TOPICS IN PHYSIO",
+      "section": "H"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "WIN2021",
+      "course": "BIOL 461",
+      "courseTitle": "NEUROBIOLOGY",
+      "section": "A"
+    }
+  ]
+}

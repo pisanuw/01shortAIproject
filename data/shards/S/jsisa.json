@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:56Z",
+  "generatedAt": "2026-04-16T02:57:12Z",
   "campus": "S",
   "dept": "jsisa",
   "deptName": "International Studies Area Studies",
@@ -918,6 +918,26 @@
       "campus": "S",
       "dept": "jsisa",
       "deptName": "International Studies Area Studies",
+      "term": "SUM2021",
+      "course": "JSIS A 210",
+      "courseTitle": "ISLAMIC CIVILZATION",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SUM2021",
+      "course": "JSIS A 405",
+      "courseTitle": "SOC CHANGE E ASIA",
+      "section": "A",
+      "instructor": "Arai,Andrea Gevurtz"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
       "term": "AUT2021",
       "course": "JSIS A 110",
       "courseTitle": "INTRO RUSS CUL/CIV",
@@ -962,7 +982,7 @@
       "course": "JSIS A 302",
       "courseTitle": "POLTIC/CULTURES EUR",
       "section": "A",
-      "instructor": "Lang,Sabine"
+      "instructor": "B Lang,Sabine"
     },
     {
       "campus": "S",
@@ -1512,7 +1532,297 @@
       "course": "JSIS A 588",
       "courseTitle": "MAKING MODERN TAIWAN",
       "section": "A",
-      "instructor": "Lin,James"
+      "instructor": "E Lin,James"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 207",
+      "courseTitle": "ASIA CIVS-TRADTIONS",
+      "section": "A",
+      "instructor": "Porter,Deborah"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 213",
+      "courseTitle": "KOREA/WRLD POLITICS",
+      "section": "A",
+      "instructor": "Ha,Yong-Chool"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 224",
+      "courseTitle": "HIST & FUTR OF TEXTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 244",
+      "courseTitle": "IMP & ANTI-COL ASIA",
+      "section": "A",
+      "instructor": "Giebel,Christoph"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 301",
+      "courseTitle": "EUROPE TODAY",
+      "section": "A",
+      "instructor": "Lang,Sabine"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 314",
+      "courseTitle": "HIST ISRAEL PALESTIN",
+      "section": "A",
+      "instructor": "Halperin,Liora R."
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 317",
+      "courseTitle": "HISTORY BY BOLLYWOOD",
+      "section": "A",
+      "instructor": "Yang,Anand A"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 327",
+      "courseTitle": "CHINA & THE WEST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 339",
+      "courseTitle": "SOCL MOVEMENT INDIA",
+      "section": "A",
+      "instructor": "Ramamurthy,Priti"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 345",
+      "courseTitle": "BALTIC CULTURES",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 349",
+      "courseTitle": "MIGRTN IN MEDTRN",
+      "section": "A",
+      "instructor": "Klapaki,Nektaria"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 354",
+      "courseTitle": "NARCOCULTURE",
+      "section": "A",
+      "instructor": "Freije,Vanessa"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 362",
+      "courseTitle": "POL ECON OF AFRICA",
+      "section": "A",
+      "instructor": "Long,James D"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 402",
+      "courseTitle": "MID EAST IN MOD WLD",
+      "section": "A",
+      "instructor": "Kasaba,Resat"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 424",
+      "courseTitle": "JAPAN SINCE 20TH CEN",
+      "section": "A",
+      "instructor": "Metzler,M"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 432",
+      "courseTitle": "HIST JAPANESE EMPIRE",
+      "section": "A",
+      "instructor": "Jun,Hajin"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 459",
+      "courseTitle": "US-CHINA RELATIONS",
+      "section": "A",
+      "instructor": "Bachman,David M"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 463",
+      "courseTitle": "TOPICS-SE ASIAN HST",
+      "section": "A",
+      "instructor": "Giebel,Christoph"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 465",
+      "courseTitle": "INTL HUMANITARN LAW",
+      "section": "A",
+      "instructor": "Lorenz,Frederick Michael"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 468",
+      "courseTitle": "RUSSIA INTL SEC SYST",
+      "section": "A",
+      "instructor": "Jones,Christopher D"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 492",
+      "courseTitle": "LATAM STUDIES SEM",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 494",
+      "courseTitle": "EURO SENIOR SEMINAR",
+      "section": "A",
+      "instructor": "Klapaki,Nektaria"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 522",
+      "courseTitle": "SM-INTRDSP ST CHINA",
+      "section": "A",
+      "instructor": "Dong,Madeleine Y."
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 531",
+      "courseTitle": "SOCL MOVEMENT INDIA",
+      "section": "A",
+      "instructor": "Ramamurthy,Priti"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 532",
+      "courseTitle": "CHINA-POL SYSTEMS",
+      "section": "A",
+      "instructor": "Whiting,Susan H"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 535",
+      "courseTitle": "MODERN CHINA-IR",
+      "section": "A",
+      "instructor": "Bachman,David M"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 546",
+      "courseTitle": "SEM MID EAST STDIES",
+      "section": "A",
+      "instructor": "Robinson,Cabeiri Debergh"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 553",
+      "courseTitle": "ASIAN FINANC SYSTS",
+      "section": "A",
+      "instructor": "Anchordoguy,Marie C"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "SPR2022",
+      "course": "JSIS A 568",
+      "courseTitle": "RUSSIA &INTL SYSTEM",
+      "section": "A",
+      "instructor": "Jones,Christopher D"
     },
     {
       "campus": "S",
@@ -1533,6 +1843,256 @@
       "courseTitle": "SOC CHANGE E ASIA",
       "section": "A",
       "instructor": "Arai,Andrea Gevurtz"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 110",
+      "courseTitle": "INTRO RUSS CUL/CIV",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 212",
+      "courseTitle": "HIST OF KOREAN CIV",
+      "section": "A",
+      "instructor": "Jun,Hajin"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 242",
+      "courseTitle": "INTRO CONTEMP JAPAN",
+      "section": "A",
+      "instructor": "Anchordoguy,Marie C"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 260",
+      "courseTitle": "FASHION NATION CLTR",
+      "section": "A",
+      "instructor": "Gaylard,Susan L"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 270",
+      "courseTitle": "NAT PEOPLE NW COAST",
+      "section": "A",
+      "instructor": "McCarthy,Justin A"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 302",
+      "courseTitle": "POLTIC/CULTURES EUR",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 314",
+      "courseTitle": "HIST ISRAEL PALESTIN",
+      "section": "A",
+      "instructor": "Halperin,Liora R."
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 327",
+      "courseTitle": "CHINA & THE WEST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 360",
+      "courseTitle": "CONTEMPORARY SPAIN",
+      "section": "A",
+      "instructor": "Raneda-Cuartero,Inma M"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 365",
+      "courseTitle": "LUSO-BRAZILIAN CULTU",
+      "section": "A",
+      "instructor": "Silva,Eduardo Viana Da"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 405",
+      "courseTitle": "SOC CHANGE E ASIA",
+      "section": "A",
+      "instructor": "Arai,Andrea Gevurtz"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 423",
+      "courseTitle": "ORIGINS MODERN JAPAN",
+      "section": "A",
+      "instructor": "Metzler,M"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 430",
+      "courseTitle": "SOVIET EMPIRE",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 437",
+      "courseTitle": "JAPAN INTL RELATNS",
+      "section": "A",
+      "instructor": "Pekkanen,S"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 448",
+      "courseTitle": "MOD KOREAN SOCIETY",
+      "section": "A",
+      "instructor": "Sorensen,C"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 472",
+      "courseTitle": "SCI TECH E ASIA",
+      "section": "A",
+      "instructor": "Anchordoguy,Marie C"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 494",
+      "courseTitle": "EURO SENIOR SEMINAR",
+      "section": "A",
+      "instructor": "Jones,Christopher D"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 508",
+      "courseTitle": "INTERDIS STUDY SA I",
+      "section": "A",
+      "instructor": "Yang,Anand A"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 521",
+      "courseTitle": "SM-INTRDSP ST CHINA",
+      "section": "A",
+      "instructor": "Bachman,David M"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 530",
+      "courseTitle": "SOVIET EMPIRE",
+      "section": "A",
+      "instructor": "Jones,Christopher D"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 537",
+      "courseTitle": "JAPAN INTL RELATNS",
+      "section": "A",
+      "instructor": "Pekkanen,S"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 544",
+      "courseTitle": "SEM MID EAST STDIES",
+      "section": "A",
+      "instructor": "Robinson,C"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 555",
+      "courseTitle": "INTRO JAPAN STUDIES",
+      "section": "A",
+      "instructor": "Pekkanen,Robert J"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 581",
+      "courseTitle": "SCI TECH E ASIA",
+      "section": "A",
+      "instructor": "Anchordoguy,Marie C"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2022",
+      "course": "JSIS A 584",
+      "courseTitle": "SURVEY KOREAN SOC",
+      "section": "A",
+      "instructor": "Sorensen,C"
     },
     {
       "campus": "S",
@@ -1762,7 +2322,7 @@
       "course": "JSIS A 490",
       "courseTitle": "EASTERN EUROPE GOVT",
       "section": "A",
-      "instructor": "Pierobon,Chiara"
+      "instructor": "B Pierobon,Chiara"
     },
     {
       "campus": "S",
@@ -2133,6 +2693,616 @@
       "courseTitle": "FILIPINO HISTORIES",
       "section": "B",
       "instructor": "JA"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 212",
+      "courseTitle": "HIST OF KOREAN CIV",
+      "section": "A",
+      "instructor": "Jun,Hajin"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 268",
+      "courseTitle": "SILK ROAD & GLBLZTN",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 270",
+      "courseTitle": "NAT PEOPLE NW COAST",
+      "section": "A",
+      "instructor": "McCarthy,Justin A"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 302",
+      "courseTitle": "POLTIC/CULTURES EUR",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 354",
+      "courseTitle": "NARCOCULTURE",
+      "section": "A",
+      "instructor": "Freije,Vanessa"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 357",
+      "courseTitle": "CLTR CNTRL/INR ASIA",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 360",
+      "courseTitle": "CONTEMPORARY SPAIN",
+      "section": "A",
+      "instructor": "Raneda-Cuartero,Inma M"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 365",
+      "courseTitle": "LUSO-BRAZILIAN CULTU",
+      "section": "A",
+      "instructor": "Silva,Eduardo Viana Da"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 405",
+      "courseTitle": "SOC CHANGE E ASIA",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 408",
+      "courseTitle": "GOVT & POL-CHINA",
+      "section": "A",
+      "instructor": "Whiting,Susan H"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 423",
+      "courseTitle": "ORIGINS MODERN JAPAN",
+      "section": "A",
+      "instructor": "Metzler,M"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 430",
+      "courseTitle": "SOVIET EMPIRE",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 431",
+      "courseTitle": "DEMOGRAPHIC ASIA",
+      "section": "A",
+      "instructor": "Lavely,William R"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 436",
+      "courseTitle": "POLIT PARTIES JAPAN",
+      "section": "A",
+      "instructor": "Pekkanen,Robert J"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 437",
+      "courseTitle": "JAPAN INTL RELATNS",
+      "section": "A",
+      "instructor": "Pekkanen,Saadia M."
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 442",
+      "courseTitle": "WAR/OCCUPATN N. EUR",
+      "section": "A",
+      "instructor": "A Stecher-Hansen,Marianne"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 448",
+      "courseTitle": "MOD KOREAN SOCIETY",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 455",
+      "courseTitle": "BALTIC POL & SOC",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 473",
+      "courseTitle": "POL ECON JAPAN",
+      "section": "A",
+      "instructor": "Anchordoguy,Marie C"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 492",
+      "courseTitle": "LATAM STUDIES SEM",
+      "section": "A",
+      "instructor": "Freije,Vanessa"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 495",
+      "courseTitle": "EURO STUDIES THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 504",
+      "courseTitle": "SURVEY OF EURASIA",
+      "section": "A",
+      "instructor": "Radnitz,Scott B."
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 506",
+      "courseTitle": "S EAST ASIA STUDIES",
+      "section": "A",
+      "instructor": "Lowe,Celia"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 521",
+      "courseTitle": "SM-INTRDSP ST CHINA",
+      "section": "A",
+      "instructor": "Bachman,David M"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 530",
+      "courseTitle": "SOVIET EMPIRE",
+      "section": "A",
+      "instructor": "Jones,Christopher D"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 536",
+      "courseTitle": "POLIT PARTIES JAPAN",
+      "section": "A",
+      "instructor": "Pekkanen,Robert J"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 537",
+      "courseTitle": "JAPAN INTL RELATNS",
+      "section": "A",
+      "instructor": "Pekkanen,Saadia M."
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 555",
+      "courseTitle": "INTRO JAPAN STUDIES",
+      "section": "A",
+      "instructor": "Anchordoguy,Marie C"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 573",
+      "courseTitle": "POL ECON JAPAN",
+      "section": "A",
+      "instructor": "Anchordoguy,Marie C"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2023",
+      "course": "JSIS A 584",
+      "courseTitle": "SURVEY KOREAN SOC",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 205",
+      "courseTitle": "FILIPINO HISTORIES",
+      "section": "A",
+      "instructor": "WJA"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 207",
+      "courseTitle": "ASIA CIVS-TRADTIONS",
+      "section": "A",
+      "instructor": "Porter,Deborah"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 210",
+      "courseTitle": "ISLAMIC CULTURES",
+      "section": "A",
+      "instructor": "Bandy,Hunter C"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 239",
+      "courseTitle": "GREECE ANCNT TO MODN",
+      "section": "A",
+      "instructor": "Klapaki,Nektaria"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 242",
+      "courseTitle": "INTRO CONTEMP JAPAN",
+      "section": "A",
+      "instructor": "Pekkanen,Robert J"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 251",
+      "courseTitle": "MOD EUR:FRENC REV-EU",
+      "section": "A",
+      "instructor": "Felak,James R"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 254",
+      "courseTitle": "MOD CHINA: 3 REVOLUT",
+      "section": "A",
+      "instructor": "Dong,Madeleine Y."
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 260",
+      "courseTitle": "FASHION NATION CLTR",
+      "section": "A",
+      "instructor": "Gaylard,Susan L"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 265",
+      "courseTitle": "THE VIET NAM WARS",
+      "section": "A",
+      "instructor": "Giebel,Christoph"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 305",
+      "courseTitle": "CHANGING GENERATNS",
+      "section": "A",
+      "instructor": "Arai,Andrea Gevurtz"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 305",
+      "courseTitle": "CHANGING GENERATNS",
+      "section": "B",
+      "instructor": "Arai,Andrea Gevurtz"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 314",
+      "courseTitle": "HIST ISRAEL PALESTIN",
+      "section": "A",
+      "instructor": "Ben-Natan,Smadar"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 324",
+      "courseTitle": "HUMAN RIGHTS LAT AM",
+      "section": "A",
+      "instructor": "Godoy,Angelina Snodgrass"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 362",
+      "courseTitle": "POL ECON OF AFRICA",
+      "section": "A",
+      "instructor": "ZHU,DANWEI"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 409",
+      "courseTitle": "20TH CENTURY INDIA",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 416",
+      "courseTitle": "NATO",
+      "section": "A",
+      "instructor": "Jones,Christopher D"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 424",
+      "courseTitle": "JAPAN SINCE 20TH CEN",
+      "section": "A",
+      "instructor": "Metzler,M"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 427",
+      "courseTitle": "ANTH POST-SOVIET",
+      "section": "A",
+      "instructor": "Bilaniuk,Laada M"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 441",
+      "courseTitle": "QUEBECOIS LIT",
+      "section": "A",
+      "instructor": "Meyer,Hedwige"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 466",
+      "courseTitle": "COMPAR POL KOREA ST",
+      "section": "A",
+      "instructor": "Ha,Yong-Chool"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 490",
+      "courseTitle": "EASTERN EUROPE GOVT",
+      "section": "A",
+      "instructor": "Pierobon,Chiara"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 509",
+      "courseTitle": "INTERDIS STUDY SAII",
+      "section": "A",
+      "instructor": "Govindrajan,Radhika"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 512",
+      "courseTitle": "RUSS/E EUR CAPSTONE",
+      "section": "A",
+      "instructor": "Radnitz,Scott B."
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 515",
+      "courseTitle": "REECAS THESIS SEM II",
+      "section": "A",
+      "instructor": "Lyon,Philip"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 516",
+      "courseTitle": "NATO",
+      "section": "A",
+      "instructor": "Jones,Christopher D"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 522",
+      "courseTitle": "SM-INTRDSP ST CHINA",
+      "section": "A",
+      "instructor": "Dong,Madeleine Y."
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 540",
+      "courseTitle": "JAPANESE LAW",
+      "section": "A",
+      "instructor": "Chafee,Jody"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 541",
+      "courseTitle": "CHINESE LAW",
+      "section": "A",
+      "instructor": "Zang,Dongsheng"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 566",
+      "courseTitle": "COMPAR POL KOREA ST",
+      "section": "A",
+      "instructor": "Ha,Yong-Chool"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 570",
+      "courseTitle": "ISRAEL/PALESTINE",
+      "section": "A",
+      "instructor": "Ben-Natan,Smadar"
+    },
+    {
+      "campus": "S",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "WIN2024",
+      "course": "JSIS A 585",
+      "courseTitle": "SEM: MODERN KOREA",
+      "section": "A",
+      "instructor": "Ha,Yong-Chool"
     },
     {
       "campus": "S",
@@ -3252,7 +4422,7 @@
       "course": "JSIS A 323",
       "courseTitle": "INTER-AMER RELATIONS",
       "section": "A",
-      "instructor": "Freije,Vanessa"
+      "instructor": "A Freije,Vanessa"
     },
     {
       "campus": "S",
@@ -3512,7 +4682,7 @@
       "course": "JSIS A 202",
       "courseTitle": "INTRO MOD SO. ASIA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dhavan,Purnima"
     },
     {
       "campus": "S",
@@ -3522,7 +4692,7 @@
       "course": "JSIS A 206",
       "courseTitle": "CONTEMP INDIA/PKSTN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Yang,Anand A"
     },
     {
       "campus": "S",
@@ -3542,7 +4712,7 @@
       "course": "JSIS A 268",
       "courseTitle": "SILK ROAD & GLBLZTN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mawkanuli,Talant"
     },
     {
       "campus": "S",
@@ -3552,7 +4722,7 @@
       "course": "JSIS A 270",
       "courseTitle": "NAT PEOPLE NW COAST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McCarthy,Justin A"
     },
     {
       "campus": "S",
@@ -3572,7 +4742,7 @@
       "course": "JSIS A 303",
       "courseTitle": "ENVIR HIST SO ASIA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ramesh,Aditya"
     },
     {
       "campus": "S",
@@ -3582,7 +4752,7 @@
       "course": "JSIS A 314",
       "courseTitle": "HIST ISRAEL PALESTIN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Halperin,Liora R."
     },
     {
       "campus": "S",
@@ -3592,7 +4762,7 @@
       "course": "JSIS A 354",
       "courseTitle": "NARCOCULTURE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Freije,Vanessa"
     },
     {
       "campus": "S",
@@ -3612,7 +4782,7 @@
       "course": "JSIS A 408",
       "courseTitle": "GOVT & POL-CHINA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Whiting,Susan H"
     },
     {
       "campus": "S",
@@ -3622,7 +4792,7 @@
       "course": "JSIS A 414",
       "courseTitle": "TAIWAN ART & CULTURE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chang,Ellen Y"
     },
     {
       "campus": "S",
@@ -3642,7 +4812,7 @@
       "course": "JSIS A 423",
       "courseTitle": "ORIGINS MODERN JAPAN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Metzler,M"
     },
     {
       "campus": "S",
@@ -3652,7 +4822,7 @@
       "course": "JSIS A 437",
       "courseTitle": "JAPAN INTL RELATNS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pekkanen,Saadia M."
     },
     {
       "campus": "S",
@@ -3682,7 +4852,7 @@
       "course": "JSIS A 504",
       "courseTitle": "SURVEY OF EURASIA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Smidchens,Guntis"
     },
     {
       "campus": "S",
@@ -3692,7 +4862,7 @@
       "course": "JSIS A 506",
       "courseTitle": "S EAST ASIA STUDIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lowe,Celia"
     },
     {
       "campus": "S",
@@ -3702,7 +4872,7 @@
       "course": "JSIS A 509",
       "courseTitle": "INTERDIS STUDY SAII",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kale,Sunila S."
     },
     {
       "campus": "S",
@@ -3712,7 +4882,7 @@
       "course": "JSIS A 520",
       "courseTitle": "POSTSOVIET SECURITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Radnitz,Scott B."
     },
     {
       "campus": "S",
@@ -3722,7 +4892,7 @@
       "course": "JSIS A 521",
       "courseTitle": "SM-INTRDSP ST CHINA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bachman,David M"
     },
     {
       "campus": "S",
@@ -3732,7 +4902,7 @@
       "course": "JSIS A 537",
       "courseTitle": "JAPAN INTL RELATNS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pekkanen,Saadia M."
     },
     {
       "campus": "S",
@@ -3742,7 +4912,7 @@
       "course": "JSIS A 550",
       "courseTitle": "PROSEM EAST ASIAN ST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bachman,David M"
     },
     {
       "campus": "S",
@@ -3752,7 +4922,7 @@
       "course": "JSIS A 555",
       "courseTitle": "INTRO JAPAN STUDIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pekkanen,Robert J"
     },
     {
       "campus": "S",
@@ -3762,7 +4932,7 @@
       "course": "JSIS A 584",
       "courseTitle": "SURVEY KOREAN SOC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ha,Yong-Chool"
     },
     {
       "campus": "S",
@@ -3792,7 +4962,7 @@
       "course": "JSIS A 210",
       "courseTitle": "ISLAMIC CULTURES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McCabe,Lillian"
     },
     {
       "campus": "S",
@@ -3802,7 +4972,7 @@
       "course": "JSIS A 212",
       "courseTitle": "HIST OF KOREAN CIV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jun,Hajin"
     },
     {
       "campus": "S",
@@ -3812,7 +4982,7 @@
       "course": "JSIS A 239",
       "courseTitle": "GREECE ANCNT TO MODN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Klapaki,Nektaria"
     },
     {
       "campus": "S",
@@ -3822,7 +4992,7 @@
       "course": "JSIS A 242",
       "courseTitle": "INTRO CONTEMP JAPAN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pekkanen,Robert J"
     },
     {
       "campus": "S",
@@ -3832,7 +5002,7 @@
       "course": "JSIS A 251",
       "courseTitle": "MOD EUR:FRENC REV-EU",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Felak,James R"
     },
     {
       "campus": "S",
@@ -3842,7 +5012,7 @@
       "course": "JSIS A 254",
       "courseTitle": "MOD CHINA: 3 REVOLUT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dong,Madeleine Y."
     },
     {
       "campus": "S",
@@ -3852,7 +5022,7 @@
       "course": "JSIS A 265",
       "courseTitle": "THE VIET NAM WARS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Giebel,Christoph"
     },
     {
       "campus": "S",
@@ -3862,7 +5032,7 @@
       "course": "JSIS A 327",
       "courseTitle": "CHINA & THE WEST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mosca,Matthew"
     },
     {
       "campus": "S",
@@ -3872,7 +5042,7 @@
       "course": "JSIS A 342",
       "courseTitle": "GOVT & POL OF LAT AM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dondisch,Roberto"
     },
     {
       "campus": "S",
@@ -3882,7 +5052,7 @@
       "course": "JSIS A 350",
       "courseTitle": "U.S.-EUROPE RELATNS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bessner,Daniel M"
     },
     {
       "campus": "S",
@@ -3892,7 +5062,7 @@
       "course": "JSIS A 362",
       "courseTitle": "POL ECON OF AFRICA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "ZAIDAN,YASIR"
     },
     {
       "campus": "S",
@@ -3902,7 +5072,7 @@
       "course": "JSIS A 402",
       "courseTitle": "MID EAST IN MOD WLD",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kasaba,Resat"
     },
     {
       "campus": "S",
@@ -3912,7 +5082,7 @@
       "course": "JSIS A 416",
       "courseTitle": "NATO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jones,Christopher D"
     },
     {
       "campus": "S",
@@ -3922,7 +5092,7 @@
       "course": "JSIS A 424",
       "courseTitle": "JAPAN SINCE 20TH CEN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Metzler,M"
     },
     {
       "campus": "S",
@@ -3942,7 +5112,7 @@
       "course": "JSIS A 455",
       "courseTitle": "BALTIC POL & SOC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Smidchens,Guntis"
     },
     {
       "campus": "S",
@@ -3952,7 +5122,7 @@
       "course": "JSIS A 463",
       "courseTitle": "TOPICS-SE ASIAN HST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Giebel,Christoph"
     },
     {
       "campus": "S",
@@ -3972,7 +5142,7 @@
       "course": "JSIS A 467",
       "courseTitle": "CHINA'S RISE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mallory,Tabitha G"
     },
     {
       "campus": "S",
@@ -3982,7 +5152,7 @@
       "course": "JSIS A 516",
       "courseTitle": "NATO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jones,Christopher D"
     },
     {
       "campus": "S",
@@ -3992,7 +5162,7 @@
       "course": "JSIS A 522",
       "courseTitle": "SM-INTRDSP ST CHINA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dong,Madeleine Y."
     },
     {
       "campus": "S",
@@ -4002,7 +5172,7 @@
       "course": "JSIS A 540",
       "courseTitle": "JAPANESE LAW",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chafee,Jody"
     },
     {
       "campus": "S",
@@ -4012,7 +5182,7 @@
       "course": "JSIS A 541",
       "courseTitle": "CHINESE LAW",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zang,Dongsheng"
     },
     {
       "campus": "S",
@@ -4022,7 +5192,7 @@
       "course": "JSIS A 566",
       "courseTitle": "COMPAR POL KOREA ST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ha,Yong-Chool"
     },
     {
       "campus": "S",
@@ -4032,7 +5202,7 @@
       "course": "JSIS A 588",
       "courseTitle": "MAKING MODERN TAIWAN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lin,James"
     },
     {
       "campus": "S",
@@ -4052,7 +5222,7 @@
       "course": "JSIS A 221",
       "courseTitle": "HISTORY OF SE ASIA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Averbuch,Bryan"
     },
     {
       "campus": "S",
@@ -4062,7 +5232,7 @@
       "course": "JSIS A 245",
       "courseTitle": "HUMAN RIGHTS: ASIA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Callahan,Mary"
     },
     {
       "campus": "S",
@@ -4082,7 +5252,7 @@
       "course": "JSIS A 323",
       "courseTitle": "INTER-AMER RELATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Freije,Vanessa"
     },
     {
       "campus": "S",
@@ -4092,7 +5262,7 @@
       "course": "JSIS A 343",
       "courseTitle": "POL & CHG IN SE ASIA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Callahan,Mary"
     },
     {
       "campus": "S",
@@ -4112,7 +5282,7 @@
       "course": "JSIS A 371",
       "courseTitle": "CHINA OCEAN GOVERN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mallory,Tabitha G"
     },
     {
       "campus": "S",
@@ -4122,7 +5292,7 @@
       "course": "JSIS A 371",
       "courseTitle": "CHINA OCEAN GOVERN",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Mallory,Tabitha G"
     },
     {
       "campus": "S",
@@ -4142,7 +5312,7 @@
       "course": "JSIS A 428",
       "courseTitle": "CHIN HST 1276-1895",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mosca,Matthew"
     },
     {
       "campus": "S",
@@ -4152,7 +5322,7 @@
       "course": "JSIS A 432",
       "courseTitle": "HIST JAPANESE EMPIRE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jun,Hajin"
     },
     {
       "campus": "S",
@@ -4162,7 +5332,7 @@
       "course": "JSIS A 440",
       "courseTitle": "JAPAN ECOLOGICL HIST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Metzler,M"
     },
     {
       "campus": "S",
@@ -4172,7 +5342,7 @@
       "course": "JSIS A 446",
       "courseTitle": "MODERN KOREAN HIST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jun,Hajin"
     },
     {
       "campus": "S",
@@ -4182,7 +5352,7 @@
       "course": "JSIS A 459",
       "courseTitle": "US-CHINA RELATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bachman,David M"
     },
     {
       "campus": "S",
@@ -4192,7 +5362,7 @@
       "course": "JSIS A 468",
       "courseTitle": "RUSSIA INTL SEC SYST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jones,Christopher D"
     },
     {
       "campus": "S",
@@ -4202,7 +5372,7 @@
       "course": "JSIS A 472",
       "courseTitle": "SCI TECH E ASIA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anchordoguy,Marie C"
     },
     {
       "campus": "S",
@@ -4212,7 +5382,7 @@
       "course": "JSIS A 477",
       "courseTitle": "POL ECON JP/NE ASIA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anchordoguy,Marie C"
     },
     {
       "campus": "S",
@@ -4222,7 +5392,7 @@
       "course": "JSIS A 479",
       "courseTitle": "CENT ASIAN POLITICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Johnson,Eric W."
     },
     {
       "campus": "S",
@@ -4232,7 +5402,7 @@
       "course": "JSIS A 480",
       "courseTitle": "INDIG TAIWAN/PACIFIC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tu,Margaret"
     },
     {
       "campus": "S",
@@ -4242,7 +5412,7 @@
       "course": "JSIS A 486",
       "courseTitle": "FILM/CLTR LAT AM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Warren,Jonathan Frederick"
     },
     {
       "campus": "S",
@@ -4252,7 +5422,7 @@
       "course": "JSIS A 492",
       "courseTitle": "LATAM STUDIES SEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Freije,Vanessa"
     },
     {
       "campus": "S",
@@ -4292,7 +5462,7 @@
       "course": "JSIS A 532",
       "courseTitle": "CHINA-POL SYSTEMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Whiting,Susan H"
     },
     {
       "campus": "S",
@@ -4302,7 +5472,7 @@
       "course": "JSIS A 546",
       "courseTitle": "SEM MID EAST STDIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Halperin,Liora R."
     },
     {
       "campus": "S",
@@ -4312,7 +5482,7 @@
       "course": "JSIS A 568",
       "courseTitle": "RUSSIA INTL SEC SYST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jones,Christopher D"
     },
     {
       "campus": "S",
@@ -4322,7 +5492,7 @@
       "course": "JSIS A 577",
       "courseTitle": "POL ECON JP/NE ASIA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anchordoguy,Marie C"
     },
     {
       "campus": "S",
@@ -4332,7 +5502,7 @@
       "course": "JSIS A 579",
       "courseTitle": "CENT ASIAN POLITICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Johnson,Eric W."
     },
     {
       "campus": "S",
@@ -4342,7 +5512,7 @@
       "course": "JSIS A 581",
       "courseTitle": "SCI TECH E ASIA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anchordoguy,Marie C"
     },
     {
       "campus": "S",
@@ -4352,7 +5522,7 @@
       "course": "JSIS A 583",
       "courseTitle": "MODERN KOREAN HIST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jun,Hajin"
     },
     {
       "campus": "S",
@@ -4362,7 +5532,7 @@
       "course": "JSIS A 589",
       "courseTitle": "INDIG TAIWAN/PACIFIC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tu,Margaret"
     }
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Garcia%2CEdgar%20A",
+  "professor": "Garcia,Edgar A",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "SUM2021",
+      "course": "GREEK 103",
+      "courseTitle": "INTRODUCTORY GREEK",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "WIN2021",
+      "course": "LATIN 306",
+      "courseTitle": "CICERO & OVID",
+      "section": "A"
+    }
+  ]
+}

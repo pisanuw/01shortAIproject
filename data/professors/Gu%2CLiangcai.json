@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Gu%2CLiangcai",
+  "professor": "Gu,Liangcai",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioch",
+      "deptName": "Biochemistry",
+      "term": "WIN2026",
+      "course": "BIOC 441",
+      "courseTitle": "BIOCHEMISTRY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioch",
+      "deptName": "Biochemistry",
+      "term": "WIN2025",
+      "course": "BIOC 441",
+      "courseTitle": "BIOCHEMISTRY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioch",
+      "deptName": "Biochemistry",
+      "term": "WIN2024",
+      "course": "BIOC 441",
+      "courseTitle": "BIOCHEMISTRY",
+      "section": "A"
+    }
+  ]
+}

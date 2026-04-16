@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Lund%2CJ",
+  "professor": "Lund,J",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "pathobio",
+      "deptName": "Pathobiology",
+      "term": "AUT2022",
+      "course": "PABIO 581",
+      "courseTitle": "CUR LIT PATHOBIOL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "pathobio",
+      "deptName": "Pathobiology",
+      "term": "AUT2021",
+      "course": "PABIO 581",
+      "courseTitle": "CUR LIT PATHOBIOL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "pathobio",
+      "deptName": "Pathobiology",
+      "term": "AUT2020",
+      "course": "PABIO 581",
+      "courseTitle": "CUR LIT PATHOBIOL",
+      "section": "A"
+    }
+  ]
+}

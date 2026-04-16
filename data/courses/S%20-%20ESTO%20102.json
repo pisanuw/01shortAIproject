@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20ESTO%20102",
+  "course": "S - ESTO 102",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "eston",
+      "deptName": "Estonian",
+      "term": "WIN2026",
+      "course": "ESTO 102",
+      "courseTitle": "1ST YEAR ESTONIAN 2",
+      "section": "A",
+      "instructor": "Rahuoja,Fred Gregor"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "eston",
+      "deptName": "Estonian",
+      "term": "WIN2025",
+      "course": "ESTO 102",
+      "courseTitle": "1ST YEAR ESTONIAN 2",
+      "section": "A",
+      "instructor": "Rahuoja,Fred Gregor"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "eston",
+      "deptName": "Estonian",
+      "term": "WIN2023",
+      "course": "ESTO 102",
+      "courseTitle": "1ST YEAR ESTONIAN 2",
+      "section": "A",
+      "instructor": "Smidchens,Guntis"
+    }
+  ]
+}

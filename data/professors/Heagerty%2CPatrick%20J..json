@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Heagerty%2CPatrick%20J.",
+  "professor": "Heagerty,Patrick J.",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SPR2026",
+      "course": "STAT 524",
+      "courseTitle": "DES MED STUD",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "SPR2026",
+      "course": "BIOST 524",
+      "courseTitle": "DES MED STUD",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:23Z",
+  "id": "S%20-%20COM%20478",
+  "course": "S - COM 478",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "SPR2024",
+      "course": "COM 478",
+      "courseTitle": "INTERCULTURAL COMM",
+      "section": "A",
+      "instructor": "Zheng,Jennifer"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "SUM2023",
+      "course": "COM 478",
+      "courseTitle": "INTERCULTURAL COMM",
+      "section": "A",
+      "instructor": "Kim,S"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "SUM2021",
+      "course": "COM 478",
+      "courseTitle": "INTERCULTURAL COMM",
+      "section": "A",
+      "instructor": "Kim,S"
+    }
+  ]
+}

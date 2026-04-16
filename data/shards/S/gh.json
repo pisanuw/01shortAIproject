@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:28:00Z",
+  "generatedAt": "2026-04-16T02:57:15Z",
   "campus": "S",
   "dept": "gh",
   "deptName": "Global Health",
@@ -51,7 +51,7 @@
       "term": "AUT2020",
       "course": "G H 401",
       "courseTitle": "GH CORE TOPICS",
-      "section": "C",
+      "section": "A",
       "instructor": "Pavlinac,Patricia B"
     },
     {
@@ -61,8 +61,8 @@
       "term": "AUT2020",
       "course": "G H 401",
       "courseTitle": "GH CORE TOPICS",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "Pavlinac,Patricia B"
     },
     {
       "campus": "S",
@@ -82,7 +82,7 @@
       "course": "G H 456",
       "courseTitle": "GLOBAL MENTAL HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rao,Deepa"
     },
     {
       "campus": "S",
@@ -931,6 +931,16 @@
       "term": "SPR2021",
       "course": "G H 590",
       "courseTitle": "SELECTED TOPICS",
+      "section": "A",
+      "instructor": "Beste,Jason"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2021",
+      "course": "G H 590",
+      "courseTitle": "SELECTED TOPICS",
       "section": "C",
       "instructor": "Levin,Carol E."
     },
@@ -943,16 +953,6 @@
       "courseTitle": "SELECTED TOPICS",
       "section": "B",
       "instructor": "Sharma,Monisha"
-    },
-    {
-      "campus": "S",
-      "dept": "gh",
-      "deptName": "Global Health",
-      "term": "SPR2021",
-      "course": "G H 590",
-      "courseTitle": "SELECTED TOPICS",
-      "section": "A",
-      "instructor": "TBA"
     },
     {
       "campus": "S",
@@ -1171,7 +1171,7 @@
       "term": "AUT2021",
       "course": "G H 401",
       "courseTitle": "GH CORE TOPICS",
-      "section": "B",
+      "section": "A",
       "instructor": "Pavlinac,Patricia B"
     },
     {
@@ -1181,8 +1181,8 @@
       "term": "AUT2021",
       "course": "G H 401",
       "courseTitle": "GH CORE TOPICS",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Pavlinac,Patricia B"
     },
     {
       "campus": "S",
@@ -1202,7 +1202,7 @@
       "course": "G H 490",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "BACHMAN,REBECCA A"
+      "instructor": "J BACHMAN,REBECCA A"
     },
     {
       "campus": "S",
@@ -1401,8 +1401,8 @@
       "term": "AUT2021",
       "course": "G H 590",
       "courseTitle": "SELECTED TOPICS",
-      "section": "F",
-      "instructor": "BACHMAN,REBECCA A"
+      "section": "E",
+      "instructor": "Drain,Paul K."
     },
     {
       "campus": "S",
@@ -1411,8 +1411,8 @@
       "term": "AUT2021",
       "course": "G H 590",
       "courseTitle": "SELECTED TOPICS",
-      "section": "E",
-      "instructor": "TBA"
+      "section": "F",
+      "instructor": "J BACHMAN,REBECCA A"
     },
     {
       "campus": "S",
@@ -1541,7 +1541,7 @@
       "term": "WIN2022",
       "course": "G H 402",
       "courseTitle": "GH RESEARCH & PROGS",
-      "section": "B",
+      "section": "A",
       "instructor": "McGrath,Christine J"
     },
     {
@@ -1551,8 +1551,8 @@
       "term": "WIN2022",
       "course": "G H 402",
       "courseTitle": "GH RESEARCH & PROGS",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "McGrath,Christine J"
     },
     {
       "campus": "S",
@@ -1592,7 +1592,7 @@
       "course": "G H 456",
       "courseTitle": "GLOBAL MENTAL HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nguyen,Diem T"
     },
     {
       "campus": "S",
@@ -1902,7 +1902,7 @@
       "course": "G H 458",
       "courseTitle": "GLOBL VIOLENCE/HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Yunusa,Rabi"
     },
     {
       "campus": "S",
@@ -2342,7 +2342,7 @@
       "course": "G H 401",
       "courseTitle": "GH CORE TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tickell,Kirk"
     },
     {
       "campus": "S",
@@ -2372,7 +2372,7 @@
       "course": "G H 490",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "Alarcon,Coco"
+      "instructor": "J Alarcon,Coco"
     },
     {
       "campus": "S",
@@ -2571,8 +2571,8 @@
       "term": "AUT2022",
       "course": "G H 590",
       "courseTitle": "SELECTED TOPICS",
-      "section": "C",
-      "instructor": "Alarcon,Coco"
+      "section": "A",
+      "instructor": "Drain,Paul K."
     },
     {
       "campus": "S",
@@ -2581,8 +2581,8 @@
       "term": "AUT2022",
       "course": "G H 590",
       "courseTitle": "SELECTED TOPICS",
-      "section": "A",
-      "instructor": "Drain,Paul K."
+      "section": "C",
+      "instructor": "J Alarcon,Coco"
     },
     {
       "campus": "S",
@@ -2731,7 +2731,7 @@
       "term": "WIN2023",
       "course": "G H 402",
       "courseTitle": "GH RESEARCH & PROGS",
-      "section": "B",
+      "section": "A",
       "instructor": "McGrath,Christine J"
     },
     {
@@ -2741,8 +2741,8 @@
       "term": "WIN2023",
       "course": "G H 402",
       "courseTitle": "GH RESEARCH & PROGS",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "McGrath,Christine J"
     },
     {
       "campus": "S",
@@ -2772,7 +2772,7 @@
       "course": "G H 456",
       "courseTitle": "GLOBAL MENTAL HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nguyen,Diem T"
     },
     {
       "campus": "S",
@@ -3092,7 +3092,7 @@
       "course": "G H 458",
       "courseTitle": "GLOBL VIOLENCE/HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Yunusa,Rabi"
     },
     {
       "campus": "S",
@@ -3612,7 +3612,7 @@
       "course": "G H 401",
       "courseTitle": "GH CORE TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tickell,Kirk"
     },
     {
       "campus": "S",
@@ -3642,7 +3642,7 @@
       "course": "G H 456",
       "courseTitle": "GLOBAL MENTAL HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nguyen,Diem T"
     },
     {
       "campus": "S",
@@ -4021,7 +4021,7 @@
       "term": "WIN2024",
       "course": "G H 402",
       "courseTitle": "GH RESEARCH & PROGS",
-      "section": "B",
+      "section": "A",
       "instructor": "McGrath,Christine J"
     },
     {
@@ -4031,8 +4031,8 @@
       "term": "WIN2024",
       "course": "G H 402",
       "courseTitle": "GH RESEARCH & PROGS",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "McGrath,Christine J"
     },
     {
       "campus": "S",
@@ -4442,7 +4442,7 @@
       "course": "G H 458",
       "courseTitle": "GLOBL VIOLENCE/HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Yunusa,Rabi"
     },
     {
       "campus": "S",
@@ -4921,7 +4921,7 @@
       "term": "AUT2024",
       "course": "G H 401",
       "courseTitle": "GH CORE TOPICS",
-      "section": "B",
+      "section": "A",
       "instructor": "Mukasa,David"
     },
     {
@@ -4931,8 +4931,8 @@
       "term": "AUT2024",
       "course": "G H 401",
       "courseTitle": "GH CORE TOPICS",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Mukasa,David"
     },
     {
       "campus": "S",
@@ -4952,7 +4952,7 @@
       "course": "G H 456",
       "courseTitle": "GLOBAL MENTAL HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nguyen,Diem T"
     },
     {
       "campus": "S",
@@ -5718,6 +5718,386 @@
       "campus": "S",
       "dept": "gh",
       "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 101",
+      "courseTitle": "INTRO TO GLOBAL HLTH",
+      "section": "A",
+      "instructor": "WJA"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 210",
+      "courseTitle": "GLOBAL DISEASE BIOL",
+      "section": "A",
+      "instructor": "Polyak,Stephen J."
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 306",
+      "courseTitle": "RESPECTFL PARTNRSHPS",
+      "section": "A",
+      "instructor": "Daniel-Ulloa,Jason"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 307",
+      "courseTitle": "INTRO IMPLEMENT SCI",
+      "section": "A",
+      "instructor": "Daniel-Ulloa,Jason"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 360",
+      "courseTitle": "EXPLORING HIV/AIDS",
+      "section": "A",
+      "instructor": "Guthrie,Brandon L"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 399",
+      "courseTitle": "GH STUDY ABROAD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 415",
+      "courseTitle": "WAR AND HEALTH",
+      "section": "A",
+      "instructor": "Pfeiffer,James"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 420",
+      "courseTitle": "CLIMATE CHNG PH PRAC",
+      "section": "A",
+      "instructor": "Hess,Jeremy Johnson"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 446",
+      "courseTitle": "GLOBAL REPRO HLTH",
+      "section": "A",
+      "instructor": "Drake,Alison"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 504",
+      "courseTitle": "EXMPLARS GBL HLT JST",
+      "section": "A",
+      "instructor": "Gloyd,Steve"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 515",
+      "courseTitle": "WAR AND HEALTH",
+      "section": "A",
+      "instructor": "Pfeiffer,James"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 517",
+      "courseTitle": "INTL ETHC JUS HLTH",
+      "section": "A",
+      "instructor": "Mucha,Katarina"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 520",
+      "courseTitle": "CLIMATE CHNG PH PRAC",
+      "section": "A",
+      "instructor": "Hess,Jeremy Johnson"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 523",
+      "courseTitle": "POL DVLPMT & ADVOCY",
+      "section": "A",
+      "instructor": "Lane,Jeff"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 531",
+      "courseTitle": "M&E GLOBL HLTH PROG",
+      "section": "A",
+      "instructor": "Ghee,Annette E"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 533",
+      "courseTitle": "SURVEY RSRCH METHODS",
+      "section": "A",
+      "instructor": "Helfrich,Christian D"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 537",
+      "courseTitle": "ADVD MTHDS GH III",
+      "section": "A",
+      "instructor": "Wagenaar,Brad"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 538",
+      "courseTitle": "ADV QUAL HLTH METHDS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 541",
+      "courseTitle": "IMPLEMENTATION SCI",
+      "section": "A",
+      "instructor": "MASYUKO,SARAH"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 541",
+      "courseTitle": "IMPLEMENTATION SCI",
+      "section": "B",
+      "instructor": "MASYUKO,SARAH"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 542",
+      "courseTitle": "INTRO ECON EVAL GH",
+      "section": "A",
+      "instructor": "Sharma,Monisha"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 546",
+      "courseTitle": "GLOBAL REPRO HLTH",
+      "section": "A",
+      "instructor": "Drake,Alison"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 549",
+      "courseTitle": "GLOBAL LAB SYSTEMS",
+      "section": "A",
+      "instructor": "Soge,Olusegun O."
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 561",
+      "courseTitle": "TROPICAL MEDICINE",
+      "section": "A",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 562",
+      "courseTitle": "AIDS MULTIDISC APPR",
+      "section": "A",
+      "instructor": "Farquhar,Carey"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 580",
+      "courseTitle": "DOCTORAL SEMINAR",
+      "section": "A",
+      "instructor": "Means,Arianna Rubin"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 588",
+      "courseTitle": "ADV LEAD PRA DOC SEM",
+      "section": "A",
+      "instructor": "Mugambi,Melissa L"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 593",
+      "courseTitle": "RETHINKING GLBL HLTH",
+      "section": "A",
+      "instructor": "Rao,Deepa"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 595",
+      "courseTitle": "MASTER'S PRACTICUM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 600",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 600",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 610",
+      "courseTitle": "LEAD & PRACT EXPER",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 701",
+      "courseTitle": "MASTER'S CAPSTONE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "SPR2025",
+      "course": "G H 801",
+      "courseTitle": "DOCTORATE PROJECT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
       "term": "SUM2025",
       "course": "G H 399",
       "courseTitle": "GH STUDY ABROAD",
@@ -5882,7 +6262,7 @@
       "course": "G H 201",
       "courseTitle": "MULTIDIS GLOBL HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Celum,Connie"
     },
     {
       "campus": "S",
@@ -5892,7 +6272,7 @@
       "course": "G H 201",
       "courseTitle": "MULTIDIS GLOBL HLTH",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Celum,Connie"
     },
     {
       "campus": "S",
@@ -5912,7 +6292,7 @@
       "course": "G H 401",
       "courseTitle": "GH CORE TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mukasa,David"
     },
     {
       "campus": "S",
@@ -5932,7 +6312,7 @@
       "course": "G H 454",
       "courseTitle": "BIOE WRLD HLTH SOLNS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Woodrow,Kim A."
     },
     {
       "campus": "S",
@@ -5942,7 +6322,7 @@
       "course": "G H 456",
       "courseTitle": "GLOBAL MENTAL HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ronen,Keshet"
     },
     {
       "campus": "S",
@@ -5972,7 +6352,7 @@
       "course": "G H 501",
       "courseTitle": "GH CORE TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mukasa,David"
     },
     {
       "campus": "S",
@@ -5982,7 +6362,7 @@
       "course": "G H 501",
       "courseTitle": "GH CORE TOPICS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Mukasa,David"
     },
     {
       "campus": "S",
@@ -5992,7 +6372,7 @@
       "course": "G H 511",
       "courseTitle": "PROBS IN GLOBL HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Yunusa,Rabi"
     },
     {
       "campus": "S",
@@ -6002,7 +6382,7 @@
       "course": "G H 511",
       "courseTitle": "PROBS IN GLOBL HLTH",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Yunusa,Rabi"
     },
     {
       "campus": "S",
@@ -6012,7 +6392,7 @@
       "course": "G H 521",
       "courseTitle": "LEADERSHIP DEVLPMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "van Rooyen,Heidi"
     },
     {
       "campus": "S",
@@ -6022,7 +6402,7 @@
       "course": "G H 532",
       "courseTitle": "RSP CNDUCT RES G&L",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Farquhar,Carey"
     },
     {
       "campus": "S",
@@ -6032,7 +6412,7 @@
       "course": "G H 535",
       "courseTitle": "ADVD MTHDS GH I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sherr,Kenneth"
     },
     {
       "campus": "S",
@@ -6042,7 +6422,7 @@
       "course": "G H 554",
       "courseTitle": "BIOE GLOB HLTH SOLNS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Woodrow,Kim A."
     },
     {
       "campus": "S",
@@ -6052,7 +6432,7 @@
       "course": "G H 556",
       "courseTitle": "GLOBAL MENTAL HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ronen,Keshet"
     },
     {
       "campus": "S",
@@ -6062,7 +6442,7 @@
       "course": "G H 556",
       "courseTitle": "GLOBAL MENTAL HLTH",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Ronen,Keshet"
     },
     {
       "campus": "S",
@@ -6072,7 +6452,7 @@
       "course": "G H 562",
       "courseTitle": "AIDS MULTIDISC APPR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Farquhar,Carey"
     },
     {
       "campus": "S",
@@ -6112,7 +6492,7 @@
       "course": "G H 575",
       "courseTitle": "GH LDRSHP CLINICIAN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Abbott,Collette"
     },
     {
       "campus": "S",
@@ -6132,7 +6512,7 @@
       "course": "G H 580",
       "courseTitle": "DOCTORAL SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sherr,Kenneth"
     },
     {
       "campus": "S",
@@ -6142,7 +6522,7 @@
       "course": "G H 585",
       "courseTitle": "LEAD PRAC DOC SEM I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mugambi,Melissa L"
     },
     {
       "campus": "S",
@@ -6152,7 +6532,7 @@
       "course": "G H 588",
       "courseTitle": "ADV LEAD PRA DOC SEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mugambi,Melissa L"
     },
     {
       "campus": "S",
@@ -6162,7 +6542,7 @@
       "course": "G H 590",
       "courseTitle": "SELECTED TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Drain,Paul K."
     },
     {
       "campus": "S",
@@ -6172,7 +6552,7 @@
       "course": "G H 593",
       "courseTitle": "RETHINKING GLBL HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rao,Deepa"
     },
     {
       "campus": "S",
@@ -6272,7 +6652,7 @@
       "course": "G H 220",
       "courseTitle": "ENV CHNG PUBLC HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ebi,Kristie L"
     },
     {
       "campus": "S",
@@ -6282,7 +6662,7 @@
       "course": "G H 305",
       "courseTitle": "GLOBAL HLTH JUSTICE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mucha,Katarina"
     },
     {
       "campus": "S",
@@ -6292,7 +6672,7 @@
       "course": "G H 375",
       "courseTitle": "GLBL PERSP LOCAL HLT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mucha,Katarina"
     },
     {
       "campus": "S",
@@ -6312,7 +6692,7 @@
       "course": "G H 402",
       "courseTitle": "GH RESEARCH & PROGS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McGrath,Christine J"
     },
     {
       "campus": "S",
@@ -6322,7 +6702,7 @@
       "course": "G H 402",
       "courseTitle": "GH RESEARCH & PROGS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "McGrath,Christine J"
     },
     {
       "campus": "S",
@@ -6332,7 +6712,7 @@
       "course": "G H 410",
       "courseTitle": "ADV BIOL GLBL DISEAS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "John-Stewart,Grace C."
     },
     {
       "campus": "S",
@@ -6342,7 +6722,7 @@
       "course": "G H 418",
       "courseTitle": "CLMT CHG HLTH RISKS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ebi,Kristie L"
     },
     {
       "campus": "S",
@@ -6362,7 +6742,7 @@
       "course": "G H 448",
       "courseTitle": "ONE HEALTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Meisner,Julianne"
     },
     {
       "campus": "S",
@@ -6372,7 +6752,7 @@
       "course": "G H 458",
       "courseTitle": "GLOBL VIOLENCE/HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mukumbang,Ferdinand C"
     },
     {
       "campus": "S",
@@ -6382,7 +6762,7 @@
       "course": "G H 459",
       "courseTitle": "GLBL NONCOMM DISEASE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Watkins,David"
     },
     {
       "campus": "S",
@@ -6392,17 +6772,7 @@
       "course": "G H 482",
       "courseTitle": "HLTH OF POPULATIONS",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "gh",
-      "deptName": "Global Health",
-      "term": "WIN2026",
-      "course": "G H 490",
-      "courseTitle": "SPECIAL TOPICS",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Drain,Paul K."
     },
     {
       "campus": "S",
@@ -6412,6 +6782,16 @@
       "course": "G H 490",
       "courseTitle": "SPECIAL TOPICS",
       "section": "C",
+      "instructor": "Brunett,Julie"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "WIN2026",
+      "course": "G H 490",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
       "instructor": "TBA"
     },
     {
@@ -6442,7 +6822,7 @@
       "course": "G H 502",
       "courseTitle": "GH RESEARCH & PROGS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McGrath,Christine J"
     },
     {
       "campus": "S",
@@ -6452,7 +6832,7 @@
       "course": "G H 518",
       "courseTitle": "CLMT CHG HLTH RISKS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ebi,Kristie L"
     },
     {
       "campus": "S",
@@ -6472,7 +6852,7 @@
       "course": "G H 522",
       "courseTitle": "PROJ MGMT GLOBL HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Shumays,Alyson"
     },
     {
       "campus": "S",
@@ -6482,7 +6862,7 @@
       "course": "G H 534",
       "courseTitle": "STAT MTHDS SPATL EPI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wakefield,Jon"
     },
     {
       "campus": "S",
@@ -6492,7 +6872,7 @@
       "course": "G H 536",
       "courseTitle": "ADVD METHDS GH II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Reiner,Bobby"
     },
     {
       "campus": "S",
@@ -6512,7 +6892,7 @@
       "course": "G H 543",
       "courseTitle": "GLOBAL PHARM MEDS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stergachis,Andy"
     },
     {
       "campus": "S",
@@ -6522,7 +6902,7 @@
       "course": "G H 544",
       "courseTitle": "MCH IN LMICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Denno,Donna M."
     },
     {
       "campus": "S",
@@ -6532,17 +6912,7 @@
       "course": "G H 548",
       "courseTitle": "ONE HEALTH",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "gh",
-      "deptName": "Global Health",
-      "term": "WIN2026",
-      "course": "G H 552",
-      "courseTitle": "UNDRSTNDG PANDEMICS",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Meisner,Julianne"
     },
     {
       "campus": "S",
@@ -6552,6 +6922,16 @@
       "course": "G H 552",
       "courseTitle": "UNDRSTNDG PANDEMICS",
       "section": "B",
+      "instructor": "Meisner,Julianne"
+    },
+    {
+      "campus": "S",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "WIN2026",
+      "course": "G H 552",
+      "courseTitle": "UNDRSTNDG PANDEMICS",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -6562,7 +6942,7 @@
       "course": "G H 555",
       "courseTitle": "NUTR DEV COUNTRIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "A Drewnowski,Adam"
     },
     {
       "campus": "S",
@@ -6572,7 +6952,7 @@
       "course": "G H 558",
       "courseTitle": "GLOBL VIOLENCE/HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Yunusa,Rabi"
     },
     {
       "campus": "S",
@@ -6582,7 +6962,7 @@
       "course": "G H 558",
       "courseTitle": "GLOBL VIOLENCE/HLTH",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Yunusa,Rabi"
     },
     {
       "campus": "S",
@@ -6592,7 +6972,7 @@
       "course": "G H 558",
       "courseTitle": "GLOBL VIOLENCE/HLTH",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Yunusa,Rabi"
     },
     {
       "campus": "S",
@@ -6602,7 +6982,7 @@
       "course": "G H 559",
       "courseTitle": "GLBL NONCOMM DISEASE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Watkins,David"
     },
     {
       "campus": "S",
@@ -6612,7 +6992,7 @@
       "course": "G H 580",
       "courseTitle": "DOCTORAL SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Baris,Enis"
     },
     {
       "campus": "S",
@@ -6622,7 +7002,7 @@
       "course": "G H 586",
       "courseTitle": "LEAD PRAC DOC SEM II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mugambi,Melissa L"
     },
     {
       "campus": "S",
@@ -6642,7 +7022,7 @@
       "course": "G H 590",
       "courseTitle": "SELECTED TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mukasa,David"
     },
     {
       "campus": "S",
@@ -6672,7 +7052,7 @@
       "course": "G H 593",
       "courseTitle": "RETHINKING GLBL HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rao,Deepa"
     },
     {
       "campus": "S",
@@ -6772,7 +7152,7 @@
       "course": "G H 210",
       "courseTitle": "GLOBAL DISEASE BIOL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Graham,Susan M."
     },
     {
       "campus": "S",
@@ -6782,7 +7162,7 @@
       "course": "G H 306",
       "courseTitle": "RESPECTFL PARTNRSHPS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Daniel-Ulloa,Jason"
     },
     {
       "campus": "S",
@@ -6792,7 +7172,7 @@
       "course": "G H 307",
       "courseTitle": "INTRO IMPLEMENT SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wagner,Anjuli D"
     },
     {
       "campus": "S",
@@ -6802,7 +7182,7 @@
       "course": "G H 345",
       "courseTitle": "GLOBAL HEALTH ECON",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mukasa,David"
     },
     {
       "campus": "S",
@@ -6822,7 +7202,7 @@
       "course": "G H 415",
       "courseTitle": "WAR AND HEALTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pfeiffer,James"
     },
     {
       "campus": "S",
@@ -6832,7 +7212,7 @@
       "course": "G H 420",
       "courseTitle": "CLIMATE CHNG PH PRAC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hess,Jeremy Johnson"
     },
     {
       "campus": "S",
@@ -6842,7 +7222,7 @@
       "course": "G H 446",
       "courseTitle": "GLOBAL REPRO HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Drake,Alison"
     },
     {
       "campus": "S",
@@ -6852,7 +7232,7 @@
       "course": "G H 490",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Daniel-Ulloa,Jason"
     },
     {
       "campus": "S",
@@ -6882,7 +7262,7 @@
       "course": "G H 504",
       "courseTitle": "EXMPLARS GBL HLT JST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gloyd,Steve"
     },
     {
       "campus": "S",
@@ -6892,7 +7272,7 @@
       "course": "G H 515",
       "courseTitle": "WAR AND HEALTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pfeiffer,James"
     },
     {
       "campus": "S",
@@ -6902,7 +7282,7 @@
       "course": "G H 517",
       "courseTitle": "INTL ETHC JUS HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mucha,Katarina"
     },
     {
       "campus": "S",
@@ -6912,7 +7292,7 @@
       "course": "G H 520",
       "courseTitle": "CLIMATE CHNG PH PRAC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hess,Jeremy Johnson"
     },
     {
       "campus": "S",
@@ -6922,7 +7302,7 @@
       "course": "G H 523",
       "courseTitle": "POL DVLPMT & ADVOCY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lane,Jeff"
     },
     {
       "campus": "S",
@@ -6932,7 +7312,7 @@
       "course": "G H 531",
       "courseTitle": "M&E GLOBL HLTH PROG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "O'Malley,Gabrielle"
     },
     {
       "campus": "S",
@@ -6942,7 +7322,7 @@
       "course": "G H 537",
       "courseTitle": "ADVD MTHDS GH III",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wagenaar,Brad"
     },
     {
       "campus": "S",
@@ -6972,7 +7352,7 @@
       "course": "G H 541",
       "courseTitle": "IMPLEMENTATION SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "MASYUKO,SARAH"
     },
     {
       "campus": "S",
@@ -6982,7 +7362,7 @@
       "course": "G H 542",
       "courseTitle": "INTRO ECON EVAL GH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sharma,Monisha"
     },
     {
       "campus": "S",
@@ -6992,7 +7372,7 @@
       "course": "G H 546",
       "courseTitle": "GLOBAL REPRO HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Drake,Alison"
     },
     {
       "campus": "S",
@@ -7002,7 +7382,7 @@
       "course": "G H 549",
       "courseTitle": "GLOBAL LAB SYSTEMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Soge,Olusegun O."
     },
     {
       "campus": "S",
@@ -7022,7 +7402,7 @@
       "course": "G H 580",
       "courseTitle": "DOCTORAL SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sherr,Kenneth"
     },
     {
       "campus": "S",
@@ -7032,7 +7412,7 @@
       "course": "G H 587",
       "courseTitle": "LEAD PRA DOC SEM III",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mugambi,Melissa L"
     },
     {
       "campus": "S",
@@ -7042,7 +7422,7 @@
       "course": "G H 590",
       "courseTitle": "SELECTED TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Daniel-Ulloa,Jason"
     },
     {
       "campus": "S",
@@ -7052,7 +7432,7 @@
       "course": "G H 590",
       "courseTitle": "SELECTED TOPICS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "van Rooyen,Heidi"
     },
     {
       "campus": "S",
@@ -7062,7 +7442,7 @@
       "course": "G H 593",
       "courseTitle": "RETHINKING GLBL HLTH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rao,Deepa"
     },
     {
       "campus": "S",

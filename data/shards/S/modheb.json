@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:57Z",
+  "generatedAt": "2026-04-16T02:57:12Z",
   "campus": "S",
   "dept": "modheb",
   "deptName": "Modern Hebrew",
@@ -428,6 +428,76 @@
       "campus": "S",
       "dept": "modheb",
       "deptName": "Modern Hebrew",
+      "term": "SPR2022",
+      "course": "MODHEB 103",
+      "courseTitle": "ELEM MODERN HEBREW",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "modheb",
+      "deptName": "Modern Hebrew",
+      "term": "SPR2022",
+      "course": "MODHEB 203",
+      "courseTitle": "INTERMED MOD HEBREW",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "modheb",
+      "deptName": "Modern Hebrew",
+      "term": "SPR2022",
+      "course": "MODHEB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "modheb",
+      "deptName": "Modern Hebrew",
+      "term": "SPR2022",
+      "course": "MODHEB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "modheb",
+      "deptName": "Modern Hebrew",
+      "term": "SPR2022",
+      "course": "MODHEB 513",
+      "courseTitle": "ELEM MODERN HEBREW",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "modheb",
+      "deptName": "Modern Hebrew",
+      "term": "SPR2022",
+      "course": "MODHEB 523",
+      "courseTitle": "INTERMED MOD HEBREW",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "modheb",
+      "deptName": "Modern Hebrew",
+      "term": "SPR2022",
+      "course": "MODHEB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "modheb",
+      "deptName": "Modern Hebrew",
       "term": "SUM2022",
       "course": "MODHEB 100",
       "courseTitle": "HEBREW LANG & CLTR",
@@ -689,6 +759,46 @@
       "dept": "modheb",
       "deptName": "Modern Hebrew",
       "term": "SPR2023",
+      "course": "MODHEB 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "modheb",
+      "deptName": "Modern Hebrew",
+      "term": "SUM2023",
+      "course": "MODHEB 100",
+      "courseTitle": "HEBREW LANG & CLTR",
+      "section": "A",
+      "instructor": "Khazzam-Horovitz,Hadar"
+    },
+    {
+      "campus": "S",
+      "dept": "modheb",
+      "deptName": "Modern Hebrew",
+      "term": "SUM2023",
+      "course": "MODHEB 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "modheb",
+      "deptName": "Modern Hebrew",
+      "term": "SUM2023",
+      "course": "MODHEB 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "modheb",
+      "deptName": "Modern Hebrew",
+      "term": "SUM2023",
       "course": "MODHEB 600",
       "courseTitle": "INDEPNDNT STDY/RSCH",
       "section": "A",

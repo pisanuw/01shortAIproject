@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Roberts%2CJean",
+  "professor": "Roberts,Jean",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "WIN2021",
+      "course": "PHIL 340",
+      "courseTitle": "HIST ANCIENT ETHICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "AUT2020",
+      "course": "PHIL 433",
+      "courseTitle": "PHILOS OF ARISTOTLE",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20M%20E%20534",
+  "course": "S - M E 534",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "SPR2024",
+      "course": "M E 534",
+      "courseTitle": "FLUID MECHANICS",
+      "section": "A",
+      "instructor": "A Aliseda,Alberto"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "SPR2023",
+      "course": "M E 534",
+      "courseTitle": "FLUID MECHANICS",
+      "section": "A",
+      "instructor": "del Alamo,Juan C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "SPR2022",
+      "course": "M E 534",
+      "courseTitle": "FLUID MECHANICS",
+      "section": "A",
+      "instructor": "del Alamo,Juan C"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Kang%2CKelly",
+  "professor": "Kang,Kelly",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SPR2024",
+      "course": "STAT 394",
+      "courseTitle": "PROBABILITY I",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SPR2024",
+      "course": "MATH 394",
+      "courseTitle": "PROBABILITY I",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "WIN2024",
+      "course": "STAT 394",
+      "courseTitle": "PROBABILITY I",
+      "section": "B"
+    }
+  ]
+}

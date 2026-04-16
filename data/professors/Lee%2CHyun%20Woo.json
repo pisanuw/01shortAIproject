@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Lee%2CHyun%20Woo",
+  "professor": "Lee,Hyun Woo",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2023",
+      "course": "CM 410",
+      "courseTitle": "CONST ESTIMATING II",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "WIN2022",
+      "course": "CM 540",
+      "courseTitle": "SUSTAINABLE CONST",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "AUT2021",
+      "course": "CM 410",
+      "courseTitle": "CONST ESTIMATING II",
+      "section": "B"
+    }
+  ]
+}

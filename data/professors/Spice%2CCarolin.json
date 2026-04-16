@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Spice%2CCarolin",
+  "professor": "Spice,Carolin",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "AUT2023",
+      "course": "BIOST 405",
+      "courseTitle": "HEALTH DATA ANLYTCS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "AUT2022",
+      "course": "BIOST 405",
+      "courseTitle": "HEALTH DATA ANLYTCS",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Jain%2CA",
+  "professor": "Jain,A",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2023",
+      "course": "OPMGT 443",
+      "courseTitle": "INV SUP CHN MGMT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "opmgmt",
+      "deptName": "Operations Management",
+      "term": "WIN2022",
+      "course": "OPMGT 443",
+      "courseTitle": "INV SUP CHN MGMT",
+      "section": "A"
+    }
+  ]
+}

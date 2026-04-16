@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:55Z",
+  "generatedAt": "2026-04-16T02:57:10Z",
   "campus": "S",
   "dept": "design",
   "deptName": "Design",
@@ -12,7 +12,7 @@
       "course": "DESIGN 150",
       "courseTitle": "WHAT IS DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Roesler,Axel"
     },
     {
       "campus": "S",
@@ -52,7 +52,7 @@
       "course": "DESIGN 301",
       "courseTitle": "CURRENT ISSUES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "she.her,Karen"
     },
     {
       "campus": "S",
@@ -142,7 +142,7 @@
       "course": "DESIGN 478",
       "courseTitle": "INFORMATION DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "she.her,Karen"
     },
     {
       "campus": "S",
@@ -782,7 +782,7 @@
       "course": "DESIGN 581",
       "courseTitle": "SEMINAR IN DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "she.her,Karen"
     },
     {
       "campus": "S",
@@ -922,7 +922,7 @@
       "course": "DESIGN 150",
       "courseTitle": "WHAT IS DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Roesler,Axel"
     },
     {
       "campus": "S",
@@ -1812,7 +1812,7 @@
       "course": "DESIGN 301",
       "courseTitle": "CURRENT ISSUES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Matthews,Kristine"
     },
     {
       "campus": "S",
@@ -2202,7 +2202,7 @@
       "course": "DESIGN 483",
       "courseTitle": "ADV INTERACTION DES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Auer,Nathaniel Eric Breski"
     },
     {
       "campus": "S",
@@ -2942,7 +2942,7 @@
       "course": "DESIGN 166",
       "courseTitle": "DESIGN FOUNDATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cheng,Karen"
     },
     {
       "campus": "S",
@@ -2972,7 +2972,7 @@
       "course": "DESIGN 301",
       "courseTitle": "CURRENT ISSUES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Matthews,Kristine"
     },
     {
       "campus": "S",
@@ -3178,6 +3178,266 @@
       "campus": "S",
       "dept": "design",
       "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 208",
+      "courseTitle": "SURV OF DESIGN HIST",
+      "section": "A",
+      "instructor": "Muren,Dominic L"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 211",
+      "courseTitle": "3-D FOUNDATION",
+      "section": "A",
+      "instructor": "Shreffler,Kaitlin"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 214",
+      "courseTitle": "MARKS AND SYMBOLS",
+      "section": "A",
+      "instructor": "Cheng,Karen"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 215",
+      "courseTitle": "VISUAL STORYTELLING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 318",
+      "courseTitle": "INTRMD ID STUDIO 2",
+      "section": "A",
+      "instructor": "Willet,Barrett"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 319",
+      "courseTitle": "ADV DESIGN DRAWING",
+      "section": "A",
+      "instructor": "Ahn,Sanggyeun"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 326",
+      "courseTitle": "DIGITAL FABRICATION",
+      "section": "A",
+      "instructor": "Liu,Meichun"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 369",
+      "courseTitle": "VISUAL SYSTEMS",
+      "section": "A",
+      "instructor": "Hall,Chad P"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 372",
+      "courseTitle": "INTERFACE DESIGN 2",
+      "section": "A",
+      "instructor": "HAM,THOMAS RICHARD ALLEN"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 372",
+      "courseTitle": "INTERFACE DESIGN 2",
+      "section": "B",
+      "instructor": "Hofmeester,Kai"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 485",
+      "courseTitle": "DESIGN CAPSTONE",
+      "section": "B",
+      "instructor": "Ahn,Sanggyeun"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 485",
+      "courseTitle": "DESIGN CAPSTONE",
+      "section": "A",
+      "instructor": "Matthews,Kristine"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 485",
+      "courseTitle": "DESIGN CAPSTONE",
+      "section": "C",
+      "instructor": "Pierce,James"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 486",
+      "courseTitle": "DESIGN EXHIBITION",
+      "section": "A",
+      "instructor": "Matthews,Kristine"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 495",
+      "courseTitle": "DESIGN INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 496",
+      "courseTitle": "RESEARCH IXD DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 496",
+      "courseTitle": "RESEARCH IXD DESIGN",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 499",
+      "courseTitle": "INDIV PROJ-DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 501",
+      "courseTitle": "GRAD TEACH/MENTOR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 581",
+      "courseTitle": "SEMINAR IN DESIGN",
+      "section": "A",
+      "instructor": "KEY,CAYLA RAI"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 582",
+      "courseTitle": "DESIGN STUDIO: GRAD",
+      "section": "A",
+      "instructor": "Hall,Chad P"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 582",
+      "courseTitle": "DESIGN STUDIO: GRAD",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 590",
+      "courseTitle": "CURRENT ISSUES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 596",
+      "courseTitle": "RESEARCH IXD",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 600",
+      "courseTitle": "INDEPEND STDY/RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2024",
+      "course": "DESIGN 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
       "term": "SUM2024",
       "course": "DESIGN 250",
       "courseTitle": "VISUALIZING IDEAS",
@@ -3232,7 +3492,7 @@
       "course": "DESIGN 150",
       "courseTitle": "WHAT IS DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Roesler,Axel"
     },
     {
       "campus": "S",
@@ -3852,7 +4112,7 @@
       "course": "DESIGN 319",
       "courseTitle": "ADV DESIGN DRAWING",
       "section": "A",
-      "instructor": "Ahn,Sanggyeun"
+      "instructor": "B Ahn,Sanggyeun"
     },
     {
       "campus": "S",
@@ -3862,7 +4122,7 @@
       "course": "DESIGN 326",
       "courseTitle": "DIGITAL FABRICATION",
       "section": "A",
-      "instructor": "Liu,Meichun"
+      "instructor": "B Liu,Meichun"
     },
     {
       "campus": "S",
@@ -4068,6 +4328,56 @@
       "campus": "S",
       "dept": "design",
       "deptName": "Design",
+      "term": "SUM2025",
+      "course": "DESIGN 250",
+      "courseTitle": "VISUALIZING IDEAS",
+      "section": "A",
+      "instructor": "Callister,Coreen"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SUM2025",
+      "course": "DESIGN 495",
+      "courseTitle": "DESIGN INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SUM2025",
+      "course": "DESIGN 499",
+      "courseTitle": "INDIV PROJ-DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SUM2025",
+      "course": "DESIGN 600",
+      "courseTitle": "INDEPEND STDY/RESCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SUM2025",
+      "course": "DESIGN 700",
+      "courseTitle": "MASTER'S THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
       "term": "AUT2025",
       "course": "DESIGN 150",
       "courseTitle": "WHAT IS DESIGN",
@@ -4082,7 +4392,7 @@
       "course": "DESIGN 207",
       "courseTitle": "DESIGN DRAWING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hinds,Treasure"
     },
     {
       "campus": "S",
@@ -4092,7 +4402,7 @@
       "course": "DESIGN 209",
       "courseTitle": "FNDMTLS TYPOGRAPHY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hall,Chad P"
     },
     {
       "campus": "S",
@@ -4112,7 +4422,7 @@
       "course": "DESIGN 316",
       "courseTitle": "INTRO INDUST DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Germany,Jason O"
     },
     {
       "campus": "S",
@@ -4132,7 +4442,7 @@
       "course": "DESIGN 370",
       "courseTitle": "INTR MOTION DEIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Weis,Bridget"
     },
     {
       "campus": "S",
@@ -4142,7 +4452,7 @@
       "course": "DESIGN 376",
       "courseTitle": "TYPOGRAPHY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Cheng,Karen"
     },
     {
       "campus": "S",
@@ -4152,7 +4462,7 @@
       "course": "DESIGN 383",
       "courseTitle": "FOUNDATIONS OF IXD",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Roesler,Axel"
     },
     {
       "campus": "S",
@@ -4162,7 +4472,7 @@
       "course": "DESIGN 445",
       "courseTitle": "ADV INDUSTRIAL DES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Liu,Meichun"
     },
     {
       "campus": "S",
@@ -4182,7 +4492,7 @@
       "course": "DESIGN 478",
       "courseTitle": "INFORMATION DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cheng,Karen"
     },
     {
       "campus": "S",
@@ -4192,7 +4502,7 @@
       "course": "DESIGN 481",
       "courseTitle": "DESIGN FIELD STUDY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Desjardins,Audrey"
     },
     {
       "campus": "S",
@@ -4272,7 +4582,7 @@
       "course": "DESIGN 581",
       "courseTitle": "SEMINAR IN DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Desjardins,Audrey"
     },
     {
       "campus": "S",
@@ -4282,7 +4592,7 @@
       "course": "DESIGN 582",
       "courseTitle": "DESIGN STUDIO: GRAD",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Liu,Meichun"
     },
     {
       "campus": "S",
@@ -4372,7 +4682,7 @@
       "course": "DESIGN 206",
       "courseTitle": "DESIGN METHODS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Desjardins,Audrey"
     },
     {
       "campus": "S",
@@ -4382,7 +4692,7 @@
       "course": "DESIGN 211",
       "courseTitle": "3-D FOUNDATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ahn,Sanggyeun"
     },
     {
       "campus": "S",
@@ -4402,7 +4712,7 @@
       "course": "DESIGN 317",
       "courseTitle": "INTRMD ID STUDIO 1",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Liu,Meichun"
     },
     {
       "campus": "S",
@@ -4422,7 +4732,7 @@
       "course": "DESIGN 324",
       "courseTitle": "MATERIALS & MANUFAC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Muren,Dominic L"
     },
     {
       "campus": "S",
@@ -4432,17 +4742,7 @@
       "course": "DESIGN 368",
       "courseTitle": "STUDIES CORP IDENT",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "design",
-      "deptName": "Design",
-      "term": "WIN2026",
-      "course": "DESIGN 371",
-      "courseTitle": "INTERFACE DESIGN 1",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stromberg,Gabriel"
     },
     {
       "campus": "S",
@@ -4452,7 +4752,17 @@
       "course": "DESIGN 371",
       "courseTitle": "INTERFACE DESIGN 1",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "FLORA,WILLIAM"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "WIN2026",
+      "course": "DESIGN 371",
+      "courseTitle": "INTERFACE DESIGN 1",
+      "section": "A",
+      "instructor": "Hall,Chad P"
     },
     {
       "campus": "S",
@@ -4462,7 +4772,7 @@
       "course": "DESIGN 376",
       "courseTitle": "TYPOGRAPHY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gould,Annabelle"
     },
     {
       "campus": "S",
@@ -4472,7 +4782,7 @@
       "course": "DESIGN 384",
       "courseTitle": "INFO VISUALIZATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hall,Chad P"
     },
     {
       "campus": "S",
@@ -4492,7 +4802,7 @@
       "course": "DESIGN 466",
       "courseTitle": "PUBLICATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Eykemans,Tom"
     },
     {
       "campus": "S",
@@ -4502,7 +4812,7 @@
       "course": "DESIGN 483",
       "courseTitle": "ADV INTERACTION DES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Roesler,Axel"
     },
     {
       "campus": "S",
@@ -4562,7 +4872,7 @@
       "course": "DESIGN 581",
       "courseTitle": "SEMINAR IN DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Germany,Jason O"
     },
     {
       "campus": "S",
@@ -4572,7 +4882,7 @@
       "course": "DESIGN 582",
       "courseTitle": "DESIGN STUDIO: GRAD",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Roesler,Axel"
     },
     {
       "campus": "S",
@@ -4592,7 +4902,7 @@
       "course": "DESIGN 590",
       "courseTitle": "CURRENT ISSUES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Matthews,Kristine"
     },
     {
       "campus": "S",
@@ -4642,7 +4952,7 @@
       "course": "DESIGN 208",
       "courseTitle": "SURV OF DESIGN HIST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Muren,Dominic L"
     },
     {
       "campus": "S",
@@ -4652,7 +4962,7 @@
       "course": "DESIGN 213",
       "courseTitle": "PROTOTYPE DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Germany,Jason O"
     },
     {
       "campus": "S",
@@ -4672,7 +4982,7 @@
       "course": "DESIGN 318",
       "courseTitle": "INTRMD ID STUDIO 2",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brauer,Kris"
     },
     {
       "campus": "S",
@@ -4682,7 +4992,7 @@
       "course": "DESIGN 319",
       "courseTitle": "ADV DESIGN DRAWING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Johnston,Jack"
     },
     {
       "campus": "S",
@@ -4692,7 +5002,7 @@
       "course": "DESIGN 325",
       "courseTitle": "PHYSICAL COMPUTING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Muren,Dominic L"
     },
     {
       "campus": "S",
@@ -4702,7 +5012,7 @@
       "course": "DESIGN 326",
       "courseTitle": "DIGITAL FABRICATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Germany,Jason O"
     },
     {
       "campus": "S",
@@ -4712,17 +5022,7 @@
       "course": "DESIGN 369",
       "courseTitle": "VISUAL SYSTEMS",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "design",
-      "deptName": "Design",
-      "term": "SPR2026",
-      "course": "DESIGN 372",
-      "courseTitle": "INTERFACE DESIGN 2",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hall,Chad P"
     },
     {
       "campus": "S",
@@ -4732,17 +5032,17 @@
       "course": "DESIGN 372",
       "courseTitle": "INTERFACE DESIGN 2",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Desjardins,Audrey"
     },
     {
       "campus": "S",
       "dept": "design",
       "deptName": "Design",
       "term": "SPR2026",
-      "course": "DESIGN 485",
-      "courseTitle": "DESIGN CAPSTONE",
+      "course": "DESIGN 372",
+      "courseTitle": "INTERFACE DESIGN 2",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "HAM,THOMAS RICHARD ALLEN"
     },
     {
       "campus": "S",
@@ -4752,7 +5052,17 @@
       "course": "DESIGN 485",
       "courseTitle": "DESIGN CAPSTONE",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "FLORA,WILLIAM"
+    },
+    {
+      "campus": "S",
+      "dept": "design",
+      "deptName": "Design",
+      "term": "SPR2026",
+      "course": "DESIGN 485",
+      "courseTitle": "DESIGN CAPSTONE",
+      "section": "A",
+      "instructor": "Liu,Meichun"
     },
     {
       "campus": "S",
@@ -4762,7 +5072,7 @@
       "course": "DESIGN 485",
       "courseTitle": "DESIGN CAPSTONE",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Matthews,Kristine"
     },
     {
       "campus": "S",
@@ -4772,7 +5082,7 @@
       "course": "DESIGN 486",
       "courseTitle": "DESIGN EXHIBITION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Matthews,Kristine"
     },
     {
       "campus": "S",
@@ -4832,7 +5142,7 @@
       "course": "DESIGN 581",
       "courseTitle": "SEMINAR IN DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pierce,James"
     },
     {
       "campus": "S",
@@ -4842,7 +5152,7 @@
       "course": "DESIGN 582",
       "courseTitle": "DESIGN STUDIO: GRAD",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hall,Chad P"
     },
     {
       "campus": "S",

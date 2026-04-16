@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "CALIMPONG%2CGRANITE",
+  "professor": "CALIMPONG,GRANITE",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "art",
+      "deptName": "Art",
+      "term": "AUT2025",
+      "course": "ART 360",
+      "courseTitle": "TOPICS STUDIO ART",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "art",
+      "deptName": "Art",
+      "term": "SUM2025",
+      "course": "ART 253",
+      "courseTitle": "INTRO TO CERAMICS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "art",
+      "deptName": "Art",
+      "term": "SUM2025",
+      "course": "ART 253",
+      "courseTitle": "INTRO TO CERAMICS",
+      "section": "A"
+    }
+  ]
+}

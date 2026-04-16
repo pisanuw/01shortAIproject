@@ -1,7 +1,1458 @@
 {
-  "generatedAt": "2026-04-15T16:27:59Z",
+  "generatedAt": "2026-04-16T02:57:15Z",
   "campus": "S",
   "dept": "quantsci",
   "deptName": "Quantitative Science",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2020",
+      "course": "Q SCI 190",
+      "courseTitle": "QUANT ANLYS ENV SCI",
+      "section": "A",
+      "instructor": "Scherba Jr,Stephen"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2020",
+      "course": "Q SCI 291",
+      "courseTitle": "ANLYS FOR BIOL 1",
+      "section": "A",
+      "instructor": "Johnson,Jay A"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2020",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABIL&STAT",
+      "section": "A",
+      "instructor": "Jones,Timothy T."
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2020",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABIL&STAT",
+      "section": "B",
+      "instructor": "Scherba Jr,Stephen"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2020",
+      "course": "Q SCI 454",
+      "courseTitle": "ECOLOGICAL MODELING",
+      "section": "A",
+      "instructor": "Essington,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2020",
+      "course": "Q SCI 482",
+      "courseTitle": "STAT INFR IN ECOL",
+      "section": "A",
+      "instructor": "Branch,Trevor A."
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2020",
+      "course": "Q SCI 498",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2020",
+      "course": "Q SCI 499",
+      "courseTitle": "RESEARCH EXPERIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2021",
+      "course": "Q SCI 291",
+      "courseTitle": "ANLYS FOR BIOL 1",
+      "section": "A",
+      "instructor": "Scherba,Steve"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2021",
+      "course": "Q SCI 292",
+      "courseTitle": "ANLYS FOR BIOL 2",
+      "section": "A",
+      "instructor": "Johnson,Jay A"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2021",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABIL&STAT",
+      "section": "A",
+      "instructor": "Tobin,Patrick C"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2021",
+      "course": "Q SCI 451",
+      "courseTitle": "ANALYT METH WILDLIFE",
+      "section": "A",
+      "instructor": "Gardner,B"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2021",
+      "course": "Q SCI 482",
+      "courseTitle": "STAT INFR IN ECOL",
+      "section": "A",
+      "instructor": "Ganguly,Indroneil"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2021",
+      "course": "Q SCI 498",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2021",
+      "course": "Q SCI 499",
+      "courseTitle": "RESEARCH EXPERIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2021",
+      "course": "Q SCI 292",
+      "courseTitle": "ANLYS FOR BIOL 2",
+      "section": "A",
+      "instructor": "Berdahl,Andrew"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2021",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABIL&STAT",
+      "section": "A",
+      "instructor": "Gardner,Beth"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2021",
+      "course": "Q SCI 403",
+      "courseTitle": "RESAMPLING INFER",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2021",
+      "course": "Q SCI 458",
+      "courseTitle": "ADV ECOL MODEL",
+      "section": "A",
+      "instructor": "RJ"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2021",
+      "course": "Q SCI 483",
+      "courseTitle": "STAT REGRES IN ECOL",
+      "section": "A",
+      "instructor": "Jones,Timothy T."
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2021",
+      "course": "Q SCI 498",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2021",
+      "course": "Q SCI 499",
+      "courseTitle": "RESEARCH EXPERIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SUM2021",
+      "course": "Q SCI 499",
+      "courseTitle": "RESEARCH EXPERIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2021",
+      "course": "Q SCI 291",
+      "courseTitle": "ANLYS FOR BIOL 1",
+      "section": "A",
+      "instructor": "Johnson,Jay A"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2021",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABIL&STAT",
+      "section": "A",
+      "instructor": "Holtgrieve,Gordon W."
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2021",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABIL&STAT",
+      "section": "B",
+      "instructor": "Jones,Timothy T."
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2021",
+      "course": "Q SCI 454",
+      "courseTitle": "ECOLOGICAL MODELING",
+      "section": "A",
+      "instructor": "Okasaki,Connie"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2021",
+      "course": "Q SCI 482",
+      "courseTitle": "STAT INFR IN ECOL",
+      "section": "A",
+      "instructor": "Branch,Trevor A."
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2021",
+      "course": "Q SCI 498",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2021",
+      "course": "Q SCI 499",
+      "courseTitle": "RESEARCH EXPERIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2022",
+      "course": "Q SCI 291",
+      "courseTitle": "ANLYS FOR BIOL 1",
+      "section": "A",
+      "instructor": "Scherba Jr,Stephen"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2022",
+      "course": "Q SCI 292",
+      "courseTitle": "ANLYS FOR BIOL 2",
+      "section": "A",
+      "instructor": "Johnson,Jay A"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2022",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABIL&STAT",
+      "section": "A",
+      "instructor": "Tobin,Patrick C"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2022",
+      "course": "Q SCI 451",
+      "courseTitle": "ANALYT METH WILDLIFE",
+      "section": "A",
+      "instructor": "Gardner,Beth"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2022",
+      "course": "Q SCI 482",
+      "courseTitle": "STAT INFR IN ECOL",
+      "section": "A",
+      "instructor": "Ganguly,Indroneil"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2022",
+      "course": "Q SCI 497",
+      "courseTitle": "SP TOPICS IN Q SCI",
+      "section": "A",
+      "instructor": "Berdahl,A"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2022",
+      "course": "Q SCI 498",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2022",
+      "course": "Q SCI 499",
+      "courseTitle": "RESEARCH EXPERIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2022",
+      "course": "Q SCI 292",
+      "courseTitle": "ANLYS FOR BIOL 2",
+      "section": "A",
+      "instructor": "Berdahl,Andrew"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2022",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABIL&STAT",
+      "section": "A",
+      "instructor": "Okasaki,Connie"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2022",
+      "course": "Q SCI 403",
+      "courseTitle": "RESAMPLING INFER",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2022",
+      "course": "Q SCI 458",
+      "courseTitle": "ADV ECOL MODEL",
+      "section": "A",
+      "instructor": "RJ"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2022",
+      "course": "Q SCI 483",
+      "courseTitle": "STAT REGRES IN ECOL",
+      "section": "A",
+      "instructor": "Jones,Timothy T."
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2022",
+      "course": "Q SCI 498",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2022",
+      "course": "Q SCI 499",
+      "courseTitle": "RESEARCH EXPERIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SUM2022",
+      "course": "Q SCI 499",
+      "courseTitle": "RESEARCH EXPERIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2022",
+      "course": "Q SCI 291",
+      "courseTitle": "ANLYS FOR BIOL 1",
+      "section": "A",
+      "instructor": "Scherba Jr,Stephen"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2022",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABIL&STAT",
+      "section": "B",
+      "instructor": "Horne,John K"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2022",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABIL&STAT",
+      "section": "A",
+      "instructor": "Jones,Timothy T."
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2022",
+      "course": "Q SCI 482",
+      "courseTitle": "STAT INFR IN ECOL",
+      "section": "A",
+      "instructor": "Branch,Trevor A."
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2022",
+      "course": "Q SCI 498",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2022",
+      "course": "Q SCI 499",
+      "courseTitle": "RESEARCH EXPERIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2023",
+      "course": "Q SCI 291",
+      "courseTitle": "ANLYS FOR BIOL 1",
+      "section": "A",
+      "instructor": "Scherba Jr,Stephen"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2023",
+      "course": "Q SCI 292",
+      "courseTitle": "ANLYS FOR BIOL 2",
+      "section": "A",
+      "instructor": "Scherba Jr,Stephen"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2023",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABIL&STAT",
+      "section": "A",
+      "instructor": "Tobin,Patrick C"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2023",
+      "course": "Q SCI 451",
+      "courseTitle": "ANALYT METH WILDLIFE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2023",
+      "course": "Q SCI 454",
+      "courseTitle": "INTR QUANT ECOLOGY",
+      "section": "A",
+      "instructor": "Essington,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2023",
+      "course": "Q SCI 482",
+      "courseTitle": "STAT INFR IN ECOL",
+      "section": "A",
+      "instructor": "Ganguly,Indroneil"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2023",
+      "course": "Q SCI 497",
+      "courseTitle": "SP TOPICS IN Q SCI",
+      "section": "A",
+      "instructor": "Berdahl,A"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2023",
+      "course": "Q SCI 498",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2023",
+      "course": "Q SCI 499",
+      "courseTitle": "RESEARCH EXPERIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2023",
+      "course": "Q SCI 292",
+      "courseTitle": "ANLYS FOR BIOL 2",
+      "section": "A",
+      "instructor": "Berdahl,Andrew"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2023",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABIL&STAT",
+      "section": "A",
+      "instructor": "Scherba Jr,Stephen"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2023",
+      "course": "Q SCI 403",
+      "courseTitle": "RESAMPLING INFER",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2023",
+      "course": "Q SCI 458",
+      "courseTitle": "ADV ECOL MODEL",
+      "section": "A",
+      "instructor": "RJ"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2023",
+      "course": "Q SCI 483",
+      "courseTitle": "STAT REGRES IN ECOL",
+      "section": "A",
+      "instructor": "Jones,Timothy T."
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2023",
+      "course": "Q SCI 498",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2023",
+      "course": "Q SCI 499",
+      "courseTitle": "RESEARCH EXPERIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SUM2023",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABIL&STAT",
+      "section": "A",
+      "instructor": "Jones,Timothy T."
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SUM2023",
+      "course": "Q SCI 499",
+      "courseTitle": "RESEARCH EXPERIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2023",
+      "course": "Q SCI 291",
+      "courseTitle": "ANLYS FOR BIOL 1",
+      "section": "A",
+      "instructor": "Scherba Jr,Stephen"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2023",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABIL&STAT",
+      "section": "A",
+      "instructor": "Punt,Andre E"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2023",
+      "course": "Q SCI 482",
+      "courseTitle": "STAT INFR IN ECOL",
+      "section": "A",
+      "instructor": "Privitera-Johnson,Kristin"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2023",
+      "course": "Q SCI 498",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2023",
+      "course": "Q SCI 499",
+      "courseTitle": "RESEARCH EXPERIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2024",
+      "course": "Q SCI 291",
+      "courseTitle": "ANLYS FOR BIOL 1",
+      "section": "A",
+      "instructor": "Scherba Jr,Stephen"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2024",
+      "course": "Q SCI 292",
+      "courseTitle": "ANLYS FOR BIOL 2",
+      "section": "A",
+      "instructor": "Scherba Jr,Stephen"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2024",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABIL&STAT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2024",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABIL&STAT",
+      "section": "A",
+      "instructor": "Tobin,Patrick C"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2024",
+      "course": "Q SCI 451",
+      "courseTitle": "ANALYT METH WILDLIFE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2024",
+      "course": "Q SCI 454",
+      "courseTitle": "INTR QUANT ECOLOGY",
+      "section": "A",
+      "instructor": "Essington,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2024",
+      "course": "Q SCI 482",
+      "courseTitle": "STAT INFR IN ECOL",
+      "section": "A",
+      "instructor": "Ganguly,Indroneil"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2024",
+      "course": "Q SCI 498",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2024",
+      "course": "Q SCI 499",
+      "courseTitle": "RESEARCH EXPERIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2024",
+      "course": "Q SCI 292",
+      "courseTitle": "ANLYS FOR BIOL 2",
+      "section": "A",
+      "instructor": "Berdahl,Andrew"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2024",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABL & STAT",
+      "section": "A",
+      "instructor": "Binjolkar,Manjaree"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2024",
+      "course": "Q SCI 403",
+      "courseTitle": "RESAMPLING INFER",
+      "section": "A",
+      "instructor": "Chen,Yen-Chi"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2024",
+      "course": "Q SCI 483",
+      "courseTitle": "STAT REGRES IN ECOL",
+      "section": "A",
+      "instructor": "shen,Minyan Jane"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2024",
+      "course": "Q SCI 498",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2024",
+      "course": "Q SCI 499",
+      "courseTitle": "RESEARCH EXPERIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SUM2024",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABL & STAT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SUM2024",
+      "course": "Q SCI 499",
+      "courseTitle": "RESEARCH EXPERIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2024",
+      "course": "Q SCI 291",
+      "courseTitle": "CALC FOR NAT SYS I",
+      "section": "A",
+      "instructor": "Sivandran,Gaj"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2024",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABL & STAT",
+      "section": "A",
+      "instructor": "Punt,Andre E"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2024",
+      "course": "Q SCI 482",
+      "courseTitle": "STAT INFR IN ECOL",
+      "section": "A",
+      "instructor": "shen,Minyan Jane"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2024",
+      "course": "Q SCI 498",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2024",
+      "course": "Q SCI 499",
+      "courseTitle": "RESEARCH EXPERIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2025",
+      "course": "Q SCI 256",
+      "courseTitle": "INTRO DATA SCI MTHDS",
+      "section": "A",
+      "instructor": "Berdahl,Andrew"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2025",
+      "course": "Q SCI 291",
+      "courseTitle": "CALC FOR NAT SYS I",
+      "section": "A",
+      "instructor": "Sivandran,Gaj"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2025",
+      "course": "Q SCI 292",
+      "courseTitle": "ANLYS FOR BIOL 2",
+      "section": "A",
+      "instructor": "Sivandran,Gaj"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2025",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABL & STAT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2025",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABL & STAT",
+      "section": "A",
+      "instructor": "Tobin,Patrick C"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2025",
+      "course": "Q SCI 451",
+      "courseTitle": "ANALYT METH WILDLIFE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2025",
+      "course": "Q SCI 451",
+      "courseTitle": "ANALYT METH WILDLIFE",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2025",
+      "course": "Q SCI 454",
+      "courseTitle": "INTR QUANT ECOLOGY",
+      "section": "A",
+      "instructor": "Essington,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2025",
+      "course": "Q SCI 482",
+      "courseTitle": "STAT INFR IN ECOL",
+      "section": "A",
+      "instructor": "Swan,Robert James"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2025",
+      "course": "Q SCI 498",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2025",
+      "course": "Q SCI 499",
+      "courseTitle": "RESEARCH EXPERIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2025",
+      "course": "Q SCI 291",
+      "courseTitle": "CALC FOR NAT SYS I",
+      "section": "A",
+      "instructor": "Sivandran,Gaj"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2025",
+      "course": "Q SCI 292",
+      "courseTitle": "CALC FOR NAT SYS II",
+      "section": "A",
+      "instructor": "WALLACE,BRENDAN"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2025",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABL & STAT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2025",
+      "course": "Q SCI 403",
+      "courseTitle": "RESAMPLING INFER",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2025",
+      "course": "Q SCI 403",
+      "courseTitle": "RESAMPLING INFER",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2025",
+      "course": "Q SCI 458",
+      "courseTitle": "QUANT CONSRV & MGMT",
+      "section": "A",
+      "instructor": "RJ"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2025",
+      "course": "Q SCI 483",
+      "courseTitle": "STAT REGRES IN ECOL",
+      "section": "A",
+      "instructor": "shen,Minyan Jane"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2025",
+      "course": "Q SCI 497",
+      "courseTitle": "SP TOPICS IN Q SCI",
+      "section": "A",
+      "instructor": "Sivandran,Gaj"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2025",
+      "course": "Q SCI 498",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2025",
+      "course": "Q SCI 499",
+      "courseTitle": "RESEARCH EXPERIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SUM2025",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABL & STAT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SUM2025",
+      "course": "Q SCI 499",
+      "courseTitle": "RESEARCH EXPERIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2025",
+      "course": "Q SCI 291",
+      "courseTitle": "CALC FOR NAT SYS I",
+      "section": "A",
+      "instructor": "Sivandran,Gaj"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2025",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABL & STAT",
+      "section": "A",
+      "instructor": "Punt,Andre E"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2025",
+      "course": "Q SCI 482",
+      "courseTitle": "STAT INFR IN ECOL",
+      "section": "A",
+      "instructor": "shen,Minyan Jane"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2025",
+      "course": "Q SCI 497",
+      "courseTitle": "SP TOPICS IN Q SCI",
+      "section": "A",
+      "instructor": "Sivandran,Gaj"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2025",
+      "course": "Q SCI 498",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "AUT2025",
+      "course": "Q SCI 499",
+      "courseTitle": "RESEARCH EXPERIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2026",
+      "course": "Q SCI 256",
+      "courseTitle": "INTRO DATA SCI MTHDS",
+      "section": "A",
+      "instructor": "WALLACE,BRENDAN"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2026",
+      "course": "Q SCI 291",
+      "courseTitle": "CALC FOR NAT SYS I",
+      "section": "A",
+      "instructor": "Sivandran,Gaj"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2026",
+      "course": "Q SCI 292",
+      "courseTitle": "CALC FOR NAT SYS II",
+      "section": "A",
+      "instructor": "Sivandran,Gaj"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2026",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABL & STAT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2026",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABL & STAT",
+      "section": "A",
+      "instructor": "Tobin,Patrick C"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2026",
+      "course": "Q SCI 451",
+      "courseTitle": "ANALYT METH WILDLIFE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2026",
+      "course": "Q SCI 451",
+      "courseTitle": "ANALYT METH WILDLIFE",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2026",
+      "course": "Q SCI 454",
+      "courseTitle": "INTR QUANT ECOLOGY",
+      "section": "A",
+      "instructor": "Essington,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2026",
+      "course": "Q SCI 482",
+      "courseTitle": "STAT INFR IN ECOL",
+      "section": "A",
+      "instructor": "shen,Minyan Jane"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2026",
+      "course": "Q SCI 498",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "WIN2026",
+      "course": "Q SCI 499",
+      "courseTitle": "RESEARCH EXPERIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2026",
+      "course": "Q SCI 291",
+      "courseTitle": "CALC FOR NAT SYS I",
+      "section": "A",
+      "instructor": "Sivandran,Gaj"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2026",
+      "course": "Q SCI 292",
+      "courseTitle": "CALC FOR NAT SYS II",
+      "section": "A",
+      "instructor": "Berdahl,Andrew"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2026",
+      "course": "Q SCI 381",
+      "courseTitle": "INTRO PROBABL & STAT",
+      "section": "A",
+      "instructor": "Gardner,Beth"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2026",
+      "course": "Q SCI 458",
+      "courseTitle": "QUANT CONSRV & MGMT",
+      "section": "A",
+      "instructor": "RJ"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2026",
+      "course": "Q SCI 483",
+      "courseTitle": "STAT REGRES IN ECOL",
+      "section": "A",
+      "instructor": "shen,Minyan Jane"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2026",
+      "course": "Q SCI 497",
+      "courseTitle": "SP TOPICS IN Q SCI",
+      "section": "A",
+      "instructor": "Sivandran,Gaj"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2026",
+      "course": "Q SCI 498",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2026",
+      "course": "Q SCI 499",
+      "courseTitle": "RESEARCH EXPERIENCE",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
 }

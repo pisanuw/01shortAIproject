@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Ross%2CEllie",
+  "professor": "Ross,Ellie",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "AUT2025",
+      "course": "COM 220",
+      "courseTitle": "INTRO TO PUBLIC SPK",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "SUM2025",
+      "course": "COM 220",
+      "courseTitle": "INTRO TO PUBLIC SPK",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "SUM2024",
+      "course": "COM 220",
+      "courseTitle": "INTRO TO PUBLIC SPK",
+      "section": "E"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Hill%2CGeoffrey",
+  "professor": "Hill,Geoffrey",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "WIN2022",
+      "course": "IMMUN 561",
+      "courseTitle": "MECH PERIPH TOLER",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SUM2021",
+      "course": "IMMUN 561",
+      "courseTitle": "MECH PERIPH TOLER",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "immun",
+      "deptName": "Immunology",
+      "term": "SPR2021",
+      "course": "IMMUN 561",
+      "courseTitle": "MECH PERIPH TOLER",
+      "section": "A"
+    }
+  ]
+}

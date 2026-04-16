@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:58Z",
+  "generatedAt": "2026-04-16T02:57:13Z",
   "campus": "S",
   "dept": "stat",
   "deptName": "Statistics",
@@ -112,7 +112,7 @@
       "course": "STAT 498",
       "courseTitle": "SPECIAL TOPICS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Erosheva,Elena A."
     },
     {
       "campus": "S",
@@ -322,7 +322,7 @@
       "course": "STAT 221",
       "courseTitle": "STAT FOR SOC SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Crowder,Kyle D."
     },
     {
       "campus": "S",
@@ -602,7 +602,7 @@
       "course": "STAT 221",
       "courseTitle": "STAT FOR SOC SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brown,William"
     },
     {
       "campus": "S",
@@ -662,7 +662,7 @@
       "course": "STAT 390",
       "courseTitle": "STAT MTHDS ENGR SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Marzban,Caren"
     },
     {
       "campus": "S",
@@ -1011,8 +1011,8 @@
       "term": "SUM2021",
       "course": "STAT 311",
       "courseTitle": "ELEMNTS STAT METHOD",
-      "section": "D",
-      "instructor": "Cardoso,Tamre"
+      "section": "E",
+      "instructor": "Brown,William"
     },
     {
       "campus": "S",
@@ -1021,8 +1021,8 @@
       "term": "SUM2021",
       "course": "STAT 311",
       "courseTitle": "ELEMNTS STAT METHOD",
-      "section": "E",
-      "instructor": "TBA"
+      "section": "D",
+      "instructor": "Cardoso,Tamre"
     },
     {
       "campus": "S",
@@ -1302,7 +1302,7 @@
       "course": "STAT 498",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "Richardson,Thomas S"
+      "instructor": "A Richardson,Thomas S"
     },
     {
       "campus": "S",
@@ -1822,7 +1822,7 @@
       "course": "STAT 220",
       "courseTitle": "STAT REASONING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Marzban,Caren"
     },
     {
       "campus": "S",
@@ -2212,7 +2212,7 @@
       "course": "STAT 311",
       "courseTitle": "ELEMNTS STAT METHOD",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Allotey,Prince"
     },
     {
       "campus": "S",
@@ -2712,7 +2712,7 @@
       "course": "STAT 220",
       "courseTitle": "STAT REASONING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Marzban,Caren"
     },
     {
       "campus": "S",
@@ -3082,7 +3082,7 @@
       "course": "STAT 220",
       "courseTitle": "STAT REASONING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Marzban,Caren"
     },
     {
       "campus": "S",
@@ -3092,7 +3092,7 @@
       "course": "STAT 221",
       "courseTitle": "STAT FOR SOC SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Furfaro,Emanuela"
     },
     {
       "campus": "S",
@@ -3458,6 +3458,526 @@
       "campus": "S",
       "dept": "stat",
       "deptName": "Statistics",
+      "term": "SUM2023",
+      "course": "STAT 220",
+      "courseTitle": "STAT REASONING",
+      "section": "A",
+      "instructor": "Brown,William"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2023",
+      "course": "STAT 221",
+      "courseTitle": "STAT FOR SOC SCI",
+      "section": "A",
+      "instructor": "Toro,Matthew Eissa"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2023",
+      "course": "STAT 311",
+      "courseTitle": "ELEMNTS STAT METHOD",
+      "section": "A",
+      "instructor": "Allotey,Prince"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2023",
+      "course": "STAT 311",
+      "courseTitle": "ELEMNTS STAT METHOD",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2023",
+      "course": "STAT 390",
+      "courseTitle": "STAT MTHDS ENGR SCI",
+      "section": "A",
+      "instructor": "Marzban,Caren"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2023",
+      "course": "STAT 394",
+      "courseTitle": "PROBABILITY I",
+      "section": "B",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2023",
+      "course": "STAT 394",
+      "courseTitle": "PROBABILITY I",
+      "section": "A",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2023",
+      "course": "STAT 394",
+      "courseTitle": "PROBABILITY I",
+      "section": "C",
+      "instructor": "Ottolini,Andrea"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2023",
+      "course": "STAT 395",
+      "courseTitle": "PROBABILITY II",
+      "section": "A",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2023",
+      "course": "STAT 416",
+      "courseTitle": "INTRO MACH LEARNING",
+      "section": "A",
+      "instructor": "Zhou,Datong-Paul"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2023",
+      "course": "STAT 497",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2023",
+      "course": "STAT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2023",
+      "course": "STAT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2023",
+      "course": "STAT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2023",
+      "course": "STAT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2023",
+      "course": "STAT 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2023",
+      "course": "STAT 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 220",
+      "courseTitle": "STAT REASONING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 221",
+      "courseTitle": "STAT FOR SOC SCI",
+      "section": "A",
+      "instructor": "Furfaro,Emanuela"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 302",
+      "courseTitle": "STAT COMPUTING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 303",
+      "courseTitle": "ALGO DCSN-MKNG ETHCS",
+      "section": "A",
+      "instructor": "Richardson,Thomas S"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 311",
+      "courseTitle": "ELEMNTS STAT METHOD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 311",
+      "courseTitle": "ELEMNTS STAT METHOD",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 340",
+      "courseTitle": "PROB AND MATH STAT",
+      "section": "A",
+      "instructor": "Grove,Ranjini"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 390",
+      "courseTitle": "STAT MTHDS ENGR SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 394",
+      "courseTitle": "PROBABILITY I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 406",
+      "courseTitle": "RES DESIGN & STATS",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 416",
+      "courseTitle": "INTRO MACH LEARNING",
+      "section": "A",
+      "instructor": "Zhou,Datong-Paul"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 421",
+      "courseTitle": "APPL STAT EXP DESGN",
+      "section": "A",
+      "instructor": "Marzban,Caren"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 451",
+      "courseTitle": "VISUALIZING DATA",
+      "section": "A",
+      "instructor": "Ducellier,Ariane"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 497",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "Furfaro,Emanuela"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 502",
+      "courseTitle": "DESIGN ANLYS EXPMTS",
+      "section": "A",
+      "instructor": "Skalland,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 509",
+      "courseTitle": "ECONMETI: MATH STAT",
+      "section": "A",
+      "instructor": "Richardson,Thomas S"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 512",
+      "courseTitle": "STATISTCAL INFERNCE",
+      "section": "A",
+      "instructor": "Perkovic,Ema"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 516",
+      "courseTitle": "STOCHASTIC MODELING",
+      "section": "A",
+      "instructor": "Giessing,Alexander"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 521",
+      "courseTitle": "ADV PROBABILITY",
+      "section": "A",
+      "instructor": "Pal,Soumik"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 535",
+      "courseTitle": "STATISTICAL LEARNING",
+      "section": "A",
+      "instructor": "Meila,Marina"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 536",
+      "courseTitle": "ANALYSIS CATEGR DATA",
+      "section": "A",
+      "instructor": "Dobra,Adrian"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 551",
+      "courseTitle": "STAT GENET II",
+      "section": "A",
+      "instructor": "Conomos,Matthew P"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 560",
+      "courseTitle": "HIERARCH MODELING SS",
+      "section": "A",
+      "instructor": "McCormick,Tyler Harris"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 570",
+      "courseTitle": "REGR METHODS:INDEPT",
+      "section": "A",
+      "instructor": "Wakefield,Jon"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 581",
+      "courseTitle": "ADV THY STAT INF I",
+      "section": "A",
+      "instructor": "Luedtke,Alex"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 590",
+      "courseTitle": "STAT SEMINAR",
+      "section": "B",
+      "instructor": "McCormick,Tyler Harris"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 590",
+      "courseTitle": "STAT SEMINAR",
+      "section": "A",
+      "instructor": "Perkovic,Ema"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 591",
+      "courseTitle": "SPEC TOP STAT",
+      "section": "B",
+      "instructor": "Taeb,Armeen"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 597",
+      "courseTitle": "APLD DATA ANLYS PRJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 599",
+      "courseTitle": "STAT CONSULTING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2023",
+      "course": "STAT 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
       "term": "WIN2024",
       "course": "STAT 180",
       "courseTitle": "INTRO DATA SCIENCE",
@@ -3472,7 +3992,7 @@
       "course": "STAT 220",
       "courseTitle": "STAT REASONING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chen,Andy"
     },
     {
       "campus": "S",
@@ -3502,7 +4022,7 @@
       "course": "STAT 311",
       "courseTitle": "ELEMNTS STAT METHOD",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Allotey,Prince"
     },
     {
       "campus": "S",
@@ -3552,7 +4072,7 @@
       "course": "STAT 390",
       "courseTitle": "STAT MTHDS ENGR SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Giessing,Alexander"
     },
     {
       "campus": "S",
@@ -3822,7 +4342,7 @@
       "course": "STAT 221",
       "courseTitle": "STAT FOR SOC SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brown,William"
     },
     {
       "campus": "S",
@@ -3852,7 +4372,7 @@
       "course": "STAT 311",
       "courseTitle": "ELEMNTS STAT METHOD",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Wagner,Anne"
     },
     {
       "campus": "S",
@@ -3872,7 +4392,7 @@
       "course": "STAT 390",
       "courseTitle": "STAT MTHDS ENGR SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Giessing,Alexander"
     },
     {
       "campus": "S",
@@ -4218,6 +4738,496 @@
       "campus": "S",
       "dept": "stat",
       "deptName": "Statistics",
+      "term": "SUM2024",
+      "course": "STAT 220",
+      "courseTitle": "STAT REASONING",
+      "section": "A",
+      "instructor": "Brown,William"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2024",
+      "course": "STAT 221",
+      "courseTitle": "STAT FOR SOC SCI",
+      "section": "A",
+      "instructor": "Sass,Victoria"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2024",
+      "course": "STAT 302",
+      "courseTitle": "STAT COMPUTING",
+      "section": "A",
+      "instructor": "Kunke,Jess"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2024",
+      "course": "STAT 311",
+      "courseTitle": "ELEMNTS STAT METHOD",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2024",
+      "course": "STAT 321",
+      "courseTitle": "SOC DATA SCI STAT I",
+      "section": "A",
+      "instructor": "KAHVECI,IHSAN"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2024",
+      "course": "STAT 390",
+      "courseTitle": "STAT MTHDS ENGR SCI",
+      "section": "A",
+      "instructor": "Marzban,Caren"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2024",
+      "course": "STAT 394",
+      "courseTitle": "PROBABILITY I",
+      "section": "C",
+      "instructor": "Greenfeld,Be'eri"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2024",
+      "course": "STAT 394",
+      "courseTitle": "PROBABILITY I",
+      "section": "A",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2024",
+      "course": "STAT 395",
+      "courseTitle": "PROBABILITY II",
+      "section": "A",
+      "instructor": "JO"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2024",
+      "course": "STAT 416",
+      "courseTitle": "INTRO MACH LEARNING",
+      "section": "A",
+      "instructor": "Shah,Tanmay"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2024",
+      "course": "STAT 497",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2024",
+      "course": "STAT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2024",
+      "course": "STAT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2024",
+      "course": "STAT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2024",
+      "course": "STAT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2024",
+      "course": "STAT 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2024",
+      "course": "STAT 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 220",
+      "courseTitle": "STAT REASONING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 221",
+      "courseTitle": "STAT FOR SOC SCI",
+      "section": "A",
+      "instructor": "Brown,William"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 302",
+      "courseTitle": "STAT COMPUTING",
+      "section": "A",
+      "instructor": "Furfaro,Emanuela"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 303",
+      "courseTitle": "ALGO DCSN-MKNG ETHCS",
+      "section": "A",
+      "instructor": "Richardson,Thomas S"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 311",
+      "courseTitle": "ELEMNTS STAT METHOD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 311",
+      "courseTitle": "ELEMNTS STAT METHOD",
+      "section": "B",
+      "instructor": "Wagner,Anne"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 341",
+      "courseTitle": "PROB & MATH STAT II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 390",
+      "courseTitle": "STAT MTHDS ENGR SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 394",
+      "courseTitle": "PROBABILITY I",
+      "section": "A",
+      "instructor": "Drouot,Alexis Franck"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 421",
+      "courseTitle": "APPL STAT EXP DESGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 451",
+      "courseTitle": "VISUALIZING DATA",
+      "section": "A",
+      "instructor": "Ducellier,Ariane"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 452",
+      "courseTitle": "STAT & PHIL VOTING",
+      "section": "A",
+      "instructor": "Erosheva,Elena A."
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 497",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "Furfaro,Emanuela"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 502",
+      "courseTitle": "DESIGN ANLYS EXPMTS",
+      "section": "A",
+      "instructor": "Perkovic,Ema"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 509",
+      "courseTitle": "ECONMETI: MATH STAT",
+      "section": "A",
+      "instructor": "Richardson,Thomas S"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 512",
+      "courseTitle": "STATISTCAL INFERNCE",
+      "section": "A",
+      "instructor": "Perkovic,Ema"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 516",
+      "courseTitle": "STOCHASTIC MODELING",
+      "section": "A",
+      "instructor": "Chen,Yen-Chi"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 521",
+      "courseTitle": "ADV PROBABILITY",
+      "section": "A",
+      "instructor": "Cao,Shiping"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 535",
+      "courseTitle": "STATISTICAL LEARNING",
+      "section": "A",
+      "instructor": "Chen,Yen-Chi"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 536",
+      "courseTitle": "ANALYSIS CATEGR DATA",
+      "section": "A",
+      "instructor": "Dobra,Adrian"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 551",
+      "courseTitle": "STAT GENET II",
+      "section": "A",
+      "instructor": "Qi,Guanghao"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 570",
+      "courseTitle": "REGR METHODS: INDEPT",
+      "section": "A",
+      "instructor": "Lila,Eardi"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 581",
+      "courseTitle": "ADV THY STAT INF I",
+      "section": "A",
+      "instructor": "Rotnitzky,Andrea"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 590",
+      "courseTitle": "STAT SEMINAR",
+      "section": "A",
+      "instructor": "Cinelli,Carlos"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 590",
+      "courseTitle": "STAT SEMINAR",
+      "section": "B",
+      "instructor": "McCormick,Tyler Harris"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 597",
+      "courseTitle": "APLD DATA ANLYS PRJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 599",
+      "courseTitle": "STAT CONSULTING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2024",
+      "course": "STAT 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
       "term": "WIN2025",
       "course": "STAT 180",
       "courseTitle": "INTRO DATA SCIENCE",
@@ -4232,7 +5242,7 @@
       "course": "STAT 220",
       "courseTitle": "STAT REASONING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "F Rico,Zoraida"
     },
     {
       "campus": "S",
@@ -4242,7 +5252,7 @@
       "course": "STAT 221",
       "courseTitle": "STAT FOR SOC SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brown,William"
     },
     {
       "campus": "S",
@@ -4572,7 +5582,7 @@
       "course": "STAT 220",
       "courseTitle": "STAT REASONING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "F Rico,Zoraida"
     },
     {
       "campus": "S",
@@ -4582,7 +5592,7 @@
       "course": "STAT 221",
       "courseTitle": "STAT FOR SOC SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brown,William"
     },
     {
       "campus": "S",
@@ -4612,7 +5622,7 @@
       "course": "STAT 311",
       "courseTitle": "ELEMNTS STAT METHOD",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Wagner,Anne"
     },
     {
       "campus": "S",
@@ -5002,7 +6012,7 @@
       "course": "STAT 311",
       "courseTitle": "ELEMNTS STAT METHOD",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Wagner,Anne"
     },
     {
       "campus": "S",
@@ -5132,7 +6142,7 @@
       "course": "STAT 220",
       "courseTitle": "STAT REASONING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chen,Andy"
     },
     {
       "campus": "S",
@@ -5142,7 +6152,7 @@
       "course": "STAT 221",
       "courseTitle": "STAT FOR SOC SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brown,William"
     },
     {
       "campus": "S",
@@ -5152,7 +6162,7 @@
       "course": "STAT 302",
       "courseTitle": "STAT COMPUTING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Furfaro,Emanuela"
     },
     {
       "campus": "S",
@@ -5162,7 +6172,7 @@
       "course": "STAT 303",
       "courseTitle": "ALGO DCSN-MKNG ETHCS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wagner,Anne"
     },
     {
       "campus": "S",
@@ -5172,7 +6182,7 @@
       "course": "STAT 311",
       "courseTitle": "ELEMNTS STAT METHOD",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brown,William"
     },
     {
       "campus": "S",
@@ -5182,7 +6192,7 @@
       "course": "STAT 311",
       "courseTitle": "ELEMNTS STAT METHOD",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Wagner,Anne"
     },
     {
       "campus": "S",
@@ -5192,7 +6202,7 @@
       "course": "STAT 321",
       "courseTitle": "SOC DATA SCI STAT I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ainsley,Caitlin T"
     },
     {
       "campus": "S",
@@ -5202,7 +6212,7 @@
       "course": "STAT 341",
       "courseTitle": "PROB & MATH STAT II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Grove,Ranjini"
     },
     {
       "campus": "S",
@@ -5232,7 +6242,7 @@
       "course": "STAT 451",
       "courseTitle": "VISUALIZING DATA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ducellier,Ariane"
     },
     {
       "campus": "S",
@@ -5242,7 +6252,7 @@
       "course": "STAT 451",
       "courseTitle": "VISUALIZING DATA",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Ducellier,Ariane"
     },
     {
       "campus": "S",
@@ -5252,7 +6262,7 @@
       "course": "STAT 491",
       "courseTitle": "INTRO STOCH PROC I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Burdzy,Krzysztof"
     },
     {
       "campus": "S",
@@ -5262,7 +6272,7 @@
       "course": "STAT 497",
       "courseTitle": "INTERNSHIP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Furfaro,Emanuela"
     },
     {
       "campus": "S",
@@ -5292,7 +6302,7 @@
       "course": "STAT 502",
       "courseTitle": "DESIGN ANLYS EXPMTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Perkovic,Ema"
     },
     {
       "campus": "S",
@@ -5302,7 +6312,7 @@
       "course": "STAT 509",
       "courseTitle": "ECONMETI: MATH STAT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Richardson,Thomas S"
     },
     {
       "campus": "S",
@@ -5312,7 +6322,7 @@
       "course": "STAT 512",
       "courseTitle": "STATISTCAL INFERNCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Perkovic,Ema"
     },
     {
       "campus": "S",
@@ -5322,7 +6332,7 @@
       "course": "STAT 521",
       "courseTitle": "ADV PROBABILITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mikulincer,Dan"
     },
     {
       "campus": "S",
@@ -5332,7 +6342,7 @@
       "course": "STAT 535",
       "courseTitle": "STATISTICAL LEARNING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chen,Yen-Chi"
     },
     {
       "campus": "S",
@@ -5342,7 +6352,7 @@
       "course": "STAT 536",
       "courseTitle": "ANALYSIS CATEGR DATA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dobra,Adrian"
     },
     {
       "campus": "S",
@@ -5352,7 +6362,7 @@
       "course": "STAT 560",
       "courseTitle": "HIERARCH MODELING SS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McCormick,Tyler Harris"
     },
     {
       "campus": "S",
@@ -5362,7 +6372,7 @@
       "course": "STAT 570",
       "courseTitle": "REGR METHODS: INDEPT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lila,Eardi"
     },
     {
       "campus": "S",
@@ -5372,17 +6382,7 @@
       "course": "STAT 581",
       "courseTitle": "ADV THY STAT INF I",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "stat",
-      "deptName": "Statistics",
-      "term": "AUT2025",
-      "course": "STAT 590",
-      "courseTitle": "STAT SEMINAR",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rotnitzky,Andrea"
     },
     {
       "campus": "S",
@@ -5392,7 +6392,17 @@
       "course": "STAT 590",
       "courseTitle": "STAT SEMINAR",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "McCormick,Tyler Harris"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2025",
+      "course": "STAT 590",
+      "courseTitle": "STAT SEMINAR",
+      "section": "A",
+      "instructor": "Taeb,Armeen"
     },
     {
       "campus": "S",
@@ -5452,7 +6462,7 @@
       "course": "STAT 180",
       "courseTitle": "INTRO DATA SCIENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Azose,Jon"
     },
     {
       "campus": "S",
@@ -5462,7 +6472,7 @@
       "course": "STAT 220",
       "courseTitle": "STAT REASONING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chen,Andy"
     },
     {
       "campus": "S",
@@ -5472,7 +6482,7 @@
       "course": "STAT 221",
       "courseTitle": "STAT FOR SOC SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brown,William"
     },
     {
       "campus": "S",
@@ -5482,7 +6492,7 @@
       "course": "STAT 302",
       "courseTitle": "STAT COMPUTING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lovelace,Katherine Elizabe"
     },
     {
       "campus": "S",
@@ -5492,7 +6502,7 @@
       "course": "STAT 311",
       "courseTitle": "ELEMNTS STAT METHOD",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brown,William"
     },
     {
       "campus": "S",
@@ -5502,7 +6512,7 @@
       "course": "STAT 311",
       "courseTitle": "ELEMNTS STAT METHOD",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Wagner,Anne"
     },
     {
       "campus": "S",
@@ -5512,7 +6522,7 @@
       "course": "STAT 316",
       "courseTitle": "DESIGN EXPRMNTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Choe,John Y."
     },
     {
       "campus": "S",
@@ -5522,7 +6532,7 @@
       "course": "STAT 342",
       "courseTitle": "PROB & MATH STAT 3",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Grove,Ranjini"
     },
     {
       "campus": "S",
@@ -5532,7 +6542,7 @@
       "course": "STAT 390",
       "courseTitle": "STAT MTHDS ENGR SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Marzban,Caren"
     },
     {
       "campus": "S",
@@ -5542,7 +6552,7 @@
       "course": "STAT 391",
       "courseTitle": "INTRO STAT DATA SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Furfaro,Emanuela"
     },
     {
       "campus": "S",
@@ -5552,7 +6562,7 @@
       "course": "STAT 391",
       "courseTitle": "INTRO STAT DATA SCI",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Furfaro,Emanuela"
     },
     {
       "campus": "S",
@@ -5562,7 +6572,7 @@
       "course": "STAT 394",
       "courseTitle": "PROBABILITY I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gorski,Christian"
     },
     {
       "campus": "S",
@@ -5572,7 +6582,7 @@
       "course": "STAT 394",
       "courseTitle": "PROBABILITY I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Grove,Ranjini"
     },
     {
       "campus": "S",
@@ -5582,7 +6592,7 @@
       "course": "STAT 395",
       "courseTitle": "PROBABILITY II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Marzban,Caren"
     },
     {
       "campus": "S",
@@ -5592,7 +6602,7 @@
       "course": "STAT 416",
       "courseTitle": "INTRO MACH LEARNING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Taeb,Armeen"
     },
     {
       "campus": "S",
@@ -5602,7 +6612,7 @@
       "course": "STAT 423",
       "courseTitle": "APPL RGRSN/ANLYS VAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Furfaro,Emanuela"
     },
     {
       "campus": "S",
@@ -5612,7 +6622,7 @@
       "course": "STAT 425",
       "courseTitle": "INTRO NONPARAMETRIC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chen,Yen-Chi"
     },
     {
       "campus": "S",
@@ -5622,7 +6632,7 @@
       "course": "STAT 425",
       "courseTitle": "INTRO NONPARAMETRIC",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Chen,Yen-Chi"
     },
     {
       "campus": "S",
@@ -5632,7 +6642,7 @@
       "course": "STAT 493",
       "courseTitle": "STOCH CALC OPTIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pal,Soumik"
     },
     {
       "campus": "S",
@@ -5652,7 +6662,7 @@
       "course": "STAT 496",
       "courseTitle": "CAPSTONE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wagner,Anne"
     },
     {
       "campus": "S",
@@ -5662,7 +6672,7 @@
       "course": "STAT 497",
       "courseTitle": "ADVANCED INTERNSHIP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Furfaro,Emanuela"
     },
     {
       "campus": "S",
@@ -5692,7 +6702,7 @@
       "course": "STAT 504",
       "courseTitle": "APPLIED REGRESSION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cinelli,Carlos"
     },
     {
       "campus": "S",
@@ -5702,7 +6712,7 @@
       "course": "STAT 513",
       "courseTitle": "STATISTCAL INFERNCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Han,Fang"
     },
     {
       "campus": "S",
@@ -5712,7 +6722,7 @@
       "course": "STAT 538",
       "courseTitle": "STATISTICAL LEARNING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Shen,Xinwei"
     },
     {
       "campus": "S",
@@ -5722,7 +6732,7 @@
       "course": "STAT 544",
       "courseTitle": "BAYES METHODS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rodriguez,Abel"
     },
     {
       "campus": "S",
@@ -5732,7 +6742,7 @@
       "course": "STAT 551",
       "courseTitle": "STAT GENET II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Qi,Guanghao"
     },
     {
       "campus": "S",
@@ -5742,7 +6752,7 @@
       "course": "STAT 557",
       "courseTitle": "APPL STAT & DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Willis,Amy D"
     },
     {
       "campus": "S",
@@ -5752,7 +6762,7 @@
       "course": "STAT 571",
       "courseTitle": "REGR METHODS: DEPT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Shaw,Pamela"
     },
     {
       "campus": "S",
@@ -5762,7 +6772,7 @@
       "course": "STAT 582",
       "courseTitle": "ADV THY STAT INF II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Han,Fang"
     },
     {
       "campus": "S",
@@ -5772,7 +6782,7 @@
       "course": "STAT 590",
       "courseTitle": "STAT SEMINAR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Taeb,Armeen"
     },
     {
       "campus": "S",
@@ -5822,7 +6832,7 @@
       "course": "STAT 220",
       "courseTitle": "STAT REASONING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chen,Andy"
     },
     {
       "campus": "S",
@@ -5832,7 +6842,7 @@
       "course": "STAT 221",
       "courseTitle": "STAT FOR SOC SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brown,William"
     },
     {
       "campus": "S",
@@ -5842,7 +6852,7 @@
       "course": "STAT 302",
       "courseTitle": "STAT COMPUTING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lovelace,Katherine Elizabe"
     },
     {
       "campus": "S",
@@ -5852,7 +6862,7 @@
       "course": "STAT 311",
       "courseTitle": "ELEMNTS STAT METHOD",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Furfaro,Emanuela"
     },
     {
       "campus": "S",
@@ -5872,7 +6882,7 @@
       "course": "STAT 322",
       "courseTitle": "SOC DATA SCI/STAT II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Johfre,Sasha"
     },
     {
       "campus": "S",
@@ -5882,7 +6892,7 @@
       "course": "STAT 390",
       "courseTitle": "STAT MTHDS ENGR SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Marzban,Caren"
     },
     {
       "campus": "S",
@@ -5892,7 +6902,7 @@
       "course": "STAT 394",
       "courseTitle": "PROBABILITY I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Grove,Ranjini"
     },
     {
       "campus": "S",
@@ -5902,7 +6912,7 @@
       "course": "STAT 395",
       "courseTitle": "PROBABILITY II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gorski,Christian"
     },
     {
       "campus": "S",
@@ -5912,7 +6922,7 @@
       "course": "STAT 396",
       "courseTitle": "FINITE MARKOV CHAINS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cinelli,Carlos"
     },
     {
       "campus": "S",
@@ -5922,7 +6932,7 @@
       "course": "STAT 416",
       "courseTitle": "INTRO MACH LEARNING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kessler Faulkner,Taylor"
     },
     {
       "campus": "S",
@@ -5932,7 +6942,7 @@
       "course": "STAT 424",
       "courseTitle": "GEN LINEAR MODELS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dobra,Adrian"
     },
     {
       "campus": "S",
@@ -5942,7 +6952,7 @@
       "course": "STAT 435",
       "courseTitle": "MACHINE LEARNING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Shen,Xinwei"
     },
     {
       "campus": "S",
@@ -5952,7 +6962,7 @@
       "course": "STAT 435",
       "courseTitle": "MACHINE LEARNING",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Shen,Xinwei"
     },
     {
       "campus": "S",
@@ -5962,7 +6972,7 @@
       "course": "STAT 494",
       "courseTitle": "INTERNSHIP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Furfaro,Emanuela"
     },
     {
       "campus": "S",
@@ -5972,7 +6982,7 @@
       "course": "STAT 497",
       "courseTitle": "ADVANCED INTERNSHIP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Furfaro,Emanuela"
     },
     {
       "campus": "S",
@@ -5982,7 +6992,7 @@
       "course": "STAT 498",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Harchaoui,Zaid"
     },
     {
       "campus": "S",
@@ -6012,7 +7022,7 @@
       "course": "STAT 522",
       "courseTitle": "ADV PROBABILITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Burdzy,Krzysztof"
     },
     {
       "campus": "S",
@@ -6022,7 +7032,7 @@
       "course": "STAT 523",
       "courseTitle": "ADV PROBABILITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Burdzy,Krzysztof"
     },
     {
       "campus": "S",
@@ -6032,7 +7042,7 @@
       "course": "STAT 524",
       "courseTitle": "DES MED STUD",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Heagerty,Patrick J."
     },
     {
       "campus": "S",
@@ -6042,7 +7052,7 @@
       "course": "STAT 534",
       "courseTitle": "STAT COMPUTING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dobra,Adrian"
     },
     {
       "campus": "S",
@@ -6052,7 +7062,7 @@
       "course": "STAT 559",
       "courseTitle": "MEASURE THEORY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Han,Fang"
     },
     {
       "campus": "S",
@@ -6062,7 +7072,7 @@
       "course": "STAT 564",
       "courseTitle": "BAYESN STAT SOC SCI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Perkovic,Ema"
     },
     {
       "campus": "S",
@@ -6072,17 +7082,7 @@
       "course": "STAT 566",
       "courseTitle": "CAUSAL MODELING",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "stat",
-      "deptName": "Statistics",
-      "term": "SPR2026",
-      "course": "STAT 572",
-      "courseTitle": "PREP FOR RES PRELIM",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Perkovic,Ema"
     },
     {
       "campus": "S",
@@ -6092,7 +7092,17 @@
       "course": "STAT 572",
       "courseTitle": "PREP FOR RES PRELIM",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Inoue,Lurdes"
+    },
+    {
+      "campus": "S",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SPR2026",
+      "course": "STAT 572",
+      "courseTitle": "PREP FOR RES PRELIM",
+      "section": "A",
+      "instructor": "Richardson,Thomas S"
     },
     {
       "campus": "S",
@@ -6102,7 +7112,7 @@
       "course": "STAT 579",
       "courseTitle": "DATA ANALYSIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mejia,Robin"
     },
     {
       "campus": "S",
@@ -6112,7 +7122,7 @@
       "course": "STAT 583",
       "courseTitle": "ADV THY STAT INF III",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Carone,Marco"
     },
     {
       "campus": "S",
@@ -6132,7 +7142,7 @@
       "course": "STAT 591",
       "courseTitle": "SPEC TOP STAT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Harchaoui,Zaid"
     },
     {
       "campus": "S",
@@ -6142,7 +7152,7 @@
       "course": "STAT 591",
       "courseTitle": "SPEC TOP STAT",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Shen,Xinwei"
     },
     {
       "campus": "S",

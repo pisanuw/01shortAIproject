@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Smith%2CLexi",
+  "professor": "Smith,Lexi",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "spanish",
+      "deptName": "Spanish",
+      "term": "SPR2026",
+      "course": "SPAN 313",
+      "courseTitle": "LIT & CLTR 1800-PRES",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "spanish",
+      "deptName": "Spanish",
+      "term": "WIN2026",
+      "course": "SPAN 102",
+      "courseTitle": "ELEMENTARY SPANISH",
+      "section": "B"
+    }
+  ]
+}

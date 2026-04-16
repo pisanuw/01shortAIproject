@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Ali%2CFarah",
+  "professor": "Ali,Farah",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "entre",
+      "deptName": "Entrepreneurship",
+      "term": "AUT2023",
+      "course": "ENTRE 432",
+      "courseTitle": "SOFTWARE ENTRPRNSHP",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "AUT2023",
+      "course": "CSE 490",
+      "courseTitle": "SPECIAL TOPICS CSE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "entre",
+      "deptName": "Entrepreneurship",
+      "term": "AUT2022",
+      "course": "ENTRE 432",
+      "courseTitle": "SOFTWARE ENTRPRNSHP",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "AUT2022",
+      "course": "CSE 490",
+      "courseTitle": "SPECIAL TOPICS CSE",
+      "section": "A"
+    }
+  ]
+}

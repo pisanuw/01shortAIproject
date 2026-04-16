@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Steinbrenner%20he.him%2CAdam",
+  "professor": "Steinbrenner he.him,Adam",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "WIN2021",
+      "course": "BIOL 541",
+      "courseTitle": "TOPICS IN MCD BIO",
+      "section": "M"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "WIN2021",
+      "course": "BIOL 497",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "AUT2020",
+      "course": "BIOL 400",
+      "courseTitle": "MOLECULAR BIOLOGY",
+      "section": "A"
+    }
+  ]
+}

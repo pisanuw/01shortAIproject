@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20PHYS%20565",
+  "course": "S - PHYS 565",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "WIN2026",
+      "course": "PHYS 565",
+      "courseTitle": "GENERAL RELATIVITY",
+      "section": "A",
+      "instructor": "Beane,Silas R."
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "SPR2025",
+      "course": "PHYS 565",
+      "courseTitle": "GENERAL RELATIVITY",
+      "section": "A",
+      "instructor": "Loverde,Marilena"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "SPR2023",
+      "course": "PHYS 565",
+      "courseTitle": "GENERAL RELATIVITY",
+      "section": "A",
+      "instructor": "Loverde,Marilena"
+    }
+  ]
+}

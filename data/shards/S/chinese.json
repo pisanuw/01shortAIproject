@@ -1,7 +1,2928 @@
 {
-  "generatedAt": "2026-04-15T16:27:55Z",
+  "generatedAt": "2026-04-16T02:57:10Z",
   "campus": "S",
   "dept": "chinese",
   "deptName": "Chinese",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2020",
+      "course": "CHIN 101",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "A",
+      "instructor": "Cao,Yu Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2020",
+      "course": "CHIN 101",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "B",
+      "instructor": "Cao,Yu Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2020",
+      "course": "CHIN 111",
+      "courseTitle": "1ST-YR CHIN-H",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2020",
+      "course": "CHIN 201",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2020",
+      "course": "CHIN 201",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2020",
+      "course": "CHIN 211",
+      "courseTitle": "2ND-YR CHIN-H",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2020",
+      "course": "CHIN 301",
+      "courseTitle": "3RD-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2020",
+      "course": "CHIN 301",
+      "courseTitle": "3RD-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2020",
+      "course": "CHIN 331",
+      "courseTitle": "EXTENSIVE READING",
+      "section": "A",
+      "instructor": "Cao,Yu Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2020",
+      "course": "CHIN 411",
+      "courseTitle": "FOURTH-YEAR CHINESE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2020",
+      "course": "CHIN 431",
+      "courseTitle": "EXTENSIVE READING",
+      "section": "A",
+      "instructor": "Cao,Yu Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2020",
+      "course": "CHIN 451",
+      "courseTitle": "FIRST-YR CLASSICAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2020",
+      "course": "CHIN 461",
+      "courseTitle": "HISTORY CHIN LIT",
+      "section": "A",
+      "instructor": "Wang,Ping"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2020",
+      "course": "CHIN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2020",
+      "course": "CHIN 540",
+      "courseTitle": "SEMINAR LINGUISTICS",
+      "section": "A",
+      "instructor": "Handel,Zev"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2021",
+      "course": "CHIN 102",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2021",
+      "course": "CHIN 102",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2021",
+      "course": "CHIN 112",
+      "courseTitle": "1ST-YR CHIN-H",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2021",
+      "course": "CHIN 202",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2021",
+      "course": "CHIN 202",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2021",
+      "course": "CHIN 212",
+      "courseTitle": "2ND-YR CHIN-H",
+      "section": "A",
+      "instructor": "Yu,L"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2021",
+      "course": "CHIN 302",
+      "courseTitle": "3RD YR NON HERITAGE",
+      "section": "A",
+      "instructor": "Yu,L"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2021",
+      "course": "CHIN 302",
+      "courseTitle": "3RD YR NON HERITAGE",
+      "section": "B",
+      "instructor": "Yu,L"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2021",
+      "course": "CHIN 385",
+      "courseTitle": "POP CLTR 20-C CHINA",
+      "section": "A",
+      "instructor": "Hamm,Chris"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2021",
+      "course": "CHIN 412",
+      "courseTitle": "FOURTH-YEAR CHINESE",
+      "section": "A",
+      "instructor": "Lu,Chan"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2021",
+      "course": "CHIN 452",
+      "courseTitle": "FIRST-YR CLASSICAL",
+      "section": "A",
+      "instructor": "Boltz,William G."
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2021",
+      "course": "CHIN 463",
+      "courseTitle": "HISTORY CHIN LIT",
+      "section": "A",
+      "instructor": "Hamm,Chris"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2021",
+      "course": "CHIN 473",
+      "courseTitle": "EARLY MEDIEVAL CHINA",
+      "section": "A",
+      "instructor": "Wang,Ping"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2021",
+      "course": "CHIN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2021",
+      "course": "CHIN 564",
+      "courseTitle": "PHILOL & LEXICOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2021",
+      "course": "CHIN 585",
+      "courseTitle": "SEMINAR POETRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2021",
+      "course": "CHIN 103",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2021",
+      "course": "CHIN 103",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2021",
+      "course": "CHIN 113",
+      "courseTitle": "1ST-YR CHIN-H",
+      "section": "A",
+      "instructor": "CHOU,YING-HSIU"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2021",
+      "course": "CHIN 203",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2021",
+      "course": "CHIN 203",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2021",
+      "course": "CHIN 213",
+      "courseTitle": "2ND-YR CHIN-H",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2021",
+      "course": "CHIN 303",
+      "courseTitle": "3RD-YR CHIN-NH",
+      "section": "A",
+      "instructor": "Yu,L"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2021",
+      "course": "CHIN 303",
+      "courseTitle": "3RD-YR CHIN-NH",
+      "section": "B",
+      "instructor": "Yu,L"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2021",
+      "course": "CHIN 342",
+      "courseTitle": "THE CHINESE LANGUAGE",
+      "section": "A",
+      "instructor": "Lu,Chan"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2021",
+      "course": "CHIN 373",
+      "courseTitle": "CHINESE POETRY",
+      "section": "A",
+      "instructor": "Wang,Ping"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2021",
+      "course": "CHIN 413",
+      "courseTitle": "FOURTH-YEAR CHINESE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2021",
+      "course": "CHIN 442",
+      "courseTitle": "THE CHINESE LANGUAGE",
+      "section": "A",
+      "instructor": "Lu,Chan"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2021",
+      "course": "CHIN 453",
+      "courseTitle": "FIRST-YR CLASSICAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2021",
+      "course": "CHIN 462",
+      "courseTitle": "HISTORY CHIN LIT",
+      "section": "A",
+      "instructor": "Wang,Ping"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2021",
+      "course": "CHIN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2021",
+      "course": "CHIN 582",
+      "courseTitle": "SEMINAR VERNAC LIT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SUM2021",
+      "course": "CHIN 134",
+      "courseTitle": "1ST-YR INT CHIN-NH",
+      "section": "A",
+      "instructor": "Yu,Liping"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SUM2021",
+      "course": "CHIN 234",
+      "courseTitle": "2ND-YR INT CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2021",
+      "course": "CHIN 101",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "A",
+      "instructor": "Cao,Yu Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2021",
+      "course": "CHIN 101",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "B",
+      "instructor": "Cao,Yu Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2021",
+      "course": "CHIN 111",
+      "courseTitle": "1ST-YR CHIN-H",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2021",
+      "course": "CHIN 201",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2021",
+      "course": "CHIN 201",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2021",
+      "course": "CHIN 211",
+      "courseTitle": "2ND-YR CHIN-H",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2021",
+      "course": "CHIN 301",
+      "courseTitle": "3RD-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2021",
+      "course": "CHIN 301",
+      "courseTitle": "3RD-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2021",
+      "course": "CHIN 331",
+      "courseTitle": "EXTENSIVE READING",
+      "section": "A",
+      "instructor": "Cao,Yu Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2021",
+      "course": "CHIN 342",
+      "courseTitle": "THE CHINESE LANGUAGE",
+      "section": "A",
+      "instructor": "Lu,Chan"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2021",
+      "course": "CHIN 411",
+      "courseTitle": "FOURTH-YEAR CHINESE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2021",
+      "course": "CHIN 431",
+      "courseTitle": "EXTENSIVE READING",
+      "section": "A",
+      "instructor": "Cao,Yu Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2021",
+      "course": "CHIN 442",
+      "courseTitle": "THE CHINESE LANGUAGE",
+      "section": "A",
+      "instructor": "Lu,Chan"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2021",
+      "course": "CHIN 451",
+      "courseTitle": "INTRO CLASSICAL CHIN",
+      "section": "A",
+      "instructor": "Boltz,William G."
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2021",
+      "course": "CHIN 461",
+      "courseTitle": "HISTORY CHIN LIT",
+      "section": "A",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2021",
+      "course": "CHIN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2021",
+      "course": "CHIN 551",
+      "courseTitle": "1ST-YR CLASSICL CHIN",
+      "section": "A",
+      "instructor": "Boltz,William G."
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2021",
+      "course": "CHIN 561",
+      "courseTitle": "HISTORY CHINESE LIT",
+      "section": "A",
+      "instructor": "DJ"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2022",
+      "course": "CHIN 102",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "A",
+      "instructor": "Cao,Yu Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2022",
+      "course": "CHIN 102",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "B",
+      "instructor": "Cao,Yu Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2022",
+      "course": "CHIN 112",
+      "courseTitle": "1ST-YR CHIN-H",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2022",
+      "course": "CHIN 202",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2022",
+      "course": "CHIN 202",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2022",
+      "course": "CHIN 212",
+      "courseTitle": "2ND-YR CHIN-H",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2022",
+      "course": "CHIN 302",
+      "courseTitle": "3RD YR NON HERITAGE",
+      "section": "A",
+      "instructor": "Yu,Liping"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2022",
+      "course": "CHIN 302",
+      "courseTitle": "3RD YR NON HERITAGE",
+      "section": "B",
+      "instructor": "Yu,Liping"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2022",
+      "course": "CHIN 385",
+      "courseTitle": "POP CLTR 20-C CHINA",
+      "section": "A",
+      "instructor": "Hamm,Chris"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2022",
+      "course": "CHIN 412",
+      "courseTitle": "FOURTH-YEAR CHINESE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2022",
+      "course": "CHIN 463",
+      "courseTitle": "HISTORY CHIN LIT",
+      "section": "A",
+      "instructor": "Hamm,Chris"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2022",
+      "course": "CHIN 473",
+      "courseTitle": "EARLY MEDIEVAL CHINA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2022",
+      "course": "CHIN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2022",
+      "course": "CHIN 531",
+      "courseTitle": "INTR HIST PHONOLOGY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2022",
+      "course": "CHIN 552",
+      "courseTitle": "1ST-YR CLASSICL CHIN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2022",
+      "course": "CHIN 563",
+      "courseTitle": "HISTORY CHINESE LIT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2022",
+      "course": "CHIN 585",
+      "courseTitle": "SEMINAR POETRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2022",
+      "course": "CHIN 103",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2022",
+      "course": "CHIN 103",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2022",
+      "course": "CHIN 113",
+      "courseTitle": "1ST-YR CHIN-H",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2022",
+      "course": "CHIN 203",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2022",
+      "course": "CHIN 203",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2022",
+      "course": "CHIN 213",
+      "courseTitle": "2ND-YR CHIN-H",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2022",
+      "course": "CHIN 303",
+      "courseTitle": "3RD-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2022",
+      "course": "CHIN 303",
+      "courseTitle": "3RD-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2022",
+      "course": "CHIN 342",
+      "courseTitle": "THE CHINESE LANGUAGE",
+      "section": "A",
+      "instructor": "Lu,Chan"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2022",
+      "course": "CHIN 373",
+      "courseTitle": "CHINESE POETRY",
+      "section": "A",
+      "instructor": "Wang,Ping"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2022",
+      "course": "CHIN 413",
+      "courseTitle": "FOURTH-YEAR CHINESE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2022",
+      "course": "CHIN 452",
+      "courseTitle": "INTR CLASS CHIN PTRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2022",
+      "course": "CHIN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2022",
+      "course": "CHIN 553",
+      "courseTitle": "1ST-YR CLASSICL CHIN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2022",
+      "course": "CHIN 587",
+      "courseTitle": "SEMINAR MODERN CLTR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SUM2022",
+      "course": "CHIN 134",
+      "courseTitle": "1ST-YR INT CHIN-NH",
+      "section": "A",
+      "instructor": "Yu,Liping"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SUM2022",
+      "course": "CHIN 234",
+      "courseTitle": "2ND-YR INT CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SUM2022",
+      "course": "CHIN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2022",
+      "course": "CHIN 101",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "A",
+      "instructor": "Cao,Yu Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2022",
+      "course": "CHIN 101",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "B",
+      "instructor": "Cao,Yu Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2022",
+      "course": "CHIN 111",
+      "courseTitle": "1ST-YR CHIN-H",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2022",
+      "course": "CHIN 201",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2022",
+      "course": "CHIN 201",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2022",
+      "course": "CHIN 211",
+      "courseTitle": "2ND-YR CHIN-H",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2022",
+      "course": "CHIN 301",
+      "courseTitle": "3RD-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2022",
+      "course": "CHIN 301",
+      "courseTitle": "3RD-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2022",
+      "course": "CHIN 331",
+      "courseTitle": "EXTENSIVE READING",
+      "section": "A",
+      "instructor": "Zhu,Yan"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2022",
+      "course": "CHIN 342",
+      "courseTitle": "THE CHINESE LANGUAGE",
+      "section": "A",
+      "instructor": "Handel,Zev"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2022",
+      "course": "CHIN 411",
+      "courseTitle": "FOURTH-YEAR CHINESE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2022",
+      "course": "CHIN 431",
+      "courseTitle": "EXTENSIVE READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2022",
+      "course": "CHIN 442",
+      "courseTitle": "THE CHINESE LANGUAGE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2022",
+      "course": "CHIN 451",
+      "courseTitle": "INTRO CLASSICAL CHIN",
+      "section": "A",
+      "instructor": "SUN,YINGYING"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2022",
+      "course": "CHIN 461",
+      "courseTitle": "HISTORY CHIN LIT",
+      "section": "A",
+      "instructor": "Wang,P"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2022",
+      "course": "CHIN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2022",
+      "course": "CHIN 551",
+      "courseTitle": "1ST-YR CLASSICL CHIN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2022",
+      "course": "CHIN 561",
+      "courseTitle": "HISTORY CHINESE LIT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2023",
+      "course": "CHIN 102",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2023",
+      "course": "CHIN 102",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2023",
+      "course": "CHIN 112",
+      "courseTitle": "1ST-YR CHIN-H",
+      "section": "A",
+      "instructor": "ZHOU,JIEYU"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2023",
+      "course": "CHIN 202",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "A",
+      "instructor": "Lee,Gloria"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2023",
+      "course": "CHIN 202",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "B",
+      "instructor": "Wu,Yifan"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2023",
+      "course": "CHIN 212",
+      "courseTitle": "2ND-YR CHIN-H",
+      "section": "A",
+      "instructor": "ZHOU,SHIWEI"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2023",
+      "course": "CHIN 302",
+      "courseTitle": "3RD YR NON HERITAGE",
+      "section": "A",
+      "instructor": "Yu,Liping"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2023",
+      "course": "CHIN 302",
+      "courseTitle": "3RD YR NON HERITAGE",
+      "section": "B",
+      "instructor": "Yu,Liping"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2023",
+      "course": "CHIN 412",
+      "courseTitle": "FOURTH-YEAR CHINESE",
+      "section": "A",
+      "instructor": "Zhu,Yan"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2023",
+      "course": "CHIN 432",
+      "courseTitle": "CONTEMPORARY CHINA",
+      "section": "A",
+      "instructor": "Zhu,Yan"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2023",
+      "course": "CHIN 463",
+      "courseTitle": "HISTORY CHIN LIT",
+      "section": "A",
+      "instructor": "Hamm,C"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2023",
+      "course": "CHIN 473",
+      "courseTitle": "EARLY MEDIEVAL CHINA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2023",
+      "course": "CHIN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2023",
+      "course": "CHIN 531",
+      "courseTitle": "INTR HIST PHONOLOGY",
+      "section": "A",
+      "instructor": "Carlyle,John"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2023",
+      "course": "CHIN 552",
+      "courseTitle": "1ST-YR CLASSICL CHIN",
+      "section": "A",
+      "instructor": "SUN,YINGYING"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2023",
+      "course": "CHIN 563",
+      "courseTitle": "HISTORY CHINESE LIT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2023",
+      "course": "CHIN 585",
+      "courseTitle": "SEMINAR POETRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2023",
+      "course": "CHIN 103",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2023",
+      "course": "CHIN 103",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2023",
+      "course": "CHIN 113",
+      "courseTitle": "1ST-YR CHIN-H",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2023",
+      "course": "CHIN 203",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2023",
+      "course": "CHIN 203",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2023",
+      "course": "CHIN 213",
+      "courseTitle": "2ND-YR CHIN-H",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2023",
+      "course": "CHIN 303",
+      "courseTitle": "3RD-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2023",
+      "course": "CHIN 303",
+      "courseTitle": "3RD-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2023",
+      "course": "CHIN 342",
+      "courseTitle": "THE CHINESE LANGUAGE",
+      "section": "A",
+      "instructor": "Carlyle,John"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2023",
+      "course": "CHIN 385",
+      "courseTitle": "POP CLTR 20-C CHINA",
+      "section": "A",
+      "instructor": "Hamm,Chris"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2023",
+      "course": "CHIN 413",
+      "courseTitle": "FOURTH-YEAR CHINESE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2023",
+      "course": "CHIN 452",
+      "courseTitle": "INTR CLASS CHIN PTRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2023",
+      "course": "CHIN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2023",
+      "course": "CHIN 553",
+      "courseTitle": "1ST-YR CLASSICL CHIN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2023",
+      "course": "CHIN 582",
+      "courseTitle": "SEMINAR VERNAC LIT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SUM2023",
+      "course": "CHIN 134",
+      "courseTitle": "1ST-YR INT CHIN-NH",
+      "section": "A",
+      "instructor": "Yu,Liping"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SUM2023",
+      "course": "CHIN 234",
+      "courseTitle": "2ND-YR INT CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SUM2023",
+      "course": "CHIN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2023",
+      "course": "CHIN 101",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "A",
+      "instructor": "Ma,Xi"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2023",
+      "course": "CHIN 101",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "B",
+      "instructor": "Ma,Xi"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2023",
+      "course": "CHIN 111",
+      "courseTitle": "1ST-YR CHIN-H",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2023",
+      "course": "CHIN 201",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2023",
+      "course": "CHIN 201",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2023",
+      "course": "CHIN 211",
+      "courseTitle": "2ND-YR CHIN-H",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2023",
+      "course": "CHIN 301",
+      "courseTitle": "3RD-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2023",
+      "course": "CHIN 301",
+      "courseTitle": "3RD-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2023",
+      "course": "CHIN 342",
+      "courseTitle": "THE CHINESE LANGUAGE",
+      "section": "A",
+      "instructor": "Handel,Zev"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2023",
+      "course": "CHIN 411",
+      "courseTitle": "FOURTH-YEAR CHINESE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2023",
+      "course": "CHIN 442",
+      "courseTitle": "THE CHINESE LANGUAGE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2023",
+      "course": "CHIN 451",
+      "courseTitle": "INTRO CLASSICAL CHIN",
+      "section": "A",
+      "instructor": "SUN,YINGYING"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2023",
+      "course": "CHIN 461",
+      "courseTitle": "HISTORY CHIN LIT",
+      "section": "A",
+      "instructor": "Wang,Ping"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2023",
+      "course": "CHIN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2023",
+      "course": "CHIN 551",
+      "courseTitle": "1ST-YR CLASSICL CHIN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2023",
+      "course": "CHIN 561",
+      "courseTitle": "HISTORY CHINESE LIT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2024",
+      "course": "CHIN 102",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2024",
+      "course": "CHIN 102",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2024",
+      "course": "CHIN 112",
+      "courseTitle": "1ST-YR CHIN-H",
+      "section": "A",
+      "instructor": "ZHOU,JIEYU"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2024",
+      "course": "CHIN 202",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "A",
+      "instructor": "Yu,Liping"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2024",
+      "course": "CHIN 202",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "B",
+      "instructor": "Yu,Liping"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2024",
+      "course": "CHIN 212",
+      "courseTitle": "2ND-YR CHIN-H",
+      "section": "A",
+      "instructor": "ZHOU,SHIWEI"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2024",
+      "course": "CHIN 302",
+      "courseTitle": "3RD YR NON HERITAGE",
+      "section": "A",
+      "instructor": "A Cao,Yu Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2024",
+      "course": "CHIN 302",
+      "courseTitle": "3RD YR NON HERITAGE",
+      "section": "B",
+      "instructor": "B Cao,Yu Qing"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2024",
+      "course": "CHIN 331",
+      "courseTitle": "EXTENSIVE READING",
+      "section": "A",
+      "instructor": "Zhu,Yan"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2024",
+      "course": "CHIN 373",
+      "courseTitle": "CHINESE POETRY",
+      "section": "A",
+      "instructor": "Wang,Ping"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2024",
+      "course": "CHIN 412",
+      "courseTitle": "FOURTH-YEAR CHINESE",
+      "section": "A",
+      "instructor": "Zhu,Yan"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2024",
+      "course": "CHIN 431",
+      "courseTitle": "EXTENSIVE READING",
+      "section": "A",
+      "instructor": "Zhu,Yan"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2024",
+      "course": "CHIN 463",
+      "courseTitle": "HISTORY CHIN LIT",
+      "section": "A",
+      "instructor": "Hamm,Chris"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2024",
+      "course": "CHIN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2024",
+      "course": "CHIN 531",
+      "courseTitle": "INTR HIST PHONOLOGY",
+      "section": "A",
+      "instructor": "Carlyle,John"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2024",
+      "course": "CHIN 552",
+      "courseTitle": "1ST-YR CLASSICL CHIN",
+      "section": "A",
+      "instructor": "SUN,YINGYING"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2024",
+      "course": "CHIN 563",
+      "courseTitle": "HISTORY CHINESE LIT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2024",
+      "course": "CHIN 585",
+      "courseTitle": "SEMINAR POETRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2024",
+      "course": "CHIN 103",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2024",
+      "course": "CHIN 103",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2024",
+      "course": "CHIN 113",
+      "courseTitle": "1ST-YR CHIN-H",
+      "section": "A",
+      "instructor": "ZHOU,JIEYU"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2024",
+      "course": "CHIN 203",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "A",
+      "instructor": "Lu,Chan"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2024",
+      "course": "CHIN 203",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2024",
+      "course": "CHIN 213",
+      "courseTitle": "2ND-YR CHIN-H",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2024",
+      "course": "CHIN 303",
+      "courseTitle": "3RD-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2024",
+      "course": "CHIN 303",
+      "courseTitle": "3RD-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2024",
+      "course": "CHIN 385",
+      "courseTitle": "POP CLTR 20-C CHINA",
+      "section": "A",
+      "instructor": "Hamm,Chris"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2024",
+      "course": "CHIN 413",
+      "courseTitle": "FOURTH-YEAR CHINESE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2024",
+      "course": "CHIN 432",
+      "courseTitle": "CONTEMPORARY CHINA",
+      "section": "A",
+      "instructor": "Zhu,Yan"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2024",
+      "course": "CHIN 452",
+      "courseTitle": "INTR CLASS CHIN PTRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2024",
+      "course": "CHIN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2024",
+      "course": "CHIN 553",
+      "courseTitle": "1ST-YR CLASSICL CHIN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2024",
+      "course": "CHIN 587",
+      "courseTitle": "SEMINAR MODERN CLTR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SUM2024",
+      "course": "CHIN 134",
+      "courseTitle": "1ST-YR INT CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SUM2024",
+      "course": "CHIN 234",
+      "courseTitle": "2ND-YR INT CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SUM2024",
+      "course": "CHIN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2024",
+      "course": "CHIN 101",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "A",
+      "instructor": "Ma,Xi"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2024",
+      "course": "CHIN 101",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "B",
+      "instructor": "Ma,Xi"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2024",
+      "course": "CHIN 111",
+      "courseTitle": "1ST-YR CHIN-H",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2024",
+      "course": "CHIN 201",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2024",
+      "course": "CHIN 201",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2024",
+      "course": "CHIN 301",
+      "courseTitle": "3RD-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2024",
+      "course": "CHIN 301",
+      "courseTitle": "3RD-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2024",
+      "course": "CHIN 342",
+      "courseTitle": "THE CHINESE LANGUAGE",
+      "section": "A",
+      "instructor": "CHEN,LIYAO"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2024",
+      "course": "CHIN 411",
+      "courseTitle": "FOURTH-YEAR CHINESE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2024",
+      "course": "CHIN 442",
+      "courseTitle": "THE CHINESE LANGUAGE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2024",
+      "course": "CHIN 451",
+      "courseTitle": "INTRO CLASSICAL CHIN",
+      "section": "A",
+      "instructor": "Rominger,Gian Duri"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2024",
+      "course": "CHIN 461",
+      "courseTitle": "HISTORY CHIN LIT",
+      "section": "A",
+      "instructor": "Wang,Ping"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2024",
+      "course": "CHIN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2024",
+      "course": "CHIN 551",
+      "courseTitle": "1ST-YR CLASSICL CHIN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2024",
+      "course": "CHIN 561",
+      "courseTitle": "HISTORY CHINESE LIT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2025",
+      "course": "CHIN 102",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2025",
+      "course": "CHIN 102",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2025",
+      "course": "CHIN 112",
+      "courseTitle": "1ST-YR CHIN-H",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2025",
+      "course": "CHIN 202",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2025",
+      "course": "CHIN 202",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2025",
+      "course": "CHIN 302",
+      "courseTitle": "3RD YR NON HERITAGE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2025",
+      "course": "CHIN 302",
+      "courseTitle": "3RD YR NON HERITAGE",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2025",
+      "course": "CHIN 412",
+      "courseTitle": "FOURTH-YEAR CHINESE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2025",
+      "course": "CHIN 463",
+      "courseTitle": "HISTORY CHIN LIT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2025",
+      "course": "CHIN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2025",
+      "course": "CHIN 531",
+      "courseTitle": "INTR HIST PHONOLOGY",
+      "section": "A",
+      "instructor": "Handel,Zev"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2025",
+      "course": "CHIN 552",
+      "courseTitle": "1ST-YR CLASSICL CHIN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2025",
+      "course": "CHIN 563",
+      "courseTitle": "HISTORY CHINESE LIT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2025",
+      "course": "CHIN 571",
+      "courseTitle": "READNG PREMOD TEXTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2025",
+      "course": "CHIN 103",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2025",
+      "course": "CHIN 103",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2025",
+      "course": "CHIN 113",
+      "courseTitle": "1ST-YR CHIN-H",
+      "section": "A",
+      "instructor": "ZHOU,JIEYU"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2025",
+      "course": "CHIN 203",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2025",
+      "course": "CHIN 203",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "A",
+      "instructor": "Yu,Liping"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2025",
+      "course": "CHIN 303",
+      "courseTitle": "3RD-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2025",
+      "course": "CHIN 303",
+      "courseTitle": "3RD-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2025",
+      "course": "CHIN 373",
+      "courseTitle": "CHINESE POETRY",
+      "section": "A",
+      "instructor": "Clare,Avery"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2025",
+      "course": "CHIN 413",
+      "courseTitle": "FOURTH-YEAR CHINESE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2025",
+      "course": "CHIN 452",
+      "courseTitle": "INTR CLASS CHIN PTRY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2025",
+      "course": "CHIN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2025",
+      "course": "CHIN 540",
+      "courseTitle": "SEMINAR LINGUISTICS",
+      "section": "A",
+      "instructor": "Handel,Zev"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SUM2025",
+      "course": "CHIN 134",
+      "courseTitle": "1ST-YR INT CHIN-NH",
+      "section": "A",
+      "instructor": "Zhu,Yan"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SUM2025",
+      "course": "CHIN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2025",
+      "course": "CHIN 101",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "A",
+      "instructor": "Ma,Xi"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2025",
+      "course": "CHIN 101",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "B",
+      "instructor": "Ma,Xi"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2025",
+      "course": "CHIN 111",
+      "courseTitle": "1ST-YR CHIN-H",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2025",
+      "course": "CHIN 201",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2025",
+      "course": "CHIN 201",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2025",
+      "course": "CHIN 211",
+      "courseTitle": "2ND-YR CHIN-H",
+      "section": "A",
+      "instructor": "Zhu,Yan"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2025",
+      "course": "CHIN 301",
+      "courseTitle": "3RD-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2025",
+      "course": "CHIN 301",
+      "courseTitle": "3RD-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2025",
+      "course": "CHIN 342",
+      "courseTitle": "THE CHINESE LANGUAGE",
+      "section": "A",
+      "instructor": "Handel,Zev"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2025",
+      "course": "CHIN 411",
+      "courseTitle": "FOURTH-YEAR CHINESE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2025",
+      "course": "CHIN 442",
+      "courseTitle": "THE CHINESE LANGUAGE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2025",
+      "course": "CHIN 451",
+      "courseTitle": "INTRO CLASSICAL CHIN",
+      "section": "A",
+      "instructor": "Rominger,Gian Duri"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2025",
+      "course": "CHIN 461",
+      "courseTitle": "HISTORY CHIN LIT",
+      "section": "A",
+      "instructor": "Wang,Ping"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2025",
+      "course": "CHIN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2025",
+      "course": "CHIN 551",
+      "courseTitle": "1ST-YR CLASSICL CHIN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "AUT2025",
+      "course": "CHIN 561",
+      "courseTitle": "HISTORY CHINESE LIT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2026",
+      "course": "CHIN 102",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2026",
+      "course": "CHIN 102",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2026",
+      "course": "CHIN 112",
+      "courseTitle": "1ST-YR CHIN-H",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2026",
+      "course": "CHIN 202",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2026",
+      "course": "CHIN 202",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2026",
+      "course": "CHIN 212",
+      "courseTitle": "2ND-YR CHIN-H",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2026",
+      "course": "CHIN 302",
+      "courseTitle": "3RD YR NON HERITAGE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2026",
+      "course": "CHIN 302",
+      "courseTitle": "3RD YR NON HERITAGE",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2026",
+      "course": "CHIN 412",
+      "courseTitle": "FOURTH-YEAR CHINESE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2026",
+      "course": "CHIN 463",
+      "courseTitle": "HISTORY CHIN LIT",
+      "section": "A",
+      "instructor": "Sheng,Zhifan"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2026",
+      "course": "CHIN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2026",
+      "course": "CHIN 531",
+      "courseTitle": "INTR HIST PHONOLOGY",
+      "section": "A",
+      "instructor": "Handel,Zev"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2026",
+      "course": "CHIN 552",
+      "courseTitle": "CLASSICAL CHINESE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2026",
+      "course": "CHIN 563",
+      "courseTitle": "HISTORY CHINESE LIT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "WIN2026",
+      "course": "CHIN 571",
+      "courseTitle": "READNG PREMOD TEXTS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2026",
+      "course": "CHIN 103",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2026",
+      "course": "CHIN 103",
+      "courseTitle": "1ST-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2026",
+      "course": "CHIN 113",
+      "courseTitle": "1ST-YR CHIN-H",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2026",
+      "course": "CHIN 203",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2026",
+      "course": "CHIN 203",
+      "courseTitle": "2ND-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2026",
+      "course": "CHIN 303",
+      "courseTitle": "3RD-YR CHIN-NH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2026",
+      "course": "CHIN 303",
+      "courseTitle": "3RD-YR CHIN-NH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2026",
+      "course": "CHIN 373",
+      "courseTitle": "CHINESE POETRY",
+      "section": "A",
+      "instructor": "B Zhu,Avery W."
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2026",
+      "course": "CHIN 413",
+      "courseTitle": "FOURTH-YEAR CHINESE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2026",
+      "course": "CHIN 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "chinese",
+      "deptName": "Chinese",
+      "term": "SPR2026",
+      "course": "CHIN 571",
+      "courseTitle": "READNG PREMOD TEXTS",
+      "section": "A",
+      "instructor": "Xiao,Yunxiao"
+    }
+  ]
 }

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Naser%2CNada%20Y",
+  "professor": "Naser,Nada Y",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nme",
+      "deptName": "Nanoscience and Molecular Engineering",
+      "term": "SPR2026",
+      "course": "NME 220",
+      "courseTitle": "MOL/NANO PRINCIPLES",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 201",
+      "courseTitle": "CLASS TO CAREER",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "nme",
+      "deptName": "Nanoscience and Molecular Engineering",
+      "term": "SPR2025",
+      "course": "NME 220",
+      "courseTitle": "MOL/NANO PRINCIPLES",
+      "section": "A"
+    }
+  ]
+}

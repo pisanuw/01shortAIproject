@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Breitenfeld%2CSarah%20Brucia",
+  "professor": "Breitenfeld,Sarah Brucia",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2021",
+      "course": "CLAS 320",
+      "courseTitle": "G & R SOC & STATUS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "SPR2021",
+      "course": "GREEK 103",
+      "courseTitle": "INTRODUCTORY GREEK",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "WIN2021",
+      "course": "GREEK 300",
+      "courseTitle": "INTRO GREEK ACCEL",
+      "section": "A"
+    }
+  ]
+}

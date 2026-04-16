@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Buckley%2CL",
+  "professor": "Buckley,L",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "SPR2023",
+      "course": "BIOL 561",
+      "courseTitle": "TOPICS IN ECOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "WIN2023",
+      "course": "BIOL 561",
+      "courseTitle": "TOPICS IN ECOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "SPR2022",
+      "course": "BIOL 561",
+      "courseTitle": "TOPICS IN ECOLOGY",
+      "section": "A"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:59Z",
+  "generatedAt": "2026-04-16T02:57:15Z",
   "campus": "S",
   "dept": "info",
   "deptName": "Informatics",
@@ -12,7 +12,7 @@
       "course": "INFO 101",
       "courseTitle": "SOCIAL NETWORKING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Boiko,Bob"
     },
     {
       "campus": "S",
@@ -22,7 +22,7 @@
       "course": "INFO 102",
       "courseTitle": "GENDER & INFO TECH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hoffmann,Anna Lauren"
     },
     {
       "campus": "S",
@@ -32,7 +32,7 @@
       "course": "INFO 180",
       "courseTitle": "INTRO DATA SCIENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Boiko,Bob"
     },
     {
       "campus": "S",
@@ -51,8 +51,8 @@
       "term": "AUT2020",
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Barker,Scott"
     },
     {
       "campus": "S",
@@ -61,8 +61,18 @@
       "term": "AUT2020",
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
+      "section": "A",
+      "instructor": "Janes,Joseph"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2020",
+      "course": "INFO 201",
+      "courseTitle": "TECH FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Freeman,Michael"
     },
     {
       "campus": "S",
@@ -72,17 +82,7 @@
       "course": "INFO 201",
       "courseTitle": "TECH FOUNDATIONS",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "AUT2020",
-      "course": "INFO 201",
-      "courseTitle": "TECH FOUNDATIONS",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Thayer,Kyle"
     },
     {
       "campus": "S",
@@ -102,7 +102,7 @@
       "course": "INFO 290",
       "courseTitle": "ORIENTATION TO INFO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Schildkraut,Laura"
     },
     {
       "campus": "S",
@@ -112,7 +112,7 @@
       "course": "INFO 300",
       "courseTitle": "RESEARCH METHODS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lefthand-Begay,Clarita"
     },
     {
       "campus": "S",
@@ -172,7 +172,7 @@
       "course": "INFO 340",
       "courseTitle": "CLIENT-SIDE DEV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ross,Joel"
     },
     {
       "campus": "S",
@@ -182,7 +182,7 @@
       "course": "INFO 350",
       "courseTitle": "INFO ETHICS & POLCY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Katell,Mike"
     },
     {
       "campus": "S",
@@ -232,7 +232,7 @@
       "course": "INFO 380",
       "courseTitle": "IS ANALYSIS & DSGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sturman,Richard"
     },
     {
       "campus": "S",
@@ -442,17 +442,7 @@
       "course": "INFO 101",
       "courseTitle": "SOCIAL NETWORKING",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "WIN2021",
-      "course": "INFO 200",
-      "courseTitle": "INTELL FOUNDATIONS",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Boiko,Bob"
     },
     {
       "campus": "S",
@@ -462,7 +452,17 @@
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Barker,Scott"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2021",
+      "course": "INFO 200",
+      "courseTitle": "INTELL FOUNDATIONS",
+      "section": "A",
+      "instructor": "Janes,Joseph"
     },
     {
       "campus": "S",
@@ -472,7 +472,7 @@
       "course": "INFO 201",
       "courseTitle": "TECH FOUNDATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Freeman,Michael"
     },
     {
       "campus": "S",
@@ -482,7 +482,7 @@
       "course": "INFO 201",
       "courseTitle": "TECH FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Ross,Joel"
     },
     {
       "campus": "S",
@@ -492,7 +492,7 @@
       "course": "INFO 290",
       "courseTitle": "ORIENTATION TO INFO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Schildkraut,Laura"
     },
     {
       "campus": "S",
@@ -502,7 +502,7 @@
       "course": "INFO 300",
       "courseTitle": "RESEARCH METHODS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Yip,Jason C."
     },
     {
       "campus": "S",
@@ -552,7 +552,7 @@
       "course": "INFO 340",
       "courseTitle": "CLIENT-SIDE DEV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ross,Joel"
     },
     {
       "campus": "S",
@@ -562,7 +562,7 @@
       "course": "INFO 350",
       "courseTitle": "INFO ETHICS & POLCY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Finn,Megan"
     },
     {
       "campus": "S",
@@ -662,7 +662,7 @@
       "course": "INFO 380",
       "courseTitle": "IS ANALYSIS & DSGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sturman,Richard"
     },
     {
       "campus": "S",
@@ -882,7 +882,7 @@
       "course": "INFO 101",
       "courseTitle": "SOCIAL NETWORKING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Boiko,Bob"
     },
     {
       "campus": "S",
@@ -892,17 +892,7 @@
       "course": "INFO 102",
       "courseTitle": "GENDER & INFO TECH",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "SPR2021",
-      "course": "INFO 200",
-      "courseTitle": "INTELL FOUNDATIONS",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hoffmann,Anna Lauren"
     },
     {
       "campus": "S",
@@ -912,7 +902,17 @@
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Barker,Scott"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2021",
+      "course": "INFO 200",
+      "courseTitle": "INTELL FOUNDATIONS",
+      "section": "A",
+      "instructor": "Ko,Amy J."
     },
     {
       "campus": "S",
@@ -922,7 +922,7 @@
       "course": "INFO 201",
       "courseTitle": "TECH FOUNDATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Thayer,Kyle"
     },
     {
       "campus": "S",
@@ -932,7 +932,7 @@
       "course": "INFO 201",
       "courseTitle": "TECH FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Toomet,Ott"
     },
     {
       "campus": "S",
@@ -942,7 +942,7 @@
       "course": "INFO 300",
       "courseTitle": "RESEARCH METHODS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Davis,Katie"
     },
     {
       "campus": "S",
@@ -1012,7 +1012,7 @@
       "course": "INFO 350",
       "courseTitle": "INFO ETHICS & POLCY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Belarde-Lewis,Miranda"
     },
     {
       "campus": "S",
@@ -1472,7 +1472,7 @@
       "course": "INFO 101",
       "courseTitle": "SOCIAL NETWORKING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Boiko,Bob"
     },
     {
       "campus": "S",
@@ -1482,7 +1482,7 @@
       "course": "INFO 102",
       "courseTitle": "GENDER & INFO TECH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hoffmann,Anna Lauren"
     },
     {
       "campus": "S",
@@ -1492,17 +1492,7 @@
       "course": "INFO 180",
       "courseTitle": "INTRO DATA SCIENCE",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "AUT2021",
-      "course": "INFO 200",
-      "courseTitle": "INTELL FOUNDATIONS",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Boiko,Bob"
     },
     {
       "campus": "S",
@@ -1512,17 +1502,17 @@
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Janes,Joseph"
     },
     {
       "campus": "S",
       "dept": "info",
       "deptName": "Informatics",
       "term": "AUT2021",
-      "course": "INFO 201",
-      "courseTitle": "TECH FOUNDATIONS",
+      "course": "INFO 200",
+      "courseTitle": "INTELL FOUNDATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "King,W.E."
     },
     {
       "campus": "S",
@@ -1532,7 +1522,17 @@
       "course": "INFO 201",
       "courseTitle": "TECH FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Deeb-Swihart,Julia"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2021",
+      "course": "INFO 201",
+      "courseTitle": "TECH FOUNDATIONS",
+      "section": "A",
+      "instructor": "Thayer,Kyle"
     },
     {
       "campus": "S",
@@ -1552,7 +1552,7 @@
       "course": "INFO 290",
       "courseTitle": "ORIENTATION TO INFO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Schildkraut,Laura"
     },
     {
       "campus": "S",
@@ -1942,7 +1942,7 @@
       "course": "INFO 101",
       "courseTitle": "SOCIAL NETWORKING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Boiko,Bob"
     },
     {
       "campus": "S",
@@ -1952,7 +1952,7 @@
       "course": "INFO 102",
       "courseTitle": "GENDER & INFO TECH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tari,Mina"
     },
     {
       "campus": "S",
@@ -1971,8 +1971,8 @@
       "term": "WIN2022",
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Janes,Joseph"
     },
     {
       "campus": "S",
@@ -1981,8 +1981,8 @@
       "term": "WIN2022",
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "King,W.E."
     },
     {
       "campus": "S",
@@ -1992,7 +1992,7 @@
       "course": "INFO 201",
       "courseTitle": "DATA SCI FOUNDATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hendry,David G"
     },
     {
       "campus": "S",
@@ -2002,7 +2002,7 @@
       "course": "INFO 201",
       "courseTitle": "DATA SCI FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Walsh,Melanie"
     },
     {
       "campus": "S",
@@ -2012,7 +2012,7 @@
       "course": "INFO 290",
       "courseTitle": "ORIENTATION TO INFO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Schildkraut,Laura"
     },
     {
       "campus": "S",
@@ -2022,7 +2022,7 @@
       "course": "INFO 300",
       "courseTitle": "RESEARCH METHODS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "King,W.E."
     },
     {
       "campus": "S",
@@ -2422,7 +2422,7 @@
       "course": "INFO 101",
       "courseTitle": "SOCIAL NETWORKING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Boiko,Bob"
     },
     {
       "campus": "S",
@@ -2432,17 +2432,7 @@
       "course": "INFO 102",
       "courseTitle": "GENDER & INFO TECH",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "SPR2022",
-      "course": "INFO 200",
-      "courseTitle": "INTELL FOUNDATIONS",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cross,Katherine Alejandra"
     },
     {
       "campus": "S",
@@ -2452,17 +2442,17 @@
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "King,Wes Eli"
     },
     {
       "campus": "S",
       "dept": "info",
       "deptName": "Informatics",
       "term": "SPR2022",
-      "course": "INFO 201",
-      "courseTitle": "DATA SCI FOUNDATIONS",
+      "course": "INFO 200",
+      "courseTitle": "INTELL FOUNDATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ko,Amy J."
     },
     {
       "campus": "S",
@@ -2472,7 +2462,17 @@
       "course": "INFO 201",
       "courseTitle": "DATA SCI FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Deeb-Swihart,Julia"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2022",
+      "course": "INFO 201",
+      "courseTitle": "DATA SCI FOUNDATIONS",
+      "section": "A",
+      "instructor": "Walsh,Melanie"
     },
     {
       "campus": "S",
@@ -2992,7 +2992,7 @@
       "course": "INFO 101",
       "courseTitle": "SOCIAL NETWORKING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Thayer,Kyle"
     },
     {
       "campus": "S",
@@ -3002,7 +3002,7 @@
       "course": "INFO 102",
       "courseTitle": "GENDER & INFO TECH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hoffmann,Anna Lauren"
     },
     {
       "campus": "S",
@@ -3012,7 +3012,7 @@
       "course": "INFO 180",
       "courseTitle": "INTRO DATA SCIENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Toomet,Ott"
     },
     {
       "campus": "S",
@@ -3032,7 +3032,7 @@
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Janes,Joseph"
     },
     {
       "campus": "S",
@@ -3042,17 +3042,7 @@
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "AUT2022",
-      "course": "INFO 201",
-      "courseTitle": "DATA SCI FOUNDATIONS",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "King,Wes Eli"
     },
     {
       "campus": "S",
@@ -3062,7 +3052,17 @@
       "course": "INFO 201",
       "courseTitle": "DATA SCI FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Hendry,David G"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2022",
+      "course": "INFO 201",
+      "courseTitle": "DATA SCI FOUNDATIONS",
+      "section": "A",
+      "instructor": "WINEGARDEN,THOMAS"
     },
     {
       "campus": "S",
@@ -3081,8 +3081,8 @@
       "term": "AUT2022",
       "course": "INFO 290",
       "courseTitle": "ORIENTATION TO INFO",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Eugenio,Dowell"
     },
     {
       "campus": "S",
@@ -3091,8 +3091,8 @@
       "term": "AUT2022",
       "course": "INFO 290",
       "courseTitle": "ORIENTATION TO INFO",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Schildkraut,Laura"
     },
     {
       "campus": "S",
@@ -3472,7 +3472,7 @@
       "course": "INFO 101",
       "courseTitle": "SOCIAL NETWORKING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Thayer,Kyle"
     },
     {
       "campus": "S",
@@ -3492,7 +3492,7 @@
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "King,Wes Eli"
     },
     {
       "campus": "S",
@@ -3502,17 +3502,7 @@
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "WIN2023",
-      "course": "INFO 201",
-      "courseTitle": "DATA SCI FOUNDATIONS",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "King,Wes Eli"
     },
     {
       "campus": "S",
@@ -3522,7 +3512,17 @@
       "course": "INFO 201",
       "courseTitle": "DATA SCI FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Toomet,Ott"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2023",
+      "course": "INFO 201",
+      "courseTitle": "DATA SCI FOUNDATIONS",
+      "section": "A",
+      "instructor": "Walsh,Melanie"
     },
     {
       "campus": "S",
@@ -3532,7 +3532,7 @@
       "course": "INFO 290",
       "courseTitle": "ORIENTATION TO INFO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Schildkraut,Laura"
     },
     {
       "campus": "S",
@@ -4002,7 +4002,7 @@
       "course": "INFO 103",
       "courseTitle": "SOC MED ETHICS AUTO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Thayer,Kyle"
     },
     {
       "campus": "S",
@@ -4022,7 +4022,7 @@
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hill,Trent"
     },
     {
       "campus": "S",
@@ -4032,7 +4032,7 @@
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "King,Wes Eli"
     },
     {
       "campus": "S",
@@ -4042,7 +4042,7 @@
       "course": "INFO 201",
       "courseTitle": "DATA SCI FOUNDATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Deeb-Swihart,Julia"
     },
     {
       "campus": "S",
@@ -4052,7 +4052,7 @@
       "course": "INFO 201",
       "courseTitle": "DATA SCI FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Thayer,Kyle"
     },
     {
       "campus": "S",
@@ -4272,7 +4272,7 @@
       "course": "INFO 443",
       "courseTitle": "SOFTWARE ARCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bell-Towne,Alexander Blake"
     },
     {
       "campus": "S",
@@ -4622,7 +4622,7 @@
       "course": "INFO 103",
       "courseTitle": "SOC MED ETHICS AUTO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Williams,Spencer"
     },
     {
       "campus": "S",
@@ -4632,7 +4632,7 @@
       "course": "INFO 180",
       "courseTitle": "INTRO DATA SCIENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Toomet,Ott"
     },
     {
       "campus": "S",
@@ -4652,7 +4652,7 @@
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Janes,Joseph"
     },
     {
       "campus": "S",
@@ -4662,17 +4662,7 @@
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "AUT2023",
-      "course": "INFO 201",
-      "courseTitle": "DATA SCI FOUNDATIONS",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ko,Amy J."
     },
     {
       "campus": "S",
@@ -4682,7 +4672,17 @@
       "course": "INFO 201",
       "courseTitle": "DATA SCI FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Deeb-Swihart,Julia"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2023",
+      "course": "INFO 201",
+      "courseTitle": "DATA SCI FOUNDATIONS",
+      "section": "A",
+      "instructor": "Toomet,Ott"
     },
     {
       "campus": "S",
@@ -4702,7 +4702,7 @@
       "course": "INFO 290",
       "courseTitle": "ORIENTATION TO INFO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Schildkraut,Laura"
     },
     {
       "campus": "S",
@@ -5142,17 +5142,7 @@
       "course": "INFO 103",
       "courseTitle": "SOC MED ETHICS AUTO",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "WIN2024",
-      "course": "INFO 200",
-      "courseTitle": "INTELL FOUNDATIONS",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Williams,Spencer"
     },
     {
       "campus": "S",
@@ -5162,17 +5152,17 @@
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Janes,Joseph"
     },
     {
       "campus": "S",
       "dept": "info",
       "deptName": "Informatics",
       "term": "WIN2024",
-      "course": "INFO 201",
-      "courseTitle": "DATA SCI FOUNDATIONS",
+      "course": "INFO 200",
+      "courseTitle": "INTELL FOUNDATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "King,Wes Eli"
     },
     {
       "campus": "S",
@@ -5182,17 +5172,17 @@
       "course": "INFO 201",
       "courseTitle": "DATA SCI FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Thayer,Kyle"
     },
     {
       "campus": "S",
       "dept": "info",
       "deptName": "Informatics",
       "term": "WIN2024",
-      "course": "INFO 290",
-      "courseTitle": "ORIENTATION TO INFO",
+      "course": "INFO 201",
+      "courseTitle": "DATA SCI FOUNDATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Toomet,Ott"
     },
     {
       "campus": "S",
@@ -5202,7 +5192,17 @@
       "course": "INFO 290",
       "courseTitle": "ORIENTATION TO INFO",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Mitchell,Kathy"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2024",
+      "course": "INFO 290",
+      "courseTitle": "ORIENTATION TO INFO",
+      "section": "A",
+      "instructor": "Schildkraut,Laura"
     },
     {
       "campus": "S",
@@ -5732,7 +5732,7 @@
       "course": "INFO 103",
       "courseTitle": "SOC MED ETHICS AUTO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Thayer,Kyle"
     },
     {
       "campus": "S",
@@ -5752,7 +5752,7 @@
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hill,Trent"
     },
     {
       "campus": "S",
@@ -5762,17 +5762,7 @@
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "SPR2024",
-      "course": "INFO 201",
-      "courseTitle": "DATA SCI FOUNDATIONS",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "King,Wes Eli"
     },
     {
       "campus": "S",
@@ -5782,7 +5772,17 @@
       "course": "INFO 201",
       "courseTitle": "DATA SCI FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Gupta,Pramod"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2024",
+      "course": "INFO 201",
+      "courseTitle": "DATA SCI FOUNDATIONS",
+      "section": "A",
+      "instructor": "Toomet,Ott"
     },
     {
       "campus": "S",
@@ -6211,6 +6211,16 @@
       "term": "SPR2024",
       "course": "INFO 498",
       "courseTitle": "TOPIC INFORMATICS",
+      "section": "I",
+      "instructor": "A Mitra,Tanu"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2024",
+      "course": "INFO 498",
+      "courseTitle": "TOPIC INFORMATICS",
       "section": "H",
       "instructor": "Huang,Richard Lewei"
     },
@@ -6223,16 +6233,6 @@
       "courseTitle": "TOPIC INFORMATICS",
       "section": "E",
       "instructor": "Kong,Judy"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "SPR2024",
-      "course": "INFO 498",
-      "courseTitle": "TOPIC INFORMATICS",
-      "section": "I",
-      "instructor": "Mitra,Tanu"
     },
     {
       "campus": "S",
@@ -6412,7 +6412,7 @@
       "course": "INFO 103",
       "courseTitle": "SOC MED ETHICS AUTO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Williams,Spencer"
     },
     {
       "campus": "S",
@@ -6422,7 +6422,7 @@
       "course": "INFO 180",
       "courseTitle": "INTRO DATA SCIENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Teodorescu,Mike"
     },
     {
       "campus": "S",
@@ -6441,8 +6441,8 @@
       "term": "AUT2024",
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Janes,Joseph"
     },
     {
       "campus": "S",
@@ -6451,8 +6451,8 @@
       "term": "AUT2024",
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "King,Wes Eli"
     },
     {
       "campus": "S",
@@ -6462,7 +6462,7 @@
       "course": "INFO 201",
       "courseTitle": "DATA SCI FOUNDATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Miller Rigoli,Carson"
     },
     {
       "campus": "S",
@@ -6472,7 +6472,7 @@
       "course": "INFO 201",
       "courseTitle": "DATA SCI FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Thayer,Kyle"
     },
     {
       "campus": "S",
@@ -6492,7 +6492,7 @@
       "course": "INFO 290",
       "courseTitle": "ORIENTATION TO INFO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Schildkraut,Laura"
     },
     {
       "campus": "S",
@@ -7012,17 +7012,7 @@
       "course": "INFO 103",
       "courseTitle": "SOC MED ETHICS AUTO",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "WIN2025",
-      "course": "INFO 200",
-      "courseTitle": "INTELL FOUNDATIONS",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Thayer,Kyle"
     },
     {
       "campus": "S",
@@ -7032,17 +7022,17 @@
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Janes,Joseph"
     },
     {
       "campus": "S",
       "dept": "info",
       "deptName": "Informatics",
       "term": "WIN2025",
-      "course": "INFO 201",
-      "courseTitle": "DATA SCI FOUNDATIONS",
+      "course": "INFO 200",
+      "courseTitle": "INTELL FOUNDATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "King,Wes Eli"
     },
     {
       "campus": "S",
@@ -7052,17 +7042,17 @@
       "course": "INFO 201",
       "courseTitle": "DATA SCI FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Miller Rigoli,Carson"
     },
     {
       "campus": "S",
       "dept": "info",
       "deptName": "Informatics",
       "term": "WIN2025",
-      "course": "INFO 290",
-      "courseTitle": "ORIENTATION TO INFO",
+      "course": "INFO 201",
+      "courseTitle": "DATA SCI FOUNDATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Toomet,Ott"
     },
     {
       "campus": "S",
@@ -7072,7 +7062,17 @@
       "course": "INFO 290",
       "courseTitle": "ORIENTATION TO INFO",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Mitchell,Kathy"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2025",
+      "course": "INFO 290",
+      "courseTitle": "ORIENTATION TO INFO",
+      "section": "A",
+      "instructor": "Schildkraut,Laura"
     },
     {
       "campus": "S",
@@ -7658,6 +7658,676 @@
       "campus": "S",
       "dept": "info",
       "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 102",
+      "courseTitle": "GENDER & INFO TECH",
+      "section": "A",
+      "instructor": "Cross,Katherine Alejandra"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 103",
+      "courseTitle": "SOC MED ETHICS AUTO",
+      "section": "A",
+      "instructor": "Thayer,Kyle"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 104",
+      "courseTitle": "TECH ETHICS/PLCY/LAW",
+      "section": "A",
+      "instructor": "Calo,Ryan"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 200",
+      "courseTitle": "INTELL FOUNDATIONS",
+      "section": "A",
+      "instructor": "Hill,Trent"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 200",
+      "courseTitle": "INTELL FOUNDATIONS",
+      "section": "B",
+      "instructor": "King,Wes Eli"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 201",
+      "courseTitle": "DATA SCI FOUNDATIONS",
+      "section": "B",
+      "instructor": "Miller Rigoli,Carson"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 201",
+      "courseTitle": "DATA SCI FOUNDATIONS",
+      "section": "A",
+      "instructor": "Toomet,Ott"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 300",
+      "courseTitle": "RESEARCH METHODS",
+      "section": "B",
+      "instructor": "Bristol,Rachel"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 300",
+      "courseTitle": "RESEARCH METHODS",
+      "section": "A",
+      "instructor": "King,Wes Eli"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 310",
+      "courseTitle": "INFO ASSR & CYBRSEC",
+      "section": "A",
+      "instructor": "Miller,Shane Ellsworth"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 330",
+      "courseTitle": "DB & DATA MODELING",
+      "section": "B",
+      "instructor": "FLEMING,KEVIN M."
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 330",
+      "courseTitle": "DB & DATA MODELING",
+      "section": "C",
+      "instructor": "FLEMING,KEVIN M."
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 330",
+      "courseTitle": "DB & DATA MODELING",
+      "section": "A",
+      "instructor": "Howe,Bill"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 331",
+      "courseTitle": "INFO ARCHITECTURE",
+      "section": "A",
+      "instructor": "Clark,Courtney L"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 340",
+      "courseTitle": "CLIENT-SIDE DEV",
+      "section": "B",
+      "instructor": "Kirdani-Ryan,Mara"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 340",
+      "courseTitle": "CLIENT-SIDE DEV",
+      "section": "A",
+      "instructor": "Ross,Joel"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 340",
+      "courseTitle": "CLIENT-SIDE DEV",
+      "section": "C",
+      "instructor": "Thayer,Kristen M"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 351",
+      "courseTitle": "INFO ETHICS & POLCY",
+      "section": "B",
+      "instructor": "Hayes,Carol"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 351",
+      "courseTitle": "INFO ETHICS & POLCY",
+      "section": "A",
+      "instructor": "Wale,Carla"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 352",
+      "courseTitle": "RACE GENDER & INFO",
+      "section": "B",
+      "instructor": "Iribe Ramirez,Yvette"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 352",
+      "courseTitle": "RACE GENDER & INFO",
+      "section": "A",
+      "instructor": "Odumosu,Temi"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 354",
+      "courseTitle": "DATA JUSTICE",
+      "section": "A",
+      "instructor": "Hoffmann,Anna Lauren"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 356",
+      "courseTitle": "MORAL REASON & DSGN",
+      "section": "A",
+      "instructor": "BAUGHAN,AMANDA"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 360",
+      "courseTitle": "DESIGN METHODS",
+      "section": "A",
+      "instructor": "Snyder,Jaime"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 360",
+      "courseTitle": "DESIGN METHODS",
+      "section": "B",
+      "instructor": "Williams,Spencer"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 370",
+      "courseTitle": "DATA SCIENCE METHDS",
+      "section": "C",
+      "instructor": "Miller Rigoli,Carson"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 370",
+      "courseTitle": "DATA SCIENCE METHDS",
+      "section": "D",
+      "instructor": "Miller Rigoli,Carson"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 370",
+      "courseTitle": "DATA SCIENCE METHDS",
+      "section": "A",
+      "instructor": "Weil,Max"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 370",
+      "courseTitle": "DATA SCIENCE METHDS",
+      "section": "B",
+      "instructor": "Weil,Max"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 371",
+      "courseTitle": "ADV DATA SCI METHDS",
+      "section": "A",
+      "instructor": "Toomet,Ott"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 371",
+      "courseTitle": "ADV DATA SCI METHDS",
+      "section": "B",
+      "instructor": "Toomet,Ott"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 380",
+      "courseTitle": "PRODUCT & IS MGMT",
+      "section": "C",
+      "instructor": "Rimple,Chris"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 380",
+      "courseTitle": "PRODUCT & IS MGMT",
+      "section": "B",
+      "instructor": "SANFORD,SARA M"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 380",
+      "courseTitle": "PRODUCT & IS MGMT",
+      "section": "A",
+      "instructor": "Sturman,Richard"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 386",
+      "courseTitle": "PROFESSIONALISM",
+      "section": "A",
+      "instructor": "Schildkraut,Laura"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 415",
+      "courseTitle": "TOPICS IN CYBERSEC",
+      "section": "A",
+      "instructor": "Reusser,Drew"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 430",
+      "courseTitle": "DB DESIGN & MGMT",
+      "section": "A",
+      "instructor": "Otim,Sam"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 441",
+      "courseTitle": "SERVER-SIDE DEV",
+      "section": "A",
+      "instructor": "Thayer,Kyle"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 442",
+      "courseTitle": "COOP SOFTWARE DEV",
+      "section": "C",
+      "instructor": "Allen,Cheri M"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 442",
+      "courseTitle": "COOP SOFTWARE DEV",
+      "section": "B",
+      "instructor": "Kirdani-Ryan,Mara"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 442",
+      "courseTitle": "COOP SOFTWARE DEV",
+      "section": "A",
+      "instructor": "Zaretzky,Jeremy"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 449",
+      "courseTitle": "IOS MOBILE DEV",
+      "section": "A",
+      "instructor": "Neward,Theodore K"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 462",
+      "courseTitle": "DSGN SYS DIGITAL EXP",
+      "section": "A",
+      "instructor": "Park,Nam-ho"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 463",
+      "courseTitle": "INPUT & INTERACTION",
+      "section": "A",
+      "instructor": "Williams,Spencer"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 468",
+      "courseTitle": "DES PERS HLTH & WELL",
+      "section": "A",
+      "instructor": "Pratt,Wanda"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 474",
+      "courseTitle": "INTERACTIVE INFO VIS",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 474",
+      "courseTitle": "INTERACTIVE INFO VIS",
+      "section": "B",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 481",
+      "courseTitle": "PROJECT MANAGEMENT",
+      "section": "A",
+      "instructor": "Yao,Albert"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 491",
+      "courseTitle": "CAPSTONE PROJECT II",
+      "section": "C",
+      "instructor": "Anderson,Sasha"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 491",
+      "courseTitle": "CAPSTONE PROJECT II",
+      "section": "E",
+      "instructor": "Bearfield,Andre"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 491",
+      "courseTitle": "CAPSTONE PROJECT II",
+      "section": "D",
+      "instructor": "Hales,Marlina"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 491",
+      "courseTitle": "CAPSTONE PROJECT II",
+      "section": "F",
+      "instructor": "Hegg,Clare"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 491",
+      "courseTitle": "CAPSTONE PROJECT II",
+      "section": "B",
+      "instructor": "Lurie,Ian"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 491",
+      "courseTitle": "CAPSTONE PROJECT II",
+      "section": "G",
+      "instructor": "Podmajersky,Torrey"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 491",
+      "courseTitle": "CAPSTONE PROJECT II",
+      "section": "A",
+      "instructor": "Zaretzky,Jeremy"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 492",
+      "courseTitle": "INTENSIVE CAPSTONE",
+      "section": "C",
+      "instructor": "Geri,Elizabeth"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 492",
+      "courseTitle": "INTENSIVE CAPSTONE",
+      "section": "A",
+      "instructor": "Mitra,Tanu"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 493",
+      "courseTitle": "RESEARCH CAPSTONE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 494",
+      "courseTitle": "RESEARCH STUDIO",
+      "section": "A",
+      "instructor": "Ko,Amy J."
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 495",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 498",
+      "courseTitle": "TOPIC INFORMATICS",
+      "section": "B",
+      "instructor": "Cargile,Andy"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 498",
+      "courseTitle": "TOPIC INFORMATICS",
+      "section": "C",
+      "instructor": "GREENDORFER,ELIAS B"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 498",
+      "courseTitle": "TOPIC INFORMATICS",
+      "section": "D",
+      "instructor": "Huang,Richard Lewei"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 498",
+      "courseTitle": "TOPIC INFORMATICS",
+      "section": "A",
+      "instructor": "Landesman,Rotem"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 498",
+      "courseTitle": "TOPIC INFORMATICS",
+      "section": "E",
+      "instructor": "Prins,Jamie Yaptinchay"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 499",
+      "courseTitle": "IND STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2025",
+      "course": "INFO 499",
+      "courseTitle": "IND STUDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
       "term": "SUM2025",
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
@@ -7812,7 +8482,7 @@
       "course": "INFO 102",
       "courseTitle": "GENDER & INFO TECH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "King,Wes Eli"
     },
     {
       "campus": "S",
@@ -7822,7 +8492,7 @@
       "course": "INFO 103",
       "courseTitle": "SOC MED ETHICS AUTO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Thayer,Kyle"
     },
     {
       "campus": "S",
@@ -7832,7 +8502,7 @@
       "course": "INFO 180",
       "courseTitle": "INTRO DATA SCIENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Toomet,Ott"
     },
     {
       "campus": "S",
@@ -7842,7 +8512,7 @@
       "course": "INFO 180",
       "courseTitle": "INTRO DATA SCIENCE",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Toomet,Ott"
     },
     {
       "campus": "S",
@@ -7852,17 +8522,7 @@
       "course": "INFO 198",
       "courseTitle": "EXPLORING INFORM",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "AUT2025",
-      "course": "INFO 200",
-      "courseTitle": "INTELL FOUNDATIONS",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lee,Ben"
     },
     {
       "campus": "S",
@@ -7872,7 +8532,17 @@
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Janes,Joseph"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2025",
+      "course": "INFO 200",
+      "courseTitle": "INTELL FOUNDATIONS",
+      "section": "A",
+      "instructor": "King,Wes Eli"
     },
     {
       "campus": "S",
@@ -7882,7 +8552,7 @@
       "course": "INFO 201",
       "courseTitle": "DATA SCI FOUNDATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Miller Rigoli,Carson"
     },
     {
       "campus": "S",
@@ -7892,7 +8562,7 @@
       "course": "INFO 201",
       "courseTitle": "DATA SCI FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Toomet,Ott"
     },
     {
       "campus": "S",
@@ -7902,7 +8572,7 @@
       "course": "INFO 270",
       "courseTitle": "DATA RSNG DIGIT WRLD",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "West,Jevin"
     },
     {
       "campus": "S",
@@ -7912,27 +8582,7 @@
       "course": "INFO 290",
       "courseTitle": "ORIENTATION TO INFO",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "AUT2025",
-      "course": "INFO 300",
-      "courseTitle": "RESEARCH METHODS",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "AUT2025",
-      "course": "INFO 300",
-      "courseTitle": "RESEARCH METHODS",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Sullivan,Lindsey"
     },
     {
       "campus": "S",
@@ -7942,7 +8592,27 @@
       "course": "INFO 300",
       "courseTitle": "RESEARCH METHODS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Cho,Johnny"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2025",
+      "course": "INFO 300",
+      "courseTitle": "RESEARCH METHODS",
+      "section": "A",
+      "instructor": "Davis,Katie"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2025",
+      "course": "INFO 300",
+      "courseTitle": "RESEARCH METHODS",
+      "section": "B",
+      "instructor": "Young,Jason"
     },
     {
       "campus": "S",
@@ -7952,27 +8622,7 @@
       "course": "INFO 310",
       "courseTitle": "INFO ASSR & CYBRSEC",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "AUT2025",
-      "course": "INFO 330",
-      "courseTitle": "DB & DATA MODELING",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "AUT2025",
-      "course": "INFO 330",
-      "courseTitle": "DB & DATA MODELING",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Herman,Andy"
     },
     {
       "campus": "S",
@@ -7982,7 +8632,27 @@
       "course": "INFO 330",
       "courseTitle": "DB & DATA MODELING",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Howe,Bill"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2025",
+      "course": "INFO 330",
+      "courseTitle": "DB & DATA MODELING",
+      "section": "A",
+      "instructor": "Otim,Sam"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2025",
+      "course": "INFO 330",
+      "courseTitle": "DB & DATA MODELING",
+      "section": "B",
+      "instructor": "Otim,Sam"
     },
     {
       "campus": "S",
@@ -7992,17 +8662,7 @@
       "course": "INFO 331",
       "courseTitle": "INFO ARCHITECTURE",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "AUT2025",
-      "course": "INFO 340",
-      "courseTitle": "CLIENT-SIDE DEV",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Aker,Eric"
     },
     {
       "campus": "S",
@@ -8012,7 +8672,7 @@
       "course": "INFO 340",
       "courseTitle": "CLIENT-SIDE DEV",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Fitz Gibbon,Alessia S."
     },
     {
       "campus": "S",
@@ -8022,7 +8682,17 @@
       "course": "INFO 340",
       "courseTitle": "CLIENT-SIDE DEV",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Fitz Gibbon,Alessia S."
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2025",
+      "course": "INFO 340",
+      "courseTitle": "CLIENT-SIDE DEV",
+      "section": "A",
+      "instructor": "Ross,Joel"
     },
     {
       "campus": "S",
@@ -8032,7 +8702,7 @@
       "course": "INFO 351",
       "courseTitle": "INFO ETHICS & POLCY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cross,Katherine Alejandra"
     },
     {
       "campus": "S",
@@ -8042,7 +8712,7 @@
       "course": "INFO 351",
       "courseTitle": "INFO ETHICS & POLCY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Hayes,Carol"
     },
     {
       "campus": "S",
@@ -8052,7 +8722,7 @@
       "course": "INFO 352",
       "courseTitle": "RACE GENDER & INFO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Odumosu,Temi"
     },
     {
       "campus": "S",
@@ -8062,7 +8732,7 @@
       "course": "INFO 352",
       "courseTitle": "RACE GENDER & INFO",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Parvin,Nassim"
     },
     {
       "campus": "S",
@@ -8072,7 +8742,7 @@
       "course": "INFO 353",
       "courseTitle": "INDIG DIGITAL WRLD",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Littletree,Sandy"
     },
     {
       "campus": "S",
@@ -8082,7 +8752,7 @@
       "course": "INFO 354",
       "courseTitle": "DATA JUSTICE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hoffmann,Anna Lauren"
     },
     {
       "campus": "S",
@@ -8092,17 +8762,7 @@
       "course": "INFO 357",
       "courseTitle": "RECORD OF US ALL",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "AUT2025",
-      "course": "INFO 360",
-      "courseTitle": "DESIGN METHODS",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Janes,Joseph"
     },
     {
       "campus": "S",
@@ -8112,7 +8772,7 @@
       "course": "INFO 360",
       "courseTitle": "DESIGN METHODS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Park,Nam-ho"
     },
     {
       "campus": "S",
@@ -8122,27 +8782,17 @@
       "course": "INFO 360",
       "courseTitle": "DESIGN METHODS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Snyder,Jaime"
     },
     {
       "campus": "S",
       "dept": "info",
       "deptName": "Informatics",
       "term": "AUT2025",
-      "course": "INFO 370",
-      "courseTitle": "DATA SCIENCE METHDS",
+      "course": "INFO 360",
+      "courseTitle": "DESIGN METHODS",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "AUT2025",
-      "course": "INFO 370",
-      "courseTitle": "DATA SCIENCE METHDS",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Williams,Spencer"
     },
     {
       "campus": "S",
@@ -8152,7 +8802,7 @@
       "course": "INFO 370",
       "courseTitle": "DATA SCIENCE METHDS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Miller Rigoli,Carson"
     },
     {
       "campus": "S",
@@ -8162,7 +8812,27 @@
       "course": "INFO 370",
       "courseTitle": "DATA SCIENCE METHDS",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Miller Rigoli,Carson"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2025",
+      "course": "INFO 370",
+      "courseTitle": "DATA SCIENCE METHDS",
+      "section": "A",
+      "instructor": "Wang,Lucy Lu"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2025",
+      "course": "INFO 370",
+      "courseTitle": "DATA SCIENCE METHDS",
+      "section": "B",
+      "instructor": "Wang,Lucy Lu"
     },
     {
       "campus": "S",
@@ -8172,7 +8842,7 @@
       "course": "INFO 371",
       "courseTitle": "ADV DATA SCI METHDS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Memon,Shahan Ali"
     },
     {
       "campus": "S",
@@ -8182,7 +8852,7 @@
       "course": "INFO 371",
       "courseTitle": "ADV DATA SCI METHDS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Memon,Shahan Ali"
     },
     {
       "campus": "S",
@@ -8192,17 +8862,7 @@
       "course": "INFO 376",
       "courseTitle": "SRCH & RECOMNDR SYST",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "AUT2025",
-      "course": "INFO 380",
-      "courseTitle": "PRODUCT & IS MGMT",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kaur,Kiran"
     },
     {
       "campus": "S",
@@ -8212,7 +8872,17 @@
       "course": "INFO 380",
       "courseTitle": "PRODUCT & IS MGMT",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Harris,Samantha"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2025",
+      "course": "INFO 380",
+      "courseTitle": "PRODUCT & IS MGMT",
+      "section": "A",
+      "instructor": "SANFORD,SARA M"
     },
     {
       "campus": "S",
@@ -8222,7 +8892,7 @@
       "course": "INFO 380",
       "courseTitle": "PRODUCT & IS MGMT",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Wang,Marx"
     },
     {
       "campus": "S",
@@ -8232,7 +8902,7 @@
       "course": "INFO 386",
       "courseTitle": "PROFESSIONALISM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Moe,Lucas"
     },
     {
       "campus": "S",
@@ -8242,7 +8912,7 @@
       "course": "INFO 415",
       "courseTitle": "TOPICS IN CYBERSEC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kotut,Lindah"
     },
     {
       "campus": "S",
@@ -8252,7 +8922,7 @@
       "course": "INFO 430",
       "courseTitle": "DB DESIGN & MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "FLEMING,KEVIN M."
     },
     {
       "campus": "S",
@@ -8262,7 +8932,7 @@
       "course": "INFO 433",
       "courseTitle": "CONTENT STRATEGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Barrett,Sarah"
     },
     {
       "campus": "S",
@@ -8272,7 +8942,7 @@
       "course": "INFO 441",
       "courseTitle": "SERVER-SIDE DEV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Thayer,Kyle"
     },
     {
       "campus": "S",
@@ -8282,7 +8952,7 @@
       "course": "INFO 442",
       "courseTitle": "COOP SOFTWARE DEV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kirdani-Ryan,Mara"
     },
     {
       "campus": "S",
@@ -8292,7 +8962,7 @@
       "course": "INFO 442",
       "courseTitle": "COOP SOFTWARE DEV",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Kirdani-Ryan,Mara"
     },
     {
       "campus": "S",
@@ -8302,7 +8972,7 @@
       "course": "INFO 442",
       "courseTitle": "COOP SOFTWARE DEV",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Zaretzky,Jeremy"
     },
     {
       "campus": "S",
@@ -8312,7 +8982,7 @@
       "course": "INFO 463",
       "courseTitle": "INPUT & INTERACTION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "GREENDORFER,ELIAS B"
     },
     {
       "campus": "S",
@@ -8322,7 +8992,7 @@
       "course": "INFO 464",
       "courseTitle": "VAL SEN DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kotut,Lindah"
     },
     {
       "campus": "S",
@@ -8332,7 +9002,7 @@
       "course": "INFO 474",
       "courseTitle": "INTERACTIVE INFO VIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Saldias,Belen"
     },
     {
       "campus": "S",
@@ -8342,7 +9012,7 @@
       "course": "INFO 474",
       "courseTitle": "INTERACTIVE INFO VIS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Saldias,Belen"
     },
     {
       "campus": "S",
@@ -8352,7 +9022,7 @@
       "course": "INFO 478",
       "courseTitle": "POP HEALTH INFO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Burke,Juandalyn"
     },
     {
       "campus": "S",
@@ -8381,8 +9051,8 @@
       "term": "AUT2025",
       "course": "INFO 494",
       "courseTitle": "RESEARCH STUDIO",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Ko,Amy J."
     },
     {
       "campus": "S",
@@ -8391,8 +9061,8 @@
       "term": "AUT2025",
       "course": "INFO 494",
       "courseTitle": "RESEARCH STUDIO",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Saveski,Martin"
     },
     {
       "campus": "S",
@@ -8412,7 +9082,7 @@
       "course": "INFO 498",
       "courseTitle": "TOPIC INFORMATICS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Anderson,Sasha"
     },
     {
       "campus": "S",
@@ -8422,17 +9092,7 @@
       "course": "INFO 498",
       "courseTitle": "TOPIC INFORMATICS",
       "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "AUT2025",
-      "course": "INFO 498",
-      "courseTitle": "TOPIC INFORMATICS",
-      "section": "D",
-      "instructor": "TBA"
+      "instructor": "Cargile,Andy"
     },
     {
       "campus": "S",
@@ -8442,7 +9102,17 @@
       "course": "INFO 498",
       "courseTitle": "TOPIC INFORMATICS",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Geri,Elizabeth"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2025",
+      "course": "INFO 498",
+      "courseTitle": "TOPIC INFORMATICS",
+      "section": "D",
+      "instructor": "Zaretzky,Jeremy"
     },
     {
       "campus": "S",
@@ -8472,7 +9142,7 @@
       "course": "INFO 103",
       "courseTitle": "SOC MED ETHICS AUTO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Williams,Spencer"
     },
     {
       "campus": "S",
@@ -8482,7 +9152,7 @@
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "King,Wes Eli"
     },
     {
       "campus": "S",
@@ -8492,7 +9162,7 @@
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Kirdani-Ryan,Mara"
     },
     {
       "campus": "S",
@@ -8502,7 +9172,7 @@
       "course": "INFO 201",
       "courseTitle": "DATA SCI FOUNDATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Miller Rigoli,Carson"
     },
     {
       "campus": "S",
@@ -8512,27 +9182,7 @@
       "course": "INFO 201",
       "courseTitle": "DATA SCI FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "WIN2026",
-      "course": "INFO 290",
-      "courseTitle": "ORIENTATION TO INFO",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "WIN2026",
-      "course": "INFO 290",
-      "courseTitle": "ORIENTATION TO INFO",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Thayer,Kyle"
     },
     {
       "campus": "S",
@@ -8542,17 +9192,27 @@
       "course": "INFO 290",
       "courseTitle": "ORIENTATION TO INFO",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Eugenio,Dowell"
     },
     {
       "campus": "S",
       "dept": "info",
       "deptName": "Informatics",
       "term": "WIN2026",
-      "course": "INFO 300",
-      "courseTitle": "RESEARCH METHODS",
+      "course": "INFO 290",
+      "courseTitle": "ORIENTATION TO INFO",
+      "section": "B",
+      "instructor": "Mitchell,Kathy"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2026",
+      "course": "INFO 290",
+      "courseTitle": "ORIENTATION TO INFO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Murray,Christina"
     },
     {
       "campus": "S",
@@ -8562,7 +9222,17 @@
       "course": "INFO 300",
       "courseTitle": "RESEARCH METHODS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Bugre,Charles"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2026",
+      "course": "INFO 300",
+      "courseTitle": "RESEARCH METHODS",
+      "section": "A",
+      "instructor": "Lefthand-Begay,Clarita"
     },
     {
       "campus": "S",
@@ -8572,7 +9242,7 @@
       "course": "INFO 300",
       "courseTitle": "RESEARCH METHODS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Spiro,Emma"
     },
     {
       "campus": "S",
@@ -8582,7 +9252,7 @@
       "course": "INFO 310",
       "courseTitle": "INFO ASSR & CYBRSEC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Herman,Andy"
     },
     {
       "campus": "S",
@@ -8592,7 +9262,7 @@
       "course": "INFO 312",
       "courseTitle": "ENTRPRISE RISK MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Herman,Andy"
     },
     {
       "campus": "S",
@@ -8602,7 +9272,7 @@
       "course": "INFO 330",
       "courseTitle": "DB & DATA MODELING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Otim,Sam"
     },
     {
       "campus": "S",
@@ -8612,7 +9282,7 @@
       "course": "INFO 330",
       "courseTitle": "DB & DATA MODELING",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Saldias,Belen"
     },
     {
       "campus": "S",
@@ -8622,7 +9292,7 @@
       "course": "INFO 330",
       "courseTitle": "DB & DATA MODELING",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Saldias,Belen"
     },
     {
       "campus": "S",
@@ -8632,17 +9302,7 @@
       "course": "INFO 331",
       "courseTitle": "INFO ARCHITECTURE",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "WIN2026",
-      "course": "INFO 340",
-      "courseTitle": "CLIENT-SIDE DEV",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zaretzky,Jeremy"
     },
     {
       "campus": "S",
@@ -8652,7 +9312,7 @@
       "course": "INFO 340",
       "courseTitle": "CLIENT-SIDE DEV",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Carlson,Tim"
     },
     {
       "campus": "S",
@@ -8662,7 +9322,17 @@
       "course": "INFO 340",
       "courseTitle": "CLIENT-SIDE DEV",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Fitz Gibbon,Alessia S."
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2026",
+      "course": "INFO 340",
+      "courseTitle": "CLIENT-SIDE DEV",
+      "section": "A",
+      "instructor": "Ross,Joel"
     },
     {
       "campus": "S",
@@ -8672,17 +9342,7 @@
       "course": "INFO 351",
       "courseTitle": "INFO ETHICS & POLCY",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "WIN2026",
-      "course": "INFO 352",
-      "courseTitle": "RACE GENDER & INFO",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cross,Katherine Alejandra"
     },
     {
       "campus": "S",
@@ -8692,7 +9352,17 @@
       "course": "INFO 352",
       "courseTitle": "RACE GENDER & INFO",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Hoffmann,Anna Lauren"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2026",
+      "course": "INFO 352",
+      "courseTitle": "RACE GENDER & INFO",
+      "section": "A",
+      "instructor": "King,Wes Eli"
     },
     {
       "campus": "S",
@@ -8702,7 +9372,7 @@
       "course": "INFO 354",
       "courseTitle": "DATA JUSTICE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hoffmann,Anna Lauren"
     },
     {
       "campus": "S",
@@ -8712,7 +9382,7 @@
       "course": "INFO 356",
       "courseTitle": "MORAL REASON & DSGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "BAUGHAN,AMANDA"
     },
     {
       "campus": "S",
@@ -8722,17 +9392,7 @@
       "course": "INFO 357",
       "courseTitle": "RECORD OF US ALL",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "WIN2026",
-      "course": "INFO 358",
-      "courseTitle": "INFO SCI/POP CULTURE",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Janes,Joseph"
     },
     {
       "campus": "S",
@@ -8742,27 +9402,17 @@
       "course": "INFO 358",
       "courseTitle": "INFO SCI/POP CULTURE",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Odumosu,Temi"
     },
     {
       "campus": "S",
       "dept": "info",
       "deptName": "Informatics",
       "term": "WIN2026",
-      "course": "INFO 360",
-      "courseTitle": "DESIGN METHODS",
+      "course": "INFO 358",
+      "courseTitle": "INFO SCI/POP CULTURE",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "WIN2026",
-      "course": "INFO 360",
-      "courseTitle": "DESIGN METHODS",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Post,Nina"
     },
     {
       "campus": "S",
@@ -8772,7 +9422,27 @@
       "course": "INFO 360",
       "courseTitle": "DESIGN METHODS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Cho,Johnny"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2026",
+      "course": "INFO 360",
+      "courseTitle": "DESIGN METHODS",
+      "section": "A",
+      "instructor": "Kotut,Lindah"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2026",
+      "course": "INFO 360",
+      "courseTitle": "DESIGN METHODS",
+      "section": "B",
+      "instructor": "Kotut,Lindah"
     },
     {
       "campus": "S",
@@ -8782,7 +9452,7 @@
       "course": "INFO 370",
       "courseTitle": "DATA SCIENCE METHDS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Toomet,Ott"
     },
     {
       "campus": "S",
@@ -8792,7 +9462,7 @@
       "course": "INFO 370",
       "courseTitle": "DATA SCIENCE METHDS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Toomet,Ott"
     },
     {
       "campus": "S",
@@ -8802,7 +9472,7 @@
       "course": "INFO 371",
       "courseTitle": "ADV DATA SCI METHDS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Miller Rigoli,Carson"
     },
     {
       "campus": "S",
@@ -8812,7 +9482,7 @@
       "course": "INFO 371",
       "courseTitle": "ADV DATA SCI METHDS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Miller Rigoli,Carson"
     },
     {
       "campus": "S",
@@ -8822,27 +9492,7 @@
       "course": "INFO 376",
       "courseTitle": "SRCH & RECOMNDR SYST",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "WIN2026",
-      "course": "INFO 380",
-      "courseTitle": "PRODUCT & IS MGMT",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "WIN2026",
-      "course": "INFO 380",
-      "courseTitle": "PRODUCT & IS MGMT",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "West,Jevin"
     },
     {
       "campus": "S",
@@ -8852,7 +9502,27 @@
       "course": "INFO 380",
       "courseTitle": "PRODUCT & IS MGMT",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Rimple,Chris"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2026",
+      "course": "INFO 380",
+      "courseTitle": "PRODUCT & IS MGMT",
+      "section": "B",
+      "instructor": "Sturman,Richard"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2026",
+      "course": "INFO 380",
+      "courseTitle": "PRODUCT & IS MGMT",
+      "section": "A",
+      "instructor": "Wang,Marx"
     },
     {
       "campus": "S",
@@ -8862,7 +9532,7 @@
       "course": "INFO 386",
       "courseTitle": "PROFESSIONALISM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nelson,Garrett"
     },
     {
       "campus": "S",
@@ -8872,7 +9542,7 @@
       "course": "INFO 415",
       "courseTitle": "TOPICS IN CYBERSEC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Reusser,Drew"
     },
     {
       "campus": "S",
@@ -8882,7 +9552,7 @@
       "course": "INFO 430",
       "courseTitle": "DB DESIGN & MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Otim,Sam"
     },
     {
       "campus": "S",
@@ -8892,27 +9562,7 @@
       "course": "INFO 441",
       "courseTitle": "SERVER-SIDE DEV",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "WIN2026",
-      "course": "INFO 442",
-      "courseTitle": "COOP SOFTWARE DEV",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "WIN2026",
-      "course": "INFO 442",
-      "courseTitle": "COOP SOFTWARE DEV",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Fitz Gibbon,Alessia S."
     },
     {
       "campus": "S",
@@ -8922,7 +9572,27 @@
       "course": "INFO 442",
       "courseTitle": "COOP SOFTWARE DEV",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Allen,Cheri"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2026",
+      "course": "INFO 442",
+      "courseTitle": "COOP SOFTWARE DEV",
+      "section": "B",
+      "instructor": "Grande,Zach"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2026",
+      "course": "INFO 442",
+      "courseTitle": "COOP SOFTWARE DEV",
+      "section": "A",
+      "instructor": "Kirdani-Ryan,Mara"
     },
     {
       "campus": "S",
@@ -8932,7 +9602,7 @@
       "course": "INFO 449",
       "courseTitle": "IOS MOBILE DEV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Neward,Theodore K"
     },
     {
       "campus": "S",
@@ -8942,7 +9612,7 @@
       "course": "INFO 462",
       "courseTitle": "DSGN SYS DIGITAL EXP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Park,Nam-ho"
     },
     {
       "campus": "S",
@@ -8952,7 +9622,7 @@
       "course": "INFO 464",
       "courseTitle": "VAL SEN DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "GREENDORFER,ELIAS B"
     },
     {
       "campus": "S",
@@ -8962,7 +9632,7 @@
       "course": "INFO 474",
       "courseTitle": "INTERACTIVE INFO VIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Thayer,Kyle"
     },
     {
       "campus": "S",
@@ -8972,7 +9642,7 @@
       "course": "INFO 474",
       "courseTitle": "INTERACTIVE INFO VIS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Thayer,Kyle"
     },
     {
       "campus": "S",
@@ -8982,27 +9652,7 @@
       "course": "INFO 480",
       "courseTitle": "PROG & PROJECT MGMT",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "WIN2026",
-      "course": "INFO 490",
-      "courseTitle": "PRACTICAL",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "WIN2026",
-      "course": "INFO 490",
-      "courseTitle": "PRACTICAL",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Hernandez,Nick"
     },
     {
       "campus": "S",
@@ -9012,7 +9662,7 @@
       "course": "INFO 490",
       "courseTitle": "PRACTICAL",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Anderson,Sasha"
     },
     {
       "campus": "S",
@@ -9022,7 +9672,7 @@
       "course": "INFO 490",
       "courseTitle": "PRACTICAL",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Bearfield,Andre"
     },
     {
       "campus": "S",
@@ -9032,7 +9682,7 @@
       "course": "INFO 490",
       "courseTitle": "PRACTICAL",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Hales,Marlina"
     },
     {
       "campus": "S",
@@ -9042,7 +9692,7 @@
       "course": "INFO 490",
       "courseTitle": "PRACTICAL",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Hegg,Clare"
     },
     {
       "campus": "S",
@@ -9052,7 +9702,27 @@
       "course": "INFO 490",
       "courseTitle": "PRACTICAL",
       "section": "G",
-      "instructor": "TBA"
+      "instructor": "Podmajersky,Torrey"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2026",
+      "course": "INFO 490",
+      "courseTitle": "PRACTICAL",
+      "section": "B",
+      "instructor": "Williams,Spencer"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2026",
+      "course": "INFO 490",
+      "courseTitle": "PRACTICAL",
+      "section": "A",
+      "instructor": "Zaretzky,Jeremy"
     },
     {
       "campus": "S",
@@ -9062,7 +9732,7 @@
       "course": "INFO 492",
       "courseTitle": "INTENSIVE CAPSTONE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Geri,Elizabeth"
     },
     {
       "campus": "S",
@@ -9081,8 +9751,8 @@
       "term": "WIN2026",
       "course": "INFO 494",
       "courseTitle": "RESEARCH STUDIO",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Ko,Amy J."
     },
     {
       "campus": "S",
@@ -9091,8 +9761,8 @@
       "term": "WIN2026",
       "course": "INFO 494",
       "courseTitle": "RESEARCH STUDIO",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Saveski,Martin"
     },
     {
       "campus": "S",
@@ -9112,7 +9782,7 @@
       "course": "INFO 498",
       "courseTitle": "TOPIC INFORMATICS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Cargile,Andy"
     },
     {
       "campus": "S",
@@ -9122,7 +9792,7 @@
       "course": "INFO 498",
       "courseTitle": "TOPIC INFORMATICS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Dogan,Amelia Lee"
     },
     {
       "campus": "S",
@@ -9132,7 +9802,7 @@
       "course": "INFO 498",
       "courseTitle": "TOPIC INFORMATICS",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Prins,Jamie Yaptinchay"
     },
     {
       "campus": "S",
@@ -9162,7 +9832,7 @@
       "course": "INFO 102",
       "courseTitle": "GENDER & INFO TECH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kirdani-Ryan,Mara"
     },
     {
       "campus": "S",
@@ -9172,7 +9842,7 @@
       "course": "INFO 103",
       "courseTitle": "SOC MED ETHICS AUTO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Thayer,Kyle"
     },
     {
       "campus": "S",
@@ -9182,7 +9852,7 @@
       "course": "INFO 104",
       "courseTitle": "TECH ETHICS/PLCY/LAW",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Calo,Ryan"
     },
     {
       "campus": "S",
@@ -9192,7 +9862,7 @@
       "course": "INFO 108",
       "courseTitle": "MUSIC & INFORMATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Miller Rigoli,Carson"
     },
     {
       "campus": "S",
@@ -9202,17 +9872,7 @@
       "course": "INFO 110",
       "courseTitle": "AI: FNDTNS & SOCIETY",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "SPR2026",
-      "course": "INFO 200",
-      "courseTitle": "INTELL FOUNDATIONS",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lee,Ben"
     },
     {
       "campus": "S",
@@ -9222,7 +9882,17 @@
       "course": "INFO 200",
       "courseTitle": "INTELL FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Janes,Joseph"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2026",
+      "course": "INFO 200",
+      "courseTitle": "INTELL FOUNDATIONS",
+      "section": "A",
+      "instructor": "King,Wes Eli"
     },
     {
       "campus": "S",
@@ -9232,7 +9902,7 @@
       "course": "INFO 201",
       "courseTitle": "DATA SCI FOUNDATIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Miller Rigoli,Carson"
     },
     {
       "campus": "S",
@@ -9242,7 +9912,7 @@
       "course": "INFO 201",
       "courseTitle": "DATA SCI FOUNDATIONS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Toomet,Ott"
     },
     {
       "campus": "S",
@@ -9252,7 +9922,7 @@
       "course": "INFO 300",
       "courseTitle": "RESEARCH METHODS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lefthand-Begay,Clarita"
     },
     {
       "campus": "S",
@@ -9262,7 +9932,7 @@
       "course": "INFO 300",
       "courseTitle": "RESEARCH METHODS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Pitt,Caroline"
     },
     {
       "campus": "S",
@@ -9272,7 +9942,7 @@
       "course": "INFO 300",
       "courseTitle": "RESEARCH METHODS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Spiro,Emma"
     },
     {
       "campus": "S",
@@ -9282,7 +9952,7 @@
       "course": "INFO 310",
       "courseTitle": "INFO ASSR & CYBRSEC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Herman,Andy"
     },
     {
       "campus": "S",
@@ -9292,17 +9962,7 @@
       "course": "INFO 314",
       "courseTitle": "COMP NET & DIST APP",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "SPR2026",
-      "course": "INFO 330",
-      "courseTitle": "DB & DATA MODELING",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fitz Gibbon,Alessia S."
     },
     {
       "campus": "S",
@@ -9312,7 +9972,17 @@
       "course": "INFO 330",
       "courseTitle": "DB & DATA MODELING",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Burke,Juandalyn"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2026",
+      "course": "INFO 330",
+      "courseTitle": "DB & DATA MODELING",
+      "section": "A",
+      "instructor": "Howe,Bill"
     },
     {
       "campus": "S",
@@ -9322,7 +9992,7 @@
       "course": "INFO 330",
       "courseTitle": "DB & DATA MODELING",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Wang,Lucy Lu"
     },
     {
       "campus": "S",
@@ -9332,17 +10002,7 @@
       "course": "INFO 331",
       "courseTitle": "INFO ARCHITECTURE",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "SPR2026",
-      "course": "INFO 340",
-      "courseTitle": "CLIENT-SIDE DEV",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Clark,Courtney L"
     },
     {
       "campus": "S",
@@ -9352,7 +10012,7 @@
       "course": "INFO 340",
       "courseTitle": "CLIENT-SIDE DEV",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Carlson,Tim"
     },
     {
       "campus": "S",
@@ -9362,7 +10022,17 @@
       "course": "INFO 340",
       "courseTitle": "CLIENT-SIDE DEV",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Carlson,Tim"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2026",
+      "course": "INFO 340",
+      "courseTitle": "CLIENT-SIDE DEV",
+      "section": "A",
+      "instructor": "Ross,Joel"
     },
     {
       "campus": "S",
@@ -9372,7 +10042,7 @@
       "course": "INFO 351",
       "courseTitle": "INFO ETHICS & POLCY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cross,Katherine Alejandra"
     },
     {
       "campus": "S",
@@ -9382,17 +10052,7 @@
       "course": "INFO 351",
       "courseTitle": "INFO ETHICS & POLCY",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "SPR2026",
-      "course": "INFO 352",
-      "courseTitle": "RACE GENDER & INFO",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hayes,Carol"
     },
     {
       "campus": "S",
@@ -9402,7 +10062,17 @@
       "course": "INFO 352",
       "courseTitle": "RACE GENDER & INFO",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "GREENDORFER,ELIAS B"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2026",
+      "course": "INFO 352",
+      "courseTitle": "RACE GENDER & INFO",
+      "section": "A",
+      "instructor": "King,Wes Eli"
     },
     {
       "campus": "S",
@@ -9412,7 +10082,7 @@
       "course": "INFO 354",
       "courseTitle": "DATA JUSTICE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Saldias,Belen"
     },
     {
       "campus": "S",
@@ -9422,7 +10092,7 @@
       "course": "INFO 355",
       "courseTitle": "INFO POLICY DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hendry,David G"
     },
     {
       "campus": "S",
@@ -9432,7 +10102,7 @@
       "course": "INFO 356",
       "courseTitle": "MORAL REASON & DSGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Williams,Spencer"
     },
     {
       "campus": "S",
@@ -9442,7 +10112,7 @@
       "course": "INFO 357",
       "courseTitle": "RECORD OF US ALL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Morris,Lidia"
     },
     {
       "campus": "S",
@@ -9452,17 +10122,7 @@
       "course": "INFO 358",
       "courseTitle": "INFO SCI/POP CULTURE",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "SPR2026",
-      "course": "INFO 360",
-      "courseTitle": "DESIGN METHODS",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hoffmann,Anna Lauren"
     },
     {
       "campus": "S",
@@ -9472,7 +10132,17 @@
       "course": "INFO 360",
       "courseTitle": "DESIGN METHODS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Cho,Johnny"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2026",
+      "course": "INFO 360",
+      "courseTitle": "DESIGN METHODS",
+      "section": "A",
+      "instructor": "D'Souza,Melroy E"
     },
     {
       "campus": "S",
@@ -9482,7 +10152,7 @@
       "course": "INFO 360",
       "courseTitle": "DESIGN METHODS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Snyder,Jaime"
     },
     {
       "campus": "S",
@@ -9492,7 +10162,7 @@
       "course": "INFO 362",
       "courseTitle": "VISUAL INFO DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bambach,Lisa K"
     },
     {
       "campus": "S",
@@ -9502,7 +10172,7 @@
       "course": "INFO 370",
       "courseTitle": "DATA SCIENCE METHDS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Teodorescu,Mike"
     },
     {
       "campus": "S",
@@ -9512,7 +10182,7 @@
       "course": "INFO 370",
       "courseTitle": "DATA SCIENCE METHDS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Teodorescu,Mike"
     },
     {
       "campus": "S",
@@ -9522,7 +10192,7 @@
       "course": "INFO 371",
       "courseTitle": "ADV DATA SCI METHDS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Toomet,Ott"
     },
     {
       "campus": "S",
@@ -9532,7 +10202,7 @@
       "course": "INFO 371",
       "courseTitle": "ADV DATA SCI METHDS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Toomet,Ott"
     },
     {
       "campus": "S",
@@ -9542,7 +10212,7 @@
       "course": "INFO 380",
       "courseTitle": "PRODUCT & IS MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "SANFORD,SARA M"
     },
     {
       "campus": "S",
@@ -9552,7 +10222,7 @@
       "course": "INFO 380",
       "courseTitle": "PRODUCT & IS MGMT",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Sturman,Richard"
     },
     {
       "campus": "S",
@@ -9562,7 +10232,7 @@
       "course": "INFO 380",
       "courseTitle": "PRODUCT & IS MGMT",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Sturman,Richard"
     },
     {
       "campus": "S",
@@ -9572,7 +10242,7 @@
       "course": "INFO 410",
       "courseTitle": "CYBERSEC STRAT & POL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Reusser,Drew"
     },
     {
       "campus": "S",
@@ -9582,7 +10252,7 @@
       "course": "INFO 430",
       "courseTitle": "DB DESIGN & MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "FLEMING,KEVIN M."
     },
     {
       "campus": "S",
@@ -9592,27 +10262,7 @@
       "course": "INFO 441",
       "courseTitle": "SERVER-SIDE DEV",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "SPR2026",
-      "course": "INFO 442",
-      "courseTitle": "COOP SOFTWARE DEV",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "SPR2026",
-      "course": "INFO 442",
-      "courseTitle": "COOP SOFTWARE DEV",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Allen,Cheri"
     },
     {
       "campus": "S",
@@ -9622,7 +10272,27 @@
       "course": "INFO 442",
       "courseTitle": "COOP SOFTWARE DEV",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Allen,Cheri"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2026",
+      "course": "INFO 442",
+      "courseTitle": "COOP SOFTWARE DEV",
+      "section": "A",
+      "instructor": "Kirdani-Ryan,Mara"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2026",
+      "course": "INFO 442",
+      "courseTitle": "COOP SOFTWARE DEV",
+      "section": "B",
+      "instructor": "Zaretzky,Jeremy"
     },
     {
       "campus": "S",
@@ -9632,7 +10302,7 @@
       "course": "INFO 443",
       "courseTitle": "SOFTWARE ARCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fitz Gibbon,Alessia S."
     },
     {
       "campus": "S",
@@ -9642,7 +10312,7 @@
       "course": "INFO 463",
       "courseTitle": "INPUT & INTERACTION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cargile,Deb"
     },
     {
       "campus": "S",
@@ -9652,7 +10322,7 @@
       "course": "INFO 468",
       "courseTitle": "DES PERS HLTH & WELL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pratt,Wanda"
     },
     {
       "campus": "S",
@@ -9662,7 +10332,7 @@
       "course": "INFO 474",
       "courseTitle": "INTERACTIVE INFO VIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Maynard-Zhang,Jasper"
     },
     {
       "campus": "S",
@@ -9672,7 +10342,7 @@
       "course": "INFO 474",
       "courseTitle": "INTERACTIVE INFO VIS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Maynard-Zhang,Jasper"
     },
     {
       "campus": "S",
@@ -9682,27 +10352,7 @@
       "course": "INFO 478",
       "courseTitle": "POP HEALTH INFO",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "SPR2026",
-      "course": "INFO 491",
-      "courseTitle": "PRACTICAL",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "SPR2026",
-      "course": "INFO 491",
-      "courseTitle": "PRACTICAL",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Wang,Lucy Lu"
     },
     {
       "campus": "S",
@@ -9712,7 +10362,7 @@
       "course": "INFO 491",
       "courseTitle": "PRACTICAL",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Anderson,Sasha"
     },
     {
       "campus": "S",
@@ -9722,7 +10372,7 @@
       "course": "INFO 491",
       "courseTitle": "PRACTICAL",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Bearfield,Andre"
     },
     {
       "campus": "S",
@@ -9732,7 +10382,7 @@
       "course": "INFO 491",
       "courseTitle": "PRACTICAL",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Hales,Marlina"
     },
     {
       "campus": "S",
@@ -9742,7 +10392,7 @@
       "course": "INFO 491",
       "courseTitle": "PRACTICAL",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Hegg,Clare"
     },
     {
       "campus": "S",
@@ -9752,7 +10402,27 @@
       "course": "INFO 491",
       "courseTitle": "PRACTICAL",
       "section": "G",
-      "instructor": "TBA"
+      "instructor": "Podmajersky,Torrey"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2026",
+      "course": "INFO 491",
+      "courseTitle": "PRACTICAL",
+      "section": "B",
+      "instructor": "Williams,Spencer"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2026",
+      "course": "INFO 491",
+      "courseTitle": "PRACTICAL",
+      "section": "A",
+      "instructor": "Zaretzky,Jeremy"
     },
     {
       "campus": "S",
@@ -9781,8 +10451,8 @@
       "term": "SPR2026",
       "course": "INFO 494",
       "courseTitle": "RESEARCH STUDIO",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Ko,Amy J."
     },
     {
       "campus": "S",
@@ -9791,7 +10461,7 @@
       "term": "SPR2026",
       "course": "INFO 494",
       "courseTitle": "RESEARCH STUDIO",
-      "section": "B",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -9812,17 +10482,7 @@
       "course": "INFO 498",
       "courseTitle": "TOPIC INFORMATICS",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "info",
-      "deptName": "Informatics",
-      "term": "SPR2026",
-      "course": "INFO 498",
-      "courseTitle": "TOPIC INFORMATICS",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Cargile,Andy"
     },
     {
       "campus": "S",
@@ -9832,7 +10492,17 @@
       "course": "INFO 498",
       "courseTitle": "TOPIC INFORMATICS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Landesman,Rotem"
+    },
+    {
+      "campus": "S",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2026",
+      "course": "INFO 498",
+      "courseTitle": "TOPIC INFORMATICS",
+      "section": "B",
+      "instructor": "Miller,Adele"
     },
     {
       "campus": "S",
@@ -9852,7 +10522,7 @@
       "course": "INFO 498",
       "courseTitle": "TOPIC INFORMATICS",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Whiteman,Heather"
     },
     {
       "campus": "S",

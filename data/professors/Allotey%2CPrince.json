@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Allotey%2CPrince",
+  "professor": "Allotey,Prince",
+  "recordCount": 5,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "WIN2024",
+      "course": "STAT 311",
+      "courseTitle": "ELEMNTS STAT METHOD",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "WIN2024",
+      "course": "STAT 180",
+      "courseTitle": "INTRO DATA SCIENCE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2023",
+      "course": "STAT 311",
+      "courseTitle": "ELEMNTS STAT METHOD",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "AUT2022",
+      "course": "STAT 302",
+      "courseTitle": "STAT COMPUTING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2022",
+      "course": "STAT 311",
+      "courseTitle": "ELEMNTS STAT METHOD",
+      "section": "A"
+    }
+  ]
+}

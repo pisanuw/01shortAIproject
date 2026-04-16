@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:58Z",
+  "generatedAt": "2026-04-16T02:57:13Z",
   "campus": "S",
   "dept": "re",
   "deptName": "Real Estate",
@@ -391,6 +391,26 @@
       "term": "SPR2021",
       "course": "R E 250",
       "courseTitle": "INTRO REAL ESTATE",
+      "section": "C",
+      "instructor": "Affholter,Shannon R."
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "SPR2021",
+      "course": "R E 250",
+      "courseTitle": "INTRO REAL ESTATE",
+      "section": "D",
+      "instructor": "Affholter,Shannon R."
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "SPR2021",
+      "course": "R E 250",
+      "courseTitle": "INTRO REAL ESTATE",
       "section": "A",
       "instructor": "Disston,M"
     },
@@ -403,26 +423,6 @@
       "courseTitle": "INTRO REAL ESTATE",
       "section": "B",
       "instructor": "Howe,Julie A"
-    },
-    {
-      "campus": "S",
-      "dept": "re",
-      "deptName": "Real Estate",
-      "term": "SPR2021",
-      "course": "R E 250",
-      "courseTitle": "INTRO REAL ESTATE",
-      "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "re",
-      "deptName": "Real Estate",
-      "term": "SPR2021",
-      "course": "R E 250",
-      "courseTitle": "INTRO REAL ESTATE",
-      "section": "D",
-      "instructor": "TBA"
     },
     {
       "campus": "S",
@@ -591,8 +591,8 @@
       "term": "AUT2021",
       "course": "R E 250",
       "courseTitle": "INTRO REAL ESTATE",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Affholter,Shannon R."
     },
     {
       "campus": "S",
@@ -601,8 +601,8 @@
       "term": "AUT2021",
       "course": "R E 250",
       "courseTitle": "INTRO REAL ESTATE",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Disston,M"
     },
     {
       "campus": "S",
@@ -1202,7 +1202,7 @@
       "course": "R E 466",
       "courseTitle": "ADV HOUSING STUDIES",
       "section": "A",
-      "instructor": "Colburn,Gregg"
+      "instructor": "B Colburn,Gregg"
     },
     {
       "campus": "S",
@@ -1232,7 +1232,7 @@
       "course": "R E 497",
       "courseTitle": "RE DATA MODELING",
       "section": "A",
-      "instructor": "Costa,Ana"
+      "instructor": "F Costa,Ana"
     },
     {
       "campus": "S",
@@ -1368,6 +1368,246 @@
       "campus": "S",
       "dept": "re",
       "deptName": "Real Estate",
+      "term": "AUT2022",
+      "course": "R E 250",
+      "courseTitle": "INTRO REAL ESTATE",
+      "section": "A",
+      "instructor": "Affholter,Shannon R."
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2022",
+      "course": "R E 250",
+      "courseTitle": "INTRO REAL ESTATE",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2022",
+      "course": "R E 250",
+      "courseTitle": "INTRO REAL ESTATE",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2022",
+      "course": "R E 361",
+      "courseTitle": "PROP TRANSACTIONS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2022",
+      "course": "R E 363",
+      "courseTitle": "RE DEVELOPMENT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2022",
+      "course": "R E 363",
+      "courseTitle": "RE DEVELOPMENT",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2022",
+      "course": "R E 400",
+      "courseTitle": "ACCOUNTING FOR RE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2022",
+      "course": "R E 401",
+      "courseTitle": "HOUSING POLICY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2022",
+      "course": "R E 411",
+      "courseTitle": "RE APPRAISAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2022",
+      "course": "R E 413",
+      "courseTitle": "RE FINANCE INVEST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2022",
+      "course": "R E 413",
+      "courseTitle": "RE FINANCE INVEST",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2022",
+      "course": "R E 416",
+      "courseTitle": "RE MARKET ANALYSIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2022",
+      "course": "R E 490",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2022",
+      "course": "R E 506",
+      "courseTitle": "QUANT METHODS IN RE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2022",
+      "course": "R E 508",
+      "courseTitle": "FINANCIAL MODEL I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2022",
+      "course": "R E 510",
+      "courseTitle": "INTRO REAL ESTATE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2022",
+      "course": "R E 512",
+      "courseTitle": "LEADERS BUILT ENV",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2022",
+      "course": "R E 513",
+      "courseTitle": "RE FINANCE INVEST",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2022",
+      "course": "R E 519",
+      "courseTitle": "RE DATA ANLYTC & VIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2022",
+      "course": "R E 532",
+      "courseTitle": "RE PROJECT MGMT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2022",
+      "course": "R E 563",
+      "courseTitle": "HOUSING MARKETS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2022",
+      "course": "R E 566",
+      "courseTitle": "RE MKT EVOL & DISRPT",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2022",
+      "course": "R E 597",
+      "courseTitle": "RE DATA MODELING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2022",
+      "course": "R E 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
       "term": "WIN2023",
       "course": "R E 250",
       "courseTitle": "INTRO REAL ESTATE",
@@ -1432,7 +1672,7 @@
       "course": "R E 397",
       "courseTitle": "INTRO RE DATA MODEL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wang,Vince"
     },
     {
       "campus": "S",
@@ -1822,7 +2062,7 @@
       "course": "R E 497",
       "courseTitle": "RE DATA MODELING",
       "section": "A",
-      "instructor": "Wang,Vince"
+      "instructor": "F Wang,Vince"
     },
     {
       "campus": "S",
@@ -1938,11 +2178,61 @@
       "campus": "S",
       "dept": "re",
       "deptName": "Real Estate",
+      "term": "SUM2023",
+      "course": "R E 250",
+      "courseTitle": "INTRO REAL ESTATE",
+      "section": "A",
+      "instructor": "Affholter,Shannon R."
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "SUM2023",
+      "course": "R E 361",
+      "courseTitle": "PROP TRANSACTIONS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "SUM2023",
+      "course": "R E 363",
+      "courseTitle": "RE DEVELOPMENT",
+      "section": "A",
+      "instructor": "McCann,Jeff"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "SUM2023",
+      "course": "R E 463",
+      "courseTitle": "HOUSNG MKTS & POLICY",
+      "section": "A",
+      "instructor": "Howe,Julie A"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "SUM2023",
+      "course": "R E 490",
+      "courseTitle": "INDEPENDENT STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
       "term": "AUT2023",
       "course": "R E 250",
       "courseTitle": "INTRO REAL ESTATE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Affholter,Shannon R."
     },
     {
       "campus": "S",
@@ -2262,7 +2552,7 @@
       "course": "R E 397",
       "courseTitle": "INTRO RE DATA MODEL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wang,Vince"
     },
     {
       "campus": "S",
@@ -2661,8 +2951,8 @@
       "term": "SPR2024",
       "course": "R E 497",
       "courseTitle": "RE DATA MODELING",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "F Wang,Vince"
     },
     {
       "campus": "S",
@@ -2671,8 +2961,8 @@
       "term": "SPR2024",
       "course": "R E 497",
       "courseTitle": "RE DATA MODELING",
-      "section": "B",
-      "instructor": "Wang,Vince"
+      "section": "A",
+      "instructor": "TBA"
     },
     {
       "campus": "S",
@@ -2808,6 +3098,36 @@
       "campus": "S",
       "dept": "re",
       "deptName": "Real Estate",
+      "term": "SUM2024",
+      "course": "R E 250",
+      "courseTitle": "INTRO REAL ESTATE",
+      "section": "A",
+      "instructor": "Affholter,Shannon R."
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "SUM2024",
+      "course": "R E 250",
+      "courseTitle": "INTRO REAL ESTATE",
+      "section": "B",
+      "instructor": "Affholter,Shannon R."
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "SUM2024",
+      "course": "R E 361",
+      "courseTitle": "PROP TRANSACTIONS",
+      "section": "A",
+      "instructor": "Walter,Rebecca J."
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
       "term": "AUT2024",
       "course": "R E 250",
       "courseTitle": "INTRO REAL ESTATE",
@@ -2891,8 +3211,8 @@
       "term": "AUT2024",
       "course": "R E 413",
       "courseTitle": "RE FINANCE INVEST",
-      "section": "A",
-      "instructor": "Leung,Keith"
+      "section": "B",
+      "instructor": "B Whitaker,Dan"
     },
     {
       "campus": "S",
@@ -2901,8 +3221,8 @@
       "term": "AUT2024",
       "course": "R E 413",
       "courseTitle": "RE FINANCE INVEST",
-      "section": "B",
-      "instructor": "Whitaker,Dan"
+      "section": "A",
+      "instructor": "Leung,Keith"
     },
     {
       "campus": "S",
@@ -2952,7 +3272,7 @@
       "course": "R E 497",
       "courseTitle": "RE DATA MODELING",
       "section": "A",
-      "instructor": "Ding,Shiqi"
+      "instructor": "F Ding,Shiqi"
     },
     {
       "campus": "S",
@@ -3142,7 +3462,7 @@
       "course": "R E 397",
       "courseTitle": "INTRO RE DATA MODEL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wang,Vince"
     },
     {
       "campus": "S",
@@ -3562,7 +3882,7 @@
       "course": "R E 497",
       "courseTitle": "RE DATA MODELING",
       "section": "A",
-      "instructor": "Wang,Vince"
+      "instructor": "F Wang,Vince"
     },
     {
       "campus": "S",
@@ -3751,16 +4071,6 @@
       "term": "AUT2025",
       "course": "R E 250",
       "courseTitle": "INTRO REAL ESTATE",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "re",
-      "deptName": "Real Estate",
-      "term": "AUT2025",
-      "course": "R E 250",
-      "courseTitle": "INTRO REAL ESTATE",
       "section": "B",
       "instructor": "TBA"
     },
@@ -3779,10 +4089,20 @@
       "dept": "re",
       "deptName": "Real Estate",
       "term": "AUT2025",
+      "course": "R E 250",
+      "courseTitle": "INTRO REAL ESTATE",
+      "section": "A",
+      "instructor": "Wayman,Earl"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2025",
       "course": "R E 361",
       "courseTitle": "PROP TRANSACTIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McCann,Jeff"
     },
     {
       "campus": "S",
@@ -3792,7 +4112,7 @@
       "course": "R E 363",
       "courseTitle": "RE DEVELOPMENT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ales,John"
     },
     {
       "campus": "S",
@@ -3812,17 +4132,7 @@
       "course": "R E 408",
       "courseTitle": "FINANCIAL MODEL I",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "re",
-      "deptName": "Real Estate",
-      "term": "AUT2025",
-      "course": "R E 411",
-      "courseTitle": "RE APPRAISAL",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Koval,Suzanne"
     },
     {
       "campus": "S",
@@ -3832,7 +4142,17 @@
       "course": "R E 411",
       "courseTitle": "RE APPRAISAL",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Bottles,Derek Kim"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2025",
+      "course": "R E 411",
+      "courseTitle": "RE APPRAISAL",
+      "section": "A",
+      "instructor": "Sorenson,Mari"
     },
     {
       "campus": "S",
@@ -3842,7 +4162,7 @@
       "course": "R E 413",
       "courseTitle": "RE FINANCE INVEST",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Betzer,James"
     },
     {
       "campus": "S",
@@ -3852,7 +4172,7 @@
       "course": "R E 413",
       "courseTitle": "RE FINANCE INVEST",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Whitaker,Dan"
     },
     {
       "campus": "S",
@@ -3862,7 +4182,7 @@
       "course": "R E 416",
       "courseTitle": "RE MARKET ANALYSIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McCann,Jeff"
     },
     {
       "campus": "S",
@@ -3872,7 +4192,7 @@
       "course": "R E 416",
       "courseTitle": "RE MARKET ANALYSIS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Pavlik,Jacob"
     },
     {
       "campus": "S",
@@ -3882,7 +4202,7 @@
       "course": "R E 463",
       "courseTitle": "HOUSNG MKTS & POLICY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Howe,Julie A"
     },
     {
       "campus": "S",
@@ -3912,7 +4232,7 @@
       "course": "R E 497",
       "courseTitle": "RE DATA MODELING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "F Ding,Shiqi"
     },
     {
       "campus": "S",
@@ -4032,7 +4352,7 @@
       "course": "R E 101",
       "courseTitle": "INTRO TO HOME BUYING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Walter,Rebecca J."
     },
     {
       "campus": "S",
@@ -4042,7 +4362,7 @@
       "course": "R E 101",
       "courseTitle": "INTRO TO HOME BUYING",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Walter,Rebecca J."
     },
     {
       "campus": "S",
@@ -4052,7 +4372,7 @@
       "course": "R E 250",
       "courseTitle": "INTRO REAL ESTATE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Burkett,Jackie"
     },
     {
       "campus": "S",
@@ -4062,7 +4382,7 @@
       "course": "R E 250",
       "courseTitle": "INTRO REAL ESTATE",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Rehn,Taryn"
     },
     {
       "campus": "S",
@@ -4082,7 +4402,7 @@
       "course": "R E 361",
       "courseTitle": "PROP TRANSACTIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McCann,Jeff"
     },
     {
       "campus": "S",
@@ -4092,7 +4412,7 @@
       "course": "R E 363",
       "courseTitle": "RE DEVELOPMENT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ales,John"
     },
     {
       "campus": "S",
@@ -4102,7 +4422,7 @@
       "course": "R E 397",
       "courseTitle": "INTRO RE DATA MODEL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wang,Vince"
     },
     {
       "campus": "S",
@@ -4112,7 +4432,7 @@
       "course": "R E 400",
       "courseTitle": "ACCOUNTING FOR RE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tadros,Mike"
     },
     {
       "campus": "S",
@@ -4122,7 +4442,7 @@
       "course": "R E 408",
       "courseTitle": "FINANCIAL MODEL I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Biethan,Scott"
     },
     {
       "campus": "S",
@@ -4132,7 +4452,7 @@
       "course": "R E 411",
       "courseTitle": "RE APPRAISAL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sorenson,Mari"
     },
     {
       "campus": "S",
@@ -4142,7 +4462,7 @@
       "course": "R E 416",
       "courseTitle": "RE MARKET ANALYSIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dermisi,Sofia"
     },
     {
       "campus": "S",
@@ -4152,7 +4472,7 @@
       "course": "R E 416",
       "courseTitle": "RE MARKET ANALYSIS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "McCann,Jeff"
     },
     {
       "campus": "S",
@@ -4162,7 +4482,7 @@
       "course": "R E 418",
       "courseTitle": "BEST SUSTN PRACT RE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hellstern,Chris"
     },
     {
       "campus": "S",
@@ -4172,7 +4492,7 @@
       "course": "R E 463",
       "courseTitle": "HOUSNG MKTS & POLICY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Howe,Julie A"
     },
     {
       "campus": "S",
@@ -4192,7 +4512,7 @@
       "course": "R E 480",
       "courseTitle": "PROFESSIONAL DEVPT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anderson,Nikita"
     },
     {
       "campus": "S",
@@ -4212,7 +4532,7 @@
       "course": "R E 495",
       "courseTitle": "INTERNSHIP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Acolin,Arthur"
     },
     {
       "campus": "S",
@@ -4222,7 +4542,7 @@
       "course": "R E 497",
       "courseTitle": "RE DATA MODELING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wang,Vince"
     },
     {
       "campus": "S",
@@ -4232,7 +4552,7 @@
       "course": "R E 498",
       "courseTitle": "REAL EST SPEC TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Denamur,Nicole L"
     },
     {
       "campus": "S",
@@ -4372,7 +4692,17 @@
       "course": "R E 101",
       "courseTitle": "INTRO TO HOME BUYING",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Walter,Rebecca J."
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "SPR2026",
+      "course": "R E 250",
+      "courseTitle": "INTRO REAL ESTATE",
+      "section": "D",
+      "instructor": "Burkett,Jackie"
     },
     {
       "campus": "S",
@@ -4382,7 +4712,7 @@
       "course": "R E 250",
       "courseTitle": "INTRO REAL ESTATE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "McCann,Jeff"
     },
     {
       "campus": "S",
@@ -4392,7 +4722,7 @@
       "course": "R E 250",
       "courseTitle": "INTRO REAL ESTATE",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "McCann,Jeff"
     },
     {
       "campus": "S",
@@ -4409,20 +4739,10 @@
       "dept": "re",
       "deptName": "Real Estate",
       "term": "SPR2026",
-      "course": "R E 250",
-      "courseTitle": "INTRO REAL ESTATE",
-      "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "re",
-      "deptName": "Real Estate",
-      "term": "SPR2026",
       "course": "R E 361",
       "courseTitle": "PROP TRANSACTIONS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Jennings,Erik"
     },
     {
       "campus": "S",
@@ -4432,7 +4752,7 @@
       "course": "R E 363",
       "courseTitle": "RE DEVELOPMENT",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Ales,John"
     },
     {
       "campus": "S",
@@ -4442,7 +4762,7 @@
       "course": "R E 397",
       "courseTitle": "INTRO RE DATA MODEL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fang,Jolin"
     },
     {
       "campus": "S",
@@ -4452,7 +4772,7 @@
       "course": "R E 408",
       "courseTitle": "FINANCIAL MODEL I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Biethan,Scott"
     },
     {
       "campus": "S",
@@ -4462,7 +4782,7 @@
       "course": "R E 409",
       "courseTitle": "FINANCIAL MODEL II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Brewington-Janssen,Noelan"
     },
     {
       "campus": "S",
@@ -4472,17 +4792,7 @@
       "course": "R E 411",
       "courseTitle": "RE APPRAISAL",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "re",
-      "deptName": "Real Estate",
-      "term": "SPR2026",
-      "course": "R E 413",
-      "courseTitle": "RE FINANCE & INVEST",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sorenson,Mari"
     },
     {
       "campus": "S",
@@ -4492,7 +4802,17 @@
       "course": "R E 413",
       "courseTitle": "RE FINANCE & INVEST",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Leung,Keith"
+    },
+    {
+      "campus": "S",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "SPR2026",
+      "course": "R E 413",
+      "courseTitle": "RE FINANCE & INVEST",
+      "section": "A",
+      "instructor": "Whitaker,Dan"
     },
     {
       "campus": "S",
@@ -4502,7 +4822,7 @@
       "course": "R E 415",
       "courseTitle": "REAL ESTATE LAW",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Moore,Richard"
     },
     {
       "campus": "S",
@@ -4512,7 +4832,7 @@
       "course": "R E 416",
       "courseTitle": "RE MARKET ANALYSIS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Pavlik,Jacob"
     },
     {
       "campus": "S",
@@ -4522,7 +4842,7 @@
       "course": "R E 430",
       "courseTitle": "CORPRT RE & FAC MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Goh,Jenny"
     },
     {
       "campus": "S",
@@ -4532,7 +4852,7 @@
       "course": "R E 431",
       "courseTitle": "RE PORTFOLIO MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stone,Peter S"
     },
     {
       "campus": "S",
@@ -4542,7 +4862,7 @@
       "course": "R E 459",
       "courseTitle": "RISK IN SUSTAIN DEV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Denamur,Nicole L"
     },
     {
       "campus": "S",
@@ -4552,7 +4872,7 @@
       "course": "R E 463",
       "courseTitle": "HOUSNG MKTS & POLICY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Howe,Julie A"
     },
     {
       "campus": "S",
@@ -4562,7 +4882,7 @@
       "course": "R E 464",
       "courseTitle": "AFFORDABLE HOUSING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Welch,Nick"
     },
     {
       "campus": "S",
@@ -4572,7 +4892,7 @@
       "course": "R E 465",
       "courseTitle": "ADV HOUSING STUDIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Acolin,Arthur"
     },
     {
       "campus": "S",
@@ -4582,7 +4902,7 @@
       "course": "R E 480",
       "courseTitle": "PROFESSIONAL DEVPT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Heller,Eli"
     },
     {
       "campus": "S",
@@ -4612,7 +4932,7 @@
       "course": "R E 497",
       "courseTitle": "RE DATA MODELING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "F Costa,Ana"
     },
     {
       "campus": "S",
@@ -4622,7 +4942,7 @@
       "course": "R E 498",
       "courseTitle": "REAL EST SPEC TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Koval,Suzanne"
     },
     {
       "campus": "S",

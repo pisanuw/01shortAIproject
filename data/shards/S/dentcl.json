@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:58Z",
+  "generatedAt": "2026-04-16T02:57:14Z",
   "campus": "S",
   "dept": "dentcl",
   "deptName": "Dental Clerkship",
@@ -1098,6 +1098,26 @@
       "campus": "S",
       "dept": "dentcl",
       "deptName": "Dental Clerkship",
+      "term": "SUM2023",
+      "course": "DENTCL 607",
+      "courseTitle": "ETHICS/JURISPRUDENCE",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "dentcl",
+      "deptName": "Dental Clerkship",
+      "term": "SUM2023",
+      "course": "DENTCL 620",
+      "courseTitle": "INTRO TO CLINIC PRAC",
+      "section": "A",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "dept": "dentcl",
+      "deptName": "Dental Clerkship",
       "term": "AUT2023",
       "course": "DENTCL 605",
       "courseTitle": "FOUNDATIONS OF IPE",
@@ -2012,7 +2032,7 @@
       "course": "DENTCL 642",
       "courseTitle": "PERIO CLERKSHIP AN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Daubert,Diane M."
     },
     {
       "campus": "S",
@@ -2132,7 +2152,7 @@
       "course": "DENTCL 637",
       "courseTitle": "OMS CLERKSHIP",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Evans,John"
     },
     {
       "campus": "S",

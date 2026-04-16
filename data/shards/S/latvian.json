@@ -1,7 +1,798 @@
 {
-  "generatedAt": "2026-04-15T16:27:57Z",
+  "generatedAt": "2026-04-16T02:57:13Z",
   "campus": "S",
   "dept": "latvian",
   "deptName": "Latvian",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2020",
+      "course": "LATV 101",
+      "courseTitle": "FIRST YEAR LATVIAN 1",
+      "section": "A",
+      "instructor": "Burr,Solvita"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2020",
+      "course": "LATV 111",
+      "courseTitle": "BASIC LATVIAN",
+      "section": "A",
+      "instructor": "Burr,Solvita"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2020",
+      "course": "LATV 201",
+      "courseTitle": "SECOND-YEAR LATVIAN",
+      "section": "A",
+      "instructor": "Burr,Solvita"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2020",
+      "course": "LATV 490",
+      "courseTitle": "SUPERVISED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2021",
+      "course": "LATV 102",
+      "courseTitle": "FIRST YEAR LATVIAN 2",
+      "section": "A",
+      "instructor": "Smidchens,Guntis"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2021",
+      "course": "LATV 112",
+      "courseTitle": "BASIC LATVIAN",
+      "section": "A",
+      "instructor": "Burr,Solvita"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2021",
+      "course": "LATV 202",
+      "courseTitle": "SECOND-YEAR LATVIAN",
+      "section": "A",
+      "instructor": "Burr,Solvita"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2021",
+      "course": "LATV 490",
+      "courseTitle": "SUPERVISED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2021",
+      "course": "LATV 103",
+      "courseTitle": "FIRST YEAR LATVIAN 3",
+      "section": "A",
+      "instructor": "Burr,Solvita"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2021",
+      "course": "LATV 113",
+      "courseTitle": "BASIC LATVIAN",
+      "section": "A",
+      "instructor": "Burr,Solvita"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2021",
+      "course": "LATV 203",
+      "courseTitle": "SECOND-YEAR LATVIAN",
+      "section": "A",
+      "instructor": "Burr,Solvita"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2021",
+      "course": "LATV 490",
+      "courseTitle": "SUPERVISED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2021",
+      "course": "LATV 101",
+      "courseTitle": "FIRST YEAR LATVIAN 1",
+      "section": "A",
+      "instructor": "Burr,Solvita"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2021",
+      "course": "LATV 111",
+      "courseTitle": "BASIC LATVIAN",
+      "section": "A",
+      "instructor": "Burr,Solvita"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2021",
+      "course": "LATV 201",
+      "courseTitle": "SECOND-YEAR LATVIAN",
+      "section": "A",
+      "instructor": "Burr,Solvita"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2021",
+      "course": "LATV 310",
+      "courseTitle": "LATV LIT & CULTURE",
+      "section": "A",
+      "instructor": "Burr,Solvita"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2021",
+      "course": "LATV 490",
+      "courseTitle": "SUPERVISED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2022",
+      "course": "LATV 102",
+      "courseTitle": "FIRST YEAR LATVIAN 2",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2022",
+      "course": "LATV 112",
+      "courseTitle": "BASIC LATVIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2022",
+      "course": "LATV 202",
+      "courseTitle": "SECOND-YEAR LATVIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2022",
+      "course": "LATV 490",
+      "courseTitle": "SUPERVISED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2022",
+      "course": "LATV 103",
+      "courseTitle": "FIRST YEAR LATVIAN 3",
+      "section": "A",
+      "instructor": "Burr,Solvita"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2022",
+      "course": "LATV 113",
+      "courseTitle": "BASIC LATVIAN",
+      "section": "A",
+      "instructor": "Burr,Solvita"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2022",
+      "course": "LATV 203",
+      "courseTitle": "SECOND-YEAR LATVIAN",
+      "section": "A",
+      "instructor": "Burr,Solvita"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2022",
+      "course": "LATV 490",
+      "courseTitle": "SUPERVISED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2022",
+      "course": "LATV 101",
+      "courseTitle": "FIRST YEAR LATVIAN 1",
+      "section": "A",
+      "instructor": "Smidchens,Guntis"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2022",
+      "course": "LATV 111",
+      "courseTitle": "BASIC LATVIAN",
+      "section": "A",
+      "instructor": "Smidchens,Guntis"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2022",
+      "course": "LATV 490",
+      "courseTitle": "SUPERVISED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2023",
+      "course": "LATV 102",
+      "courseTitle": "FIRST YEAR LATVIAN 2",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2023",
+      "course": "LATV 112",
+      "courseTitle": "BASIC LATVIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2023",
+      "course": "LATV 201",
+      "courseTitle": "SECOND-YEAR LATVIAN",
+      "section": "A",
+      "instructor": "Burr,Solvita"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2023",
+      "course": "LATV 490",
+      "courseTitle": "SUPERVISED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2023",
+      "course": "LATV 103",
+      "courseTitle": "FIRST YEAR LATVIAN 3",
+      "section": "A",
+      "instructor": "Burr,Solvita"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2023",
+      "course": "LATV 113",
+      "courseTitle": "BASIC LATVIAN",
+      "section": "A",
+      "instructor": "Burr,Solvita"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2023",
+      "course": "LATV 202",
+      "courseTitle": "SECOND-YEAR LATVIAN",
+      "section": "A",
+      "instructor": "Burr,Solvita"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2023",
+      "course": "LATV 490",
+      "courseTitle": "SUPERVISED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2023",
+      "course": "LATV 101",
+      "courseTitle": "FIRST YEAR LATVIAN 1",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2023",
+      "course": "LATV 111",
+      "courseTitle": "BASIC LATVIAN",
+      "section": "A",
+      "instructor": "Burr,Solvita"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2023",
+      "course": "LATV 201",
+      "courseTitle": "SECOND-YEAR LATVIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2023",
+      "course": "LATV 490",
+      "courseTitle": "SUPERVISED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2024",
+      "course": "LATV 102",
+      "courseTitle": "FIRST YEAR LATVIAN 2",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2024",
+      "course": "LATV 112",
+      "courseTitle": "BASIC LATVIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2024",
+      "course": "LATV 202",
+      "courseTitle": "SECOND-YEAR LATVIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2024",
+      "course": "LATV 490",
+      "courseTitle": "SUPERVISED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2024",
+      "course": "LATV 103",
+      "courseTitle": "FIRST YEAR LATVIAN 3",
+      "section": "A",
+      "instructor": "Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2024",
+      "course": "LATV 113",
+      "courseTitle": "BASIC LATVIAN",
+      "section": "A",
+      "instructor": "Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2024",
+      "course": "LATV 203",
+      "courseTitle": "SECOND-YEAR LATVIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2024",
+      "course": "LATV 490",
+      "courseTitle": "SUPERVISED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2024",
+      "course": "LATV 101",
+      "courseTitle": "FIRST YEAR LATVIAN 1",
+      "section": "A",
+      "instructor": "Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2024",
+      "course": "LATV 111",
+      "courseTitle": "BASIC LATVIAN",
+      "section": "A",
+      "instructor": "Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2024",
+      "course": "LATV 201",
+      "courseTitle": "SECOND-YEAR LATVIAN",
+      "section": "A",
+      "instructor": "B Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2024",
+      "course": "LATV 211",
+      "courseTitle": "INTRMD WRTN LATVIAN",
+      "section": "A",
+      "instructor": "Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2024",
+      "course": "LATV 490",
+      "courseTitle": "SUPERVISED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2025",
+      "course": "LATV 102",
+      "courseTitle": "FIRST YEAR LATVIAN 2",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2025",
+      "course": "LATV 112",
+      "courseTitle": "BASIC LATVIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2025",
+      "course": "LATV 202",
+      "courseTitle": "SECOND-YEAR LATVIAN",
+      "section": "A",
+      "instructor": "Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2025",
+      "course": "LATV 212",
+      "courseTitle": "INTRMED WRTN LATVIAN",
+      "section": "A",
+      "instructor": "Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2025",
+      "course": "LATV 490",
+      "courseTitle": "SUPERVISED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2025",
+      "course": "LATV 103",
+      "courseTitle": "FIRST YEAR LATVIAN 3",
+      "section": "A",
+      "instructor": "Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2025",
+      "course": "LATV 113",
+      "courseTitle": "BASIC LATVIAN",
+      "section": "A",
+      "instructor": "Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2025",
+      "course": "LATV 203",
+      "courseTitle": "SECOND-YEAR LATVIAN",
+      "section": "A",
+      "instructor": "Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2025",
+      "course": "LATV 213",
+      "courseTitle": "INTRMED WRTN LATVIAN",
+      "section": "A",
+      "instructor": "B Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2025",
+      "course": "LATV 490",
+      "courseTitle": "SUPERVISED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2025",
+      "course": "LATV 101",
+      "courseTitle": "FIRST YEAR LATVIAN 1",
+      "section": "A",
+      "instructor": "B Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2025",
+      "course": "LATV 111",
+      "courseTitle": "BASIC LATVIAN",
+      "section": "A",
+      "instructor": "B Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2025",
+      "course": "LATV 310",
+      "courseTitle": "LATV LIT & CULTURE",
+      "section": "A",
+      "instructor": "B Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "AUT2025",
+      "course": "LATV 490",
+      "courseTitle": "SUPERVISED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2026",
+      "course": "LATV 102",
+      "courseTitle": "FIRST YEAR LATVIAN 2",
+      "section": "A",
+      "instructor": "Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2026",
+      "course": "LATV 112",
+      "courseTitle": "BASIC LATVIAN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2026",
+      "course": "LATV 202",
+      "courseTitle": "SECOND-YEAR LATVIAN",
+      "section": "A",
+      "instructor": "Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2026",
+      "course": "LATV 212",
+      "courseTitle": "INTRMED WRTN LATVIAN",
+      "section": "A",
+      "instructor": "Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2026",
+      "course": "LATV 310",
+      "courseTitle": "LATV LIT & CULTURE",
+      "section": "A",
+      "instructor": "Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "WIN2026",
+      "course": "LATV 490",
+      "courseTitle": "SUPERVISED READING",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2026",
+      "course": "LATV 103",
+      "courseTitle": "FIRST YEAR LATVIAN 3",
+      "section": "A",
+      "instructor": "Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2026",
+      "course": "LATV 113",
+      "courseTitle": "BASIC LATVIAN",
+      "section": "A",
+      "instructor": "Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2026",
+      "course": "LATV 203",
+      "courseTitle": "SECOND-YEAR LATVIAN",
+      "section": "A",
+      "instructor": "Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2026",
+      "course": "LATV 213",
+      "courseTitle": "INTRMED WRTN LATVIAN",
+      "section": "A",
+      "instructor": "Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2026",
+      "course": "LATV 310",
+      "courseTitle": "LATV LIT & CULTURE",
+      "section": "A",
+      "instructor": "Miklasevica,Liga"
+    },
+    {
+      "campus": "S",
+      "dept": "latvian",
+      "deptName": "Latvian",
+      "term": "SPR2026",
+      "course": "LATV 490",
+      "courseTitle": "SUPERVISED READING",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
 }

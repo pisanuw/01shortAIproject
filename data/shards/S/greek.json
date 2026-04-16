@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:55Z",
+  "generatedAt": "2026-04-16T02:57:11Z",
   "campus": "S",
   "dept": "greek",
   "deptName": "Greek",
@@ -258,6 +258,76 @@
       "campus": "S",
       "dept": "greek",
       "deptName": "Greek",
+      "term": "SUM2021",
+      "course": "GREEK 103",
+      "courseTitle": "INTRODUCTORY GREEK",
+      "section": "A",
+      "instructor": "Garcia,Edgar A"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "SUM2021",
+      "course": "GREEK 300",
+      "courseTitle": "INTRO GREEK ACCEL",
+      "section": "A",
+      "instructor": "Bringman,Joseph"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "SUM2021",
+      "course": "GREEK 405",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "A",
+      "instructor": "Clauss,James J"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "SUM2021",
+      "course": "GREEK 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "SUM2021",
+      "course": "GREEK 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "SUM2021",
+      "course": "GREEK 590",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "SUM2021",
+      "course": "GREEK 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
       "term": "AUT2021",
       "course": "GREEK 101",
       "courseTitle": "INTRODUCTORY GREEK",
@@ -409,6 +479,76 @@
       "dept": "greek",
       "deptName": "Greek",
       "term": "WIN2022",
+      "course": "GREEK 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "SPR2022",
+      "course": "GREEK 103",
+      "courseTitle": "INTRODUCTORY GREEK",
+      "section": "A",
+      "instructor": "Hollmann,Alexander J"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "SPR2022",
+      "course": "GREEK 307",
+      "courseTitle": "HOMER",
+      "section": "A",
+      "instructor": "Levaniouk,Olga"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "SPR2022",
+      "course": "GREEK 463",
+      "courseTitle": "HELLENISTIC GRK LIT",
+      "section": "A",
+      "instructor": "Clauss,James J"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "SPR2022",
+      "course": "GREEK 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "SPR2022",
+      "course": "GREEK 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "SPR2022",
+      "course": "GREEK 590",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "SPR2022",
       "course": "GREEK 600",
       "courseTitle": "INDEPNDNT STDY/RSCH",
       "section": "A",
@@ -1118,6 +1258,86 @@
       "campus": "S",
       "dept": "greek",
       "deptName": "Greek",
+      "term": "AUT2024",
+      "course": "GREEK 101",
+      "courseTitle": "INTRODUCTORY GREEK",
+      "section": "A",
+      "instructor": "Levaniouk,Olga"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "AUT2024",
+      "course": "GREEK 305",
+      "courseTitle": "ATTIC PROSE",
+      "section": "A",
+      "instructor": "Hollmann,Alexander J"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "AUT2024",
+      "course": "GREEK 461",
+      "courseTitle": "EARLY GRK LIT",
+      "section": "A",
+      "instructor": "Levaniouk,Olga"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "AUT2024",
+      "course": "GREEK 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "AUT2024",
+      "course": "GREEK 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "AUT2024",
+      "course": "GREEK 503",
+      "courseTitle": "ARISTOPHANES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "AUT2024",
+      "course": "GREEK 590",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "AUT2024",
+      "course": "GREEK 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
       "term": "WIN2025",
       "course": "GREEK 102",
       "courseTitle": "INTRODUCTORY GREEK",
@@ -1288,11 +1508,81 @@
       "campus": "S",
       "dept": "greek",
       "deptName": "Greek",
+      "term": "SUM2025",
+      "course": "GREEK 103",
+      "courseTitle": "INTRODUCTORY GREEK",
+      "section": "A",
+      "instructor": "HANLEY,LAURYN"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "SUM2025",
+      "course": "GREEK 300",
+      "courseTitle": "INTRO GREEK ACCEL",
+      "section": "A",
+      "instructor": "CLARK,JONATHAN"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "SUM2025",
+      "course": "GREEK 405",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "A",
+      "instructor": "Clauss,James J"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "SUM2025",
+      "course": "GREEK 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "SUM2025",
+      "course": "GREEK 490",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "SUM2025",
+      "course": "GREEK 590",
+      "courseTitle": "SUPERVISED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
+      "term": "SUM2025",
+      "course": "GREEK 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "greek",
+      "deptName": "Greek",
       "term": "AUT2025",
       "course": "GREEK 101",
       "courseTitle": "INTRODUCTORY GREEK",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hollmann,Alexander J"
     },
     {
       "campus": "S",
@@ -1302,7 +1592,7 @@
       "course": "GREEK 305",
       "courseTitle": "ATTIC PROSE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Waldo,Christopher"
     },
     {
       "campus": "S",
@@ -1312,7 +1602,7 @@
       "course": "GREEK 461",
       "courseTitle": "EARLY GRK LIT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Levaniouk,Olga"
     },
     {
       "campus": "S",
@@ -1362,7 +1652,7 @@
       "course": "GREEK 102",
       "courseTitle": "INTRODUCTORY GREEK",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bringman,Joseph"
     },
     {
       "campus": "S",
@@ -1372,7 +1662,7 @@
       "course": "GREEK 300",
       "courseTitle": "INTRO GREEK ACCEL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ritter,Michael"
     },
     {
       "campus": "S",
@@ -1382,7 +1672,7 @@
       "course": "GREEK 306",
       "courseTitle": "ATTIC PROSE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kamen,Deborah E"
     },
     {
       "campus": "S",
@@ -1392,7 +1682,7 @@
       "course": "GREEK 462",
       "courseTitle": "LIT OF CLAS ATHENS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lahiri,Ray"
     },
     {
       "campus": "S",
@@ -1452,7 +1742,7 @@
       "course": "GREEK 103",
       "courseTitle": "INTRODUCTORY GREEK",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hollmann,Alexander J"
     },
     {
       "campus": "S",
@@ -1462,7 +1752,7 @@
       "course": "GREEK 307",
       "courseTitle": "HOMER",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Levaniouk,Olga"
     },
     {
       "campus": "S",
@@ -1472,7 +1762,7 @@
       "course": "GREEK 463",
       "courseTitle": "HELLENISTIC GRK LIT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kamen,Deborah E"
     },
     {
       "campus": "S",

@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Lee%2CJin%20Ha",
+  "professor": "Lee,Jin Ha",
+  "recordCount": 5,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "insc",
+      "deptName": "Information Science",
+      "term": "SPR2025",
+      "course": "INSC 508",
+      "courseTitle": "READING SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "insc",
+      "deptName": "Information Science",
+      "term": "SPR2024",
+      "course": "INSC 508",
+      "courseTitle": "READING SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2023",
+      "course": "INFO 498",
+      "courseTitle": "TOPIC INFORMATICS",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2022",
+      "course": "INFO 498",
+      "courseTitle": "TOPIC INFORMATICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2020",
+      "course": "INFO 498",
+      "courseTitle": "TOPIC INFORMATICS",
+      "section": "C"
+    }
+  ]
+}

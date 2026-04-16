@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "ZHANG%2CANGELA",
+  "professor": "ZHANG,ANGELA",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SPR2021",
+      "course": "STAT 111",
+      "courseTitle": "LECTURES APPL STAT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "SPR2021",
+      "course": "BIOST 111",
+      "courseTitle": "LECTURES APPL STAT",
+      "section": "A"
+    }
+  ]
+}

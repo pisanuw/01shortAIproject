@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Leventhal%2CH",
+  "professor": "Leventhal,H",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "envh",
+      "deptName": "Environmental Health",
+      "term": "AUT2021",
+      "course": "ENV H 480",
+      "courseTitle": "UG SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "envh",
+      "deptName": "Environmental Health",
+      "term": "SUM2021",
+      "course": "ENV H 482",
+      "courseTitle": "EH INTERNSHIP",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "envh",
+      "deptName": "Environmental Health",
+      "term": "AUT2020",
+      "course": "ENV H 480",
+      "courseTitle": "UG SEMINAR",
+      "section": "A"
+    }
+  ]
+}

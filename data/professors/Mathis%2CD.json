@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Mathis%2CD",
+  "professor": "Mathis,D",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "asl",
+      "deptName": "American Sign Language",
+      "term": "SPR2023",
+      "course": "ASL 303",
+      "courseTitle": "ADVANCED ASL III",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "asl",
+      "deptName": "American Sign Language",
+      "term": "SPR2023",
+      "course": "ASL 103",
+      "courseTitle": "ELEMENTARY ASL III",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "asl",
+      "deptName": "American Sign Language",
+      "term": "SPR2023",
+      "course": "ASL 103",
+      "courseTitle": "ELEMENTARY ASL III",
+      "section": "C"
+    }
+  ]
+}

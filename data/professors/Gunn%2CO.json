@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Gunn%2CO",
+  "professor": "Gunn,O",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SPR2022",
+      "course": "SCAND 367",
+      "courseTitle": "SEXUALITY IN SCAND",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "norweg",
+      "deptName": "Norwegian",
+      "term": "SPR2022",
+      "course": "NORW 312",
+      "courseTitle": "NORW LIT & CULTURE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "gwss",
+      "deptName": "Gender, Women, and Sexuality Studies",
+      "term": "SPR2022",
+      "course": "GWSS 429",
+      "courseTitle": "SCAND WOMEN WRITERS",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Woodrow%2CK",
+  "professor": "Woodrow,K",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "WIN2023",
+      "course": "BIOEN 574",
+      "courseTitle": "IMMUNOENGINEERING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "WIN2023",
+      "course": "BIOEN 474",
+      "courseTitle": "IMMUNOENGINEERING",
+      "section": "A"
+    }
+  ]
+}

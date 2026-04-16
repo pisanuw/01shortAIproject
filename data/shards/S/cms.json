@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:55Z",
+  "generatedAt": "2026-04-16T02:57:11Z",
   "campus": "S",
   "dept": "cms",
   "deptName": "Cinema and Media Studies",
@@ -32,7 +32,7 @@
       "course": "CMS 272",
       "courseTitle": "FILM: GENRE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bean,Jennifer M"
     },
     {
       "campus": "S",
@@ -252,7 +252,7 @@
       "course": "CMS 270",
       "courseTitle": "FILM: INTRODUCTION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tweedie,James"
     },
     {
       "campus": "S",
@@ -262,7 +262,7 @@
       "course": "CMS 274",
       "courseTitle": "MEDIA CRIT CONCEPT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Groening,Stephen F"
     },
     {
       "campus": "S",
@@ -432,7 +432,7 @@
       "course": "CMS 272",
       "courseTitle": "FILM: GENRE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bean,J"
     },
     {
       "campus": "S",
@@ -462,7 +462,7 @@
       "course": "CMS 314",
       "courseTitle": "HISTORY OF TV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Groening,Stephen F"
     },
     {
       "campus": "S",
@@ -608,6 +608,86 @@
       "campus": "S",
       "dept": "cms",
       "deptName": "Cinema and Media Studies",
+      "term": "SUM2021",
+      "course": "CMS 240",
+      "courseTitle": "WRITING IN CMS",
+      "section": "A",
+      "instructor": "Dueholm,Amalie Goul"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2021",
+      "course": "CMS 295",
+      "courseTitle": "STUDY ABROAD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2021",
+      "course": "CMS 297",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Pai,Gaurav"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2021",
+      "course": "CMS 370",
+      "courseTitle": "BASIC SCREENWRITING",
+      "section": "A",
+      "instructor": "Etheredge,Warren"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2021",
+      "course": "CMS 395",
+      "courseTitle": "STUDY ABROAD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2021",
+      "course": "CMS 490",
+      "courseTitle": "DIRECTED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2021",
+      "course": "CMS 491",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2021",
+      "course": "CMS 590",
+      "courseTitle": "MA ESSAY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
       "term": "AUT2021",
       "course": "CMS 240",
       "courseTitle": "WRITING IN CMS",
@@ -622,7 +702,7 @@
       "course": "CMS 271",
       "courseTitle": "FILM: DIRECTORS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Ames,Eric"
     },
     {
       "campus": "S",
@@ -862,7 +942,7 @@
       "course": "CMS 272",
       "courseTitle": "FILM: GENRE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bean,Jennifer M"
     },
     {
       "campus": "S",
@@ -1048,6 +1128,366 @@
       "campus": "S",
       "dept": "cms",
       "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 240",
+      "courseTitle": "WRITING IN CMS",
+      "section": "B",
+      "instructor": "A Lopez Vergara,Sebastian O"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 240",
+      "courseTitle": "WRITING IN CMS",
+      "section": "C",
+      "instructor": "Anderson,Douglas J."
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 272",
+      "courseTitle": "FILM: GENRE",
+      "section": "A",
+      "instructor": "Bean,J"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 295",
+      "courseTitle": "STUDY ABROAD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 301",
+      "courseTitle": "FILM THRY: ANALYSIS",
+      "section": "A",
+      "instructor": "Ames,Eric"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 302",
+      "courseTitle": "MEDIA ARTS & CLTR",
+      "section": "A",
+      "instructor": "Vallier,John Bellarmine"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 313",
+      "courseTitle": "FILM HST: 1989-PRES",
+      "section": "A",
+      "instructor": "Braester,Yomi"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 320",
+      "courseTitle": "CINEMA AND NATION",
+      "section": "A",
+      "instructor": "Chang,Ellen Y"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 320",
+      "courseTitle": "CINEMA AND NATION",
+      "section": "B",
+      "instructor": "Junke,Dawid"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 320",
+      "courseTitle": "CINEMA AND NATION",
+      "section": "C",
+      "instructor": "Samini,Naghmeh"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 370",
+      "courseTitle": "BASIC SCREENWRITING",
+      "section": "A",
+      "instructor": "Etheredge,Warren"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 395",
+      "courseTitle": "STUDY ABROAD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 397",
+      "courseTitle": "CMS SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Etheredge,Warren"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 397",
+      "courseTitle": "CMS SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Gillis-Bridges,Kimberlee"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 480",
+      "courseTitle": "SENIOR CAPSTONE",
+      "section": "A",
+      "instructor": "Ruiz,Diana"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 490",
+      "courseTitle": "DIRECTED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 491",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 571",
+      "courseTitle": "NATIONAL FRAMEWORKS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 590",
+      "courseTitle": "MA ESSAY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 597",
+      "courseTitle": "TOPICS CINEMA/MEDIA",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 599",
+      "courseTitle": "SPEC SEMINAR/CONFER",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 599",
+      "courseTitle": "SPEC SEMINAR/CONFER",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2022",
+      "course": "CMS 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2022",
+      "course": "CMS 240",
+      "courseTitle": "WRITING IN CMS",
+      "section": "A",
+      "instructor": "Anderson,Douglas J."
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2022",
+      "course": "CMS 240",
+      "courseTitle": "WRITING IN CMS",
+      "section": "C",
+      "instructor": "Gilbert,Erin"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2022",
+      "course": "CMS 274",
+      "courseTitle": "MEDIA CRIT CONCEPT",
+      "section": "A",
+      "instructor": "Ahern,Mal"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2022",
+      "course": "CMS 295",
+      "courseTitle": "STUDY ABROAD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2022",
+      "course": "CMS 370",
+      "courseTitle": "BASIC SCREENWRITING",
+      "section": "A",
+      "instructor": "Etheredge,Warren"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2022",
+      "course": "CMS 395",
+      "courseTitle": "STUDY ABROAD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2022",
+      "course": "CMS 490",
+      "courseTitle": "DIRECTED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2022",
+      "course": "CMS 491",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2022",
+      "course": "CMS 599",
+      "courseTitle": "SPEC SEMINAR/CONFER",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2022",
+      "course": "CMS 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2022",
+      "course": "CMS 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
       "term": "AUT2022",
       "course": "CMS 240",
       "courseTitle": "WRITING IN CMS",
@@ -1072,7 +1512,7 @@
       "course": "CMS 272",
       "courseTitle": "FILM: GENRE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bean,Jennifer M"
     },
     {
       "campus": "S",
@@ -1302,7 +1742,7 @@
       "course": "CMS 270",
       "courseTitle": "FILM: INTRODUCTION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ames,Eric"
     },
     {
       "campus": "S",
@@ -1312,7 +1752,7 @@
       "course": "CMS 274",
       "courseTitle": "MEDIA CRIT CONCEPT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Groening,Stephen F"
     },
     {
       "campus": "S",
@@ -1412,7 +1852,7 @@
       "course": "CMS 370",
       "courseTitle": "BASIC SCREENWRITING",
       "section": "A",
-      "instructor": "Wong,Shawn H."
+      "instructor": "B Wong,Shawn H."
     },
     {
       "campus": "S",
@@ -1561,8 +2001,8 @@
       "term": "SPR2023",
       "course": "CMS 240",
       "courseTitle": "WRITING IN CMS",
-      "section": "A",
-      "instructor": "Lopez Vergara,Sebastian O"
+      "section": "B",
+      "instructor": "A Nogueira,Calac"
     },
     {
       "campus": "S",
@@ -1571,8 +2011,8 @@
       "term": "SPR2023",
       "course": "CMS 240",
       "courseTitle": "WRITING IN CMS",
-      "section": "B",
-      "instructor": "Nogueira,Calac"
+      "section": "A",
+      "instructor": "Lopez Vergara,Sebastian O"
     },
     {
       "campus": "S",
@@ -1972,7 +2412,7 @@
       "course": "CMS 273",
       "courseTitle": "TV ANALYSIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Groening,Stephen F"
     },
     {
       "campus": "S",
@@ -2222,7 +2662,7 @@
       "course": "CMS 270",
       "courseTitle": "FILM: INTRODUCTION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tweedie,James"
     },
     {
       "campus": "S",
@@ -2232,7 +2672,7 @@
       "course": "CMS 271",
       "courseTitle": "FILM: DIRECTORS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ames,Eric"
     },
     {
       "campus": "S",
@@ -2442,7 +2882,7 @@
       "course": "CMS 270",
       "courseTitle": "FILM: INTRODUCTION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ames,Eric"
     },
     {
       "campus": "S",
@@ -2452,7 +2892,7 @@
       "course": "CMS 274",
       "courseTitle": "MEDIA CRIT CONCEPT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Groening,Stephen F"
     },
     {
       "campus": "S",
@@ -2512,7 +2952,7 @@
       "course": "CMS 314",
       "courseTitle": "HISTORY OF TV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Groening,Stephen F"
     },
     {
       "campus": "S",
@@ -2802,7 +3242,7 @@
       "course": "CMS 270",
       "courseTitle": "FILM: INTRODUCTION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ames,Eric"
     },
     {
       "campus": "S",
@@ -3072,7 +3512,7 @@
       "course": "CMS 270",
       "courseTitle": "FILM: INTRODUCTION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tweedie,James"
     },
     {
       "campus": "S",
@@ -3082,7 +3522,7 @@
       "course": "CMS 272",
       "courseTitle": "FILM: GENRE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mahadevan,Sudhir"
     },
     {
       "campus": "S",
@@ -3262,7 +3702,7 @@
       "course": "CMS 273",
       "courseTitle": "TV ANALYSIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Groening,Stephen F"
     },
     {
       "campus": "S",
@@ -3272,7 +3712,7 @@
       "course": "CMS 274",
       "courseTitle": "MEDIA CRIT CONCEPT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ahern,Mal"
     },
     {
       "campus": "S",
@@ -3568,6 +4008,86 @@
       "campus": "S",
       "dept": "cms",
       "deptName": "Cinema and Media Studies",
+      "term": "SUM2025",
+      "course": "CMS 240",
+      "courseTitle": "WRITING IN CMS",
+      "section": "A",
+      "instructor": "PARKHURST,ANNA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2025",
+      "course": "CMS 240",
+      "courseTitle": "WRITING IN CMS",
+      "section": "B",
+      "instructor": "Strode,Kallie"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2025",
+      "course": "CMS 295",
+      "courseTitle": "STUDY ABROAD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2025",
+      "course": "CMS 395",
+      "courseTitle": "STUDY ABROAD",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2025",
+      "course": "CMS 397",
+      "courseTitle": "CMS SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Etheredge,Warren"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2025",
+      "course": "CMS 490",
+      "courseTitle": "DIRECTED STUDY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2025",
+      "course": "CMS 491",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SUM2025",
+      "course": "CMS 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
       "term": "AUT2025",
       "course": "CMS 240",
       "courseTitle": "WRITING IN CMS",
@@ -3592,7 +4112,7 @@
       "course": "CMS 270",
       "courseTitle": "FILM: INTRODUCTION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tweedie,James"
     },
     {
       "campus": "S",
@@ -3602,7 +4122,7 @@
       "course": "CMS 271",
       "courseTitle": "FILM: DIRECTORS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "PARKHURST,ANNA"
     },
     {
       "campus": "S",
@@ -3622,7 +4142,7 @@
       "course": "CMS 297",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ahern,Mal"
     },
     {
       "campus": "S",
@@ -3632,7 +4152,7 @@
       "course": "CMS 301",
       "courseTitle": "FILM ANALYSIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Owens,Golden M"
     },
     {
       "campus": "S",
@@ -3682,7 +4202,7 @@
       "course": "CMS 320",
       "courseTitle": "CINEMA AND NATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mazzola,Claudio"
     },
     {
       "campus": "S",
@@ -3692,7 +4212,7 @@
       "course": "CMS 320",
       "courseTitle": "CINEMA AND NATION",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Senderovich,Sasha"
     },
     {
       "campus": "S",
@@ -3712,7 +4232,7 @@
       "course": "CMS 321",
       "courseTitle": "OPPOSTN CINEMA/MEDIA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bean,JB"
     },
     {
       "campus": "S",
@@ -3722,7 +4242,7 @@
       "course": "CMS 370",
       "courseTitle": "BASIC SCREENWRITING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Etheredge,Warren"
     },
     {
       "campus": "S",
@@ -3842,7 +4362,7 @@
       "course": "CMS 271",
       "courseTitle": "FILM: DIRECTORS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Braester,Yomi"
     },
     {
       "campus": "S",
@@ -3872,7 +4392,7 @@
       "course": "CMS 301",
       "courseTitle": "FILM ANALYSIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anderson,Douglas J."
     },
     {
       "campus": "S",
@@ -3902,7 +4422,7 @@
       "course": "CMS 320",
       "courseTitle": "CINEMA AND NATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "DeYoung,Terri"
     },
     {
       "campus": "S",
@@ -3932,7 +4452,7 @@
       "course": "CMS 397",
       "courseTitle": "CMS SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nogueira,Calac"
     },
     {
       "campus": "S",
@@ -3951,8 +4471,8 @@
       "term": "WIN2026",
       "course": "CMS 480",
       "courseTitle": "SENIOR CAPSTONE",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Ahern,Mal"
     },
     {
       "campus": "S",
@@ -3961,8 +4481,8 @@
       "term": "WIN2026",
       "course": "CMS 480",
       "courseTitle": "SENIOR CAPSTONE",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Bean,JB"
     },
     {
       "campus": "S",
@@ -4032,7 +4552,7 @@
       "course": "CMS 597",
       "courseTitle": "TOPICS CINEMA/MEDIA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Oloukoi,Chrystel"
     },
     {
       "campus": "S",
@@ -4061,8 +4581,8 @@
       "term": "SPR2026",
       "course": "CMS 240",
       "courseTitle": "WRITING IN CMS",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Miller,Cain Edward"
     },
     {
       "campus": "S",
@@ -4071,8 +4591,8 @@
       "term": "SPR2026",
       "course": "CMS 240",
       "courseTitle": "WRITING IN CMS",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Strode,Kallie"
     },
     {
       "campus": "S",
@@ -4082,7 +4602,7 @@
       "course": "CMS 271",
       "courseTitle": "FILM: DIRECTORS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "PARKHURST,ANNA"
     },
     {
       "campus": "S",
@@ -4102,7 +4622,7 @@
       "course": "CMS 275",
       "courseTitle": "VISUAL CULTURE-POWER",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cary-Beckett,Zoe"
     },
     {
       "campus": "S",
@@ -4122,17 +4642,7 @@
       "course": "CMS 297",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "cms",
-      "deptName": "Cinema and Media Studies",
-      "term": "SPR2026",
-      "course": "CMS 302",
-      "courseTitle": "MEDIA ARTS & CLTR",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kim,Ungsan"
     },
     {
       "campus": "S",
@@ -4142,7 +4652,17 @@
       "course": "CMS 302",
       "courseTitle": "MEDIA ARTS & CLTR",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Cary-Beckett,Zoe"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2026",
+      "course": "CMS 302",
+      "courseTitle": "MEDIA ARTS & CLTR",
+      "section": "A",
+      "instructor": "LI,YANDONG"
     },
     {
       "campus": "S",
@@ -4152,7 +4672,7 @@
       "course": "CMS 303",
       "courseTitle": "GENRE STUDIES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tweedie,James"
     },
     {
       "campus": "S",
@@ -4162,7 +4682,7 @@
       "course": "CMS 310",
       "courseTitle": "FILM HST: 1895-1929",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anderson,Douglas J."
     },
     {
       "campus": "S",
@@ -4172,7 +4692,7 @@
       "course": "CMS 311",
       "courseTitle": "FILM HST: 1930-1959",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anderson,Douglas J."
     },
     {
       "campus": "S",
@@ -4182,7 +4702,7 @@
       "course": "CMS 312",
       "courseTitle": "FILM HST: 1960-1988",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tweedie,James"
     },
     {
       "campus": "S",
@@ -4192,17 +4712,7 @@
       "course": "CMS 320",
       "courseTitle": "CINEMA AND NATION",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "S",
-      "dept": "cms",
-      "deptName": "Cinema and Media Studies",
-      "term": "SPR2026",
-      "course": "CMS 320",
-      "courseTitle": "CINEMA AND NATION",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Mercer,Leigh K"
     },
     {
       "campus": "S",
@@ -4212,6 +4722,16 @@
       "course": "CMS 320",
       "courseTitle": "CINEMA AND NATION",
       "section": "C",
+      "instructor": "Nestingen,Andy"
+    },
+    {
+      "campus": "S",
+      "dept": "cms",
+      "deptName": "Cinema and Media Studies",
+      "term": "SPR2026",
+      "course": "CMS 320",
+      "courseTitle": "CINEMA AND NATION",
+      "section": "B",
       "instructor": "TBA"
     },
     {
@@ -4232,7 +4752,7 @@
       "course": "CMS 397",
       "courseTitle": "CMS SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nogueira,Calac"
     },
     {
       "campus": "S",
@@ -4252,7 +4772,7 @@
       "course": "CMS 423",
       "courseTitle": "EAST EUROPEAN FILM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Crnkovic,Gordana P"
     },
     {
       "campus": "S",
@@ -4262,7 +4782,7 @@
       "course": "CMS 480",
       "courseTitle": "SENIOR CAPSTONE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Groening,Stephen F"
     },
     {
       "campus": "S",
@@ -4272,7 +4792,7 @@
       "course": "CMS 480",
       "courseTitle": "SENIOR CAPSTONE",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Mahadevan,Sudhir"
     },
     {
       "campus": "S",

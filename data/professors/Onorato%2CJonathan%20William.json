@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Onorato%2CJonathan%20William",
+  "professor": "Onorato,Jonathan William",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mse",
+      "deptName": "Materials Science and Engineering",
+      "term": "WIN2021",
+      "course": "MSE 560",
+      "courseTitle": "ELECT/PHOTONIC MTLS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "moleng",
+      "deptName": "Molecular Engineering",
+      "term": "WIN2021",
+      "course": "MOLENG 530",
+      "courseTitle": "ELECT/PHOTONIC MTLS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2021",
+      "course": "CHEM 564",
+      "courseTitle": "ELECT/PHOTONIC MTLS",
+      "section": "A"
+    }
+  ]
+}

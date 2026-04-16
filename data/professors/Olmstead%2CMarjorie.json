@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Olmstead%2CMarjorie",
+  "professor": "Olmstead,Marjorie",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "AUT2025",
+      "course": "PHYS 121",
+      "courseTitle": "MECHANICS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "AUT2024",
+      "course": "PHYS 328",
+      "courseTitle": "STATISTICAL PHYSICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "AUT2023",
+      "course": "PHYS 328",
+      "courseTitle": "STATISTICAL PHYSICS",
+      "section": "A"
+    }
+  ]
+}

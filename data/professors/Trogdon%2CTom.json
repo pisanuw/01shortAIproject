@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Trogdon%2CTom",
+  "professor": "Trogdon,Tom",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "SPR2026",
+      "course": "AMATH 500",
+      "courseTitle": "SPEC STDY APPL MATH",
+      "section": "N"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "WIN2026",
+      "course": "AMATH 500",
+      "courseTitle": "SPEC STDY APPL MATH",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "AUT2025",
+      "course": "AMATH 500",
+      "courseTitle": "SPEC STDY APPL MATH",
+      "section": "B"
+    }
+  ]
+}

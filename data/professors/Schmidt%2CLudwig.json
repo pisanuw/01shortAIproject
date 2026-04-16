@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Schmidt%2CLudwig",
+  "professor": "Schmidt,Ludwig",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "SPR2023",
+      "course": "CSE 599",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "S"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "SPR2023",
+      "course": "CSE 493",
+      "courseTitle": "ADV SPEC TOPICS CSE",
+      "section": "S"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "AUT2021",
+      "course": "CSE 599",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "M"
+    }
+  ]
+}

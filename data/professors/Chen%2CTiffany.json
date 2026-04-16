@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Chen%2CTiffany",
+  "professor": "Chen,Tiffany",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "medicine",
+      "deptName": "Medicine",
+      "term": "SPR2026",
+      "course": "MED 503",
+      "courseTitle": "CARDIAC ULTRASOUND",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "medicine",
+      "deptName": "Medicine",
+      "term": "WIN2026",
+      "course": "MED 503",
+      "courseTitle": "CARDIAC ULTRASOUND",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "medicine",
+      "deptName": "Medicine",
+      "term": "AUT2025",
+      "course": "MED 503",
+      "courseTitle": "CARDIAC ULTRASOUND",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Naesby%2CK",
+  "professor": "Naesby,K",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "WIN2021",
+      "course": "SCAND 100",
+      "courseTitle": "INTRO SCANDINAVIA",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "danish",
+      "deptName": "Danish",
+      "term": "WIN2021",
+      "course": "DANISH 202",
+      "courseTitle": "2ND YEAR DANISH",
+      "section": "A"
+    }
+  ]
+}

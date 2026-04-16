@@ -1,7 +1,5828 @@
 {
-  "generatedAt": "2026-04-15T16:27:59Z",
+  "generatedAt": "2026-04-16T02:57:14Z",
   "campus": "S",
   "dept": "cheng",
   "deptName": "Chemical Engineering",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 301",
+      "courseTitle": "LEADERSHIP SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 325",
+      "courseTitle": "ENERGY AND ENTROPY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 325",
+      "courseTitle": "ENERGY AND ENTROPY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 330",
+      "courseTitle": "TRANSPORT PROCESS I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 341",
+      "courseTitle": "ENERGY & ENVIRON",
+      "section": "A",
+      "instructor": "Stuve,E"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 436",
+      "courseTitle": "CHEM ENGR LAB I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 440",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 440",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 455",
+      "courseTitle": "SURF COLL SCI LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 465",
+      "courseTitle": "REACTOR DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 490",
+      "courseTitle": "ENG MATLS BIOMED AP",
+      "section": "A",
+      "instructor": "Bryers,J"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Carothers,James M."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "HR"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 510",
+      "courseTitle": "MATH FOUND SYST THR",
+      "section": "A",
+      "instructor": "Calderone,Daniel"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A",
+      "instructor": "Ratner,B"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 512",
+      "courseTitle": "METH OF ENGR ANALYS",
+      "section": "A",
+      "instructor": "Curtis,Chad D"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 523",
+      "courseTitle": "SMNR IN CHEM ENGR",
+      "section": "A",
+      "instructor": "DeForest,Cole Alexander"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 525",
+      "courseTitle": "CHEM ENGR THERMDYNM",
+      "section": "A",
+      "instructor": "Berg,John C"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 530",
+      "courseTitle": "MOMNT,HT,MS TR I",
+      "section": "A",
+      "instructor": "Overney,Rene M."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 540",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 540",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "D",
+      "instructor": "Beck,David A. C."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "A",
+      "instructor": "Carothers,James M."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 600",
+      "courseTitle": "INDEPENDNT STDY/RSH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 326",
+      "courseTitle": "CH E THERMODYNAMICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 340",
+      "courseTitle": "TRANSP PROCESS II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 375",
+      "courseTitle": "CH E COMPUTR SKILLS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 434",
+      "courseTitle": "PHYSIO PROC NANOMED",
+      "section": "A",
+      "instructor": "Nance,Elizabeth"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 437",
+      "courseTitle": "CHEM ENGR LAB II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 480",
+      "courseTitle": "PROC DYNM & CONTRL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 485",
+      "courseTitle": "PROCESS DESIGN I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 491",
+      "courseTitle": "CONTROLLED REL SYS",
+      "section": "A",
+      "instructor": "Pun,S"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Hillhouse,Hugh W."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "HR"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A",
+      "instructor": "DeForest,C"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 514",
+      "courseTitle": "ADV CHEME LAB",
+      "section": "A",
+      "instructor": "Jenekhe,Samson A"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 523",
+      "courseTitle": "SMNR IN CHEM ENGR",
+      "section": "A",
+      "instructor": "DeForest,C"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 534",
+      "courseTitle": "PHYSIO PROC NANOMED",
+      "section": "A",
+      "instructor": "Nance,Elizabeth"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 545",
+      "courseTitle": "DATA SCI CLEAN ENRG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 546",
+      "courseTitle": "SW ENGR MOL DATA SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 554",
+      "courseTitle": "NANOSCALE SCI I",
+      "section": "A",
+      "instructor": "Overney,R"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 556",
+      "courseTitle": "COLLOIDAL SYSTEMS",
+      "section": "A",
+      "instructor": "Pozzo,Lilo Danielle"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 560",
+      "courseTitle": "REACTNS AT SURFACES",
+      "section": "A",
+      "instructor": "Stuve,Eric M."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "A",
+      "instructor": "Beck,David A. C."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 600",
+      "courseTitle": "INDEPENDNT STDY/RSH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2021",
+      "course": "CHEM E 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 310",
+      "courseTitle": "MATERL & ENRGY BAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 355",
+      "courseTitle": "BIO FOR ENGINEERS",
+      "section": "A",
+      "instructor": "DeForest,Cole Alexander"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 375",
+      "courseTitle": "CH E COMPUTR SKILLS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 436",
+      "courseTitle": "CHEM ENGR LAB I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 445",
+      "courseTitle": "FUEL CELL ENGR",
+      "section": "A",
+      "instructor": "Adler,S"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 455",
+      "courseTitle": "SURF COLL SCI LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 457",
+      "courseTitle": "PRIN MOLECULAR ENGR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 458",
+      "courseTitle": "SURFACE ANALYSIS",
+      "section": "A",
+      "instructor": "Gamble,L"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 460",
+      "courseTitle": "POLYCHEM LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 486",
+      "courseTitle": "PROCESS DESIGN II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D",
+      "instructor": "Pozzo,L"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A",
+      "instructor": "Gamble,L"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 523",
+      "courseTitle": "SMNR IN CHEM ENGR",
+      "section": "A",
+      "instructor": "DeForest,Cole Alexander"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 545",
+      "courseTitle": "DATA SCI CLEAN ENRG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 546",
+      "courseTitle": "SW ENGR MOL DATA SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 547",
+      "courseTitle": "DATA SCI CAPSTONE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 558",
+      "courseTitle": "SURFACE ANALYSIS",
+      "section": "A",
+      "instructor": "Gamble,L"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "D",
+      "instructor": "Beck,David A. C."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "E",
+      "instructor": "Curtis,Chad D"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 600",
+      "courseTitle": "INDEPENDNT STDY/RSH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2021",
+      "course": "CHEM E 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2021",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2021",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2021",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "A",
+      "instructor": "DeForest,Cole Alexander"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2021",
+      "course": "CHEM E 600",
+      "courseTitle": "INDEPENDNT STDY/RSH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2021",
+      "course": "CHEM E 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2021",
+      "course": "CHEM E 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 301",
+      "courseTitle": "LEADERSHIP SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 325",
+      "courseTitle": "ENERGY AND ENTROPY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 330",
+      "courseTitle": "TRANSPORT PROCESS I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 341",
+      "courseTitle": "ENERGY & ENVIRON",
+      "section": "A",
+      "instructor": "Stuve,Eric M."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 435",
+      "courseTitle": "TRANSP PROCESS III",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 436",
+      "courseTitle": "CHEM ENGR LAB I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 440",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 440",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 455",
+      "courseTitle": "SURF COLL SCI LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 465",
+      "courseTitle": "REACTOR DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 484",
+      "courseTitle": "ELECTRONIC POLYMERS",
+      "section": "A",
+      "instructor": "Jenekhe,Samson A"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 490",
+      "courseTitle": "ENG MATLS BIOMED AP",
+      "section": "A",
+      "instructor": "Bryers,J"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Carothers,James M."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "HR"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 510",
+      "courseTitle": "MATH FOUND SYST THR",
+      "section": "A",
+      "instructor": "Manohar,Krithika"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A",
+      "instructor": "Ratner,B"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 512",
+      "courseTitle": "METH OF ENGR ANALYS",
+      "section": "A",
+      "instructor": "Mittal,Shachi"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 523",
+      "courseTitle": "SMNR IN CHEM ENGR",
+      "section": "A",
+      "instructor": "DeForest,C"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 530",
+      "courseTitle": "MOMNT,HT,MS TR I",
+      "section": "A",
+      "instructor": "Hillhouse,Hugh W."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 540",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 540",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 554",
+      "courseTitle": "NANOSCALE SCI I",
+      "section": "A",
+      "instructor": "Overney,Rene M."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 555",
+      "courseTitle": "INTERFACL PHENOMENA",
+      "section": "A",
+      "instructor": "Rutz,Benjamin H"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 584",
+      "courseTitle": "ELECTRONIC POLYMERS",
+      "section": "A",
+      "instructor": "Jenekhe,Samson A"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "D",
+      "instructor": "Beck,David A. C."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "A",
+      "instructor": "Carothers,James M."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 600",
+      "courseTitle": "INDEPENDNT STDY/RSH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2021",
+      "course": "CHEM E 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 326",
+      "courseTitle": "CH E THERMODYNAMICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 340",
+      "courseTitle": "TRANSP PROCESS II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 355",
+      "courseTitle": "BIO FOR ENGINEERS",
+      "section": "A",
+      "instructor": "Marchand,Jorge A"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 437",
+      "courseTitle": "CHEM ENGR LAB II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 480",
+      "courseTitle": "PROC DYNM & CONTRL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 485",
+      "courseTitle": "PROCESS DESIGN I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 491",
+      "courseTitle": "CONTROLLED REL SYS",
+      "section": "A",
+      "instructor": "Pun,S"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "D",
+      "instructor": "Rutz,Benjamin H"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "E",
+      "instructor": "Rutz,Benjamin H"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "F",
+      "instructor": "Rutz,Benjamin H"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "G",
+      "instructor": "Rutz,Benjamin H"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Hillhouse,Hugh W."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Pfaendtner,Jim"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "HR"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A",
+      "instructor": "DeForest,C"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 523",
+      "courseTitle": "SMNR IN CHEM ENGR",
+      "section": "A",
+      "instructor": "DeForest,C"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 545",
+      "courseTitle": "DATA SCI CLEAN ENRG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 546",
+      "courseTitle": "SW ENGR MOL DATA SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 556",
+      "courseTitle": "COLLOIDAL SYSTEMS",
+      "section": "A",
+      "instructor": "Berg,John C"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 565",
+      "courseTitle": "KINETIC & CATALYSIS",
+      "section": "A",
+      "instructor": "Valleau,Stephanie"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "A",
+      "instructor": "Beck,David A. C."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "B",
+      "instructor": "Hillhouse,Hugh W."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 600",
+      "courseTitle": "INDEPENDNT STDY/RSH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2022",
+      "course": "CHEM E 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 310",
+      "courseTitle": "MATERL & ENRGY BAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 375",
+      "courseTitle": "CH E COMPUTR SKILLS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 436",
+      "courseTitle": "CHEM ENGR LAB I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 445",
+      "courseTitle": "FUEL CELL ENGR",
+      "section": "A",
+      "instructor": "Adler,S"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 455",
+      "courseTitle": "SURF COLL SCI LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 457",
+      "courseTitle": "PRIN MOLECULAR ENGR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 458",
+      "courseTitle": "SURFACE ANALYSIS",
+      "section": "A",
+      "instructor": "Gamble,Lara J."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 460",
+      "courseTitle": "POLYCHEM LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 486",
+      "courseTitle": "PROCESS DESIGN II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "D",
+      "instructor": "Rutz,Benjamin H"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "E",
+      "instructor": "Rutz,Benjamin H"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "F",
+      "instructor": "Rutz,Benjamin H"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "G",
+      "instructor": "Rutz,Benjamin H"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "Mittal,Shachi"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D",
+      "instructor": "Nance,Elizabeth"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "HR"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A",
+      "instructor": "Gamble,Lara J."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 523",
+      "courseTitle": "SMNR IN CHEM ENGR",
+      "section": "A",
+      "instructor": "DeForest,Cole Alexander"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 535",
+      "courseTitle": "NANOMAT CHEM ENGR",
+      "section": "A",
+      "instructor": "Holmberg,Vincent C"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 547",
+      "courseTitle": "DATA SCI CAPSTONE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 555",
+      "courseTitle": "INTERFACL PHENOMENA",
+      "section": "A",
+      "instructor": "Berg,John C"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 558",
+      "courseTitle": "SURFACE ANALYSIS",
+      "section": "A",
+      "instructor": "Gamble,Lara J."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "D",
+      "instructor": "Beck,David A. C."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 600",
+      "courseTitle": "INDEPENDNT STDY/RSH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2022",
+      "course": "CHEM E 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2022",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2022",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2022",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "C",
+      "instructor": "DeForest,C"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2022",
+      "course": "CHEM E 600",
+      "courseTitle": "INDEPENDNT STDY/RSH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2022",
+      "course": "CHEM E 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2022",
+      "course": "CHEM E 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 301",
+      "courseTitle": "LEADERSHIP SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 325",
+      "courseTitle": "ENERGY AND ENTROPY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 330",
+      "courseTitle": "TRANSPORT PROCESS I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 435",
+      "courseTitle": "TRANSP PROCESS III",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 436",
+      "courseTitle": "CHEM ENGR LAB I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 440",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 440",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 455",
+      "courseTitle": "SURF COLL SCI LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 456",
+      "courseTitle": "QUANT MECH CHEM E",
+      "section": "A",
+      "instructor": "Holmberg,Vincent C"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 465",
+      "courseTitle": "REACTOR DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 476",
+      "courseTitle": "INTRO SYNTH BIO",
+      "section": "A",
+      "instructor": "Seelig,Georg"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 484",
+      "courseTitle": "ELECTRONIC POLYMERS",
+      "section": "A",
+      "instructor": "Jenekhe,Samson A"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 490",
+      "courseTitle": "ENG MATLS BIOMED AP",
+      "section": "A",
+      "instructor": "Bryers,J"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "HR"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 510",
+      "courseTitle": "MATH FOUND SYST THR",
+      "section": "A",
+      "instructor": "Manohar,Krithika"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A",
+      "instructor": "Ratner,B"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 512",
+      "courseTitle": "METH OF ENGR ANALYS",
+      "section": "A",
+      "instructor": "Mittal,Shachi"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 523",
+      "courseTitle": "SMNR IN CHEM ENGR",
+      "section": "A",
+      "instructor": "Hillhouse,Hugh W."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 525",
+      "courseTitle": "CHEM ENGR THERMDYNM",
+      "section": "A",
+      "instructor": "Stuve,Eric M."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 530",
+      "courseTitle": "MOMNT,HT,MS TR I",
+      "section": "A",
+      "instructor": "Hillhouse,Hugh W."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 540",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 540",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 576",
+      "courseTitle": "INTRO SYNTH BIO",
+      "section": "A",
+      "instructor": "Seelig,Georg"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 584",
+      "courseTitle": "ELECTRONIC POLYMERS",
+      "section": "A",
+      "instructor": "Jenekhe,Samson A"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "D",
+      "instructor": "Beck,David A. C."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 600",
+      "courseTitle": "INDEPENDNT STDY/RSH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2022",
+      "course": "CHEM E 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 326",
+      "courseTitle": "CH E THERMODYNAMICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 340",
+      "courseTitle": "TRANSP PROCESS II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 341",
+      "courseTitle": "ENERGY & ENVIRON",
+      "section": "A",
+      "instructor": "Stuve,Eric M."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 355",
+      "courseTitle": "BIO FOR ENGINEERS",
+      "section": "A",
+      "instructor": "Prybutok,Alex"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 434",
+      "courseTitle": "PHYSIO PROC NANOMED",
+      "section": "A",
+      "instructor": "Nance,Elizabeth"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 437",
+      "courseTitle": "CHEM ENGR LAB II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 445",
+      "courseTitle": "FUEL CELL ENGR",
+      "section": "A",
+      "instructor": "Adler,Stuart B."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 480",
+      "courseTitle": "PROC DYNM & CONTRL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 485",
+      "courseTitle": "PROCESS DESIGN I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "I",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "J",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "K",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Nance,Elizabeth"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "HR"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 523",
+      "courseTitle": "SMNR IN CHEM ENGR",
+      "section": "A",
+      "instructor": "Hillhouse,Hugh W."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 534",
+      "courseTitle": "PHYSIO PROC NANOMED",
+      "section": "A",
+      "instructor": "Nance,Elizabeth"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 545",
+      "courseTitle": "DATA SCI CLEAN ENRG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 546",
+      "courseTitle": "SW ENGR MOL DATA SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 565",
+      "courseTitle": "KINETIC & CATALYSIS",
+      "section": "A",
+      "instructor": "Rorrer,Julie Elaine"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "A",
+      "instructor": "Beck,David A. C."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "B",
+      "instructor": "Vaddi,Kiran"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 600",
+      "courseTitle": "INDEPENDNT STDY/RSH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2023",
+      "course": "CHEM E 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 310",
+      "courseTitle": "MATERL & ENRGY BAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 375",
+      "courseTitle": "CH E COMPUTR SKILLS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 436",
+      "courseTitle": "CHEM ENGR LAB I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 455",
+      "courseTitle": "SURF COLL SCI LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 457",
+      "courseTitle": "PRIN MOLECULAR ENGR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 458",
+      "courseTitle": "SURFACE ANALYSIS",
+      "section": "A",
+      "instructor": "Bergsman,David S"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 460",
+      "courseTitle": "POLYCHEM LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 467",
+      "courseTitle": "BIOCHEMICAL ENGRING",
+      "section": "A",
+      "instructor": "Prybutok,Alex"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 477",
+      "courseTitle": "ADV SYNTHETIC BIO",
+      "section": "A",
+      "instructor": "Marchand,Jorge A"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 486",
+      "courseTitle": "PROCESS DESIGN II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "I",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "J",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "K",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "Bagheri,Neda"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Hillhouse,Hugh W."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "HR"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A",
+      "instructor": "Gamble,L"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 523",
+      "courseTitle": "SMNR IN CHEM ENGR",
+      "section": "A",
+      "instructor": "Hillhouse,Hugh W."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 547",
+      "courseTitle": "DATA SCI CAPSTONE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 558",
+      "courseTitle": "SURFACE ANALYSIS",
+      "section": "A",
+      "instructor": "Bergsman,David S"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 577",
+      "courseTitle": "ADV SYNTHETIC BIO",
+      "section": "A",
+      "instructor": "Marchand,Jorge A"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "D",
+      "instructor": "Beck,David A. C."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "A",
+      "instructor": "Hillhouse,Hugh W."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 600",
+      "courseTitle": "INDEPENDNT STDY/RSH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2023",
+      "course": "CHEM E 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2023",
+      "course": "CHEM E 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2023",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2023",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2023",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "C",
+      "instructor": "DeForest,Cole A."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2023",
+      "course": "CHEM E 600",
+      "courseTitle": "INDEPENDNT STDY/RSH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2023",
+      "course": "CHEM E 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2023",
+      "course": "CHEM E 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 301",
+      "courseTitle": "LEADERSHIP SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 325",
+      "courseTitle": "ENERGY AND ENTROPY",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 330",
+      "courseTitle": "TRANSPORT PROCESS I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 435",
+      "courseTitle": "TRANSP PROCESS III",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 436",
+      "courseTitle": "CHEM ENGR LAB I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 440",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 440",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 455",
+      "courseTitle": "SURF COLL SCI LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 456",
+      "courseTitle": "QUANT MECH CHEM E",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 465",
+      "courseTitle": "REACTOR DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 476",
+      "courseTitle": "INTRO SYNTH BIO",
+      "section": "A",
+      "instructor": "Marchand,Jorge A"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 484",
+      "courseTitle": "ELECTRONIC POLYMERS",
+      "section": "A",
+      "instructor": "Jenekhe,Samson A"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 490",
+      "courseTitle": "ENG MATLS BIOMED AP",
+      "section": "A",
+      "instructor": "Bryers,James D."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "HR"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 510",
+      "courseTitle": "MATH FOUND SYST THR",
+      "section": "A",
+      "instructor": "Manohar,Krithika"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A",
+      "instructor": "Ratner,Buddy D"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 523",
+      "courseTitle": "SMNR IN CHEM ENGR",
+      "section": "A",
+      "instructor": "DeForest,Cole A."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 525",
+      "courseTitle": "CHEM ENGR THERMDYNM",
+      "section": "A",
+      "instructor": "Stuve,Eric M."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 540",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 540",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 545",
+      "courseTitle": "DATA SCI CLEAN ENRG",
+      "section": "A",
+      "instructor": "Mittal,Shachi"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 556",
+      "courseTitle": "COLLOIDAL SYSTEMS",
+      "section": "A",
+      "instructor": "Berg,John C"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 576",
+      "courseTitle": "INTRO SYNTH BIO",
+      "section": "A",
+      "instructor": "Marchand,Jorge A"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 584",
+      "courseTitle": "ELECTRONIC POLYMERS",
+      "section": "A",
+      "instructor": "Jenekhe,Samson A"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "D",
+      "instructor": "Beck,David A. C."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 600",
+      "courseTitle": "INDEPENDNT STDY/RSH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 201",
+      "courseTitle": "CLASS TO CAREER",
+      "section": "A",
+      "instructor": "Nance,Elizabeth"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 326",
+      "courseTitle": "CH E THERMODYNAMICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 340",
+      "courseTitle": "TRANSP PROCESS II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 341",
+      "courseTitle": "ENERGY & ENVIRON",
+      "section": "A",
+      "instructor": "Stuve,Eric M."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 355",
+      "courseTitle": "BIO FOR ENGINEERS",
+      "section": "A",
+      "instructor": "DeForest,Cole A."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 437",
+      "courseTitle": "CHEM ENGR LAB II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 440",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 440",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 480",
+      "courseTitle": "PROC DYNM & CONTRL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 485",
+      "courseTitle": "PROCESS DESIGN I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Adler,Stuart B."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "HR"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 523",
+      "courseTitle": "SMNR IN CHEM ENGR",
+      "section": "A",
+      "instructor": "DeForest,Cole A."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 530",
+      "courseTitle": "MOMNT,HT,MS TR I",
+      "section": "A",
+      "instructor": "Sherman,Zachary"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 540",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 540",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 546",
+      "courseTitle": "SW ENGR MOL DATA SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 565",
+      "courseTitle": "KINETIC & CATALYSIS",
+      "section": "A",
+      "instructor": "Rorrer,Julie Elaine"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "A",
+      "instructor": "Beck,David A. C."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 600",
+      "courseTitle": "INDEPENDNT STDY/RSH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2024",
+      "course": "CHEM E 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 310",
+      "courseTitle": "MATERL & ENRGY BAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 375",
+      "courseTitle": "CH E COMPUTR SKILLS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 436",
+      "courseTitle": "CHEM ENGR LAB I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 455",
+      "courseTitle": "SURF COLL SCI LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 457",
+      "courseTitle": "PRIN MOLECULAR ENGR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 458",
+      "courseTitle": "SURFACE ANALYSIS",
+      "section": "A",
+      "instructor": "Bergsman,David S"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 460",
+      "courseTitle": "POLYCHEM LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 467",
+      "courseTitle": "BIOCHEMICAL ENGRING",
+      "section": "A",
+      "instructor": "Prybutok,Alex"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 477",
+      "courseTitle": "ADV SYNTHETIC BIO",
+      "section": "A",
+      "instructor": "Marchand,Jorge A"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 486",
+      "courseTitle": "PROCESS DESIGN II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 491",
+      "courseTitle": "CONTROLLED REL SYS",
+      "section": "A",
+      "instructor": "Pun,Suzie H"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Mittal,Shachi"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "Sherman,Zachary"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Stuve,Eric M."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "HR"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A",
+      "instructor": "DeForest,Cole A."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 523",
+      "courseTitle": "SMNR IN CHEM ENGR",
+      "section": "A",
+      "instructor": "DeForest,Cole A."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 535",
+      "courseTitle": "NANOMAT CHEM ENGR",
+      "section": "A",
+      "instructor": "Holmberg,Vincent C"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 547",
+      "courseTitle": "DATA SCI CAPSTONE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 555",
+      "courseTitle": "INTERFACL PHENOMENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 558",
+      "courseTitle": "SURFACE ANALYSIS",
+      "section": "A",
+      "instructor": "Bergsman,David S"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 577",
+      "courseTitle": "ADV SYNTHETIC BIO",
+      "section": "A",
+      "instructor": "Marchand,Jorge A"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "D",
+      "instructor": "Beck,David A. C."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "C",
+      "instructor": "Overney,Rene M."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "A",
+      "instructor": "Sherman,Zachary"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "B",
+      "instructor": "Stuve,Eric M."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 600",
+      "courseTitle": "INDEPENDNT STDY/RSH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2024",
+      "course": "CHEM E 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2024",
+      "course": "CHEM E 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2024",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2024",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2024",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "C",
+      "instructor": "DeForest,Cole A."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2024",
+      "course": "CHEM E 600",
+      "courseTitle": "INDEPENDNT STDY/RSH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2024",
+      "course": "CHEM E 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2024",
+      "course": "CHEM E 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 301",
+      "courseTitle": "LEADERSHIP SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 325",
+      "courseTitle": "ENERGY AND ENTROPY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 330",
+      "courseTitle": "TRANSPORT PROCESS I",
+      "section": "B",
+      "instructor": "Adler,Stuart B."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 330",
+      "courseTitle": "TRANSPORT PROCESS I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 435",
+      "courseTitle": "TRANSP PROCESS III",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 436",
+      "courseTitle": "CHEM ENGR LAB I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 440",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 440",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 455",
+      "courseTitle": "SURF COLL SCI LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 456",
+      "courseTitle": "QUANT MECH CHEM E",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 465",
+      "courseTitle": "REACTOR DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 476",
+      "courseTitle": "INTRO SYNTH BIO",
+      "section": "A",
+      "instructor": "Seelig,Georg"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 490",
+      "courseTitle": "ENG MATLS BIOMED AP",
+      "section": "A",
+      "instructor": "Bryers,James D."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "HR"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 510",
+      "courseTitle": "MATH FOUND SYST THR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A",
+      "instructor": "Ratner,Buddy D"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 512",
+      "courseTitle": "METH OF ENGR ANALYS",
+      "section": "A",
+      "instructor": "Overney,Rene M."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 523",
+      "courseTitle": "SMNR IN CHEM ENGR",
+      "section": "A",
+      "instructor": "DeForest,Cole A."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 525",
+      "courseTitle": "CHEM ENGR THERMDYNM",
+      "section": "A",
+      "instructor": "Berg,John C"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 530",
+      "courseTitle": "MOMNT,HT,MS TR I",
+      "section": "A",
+      "instructor": "Sherman,Zachary"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 540",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 540",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 576",
+      "courseTitle": "INTRO SYNTH BIO",
+      "section": "A",
+      "instructor": "Seelig,Georg"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 600",
+      "courseTitle": "INDEPENDNT STDY/RSH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 326",
+      "courseTitle": "CH E THERMODYNAMICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 326",
+      "courseTitle": "CH E THERMODYNAMICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 340",
+      "courseTitle": "TRANSP PROCESS II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 341",
+      "courseTitle": "ENERGY & ENVIRON",
+      "section": "A",
+      "instructor": "Stuve,Eric M."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 355",
+      "courseTitle": "BIO FOR ENGINEERS",
+      "section": "A",
+      "instructor": "DeForest,Cole A."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 437",
+      "courseTitle": "CHEM ENGR LAB II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 440",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 440",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 480",
+      "courseTitle": "PROC DYNM & CONTRL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 485",
+      "courseTitle": "PROCESS DESIGN I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Adler,Stuart B."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Mittal,Shachi"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "HR"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 523",
+      "courseTitle": "SMNR IN CHEM ENGR",
+      "section": "A",
+      "instructor": "DeForest,Cole A."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 540",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 540",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 545",
+      "courseTitle": "DATA SCI MOL SCI ENG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 546",
+      "courseTitle": "SW ENGR MOL SCI ENGR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 565",
+      "courseTitle": "KINETIC & CATALYSIS",
+      "section": "A",
+      "instructor": "Rorrer,Julie Elaine"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "B",
+      "instructor": "Adler,Stuart B."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 600",
+      "courseTitle": "INDEPENDNT STDY/RSH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2025",
+      "course": "CHEM E 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 310",
+      "courseTitle": "MATERL & ENRGY BAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 375",
+      "courseTitle": "CH E COMPUTR SKILLS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 436",
+      "courseTitle": "CHEM ENGR LAB I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 455",
+      "courseTitle": "SURF COLL SCI LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 457",
+      "courseTitle": "PRIN MOLECULAR ENGR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 458",
+      "courseTitle": "SURFACE ANALYSIS",
+      "section": "A",
+      "instructor": "Bergsman,David S"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 460",
+      "courseTitle": "POLYCHEM LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 467",
+      "courseTitle": "BIOCHEMICAL ENGRING",
+      "section": "A",
+      "instructor": "Prybutok,Alex"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 477",
+      "courseTitle": "ADV SYNTHETIC BIO",
+      "section": "A",
+      "instructor": "Marchand,Jorge A"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 486",
+      "courseTitle": "PROCESS DESIGN II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 491",
+      "courseTitle": "CONTROLLED REL SYS",
+      "section": "A",
+      "instructor": "Pun,Suzie H"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "Sherman,Zachary"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Stuve,Eric M."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "HR"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A",
+      "instructor": "Gamble,Lara"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 523",
+      "courseTitle": "SMNR IN CHEM ENGR",
+      "section": "A",
+      "instructor": "DeForest,Cole A."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 535",
+      "courseTitle": "NANOMAT CHEM ENGR",
+      "section": "A",
+      "instructor": "Holmberg,Vincent C"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 547",
+      "courseTitle": "DATA SCI CAPSTONE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 555",
+      "courseTitle": "INTERFACL PHENOMENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 558",
+      "courseTitle": "SURFACE ANALYSIS",
+      "section": "A",
+      "instructor": "Bergsman,David S"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 577",
+      "courseTitle": "ADV SYNTHETIC BIO",
+      "section": "A",
+      "instructor": "Marchand,Jorge A"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "A",
+      "instructor": "Sherman,Zachary"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "B",
+      "instructor": "Stuve,Eric M."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 600",
+      "courseTitle": "INDEPENDNT STDY/RSH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2025",
+      "course": "CHEM E 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2025",
+      "course": "CHEM E 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2025",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2025",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2025",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "A",
+      "instructor": "Sherman,Zachary"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2025",
+      "course": "CHEM E 600",
+      "courseTitle": "INDEPENDNT STDY/RSH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2025",
+      "course": "CHEM E 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2025",
+      "course": "CHEM E 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 301",
+      "courseTitle": "LEADERSHIP SEMINAR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 325",
+      "courseTitle": "ENERGY AND ENTROPY",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 330",
+      "courseTitle": "TRANSPORT PROCESS I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 435",
+      "courseTitle": "TRANSP PROCESS III",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 436",
+      "courseTitle": "CHEM ENGR LAB I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 440",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 440",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 455",
+      "courseTitle": "SURF COLL SCI LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 456",
+      "courseTitle": "QUANT MECH CHEM E",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 465",
+      "courseTitle": "REACTOR DESIGN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 476",
+      "courseTitle": "INTRO SYNTH BIO",
+      "section": "A",
+      "instructor": "Nivala,Jeffrey"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 484",
+      "courseTitle": "ELECTRONIC POLYMERS",
+      "section": "A",
+      "instructor": "Jenekhe,Samson A"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 490",
+      "courseTitle": "ENG MATLS BIOMED AP",
+      "section": "A",
+      "instructor": "Bryers,James D."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Rorrer,Julie Elaine"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "HR"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 510",
+      "courseTitle": "MATH FOUND SYST THR",
+      "section": "A",
+      "instructor": "Manohar,Krithika"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A",
+      "instructor": "Ratner,Buddy"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 523",
+      "courseTitle": "SMNR IN CHEM ENGR",
+      "section": "A",
+      "instructor": "DeForest,Cole A."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 525",
+      "courseTitle": "CHEM ENGR THERMDYNM",
+      "section": "A",
+      "instructor": "Berg,John C"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 530",
+      "courseTitle": "MOMNT,HT,MS TR I",
+      "section": "A",
+      "instructor": "Sherman,Zachary"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 540",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 540",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 555",
+      "courseTitle": "INTERFACL PHENOMENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 576",
+      "courseTitle": "INTRO SYNTH BIO",
+      "section": "A",
+      "instructor": "Nivala,Jeffrey"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 584",
+      "courseTitle": "ELECTRONIC POLYMERS",
+      "section": "A",
+      "instructor": "Jenekhe,Samson A"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 600",
+      "courseTitle": "INDEPENDNT STDY/RSH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2025",
+      "course": "CHEM E 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 201",
+      "courseTitle": "CLASS TO CAREER",
+      "section": "A",
+      "instructor": "Naser,Nada Y"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 326",
+      "courseTitle": "CH E THERMODYNAMICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 340",
+      "courseTitle": "TRANSP PROCESS II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 341",
+      "courseTitle": "ENERGY & ENVIRON",
+      "section": "A",
+      "instructor": "Stuve,Eric M."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 355",
+      "courseTitle": "BIO FOR ENGINEERS",
+      "section": "A",
+      "instructor": "DeForest,Cole A."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 434",
+      "courseTitle": "PHYSIO PROC NANOMED",
+      "section": "A",
+      "instructor": "Nance,Elizabeth"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 437",
+      "courseTitle": "CHEM ENGR LAB II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 440",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 440",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 485",
+      "courseTitle": "PROCESS DESIGN I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "Adler,Stuart B."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Mittal,Shachi"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "HR"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 523",
+      "courseTitle": "SMNR IN CHEM ENGR",
+      "section": "A",
+      "instructor": "DeForest,Cole A."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 534",
+      "courseTitle": "PHYSIO PROC NANOMED",
+      "section": "A",
+      "instructor": "Nance,Elizabeth"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 540",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 540",
+      "courseTitle": "ENERGY MAT DEV & SYS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 545",
+      "courseTitle": "DATA SCI MOL SCI ENG",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 546",
+      "courseTitle": "SW ENGR MOL SCI ENGR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 556",
+      "courseTitle": "COLLOIDAL SYSTEMS",
+      "section": "A",
+      "instructor": "Pozzo,Lilo Danielle"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 565",
+      "courseTitle": "KINETIC & CATALYSIS",
+      "section": "A",
+      "instructor": "Rorrer,Julie Elaine"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "A",
+      "instructor": "Adler,Stuart B."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 600",
+      "courseTitle": "INDEPENDNT STDY/RSH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "WIN2026",
+      "course": "CHEM E 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 299",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 310",
+      "courseTitle": "MATERL & ENRGY BAL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 375",
+      "courseTitle": "CH E COMPUTR SKILLS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 436",
+      "courseTitle": "CHEM ENGR LAB I",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 455",
+      "courseTitle": "SURF COLL SCI LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 457",
+      "courseTitle": "PRIN MOLECULAR ENGR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 458",
+      "courseTitle": "SURFACE ANALYSIS",
+      "section": "A",
+      "instructor": "Bergsman,David S"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 460",
+      "courseTitle": "POLYCHEM LAB",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 467",
+      "courseTitle": "BIOCHEMICAL ENGRING",
+      "section": "A",
+      "instructor": "Prybutok,Alex"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 477",
+      "courseTitle": "ADV SYNTHETIC BIO",
+      "section": "A",
+      "instructor": "Marchand,Jorge A"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 480",
+      "courseTitle": "PROC DYNM & CONTRL",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 486",
+      "courseTitle": "PROCESS DESIGN II",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 491",
+      "courseTitle": "THERP DRUG DLVRY SYS",
+      "section": "A",
+      "instructor": "Pun,Suzie H"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 497",
+      "courseTitle": "DESIGN SPEC PROJ",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C",
+      "instructor": "Sherman,Zachary"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Stuve,Eric M."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "B",
+      "instructor": "HR"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A",
+      "instructor": "Gamble,Lara"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 523",
+      "courseTitle": "SMNR IN CHEM ENGR",
+      "section": "A",
+      "instructor": "DeForest,Cole A."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 547",
+      "courseTitle": "DATA SCI CAPSTONE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 555",
+      "courseTitle": "INTERFACL PHENOMENA",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 558",
+      "courseTitle": "SURFACE ANALYSIS",
+      "section": "A",
+      "instructor": "Bergsman,David S"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 577",
+      "courseTitle": "ADV SYNTHETIC BIO",
+      "section": "A",
+      "instructor": "Marchand,Jorge A"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "A",
+      "instructor": "Sherman,Zachary"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "B",
+      "instructor": "Stuve,Eric M."
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 600",
+      "courseTitle": "INDEPENDNT STDY/RSH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2026",
+      "course": "CHEM E 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
 }

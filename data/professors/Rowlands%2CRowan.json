@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Rowlands%2CRowan",
+  "professor": "Rowlands,Rowan",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2023",
+      "course": "MATH 207",
+      "courseTitle": "INTRO TO DIFF EQ",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "AUT2021",
+      "course": "MATH 207",
+      "courseTitle": "INTRO TO DIFF EQ",
+      "section": "J"
+    }
+  ]
+}

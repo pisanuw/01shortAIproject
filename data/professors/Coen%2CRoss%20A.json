@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Coen%2CRoss%20A",
+  "professor": "Coen,Ross A",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engl",
+      "deptName": "English",
+      "term": "WIN2021",
+      "course": "ENGL 198",
+      "courseTitle": "WRITING/SOC SCI",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "engl",
+      "deptName": "English",
+      "term": "AUT2020",
+      "course": "ENGL 298",
+      "courseTitle": "INTERMED WRIT SOC S",
+      "section": "C"
+    }
+  ]
+}

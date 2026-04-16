@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "McMains%2CJuliet",
+  "professor": "McMains,Juliet",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dance",
+      "deptName": "Dance",
+      "term": "WIN2025",
+      "course": "DANCE 370",
+      "courseTitle": "DANCE PERFORMANCE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dance",
+      "deptName": "Dance",
+      "term": "SUM2021",
+      "course": "DANCE 516",
+      "courseTitle": "RESEARCH METHODS II",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dance",
+      "deptName": "Dance",
+      "term": "SPR2021",
+      "course": "DANCE 515",
+      "courseTitle": "RESEARCH METHODS",
+      "section": "A"
+    }
+  ]
+}

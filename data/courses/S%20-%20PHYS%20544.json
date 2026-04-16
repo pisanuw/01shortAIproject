@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20PHYS%20544",
+  "course": "S - PHYS 544",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "SPR2025",
+      "course": "PHYS 544",
+      "courseTitle": "APP ELECTMAG THY",
+      "section": "A",
+      "instructor": "Cobden,David"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "SPR2023",
+      "course": "PHYS 544",
+      "courseTitle": "APP ELECTMAG THY",
+      "section": "B",
+      "instructor": "BJ"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "SPR2021",
+      "course": "PHYS 544",
+      "courseTitle": "APP ELECTMAG THY",
+      "section": "B",
+      "instructor": "Gupta,Subhadeep"
+    }
+  ]
+}

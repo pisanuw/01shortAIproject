@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Potterton%2CKristin",
+  "professor": "Potterton,Kristin",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2025",
+      "course": "ARCH 322",
+      "courseTitle": "INTRO STRUCTRS III",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "AUT2024",
+      "course": "ARCH 320",
+      "courseTitle": "INTRO STRUCTURES I",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2024",
+      "course": "ARCH 322",
+      "courseTitle": "INTRO STRUCTRS III",
+      "section": "B"
+    }
+  ]
+}

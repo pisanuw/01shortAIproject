@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Bird%2CE",
+  "professor": "Bird,E",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "teached",
+      "deptName": "Education",
+      "term": "WIN2022",
+      "course": "EDTEP 533",
+      "courseTitle": "TCH & LRN LITRCY III",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "teached",
+      "deptName": "Education",
+      "term": "AUT2021",
+      "course": "EDTEP 532",
+      "courseTitle": "TCH & LRN LITRCY II",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "teached",
+      "deptName": "Education",
+      "term": "WIN2021",
+      "course": "EDTEP 533",
+      "courseTitle": "TCH & LRN LITRCY III",
+      "section": "A"
+    }
+  ]
+}

@@ -1,7 +1,48 @@
 {
-  "generatedAt": "2026-04-15T16:27:57Z",
+  "generatedAt": "2026-04-16T02:57:13Z",
   "campus": "S",
   "dept": "romanian",
   "deptName": "Romanian",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "romanian",
+      "deptName": "Romanian",
+      "term": "AUT2020",
+      "course": "ROMN 420",
+      "courseTitle": "ROMANIA TRANSFORMED",
+      "section": "A",
+      "instructor": "Baraboi,O"
+    },
+    {
+      "campus": "S",
+      "dept": "romanian",
+      "deptName": "Romanian",
+      "term": "AUT2021",
+      "course": "ROMN 420",
+      "courseTitle": "ROMANIA TRANSFORMED",
+      "section": "A",
+      "instructor": "Baraboi,Otilia G."
+    },
+    {
+      "campus": "S",
+      "dept": "romanian",
+      "deptName": "Romanian",
+      "term": "AUT2022",
+      "course": "ROMN 420",
+      "courseTitle": "ROMANIA TRANSFORMED",
+      "section": "A",
+      "instructor": "Marin,Ileana"
+    },
+    {
+      "campus": "S",
+      "dept": "romanian",
+      "deptName": "Romanian",
+      "term": "AUT2023",
+      "course": "ROMN 420",
+      "courseTitle": "ROMANIA TRANSFORMED",
+      "section": "A",
+      "instructor": "Marin,Ileana"
+    }
+  ]
 }

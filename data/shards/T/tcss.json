@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T15:51:12Z",
+  "generatedAt": "2026-04-16T02:57:09Z",
   "campus": "T",
   "dept": "tcss",
   "deptName": "Computer Science and Systems",
@@ -91,6 +91,16 @@
       "term": "AUT2020",
       "course": "TCSS 305",
       "courseTitle": "PROGRAMMING PRACT",
+      "section": "B",
+      "instructor": "Aravazhi Irissappane,Athir"
+    },
+    {
+      "campus": "T",
+      "dept": "tcss",
+      "deptName": "Computer Science and Systems",
+      "term": "AUT2020",
+      "course": "TCSS 305",
+      "courseTitle": "PROGRAMMING PRACT",
       "section": "C",
       "instructor": "Capaul,Tom"
     },
@@ -103,16 +113,6 @@
       "courseTitle": "PROGRAMMING PRACT",
       "section": "A",
       "instructor": "Dincer,Kivanc A"
-    },
-    {
-      "campus": "T",
-      "dept": "tcss",
-      "deptName": "Computer Science and Systems",
-      "term": "AUT2020",
-      "course": "TCSS 305",
-      "courseTitle": "PROGRAMMING PRACT",
-      "section": "B",
-      "instructor": "TBA"
     },
     {
       "campus": "T",
@@ -492,7 +492,7 @@
       "course": "TCSS 555",
       "courseTitle": "MACHINE LEARNING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Aravazhi Irissappane,Athir"
     },
     {
       "campus": "T",
@@ -681,6 +681,16 @@
       "term": "WIN2021",
       "course": "TCSS 305",
       "courseTitle": "PROGRAMMING PRACT",
+      "section": "C",
+      "instructor": "Aravazhi Irissappane,Athir"
+    },
+    {
+      "campus": "T",
+      "dept": "tcss",
+      "deptName": "Computer Science and Systems",
+      "term": "WIN2021",
+      "course": "TCSS 305",
+      "courseTitle": "PROGRAMMING PRACT",
       "section": "B",
       "instructor": "Bryan,Charles F"
     },
@@ -693,16 +703,6 @@
       "courseTitle": "PROGRAMMING PRACT",
       "section": "A",
       "instructor": "Dincer,Kivanc A"
-    },
-    {
-      "campus": "T",
-      "dept": "tcss",
-      "deptName": "Computer Science and Systems",
-      "term": "WIN2021",
-      "course": "TCSS 305",
-      "courseTitle": "PROGRAMMING PRACT",
-      "section": "C",
-      "instructor": "TBA"
     },
     {
       "campus": "T",
@@ -1122,7 +1122,7 @@
       "course": "TCSS 556",
       "courseTitle": "ADV MACH LEARNING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Aravazhi Irissappane,Athir"
     },
     {
       "campus": "T",
@@ -1172,7 +1172,7 @@
       "course": "TCSS 598",
       "courseTitle": "MASTERS SEMINAR CSS",
       "section": "A",
-      "instructor": "Ali,Mohamed"
+      "instructor": "WPH MILGARD Ali,Mohamed"
     },
     {
       "campus": "T",
@@ -1182,7 +1182,7 @@
       "course": "TCSS 598",
       "courseTitle": "MASTERS SEMINAR CSS",
       "section": "B",
-      "instructor": "Ali,Mohamed"
+      "instructor": "WPH MILGARD Ali,Mohamed"
     },
     {
       "campus": "T",
@@ -1552,7 +1552,7 @@
       "course": "TCSS 455",
       "courseTitle": "INTRO MACH LEARNING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Aravazhi Irissappane,Athir"
     },
     {
       "campus": "T",
@@ -1662,7 +1662,7 @@
       "course": "TCSS 555",
       "courseTitle": "MACHINE LEARNING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Aravazhi Irissappane,Athir"
     },
     {
       "campus": "T",
@@ -4331,6 +4331,16 @@
       "term": "AUT2022",
       "course": "TCSS 390",
       "courseTitle": "SEMINAR IN CSS",
+      "section": "G",
+      "instructor": "A Bryan,Charles F"
+    },
+    {
+      "campus": "T",
+      "dept": "tcss",
+      "deptName": "Computer Science and Systems",
+      "term": "AUT2022",
+      "course": "TCSS 390",
+      "courseTitle": "SEMINAR IN CSS",
       "section": "B",
       "instructor": "Bryan,Charles F"
     },
@@ -4352,16 +4362,6 @@
       "course": "TCSS 390",
       "courseTitle": "SEMINAR IN CSS",
       "section": "F",
-      "instructor": "Bryan,Charles F"
-    },
-    {
-      "campus": "T",
-      "dept": "tcss",
-      "deptName": "Computer Science and Systems",
-      "term": "AUT2022",
-      "course": "TCSS 390",
-      "courseTitle": "SEMINAR IN CSS",
-      "section": "G",
       "instructor": "Bryan,Charles F"
     },
     {
@@ -9981,8 +9981,8 @@
       "term": "AUT2025",
       "course": "TCSS 101",
       "courseTitle": "CS PRINCIPLES",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Fowler,Alan"
     },
     {
       "campus": "T",
@@ -9991,8 +9991,8 @@
       "term": "AUT2025",
       "course": "TCSS 101",
       "courseTitle": "CS PRINCIPLES",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Tenenberg,Josh"
     },
     {
       "campus": "T",
@@ -10002,7 +10002,7 @@
       "course": "TCSS 141",
       "courseTitle": "PROGR FOR ALL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Horakova,Ingrid"
     },
     {
       "campus": "T",
@@ -10012,7 +10012,7 @@
       "course": "TCSS 141",
       "courseTitle": "PROGR FOR ALL",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Orriss,David Anthony"
     },
     {
       "campus": "T",
@@ -10022,7 +10022,7 @@
       "course": "TCSS 142",
       "courseTitle": "PROGRAMMING PRINC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Liu,Xutong"
     },
     {
       "campus": "T",
@@ -10032,7 +10032,7 @@
       "course": "TCSS 142",
       "courseTitle": "PROGRAMMING PRINC",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Schuessler,David L"
     },
     {
       "campus": "T",
@@ -10042,7 +10042,7 @@
       "course": "TCSS 143",
       "courseTitle": "FUND OBJ-ORIENT PRG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cai,Wei"
     },
     {
       "campus": "T",
@@ -10052,7 +10052,7 @@
       "course": "TCSS 143",
       "courseTitle": "FUND OBJ-ORIENT PRG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Schuessler,David L"
     },
     {
       "campus": "T",
@@ -10062,7 +10062,7 @@
       "course": "TCSS 305",
       "courseTitle": "PROGRAMMING PRACT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bryan,Charles F"
     },
     {
       "campus": "T",
@@ -10072,27 +10072,7 @@
       "course": "TCSS 305",
       "courseTitle": "PROGRAMMING PRACT",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tcss",
-      "deptName": "Computer Science and Systems",
-      "term": "AUT2025",
-      "course": "TCSS 321",
-      "courseTitle": "DISCRETE STRUCT I",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tcss",
-      "deptName": "Computer Science and Systems",
-      "term": "AUT2025",
-      "course": "TCSS 321",
-      "courseTitle": "DISCRETE STRUCT I",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Capaul,Tom"
     },
     {
       "campus": "T",
@@ -10102,7 +10082,27 @@
       "course": "TCSS 321",
       "courseTitle": "DISCRETE STRUCT I",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Chinn,Donald D"
+    },
+    {
+      "campus": "T",
+      "dept": "tcss",
+      "deptName": "Computer Science and Systems",
+      "term": "AUT2025",
+      "course": "TCSS 321",
+      "courseTitle": "DISCRETE STRUCT I",
+      "section": "A",
+      "instructor": "Horakova,Ingrid"
+    },
+    {
+      "campus": "T",
+      "dept": "tcss",
+      "deptName": "Computer Science and Systems",
+      "term": "AUT2025",
+      "course": "TCSS 321",
+      "courseTitle": "DISCRETE STRUCT I",
+      "section": "B",
+      "instructor": "Marriott,Chris"
     },
     {
       "campus": "T",
@@ -10142,7 +10142,7 @@
       "course": "TCSS 342",
       "courseTitle": "DATA STRUCTURES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chinn,Donald D"
     },
     {
       "campus": "T",
@@ -10152,7 +10152,7 @@
       "course": "TCSS 343",
       "courseTitle": "DES & ANALYS OF ALG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "De Cock,Martine I"
     },
     {
       "campus": "T",
@@ -10162,7 +10162,7 @@
       "course": "TCSS 360",
       "courseTitle": "SOFTWARE DEV & QA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Torre,Damiano"
     },
     {
       "campus": "T",
@@ -10172,7 +10172,7 @@
       "course": "TCSS 371",
       "courseTitle": "MACHINE ORGANIZATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Abraham,Menaka"
     },
     {
       "campus": "T",
@@ -10182,7 +10182,7 @@
       "course": "TCSS 372",
       "courseTitle": "COMP ARCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Abraham,Menaka"
     },
     {
       "campus": "T",
@@ -10192,7 +10192,7 @@
       "course": "TCSS 380",
       "courseTitle": "PROG LANG CONCEPTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sobolewska,Monika"
     },
     {
       "campus": "T",
@@ -10202,17 +10202,7 @@
       "course": "TCSS 390",
       "courseTitle": "SEMINAR IN CSS",
       "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tcss",
-      "deptName": "Computer Science and Systems",
-      "term": "AUT2025",
-      "course": "TCSS 390",
-      "courseTitle": "SEMINAR IN CSS",
-      "section": "D",
-      "instructor": "TBA"
+      "instructor": "Bryan,Charles F"
     },
     {
       "campus": "T",
@@ -10222,7 +10212,17 @@
       "course": "TCSS 390",
       "courseTitle": "SEMINAR IN CSS",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Bryan,Charles F"
+    },
+    {
+      "campus": "T",
+      "dept": "tcss",
+      "deptName": "Computer Science and Systems",
+      "term": "AUT2025",
+      "course": "TCSS 390",
+      "courseTitle": "SEMINAR IN CSS",
+      "section": "D",
+      "instructor": "Chinn,Donald D"
     },
     {
       "campus": "T",
@@ -10232,7 +10232,7 @@
       "course": "TCSS 421",
       "courseTitle": "COMPILER CONSTRCTN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Barreto,Paulo"
     },
     {
       "campus": "T",
@@ -10242,7 +10242,7 @@
       "course": "TCSS 422",
       "courseTitle": "COMP OP SYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hu,Juhua"
     },
     {
       "campus": "T",
@@ -10252,7 +10252,7 @@
       "course": "TCSS 435",
       "courseTitle": "AI & KNOWLEDGE ACQ",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sakpal,Raghavi"
     },
     {
       "campus": "T",
@@ -10262,7 +10262,7 @@
       "course": "TCSS 445",
       "courseTitle": "DATABASE SYS DES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Al-Masri,Eyhab"
     },
     {
       "campus": "T",
@@ -10272,7 +10272,7 @@
       "course": "TCSS 455",
       "courseTitle": "INTRO MACH LEARNING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cheng,Zhi-Qi"
     },
     {
       "campus": "T",
@@ -10282,7 +10282,7 @@
       "course": "TCSS 460",
       "courseTitle": "CLIENT/SERVER PROG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bryan,Charles F"
     },
     {
       "campus": "T",
@@ -10292,7 +10292,7 @@
       "course": "TCSS 462",
       "courseTitle": "CLOUD COMPUTING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lloyd,Wes J."
     },
     {
       "campus": "T",
@@ -10302,7 +10302,7 @@
       "course": "TCSS 487",
       "courseTitle": "INTRO TO CRYPTO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Barreto,Paulo"
     },
     {
       "campus": "T",
@@ -10372,7 +10372,7 @@
       "course": "TCSS 543",
       "courseTitle": "ADV ALGORITHMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Yeung,Ka Yee"
     },
     {
       "campus": "T",
@@ -10382,7 +10382,7 @@
       "course": "TCSS 551",
       "courseTitle": "BIG DATA ANALYTICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hu,Juhua"
     },
     {
       "campus": "T",
@@ -10392,7 +10392,7 @@
       "course": "TCSS 555",
       "courseTitle": "MACHINE LEARNING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "De Cock,Martine I"
     },
     {
       "campus": "T",
@@ -10402,7 +10402,7 @@
       "course": "TCSS 558",
       "courseTitle": "APP DIST COMP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cheng,Wei"
     },
     {
       "campus": "T",
@@ -10412,7 +10412,7 @@
       "course": "TCSS 559",
       "courseTitle": "SERVICES COMPUTING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Al-Masri,Eyhab"
     },
     {
       "campus": "T",
@@ -10422,7 +10422,7 @@
       "course": "TCSS 562",
       "courseTitle": "SOFT ENG CLOUD COMP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lloyd,Wes J."
     },
     {
       "campus": "T",
@@ -10432,7 +10432,7 @@
       "course": "TCSS 565",
       "courseTitle": "SPATIAL DATA GIS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ali,Mohamed"
     },
     {
       "campus": "T",
@@ -10442,7 +10442,7 @@
       "course": "TCSS 590",
       "courseTitle": "SPL TOPICS IN CSS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zhao,Dongfang"
     },
     {
       "campus": "T",
@@ -10452,7 +10452,7 @@
       "course": "TCSS 598",
       "courseTitle": "MASTERS SEMINAR CSS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Teredesai,Ankur"
     },
     {
       "campus": "T",
@@ -10511,8 +10511,8 @@
       "term": "WIN2026",
       "course": "TCSS 101",
       "courseTitle": "CS PRINCIPLES",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Fowler,Alan"
     },
     {
       "campus": "T",
@@ -10521,8 +10521,8 @@
       "term": "WIN2026",
       "course": "TCSS 101",
       "courseTitle": "CS PRINCIPLES",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Tenenberg,Josh"
     },
     {
       "campus": "T",
@@ -10532,7 +10532,7 @@
       "course": "TCSS 141",
       "courseTitle": "PROGR FOR ALL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Horakova,Ingrid"
     },
     {
       "campus": "T",
@@ -10542,7 +10542,7 @@
       "course": "TCSS 141",
       "courseTitle": "PROGR FOR ALL",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Orriss,David Anthony"
     },
     {
       "campus": "T",
@@ -10552,7 +10552,7 @@
       "course": "TCSS 142",
       "courseTitle": "PROGRAMMING PRINC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fowler,Alan"
     },
     {
       "campus": "T",
@@ -10562,7 +10562,7 @@
       "course": "TCSS 142",
       "courseTitle": "PROGRAMMING PRINC",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Liu,Xutong"
     },
     {
       "campus": "T",
@@ -10572,7 +10572,7 @@
       "course": "TCSS 143",
       "courseTitle": "FUND OBJ-ORIENT PRG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fowler,Alan"
     },
     {
       "campus": "T",
@@ -10582,7 +10582,7 @@
       "course": "TCSS 143",
       "courseTitle": "FUND OBJ-ORIENT PRG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Schuessler,David L"
     },
     {
       "campus": "T",
@@ -10592,7 +10592,7 @@
       "course": "TCSS 305",
       "courseTitle": "PROGRAMMING PRACT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bryan,Charles F"
     },
     {
       "campus": "T",
@@ -10602,7 +10602,7 @@
       "course": "TCSS 321",
       "courseTitle": "DISCRETE STRUCT I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Horakova,Ingrid"
     },
     {
       "campus": "T",
@@ -10641,8 +10641,8 @@
       "term": "WIN2026",
       "course": "TCSS 342",
       "courseTitle": "DATA STRUCTURES",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "C",
+      "instructor": "Barreto,Paulo"
     },
     {
       "campus": "T",
@@ -10651,8 +10651,8 @@
       "term": "WIN2026",
       "course": "TCSS 342",
       "courseTitle": "DATA STRUCTURES",
-      "section": "C",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Chinn,Donald D"
     },
     {
       "campus": "T",
@@ -10662,7 +10662,7 @@
       "course": "TCSS 342",
       "courseTitle": "DATA STRUCTURES",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Sakpal,Raghavi"
     },
     {
       "campus": "T",
@@ -10672,7 +10672,7 @@
       "course": "TCSS 343",
       "courseTitle": "DES & ANALYS OF ALG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chinn,Donald D"
     },
     {
       "campus": "T",
@@ -10682,7 +10682,7 @@
       "course": "TCSS 360",
       "courseTitle": "SOFTWARE DEV & QA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Capaul,Tom"
     },
     {
       "campus": "T",
@@ -10692,7 +10692,7 @@
       "course": "TCSS 371",
       "courseTitle": "MACHINE ORGANIZATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Abraham,Menaka"
     },
     {
       "campus": "T",
@@ -10702,7 +10702,7 @@
       "course": "TCSS 371",
       "courseTitle": "MACHINE ORGANIZATION",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Schuessler,David L"
     },
     {
       "campus": "T",
@@ -10712,7 +10712,7 @@
       "course": "TCSS 372",
       "courseTitle": "COMP ARCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cheng,Wei"
     },
     {
       "campus": "T",
@@ -10722,7 +10722,7 @@
       "course": "TCSS 380",
       "courseTitle": "PROG LANG CONCEPTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bryan,Charles F"
     },
     {
       "campus": "T",
@@ -10732,7 +10732,7 @@
       "course": "TCSS 390",
       "courseTitle": "SEMINAR IN CSS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Bryan,Charles F"
     },
     {
       "campus": "T",
@@ -10742,7 +10742,7 @@
       "course": "TCSS 390",
       "courseTitle": "SEMINAR IN CSS",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Bryan,Charles F"
     },
     {
       "campus": "T",
@@ -10752,7 +10752,7 @@
       "course": "TCSS 390",
       "courseTitle": "SEMINAR IN CSS",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Chinn,Donald D"
     },
     {
       "campus": "T",
@@ -10762,7 +10762,7 @@
       "course": "TCSS 422",
       "courseTitle": "COMP OP SYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lloyd,Wes J."
     },
     {
       "campus": "T",
@@ -10772,7 +10772,7 @@
       "course": "TCSS 435",
       "courseTitle": "AI & KNOWLEDGE ACQ",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Liu,Xutong"
     },
     {
       "campus": "T",
@@ -10782,7 +10782,7 @@
       "course": "TCSS 445",
       "courseTitle": "DATABASE SYS DES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ali,Mohamed"
     },
     {
       "campus": "T",
@@ -10792,7 +10792,7 @@
       "course": "TCSS 452",
       "courseTitle": "HMN-COMP INTERFACE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tenenberg,Josh"
     },
     {
       "campus": "T",
@@ -10802,7 +10802,7 @@
       "course": "TCSS 455",
       "courseTitle": "INTRO MACH LEARNING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Torre,Damiano"
     },
     {
       "campus": "T",
@@ -10822,7 +10822,7 @@
       "course": "TCSS 483",
       "courseTitle": "SECURE CODING PRINC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Capaul,Tom"
     },
     {
       "campus": "T",
@@ -10832,7 +10832,7 @@
       "course": "TCSS 490",
       "courseTitle": "SPL TOPIC IN CSS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cai,Wei"
     },
     {
       "campus": "T",
@@ -10842,7 +10842,7 @@
       "course": "TCSS 491",
       "courseTitle": "GAME & SIM DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Marriott,Chris"
     },
     {
       "campus": "T",
@@ -10852,7 +10852,7 @@
       "course": "TCSS 496",
       "courseTitle": "PORTFOLIO BASED LRNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sakpal,Raghavi"
     },
     {
       "campus": "T",
@@ -10912,7 +10912,7 @@
       "course": "TCSS 543",
       "courseTitle": "ADV ALGORITHMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cheng,Zhi-Qi"
     },
     {
       "campus": "T",
@@ -10922,7 +10922,7 @@
       "course": "TCSS 555",
       "courseTitle": "MACHINE LEARNING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Teredesai,Ankur"
     },
     {
       "campus": "T",
@@ -10932,7 +10932,7 @@
       "course": "TCSS 558",
       "courseTitle": "APP DIST COMP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zhao,Dongfang"
     },
     {
       "campus": "T",
@@ -10942,7 +10942,7 @@
       "course": "TCSS 573",
       "courseTitle": "INTERNET OF THINGS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Al-Masri,Eyhab"
     },
     {
       "campus": "T",
@@ -10952,7 +10952,7 @@
       "course": "TCSS 576",
       "courseTitle": "WIRELESS & SYS SEC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cheng,Wei"
     },
     {
       "campus": "T",
@@ -10971,8 +10971,8 @@
       "term": "WIN2026",
       "course": "TCSS 590",
       "courseTitle": "SPL TOPICS IN CSS",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Cai,Wei"
     },
     {
       "campus": "T",
@@ -10981,8 +10981,8 @@
       "term": "WIN2026",
       "course": "TCSS 590",
       "courseTitle": "SPL TOPICS IN CSS",
-      "section": "B",
-      "instructor": "TBA"
+      "section": "A",
+      "instructor": "Cheng,Zhi-Qi"
     },
     {
       "campus": "T",
@@ -10992,7 +10992,7 @@
       "course": "TCSS 598",
       "courseTitle": "MASTERS SEMINAR CSS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Teredesai,Ankur"
     },
     {
       "campus": "T",
@@ -11052,7 +11052,7 @@
       "course": "TCSS 101",
       "courseTitle": "CS PRINCIPLES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tenenberg,Josh"
     },
     {
       "campus": "T",
@@ -11062,7 +11062,7 @@
       "course": "TCSS 141",
       "courseTitle": "PROGR FOR ALL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Horakova,Ingrid"
     },
     {
       "campus": "T",
@@ -11072,7 +11072,7 @@
       "course": "TCSS 141",
       "courseTitle": "PROGR FOR ALL",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Orriss,David Anthony"
     },
     {
       "campus": "T",
@@ -11082,7 +11082,7 @@
       "course": "TCSS 142",
       "courseTitle": "PROGRAMMING PRINC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fowler,Alan"
     },
     {
       "campus": "T",
@@ -11092,7 +11092,7 @@
       "course": "TCSS 142",
       "courseTitle": "PROGRAMMING PRINC",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Liu,Xutong"
     },
     {
       "campus": "T",
@@ -11102,7 +11102,7 @@
       "course": "TCSS 143",
       "courseTitle": "FUND OBJ-ORIENT PRG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Schuessler,David L"
     },
     {
       "campus": "T",
@@ -11112,7 +11112,7 @@
       "course": "TCSS 143",
       "courseTitle": "FUND OBJ-ORIENT PRG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Schuessler,David L"
     },
     {
       "campus": "T",
@@ -11122,7 +11122,7 @@
       "course": "TCSS 321",
       "courseTitle": "DISCRETE STRUCT I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Horakova,Ingrid"
     },
     {
       "campus": "T",
@@ -11162,7 +11162,7 @@
       "course": "TCSS 342",
       "courseTitle": "DATA STRUCTURES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fowler,Alan"
     },
     {
       "campus": "T",
@@ -11172,7 +11172,7 @@
       "course": "TCSS 343",
       "courseTitle": "DES & ANALYS OF ALG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Marriott,Chris"
     },
     {
       "campus": "T",
@@ -11182,7 +11182,7 @@
       "course": "TCSS 360",
       "courseTitle": "SOFTWARE DEV & QA",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Torre,Damiano"
     },
     {
       "campus": "T",
@@ -11192,7 +11192,7 @@
       "course": "TCSS 371",
       "courseTitle": "MACHINE ORGANIZATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Abraham,Menaka"
     },
     {
       "campus": "T",
@@ -11202,7 +11202,7 @@
       "course": "TCSS 372",
       "courseTitle": "COMP ARCH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cai,Wei"
     },
     {
       "campus": "T",
@@ -11212,7 +11212,7 @@
       "course": "TCSS 380",
       "courseTitle": "PROG LANG CONCEPTS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Capaul,Tom"
     },
     {
       "campus": "T",
@@ -11222,7 +11222,7 @@
       "course": "TCSS 390",
       "courseTitle": "SEMINAR IN CSS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Bryan,Charles F"
     },
     {
       "campus": "T",
@@ -11232,7 +11232,7 @@
       "course": "TCSS 390",
       "courseTitle": "SEMINAR IN CSS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Chinn,Donald D"
     },
     {
       "campus": "T",
@@ -11242,7 +11242,7 @@
       "course": "TCSS 390",
       "courseTitle": "SEMINAR IN CSS",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Chinn,Donald D"
     },
     {
       "campus": "T",
@@ -11252,7 +11252,7 @@
       "course": "TCSS 422",
       "courseTitle": "COMP OP SYS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Hu,Juhua"
     },
     {
       "campus": "T",
@@ -11262,7 +11262,7 @@
       "course": "TCSS 440",
       "courseTitle": "FORMAL MODELS IN CS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chinn,Donald D"
     },
     {
       "campus": "T",
@@ -11272,7 +11272,7 @@
       "course": "TCSS 445",
       "courseTitle": "DATABASE SYS DES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zhao,Dongfang"
     },
     {
       "campus": "T",
@@ -11292,7 +11292,7 @@
       "course": "TCSS 452",
       "courseTitle": "HMN-COMP INTERFACE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sakpal,Raghavi"
     },
     {
       "campus": "T",
@@ -11302,7 +11302,7 @@
       "course": "TCSS 455",
       "courseTitle": "INTRO MACH LEARNING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "De Cock,Martine I"
     },
     {
       "campus": "T",
@@ -11312,7 +11312,7 @@
       "course": "TCSS 458",
       "courseTitle": "COMPUTER GRAPHICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Cheng,Zhi-Qi"
     },
     {
       "campus": "T",
@@ -11322,7 +11322,7 @@
       "course": "TCSS 460",
       "courseTitle": "CLIENT/SERVER PROG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Bryan,Charles F"
     },
     {
       "campus": "T",
@@ -11332,7 +11332,7 @@
       "course": "TCSS 487",
       "courseTitle": "INTRO TO CRYPTO",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Barreto,Paulo"
     },
     {
       "campus": "T",
@@ -11342,7 +11342,7 @@
       "course": "TCSS 496",
       "courseTitle": "PORTFOLIO BASED LRNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sakpal,Raghavi"
     },
     {
       "campus": "T",
@@ -11402,7 +11402,7 @@
       "course": "TCSS 540",
       "courseTitle": "THEORY OF COMPUTING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chinn,Donald D"
     },
     {
       "campus": "T",
@@ -11412,7 +11412,7 @@
       "course": "TCSS 545",
       "courseTitle": "DATABASE SYST DES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zhao,Dongfang"
     },
     {
       "campus": "T",
@@ -11422,7 +11422,7 @@
       "course": "TCSS 552",
       "courseTitle": "INTERACTION DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Tenenberg,Josh"
     },
     {
       "campus": "T",
@@ -11432,7 +11432,7 @@
       "course": "TCSS 556",
       "courseTitle": "ADV MACH LEARNING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Teredesai,Ankur"
     },
     {
       "campus": "T",
@@ -11452,7 +11452,7 @@
       "course": "TCSS 581",
       "courseTitle": "CRYPTOLOGY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Barreto,Paulo"
     },
     {
       "campus": "T",
@@ -11462,7 +11462,7 @@
       "course": "TCSS 590",
       "courseTitle": "SPL TOPICS IN CSS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Liu,Xutong"
     },
     {
       "campus": "T",

@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Martinez%2CFrank",
+  "professor": "Martinez,Frank",
+  "recordCount": 5,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2025",
+      "course": "INFO 492",
+      "courseTitle": "INTENSIVE CAPSTONE",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2022",
+      "course": "INFO 491",
+      "courseTitle": "CAPSTONE PROJECT II",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2022",
+      "course": "INFO 490",
+      "courseTitle": "CAPSTONE PROJECT I",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "SPR2021",
+      "course": "INFO 491",
+      "courseTitle": "CAPSTONE PROJECT II",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2021",
+      "course": "INFO 490",
+      "courseTitle": "CAPSTONE PROJECT I",
+      "section": "E"
+    }
+  ]
+}

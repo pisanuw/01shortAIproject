@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:59Z",
+  "generatedAt": "2026-04-16T02:57:15Z",
   "campus": "S",
   "dept": "cenv",
   "deptName": "College of the Environment",
@@ -348,6 +348,36 @@
       "campus": "S",
       "dept": "cenv",
       "deptName": "College of the Environment",
+      "term": "SPR2025",
+      "course": "C ENV 490",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cenv",
+      "deptName": "College of the Environment",
+      "term": "SPR2025",
+      "course": "C ENV 490",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "cenv",
+      "deptName": "College of the Environment",
+      "term": "SPR2025",
+      "course": "C ENV 555",
+      "courseTitle": "TCHING BST PRACT ENV",
+      "section": "A",
+      "instructor": "Nuwer,Mikelle"
+    },
+    {
+      "campus": "S",
+      "dept": "cenv",
+      "deptName": "College of the Environment",
       "term": "AUT2025",
       "course": "C ENV 490",
       "courseTitle": "SPECIAL TOPICS",
@@ -372,7 +402,7 @@
       "course": "C ENV 555",
       "courseTitle": "TCHING BST PRACT ENV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nuwer,Mikelle"
     },
     {
       "campus": "S",
@@ -382,7 +412,7 @@
       "course": "C ENV 401",
       "courseTitle": "FIELDNOTES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Olden,Julian"
     },
     {
       "campus": "S",
@@ -422,7 +452,7 @@
       "course": "C ENV 555",
       "courseTitle": "TCHING BST PRACT ENV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nuwer,Mikelle"
     },
     {
       "campus": "S",
@@ -432,7 +462,7 @@
       "course": "C ENV 190",
       "courseTitle": "INTRODUCTORY TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Straus,Kristi"
     },
     {
       "campus": "S",
@@ -462,7 +492,7 @@
       "course": "C ENV 555",
       "courseTitle": "TCHING BST PRACT ENV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Nuwer,Mikelle"
     }
   ]
 }

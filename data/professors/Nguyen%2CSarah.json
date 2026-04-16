@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Nguyen%2CSarah",
+  "professor": "Nguyen,Sarah",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "SPR2025",
+      "course": "COM 302",
+      "courseTitle": "CLTRL IMPACT TECH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chid",
+      "deptName": "Comparative History of Ideas",
+      "term": "SPR2025",
+      "course": "CHID 370",
+      "courseTitle": "CLTRL IMPACT TECH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chid",
+      "deptName": "Comparative History of Ideas",
+      "term": "WIN2025",
+      "course": "CHID 320",
+      "courseTitle": "SMNR PUBLIC WRITING",
+      "section": "A"
+    }
+  ]
+}

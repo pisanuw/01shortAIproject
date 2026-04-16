@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Lethem%2CCameo",
+  "professor": "Lethem,Cameo",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dance",
+      "deptName": "Dance",
+      "term": "SPR2025",
+      "course": "DANCE 117",
+      "courseTitle": "INTRO COMMRCIAL DNCE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dance",
+      "deptName": "Dance",
+      "term": "WIN2025",
+      "course": "DANCE 490",
+      "courseTitle": "SPECIAL STUDIES",
+      "section": "B"
+    }
+  ]
+}

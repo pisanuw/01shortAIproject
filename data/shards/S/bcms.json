@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:27:57Z",
+  "generatedAt": "2026-04-16T02:57:13Z",
   "campus": "S",
   "dept": "bcms",
   "deptName": "Bosnian/Croatian/Montenegrin/Serbian",
@@ -128,6 +128,16 @@
       "campus": "S",
       "dept": "bcms",
       "deptName": "Bosnian/Croatian/Montenegrin/Serbian",
+      "term": "AUT2024",
+      "course": "BCMS 401",
+      "courseTitle": "YR1 BCMS",
+      "section": "A",
+      "instructor": "Belic,Bojan"
+    },
+    {
+      "campus": "S",
+      "dept": "bcms",
+      "deptName": "Bosnian/Croatian/Montenegrin/Serbian",
       "term": "WIN2025",
       "course": "BCMS 402",
       "courseTitle": "YR1 BCMS",
@@ -152,7 +162,7 @@
       "course": "BCMS 404",
       "courseTitle": "YR2 BCMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Belic,Bojan"
     },
     {
       "campus": "S",
@@ -162,7 +172,7 @@
       "course": "BCMS 405",
       "courseTitle": "YR2 BCMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Belic,Bojan"
     },
     {
       "campus": "S",
@@ -172,7 +182,7 @@
       "course": "BCMS 406",
       "courseTitle": "YR2 BCMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Belic,Bojan"
     }
   ]
 }

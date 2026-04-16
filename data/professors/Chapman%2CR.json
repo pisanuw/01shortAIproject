@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Chapman%2CR",
+  "professor": "Chapman,R",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "anthro",
+      "deptName": "Anthropology",
+      "term": "AUT2022",
+      "course": "ANTH 302",
+      "courseTitle": "MED ANTH/SOC JUSTIC",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "anthro",
+      "deptName": "Anthropology",
+      "term": "AUT2022",
+      "course": "ANTH 215",
+      "courseTitle": "MED ANTH/ GLBL HLTH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "anthro",
+      "deptName": "Anthropology",
+      "term": "SUM2021",
+      "course": "ANTH 308",
+      "courseTitle": "WOMENS HEALTH&REPRO",
+      "section": "A"
+    }
+  ]
+}

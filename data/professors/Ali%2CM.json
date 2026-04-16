@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Ali%2CM",
+  "professor": "Ali,M",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hcde",
+      "deptName": "Human Centered Design and Engineering",
+      "term": "WIN2026",
+      "course": "HCDE 411",
+      "courseTitle": "INFO VISUALIZATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hcde",
+      "deptName": "Human Centered Design and Engineering",
+      "term": "SPR2025",
+      "course": "HCDE 411",
+      "courseTitle": "INFO VISUALIZATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hcde",
+      "deptName": "Human Centered Design and Engineering",
+      "term": "WIN2024",
+      "course": "HCDE 411",
+      "courseTitle": "INFO VISUALIZATION",
+      "section": "A"
+    }
+  ]
+}

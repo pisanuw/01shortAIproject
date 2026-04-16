@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Post%2CMaaike",
+  "professor": "Post,Maaike",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "WIN2026",
+      "course": "ARCH 504",
+      "courseTitle": "ARCH INTEGRATION III",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "WIN2025",
+      "course": "ARCH 504",
+      "courseTitle": "ARCH INTEGRATION III",
+      "section": "D"
+    }
+  ]
+}

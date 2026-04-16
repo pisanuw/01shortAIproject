@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Huppert%2CA",
+  "professor": "Huppert,A",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "WIN2023",
+      "course": "ARCH 351",
+      "courseTitle": "WORLD ARCH 700-1750",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "WIN2022",
+      "course": "ARCH 351",
+      "courseTitle": "WORLD ARCH 700-1750",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "WIN2021",
+      "course": "ARCH 351",
+      "courseTitle": "WORLD ARCH 700-1750",
+      "section": "A"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Zhang%2CShuai",
+  "professor": "Zhang,Shuai",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mse",
+      "deptName": "Materials Science and Engineering",
+      "term": "WIN2024",
+      "course": "MSE 520",
+      "courseTitle": "SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mse",
+      "deptName": "Materials Science and Engineering",
+      "term": "AUT2023",
+      "course": "MSE 520",
+      "courseTitle": "SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mse",
+      "deptName": "Materials Science and Engineering",
+      "term": "SPR2023",
+      "course": "MSE 520",
+      "courseTitle": "SEMINAR",
+      "section": "A"
+    }
+  ]
+}

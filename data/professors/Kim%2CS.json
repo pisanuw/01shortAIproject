@@ -1,0 +1,68 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Kim%2CS",
+  "professor": "Kim,S",
+  "recordCount": 6,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "SUM2023",
+      "course": "COM 478",
+      "courseTitle": "INTERCULTURAL COMM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "esrm",
+      "deptName": "Environmental Science and Resource Management",
+      "term": "SPR2023",
+      "course": "ESRM 411",
+      "courseTitle": "PLANT PROPAGATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sefs",
+      "deptName": "School of Environmental and Forest Sciences",
+      "term": "AUT2022",
+      "course": "SEFS 508",
+      "courseTitle": "PLANT MODELING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sefs",
+      "deptName": "School of Environmental and Forest Sciences",
+      "term": "AUT2021",
+      "course": "SEFS 508",
+      "courseTitle": "PLANT MODELING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "SUM2021",
+      "course": "COM 478",
+      "courseTitle": "INTERCULTURAL COMM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sefs",
+      "deptName": "School of Environmental and Forest Sciences",
+      "term": "AUT2020",
+      "course": "SEFS 508",
+      "courseTitle": "PLANT MODELING",
+      "section": "A"
+    }
+  ]
+}

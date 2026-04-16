@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Ventura%2CMicah",
+  "professor": "Ventura,Micah",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "SPR2024",
+      "course": "B EDUC 421",
+      "courseTitle": "ERTH,PHYS,LIF SCI",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "teached",
+      "deptName": "Education",
+      "term": "WIN2024",
+      "course": "EDTEP 523",
+      "courseTitle": "TCH & LRN SCI",
+      "section": "D"
+    }
+  ]
+}

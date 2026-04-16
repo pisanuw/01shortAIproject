@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Herring%2CS",
+  "professor": "Herring,S",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ohs",
+      "deptName": "Oral Health Sciences",
+      "term": "SPR2021",
+      "course": "OHS 575",
+      "courseTitle": "OHS SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ohs",
+      "deptName": "Oral Health Sciences",
+      "term": "WIN2021",
+      "course": "OHS 575",
+      "courseTitle": "OHS SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ohs",
+      "deptName": "Oral Health Sciences",
+      "term": "AUT2020",
+      "course": "OHS 575",
+      "courseTitle": "OHS SEMINAR",
+      "section": "A"
+    }
+  ]
+}

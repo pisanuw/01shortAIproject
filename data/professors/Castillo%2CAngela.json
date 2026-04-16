@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Castillo%2CAngela",
+  "professor": "Castillo,Angela",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "anthro",
+      "deptName": "Anthropology",
+      "term": "SPR2026",
+      "course": "ANTH 469",
+      "courseTitle": "SPEC STUDIES ANTH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "anthro",
+      "deptName": "Anthropology",
+      "term": "SPR2026",
+      "course": "ANTH 101",
+      "courseTitle": "EXPLORING SOC ANTHR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "anthro",
+      "deptName": "Anthropology",
+      "term": "WIN2026",
+      "course": "ANTH 457",
+      "courseTitle": "ECOLOGICAL ANTH",
+      "section": "A"
+    }
+  ]
+}

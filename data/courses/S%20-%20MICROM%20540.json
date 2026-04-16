@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20MICROM%20540",
+  "course": "S - MICROM 540",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2024",
+      "course": "MICROM 540",
+      "courseTitle": "VIROLOGY",
+      "section": "A",
+      "instructor": "Smith,Jason G"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2022",
+      "course": "MICROM 540",
+      "courseTitle": "VIROLOGY",
+      "section": "A",
+      "instructor": "Lagunoff,M"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "microbio",
+      "deptName": "Microbiology",
+      "term": "AUT2020",
+      "course": "MICROM 540",
+      "courseTitle": "VIROLOGY",
+      "section": "A",
+      "instructor": "Lagunoff,Michael"
+    }
+  ]
+}

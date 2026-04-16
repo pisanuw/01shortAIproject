@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "F%20Mendez%20Echenagucia%2CTomas",
+  "professor": "F Mendez Echenagucia,Tomas",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2026",
+      "course": "ARCH 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2026",
+      "course": "ARCH 498",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2022",
+      "course": "ARCH 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "C"
+    }
+  ]
+}

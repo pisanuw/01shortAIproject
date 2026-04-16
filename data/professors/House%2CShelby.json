@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "House%2CShelby",
+  "professor": "House,Shelby",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chid",
+      "deptName": "Comparative History of Ideas",
+      "term": "SPR2025",
+      "course": "CHID 110",
+      "courseTitle": "QUESTION OF HUM NAT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hindi",
+      "deptName": "Hindi",
+      "term": "SPR2024",
+      "course": "HINDI 103",
+      "courseTitle": "ELEMENTARY HINDI",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hindi",
+      "deptName": "Hindi",
+      "term": "WIN2024",
+      "course": "HINDI 102",
+      "courseTitle": "ELEMENTARY HINDI",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hindi",
+      "deptName": "Hindi",
+      "term": "AUT2023",
+      "course": "HINDI 101",
+      "courseTitle": "ELEMENTARY HINDI",
+      "section": "A"
+    }
+  ]
+}

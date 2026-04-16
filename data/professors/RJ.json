@@ -1,0 +1,838 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "RJ",
+  "professor": "RJ",
+  "recordCount": 83,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2026",
+      "course": "Q SCI 458",
+      "courseTitle": "QUANT CONSRV & MGMT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SPR2026",
+      "course": "OCEAN 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "marbio",
+      "deptName": "Marine Biology",
+      "term": "SPR2026",
+      "course": "MARBIO 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "marbio",
+      "deptName": "Marine Biology",
+      "term": "SPR2026",
+      "course": "MARBIO 470",
+      "courseTitle": "RES IN MARINE BIOL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "gwss",
+      "deptName": "Gender, Women, and Sexuality Studies",
+      "term": "SPR2026",
+      "course": "GWSS 390",
+      "courseTitle": "INTERMEDIATE TOPICS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2026",
+      "course": "GEOG 395",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fish",
+      "deptName": "Aquatic and Fishery Sciences",
+      "term": "SPR2026",
+      "course": "FISH 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fish",
+      "deptName": "Aquatic and Fishery Sciences",
+      "term": "SPR2026",
+      "course": "FISH 458",
+      "courseTitle": "QUANT CONSRV & MGMT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "SPR2026",
+      "course": "BIOL 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2026",
+      "course": "GEOG 561",
+      "courseTitle": "URBAN GIS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "marbio",
+      "deptName": "Marine Biology",
+      "term": "AUT2025",
+      "course": "MARBIO 470",
+      "courseTitle": "RES IN MARINE BIOL",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fhl",
+      "deptName": "Friday Harbor Labs",
+      "term": "AUT2025",
+      "course": "FHL 470",
+      "courseTitle": "RES IN MARINE BIOL",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tbiomd",
+      "deptName": "Biomedical Sciences",
+      "term": "SUM2025",
+      "course": "TBIOMD 495",
+      "courseTitle": "BIOMD RESEARCH EXP",
+      "section": "C"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tbiomd",
+      "deptName": "Biomedical Sciences",
+      "term": "SUM2025",
+      "course": "TBIOMD 495",
+      "courseTitle": "BIOMD RESEARCH EXP",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2025",
+      "course": "Q SCI 458",
+      "courseTitle": "QUANT CONSRV & MGMT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SPR2025",
+      "course": "OCEAN 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "marbio",
+      "deptName": "Marine Biology",
+      "term": "SPR2025",
+      "course": "MARBIO 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "marbio",
+      "deptName": "Marine Biology",
+      "term": "SPR2025",
+      "course": "MARBIO 450",
+      "courseTitle": "SHORE ECOL RES EXP",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fish",
+      "deptName": "Aquatic and Fishery Sciences",
+      "term": "SPR2025",
+      "course": "FISH 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fish",
+      "deptName": "Aquatic and Fishery Sciences",
+      "term": "SPR2025",
+      "course": "FISH 458",
+      "courseTitle": "QUANT CONSRV & MGMT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fhl",
+      "deptName": "Friday Harbor Labs",
+      "term": "SPR2025",
+      "course": "FHL 450",
+      "courseTitle": "SHORE ECOL RES EXP",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "SPR2025",
+      "course": "BIOL 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tbiol",
+      "deptName": "Biology",
+      "term": "WIN2025",
+      "course": "T BIOL 304",
+      "courseTitle": "MOLECULAR BIOL",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tbiol",
+      "deptName": "Biology",
+      "term": "WIN2025",
+      "course": "T BIOL 304",
+      "courseTitle": "MOLECULAR BIOL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2025",
+      "course": "GEOG 561",
+      "courseTitle": "URBAN GIS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "AUT2024",
+      "course": "BIOL 340",
+      "courseTitle": "GENETS & MOLEC ECOL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SPR2024",
+      "course": "OCEAN 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "marbio",
+      "deptName": "Marine Biology",
+      "term": "SPR2024",
+      "course": "MARBIO 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fish",
+      "deptName": "Aquatic and Fishery Sciences",
+      "term": "SPR2024",
+      "course": "FISH 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "SPR2024",
+      "course": "BIOL 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SPR2024",
+      "course": "BIS 398",
+      "courseTitle": "DIR STUDY/RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tbiol",
+      "deptName": "Biology",
+      "term": "WIN2024",
+      "course": "T BIOL 304",
+      "courseTitle": "MOLECULAR BIOL",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tbiol",
+      "deptName": "Biology",
+      "term": "WIN2024",
+      "course": "T BIOL 304",
+      "courseTitle": "MOLECULAR BIOL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 561",
+      "courseTitle": "URBAN GIS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2024",
+      "course": "GEOG 461",
+      "courseTitle": "URBAN GIS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2023",
+      "course": "Q SCI 458",
+      "courseTitle": "ADV ECOL MODEL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SPR2023",
+      "course": "OCEAN 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "marbio",
+      "deptName": "Marine Biology",
+      "term": "SPR2023",
+      "course": "MARBIO 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fish",
+      "deptName": "Aquatic and Fishery Sciences",
+      "term": "SPR2023",
+      "course": "FISH 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fish",
+      "deptName": "Aquatic and Fishery Sciences",
+      "term": "SPR2023",
+      "course": "FISH 458",
+      "courseTitle": "ADV ECOL MODEL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "SPR2023",
+      "course": "BIOL 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tbiol",
+      "deptName": "Biology",
+      "term": "WIN2023",
+      "course": "T BIOL 304",
+      "courseTitle": "MOLECULAR BIOL",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tbiol",
+      "deptName": "Biology",
+      "term": "WIN2023",
+      "course": "T BIOL 304",
+      "courseTitle": "MOLECULAR BIOL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2023",
+      "course": "GEOG 561",
+      "courseTitle": "URBAN GIS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2023",
+      "course": "GEOG 461",
+      "courseTitle": "URBAN GIS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2022",
+      "course": "Q SCI 458",
+      "courseTitle": "ADV ECOL MODEL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SPR2022",
+      "course": "OCEAN 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SPR2022",
+      "course": "OCEAN 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "marbio",
+      "deptName": "Marine Biology",
+      "term": "SPR2022",
+      "course": "MARBIO 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "marbio",
+      "deptName": "Marine Biology",
+      "term": "SPR2022",
+      "course": "MARBIO 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "marbio",
+      "deptName": "Marine Biology",
+      "term": "SPR2022",
+      "course": "MARBIO 470",
+      "courseTitle": "RES IN MARINE BIOL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "SPR2022",
+      "course": "M E 495",
+      "courseTitle": "MECH ENGR DESIGN",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fish",
+      "deptName": "Aquatic and Fishery Sciences",
+      "term": "SPR2022",
+      "course": "FISH 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fish",
+      "deptName": "Aquatic and Fishery Sciences",
+      "term": "SPR2022",
+      "course": "FISH 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fish",
+      "deptName": "Aquatic and Fishery Sciences",
+      "term": "SPR2022",
+      "course": "FISH 458",
+      "courseTitle": "ADV ECOL MODEL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fhl",
+      "deptName": "Friday Harbor Labs",
+      "term": "SPR2022",
+      "course": "FHL 470",
+      "courseTitle": "RES IN MARINE BIOL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "SPR2022",
+      "course": "BIOL 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "SPR2022",
+      "course": "BIOL 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tbiol",
+      "deptName": "Biology",
+      "term": "WIN2022",
+      "course": "T BIOL 304",
+      "courseTitle": "MOLECULAR BIOL",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tbiol",
+      "deptName": "Biology",
+      "term": "WIN2022",
+      "course": "T BIOL 304",
+      "courseTitle": "MOLECULAR BIOL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "WIN2022",
+      "course": "M E 499",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "WIN2022",
+      "course": "M E 495",
+      "courseTitle": "MECH ENGR DESIGN",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SUM2021",
+      "course": "OCEAN 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "marbio",
+      "deptName": "Marine Biology",
+      "term": "SUM2021",
+      "course": "MARBIO 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "marbio",
+      "deptName": "Marine Biology",
+      "term": "SUM2021",
+      "course": "MARBIO 470",
+      "courseTitle": "RES IN MARINE BIOL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fish",
+      "deptName": "Aquatic and Fishery Sciences",
+      "term": "SUM2021",
+      "course": "FISH 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fhl",
+      "deptName": "Friday Harbor Labs",
+      "term": "SUM2021",
+      "course": "FHL 470",
+      "courseTitle": "RES IN MARINE BIOL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "SUM2021",
+      "course": "BIOL 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "quantsci",
+      "deptName": "Quantitative Science",
+      "term": "SPR2021",
+      "course": "Q SCI 458",
+      "courseTitle": "ADV ECOL MODEL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SPR2021",
+      "course": "OCEAN 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "marbio",
+      "deptName": "Marine Biology",
+      "term": "SPR2021",
+      "course": "MARBIO 470",
+      "courseTitle": "RES IN MARINE BIOL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "SPR2021",
+      "course": "M E 495",
+      "courseTitle": "MECH ENGR DESIGN",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fish",
+      "deptName": "Aquatic and Fishery Sciences",
+      "term": "SPR2021",
+      "course": "FISH 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fish",
+      "deptName": "Aquatic and Fishery Sciences",
+      "term": "SPR2021",
+      "course": "FISH 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fish",
+      "deptName": "Aquatic and Fishery Sciences",
+      "term": "SPR2021",
+      "course": "FISH 458",
+      "courseTitle": "ADV ECOL MODEL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "SPR2021",
+      "course": "BIOL 479",
+      "courseTitle": "MARINE BIO RESEARCH",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tbiol",
+      "deptName": "Biology",
+      "term": "WIN2021",
+      "course": "T BIOL 304",
+      "courseTitle": "MOLECULAR BIOL",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tbiol",
+      "deptName": "Biology",
+      "term": "WIN2021",
+      "course": "T BIOL 304",
+      "courseTitle": "MOLECULAR BIOL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "WIN2021",
+      "course": "M E 499",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "WIN2021",
+      "course": "M E 495",
+      "courseTitle": "MECH ENGR DESIGN",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "jsisa",
+      "deptName": "International Studies Area Studies",
+      "term": "AUT2020",
+      "course": "JSIS A 236",
+      "courseTitle": "DEVELPMNT IN CHINA",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "AUT2020",
+      "course": "GEOG 236",
+      "courseTitle": "DEVELPMNT IN CHINA",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biology",
+      "deptName": "Biology",
+      "term": "AUT2020",
+      "course": "BIOL 340",
+      "courseTitle": "GENETS & MOLEC ECOL",
+      "section": "A"
+    }
+  ]
+}

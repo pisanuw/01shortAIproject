@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Khosropour%2CC",
+  "professor": "Khosropour,C",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "WIN2023",
+      "course": "EPI 520",
+      "courseTitle": "INFECT DIS EPI",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "WIN2022",
+      "course": "EPI 520",
+      "courseTitle": "INFECT DIS EPI",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "WIN2021",
+      "course": "EPI 520",
+      "courseTitle": "INFECT DIS EPI",
+      "section": "A"
+    }
+  ]
+}

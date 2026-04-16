@@ -1,7 +1,978 @@
 {
-  "generatedAt": "2026-04-15T16:27:59Z",
+  "generatedAt": "2026-04-16T02:57:15Z",
   "campus": "S",
   "dept": "atmoscs",
   "deptName": "Atmospheric and Climate Science",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 101",
+      "courseTitle": "UNDST & PRED WEATHER",
+      "section": "A",
+      "instructor": "Mass,Clifford F"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 101",
+      "courseTitle": "UNDST & PRED WEATHER",
+      "section": "B",
+      "instructor": "Mass,Clifford F"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 111",
+      "courseTitle": "GLOBAL WARMING",
+      "section": "A",
+      "instructor": "Huybers,Kat"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 211",
+      "courseTitle": "CLIMATE CHANGE",
+      "section": "A",
+      "instructor": "Jaegle,Lyatt"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 220",
+      "courseTitle": "EXPLORING ATMOS SCI",
+      "section": "A",
+      "instructor": "Huybers,Kat"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 290",
+      "courseTitle": "WEATHER CHALLENGE",
+      "section": "A",
+      "instructor": "McMurdie,Lynn A"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 301",
+      "courseTitle": "INTRO TO ATMOSPH SCI",
+      "section": "A",
+      "instructor": "Chen,Shuyi S."
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 310",
+      "courseTitle": "PROG ATMOS DATA ANLS",
+      "section": "A",
+      "instructor": "Anderson-Frey,Alexandra"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 350",
+      "courseTitle": "ECOLOG CLIMATOLOGY",
+      "section": "A",
+      "instructor": "Swann,Abby"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 390",
+      "courseTitle": "H-TUTORIAL ATM SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 431",
+      "courseTitle": "BOUNDARY-LAYER METE",
+      "section": "A",
+      "instructor": "Fu,Qiang"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 441",
+      "courseTitle": "ATMOS MOTIONS I",
+      "section": "A",
+      "instructor": "Hakim,Gregory J"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 461",
+      "courseTitle": "WTHR COM: MEDIA/METR",
+      "section": "A",
+      "instructor": "O'Donnell,Shannon"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 487",
+      "courseTitle": "FUND CLIMATE CHANGE",
+      "section": "A",
+      "instructor": "Armour,Kyle"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 490",
+      "courseTitle": "WEATHER ANALYSIS",
+      "section": "A",
+      "instructor": "Anderson-Frey,Alexandra"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 493",
+      "courseTitle": "MTR/CLMTL SPEC PROB",
+      "section": "A",
+      "instructor": "Wright,Chris"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 497",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 501",
+      "courseTitle": "ATMOS PHYS & CHEM",
+      "section": "A",
+      "instructor": "Turner,A"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 503",
+      "courseTitle": "ATMOS MOTIONS I",
+      "section": "A",
+      "instructor": "Hakim,Gregory J"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 505",
+      "courseTitle": "FLUID DYNAMICS",
+      "section": "A",
+      "instructor": "Battisti,David S"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 512",
+      "courseTitle": "SNOW & ICE DYNAMICS",
+      "section": "A",
+      "instructor": "Christianson,Knut"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 520",
+      "courseTitle": "ATM SCI COLLOQUIUM",
+      "section": "A",
+      "instructor": "Swann,Abby"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 521",
+      "courseTitle": "SMNR ATM & CLIM DYN",
+      "section": "A",
+      "instructor": "Mass,Clifford F"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 523",
+      "courseTitle": "SMNR ATM PHYS & CHEM",
+      "section": "A",
+      "instructor": "Turner,A"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 554",
+      "courseTitle": "PALEOCLIMATE PROXIES",
+      "section": "A",
+      "instructor": "Sachs,Julian P."
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 587",
+      "courseTitle": "FUND CLIMATE CHANGE",
+      "section": "A",
+      "instructor": "Armour,Kyle"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 596",
+      "courseTitle": "CLIMATE SCI CAPSTONE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 597",
+      "courseTitle": "DIRECTED DISC & PRES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "AUT2025",
+      "course": "ATMOS 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 101",
+      "courseTitle": "UNDST & PRED WEATHER",
+      "section": "A",
+      "instructor": "Hakim,Gregory J"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 101",
+      "courseTitle": "UNDST & PRED WEATHER",
+      "section": "B",
+      "instructor": "Hakim,Gregory J"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 111",
+      "courseTitle": "GLOBAL WARMING",
+      "section": "A",
+      "instructor": "Huybers,Kat"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 220",
+      "courseTitle": "EXPLORING ATMOS SCI",
+      "section": "A",
+      "instructor": "Huybers,Kat"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 290",
+      "courseTitle": "WEATHER CHALLENGE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 340",
+      "courseTitle": "THERMODYN & CLOUDS",
+      "section": "A",
+      "instructor": "Turner,A"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 361",
+      "courseTitle": "METEOROLOGY & MEDIA",
+      "section": "A",
+      "instructor": "O'Donnell,Shannon"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 370",
+      "courseTitle": "ATM STRUC & ANALYSIS",
+      "section": "A",
+      "instructor": "Mass,Clifford F"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 380",
+      "courseTitle": "WTHR & CLIM PREDICT",
+      "section": "A",
+      "instructor": "Armour,Kyle"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 390",
+      "courseTitle": "H-TUTORIAL ATM SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 442",
+      "courseTitle": "ATMOS MOTIONS II",
+      "section": "A",
+      "instructor": "Battisti,David S"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 451",
+      "courseTitle": "INSTRUMENTS & OBSERV",
+      "section": "A",
+      "instructor": "Anderson-Frey,Alexandra"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 458",
+      "courseTitle": "AIR POLLUTION CHEM",
+      "section": "A",
+      "instructor": "Jaegle,Lyatt"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 461",
+      "courseTitle": "WTHR COM: MEDIA/METR",
+      "section": "A",
+      "instructor": "O'Donnell,Shannon"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 475",
+      "courseTitle": "CLMT SCI RSRCH SMNR",
+      "section": "A",
+      "instructor": "Thompson,Luanne"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 490",
+      "courseTitle": "WEATHER ANALYSIS",
+      "section": "A",
+      "instructor": "Mass,Clifford F"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 497",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 504",
+      "courseTitle": "ATMOS MOTIONS II",
+      "section": "A",
+      "instructor": "Battisti,David S"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 509",
+      "courseTitle": "GEOPHYS FLUID DYN I",
+      "section": "A",
+      "instructor": "Gray,Alison R."
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 519",
+      "courseTitle": "SCIENTIFIC WRITING",
+      "section": "A",
+      "instructor": "Roe,Gerard H"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 520",
+      "courseTitle": "ATM SCI COLLOQUIUM",
+      "section": "A",
+      "instructor": "Battisti,David S"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 521",
+      "courseTitle": "SMNR ATM & CLIM DYN",
+      "section": "A",
+      "instructor": "Anderson-Frey,Alexandra"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 523",
+      "courseTitle": "SMNR ATM PHYS & CHEM",
+      "section": "A",
+      "instructor": "Jaegle,Lyatt"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 558",
+      "courseTitle": "ATM CHEMISTRY",
+      "section": "A",
+      "instructor": "Jaegle,Lyatt"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 586",
+      "courseTitle": "CLIMATE SEMINAR",
+      "section": "A",
+      "instructor": "Thompson,Luanne"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 588",
+      "courseTitle": "CARBON AND CLIMATE",
+      "section": "A",
+      "instructor": "Swann,Abby"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 589",
+      "courseTitle": "PALEOCLIMATOLOGY",
+      "section": "A",
+      "instructor": "Steig,Eric"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 593",
+      "courseTitle": "CLIMATE SCIENCE SMNR",
+      "section": "A",
+      "instructor": "Bertram,Miriam A."
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 596",
+      "courseTitle": "CLIMATE SCI CAPSTONE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 597",
+      "courseTitle": "DIRECTED DISC & PRES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "WIN2026",
+      "course": "ATMOS 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 103",
+      "courseTitle": "HURRICANE & THNDRSTM",
+      "section": "A",
+      "instructor": "Anderson-Frey,Alexandra"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 211",
+      "courseTitle": "CLIMATE CHANGE",
+      "section": "A",
+      "instructor": "Huybers,Kat"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 212",
+      "courseTitle": "AIR POLLUTION",
+      "section": "A",
+      "instructor": "Alexander,Becky"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 220",
+      "courseTitle": "EXPLORING ATMOS SCI",
+      "section": "A",
+      "instructor": "Huybers,Kat"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 321",
+      "courseTitle": "SCIENCE OF CLIMATE",
+      "section": "A",
+      "instructor": "Bitz,Cecilia"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 341",
+      "courseTitle": "ATM RADIATIVE TRANS",
+      "section": "A",
+      "instructor": "Fu,Qiang"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 358",
+      "courseTitle": "ATMOSPHERIC CHEM",
+      "section": "A",
+      "instructor": "Turner,A"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 390",
+      "courseTitle": "H-TUTORIAL ATM SCI",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 452",
+      "courseTitle": "FORECASTING LAB",
+      "section": "A",
+      "instructor": "Mass,Clifford F"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 461",
+      "courseTitle": "WTHR COM: MEDIA/METR",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 480",
+      "courseTitle": "AIR-QUALITY MODELING",
+      "section": "A",
+      "instructor": "Marshall,Julian"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 490",
+      "courseTitle": "WEATHER ANALYSIS",
+      "section": "A",
+      "instructor": "Hakim,Gregory J"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 497",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 498",
+      "courseTitle": "HON SYNTHESIS & COM",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 499",
+      "courseTitle": "UNDERGRAD RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 502",
+      "courseTitle": "INTRO SYNOPTIC MET",
+      "section": "A",
+      "instructor": "McMurdie,Lynn A"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 511",
+      "courseTitle": "SNOW & ICE ON EARTH",
+      "section": "A",
+      "instructor": "Christianson,Knut"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 520",
+      "courseTitle": "ATM SCI COLLOQUIUM",
+      "section": "A",
+      "instructor": "Bitz,Cecilia"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 521",
+      "courseTitle": "SMNR ATM & CLIM DYN",
+      "section": "A",
+      "instructor": "Armour,Kyle"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 523",
+      "courseTitle": "SMNR ATM PHYS & CHEM",
+      "section": "A",
+      "instructor": "Fu,Qiang"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 542",
+      "courseTitle": "SYNOP/MESOSCALE DYN",
+      "section": "A",
+      "instructor": "Hakim,Gregory J"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 575",
+      "courseTitle": "LS DYNAM-TROP ATMOS",
+      "section": "A",
+      "instructor": "Chen,Shuyi S."
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 581",
+      "courseTitle": "NUM MTHDS PAR DIF EQ",
+      "section": "A",
+      "instructor": "Greenbaum,Anne"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 596",
+      "courseTitle": "CLIMATE SCI CAPSTONE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 597",
+      "courseTitle": "DIRECTED DISC & PRES",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 601",
+      "courseTitle": "INTERNSHIP",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 700",
+      "courseTitle": "MASTERS THESIS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    }
+  ]
 }

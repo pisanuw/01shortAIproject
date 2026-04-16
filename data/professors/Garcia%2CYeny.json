@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Garcia%2CYeny",
+  "professor": "Garcia,Yeny",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "spanish",
+      "deptName": "Spanish",
+      "term": "SPR2024",
+      "course": "SPAN 103",
+      "courseTitle": "ELEMENTARY SPANISH",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "spanish",
+      "deptName": "Spanish",
+      "term": "WIN2024",
+      "course": "SPAN 110",
+      "courseTitle": "ACCEL ELEM SPANISH",
+      "section": "A"
+    }
+  ]
+}

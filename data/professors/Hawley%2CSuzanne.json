@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Hawley%2CSuzanne",
+  "professor": "Hawley,Suzanne",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "astro",
+      "deptName": "Astronomy",
+      "term": "AUT2022",
+      "course": "ASTR 576",
+      "courseTitle": "ASTRON COLLOQUIUM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "astro",
+      "deptName": "Astronomy",
+      "term": "AUT2022",
+      "course": "ASTR 400",
+      "courseTitle": "UG RESEARCH SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "astro",
+      "deptName": "Astronomy",
+      "term": "SPR2022",
+      "course": "ASTR 576",
+      "courseTitle": "ASTRON COLLOQUIUM",
+      "section": "A"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:24:45Z",
+  "generatedAt": "2026-04-16T02:57:08Z",
   "campus": "B",
   "dept": "css",
   "deptName": "Computing and Software Systems",
@@ -3872,7 +3872,7 @@
       "course": "CSS 490",
       "courseTitle": "SPECIAL TOPICS",
       "section": "D",
-      "instructor": "Folsom,Tyler"
+      "instructor": "G Folsom,Tyler"
     },
     {
       "campus": "B",
@@ -4442,7 +4442,7 @@
       "course": "CSS 427",
       "courseTitle": "EMBEDDED SYSTEMS",
       "section": "A",
-      "instructor": "Folsom,Tyler"
+      "instructor": "G Folsom,T"
     },
     {
       "campus": "B",
@@ -6372,7 +6372,7 @@
       "course": "CSS 444",
       "courseTitle": "ANALYZING BIASES",
       "section": "A",
-      "instructor": "Mashhadi,Afra"
+      "instructor": "B Mashhadi,Afra"
     },
     {
       "campus": "B",
@@ -6742,7 +6742,7 @@
       "course": "CSS 295",
       "courseTitle": "K12 COMPUTING EDU",
       "section": "A",
-      "instructor": "Kool,Nancy L."
+      "instructor": "G Kool,Nancy L."
     },
     {
       "campus": "B",
@@ -12902,7 +12902,7 @@
       "course": "CSS 101",
       "courseTitle": "DIGITAL THINKING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Oliver,Dawn-Marie"
     },
     {
       "campus": "B",
@@ -12912,7 +12912,7 @@
       "course": "CSS 107",
       "courseTitle": "PROG-ANIMATED STORY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Oliver,Dawn-Marie"
     },
     {
       "campus": "B",
@@ -12922,7 +12922,7 @@
       "course": "CSS 112",
       "courseTitle": "INTRO PROG SCI APP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lin,Johnny"
     },
     {
       "campus": "B",
@@ -12932,27 +12932,7 @@
       "course": "CSS 132",
       "courseTitle": "COMPT PROG ENGR I",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "AUT2025",
-      "course": "CSS 142",
-      "courseTitle": "CMPT PROG I",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "AUT2025",
-      "course": "CSS 142",
-      "courseTitle": "CMPT PROG I",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Ewing,Katie"
     },
     {
       "campus": "B",
@@ -12962,7 +12942,7 @@
       "course": "CSS 142",
       "courseTitle": "CMPT PROG I",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Champion,Mia"
     },
     {
       "campus": "B",
@@ -12972,7 +12952,27 @@
       "course": "CSS 142",
       "courseTitle": "CMPT PROG I",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Champion,Mia"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "AUT2025",
+      "course": "CSS 142",
+      "courseTitle": "CMPT PROG I",
+      "section": "A",
+      "instructor": "Chini,Morteza"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "AUT2025",
+      "course": "CSS 142",
+      "courseTitle": "CMPT PROG I",
+      "section": "B",
+      "instructor": "Oliver,Dawn-Marie"
     },
     {
       "campus": "B",
@@ -12982,7 +12982,7 @@
       "course": "CSS 143",
       "courseTitle": "CMPT PROG II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chini,Morteza"
     },
     {
       "campus": "B",
@@ -12992,7 +12992,7 @@
       "course": "CSS 143",
       "courseTitle": "CMPT PROG II",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Stride,Jeff"
     },
     {
       "campus": "B",
@@ -13052,7 +13052,7 @@
       "course": "CSS 211",
       "courseTitle": "COMPUTERS & SOCIETY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Shaw,Carol A"
     },
     {
       "campus": "B",
@@ -13062,7 +13062,7 @@
       "course": "CSS 290",
       "courseTitle": "TOPICS IN COMPUTING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sung,Kelvin"
     },
     {
       "campus": "B",
@@ -13072,37 +13072,7 @@
       "course": "CSS 295",
       "courseTitle": "K12 COMPUTING EDU",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "AUT2025",
-      "course": "CSS 301",
-      "courseTitle": "TECHNICAL WRITING",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "AUT2025",
-      "course": "CSS 301",
-      "courseTitle": "TECHNICAL WRITING",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "AUT2025",
-      "course": "CSS 301",
-      "courseTitle": "TECHNICAL WRITING",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Retik,Arkady"
     },
     {
       "campus": "B",
@@ -13112,7 +13082,7 @@
       "course": "CSS 301",
       "courseTitle": "TECHNICAL WRITING",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Anderson,Laurie"
     },
     {
       "campus": "B",
@@ -13121,18 +13091,8 @@
       "term": "AUT2025",
       "course": "CSS 301",
       "courseTitle": "TECHNICAL WRITING",
-      "section": "E",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "AUT2025",
-      "course": "CSS 301",
-      "courseTitle": "TECHNICAL WRITING",
-      "section": "F",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Dailey,Dharma"
     },
     {
       "campus": "B",
@@ -13142,7 +13102,47 @@
       "course": "CSS 301",
       "courseTitle": "TECHNICAL WRITING",
       "section": "G",
-      "instructor": "TBA"
+      "instructor": "Dailey,Dharma"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "AUT2025",
+      "course": "CSS 301",
+      "courseTitle": "TECHNICAL WRITING",
+      "section": "A",
+      "instructor": "Kool,Nancy L."
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "AUT2025",
+      "course": "CSS 301",
+      "courseTitle": "TECHNICAL WRITING",
+      "section": "C",
+      "instructor": "Rubin,Zak"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "AUT2025",
+      "course": "CSS 301",
+      "courseTitle": "TECHNICAL WRITING",
+      "section": "E",
+      "instructor": "Rubin,Zak"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "AUT2025",
+      "course": "CSS 301",
+      "courseTitle": "TECHNICAL WRITING",
+      "section": "F",
+      "instructor": "Shaw,Carol A"
     },
     {
       "campus": "B",
@@ -13152,7 +13152,7 @@
       "course": "CSS 310",
       "courseTitle": "IA & CYBERSECURITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dupuis,Marc J."
     },
     {
       "campus": "B",
@@ -13162,7 +13162,7 @@
       "course": "CSS 320",
       "courseTitle": "DIGITAL FORENSICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Phillips,Chris"
     },
     {
       "campus": "B",
@@ -13172,17 +13172,7 @@
       "course": "CSS 340",
       "courseTitle": "APPL ALGORITHMICS",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "AUT2025",
-      "course": "CSS 342",
-      "courseTitle": "DATA, ALG, MATH I",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kim,Wooyoung"
     },
     {
       "campus": "B",
@@ -13192,7 +13182,7 @@
       "course": "CSS 342",
       "courseTitle": "DATA, ALG, MATH I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Arian,Eyal"
     },
     {
       "campus": "B",
@@ -13202,7 +13192,17 @@
       "course": "CSS 342",
       "courseTitle": "DATA, ALG, MATH I",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Awad,Ahmed"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "AUT2025",
+      "course": "CSS 342",
+      "courseTitle": "DATA, ALG, MATH I",
+      "section": "A",
+      "instructor": "Ayhan,Murat Seckin"
     },
     {
       "campus": "B",
@@ -13212,7 +13212,7 @@
       "course": "CSS 342",
       "courseTitle": "DATA, ALG, MATH I",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Dimpsey,Robert"
     },
     {
       "campus": "B",
@@ -13222,7 +13222,7 @@
       "course": "CSS 342",
       "courseTitle": "DATA, ALG, MATH I",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Lagesse,Brent J"
     },
     {
       "campus": "B",
@@ -13232,7 +13232,7 @@
       "course": "CSS 343",
       "courseTitle": "DATA, ALG, MATH II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pisan,Yusuf"
     },
     {
       "campus": "B",
@@ -13242,7 +13242,7 @@
       "course": "CSS 343",
       "courseTitle": "DATA, ALG, MATH II",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Pisan,Yusuf"
     },
     {
       "campus": "B",
@@ -13252,7 +13252,7 @@
       "course": "CSS 350",
       "courseTitle": "MGT PRINCIPLES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pyle,Douglas M."
     },
     {
       "campus": "B",
@@ -13262,17 +13262,7 @@
       "course": "CSS 350",
       "courseTitle": "MGT PRINCIPLES",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "AUT2025",
-      "course": "CSS 360",
-      "courseTitle": "SOFTWARE ENGR",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Wang,J"
     },
     {
       "campus": "B",
@@ -13282,7 +13272,17 @@
       "course": "CSS 360",
       "courseTitle": "SOFTWARE ENGR",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Champion,Kaylea"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "AUT2025",
+      "course": "CSS 360",
+      "courseTitle": "SOFTWARE ENGR",
+      "section": "A",
+      "instructor": "Kim,Jeffrey"
     },
     {
       "campus": "B",
@@ -13292,7 +13292,7 @@
       "course": "CSS 360",
       "courseTitle": "SOFTWARE ENGR",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Madasu,Lakshmi"
     },
     {
       "campus": "B",
@@ -13302,7 +13302,7 @@
       "course": "CSS 360",
       "courseTitle": "SOFTWARE ENGR",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Retik,Arkady"
     },
     {
       "campus": "B",
@@ -13312,7 +13312,7 @@
       "course": "CSS 360",
       "courseTitle": "SOFTWARE ENGR",
       "section": "E",
-      "instructor": "TBA"
+      "instructor": "Retik,Arkady"
     },
     {
       "campus": "B",
@@ -13322,7 +13322,7 @@
       "course": "CSS 360",
       "courseTitle": "SOFTWARE ENGR",
       "section": "F",
-      "instructor": "TBA"
+      "instructor": "Stride,Jeff"
     },
     {
       "campus": "B",
@@ -13332,7 +13332,7 @@
       "course": "CSS 370",
       "courseTitle": "ANALYSIS AND DESIGN",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chini,Morteza"
     },
     {
       "campus": "B",
@@ -13342,7 +13342,7 @@
       "course": "CSS 370",
       "courseTitle": "ANALYSIS AND DESIGN",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Phillips,Chris"
     },
     {
       "campus": "B",
@@ -13352,7 +13352,7 @@
       "course": "CSS 371",
       "courseTitle": "BUSINESS OF TECH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Carr,Matt"
     },
     {
       "campus": "B",
@@ -13362,7 +13362,7 @@
       "course": "CSS 385",
       "courseTitle": "INTRO TO GAME DEV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ong,Hansel"
     },
     {
       "campus": "B",
@@ -13372,7 +13372,7 @@
       "course": "CSS 390",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zade,Himanshu"
     },
     {
       "campus": "B",
@@ -13392,7 +13392,7 @@
       "course": "CSS 411",
       "courseTitle": "CMPT & PUB POLICY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kool,Nancy L."
     },
     {
       "campus": "B",
@@ -13402,7 +13402,7 @@
       "course": "CSS 422",
       "courseTitle": "HARDWARE & COMP ORG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Awad,Ahmed"
     },
     {
       "campus": "B",
@@ -13412,7 +13412,7 @@
       "course": "CSS 422",
       "courseTitle": "HARDWARE & COMP ORG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Peng,Yang"
     },
     {
       "campus": "B",
@@ -13422,17 +13422,7 @@
       "course": "CSS 427",
       "courseTitle": "EMBEDDED SYSTEMS",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "AUT2025",
-      "course": "CSS 430",
-      "courseTitle": "OPERATING SYSTEMS",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Folsom,Tyler"
     },
     {
       "campus": "B",
@@ -13442,7 +13432,17 @@
       "course": "CSS 430",
       "courseTitle": "OPERATING SYSTEMS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Fukuda,Munehiro"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "AUT2025",
+      "course": "CSS 430",
+      "courseTitle": "OPERATING SYSTEMS",
+      "section": "A",
+      "instructor": "Pisan,Yusuf"
     },
     {
       "campus": "B",
@@ -13452,7 +13452,7 @@
       "course": "CSS 431",
       "courseTitle": "NETWORK ARCHT & MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lidster,William"
     },
     {
       "campus": "B",
@@ -13462,7 +13462,7 @@
       "course": "CSS 432",
       "courseTitle": "NTWRK DSGN & PRGRMNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lagesse,Brent J"
     },
     {
       "campus": "B",
@@ -13472,7 +13472,7 @@
       "course": "CSS 434",
       "courseTitle": "PARA DISTR COMPUTING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Joshi,Sanjay"
     },
     {
       "campus": "B",
@@ -13482,7 +13482,7 @@
       "course": "CSS 451",
       "courseTitle": "3-D COMPUTER GRAPHIC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sung,Kelvin"
     },
     {
       "campus": "B",
@@ -13492,7 +13492,7 @@
       "course": "CSS 458",
       "courseTitle": "COMPUTER SIMULATION",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lin,Johnny"
     },
     {
       "campus": "B",
@@ -13502,7 +13502,7 @@
       "course": "CSS 474",
       "courseTitle": "PRODUCT DEVEL LAB",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gonzalez,Alan"
     },
     {
       "campus": "B",
@@ -13512,7 +13512,7 @@
       "course": "CSS 475",
       "courseTitle": "DATABASE SYSTEMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Parsons,Erika"
     },
     {
       "campus": "B",
@@ -13522,7 +13522,7 @@
       "course": "CSS 478",
       "courseTitle": "USABILITY ENGR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dailey,Dharma"
     },
     {
       "campus": "B",
@@ -13532,7 +13532,7 @@
       "course": "CSS 481",
       "courseTitle": "WEB PROG & APPL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zade,Himanshu"
     },
     {
       "campus": "B",
@@ -13542,7 +13542,7 @@
       "course": "CSS 486",
       "courseTitle": "MACHINE INTELLIGENCE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Si,Dong"
     },
     {
       "campus": "B",
@@ -13552,7 +13552,7 @@
       "course": "CSS 490",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Peng,Yang"
     },
     {
       "campus": "B",
@@ -13702,7 +13702,7 @@
       "course": "CSS 101",
       "courseTitle": "DIGITAL THINKING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stiber,Michael"
     },
     {
       "campus": "B",
@@ -13712,7 +13712,7 @@
       "course": "CSS 107",
       "courseTitle": "PROG-ANIMATED STORY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Oliver,Dawn-Marie"
     },
     {
       "campus": "B",
@@ -13722,7 +13722,7 @@
       "course": "CSS 110",
       "courseTitle": "INTRO CYBERSECURITY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "MORGAN,JONATHAN"
     },
     {
       "campus": "B",
@@ -13732,7 +13732,7 @@
       "course": "CSS 112",
       "courseTitle": "INTRO PROG SCI APP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Melnikoff,Steven Oscar"
     },
     {
       "campus": "B",
@@ -13742,7 +13742,7 @@
       "course": "CSS 133",
       "courseTitle": "COMPT PROG ENGR II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Ewing,Katie"
     },
     {
       "campus": "B",
@@ -13752,7 +13752,7 @@
       "course": "CSS 142",
       "courseTitle": "CMPT PROG I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Chini,Morteza"
     },
     {
       "campus": "B",
@@ -13762,7 +13762,7 @@
       "course": "CSS 142",
       "courseTitle": "CMPT PROG I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Oliver,Dawn-Marie"
     },
     {
       "campus": "B",
@@ -13772,7 +13772,7 @@
       "course": "CSS 142",
       "courseTitle": "CMPT PROG I",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Oliver,Dawn-Marie"
     },
     {
       "campus": "B",
@@ -13782,17 +13782,7 @@
       "course": "CSS 143",
       "courseTitle": "CMPT PROG II",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "WIN2026",
-      "course": "CSS 143",
-      "courseTitle": "CMPT PROG II",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "NIXON,DAVID"
     },
     {
       "campus": "B",
@@ -13802,7 +13792,17 @@
       "course": "CSS 143",
       "courseTitle": "CMPT PROG II",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "NIXON,DAVID"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "WIN2026",
+      "course": "CSS 143",
+      "courseTitle": "CMPT PROG II",
+      "section": "B",
+      "instructor": "Stride,Jeff"
     },
     {
       "campus": "B",
@@ -13812,7 +13812,7 @@
       "course": "CSS 143",
       "courseTitle": "CMPT PROG II",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Stride,Jeff"
     },
     {
       "campus": "B",
@@ -13822,7 +13822,7 @@
       "course": "CSS 173",
       "courseTitle": "PROGRAM THEORY/APP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zade,Himanshu"
     },
     {
       "campus": "B",
@@ -13872,7 +13872,7 @@
       "course": "CSS 211",
       "courseTitle": "COMPUTERS & SOCIETY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dailey,Dharma"
     },
     {
       "campus": "B",
@@ -13882,7 +13882,7 @@
       "course": "CSS 211",
       "courseTitle": "COMPUTERS & SOCIETY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Kool,Nancy L."
     },
     {
       "campus": "B",
@@ -13892,7 +13892,7 @@
       "course": "CSS 290",
       "courseTitle": "TOPICS IN COMPUTING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Folsom,Tyler"
     },
     {
       "campus": "B",
@@ -13902,7 +13902,7 @@
       "course": "CSS 301",
       "courseTitle": "TECHNICAL WRITING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kool,Nancy L."
     },
     {
       "campus": "B",
@@ -13912,7 +13912,7 @@
       "course": "CSS 301",
       "courseTitle": "TECHNICAL WRITING",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Rubin,Zak"
     },
     {
       "campus": "B",
@@ -13922,7 +13922,7 @@
       "course": "CSS 301",
       "courseTitle": "TECHNICAL WRITING",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Shaw,Carol A"
     },
     {
       "campus": "B",
@@ -13932,17 +13932,7 @@
       "course": "CSS 301",
       "courseTitle": "TECHNICAL WRITING",
       "section": "D",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "WIN2026",
-      "course": "CSS 310",
-      "courseTitle": "IA & CYBERSECURITY",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Shaw,Carol A"
     },
     {
       "campus": "B",
@@ -13952,7 +13942,17 @@
       "course": "CSS 310",
       "courseTitle": "IA & CYBERSECURITY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Awad,Ahmed"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "WIN2026",
+      "course": "CSS 310",
+      "courseTitle": "IA & CYBERSECURITY",
+      "section": "A",
+      "instructor": "Chini,Morteza"
     },
     {
       "campus": "B",
@@ -13962,7 +13962,7 @@
       "course": "CSS 315",
       "courseTitle": "CYBER ETHICS & LAW",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Joshi,Sanjay"
     },
     {
       "campus": "B",
@@ -13972,7 +13972,7 @@
       "course": "CSS 337",
       "courseTitle": "SECURE SYSTEMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "THAMILARASU,GEETHA"
     },
     {
       "campus": "B",
@@ -13982,17 +13982,7 @@
       "course": "CSS 340",
       "courseTitle": "APPL ALGORITHMICS",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "WIN2026",
-      "course": "CSS 342",
-      "courseTitle": "DATA, ALG, MATH I",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Arian,Eyal"
     },
     {
       "campus": "B",
@@ -14002,7 +13992,17 @@
       "course": "CSS 342",
       "courseTitle": "DATA, ALG, MATH I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Ayhan,Murat Seckin"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "WIN2026",
+      "course": "CSS 342",
+      "courseTitle": "DATA, ALG, MATH I",
+      "section": "A",
+      "instructor": "Olson,Clark"
     },
     {
       "campus": "B",
@@ -14012,7 +14012,7 @@
       "course": "CSS 342",
       "courseTitle": "DATA, ALG, MATH I",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Wang,J"
     },
     {
       "campus": "B",
@@ -14022,27 +14022,7 @@
       "course": "CSS 343",
       "courseTitle": "DATA, ALG, MATH II",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "WIN2026",
-      "course": "CSS 343",
-      "courseTitle": "DATA, ALG, MATH II",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "WIN2026",
-      "course": "CSS 343",
-      "courseTitle": "DATA, ALG, MATH II",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Kartha,Neelakantan"
     },
     {
       "campus": "B",
@@ -14052,7 +14032,37 @@
       "course": "CSS 343",
       "courseTitle": "DATA, ALG, MATH II",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Pisan,Yusuf"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "WIN2026",
+      "course": "CSS 343",
+      "courseTitle": "DATA, ALG, MATH II",
+      "section": "B",
+      "instructor": "Reel,Eric"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "WIN2026",
+      "course": "CSS 343",
+      "courseTitle": "DATA, ALG, MATH II",
+      "section": "C",
+      "instructor": "Reel,Eric"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "WIN2026",
+      "course": "CSS 350",
+      "courseTitle": "MGT PRINCIPLES",
+      "section": "B",
+      "instructor": "Champion,Kaylea"
     },
     {
       "campus": "B",
@@ -14062,17 +14072,7 @@
       "course": "CSS 350",
       "courseTitle": "MGT PRINCIPLES",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "WIN2026",
-      "course": "CSS 350",
-      "courseTitle": "MGT PRINCIPLES",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Champion,Mia"
     },
     {
       "campus": "B",
@@ -14082,7 +14082,7 @@
       "course": "CSS 350",
       "courseTitle": "MGT PRINCIPLES",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Rubin,Zak"
     },
     {
       "campus": "B",
@@ -14092,17 +14092,7 @@
       "course": "CSS 360",
       "courseTitle": "SOFTWARE ENGR",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "WIN2026",
-      "course": "CSS 360",
-      "courseTitle": "SOFTWARE ENGR",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Champion,Kaylea"
     },
     {
       "campus": "B",
@@ -14112,17 +14102,17 @@
       "course": "CSS 360",
       "courseTitle": "SOFTWARE ENGR",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Ewing,Katie"
     },
     {
       "campus": "B",
       "dept": "css",
       "deptName": "Computing and Software Systems",
       "term": "WIN2026",
-      "course": "CSS 370",
-      "courseTitle": "ANALYSIS AND DESIGN",
-      "section": "A",
-      "instructor": "TBA"
+      "course": "CSS 360",
+      "courseTitle": "SOFTWARE ENGR",
+      "section": "C",
+      "instructor": "Kim,Jeffrey"
     },
     {
       "campus": "B",
@@ -14132,7 +14122,17 @@
       "course": "CSS 370",
       "courseTitle": "ANALYSIS AND DESIGN",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Chini,Morteza"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "WIN2026",
+      "course": "CSS 370",
+      "courseTitle": "ANALYSIS AND DESIGN",
+      "section": "A",
+      "instructor": "Zade,Himanshu"
     },
     {
       "campus": "B",
@@ -14142,7 +14142,7 @@
       "course": "CSS 371",
       "courseTitle": "BUSINESS OF TECH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Retik,Arkady"
     },
     {
       "campus": "B",
@@ -14152,7 +14152,7 @@
       "course": "CSS 382",
       "courseTitle": "INTRO TO AI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Champion,Mia"
     },
     {
       "campus": "B",
@@ -14172,7 +14172,7 @@
       "course": "CSS 415",
       "courseTitle": "TOPICS IN CYERSEC",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lidster,William"
     },
     {
       "campus": "B",
@@ -14182,7 +14182,7 @@
       "course": "CSS 421",
       "courseTitle": "CMPT HW & O/S",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kim,Jeffrey"
     },
     {
       "campus": "B",
@@ -14192,7 +14192,7 @@
       "course": "CSS 422",
       "courseTitle": "HARDWARE & COMP ORG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fukuda,Munehiro"
     },
     {
       "campus": "B",
@@ -14202,27 +14202,7 @@
       "course": "CSS 422",
       "courseTitle": "HARDWARE & COMP ORG",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "WIN2026",
-      "course": "CSS 430",
-      "courseTitle": "OPERATING SYSTEMS",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "WIN2026",
-      "course": "CSS 430",
-      "courseTitle": "OPERATING SYSTEMS",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Joshi,Sanjay"
     },
     {
       "campus": "B",
@@ -14232,7 +14212,27 @@
       "course": "CSS 430",
       "courseTitle": "OPERATING SYSTEMS",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "DAME,STEVE"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "WIN2026",
+      "course": "CSS 430",
+      "courseTitle": "OPERATING SYSTEMS",
+      "section": "A",
+      "instructor": "Pisan,Yusuf"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "WIN2026",
+      "course": "CSS 430",
+      "courseTitle": "OPERATING SYSTEMS",
+      "section": "B",
+      "instructor": "Pisan,Yusuf"
     },
     {
       "campus": "B",
@@ -14242,7 +14242,7 @@
       "course": "CSS 432",
       "courseTitle": "NTWRK DSGN & PRGRMNG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Atov,Irena"
     },
     {
       "campus": "B",
@@ -14252,7 +14252,7 @@
       "course": "CSS 436",
       "courseTitle": "CLOUD COMPUTING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "DAME,STEVE"
     },
     {
       "campus": "B",
@@ -14262,17 +14262,7 @@
       "course": "CSS 444",
       "courseTitle": "ANALYZING BIASES",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "WIN2026",
-      "course": "CSS 475",
-      "courseTitle": "DATABASE SYSTEMS",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zade,Himanshu"
     },
     {
       "campus": "B",
@@ -14282,7 +14272,17 @@
       "course": "CSS 475",
       "courseTitle": "DATABASE SYSTEMS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Bantwal,Praveen"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "WIN2026",
+      "course": "CSS 475",
+      "courseTitle": "DATABASE SYSTEMS",
+      "section": "A",
+      "instructor": "Chenault,John"
     },
     {
       "campus": "B",
@@ -14292,7 +14292,7 @@
       "course": "CSS 478",
       "courseTitle": "USABILITY ENGR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dailey,Dharma"
     },
     {
       "campus": "B",
@@ -14302,7 +14302,7 @@
       "course": "CSS 481",
       "courseTitle": "WEB PROG & APPL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Uong,Ethan"
     },
     {
       "campus": "B",
@@ -14312,7 +14312,7 @@
       "course": "CSS 483",
       "courseTitle": "BIOINFORMATICS ALG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kim,Wooyoung"
     },
     {
       "campus": "B",
@@ -14322,7 +14322,7 @@
       "course": "CSS 485",
       "courseTitle": "ARTIF NEURAL NETS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rahman,Muntasir Raihan"
     },
     {
       "campus": "B",
@@ -14332,7 +14332,7 @@
       "course": "CSS 490",
       "courseTitle": "SPECIAL TOPICS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Dupuis,Marc J."
     },
     {
       "campus": "B",
@@ -14342,7 +14342,7 @@
       "course": "CSS 490",
       "courseTitle": "SPECIAL TOPICS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Retik,Arkady"
     },
     {
       "campus": "B",
@@ -14522,7 +14522,7 @@
       "course": "CSS 101",
       "courseTitle": "DIGITAL THINKING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rajanna,Madhu"
     },
     {
       "campus": "B",
@@ -14532,7 +14532,7 @@
       "course": "CSS 107",
       "courseTitle": "PROG-ANIMATED STORY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "NIXON,DAVID"
     },
     {
       "campus": "B",
@@ -14542,7 +14542,7 @@
       "course": "CSS 107",
       "courseTitle": "PROG-ANIMATED STORY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Oliver,Dawn-Marie"
     },
     {
       "campus": "B",
@@ -14552,27 +14552,7 @@
       "course": "CSS 112",
       "courseTitle": "INTRO PROG SCI APP",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "SPR2026",
-      "course": "CSS 142",
-      "courseTitle": "CMPT PROG I",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "SPR2026",
-      "course": "CSS 142",
-      "courseTitle": "CMPT PROG I",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Lin,Johnny"
     },
     {
       "campus": "B",
@@ -14582,27 +14562,27 @@
       "course": "CSS 142",
       "courseTitle": "CMPT PROG I",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Lin,Johnny"
     },
     {
       "campus": "B",
       "dept": "css",
       "deptName": "Computing and Software Systems",
       "term": "SPR2026",
-      "course": "CSS 143",
-      "courseTitle": "CMPT PROG II",
+      "course": "CSS 142",
+      "courseTitle": "CMPT PROG I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stride,Jeff"
     },
     {
       "campus": "B",
       "dept": "css",
       "deptName": "Computing and Software Systems",
       "term": "SPR2026",
-      "course": "CSS 143",
-      "courseTitle": "CMPT PROG II",
+      "course": "CSS 142",
+      "courseTitle": "CMPT PROG I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Stride,Jeff"
     },
     {
       "campus": "B",
@@ -14612,7 +14592,27 @@
       "course": "CSS 143",
       "courseTitle": "CMPT PROG II",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Ewing,Katie"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "SPR2026",
+      "course": "CSS 143",
+      "courseTitle": "CMPT PROG II",
+      "section": "A",
+      "instructor": "NIXON,DAVID"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "SPR2026",
+      "course": "CSS 143",
+      "courseTitle": "CMPT PROG II",
+      "section": "B",
+      "instructor": "Ong,Hansel"
     },
     {
       "campus": "B",
@@ -14662,7 +14662,7 @@
       "course": "CSS 211",
       "courseTitle": "COMPUTERS & SOCIETY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Anderson,Laurie"
     },
     {
       "campus": "B",
@@ -14672,7 +14672,7 @@
       "course": "CSS 225",
       "courseTitle": "PHYS/CHEM OF COMP",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Stiber,Michael"
     },
     {
       "campus": "B",
@@ -14682,7 +14682,7 @@
       "course": "CSS 290",
       "courseTitle": "TOPICS IN COMPUTING",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gruenbaum,Peter E"
     },
     {
       "campus": "B",
@@ -14692,17 +14692,7 @@
       "course": "CSS 295",
       "courseTitle": "K12 COMPUTING EDU",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "SPR2026",
-      "course": "CSS 301",
-      "courseTitle": "TECHNICAL WRITING",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Retik,Arkady"
     },
     {
       "campus": "B",
@@ -14712,7 +14702,17 @@
       "course": "CSS 301",
       "courseTitle": "TECHNICAL WRITING",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Anderson,Laurie"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "SPR2026",
+      "course": "CSS 301",
+      "courseTitle": "TECHNICAL WRITING",
+      "section": "A",
+      "instructor": "Kool,Nancy L."
     },
     {
       "campus": "B",
@@ -14722,17 +14722,7 @@
       "course": "CSS 301",
       "courseTitle": "TECHNICAL WRITING",
       "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "SPR2026",
-      "course": "CSS 310",
-      "courseTitle": "IA & CYBERSECURITY",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rubin,Zak"
     },
     {
       "campus": "B",
@@ -14742,7 +14732,17 @@
       "course": "CSS 310",
       "courseTitle": "IA & CYBERSECURITY",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Chini,Morteza"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "SPR2026",
+      "course": "CSS 310",
+      "courseTitle": "IA & CYBERSECURITY",
+      "section": "A",
+      "instructor": "Joshi,Sanjay"
     },
     {
       "campus": "B",
@@ -14752,17 +14752,7 @@
       "course": "CSS 337",
       "courseTitle": "SECURE SYSTEMS",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "SPR2026",
-      "course": "CSS 342",
-      "courseTitle": "DATA, ALG, MATH I",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "THAMILARASU,GEETHA"
     },
     {
       "campus": "B",
@@ -14772,7 +14762,17 @@
       "course": "CSS 342",
       "courseTitle": "DATA, ALG, MATH I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Ayhan,Murat Seckin"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "SPR2026",
+      "course": "CSS 342",
+      "courseTitle": "DATA, ALG, MATH I",
+      "section": "A",
+      "instructor": "Wang,J"
     },
     {
       "campus": "B",
@@ -14782,17 +14782,7 @@
       "course": "CSS 343",
       "courseTitle": "DATA, ALG, MATH II",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "SPR2026",
-      "course": "CSS 343",
-      "courseTitle": "DATA, ALG, MATH II",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Ayhan,Murat Seckin"
     },
     {
       "campus": "B",
@@ -14802,7 +14792,17 @@
       "course": "CSS 343",
       "courseTitle": "DATA, ALG, MATH II",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Kim,Wooyoung"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "SPR2026",
+      "course": "CSS 343",
+      "courseTitle": "DATA, ALG, MATH II",
+      "section": "B",
+      "instructor": "Reel,Eric"
     },
     {
       "campus": "B",
@@ -14812,7 +14812,7 @@
       "course": "CSS 350",
       "courseTitle": "MGT PRINCIPLES",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Retik,Arkady"
     },
     {
       "campus": "B",
@@ -14822,7 +14822,7 @@
       "course": "CSS 350",
       "courseTitle": "MGT PRINCIPLES",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Retik,Arkady"
     },
     {
       "campus": "B",
@@ -14832,7 +14832,7 @@
       "course": "CSS 360",
       "courseTitle": "SOFTWARE ENGR",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Rubin,Zak"
     },
     {
       "campus": "B",
@@ -14842,7 +14842,7 @@
       "course": "CSS 360",
       "courseTitle": "SOFTWARE ENGR",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Rubin,Zak"
     },
     {
       "campus": "B",
@@ -14852,7 +14852,27 @@
       "course": "CSS 360",
       "courseTitle": "SOFTWARE ENGR",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Wang,J"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "SPR2026",
+      "course": "CSS 370",
+      "courseTitle": "ANALYSIS AND DESIGN",
+      "section": "C",
+      "instructor": "Chini,Morteza"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "SPR2026",
+      "course": "CSS 370",
+      "courseTitle": "ANALYSIS AND DESIGN",
+      "section": "B",
+      "instructor": "Kumar,Dharmesh"
     },
     {
       "campus": "B",
@@ -14862,27 +14882,7 @@
       "course": "CSS 370",
       "courseTitle": "ANALYSIS AND DESIGN",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "SPR2026",
-      "course": "CSS 370",
-      "courseTitle": "ANALYSIS AND DESIGN",
-      "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "SPR2026",
-      "course": "CSS 370",
-      "courseTitle": "ANALYSIS AND DESIGN",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Zade,Himanshu"
     },
     {
       "campus": "B",
@@ -14892,7 +14892,7 @@
       "course": "CSS 371",
       "courseTitle": "BUSINESS OF TECH",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Shaw,Carol A"
     },
     {
       "campus": "B",
@@ -14902,7 +14902,7 @@
       "course": "CSS 382",
       "courseTitle": "INTRO TO AI",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Pisan,Yusuf"
     },
     {
       "campus": "B",
@@ -14922,7 +14922,7 @@
       "course": "CSS 385",
       "courseTitle": "INTRO TO GAME DEV",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Reel,Eric"
     },
     {
       "campus": "B",
@@ -14942,7 +14942,7 @@
       "course": "CSS 411",
       "courseTitle": "CMPT & PUB POLICY",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kool,Nancy L."
     },
     {
       "campus": "B",
@@ -14952,7 +14952,7 @@
       "course": "CSS 421",
       "courseTitle": "CMPT HW & O/S",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kim,Jeffrey"
     },
     {
       "campus": "B",
@@ -14962,7 +14962,7 @@
       "course": "CSS 422",
       "courseTitle": "HARDWARE & COMP ORG",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Awad,Ahmed"
     },
     {
       "campus": "B",
@@ -14972,7 +14972,7 @@
       "course": "CSS 422",
       "courseTitle": "HARDWARE & COMP ORG",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Fukuda,Munehiro"
     },
     {
       "campus": "B",
@@ -14982,7 +14982,7 @@
       "course": "CSS 427",
       "courseTitle": "EMBEDDED SYSTEMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Peng,Yang"
     },
     {
       "campus": "B",
@@ -14992,7 +14992,7 @@
       "course": "CSS 430",
       "courseTitle": "OPERATING SYSTEMS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Parsons,Erika"
     },
     {
       "campus": "B",
@@ -15002,7 +15002,7 @@
       "course": "CSS 430",
       "courseTitle": "OPERATING SYSTEMS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Parsons,Erika"
     },
     {
       "campus": "B",
@@ -15012,7 +15012,7 @@
       "course": "CSS 431",
       "courseTitle": "NETWORK ARCHT & MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lidster,William"
     },
     {
       "campus": "B",
@@ -15022,7 +15022,7 @@
       "course": "CSS 449",
       "courseTitle": "DSGN & ANLYS ALGRTHM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Olson,Clark"
     },
     {
       "campus": "B",
@@ -15032,7 +15032,7 @@
       "course": "CSS 461",
       "courseTitle": "SOFTWARE PROJ MGMT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Retik,Arkady"
     },
     {
       "campus": "B",
@@ -15042,7 +15042,7 @@
       "course": "CSS 473",
       "courseTitle": "ENTREPRENEURSHP SEM",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Fleming,Brandon"
     },
     {
       "campus": "B",
@@ -15052,17 +15052,7 @@
       "course": "CSS 474",
       "courseTitle": "PRODUCT DEVEL LAB",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "SPR2026",
-      "course": "CSS 475",
-      "courseTitle": "DATABASE SYSTEMS",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gonzalez,Alan"
     },
     {
       "campus": "B",
@@ -15072,7 +15062,17 @@
       "course": "CSS 475",
       "courseTitle": "DATABASE SYSTEMS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Chenault,John"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "SPR2026",
+      "course": "CSS 475",
+      "courseTitle": "DATABASE SYSTEMS",
+      "section": "A",
+      "instructor": "Zade,Himanshu"
     },
     {
       "campus": "B",
@@ -15082,7 +15082,7 @@
       "course": "CSS 480",
       "courseTitle": "HUMAN-COMP INTERACT",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Zolyomi,Annuska"
     },
     {
       "campus": "B",
@@ -15092,7 +15092,7 @@
       "course": "CSS 481",
       "courseTitle": "WEB PROG & APPL",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Uong,Ethan"
     },
     {
       "campus": "B",
@@ -15102,17 +15102,7 @@
       "course": "CSS 487",
       "courseTitle": "COMPUTER VISION",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "css",
-      "deptName": "Computing and Software Systems",
-      "term": "SPR2026",
-      "course": "CSS 490",
-      "courseTitle": "SPECIAL TOPICS",
-      "section": "A",
-      "instructor": "TBA"
+      "instructor": "Olson,Clark"
     },
     {
       "campus": "B",
@@ -15122,7 +15112,17 @@
       "course": "CSS 490",
       "courseTitle": "SPECIAL TOPICS",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Champion,Kaylea"
+    },
+    {
+      "campus": "B",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "SPR2026",
+      "course": "CSS 490",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Stride,Jeff"
     },
     {
       "campus": "B",

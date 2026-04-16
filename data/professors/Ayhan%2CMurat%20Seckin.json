@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Ayhan%2CMurat%20Seckin",
+  "professor": "Ayhan,Murat Seckin",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "SPR2026",
+      "course": "CSS 343",
+      "courseTitle": "DATA, ALG, MATH II",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "SPR2026",
+      "course": "CSS 342",
+      "courseTitle": "DATA, ALG, MATH I",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "WIN2026",
+      "course": "CSS 342",
+      "courseTitle": "DATA, ALG, MATH I",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "AUT2025",
+      "course": "CSS 342",
+      "courseTitle": "DATA, ALG, MATH I",
+      "section": "A"
+    }
+  ]
+}

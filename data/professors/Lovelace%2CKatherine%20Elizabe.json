@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Lovelace%2CKatherine%20Elizabe",
+  "professor": "Lovelace,Katherine Elizabe",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SPR2026",
+      "course": "STAT 302",
+      "courseTitle": "STAT COMPUTING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "WIN2026",
+      "course": "STAT 302",
+      "courseTitle": "STAT COMPUTING",
+      "section": "A"
+    }
+  ]
+}

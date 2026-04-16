@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Kapp%2CS",
+  "professor": "Kapp,S",
+  "recordCount": 5,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "rhbpo",
+      "deptName": "Prosthetics and Orthotics",
+      "term": "SPR2022",
+      "course": "RHB PO 529",
+      "courseTitle": "LL PROSTHETICS III",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "rhbpo",
+      "deptName": "Prosthetics and Orthotics",
+      "term": "SPR2022",
+      "course": "RHB PO 528",
+      "courseTitle": "LLP III THEORY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "rhbpo",
+      "deptName": "Prosthetics and Orthotics",
+      "term": "SPR2021",
+      "course": "RHB PO 529",
+      "courseTitle": "LL PROSTHETICS III",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "rhbpo",
+      "deptName": "Prosthetics and Orthotics",
+      "term": "SPR2021",
+      "course": "RHB PO 528",
+      "courseTitle": "LLP III THEORY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "rhbpo",
+      "deptName": "Prosthetics and Orthotics",
+      "term": "AUT2020",
+      "course": "RHB PO 525",
+      "courseTitle": "LL PROSTHETICS II",
+      "section": "A"
+    }
+  ]
+}

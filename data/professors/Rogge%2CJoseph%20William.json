@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "Rogge%2CJoseph%20William",
+  "professor": "Rogge,Joseph William",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2025",
+      "course": "MATH 444",
+      "courseTitle": "GEOMETRIES I",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2024",
+      "course": "MATH 208",
+      "courseTitle": "MATRIX ALGEBRA",
+      "section": "C"
+    }
+  ]
+}

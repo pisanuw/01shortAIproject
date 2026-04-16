@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-04-16T02:57:20Z",
+  "id": "Leblanc%2CDavid%20C",
+  "professor": "Leblanc,David C",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "AUT2024",
+      "course": "CSS 310",
+      "courseTitle": "IA & CYBERSECURITY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "WIN2023",
+      "course": "CSS 337",
+      "courseTitle": "SECURE SYSTEMS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "AUT2020",
+      "course": "CSS 142",
+      "courseTitle": "CMPT PROG I",
+      "section": "B"
+    }
+  ]
+}

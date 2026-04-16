@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:24:45Z",
+  "generatedAt": "2026-04-16T02:57:08Z",
   "campus": "B",
   "dept": "cssskl",
   "deptName": "Computing and Software Systems Skills",
@@ -82,7 +82,7 @@
       "course": "CSSSKL 342",
       "courseTitle": "PROG W/OO LANGS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sung,Kelvin"
     },
     {
       "campus": "B",
@@ -481,18 +481,8 @@
       "term": "SPR2022",
       "course": "CSSSKL 143",
       "courseTitle": "CMPT PROG SKILLS II",
-      "section": "A",
-      "instructor": "Behdarvandian,Prarin"
-    },
-    {
-      "campus": "B",
-      "dept": "cssskl",
-      "deptName": "Computing and Software Systems Skills",
-      "term": "SPR2022",
-      "course": "CSSSKL 143",
-      "courseTitle": "CMPT PROG SKILLS II",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Bandaru,Venkata Ramani Sri"
     },
     {
       "campus": "B",
@@ -502,7 +492,17 @@
       "course": "CSSSKL 143",
       "courseTitle": "CMPT PROG SKILLS II",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Bandaru,Venkata Ramani Sri"
+    },
+    {
+      "campus": "B",
+      "dept": "cssskl",
+      "deptName": "Computing and Software Systems Skills",
+      "term": "SPR2022",
+      "course": "CSSSKL 143",
+      "courseTitle": "CMPT PROG SKILLS II",
+      "section": "A",
+      "instructor": "Behdarvandian,Prarin"
     },
     {
       "campus": "B",
@@ -1412,7 +1412,7 @@
       "course": "CSSSKL 123",
       "courseTitle": "PROG DATA SCI SKILLS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lin,Johnny"
     },
     {
       "campus": "B",
@@ -1422,27 +1422,7 @@
       "course": "CSSSKL 132",
       "courseTitle": "PROG SKILLS ENGR I",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "cssskl",
-      "deptName": "Computing and Software Systems Skills",
-      "term": "AUT2025",
-      "course": "CSSSKL 142",
-      "courseTitle": "CMPT PROG SKILLS I",
-      "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "cssskl",
-      "deptName": "Computing and Software Systems Skills",
-      "term": "AUT2025",
-      "course": "CSSSKL 142",
-      "courseTitle": "CMPT PROG SKILLS I",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Best,Jahnu"
     },
     {
       "campus": "B",
@@ -1452,7 +1432,7 @@
       "course": "CSSSKL 142",
       "courseTitle": "CMPT PROG SKILLS I",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Best,Jahnu"
     },
     {
       "campus": "B",
@@ -1462,17 +1442,27 @@
       "course": "CSSSKL 142",
       "courseTitle": "CMPT PROG SKILLS I",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Calkins,Chandler Jay"
     },
     {
       "campus": "B",
       "dept": "cssskl",
       "deptName": "Computing and Software Systems Skills",
       "term": "AUT2025",
-      "course": "CSSSKL 143",
-      "courseTitle": "CMPT PROG SKILLS II",
+      "course": "CSSSKL 142",
+      "courseTitle": "CMPT PROG SKILLS I",
+      "section": "B",
+      "instructor": "Hood,Everett-Alan"
+    },
+    {
+      "campus": "B",
+      "dept": "cssskl",
+      "deptName": "Computing and Software Systems Skills",
+      "term": "AUT2025",
+      "course": "CSSSKL 142",
+      "courseTitle": "CMPT PROG SKILLS I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Kiran,Athresh"
     },
     {
       "campus": "B",
@@ -1482,7 +1472,17 @@
       "course": "CSSSKL 143",
       "courseTitle": "CMPT PROG SKILLS II",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Calkins,Chandler Jay"
+    },
+    {
+      "campus": "B",
+      "dept": "cssskl",
+      "deptName": "Computing and Software Systems Skills",
+      "term": "AUT2025",
+      "course": "CSSSKL 143",
+      "courseTitle": "CMPT PROG SKILLS II",
+      "section": "A",
+      "instructor": "Kiran,Athresh"
     },
     {
       "campus": "B",
@@ -1492,7 +1492,7 @@
       "course": "CSSSKL 342",
       "courseTitle": "PROG W/OO LANGS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sung,Kelvin"
     },
     {
       "campus": "B",
@@ -1502,7 +1502,7 @@
       "course": "CSSSKL 123",
       "courseTitle": "PROG DATA SCI SKILLS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Lin,Johnny"
     },
     {
       "campus": "B",
@@ -1512,7 +1512,7 @@
       "course": "CSSSKL 133",
       "courseTitle": "PROG SKILLS ENGR II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Best,Jahnu"
     },
     {
       "campus": "B",
@@ -1522,17 +1522,7 @@
       "course": "CSSSKL 142",
       "courseTitle": "CMPT PROG SKILLS I",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "cssskl",
-      "deptName": "Computing and Software Systems Skills",
-      "term": "WIN2026",
-      "course": "CSSSKL 142",
-      "courseTitle": "CMPT PROG SKILLS I",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Best,Jahnu"
     },
     {
       "campus": "B",
@@ -1542,7 +1532,17 @@
       "course": "CSSSKL 142",
       "courseTitle": "CMPT PROG SKILLS I",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Calkins,Chandler Jay"
+    },
+    {
+      "campus": "B",
+      "dept": "cssskl",
+      "deptName": "Computing and Software Systems Skills",
+      "term": "WIN2026",
+      "course": "CSSSKL 142",
+      "courseTitle": "CMPT PROG SKILLS I",
+      "section": "B",
+      "instructor": "Hood,Everett-Alan"
     },
     {
       "campus": "B",
@@ -1552,17 +1552,7 @@
       "course": "CSSSKL 143",
       "courseTitle": "CMPT PROG SKILLS II",
       "section": "A",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "cssskl",
-      "deptName": "Computing and Software Systems Skills",
-      "term": "WIN2026",
-      "course": "CSSSKL 143",
-      "courseTitle": "CMPT PROG SKILLS II",
-      "section": "B",
-      "instructor": "TBA"
+      "instructor": "Calkins,Chandler Jay"
     },
     {
       "campus": "B",
@@ -1572,7 +1562,17 @@
       "course": "CSSSKL 143",
       "courseTitle": "CMPT PROG SKILLS II",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Hood,Everett-Alan"
+    },
+    {
+      "campus": "B",
+      "dept": "cssskl",
+      "deptName": "Computing and Software Systems Skills",
+      "term": "WIN2026",
+      "course": "CSSSKL 143",
+      "courseTitle": "CMPT PROG SKILLS II",
+      "section": "B",
+      "instructor": "Kiran,Athresh"
     },
     {
       "campus": "B",
@@ -1582,7 +1582,7 @@
       "course": "CSSSKL 143",
       "courseTitle": "CMPT PROG SKILLS II",
       "section": "D",
-      "instructor": "TBA"
+      "instructor": "Kiran,Athresh"
     },
     {
       "campus": "B",
@@ -1592,7 +1592,7 @@
       "course": "CSSSKL 342",
       "courseTitle": "PROG W/OO LANGS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Sung,Kelvin"
     },
     {
       "campus": "B",
@@ -1602,7 +1602,7 @@
       "course": "CSSSKL 123",
       "courseTitle": "PROG DATA SCI SKILLS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Gavriliu,Marcel"
     },
     {
       "campus": "B",
@@ -1612,7 +1612,7 @@
       "course": "CSSSKL 142",
       "courseTitle": "CMPT PROG SKILLS I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Calkins,Chandler Jay"
     },
     {
       "campus": "B",
@@ -1622,7 +1622,7 @@
       "course": "CSSSKL 142",
       "courseTitle": "CMPT PROG SKILLS I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Hood,Everett-Alan"
     },
     {
       "campus": "B",
@@ -1632,7 +1632,17 @@
       "course": "CSSSKL 142",
       "courseTitle": "CMPT PROG SKILLS I",
       "section": "C",
-      "instructor": "TBA"
+      "instructor": "Kiran,Athresh"
+    },
+    {
+      "campus": "B",
+      "dept": "cssskl",
+      "deptName": "Computing and Software Systems Skills",
+      "term": "SPR2026",
+      "course": "CSSSKL 143",
+      "courseTitle": "CMPT PROG SKILLS II",
+      "section": "C",
+      "instructor": "Best,Jahnu"
     },
     {
       "campus": "B",
@@ -1642,7 +1652,7 @@
       "course": "CSSSKL 143",
       "courseTitle": "CMPT PROG SKILLS II",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Calkins,Chandler Jay"
     },
     {
       "campus": "B",
@@ -1652,17 +1662,7 @@
       "course": "CSSSKL 143",
       "courseTitle": "CMPT PROG SKILLS II",
       "section": "B",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "B",
-      "dept": "cssskl",
-      "deptName": "Computing and Software Systems Skills",
-      "term": "SPR2026",
-      "course": "CSSSKL 143",
-      "courseTitle": "CMPT PROG SKILLS II",
-      "section": "C",
-      "instructor": "TBA"
+      "instructor": "Hood,Everett-Alan"
     },
     {
       "campus": "B",
@@ -1672,7 +1672,7 @@
       "course": "CSSSKL 342",
       "courseTitle": "PROG W/OO LANGS",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Peng,Yang"
     }
   ]
 }

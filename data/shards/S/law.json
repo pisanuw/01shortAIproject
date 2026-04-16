@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:28:00Z",
+  "generatedAt": "2026-04-16T02:57:15Z",
   "campus": "S",
   "dept": "law",
   "deptName": "Law",
@@ -11,7 +11,7 @@
       "term": "AUT2020",
       "course": "LAW 100",
       "courseTitle": "INTRO AMERICAN LAW",
-      "section": "B",
+      "section": "A",
       "instructor": "Myhre,Theodore A"
     },
     {
@@ -21,8 +21,8 @@
       "term": "AUT2020",
       "course": "LAW 100",
       "courseTitle": "INTRO AMERICAN LAW",
-      "section": "A",
-      "instructor": "TBA"
+      "section": "B",
+      "instructor": "Myhre,Theodore A"
     },
     {
       "campus": "S",
@@ -1092,7 +1092,7 @@
       "course": "LAW 100",
       "courseTitle": "INTRO AMERICAN LAW",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Myhre,Theodore A"
     },
     {
       "campus": "S",
@@ -2172,7 +2172,7 @@
       "course": "LAW 100",
       "courseTitle": "INTRO AMERICAN LAW",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Myhre,Theodore A"
     },
     {
       "campus": "S",
@@ -3199,6 +3199,286 @@
       "dept": "law",
       "deptName": "Law",
       "term": "SUM2023",
+      "course": "LAW 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 100",
+      "courseTitle": "INTRO AMERICAN LAW",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 100",
+      "courseTitle": "INTRO AMERICAN LAW",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "I",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "J",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "K",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "L",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "M",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "N",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "O",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "Q",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "R",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "S",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "T",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "U",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "V",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "W",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "X",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "Y",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "AUT2023",
       "course": "LAW 800",
       "courseTitle": "DOCTORAL DISSERTATN",
       "section": "A",
@@ -4508,6 +4788,256 @@
       "campus": "S",
       "dept": "law",
       "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "H",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "I",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "J",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "K",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "L",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "M",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "N",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "O",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "P",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "Q",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "R",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "S",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "T",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "U",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "V",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "W",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "X",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 600",
+      "courseTitle": "INDEPNDNT STDY/RSCH",
+      "section": "Y",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
+      "term": "SPR2025",
+      "course": "LAW 800",
+      "courseTitle": "DOCTORAL DISSERTATN",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "law",
+      "deptName": "Law",
       "term": "SUM2025",
       "course": "LAW 600",
       "courseTitle": "INDEPNDNT STDY/RSCH",
@@ -4762,7 +5292,7 @@
       "course": "LAW 100",
       "courseTitle": "INTRO AMERICAN LAW",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Myhre,Theodore A"
     },
     {
       "campus": "S",
@@ -5052,7 +5582,7 @@
       "course": "LAW 305",
       "courseTitle": "GLOBAL HLTH JUSTICE",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Mucha,Katarina"
     },
     {
       "campus": "S",

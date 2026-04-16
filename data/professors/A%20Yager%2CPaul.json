@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "A%20Yager%2CPaul",
+  "professor": "A Yager,Paul",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "SPR2026",
+      "course": "BIOEN 509",
+      "courseTitle": "BIOEN DEPT SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "WIN2025",
+      "course": "BIOEN 573",
+      "courseTitle": "BIOSNSRS/BIOMD SNSNG",
+      "section": "A"
+    }
+  ]
+}

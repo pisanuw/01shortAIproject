@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T15:51:12Z",
+  "generatedAt": "2026-04-16T02:57:09Z",
   "campus": "T",
   "dept": "tchem",
   "deptName": "Chemistry",
@@ -862,6 +862,66 @@
       "course": "T CHEM 406",
       "courseTitle": "BIOCHEM II",
       "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "T",
+      "dept": "tchem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "T CHEM 162",
+      "courseTitle": "GEN CHEMISTRY III",
+      "section": "A",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "T",
+      "dept": "tchem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "T CHEM 162",
+      "courseTitle": "GEN CHEMISTRY III",
+      "section": "B",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "T",
+      "dept": "tchem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "T CHEM 162",
+      "courseTitle": "GEN CHEMISTRY III",
+      "section": "C",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "T",
+      "dept": "tchem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "T CHEM 162",
+      "courseTitle": "GEN CHEMISTRY III",
+      "section": "D",
+      "instructor": "WJ"
+    },
+    {
+      "campus": "T",
+      "dept": "tchem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "T CHEM 245",
+      "courseTitle": "CHEM THRU HISTORY",
+      "section": "A",
+      "instructor": "Dinglasan-Panlilio,Joyce"
+    },
+    {
+      "campus": "T",
+      "dept": "tchem",
+      "deptName": "Chemistry",
+      "term": "SUM2022",
+      "course": "T CHEM 271",
+      "courseTitle": "ORGANIC CHEM III",
+      "section": "A",
       "instructor": "TBA"
     },
     {
@@ -2242,7 +2302,7 @@
       "course": "T CHEM 405",
       "courseTitle": "BIOCHEM I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Baughman,Hannah E R"
     },
     {
       "campus": "T",
@@ -2252,7 +2312,17 @@
       "course": "T CHEM 405",
       "courseTitle": "BIOCHEM I",
       "section": "B",
-      "instructor": "TBA"
+      "instructor": "Baughman,Hannah E R"
+    },
+    {
+      "campus": "T",
+      "dept": "tchem",
+      "deptName": "Chemistry",
+      "term": "WIN2026",
+      "course": "T CHEM 142",
+      "courseTitle": "GEN CHEMISTRY I",
+      "section": "D",
+      "instructor": "Smirnov,Valeriy V."
     },
     {
       "campus": "T",
@@ -2282,16 +2352,6 @@
       "course": "T CHEM 142",
       "courseTitle": "GEN CHEMISTRY I",
       "section": "C",
-      "instructor": "TBA"
-    },
-    {
-      "campus": "T",
-      "dept": "tchem",
-      "deptName": "Chemistry",
-      "term": "WIN2026",
-      "course": "T CHEM 142",
-      "courseTitle": "GEN CHEMISTRY I",
-      "section": "D",
       "instructor": "TBA"
     },
     {
@@ -2372,7 +2432,7 @@
       "course": "T CHEM 405",
       "courseTitle": "BIOCHEM I",
       "section": "A",
-      "instructor": "TBA"
+      "instructor": "Baughman,Hannah E R"
     },
     {
       "campus": "T",

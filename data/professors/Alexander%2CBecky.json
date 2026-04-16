@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-04-16T02:57:18Z",
+  "id": "Alexander%2CBecky",
+  "professor": "Alexander,Becky",
+  "recordCount": 5,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "atmoscs",
+      "deptName": "Atmospheric and Climate Science",
+      "term": "SPR2026",
+      "course": "ATMOS 212",
+      "courseTitle": "AIR POLLUTION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2024",
+      "course": "CHEM 458",
+      "courseTitle": "AIR POLLUTION CHEM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2023",
+      "course": "CHEM 458",
+      "courseTitle": "AIR POLLUTION CHEM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2021",
+      "course": "OCEAN 586",
+      "courseTitle": "CLIMATE SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ess",
+      "deptName": "Earth and Space Sciences",
+      "term": "AUT2021",
+      "course": "ESS 586",
+      "courseTitle": "CLIMATE SEMINAR",
+      "section": "A"
+    }
+  ]
+}

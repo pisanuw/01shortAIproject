@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-04-16T02:57:21Z",
+  "id": "RBJ",
+  "professor": "RBJ",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tpsych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "TPSYCH 407",
+      "courseTitle": "CULTURE & DEVELOPMT",
+      "section": "B"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tpsych",
+      "deptName": "Psychology",
+      "term": "SPR2022",
+      "course": "TPSYCH 407",
+      "courseTitle": "CULTURE & DEVELOPMT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2022",
+      "course": "GEOG 561",
+      "courseTitle": "URBAN GIS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2022",
+      "course": "GEOG 461",
+      "courseTitle": "URBAN GIS",
+      "section": "A"
+    }
+  ]
+}

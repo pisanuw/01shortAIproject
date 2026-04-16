@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-04-16T02:57:19Z",
+  "id": "Choi%2CChanghun",
+  "professor": "Choi,Changhun",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2024",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2023",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "B"
+    }
+  ]
+}

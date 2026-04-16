@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-04-16T02:57:24Z",
+  "id": "S%20-%20INFO%20365",
+  "course": "S - INFO 365",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "WIN2022",
+      "course": "INFO 365",
+      "courseTitle": "MOBILE APP DESIGN",
+      "section": "A",
+      "instructor": "Fling,Brian"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "info",
+      "deptName": "Informatics",
+      "term": "AUT2021",
+      "course": "INFO 365",
+      "courseTitle": "MOBILE APP DESIGN",
+      "section": "A",
+      "instructor": "Fling,Brian"
+    }
+  ]
+}

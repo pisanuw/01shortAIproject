@@ -1,7 +1,2178 @@
 {
-  "generatedAt": "2026-04-15T16:27:58Z",
+  "generatedAt": "2026-04-16T02:57:13Z",
   "campus": "S",
   "dept": "buscomm",
   "deptName": "Business Communications",
-  "records": []
+  "records": [
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2020",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "D",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2020",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "E",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2020",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "F",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2020",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "G",
+      "instructor": "McCormack,Timothy B"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2020",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "H",
+      "instructor": "McCormack,Timothy B"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2020",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "A",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2020",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "B",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2020",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "C",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2020",
+      "course": "B CMU 490",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2020",
+      "course": "B CMU 499",
+      "courseTitle": "BUS COMM RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2020",
+      "course": "B CMU 579",
+      "courseTitle": "SPEC TOPICS B CMU",
+      "section": "G",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2020",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2020",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2021",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "A",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2021",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "C",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2021",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "E",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2021",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "B",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2021",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "D",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2021",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "F",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2021",
+      "course": "B CMU 499",
+      "courseTitle": "BUS COMM RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2021",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2021",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2021",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "A",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2021",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "B",
+      "instructor": "McCormack,Timothy B"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2021",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "C",
+      "instructor": "McCormack,Timothy B"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2021",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "D",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2021",
+      "course": "B CMU 499",
+      "courseTitle": "BUS COMM RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2021",
+      "course": "B CMU 509",
+      "courseTitle": "FINDING YOUR VOICE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2021",
+      "course": "B CMU 509",
+      "courseTitle": "FINDING YOUR VOICE",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2021",
+      "course": "B CMU 509",
+      "courseTitle": "FINDING YOUR VOICE",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2021",
+      "course": "B CMU 509",
+      "courseTitle": "FINDING YOUR VOICE",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2021",
+      "course": "B CMU 579",
+      "courseTitle": "SPEC TOPICS B CMU",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2021",
+      "course": "B CMU 579",
+      "courseTitle": "SPEC TOPICS B CMU",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2021",
+      "course": "B CMU 579",
+      "courseTitle": "SPEC TOPICS B CMU",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2021",
+      "course": "B CMU 579",
+      "courseTitle": "SPEC TOPICS B CMU",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2021",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2021",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SUM2021",
+      "course": "B CMU 499",
+      "courseTitle": "BUS COMM RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SUM2021",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SUM2021",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2021",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "D",
+      "instructor": "Hochberg,L"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2021",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "E",
+      "instructor": "Hochberg,L"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2021",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "F",
+      "instructor": "Hochberg,L"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2021",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "G",
+      "instructor": "McCormack,Timothy B"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2021",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "H",
+      "instructor": "McCormack,Timothy B"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2021",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "A",
+      "instructor": "Tolo,T"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2021",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "B",
+      "instructor": "Tolo,T"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2021",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "C",
+      "instructor": "Tolo,T"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2021",
+      "course": "B CMU 490",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Beard,Leta"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2021",
+      "course": "B CMU 499",
+      "courseTitle": "BUS COMM RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2021",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2021",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2022",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "D",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2022",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "E",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2022",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "F",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2022",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "A",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2022",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "B",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2022",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "C",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2022",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2022",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2022",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "D",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2022",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "B",
+      "instructor": "McCormack,Timothy B"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2022",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "C",
+      "instructor": "McCormack,Timothy B"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2022",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "A",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2022",
+      "course": "B CMU 499",
+      "courseTitle": "BUS COMM RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2022",
+      "course": "B CMU 509",
+      "courseTitle": "FINDING YOUR VOICE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2022",
+      "course": "B CMU 509",
+      "courseTitle": "FINDING YOUR VOICE",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2022",
+      "course": "B CMU 509",
+      "courseTitle": "FINDING YOUR VOICE",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2022",
+      "course": "B CMU 509",
+      "courseTitle": "FINDING YOUR VOICE",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2022",
+      "course": "B CMU 579",
+      "courseTitle": "SPEC TOPICS B CMU",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2022",
+      "course": "B CMU 579",
+      "courseTitle": "SPEC TOPICS B CMU",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2022",
+      "course": "B CMU 579",
+      "courseTitle": "SPEC TOPICS B CMU",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2022",
+      "course": "B CMU 579",
+      "courseTitle": "SPEC TOPICS B CMU",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2022",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2022",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SUM2022",
+      "course": "B CMU 499",
+      "courseTitle": "BUS COMM RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SUM2022",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SUM2022",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2022",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "D",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2022",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "E",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2022",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "F",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2022",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "G",
+      "instructor": "Johnson,Marcus"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2022",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "H",
+      "instructor": "Johnson,Marcus"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2022",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "A",
+      "instructor": "Tolo,T"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2022",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "B",
+      "instructor": "Tolo,T"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2022",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "C",
+      "instructor": "Tolo,T"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2022",
+      "course": "B CMU 490",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "Beard,Leta"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2022",
+      "course": "B CMU 499",
+      "courseTitle": "BUS COMM RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2022",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2022",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2023",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "A",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2023",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "B",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2023",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "C",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2023",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "D",
+      "instructor": "Johnson,Marcus"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2023",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "E",
+      "instructor": "Johnson,Marcus"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2023",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "F",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2023",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2023",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2023",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "A",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2023",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "B",
+      "instructor": "Johnson,Marcus"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2023",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "C",
+      "instructor": "Johnson,Marcus"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2023",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "D",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2023",
+      "course": "B CMU 499",
+      "courseTitle": "BUS COMM RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2023",
+      "course": "B CMU 501",
+      "courseTitle": "PROF COMMUNICATIONS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2023",
+      "course": "B CMU 501",
+      "courseTitle": "PROF COMMUNICATIONS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2023",
+      "course": "B CMU 509",
+      "courseTitle": "FINDING YOUR VOICE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2023",
+      "course": "B CMU 509",
+      "courseTitle": "FINDING YOUR VOICE",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2023",
+      "course": "B CMU 509",
+      "courseTitle": "FINDING YOUR VOICE",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2023",
+      "course": "B CMU 509",
+      "courseTitle": "FINDING YOUR VOICE",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2023",
+      "course": "B CMU 579",
+      "courseTitle": "SPEC TOPICS B CMU",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2023",
+      "course": "B CMU 579",
+      "courseTitle": "SPEC TOPICS B CMU",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2023",
+      "course": "B CMU 579",
+      "courseTitle": "SPEC TOPICS B CMU",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2023",
+      "course": "B CMU 579",
+      "courseTitle": "SPEC TOPICS B CMU",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2023",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2023",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SUM2023",
+      "course": "B CMU 499",
+      "courseTitle": "BUS COMM RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SUM2023",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SUM2023",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2023",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "D",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2023",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "E",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2023",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "F",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2023",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "G",
+      "instructor": "Johnson,Marcus"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2023",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "H",
+      "instructor": "Johnson,Marcus"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2023",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "A",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2023",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "B",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2023",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "C",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2023",
+      "course": "B CMU 499",
+      "courseTitle": "BUS COMM RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2023",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2023",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2024",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "A",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2024",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "B",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2024",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "E",
+      "instructor": "Johnson,Marcus"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2024",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "F",
+      "instructor": "Johnson,Marcus"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2024",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "D",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2024",
+      "course": "B CMU 499",
+      "courseTitle": "BUS COMM RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2024",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2024",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "B",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2024",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "A",
+      "instructor": "Johnson,Marcus"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2024",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "C",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2024",
+      "course": "B CMU 490",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2024",
+      "course": "B CMU 499",
+      "courseTitle": "BUS COMM RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2024",
+      "course": "B CMU 501",
+      "courseTitle": "PROF COMMUNICATIONS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2024",
+      "course": "B CMU 501",
+      "courseTitle": "PROF COMMUNICATIONS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2024",
+      "course": "B CMU 509",
+      "courseTitle": "FINDING YOUR VOICE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2024",
+      "course": "B CMU 509",
+      "courseTitle": "FINDING YOUR VOICE",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2024",
+      "course": "B CMU 509",
+      "courseTitle": "FINDING YOUR VOICE",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2024",
+      "course": "B CMU 509",
+      "courseTitle": "FINDING YOUR VOICE",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2024",
+      "course": "B CMU 579",
+      "courseTitle": "SPEC TOPICS B CMU",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2024",
+      "course": "B CMU 579",
+      "courseTitle": "SPEC TOPICS B CMU",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2024",
+      "course": "B CMU 579",
+      "courseTitle": "SPEC TOPICS B CMU",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2024",
+      "course": "B CMU 579",
+      "courseTitle": "SPEC TOPICS B CMU",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2024",
+      "course": "B CMU 579",
+      "courseTitle": "SPEC TOPICS B CMU",
+      "section": "E",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2024",
+      "course": "B CMU 579",
+      "courseTitle": "SPEC TOPICS B CMU",
+      "section": "F",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2024",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2024",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SUM2024",
+      "course": "B CMU 499",
+      "courseTitle": "BUS COMM RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SUM2024",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SUM2024",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2024",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "D",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2024",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "E",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2024",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "F",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2024",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "G",
+      "instructor": "Johnson,Marcus"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2024",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "H",
+      "instructor": "Johnson,Marcus"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2024",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "A",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2024",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "B",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2024",
+      "course": "B CMU 499",
+      "courseTitle": "BUS COMM RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2024",
+      "course": "B CMU 499",
+      "courseTitle": "BUS COMM RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2024",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2024",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2025",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "A",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2025",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "B",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2025",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "C",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2025",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "D",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2025",
+      "course": "B CMU 499",
+      "courseTitle": "BUS COMM RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2025",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2025",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2025",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "B",
+      "instructor": "Hochberg,Lee E"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2025",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "A",
+      "instructor": "Johnson,Marcus"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2025",
+      "course": "B CMU 499",
+      "courseTitle": "BUS COMM RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2025",
+      "course": "B CMU 501",
+      "courseTitle": "PROF COMMUNICATIONS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2025",
+      "course": "B CMU 501",
+      "courseTitle": "PROF COMMUNICATIONS",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2025",
+      "course": "B CMU 509",
+      "courseTitle": "FINDING YOUR VOICE",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2025",
+      "course": "B CMU 509",
+      "courseTitle": "FINDING YOUR VOICE",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2025",
+      "course": "B CMU 509",
+      "courseTitle": "FINDING YOUR VOICE",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2025",
+      "course": "B CMU 509",
+      "courseTitle": "FINDING YOUR VOICE",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2025",
+      "course": "B CMU 579",
+      "courseTitle": "SPEC TOPICS B CMU",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2025",
+      "course": "B CMU 579",
+      "courseTitle": "SPEC TOPICS B CMU",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2025",
+      "course": "B CMU 579",
+      "courseTitle": "SPEC TOPICS B CMU",
+      "section": "C",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2025",
+      "course": "B CMU 579",
+      "courseTitle": "SPEC TOPICS B CMU",
+      "section": "D",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2025",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2025",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SUM2025",
+      "course": "B CMU 499",
+      "courseTitle": "BUS COMM RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SUM2025",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SUM2025",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2025",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "E",
+      "instructor": "Carlson,Kjiel Emil"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2025",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "C",
+      "instructor": "Johnson,Marcus"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2025",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "D",
+      "instructor": "Johnson,Marcus"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2025",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "A",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2025",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "B",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2025",
+      "course": "B CMU 499",
+      "courseTitle": "BUS COMM RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2025",
+      "course": "B CMU 499",
+      "courseTitle": "BUS COMM RESEARCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2025",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "AUT2025",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2026",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "A",
+      "instructor": "Carlson,Kjiel Emil"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2026",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "C",
+      "instructor": "Carlson,Kjiel Emil"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2026",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "B",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2026",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "D",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2026",
+      "course": "B CMU 499",
+      "courseTitle": "BUS COMM RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2026",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "WIN2026",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2026",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "A",
+      "instructor": "Johnson,Marcus"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2026",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "B",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2026",
+      "course": "B CMU 301",
+      "courseTitle": "STRATEGIC CMU",
+      "section": "C",
+      "instructor": "Tolo,Thor"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2026",
+      "course": "B CMU 499",
+      "courseTitle": "BUS COMM RESEARCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2026",
+      "course": "B CMU 501",
+      "courseTitle": "PROF COMMUNICATIONS",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2026",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "A",
+      "instructor": "TBA"
+    },
+    {
+      "campus": "S",
+      "dept": "buscomm",
+      "deptName": "Business Communications",
+      "term": "SPR2026",
+      "course": "B CMU 600",
+      "courseTitle": "INDPNT STDY OR RSRCH",
+      "section": "B",
+      "instructor": "TBA"
+    }
+  ]
 }
