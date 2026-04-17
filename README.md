@@ -3,7 +3,7 @@
 ## Project Metadata
 
 * GitHub Repository: <https://github.com/pisanuw/01shortAIproject>
-* Deployed Site: <https://uwbcssprofs.netlify.app/public/>
+* Deployed Site: <https://uwcourses.netlify.app/public/>
 
 ## Idea
 
