@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Borsuk, Amaranth — Course Evaluations</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,700;1,700&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #f2f4ef;
+      --card: #ffffff;
+      --ink: #172121;
+      --muted: #516262;
+      --accent: #cf5c36;
+      --accent-soft: #f2d0c3;
+      --line: #d8dfd1;
+      --green: #2d7a47;
+      --green-bg: #e8f5ee;
+      --amber: #8a5c00;
+      --amber-bg: #fef3e2;
+      --red: #b91c1c;
+      --red-bg: #fdecea;
+      --bar-track: #e4e8e0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: "Space Grotesk", sans-serif;
+      color: var(--ink);
+      background: radial-gradient(circle at 20% 10%, #edf3dc 0%, transparent 35%),
+        radial-gradient(circle at 90% 90%, #ffe4d8 0%, transparent 45%), var(--bg);
+      min-height: 100vh;
+      padding: 32px 16px;
+    }
+    .app {
+      max-width: 1060px;
+      margin: 0 auto;
+      background: color-mix(in srgb, var(--card) 88%, #f9fbf2 12%);
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      box-shadow: 0 20px 50px rgba(23,33,33,0.12);
+      padding: 32px;
+    }
+    .back-link {
+      display: inline-block;
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 0.88rem;
+      margin-bottom: 18px;
+    }
+    .back-link:hover { text-decoration: underline; }
+    h1 {
+      font-family: "Fraunces", serif;
+      font-size: clamp(1.6rem, 3.5vw, 2.4rem);
+      letter-spacing: -0.02em;
+      margin-bottom: 6px;
+    }
+    .rank-badge {
+      display: inline-block;
+      background: var(--accent-soft);
+      color: #6d2f1b;
+      padding: 4px 12px;
+      border-radius: 999px;
+      font-size: 0.82rem;
+      font-weight: 700;
+      margin-bottom: 28px;
+    }
+    h2 { font-family: "Fraunces", serif; font-size: 1.2rem; margin: 28px 0 12px; }
+    hr.divider { border: none; border-top: 1px solid var(--line); margin: 32px 0; }
+    /* Summary table */
+    .table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 14px; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.87rem; }
+    thead th {
+      background: #f5f7f3;
+      padding: 9px 14px;
+      text-align: left;
+      font-weight: 700;
+      color: var(--muted);
+      font-size: 0.76rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      border-bottom: 1px solid var(--line);
+      white-space: nowrap;
+    }
+    thead th small { display: block; font-size: 0.7rem; text-transform: none; letter-spacing: 0; font-weight: 400; }
+    tbody td { padding: 9px 14px; border-bottom: 1px solid var(--line); vertical-align: middle; }
+    tbody tr:last-child td { border-bottom: none; }
+    tbody tr:hover { background: #f7faf4; }
+    .num { text-align: right; font-variant-numeric: tabular-nums; }
+    /* Score chips */
+    .chip { display: inline-block; padding: 2px 8px; border-radius: 6px; font-weight: 700; font-size: 0.84rem; }
+    .chip-green { background: var(--green-bg); color: var(--green); }
+    .chip-amber { background: var(--amber-bg); color: var(--amber); }
+    .chip-red   { background: var(--red-bg);   color: var(--red); }
+    /* Eval cards */
+    .eval-card { border: 1px solid var(--line); border-radius: 14px; margin-bottom: 24px; overflow: hidden; }
+    .eval-card-header { padding: 14px 20px; background: #f5f7f3; border-bottom: 1px solid var(--line); }
+    .eval-card-header h3 { font-family: "Fraunces", serif; font-size: 1rem; margin-bottom: 4px; }
+    .eval-response { font-size: 0.82rem; color: var(--muted); }
+    /* OSR + CEI info row */
+    .osr-cei-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      border-bottom: 1px solid var(--line);
+    }
+    .osr-box, .cei-box {
+      padding: 16px 20px;
+      display: flex;
+      gap: 16px;
+      align-items: flex-start;
+    }
+    .osr-box { border-right: 1px solid var(--line); }
+    .score-desc { font-size: 0.82rem; color: var(--ink); line-height: 1.5; flex: 1; }
+    .score-desc strong { font-weight: 700; }
+    .score-block { text-align: center; flex-shrink: 0; min-width: 80px; }
+    .score-label { font-size: 0.72rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px; }
+    .score-big { font-family: "Fraunces", serif; font-size: 1.8rem; font-weight: 700; line-height: 1; margin-bottom: 4px; }
+    .score-scale { font-size: 0.72rem; color: var(--muted); }
+    /* Section controls */
+    .section-controls {
+      padding: 10px 20px;
+      display: flex;
+      gap: 8px;
+      border-bottom: 1px solid var(--line);
+      background: #fafbf8;
+    }
+    .ctrl-btn {
+      background: none;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 4px 12px;
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: var(--muted);
+      cursor: pointer;
+    }
+    .ctrl-btn:hover { background: var(--accent-soft); color: #6d2f1b; border-color: #e8bfad; }
+    /* Collapsible sections using <details> */
+    .item-section { border-bottom: 1px solid var(--line); }
+    .item-section:last-child { border-bottom: none; }
+    .item-section > summary {
+      padding: 10px 20px;
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--muted);
+      cursor: pointer;
+      list-style: none;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      user-select: none;
+    }
+    .item-section > summary::-webkit-details-marker { display: none; }
+    .item-section > summary::before { content: "►"; font-size: 0.65rem; transition: transform 0.15s; }
+    .item-section[open] > summary::before { transform: rotate(90deg); }
+    .item-section > summary:hover { background: #f5f7f3; }
+    .scale-note { font-weight: 400; color: #8aabab; text-transform: none; letter-spacing: 0; font-size: 0.76rem; }
+    /* Items table inside section */
+    .items-table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+    .items-table td { padding: 8px 14px; border-bottom: 1px solid var(--line); vertical-align: middle; }
+    .items-table tr:last-child td { border-bottom: none; }
+    .items-table tr:hover { background: #f7faf4; }
+    .item-text-cell { color: var(--ink); }
+    /* Bar */
+    .bar-cell { min-width: 160px; }
+    .bar-wrap { display: flex; align-items: center; gap: 8px; }
+    .bar-track { flex: 1; height: 8px; background: var(--bar-track); border-radius: 4px; overflow: hidden; }
+    .bar-fill { height: 100%; border-radius: 4px; }
+    .bar-val { font-weight: 700; font-size: 0.84rem; min-width: 32px; text-align: right; }
+    .n-cell { text-align: right; color: var(--muted); white-space: nowrap; }
+    @media (max-width: 640px) {
+      .osr-cei-row { grid-template-columns: 1fr; }
+      .osr-box { border-right: none; border-bottom: 1px solid var(--line); }
+    }
+  </style>
+</head>
+<body>
+<div class="app">
+  <a class="back-link" href="../index.html#/professor/Borsuk%2CAmaranth">← Back to Course History</a>
+  <h1>Borsuk, Amaranth</h1>
+  <p class="rank-badge">Associate Professor</p>
+
+  <h2>Summary</h2>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Term</th>
+          <th>Course(s)</th>
+          <th>Title</th>
+          <th class="num">Enrolled</th>
+          <th class="num">Responses</th>
+          <th class="num">OSR Median<small>0=lowest; 5=highest</small></th>
+          <th class="num">CEI<small>1=lowest; 7=highest</small></th>
+        </tr>
+      </thead>
+      <tbody id="summaryBody"></tbody>
+    </table>
+  </div>
+
+  <hr class="divider">
+  <h2>Evaluations</h2>
+  <div id="evalCards"></div>
+</div>
+
+<script>
+const DATA = {"instructor": "Borsuk, Amaranth", "instructorId": "Borsuk%2CAmaranth", "rank": "Associate Professor", "evaluations": [{"evalId": 33698, "term": "Autumn", "year": 2025, "courses": ["B CORE 104-N"], "courseTitle": "Discovery Core: Arts And Humanities", "dept": "First Year Pre-Major Program", "enrollment": 24, "questionnaires": 22, "responseRate": 0.9167, "globalMedian": 4.7, "adjGlobalMedian": 4.5, "cei": 3.9, "nGlobal": 88, "items": [{"position": 1, "itemId": "S1", "text": "The course as a whole was:", "median": 4.5, "adjMedian": 4.316, "mean": 4.3636, "sd": 0.71, "collDecile": 6, "instDecile": 6, "n": 22}, {"position": 2, "itemId": "S6", "text": "The course content was:", "median": 4.3, "adjMedian": 4.2261, "mean": 4.1364, "sd": 0.8684, "collDecile": 6, "instDecile": 5, "n": 22}, {"position": 3, "itemId": "S13", "text": "The instructor's contribution to the course was:", "median": 4.8889, "adjMedian": 4.7104, "mean": 4.8182, "sd": 0.3857, "collDecile": 8, "instDecile": 8, "n": 22}, {"position": 4, "itemId": "S14", "text": "The instructor's effectiveness in teaching the subject matter was:", "median": 4.8529, "adjMedian": 4.6276, "mean": 4.7727, "sd": 0.4191, "collDecile": 8, "instDecile": 8, "n": 22}, {"position": 5, "itemId": "S27", "text": "Course organization was:", "median": 4.8529, "adjMedian": null, "mean": 4.6818, "sd": 0.6315, "collDecile": 9, "instDecile": 9, "n": 22}, {"position": 6, "itemId": "S28", "text": "Clarity of instructor's voice was:", "median": 4.8823, "adjMedian": null, "mean": 4.8095, "sd": 0.3927, "collDecile": 8, "instDecile": 8, "n": 21}, {"position": 7, "itemId": "S31", "text": "Explanations by instructor were:", "median": 4.7667, "adjMedian": null, "mean": 4.6364, "sd": 0.5677, "collDecile": 7, "instDecile": 7, "n": 22}, {"position": 8, "itemId": "S32", "text": "Instructor's ability to present alternative explanations when needed was:", "median": 4.7143, "adjMedian": null, "mean": 4.5454, "sd": 0.6556, "collDecile": 7, "instDecile": 7, "n": 22}, {"position": 9, "itemId": "S34", "text": "Instructor's use of examples and illustrations was:", "median": 4.8529, "adjMedian": null, "mean": 4.7273, "sd": 0.5378, "collDecile": 8, "instDecile": 8, "n": 22}, {"position": 10, "itemId": "S38", "text": "Quality of questions or problems raised by the instructor was:", "median": 4.5, "adjMedian": null, "mean": 4.3636, "sd": 0.71, "collDecile": 5, "instDecile": 5, "n": 22}, {"position": 11, "itemId": "S42", "text": "Student confidence in instructor's knowledge was:", "median": 4.8889, "adjMedian": null, "mean": 4.8182, "sd": 0.3857, "collDecile": 8, "instDecile": 8, "n": 22}, {"position": 12, "itemId": "S45", "text": "Instructor's enthusiasm was:", "median": 4.9762, "adjMedian": null, "mean": 4.9546, "sd": 0.2083, "collDecile": 8, "instDecile": 8, "n": 22}, {"position": 13, "itemId": "S46", "text": "Encouragement given students to express themselves was:", "median": 4.9211, "adjMedian": null, "mean": 4.8636, "sd": 0.3432, "collDecile": 8, "instDecile": 8, "n": 22}, {"position": 14, "itemId": "S47", "text": "Answers to student questions were:", "median": 4.8889, "adjMedian": null, "mean": 4.8182, "sd": 0.3857, "collDecile": 8, "instDecile": 8, "n": 22}, {"position": 15, "itemId": "S144", "text": "Availability of extra help when needed was:", "median": 4.8529, "adjMedian": null, "mean": 4.7727, "sd": 0.4191, "collDecile": 8, "instDecile": 8, "n": 22}, {"position": 16, "itemId": "S145", "text": "Use of class time was:", "median": 4.7143, "adjMedian": null, "mean": 4.5, "sd": 0.723, "collDecile": 7, "instDecile": 7, "n": 22}, {"position": 17, "itemId": "S148", "text": "Instructor's interest in whether students learned was:", "median": 4.7667, "adjMedian": null, "mean": 4.6364, "sd": 0.5677, "collDecile": 7, "instDecile": 7, "n": 22}, {"position": 18, "itemId": "S152", "text": "Amount you learned in the course was:", "median": 4.5, "adjMedian": null, "mean": 4.2727, "sd": 0.8624, "collDecile": 6, "instDecile": 6, "n": 22}, {"position": 19, "itemId": "S154", "text": "Relevance and usefulness of course content were:", "median": 4.3333, "adjMedian": null, "mean": 4.0454, "sd": 1.065, "collDecile": 5, "instDecile": 4, "n": 22}, {"position": 20, "itemId": "S157", "text": "Evaluative and grading techniques (tests, papers, projects, etc.) were:", "median": 4.6539, "adjMedian": null, "mean": 4.4546, "sd": 0.782, "collDecile": 6, "instDecile": 6, "n": 22}, {"position": 21, "itemId": "S159", "text": "Reasonableness of assigned work was:", "median": 4.8125, "adjMedian": null, "mean": 4.7273, "sd": 0.4454, "collDecile": 7, "instDecile": 8, "n": 22}, {"position": 22, "itemId": "S161", "text": "Clarity of student responsibilities and requirements was:", "median": 4.7143, "adjMedian": null, "mean": 4.5909, "sd": 0.5768, "collDecile": 6, "instDecile": 6, "n": 22}, {"position": 23, "itemId": "S180", "text": "Do you expect your grade in this course to be:", "median": 6.0, "adjMedian": null, "mean": 5.9091, "sd": 0.9959, "collDecile": 7, "instDecile": 8, "n": 22}, {"position": 24, "itemId": "S181", "text": "The intellectual challenge presented was:", "median": 4.0556, "adjMedian": null, "mean": 4.4546, "sd": 1.4054, "collDecile": 0, "instDecile": 0, "n": 22}, {"position": 25, "itemId": "S182", "text": "The amount of effort you put into this course was:", "median": 4.625, "adjMedian": null, "mean": 4.7727, "sd": 0.9969, "collDecile": 1, "instDecile": 0, "n": 22}, {"position": 26, "itemId": "S183", "text": "The amount of effort to succeed in this course was:", "median": 4.1429, "adjMedian": null, "mean": 4.5, "sd": 1.158, "collDecile": 0, "instDecile": 0, "n": 22}, {"position": 27, "itemId": "S184", "text": "Your involvement in course (doing assignments, attending classes, etc.) was:", "median": 5.9, "adjMedian": null, "mean": 5.6818, "sd": 1.3276, "collDecile": 6, "instDecile": 5, "n": 22}, {"position": 28, "itemId": "S186", "text": "On average, how many hours per week have you spent on this course, including attending classes, doing readings, reviewing notes, writing papers and any other course related work?", "median": 5.6429, "adjMedian": null, "mean": 5.7619, "sd": 1.8363, "collDecile": 6, "instDecile": 3, "n": 21}, {"position": 29, "itemId": "S187", "text": "From the total average hours above, how many do you consider were valuable in advancing your education?", "median": 4.9, "adjMedian": null, "mean": 4.9762, "sd": 2.1296, "collDecile": 7, "instDecile": 4, "n": 21}, {"position": 30, "itemId": "S188", "text": "What grade do you expect in this course?", "median": 3.9531, "adjMedian": null, "mean": 3.831, "sd": 0.2486, "collDecile": 8, "instDecile": 8, "n": 22}, {"position": 31, "itemId": "S189", "text": "In regard to your academic program, is this course best described as:", "median": null, "adjMedian": null, "mean": null, "sd": null, "collDecile": null, "instDecile": null, "n": 22}, {"position": null, "itemId": "combo", "text": "Overall Summative Rating", "median": 4.7143, "adjMedian": 4.5453, "mean": 4.5227, "sd": 0.6905, "collDecile": 7, "instDecile": 7, "n": 88}]}, {"evalId": 34023, "term": "Winter", "year": 2026, "courses": ["BISIA 310-A"], "courseTitle": "Creative Writing: Poetry", "dept": "Interdisciplinary Arts and Sciences", "enrollment": 24, "questionnaires": 18, "responseRate": 0.75, "globalMedian": 4.6, "adjGlobalMedian": 4.6, "cei": 4.1, "nGlobal": 72, "items": [{"position": 1, "itemId": "S1", "text": "The course as a whole was:", "median": 4.3, "adjMedian": 4.3314, "mean": 3.8333, "sd": 1.3844, "collDecile": 3, "instDecile": 5, "n": 18}, {"position": 2, "itemId": "S6", "text": "The course content was:", "median": 4.5, "adjMedian": 4.5015, "mean": 4.0, "sd": 1.3333, "collDecile": 5, "instDecile": 6, "n": 18}, {"position": 3, "itemId": "S13", "text": "The instructor's contribution to the course was:", "median": 4.75, "adjMedian": 4.7797, "mean": 4.3889, "sd": 1.0077, "collDecile": 6, "instDecile": 7, "n": 18}, {"position": 4, "itemId": "S14", "text": "The instructor's effectiveness in teaching the subject matter was:", "median": 4.6818, "adjMedian": 4.724, "mean": 4.1667, "sd": 1.3437, "collDecile": 5, "instDecile": 6, "n": 18}, {"position": 5, "itemId": "S107", "text": "The course was integrated with the rest of the curriculum.", "median": 6.6, "adjMedian": null, "mean": 6.1667, "sd": 1.1667, "collDecile": 4, "instDecile": 4, "n": 18}, {"position": 6, "itemId": "S108", "text": "The instructor created an atmosphere of engagement.", "median": 6.8077, "adjMedian": null, "mean": 6.3333, "sd": 1.2472, "collDecile": 6, "instDecile": 6, "n": 18}, {"position": 7, "itemId": "S109", "text": "The instructor stimulated me to acquire new skills and approaches.", "median": 6.75, "adjMedian": null, "mean": 6.1667, "sd": 1.3844, "collDecile": 6, "instDecile": 5, "n": 18}, {"position": 8, "itemId": "S110", "text": "The instructor encouraged me to think independently.", "median": 6.75, "adjMedian": null, "mean": 6.3333, "sd": 1.291, "collDecile": 6, "instDecile": 5, "n": 18}, {"position": 9, "itemId": "S111", "text": "The course was structured to facilitate learning.", "median": 6.75, "adjMedian": null, "mean": 5.9444, "sd": 1.6823, "collDecile": 7, "instDecile": 6, "n": 18}, {"position": 10, "itemId": "S112", "text": "Feedback by instructor during design/artistic process was valuable.", "median": 6.6, "adjMedian": null, "mean": 6.0, "sd": 1.453, "collDecile": 3, "instDecile": 3, "n": 18}, {"position": 11, "itemId": "S113", "text": "Feedback from peers was valuable.", "median": 6.5, "adjMedian": null, "mean": 5.6111, "sd": 1.6034, "collDecile": 4, "instDecile": 4, "n": 18}, {"position": 12, "itemId": "S114", "text": "Feedback from visitors/outside reviewers was valuable.", "median": 6.6818, "adjMedian": null, "mean": 5.9444, "sd": 1.4709, "collDecile": 8, "instDecile": 7, "n": 18}, {"position": 13, "itemId": "S115", "text": "Develop your oral communication/presentation skills", "median": 5.7857, "adjMedian": null, "mean": 5.3333, "sd": 1.5635, "collDecile": 4, "instDecile": 4, "n": 18}, {"position": 14, "itemId": "S116", "text": "Develop your ability to express your ideas in artistic/graphic form", "median": 6.5, "adjMedian": null, "mean": 5.7778, "sd": 1.6518, "collDecile": 4, "instDecile": 4, "n": 18}, {"position": 15, "itemId": "S117", "text": "Develop and use your creativity", "median": 6.6, "adjMedian": null, "mean": 6.0556, "sd": 1.3112, "collDecile": 4, "instDecile": 4, "n": 18}, {"position": 16, "itemId": "S118", "text": "Develop your ability to work in fluid or ambiguous situations", "median": 6.5, "adjMedian": null, "mean": 5.5556, "sd": 1.7708, "collDecile": 5, "instDecile": 5, "n": 18}, {"position": 17, "itemId": "S119", "text": "Develop your ability to provide peer critique", "median": 6.0, "adjMedian": null, "mean": 5.5, "sd": 1.675, "collDecile": 3, "instDecile": 3, "n": 18}, {"position": 18, "itemId": "S120", "text": "Develop your ability for self-critique", "median": 6.25, "adjMedian": null, "mean": 5.8333, "sd": 1.3017, "collDecile": 4, "instDecile": 4, "n": 18}, {"position": 19, "itemId": "S121", "text": "Practice design/artistic strategies and processes", "median": 6.6, "adjMedian": null, "mean": 6.1667, "sd": 1.1667, "collDecile": 4, "instDecile": 4, "n": 18}, {"position": 20, "itemId": "S122", "text": "Integrate & apply new skills and knowledge in your products", "median": 6.6, "adjMedian": null, "mean": 6.0556, "sd": 1.3112, "collDecile": 5, "instDecile": 5, "n": 18}, {"position": 21, "itemId": "S123", "text": "Apply the principles of past work of others and examples", "median": 6.5, "adjMedian": null, "mean": 5.5556, "sd": 1.8921, "collDecile": 4, "instDecile": 4, "n": 18}, {"position": 22, "itemId": "S124", "text": "Work effectively in teams to complete projects", "median": 5.7, "adjMedian": null, "mean": 5.1111, "sd": 1.8823, "collDecile": 4, "instDecile": 4, "n": 18}, {"position": 23, "itemId": "S180", "text": "Do you expect your grade in this course to be:", "median": 5.0, "adjMedian": null, "mean": 5.2778, "sd": 1.2385, "collDecile": 3, "instDecile": 4, "n": 18}, {"position": 24, "itemId": "S181", "text": "The intellectual challenge presented was:", "median": 4.7, "adjMedian": null, "mean": 4.7222, "sd": 1.4065, "collDecile": 1, "instDecile": 1, "n": 18}, {"position": 25, "itemId": "S182", "text": "The amount of effort you put into this course was:", "median": 4.9, "adjMedian": null, "mean": 5.0, "sd": 1.1055, "collDecile": 1, "instDecile": 1, "n": 18}, {"position": 26, "itemId": "S183", "text": "The amount of effort to succeed in this course was:", "median": 4.0833, "adjMedian": null, "mean": 4.3333, "sd": 1.2019, "collDecile": 0, "instDecile": 0, "n": 18}, {"position": 27, "itemId": "S184", "text": "Your involvement in course (doing assignments, attending classes, etc.) was:", "median": 4.5, "adjMedian": null, "mean": 5.0556, "sd": 1.3529, "collDecile": 0, "instDecile": 0, "n": 18}, {"position": 28, "itemId": "S186", "text": "On average, how many hours per week have you spent on this course, including attending classes, doing readings, reviewing notes, writing papers and any other course related work?", "median": 5.75, "adjMedian": null, "mean": 5.6389, "sd": 2.067, "collDecile": 4, "instDecile": 3, "n": 18}, {"position": 29, "itemId": "S187", "text": "From the total average hours above, how many do you consider were valuable in advancing your education?", "median": 4.3, "adjMedian": null, "mean": 4.3889, "sd": 2.6748, "collDecile": 3, "instDecile": 2, "n": 18}, {"position": 30, "itemId": "S188", "text": "What grade do you expect in this course?", "median": 3.895, "adjMedian": null, "mean": 3.6706, "sd": 0.4947, "collDecile": 7, "instDecile": 7, "n": 18}, {"position": 31, "itemId": "S189", "text": "In regard to your academic program, is this course best described as:", "median": null, "adjMedian": null, "mean": null, "sd": null, "collDecile": null, "instDecile": null, "n": 18}, {"position": null, "itemId": "combo", "text": "Overall Summative Rating", "median": 4.6, "adjMedian": 4.626, "mean": 4.0972, "sd": 1.2927, "collDecile": 5, "instDecile": 6, "n": 72}]}, {"evalId": 31728, "term": "Autumn", "year": 2024, "courses": ["BISIA 319-A"], "courseTitle": "Interdisciplinary Arts", "dept": "Interdisciplinary Arts and Sciences", "enrollment": 30, "questionnaires": 6, "responseRate": 0.2, "globalMedian": 4.2, "adjGlobalMedian": 4.5, "cei": 5.5, "nGlobal": 24, "items": [{"position": 1, "itemId": "S1", "text": "The course as a whole was:", "median": 4.5, "adjMedian": 4.7745, "mean": 3.6667, "sd": 1.5986, "collDecile": 5, "instDecile": 6, "n": 6}, {"position": 2, "itemId": "S6", "text": "The course content was:", "median": 4.5, "adjMedian": 4.6968, "mean": 4.0, "sd": 1.4142, "collDecile": 5, "instDecile": 6, "n": 6}, {"position": 3, "itemId": "S13", "text": "The instructor's contribution to the course was:", "median": 4.0, "adjMedian": 4.2392, "mean": 3.3333, "sd": 1.7951, "collDecile": 2, "instDecile": 2, "n": 6}, {"position": 4, "itemId": "S14", "text": "The instructor's effectiveness in teaching the subject matter was:", "median": 4.0, "adjMedian": 4.2857, "mean": 3.3333, "sd": 1.7951, "collDecile": 2, "instDecile": 3, "n": 6}, {"position": 5, "itemId": "S27", "text": "Course organization was:", "median": 4.5, "adjMedian": null, "mean": 3.8333, "sd": 1.3437, "collDecile": 5, "instDecile": 6, "n": 6}, {"position": 6, "itemId": "S28", "text": "Clarity of instructor's voice was:", "median": 4.5, "adjMedian": null, "mean": 4.0, "sd": 1.1547, "collDecile": 3, "instDecile": 4, "n": 6}, {"position": 7, "itemId": "S31", "text": "Explanations by instructor were:", "median": 4.0, "adjMedian": null, "mean": 3.3333, "sd": 1.7951, "collDecile": 2, "instDecile": 3, "n": 6}, {"position": 8, "itemId": "S32", "text": "Instructor's ability to present alternative explanations when needed was:", "median": 4.5, "adjMedian": null, "mean": 4.1667, "sd": 0.8975, "collDecile": 4, "instDecile": 5, "n": 6}, {"position": 9, "itemId": "S34", "text": "Instructor's use of examples and illustrations was:", "median": 4.5, "adjMedian": null, "mean": 4.1667, "sd": 0.8975, "collDecile": 3, "instDecile": 5, "n": 6}, {"position": 10, "itemId": "S38", "text": "Quality of questions or problems raised by the instructor was:", "median": 4.0, "adjMedian": null, "mean": 3.5, "sd": 1.7078, "collDecile": 2, "instDecile": 3, "n": 6}, {"position": 11, "itemId": "S42", "text": "Student confidence in instructor's knowledge was:", "median": 4.5, "adjMedian": null, "mean": 4.0, "sd": 1.1547, "collDecile": 2, "instDecile": 3, "n": 6}, {"position": 12, "itemId": "S45", "text": "Instructor's enthusiasm was:", "median": 4.5, "adjMedian": null, "mean": 4.1667, "sd": 0.8975, "collDecile": 2, "instDecile": 3, "n": 6}, {"position": 13, "itemId": "S46", "text": "Encouragement given students to express themselves was:", "median": 4.5, "adjMedian": null, "mean": 4.0, "sd": 1.1547, "collDecile": 2, "instDecile": 4, "n": 6}, {"position": 14, "itemId": "S47", "text": "Answers to student questions were:", "median": 4.0, "adjMedian": null, "mean": 3.5, "sd": 1.7078, "collDecile": 1, "instDecile": 2, "n": 6}, {"position": 15, "itemId": "S144", "text": "Availability of extra help when needed was:", "median": 4.5, "adjMedian": null, "mean": 3.6667, "sd": 1.7951, "collDecile": 3, "instDecile": 4, "n": 6}, {"position": 16, "itemId": "S145", "text": "Use of class time was:", "median": 3.5, "adjMedian": null, "mean": 3.1667, "sd": 1.7717, "collDecile": 1, "instDecile": 1, "n": 6}, {"position": 17, "itemId": "S148", "text": "Instructor's interest in whether students learned was:", "median": 4.5, "adjMedian": null, "mean": 3.6667, "sd": 1.7951, "collDecile": 3, "instDecile": 4, "n": 6}, {"position": 18, "itemId": "S152", "text": "Amount you learned in the course was:", "median": 4.0, "adjMedian": null, "mean": 3.3333, "sd": 1.7951, "collDecile": 2, "instDecile": 3, "n": 6}, {"position": 19, "itemId": "S154", "text": "Relevance and usefulness of course content were:", "median": 4.1667, "adjMedian": null, "mean": 3.6667, "sd": 1.6997, "collDecile": 2, "instDecile": 3, "n": 6}, {"position": 20, "itemId": "S157", "text": "Evaluative and grading techniques (tests, papers, projects, etc.) were:", "median": 4.5, "adjMedian": null, "mean": 3.3333, "sd": 2.0548, "collDecile": 4, "instDecile": 5, "n": 6}, {"position": 21, "itemId": "S159", "text": "Reasonableness of assigned work was:", "median": 4.5, "adjMedian": null, "mean": 3.5, "sd": 1.893, "collDecile": 4, "instDecile": 5, "n": 6}, {"position": 22, "itemId": "S161", "text": "Clarity of student responsibilities and requirements was:", "median": 4.5, "adjMedian": null, "mean": 3.6667, "sd": 1.7951, "collDecile": 4, "instDecile": 5, "n": 6}, {"position": 23, "itemId": "S180", "text": "Do you expect your grade in this course to be:", "median": 4.5, "adjMedian": null, "mean": 4.8333, "sd": 0.8975, "collDecile": 1, "instDecile": 2, "n": 6}, {"position": 24, "itemId": "S181", "text": "The intellectual challenge presented was:", "median": 5.5, "adjMedian": null, "mean": 5.0, "sd": 1.1547, "collDecile": 6, "instDecile": 5, "n": 6}, {"position": 25, "itemId": "S182", "text": "The amount of effort you put into this course was:", "median": 5.8333, "adjMedian": null, "mean": 5.6667, "sd": 0.9428, "collDecile": 6, "instDecile": 5, "n": 6}, {"position": 26, "itemId": "S183", "text": "The amount of effort to succeed in this course was:", "median": 6.1667, "adjMedian": null, "mean": 6.1667, "sd": 0.6872, "collDecile": 8, "instDecile": 8, "n": 6}, {"position": 27, "itemId": "S184", "text": "Your involvement in course (doing assignments, attending classes, etc.) was:", "median": 6.1667, "adjMedian": null, "mean": 6.1667, "sd": 0.6872, "collDecile": 8, "instDecile": 7, "n": 6}, {"position": 28, "itemId": "S186", "text": "On average, how many hours per week have you spent on this course, including attending classes, doing readings, reviewing notes, writing papers and any other course related work?", "median": 5.0, "adjMedian": null, "mean": 6.1667, "sd": 2.4267, "collDecile": 3, "instDecile": 2, "n": 6}, {"position": 29, "itemId": "S187", "text": "From the total average hours above, how many do you consider were valuable in advancing your education?", "median": 4.5, "adjMedian": null, "mean": 4.5833, "sd": 2.1683, "collDecile": 4, "instDecile": 3, "n": 6}, {"position": 30, "itemId": "S188", "text": "What grade do you expect in this course?", "median": 3.5667, "adjMedian": null, "mean": 3.5833, "sd": 0.2267, "collDecile": 2, "instDecile": 3, "n": 6}, {"position": 31, "itemId": "S189", "text": "In regard to your academic program, is this course best described as:", "median": null, "adjMedian": null, "mean": null, "sd": null, "collDecile": null, "instDecile": null, "n": 6}, {"position": null, "itemId": "combo", "text": "Overall Summative Rating", "median": 4.2143, "adjMedian": 4.464, "mean": 3.5833, "sd": 1.6812, "collDecile": 3, "instDecile": 4, "n": 24}]}, {"evalId": 32201, "term": "Winter", "year": 2025, "courses": ["BISIA 399-A"], "courseTitle": "Art And Design Digital Portfolio", "dept": "Interdisciplinary Arts and Sciences", "enrollment": 61, "questionnaires": 15, "responseRate": 0.2459, "globalMedian": 4.8, "adjGlobalMedian": 4.7, "cei": 5.0, "nGlobal": 59, "items": [{"position": 1, "itemId": "S4", "text": "The  distance learning course as a whole was:", "median": 4.875, "adjMedian": 4.7313, "mean": 4.5333, "sd": 0.9568, "collDecile": 9, "instDecile": 9, "n": 15}, {"position": 2, "itemId": "S6", "text": "The course content was:", "median": 4.875, "adjMedian": 4.767, "mean": 4.4667, "sd": 1.147, "collDecile": 9, "instDecile": 9, "n": 15}, {"position": 3, "itemId": "S13", "text": "The instructor's contribution to the course was:", "median": 4.8182, "adjMedian": 4.7046, "mean": 4.3333, "sd": 1.3499, "collDecile": 7, "instDecile": 7, "n": 15}, {"position": 4, "itemId": "S21", "text": "The effectiveness of the distance learning format was:", "median": 4.8, "adjMedian": 4.6589, "mean": 4.5, "sd": 1.0522, "collDecile": 7, "instDecile": 7, "n": 14}, {"position": 5, "itemId": "S86", "text": "The helpfulness of the distance learning staff overall was:", "median": 4.875, "adjMedian": null, "mean": 4.6, "sd": 1.0198, "collDecile": null, "instDecile": 8, "n": 15}, {"position": 6, "itemId": "S42", "text": "Student confidence in instructor's knowledge was:", "median": 4.875, "adjMedian": null, "mean": 4.6667, "sd": 0.7888, "collDecile": 7, "instDecile": 7, "n": 15}, {"position": 7, "itemId": "S87", "text": "Timeliness of instructor response to assignments was:", "median": 4.875, "adjMedian": null, "mean": 4.8, "sd": 0.4, "collDecile": 8, "instDecile": 8, "n": 15}, {"position": 8, "itemId": "S88", "text": "Quality/helpfulness of instructor feedback was:", "median": 4.8182, "adjMedian": null, "mean": 4.5333, "sd": 1.0241, "collDecile": 7, "instDecile": 7, "n": 15}, {"position": 9, "itemId": "S73", "text": "Tailoring of instruction to varying student skill levels was:", "median": 4.8182, "adjMedian": null, "mean": 4.4667, "sd": 1.2579, "collDecile": 9, "instDecile": 8, "n": 15}, {"position": 10, "itemId": "S50", "text": "Clarity of course objectives was:", "median": 4.9231, "adjMedian": null, "mean": 4.8667, "sd": 0.3399, "collDecile": 9, "instDecile": 8, "n": 15}, {"position": 11, "itemId": "S89", "text": "The organization of the study guide was:", "median": 4.9231, "adjMedian": null, "mean": 4.8, "sd": 0.5416, "collDecile": null, "instDecile": 9, "n": 15}, {"position": 12, "itemId": "S90", "text": "Content of the study guide was:", "median": 4.875, "adjMedian": null, "mean": 4.7333, "sd": 0.5735, "collDecile": null, "instDecile": 9, "n": 15}, {"position": 13, "itemId": "S91", "text": "Relevance of textbook for self-study was:", "median": 4.75, "adjMedian": null, "mean": 4.5333, "sd": 0.718, "collDecile": null, "instDecile": 8, "n": 15}, {"position": 14, "itemId": "S92", "text": "Usefulness of reading assignments in understanding course content was:", "median": 4.8182, "adjMedian": null, "mean": 4.6, "sd": 0.8, "collDecile": 8, "instDecile": 8, "n": 15}, {"position": 15, "itemId": "S93", "text": "Usefulness of written assignments in understanding course content was:", "median": 4.875, "adjMedian": null, "mean": 4.6667, "sd": 0.7888, "collDecile": 8, "instDecile": 8, "n": 15}, {"position": 16, "itemId": "S94", "text": "Usefulness of video media in understanding course content was:", "median": 4.8182, "adjMedian": null, "mean": 4.6667, "sd": 0.5963, "collDecile": null, "instDecile": 8, "n": 15}, {"position": 17, "itemId": "S95", "text": "Usefulness of online resources in understanding course content was:", "median": 4.875, "adjMedian": null, "mean": 4.6667, "sd": 0.7888, "collDecile": 9, "instDecile": 8, "n": 15}, {"position": 18, "itemId": "S96", "text": "Usefulness of audio media in understanding course content was:", "median": 4.8, "adjMedian": null, "mean": 4.5714, "sd": 0.8207, "collDecile": null, "instDecile": 8, "n": 14}, {"position": 19, "itemId": "S154", "text": "Relevance and usefulness of course content were:", "median": 4.875, "adjMedian": null, "mean": 4.6667, "sd": 0.7888, "collDecile": 8, "instDecile": 8, "n": 15}, {"position": 20, "itemId": "S157", "text": "Evaluative and grading techniques (tests, papers, projects, etc.) were:", "median": 4.9231, "adjMedian": null, "mean": 4.8667, "sd": 0.3399, "collDecile": 9, "instDecile": 9, "n": 15}, {"position": 21, "itemId": "S159", "text": "Reasonableness of assigned work was:", "median": 4.9231, "adjMedian": null, "mean": 4.8, "sd": 0.5416, "collDecile": 9, "instDecile": 9, "n": 15}, {"position": 22, "itemId": "S161", "text": "Clarity of student responsibilities and requirements was:", "median": 4.9231, "adjMedian": null, "mean": 4.8, "sd": 0.5416, "collDecile": 9, "instDecile": 9, "n": 15}, {"position": 23, "itemId": "S180", "text": "Do you expect your grade in this course to be:", "median": 5.6667, "adjMedian": null, "mean": 5.3846, "sd": 1.3889, "collDecile": 6, "instDecile": 6, "n": 13}, {"position": 24, "itemId": "S181", "text": "The intellectual challenge presented was:", "median": 5.625, "adjMedian": null, "mean": 5.0769, "sd": 1.8171, "collDecile": 6, "instDecile": 5, "n": 13}, {"position": 25, "itemId": "S182", "text": "The amount of effort you put into this course was:", "median": 6.0, "adjMedian": null, "mean": 5.6154, "sd": 1.3889, "collDecile": 7, "instDecile": 7, "n": 13}, {"position": 26, "itemId": "S183", "text": "The amount of effort to succeed in this course was:", "median": 5.375, "adjMedian": null, "mean": 5.3846, "sd": 1.2114, "collDecile": 5, "instDecile": 3, "n": 13}, {"position": 27, "itemId": "S184", "text": "Your involvement in course (doing assignments, attending classes, etc.) was:", "median": 5.875, "adjMedian": null, "mean": 5.5385, "sd": 1.3368, "collDecile": 6, "instDecile": 5, "n": 13}, {"position": 28, "itemId": "S186", "text": "On average, how many hours per week have you spent on this course, including attending classes, doing readings, reviewing notes, writing papers and any other course related work?", "median": 5.0, "adjMedian": null, "mean": 5.8846, "sd": 3.7935, "collDecile": 3, "instDecile": 2, "n": 13}, {"position": 29, "itemId": "S187", "text": "From the total average hours above, how many do you consider were valuable in advancing your education?", "median": 5.0, "adjMedian": null, "mean": 5.7692, "sd": 3.9155, "collDecile": 6, "instDecile": 4, "n": 13}, {"position": 30, "itemId": "S188", "text": "What grade do you expect in this course?", "median": 3.925, "adjMedian": null, "mean": 3.5417, "sd": 0.8126, "collDecile": 8, "instDecile": 8, "n": 13}, {"position": 31, "itemId": "S189", "text": "In regard to your academic program, is this course best described as:", "median": null, "adjMedian": null, "mean": null, "sd": null, "collDecile": null, "instDecile": null, "n": 13}, {"position": null, "itemId": "combo", "text": "Overall Summative Rating", "median": 4.8444, "adjMedian": 4.7234, "mean": 4.4576, "sd": 1.1398, "collDecile": 8, "instDecile": 8, "n": 59}]}, {"evalId": 32948, "term": "Spring", "year": 2025, "courses": ["BCWRIT 512-A"], "courseTitle": "Poetics Seminar: Art, Technology, And Practice", "dept": "Interdisciplinary Arts and Sciences", "enrollment": 13, "questionnaires": 7, "responseRate": 0.5385, "globalMedian": 5.0, "adjGlobalMedian": 4.4, "cei": 6.6, "nGlobal": 28, "items": [{"position": 1, "itemId": "S1", "text": "The course as a whole was:", "median": 5.0, "adjMedian": 4.3776, "mean": 5.0, "sd": 0.0, "collDecile": 9, "instDecile": 9, "n": 7}, {"position": 2, "itemId": "S6", "text": "The course content was:", "median": 5.0, "adjMedian": 4.4616, "mean": 5.0, "sd": 0.0, "collDecile": 9, "instDecile": 9, "n": 7}, {"position": 3, "itemId": "S13", "text": "The instructor's contribution to the course was:", "median": 5.0, "adjMedian": 4.4767, "mean": 5.0, "sd": 0.0, "collDecile": 9, "instDecile": 9, "n": 7}, {"position": 4, "itemId": "S14", "text": "The instructor's effectiveness in teaching the subject matter was:", "median": 5.0, "adjMedian": 4.3879, "mean": 5.0, "sd": 0.0, "collDecile": 9, "instDecile": 9, "n": 7}, {"position": 5, "itemId": "S107", "text": "The course was integrated with the rest of the curriculum.", "median": 6.9167, "adjMedian": null, "mean": 6.7143, "sd": 0.6999, "collDecile": 9, "instDecile": 7, "n": 7}, {"position": 6, "itemId": "S108", "text": "The instructor created an atmosphere of engagement.", "median": 7.0, "adjMedian": null, "mean": 7.0, "sd": 0.0, "collDecile": 9, "instDecile": 9, "n": 7}, {"position": 7, "itemId": "S109", "text": "The instructor stimulated me to acquire new skills and approaches.", "median": 7.0, "adjMedian": null, "mean": 7.0, "sd": 0.0, "collDecile": 9, "instDecile": 9, "n": 7}, {"position": 8, "itemId": "S110", "text": "The instructor encouraged me to think independently.", "median": 7.0, "adjMedian": null, "mean": 7.0, "sd": 0.0, "collDecile": 9, "instDecile": 9, "n": 7}, {"position": 9, "itemId": "S111", "text": "The course was structured to facilitate learning.", "median": 7.0, "adjMedian": null, "mean": 7.0, "sd": 0.0, "collDecile": 9, "instDecile": 9, "n": 7}, {"position": 10, "itemId": "S112", "text": "Feedback by instructor during design/artistic process was valuable.", "median": 6.9167, "adjMedian": null, "mean": 6.7143, "sd": 0.6999, "collDecile": 8, "instDecile": 7, "n": 7}, {"position": 11, "itemId": "S113", "text": "Feedback from peers was valuable.", "median": 7.0, "adjMedian": null, "mean": 7.0, "sd": 0.0, "collDecile": 9, "instDecile": 9, "n": 7}, {"position": 12, "itemId": "S114", "text": "Feedback from visitors/outside reviewers was valuable.", "median": 6.9167, "adjMedian": null, "mean": 6.5714, "sd": 1.0498, "collDecile": 9, "instDecile": 8, "n": 7}, {"position": 13, "itemId": "S115", "text": "Develop your oral communication/presentation skills", "median": 6.9167, "adjMedian": null, "mean": 6.8571, "sd": 0.3499, "collDecile": 9, "instDecile": 8, "n": 7}, {"position": 14, "itemId": "S116", "text": "Develop your ability to express your ideas in artistic/graphic form", "median": 7.0, "adjMedian": null, "mean": 7.0, "sd": 0.0, "collDecile": 9, "instDecile": 9, "n": 7}, {"position": 15, "itemId": "S117", "text": "Develop and use your creativity", "median": 7.0, "adjMedian": null, "mean": 7.0, "sd": 0.0, "collDecile": 9, "instDecile": 9, "n": 7}, {"position": 16, "itemId": "S118", "text": "Develop your ability to work in fluid or ambiguous situations", "median": 7.0, "adjMedian": null, "mean": 7.0, "sd": 0.0, "collDecile": 9, "instDecile": 9, "n": 7}, {"position": 17, "itemId": "S119", "text": "Develop your ability to provide peer critique", "median": 6.9167, "adjMedian": null, "mean": 6.5714, "sd": 1.0498, "collDecile": 9, "instDecile": 8, "n": 7}, {"position": 18, "itemId": "S120", "text": "Develop your ability for self-critique", "median": 6.9167, "adjMedian": null, "mean": 6.5714, "sd": 1.0498, "collDecile": 9, "instDecile": 7, "n": 7}, {"position": 19, "itemId": "S121", "text": "Practice design/artistic strategies and processes", "median": 6.9167, "adjMedian": null, "mean": 6.8571, "sd": 0.3499, "collDecile": 8, "instDecile": 7, "n": 7}, {"position": 20, "itemId": "S122", "text": "Integrate & apply new skills and knowledge in your products", "median": 7.0, "adjMedian": null, "mean": 7.0, "sd": 0.0, "collDecile": 9, "instDecile": 9, "n": 7}, {"position": 21, "itemId": "S123", "text": "Apply the principles of past work of others and examples", "median": 7.0, "adjMedian": null, "mean": 7.0, "sd": 0.0, "collDecile": 9, "instDecile": 9, "n": 7}, {"position": 22, "itemId": "S124", "text": "Work effectively in teams to complete projects", "median": 6.8, "adjMedian": null, "mean": 6.4286, "sd": 1.0498, "collDecile": 8, "instDecile": 7, "n": 7}, {"position": 23, "itemId": "S180", "text": "Do you expect your grade in this course to be:", "median": 6.3333, "adjMedian": null, "mean": 6.1429, "sd": 0.9897, "collDecile": 9, "instDecile": 9, "n": 7}, {"position": 24, "itemId": "S181", "text": "The intellectual challenge presented was:", "median": 7.0, "adjMedian": null, "mean": 7.0, "sd": 0.0, "collDecile": 9, "instDecile": 9, "n": 7}, {"position": 25, "itemId": "S182", "text": "The amount of effort you put into this course was:", "median": 6.625, "adjMedian": null, "mean": 6.5714, "sd": 0.4949, "collDecile": 9, "instDecile": 9, "n": 7}, {"position": 26, "itemId": "S183", "text": "The amount of effort to succeed in this course was:", "median": 6.625, "adjMedian": null, "mean": 6.5714, "sd": 0.4949, "collDecile": 9, "instDecile": 9, "n": 7}, {"position": 27, "itemId": "S184", "text": "Your involvement in course (doing assignments, attending classes, etc.) was:", "median": 7.0, "adjMedian": null, "mean": 7.0, "sd": 0.0, "collDecile": 9, "instDecile": 9, "n": 7}, {"position": 28, "itemId": "S186", "text": "On average, how many hours per week have you spent on this course, including attending classes, doing readings, reviewing notes, writing papers and any other course related work?", "median": 9.1667, "adjMedian": null, "mean": 9.3571, "sd": 2.7994, "collDecile": 9, "instDecile": 7, "n": 7}, {"position": 29, "itemId": "S187", "text": "From the total average hours above, how many do you consider were valuable in advancing your education?", "median": 9.0, "adjMedian": null, "mean": 8.7857, "sd": 3.4523, "collDecile": 9, "instDecile": 9, "n": 7}, {"position": 30, "itemId": "S188", "text": "What grade do you expect in this course?", "median": 3.94, "adjMedian": null, "mean": 3.8643, "sd": 0.1355, "collDecile": 8, "instDecile": 8, "n": 7}, {"position": 31, "itemId": "S189", "text": "In regard to your academic program, is this course best described as:", "median": null, "adjMedian": null, "mean": null, "sd": null, "collDecile": null, "instDecile": null, "n": 7}, {"position": null, "itemId": "combo", "text": "Overall Summative Rating", "median": 5.0, "adjMedian": 4.4226, "mean": 5.0, "sd": 0.0, "collDecile": 9, "instDecile": 9, "n": 28}]}]};
+
+// Item classification by IAS item ID
+var SUMMATIVE_IDS   = {S1:1, S6:1, S13:1, S14:1};
+var ENGAGEMENT_IDS  = {S180:1, S181:1, S182:1, S183:1, S184:1};
+var EXCLUDE_IDS     = {S186:1, S187:1, S188:1, S189:1, combo:1};
+// Everything else (S27-S161) is Standard Formative
+
+function sectionOf(itemId) {
+  if (SUMMATIVE_IDS[itemId])  return "summative";
+  if (ENGAGEMENT_IDS[itemId]) return "engagement";
+  if (EXCLUDE_IDS[itemId])    return "exclude";
+  return "formative";
+}
+
+// Color thresholds: 0-5 scale
+function chipClass05(v) {
+  if (v === null || v === undefined) return "";
+  return v >= 4.5 ? "chip-green" : v >= 3.5 ? "chip-amber" : "chip-red";
+}
+function barColor05(v) {
+  if (v === null || v === undefined) return "#ccc";
+  return v >= 4.5 ? "#2d7a47" : v >= 3.5 ? "#b87333" : "#b91c1c";
+}
+function barWidth05(v) {
+  if (v === null || v === undefined) return 0;
+  return Math.min(100, Math.max(0, v / 5 * 100)).toFixed(1);
+}
+
+// Color thresholds: 1-7 scale (CEI / engagement items)
+function chipClass17(v) {
+  if (v === null || v === undefined) return "";
+  return v >= 5.5 ? "chip-green" : v >= 4.0 ? "chip-amber" : "chip-red";
+}
+function barColor17(v) {
+  if (v === null || v === undefined) return "#ccc";
+  return v >= 5.5 ? "#2d7a47" : v >= 4.0 ? "#b87333" : "#b91c1c";
+}
+function barWidth17(v) {
+  if (v === null || v === undefined) return 0;
+  return Math.min(100, Math.max(0, (v - 1) / 6 * 100)).toFixed(1);
+}
+
+function fmt(v) { return (v !== null && v !== undefined) ? Number(v).toFixed(2) : "—"; }
+function fmtPct(v) { return (v !== null && v !== undefined) ? Math.round(v * 100) + "%" : "—"; }
+
+function chip05(v) {
+  if (v === null || v === undefined) return "—";
+  return '<span class="chip ' + chipClass05(v) + '">' + fmt(v) + "</span>";
+}
+function chip17(v) {
+  if (v === null || v === undefined) return "—";
+  return '<span class="chip ' + chipClass17(v) + '">' + fmt(v) + "</span>";
+}
+
+function renderSummary() {
+  document.getElementById("summaryBody").innerHTML = DATA.evaluations.map(function(e) {
+    return "<tr>" +
+      "<td>" + e.term + " " + e.year + "</td>" +
+      "<td>" + e.courses.join(" / ") + "</td>" +
+      "<td>" + e.courseTitle + "</td>" +
+      '<td class="num">' + e.enrollment + "</td>" +
+      '<td class="num">' + e.questionnaires + " (" + fmtPct(e.responseRate) + ")</td>" +
+      '<td class="num">' + chip05(e.globalMedian) + "</td>" +
+      '<td class="num">' + chip17(e.cei) + "</td>" +
+      "</tr>";
+  }).join("");
+}
+
+function renderItemRow(item, isEngagement) {
+  var median = item.median;
+  var w = isEngagement ? barWidth17(median) : barWidth05(median);
+  var color = isEngagement ? barColor17(median) : barColor05(median);
+  var cls = isEngagement ? chipClass17(median) : chipClass05(median);
+  return "<tr>" +
+    '<td class="item-text-cell">' + item.text + "</td>" +
+    '<td class="bar-cell">' +
+      '<div class="bar-wrap">' +
+        '<div class="bar-track"><div class="bar-fill" style="width:' + w + '%;background:' + color + '"></div></div>' +
+        '<span class="bar-val ' + cls + '">' + fmt(median) + "</span>" +
+      "</div>" +
+    "</td>" +
+    '<td class="n-cell">' + (item.n !== null ? item.n : "—") + "</td>" +
+    "</tr>";
+}
+
+function renderSection(items, title, scaleNote, isEngagement, sectionKey) {
+  if (!items.length) return "";
+  var rows = items.map(function(it) { return renderItemRow(it, isEngagement); }).join("");
+  return '<details class="item-section" data-section="' + sectionKey + '">' +
+    '<summary>' + title + ' <span class="scale-note">(' + scaleNote + ')</span></summary>' +
+    '<table class="items-table"><tbody>' + rows + '</tbody></table>' +
+    '</details>';
+}
+
+function renderCards() {
+  document.getElementById("evalCards").innerHTML = DATA.evaluations.map(function(e) {
+    var pct = fmtPct(e.responseRate);
+    var osr = e.globalMedian;
+    var cei = e.cei;
+    var osrClass = chipClass05(osr);
+    var ceiClass = chipClass17(cei);
+
+    var summative  = [], engagement = [], formative = [];
+    e.items.forEach(function(it) {
+      var s = sectionOf(it.itemId);
+      if (s === "summative")  summative.push(it);
+      else if (s === "engagement") engagement.push(it);
+      else if (s === "formative")  formative.push(it);
+    });
+
+    var osrHtml = osr !== null
+      ? '<div class="score-big ' + osrClass + '">' + fmt(osr) + "</div>"
+      : '<div class="score-big">—</div>';
+    var ceiHtml = cei !== null
+      ? '<div class="score-big ' + ceiClass + '">' + fmt(cei) + "</div>"
+      : '<div class="score-big">—</div>';
+
+    return '<div class="eval-card" data-eval-id="' + e.evalId + '">' +
+      '<div class="eval-card-header">' +
+        '<h3>' + e.term + ' ' + e.year + ' &nbsp;&middot;&nbsp; ' + e.courses.join(' / ') + ' &nbsp;&middot;&nbsp; ' + e.courseTitle + '</h3>' +
+        '<p class="eval-response">' + e.questionnaires + ' of ' + e.enrollment + ' students responded (' + pct + ')</p>' +
+      '</div>' +
+      '<div class="osr-cei-row">' +
+        '<div class="osr-box">' +
+          '<div class="score-desc"><strong>Overall Summative Rating</strong> represents the combined responses of students to the four global summative items and is presented to provide an overall index of the class’s quality:</div>' +
+          '<div class="score-block"><div class="score-label">OSR Median</div>' + osrHtml + '<div class="score-scale">0=lowest; 5=highest</div></div>' +
+        '</div>' +
+        '<div class="cei-box">' +
+          '<div class="score-desc"><strong>Challenge and Engagement Index (CEI)</strong> combines student responses to several IASystem items relating to how academically challenging students found the course to be and how engaged they were:</div>' +
+          '<div class="score-block"><div class="score-label">CEI</div>' + ceiHtml + '<div class="score-scale">1=lowest; 7=highest</div></div>' +
+        '</div>' +
+      '</div>' +
+      '<div class="section-controls">' +
+        '<button class="ctrl-btn" onclick="toggleAll(this,true)">Expand All</button>' +
+        '<button class="ctrl-btn" onclick="toggleAll(this,false)">Collapse All</button>' +
+      '</div>' +
+      renderSection(summative,  "Summative Items",          "0=lowest; 5=highest", false, "summative") +
+      renderSection(engagement, "Student Engagement",       "1=lowest; 7=highest", true,  "engagement") +
+      renderSection(formative,  "Standard Formative Items", "0=lowest; 5=highest", false, "formative") +
+    '</div>';
+  }).join("");
+}
+
+function toggleAll(btn, open) {
+  var card = btn.closest('.eval-card');
+  card.querySelectorAll('details.item-section').forEach(function(d) { d.open = open; });
+}
+
+renderSummary();
+renderCards();
+</script>
+</body>
+</html>

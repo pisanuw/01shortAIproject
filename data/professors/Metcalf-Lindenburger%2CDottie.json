@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-05-05T23:34:07Z",
+  "id": "Metcalf-Lindenburger%2CDottie",
+  "professor": "Metcalf-Lindenburger,Dottie",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "First Year Pre-Major Program",
+      "term": "AUT2024",
+      "course": "B CORE 110",
+      "courseTitle": "Discovery Core: Natural Sciences",
+      "section": "I"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "First Year Pre-Major Program",
+      "term": "AUT2024",
+      "course": "B CORE 107",
+      "courseTitle": "Discovery Core: Social Sciences",
+      "section": "R"
+    }
+  ],
+  "source": "eval-only"
+}

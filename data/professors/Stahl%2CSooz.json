@@ -1,0 +1,59 @@
+{
+  "generatedAt": "2026-05-05T23:34:07Z",
+  "id": "Stahl%2CSooz",
+  "professor": "Stahl,Sooz",
+  "recordCount": 5,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Educational Studies",
+      "term": "WIN2026",
+      "course": "B EDUC 210",
+      "courseTitle": "Teaching And Learning In A Multicultural Society",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Educational Studies",
+      "term": "WIN2025",
+      "course": "B EDUC 250",
+      "courseTitle": "Topics In Education And Popular Culture",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Educational Studies",
+      "term": "SPR2025",
+      "course": "B EDUC 210",
+      "courseTitle": "Teaching And Learning In A Multicultural Society",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Educational Studies",
+      "term": "AUT2025",
+      "course": "B EDUC 250",
+      "courseTitle": "Topics In Education And Popular Culture",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Educational Studies",
+      "term": "AUT2024",
+      "course": "B EDUC 205",
+      "courseTitle": "Education And Equity In The Us",
+      "section": "A"
+    }
+  ],
+  "source": "eval-only"
+}

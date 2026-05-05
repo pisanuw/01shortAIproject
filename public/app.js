@@ -119,6 +119,7 @@ let state = {
   catalogIndex: null,   // parsed catalog_index.json
   professorIndex: null, // parsed professor_index.json
   courseIndex: null,    // parsed course_index.json
+  evalIndex: null,      // parsed data/evals/eval_index.json
   professorId: null,
   professorName: "",
   courseId: null,
@@ -166,6 +167,7 @@ const pageText       = document.getElementById("pageText");
 const summaryText    = document.getElementById("summaryText");
 const resultsBody    = document.getElementById("resultsBody");
 const professorSummaryText = document.getElementById("professorSummaryText");
+const professorEvalLink    = document.getElementById("professorEvalLink");
 const professorResultsBody = document.getElementById("professorResultsBody");
 const professorPageText = document.getElementById("professorPageText");
 const professorPrevPageBtn = document.getElementById("professorPrevPageBtn");
@@ -590,6 +592,14 @@ async function loadCourseRecords(courseId) {
 
 function byLocale(a, b) { return a.localeCompare(b); }
 
+function professorLink(name) {
+  if (!name || name === "TBA") return name || "TBA";
+  const prof = (state.professorIndex?.professors || []).find(p => p.name === name);
+  if (!prof) return name;
+  const safeId = prof.id.replace(/"/g, "&quot;");
+  return `<button class="prof-link" data-prof-id="${safeId}">${name}</button>`;
+}
+
 function quarterSort(a, b) {
   return QUARTER_ORDER.indexOf(a) - QUARTER_ORDER.indexOf(b);
 }
@@ -690,7 +700,7 @@ function renderRows(filtered) {
       <td>${r.course}</td>
       <td>${r.section}</td>
       <td>${r.courseTitle}</td>
-      <td>${r.instructor}</td>
+      <td>${professorLink(r.instructor)}</td>
       <td>${getYearLabel(r.term)}</td>
       <td>${getQuarterLabel(r.term)}</td>
     </tr>
@@ -757,6 +767,14 @@ function updateProfessorResults() {
   const filtered = sortProfessorRecords(state.professorRecords);
   professorSummaryText.textContent = `Showing ${filtered.length} section records for ${state.professorName}.`;
   renderProfessorRows(filtered);
+
+  const evalIds = state.evalIndex?.instructors || [];
+  if (state.professorId && evalIds.includes(state.professorId)) {
+    professorEvalLink.href = `./evals/${state.professorId}.html`;
+    professorEvalLink.hidden = false;
+  } else {
+    professorEvalLink.hidden = true;
+  }
 }
 
 function sortCourseRecords(list) {
@@ -792,7 +810,7 @@ function renderCourseRows(filtered) {
       <td>${r.course}</td>
       <td>${r.section}</td>
       <td>${r.courseTitle}</td>
-      <td>${r.instructor || 'TBA'}</td>
+      <td>${professorLink(r.instructor)}</td>
       <td>${getYearLabel(r.term)}</td>
       <td>${getQuarterLabel(r.term)}</td>
     </tr>
@@ -810,6 +828,16 @@ function updateCourseResults() {
 }
 
 // ── Event listeners ────────────────────────────────────────────────────────────
+
+resultsBody.addEventListener("click", e => {
+  const btn = e.target.closest(".prof-link");
+  if (btn) selectProfessor(btn.dataset.profId);
+});
+
+courseResultsBody.addEventListener("click", e => {
+  const btn = e.target.closest(".prof-link");
+  if (btn) selectProfessor(btn.dataset.profId);
+});
 
 document.getElementById("backToCampus").addEventListener("click", showCampusStep);
 document.getElementById("backToDept").addEventListener("click", () => {
@@ -877,18 +905,30 @@ async function loadCourseIndex() {
   }
 }
 
+async function loadEvalIndex() {
+  try {
+    const resp = await fetch(withDataVersion("../data/evals/eval_index.json"), { cache: "no-store" });
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    return await resp.json();
+  } catch {
+    return null;
+  }
+}
+
 async function start() {
   // Try new multi-campus index first
-  const [index, professorIndex, courseIndex] = await Promise.all([
+  const [index, professorIndex, courseIndex, evalIndex] = await Promise.all([
     loadCatalogIndex(),
     loadProfessorIndex(),
     loadCourseIndex(),
+    loadEvalIndex(),
   ]);
 
   if (index && Object.keys(index.campuses || {}).length > 0) {
     state.catalogIndex = index;
     state.professorIndex = professorIndex;
     state.courseIndex = courseIndex;
+    state.evalIndex = evalIndex;
 
     // Check if deep link in hash
     const { campus, dept, professorId, courseId } = parseHash();

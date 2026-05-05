@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-05-05T23:34:07Z",
+  "id": "Kim%2CJohn",
+  "professor": "Kim,John",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bme",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "WIN2025",
+      "course": "B ME 493",
+      "courseTitle": "Advanced Special Topics In Mechanical Engineering",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bme",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "AUT2025",
+      "course": "B ME 221",
+      "courseTitle": "Statics",
+      "section": "A"
+    }
+  ],
+  "source": "eval-only"
+}

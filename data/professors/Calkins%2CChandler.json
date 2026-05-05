@@ -1,0 +1,49 @@
+{
+  "generatedAt": "2026-05-05T23:34:07Z",
+  "id": "Calkins%2CChandler",
+  "professor": "Calkins,Chandler",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "cssskl",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "WIN2026",
+      "course": "CSSSKL 143",
+      "courseTitle": "Computer Programming Skills II",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "cssskl",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "WIN2026",
+      "course": "CSSSKL 142",
+      "courseTitle": "Computer Programming Skills I",
+      "section": "C"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "cssskl",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "AUT2025",
+      "course": "CSSSKL 143",
+      "courseTitle": "Computer Programming Skills II",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "cssskl",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "AUT2025",
+      "course": "CSSSKL 142",
+      "courseTitle": "Computer Programming Skills I",
+      "section": "D"
+    }
+  ],
+  "source": "eval-only"
+}

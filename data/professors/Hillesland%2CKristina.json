@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-05T23:34:07Z",
+  "id": "Hillesland%2CKristina",
+  "professor": "Hillesland,Kristina",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbio",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "AUT2024",
+      "course": "B BIO 370",
+      "courseTitle": "Microbiology",
+      "section": "AB"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbio",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "AUT2024",
+      "course": "B BIO 370",
+      "courseTitle": "Microbiology",
+      "section": "AA"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbio",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "AUT2024",
+      "course": "B BIO 370",
+      "courseTitle": "Microbiology",
+      "section": "A"
+    }
+  ],
+  "source": "eval-only"
+}

@@ -16,6 +16,8 @@
     "build:seattle": "python3 scripts/build_catalog.py --campus S",
     "build:add:sum2026": "python3 scripts/build_catalog.py --campus all --add-term SUM2026",
     "build:all": "python3 scripts/build_catalog.py --campus all",
+    "build:evals": "python3 scripts/build_evals.py",
+    "build:evals:one": "python3 scripts/build_evals.py --instructor",
     "refresh:data": "npm run download:data && npm run build:data",
     "refresh:all": "npm run download:all && npm run build:all",
     "dev": "python3 scripts/admin_server.py --port ${PORT:-4173}"

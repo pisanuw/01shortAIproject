@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-05-05T23:34:07Z",
+  "id": "Johns%2CTymon",
+  "professor": "Johns,Tymon",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "WIN2025",
+      "course": "B BUS 110",
+      "courseTitle": "Personal Finance",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "SPR2025",
+      "course": "B BUS 110",
+      "courseTitle": "Personal Finance",
+      "section": "A"
+    }
+  ],
+  "source": "eval-only"
+}

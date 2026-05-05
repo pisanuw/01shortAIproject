@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Seah, Yee Mey — Course Evaluations</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,700;1,700&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #f2f4ef;
+      --card: #ffffff;
+      --ink: #172121;
+      --muted: #516262;
+      --accent: #cf5c36;
+      --accent-soft: #f2d0c3;
+      --line: #d8dfd1;
+      --green: #2d7a47;
+      --green-bg: #e8f5ee;
+      --amber: #8a5c00;
+      --amber-bg: #fef3e2;
+      --red: #b91c1c;
+      --red-bg: #fdecea;
+      --bar-track: #e4e8e0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: "Space Grotesk", sans-serif;
+      color: var(--ink);
+      background: radial-gradient(circle at 20% 10%, #edf3dc 0%, transparent 35%),
+        radial-gradient(circle at 90% 90%, #ffe4d8 0%, transparent 45%), var(--bg);
+      min-height: 100vh;
+      padding: 32px 16px;
+    }
+    .app {
+      max-width: 1060px;
+      margin: 0 auto;
+      background: color-mix(in srgb, var(--card) 88%, #f9fbf2 12%);
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      box-shadow: 0 20px 50px rgba(23,33,33,0.12);
+      padding: 32px;
+    }
+    .back-link {
+      display: inline-block;
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 0.88rem;
+      margin-bottom: 18px;
+    }
+    .back-link:hover { text-decoration: underline; }
+    h1 {
+      font-family: "Fraunces", serif;
+      font-size: clamp(1.6rem, 3.5vw, 2.4rem);
+      letter-spacing: -0.02em;
+      margin-bottom: 6px;
+    }
+    .rank-badge {
+      display: inline-block;
+      background: var(--accent-soft);
+      color: #6d2f1b;
+      padding: 4px 12px;
+      border-radius: 999px;
+      font-size: 0.82rem;
+      font-weight: 700;
+      margin-bottom: 28px;
+    }
+    h2 { font-family: "Fraunces", serif; font-size: 1.2rem; margin: 28px 0 12px; }
+    hr.divider { border: none; border-top: 1px solid var(--line); margin: 32px 0; }
+    /* Summary table */
+    .table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 14px; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.87rem; }
+    thead th {
+      background: #f5f7f3;
+      padding: 9px 14px;
+      text-align: left;
+      font-weight: 700;
+      color: var(--muted);
+      font-size: 0.76rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      border-bottom: 1px solid var(--line);
+      white-space: nowrap;
+    }
+    thead th small { display: block; font-size: 0.7rem; text-transform: none; letter-spacing: 0; font-weight: 400; }
+    tbody td { padding: 9px 14px; border-bottom: 1px solid var(--line); vertical-align: middle; }
+    tbody tr:last-child td { border-bottom: none; }
+    tbody tr:hover { background: #f7faf4; }
+    .num { text-align: right; font-variant-numeric: tabular-nums; }
+    /* Score chips */
+    .chip { display: inline-block; padding: 2px 8px; border-radius: 6px; font-weight: 700; font-size: 0.84rem; }
+    .chip-green { background: var(--green-bg); color: var(--green); }
+    .chip-amber { background: var(--amber-bg); color: var(--amber); }
+    .chip-red   { background: var(--red-bg);   color: var(--red); }
+    /* Eval cards */
+    .eval-card { border: 1px solid var(--line); border-radius: 14px; margin-bottom: 24px; overflow: hidden; }
+    .eval-card-header { padding: 14px 20px; background: #f5f7f3; border-bottom: 1px solid var(--line); }
+    .eval-card-header h3 { font-family: "Fraunces", serif; font-size: 1rem; margin-bottom: 4px; }
+    .eval-response { font-size: 0.82rem; color: var(--muted); }
+    /* OSR + CEI info row */
+    .osr-cei-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      border-bottom: 1px solid var(--line);
+    }
+    .osr-box, .cei-box {
+      padding: 16px 20px;
+      display: flex;
+      gap: 16px;
+      align-items: flex-start;
+    }
+    .osr-box { border-right: 1px solid var(--line); }
+    .score-desc { font-size: 0.82rem; color: var(--ink); line-height: 1.5; flex: 1; }
+    .score-desc strong { font-weight: 700; }
+    .score-block { text-align: center; flex-shrink: 0; min-width: 80px; }
+    .score-label { font-size: 0.72rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px; }
+    .score-big { font-family: "Fraunces", serif; font-size: 1.8rem; font-weight: 700; line-height: 1; margin-bottom: 4px; }
+    .score-scale { font-size: 0.72rem; color: var(--muted); }
+    /* Section controls */
+    .section-controls {
+      padding: 10px 20px;
+      display: flex;
+      gap: 8px;
+      border-bottom: 1px solid var(--line);
+      background: #fafbf8;
+    }
+    .ctrl-btn {
+      background: none;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 4px 12px;
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: var(--muted);
+      cursor: pointer;
+    }
+    .ctrl-btn:hover { background: var(--accent-soft); color: #6d2f1b; border-color: #e8bfad; }
+    /* Collapsible sections using <details> */
+    .item-section { border-bottom: 1px solid var(--line); }
+    .item-section:last-child { border-bottom: none; }
+    .item-section > summary {
+      padding: 10px 20px;
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--muted);
+      cursor: pointer;
+      list-style: none;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      user-select: none;
+    }
+    .item-section > summary::-webkit-details-marker { display: none; }
+    .item-section > summary::before { content: "►"; font-size: 0.65rem; transition: transform 0.15s; }
+    .item-section[open] > summary::before { transform: rotate(90deg); }
+    .item-section > summary:hover { background: #f5f7f3; }
+    .scale-note { font-weight: 400; color: #8aabab; text-transform: none; letter-spacing: 0; font-size: 0.76rem; }
+    /* Items table inside section */
+    .items-table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+    .items-table td { padding: 8px 14px; border-bottom: 1px solid var(--line); vertical-align: middle; }
+    .items-table tr:last-child td { border-bottom: none; }
+    .items-table tr:hover { background: #f7faf4; }
+    .item-text-cell { color: var(--ink); }
+    /* Bar */
+    .bar-cell { min-width: 160px; }
+    .bar-wrap { display: flex; align-items: center; gap: 8px; }
+    .bar-track { flex: 1; height: 8px; background: var(--bar-track); border-radius: 4px; overflow: hidden; }
+    .bar-fill { height: 100%; border-radius: 4px; }
+    .bar-val { font-weight: 700; font-size: 0.84rem; min-width: 32px; text-align: right; }
+    .n-cell { text-align: right; color: var(--muted); white-space: nowrap; }
+    @media (max-width: 640px) {
+      .osr-cei-row { grid-template-columns: 1fr; }
+      .osr-box { border-right: none; border-bottom: 1px solid var(--line); }
+    }
+  </style>
+</head>
+<body>
+<div class="app">
+  <a class="back-link" href="../index.html#/professor/Seah%2CYee%20Mey">← Back to Course History</a>
+  <h1>Seah, Yee Mey</h1>
+  <p class="rank-badge">Other</p>
+
+  <h2>Summary</h2>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Term</th>
+          <th>Course(s)</th>
+          <th>Title</th>
+          <th class="num">Enrolled</th>
+          <th class="num">Responses</th>
+          <th class="num">OSR Median<small>0=lowest; 5=highest</small></th>
+          <th class="num">CEI<small>1=lowest; 7=highest</small></th>
+        </tr>
+      </thead>
+      <tbody id="summaryBody"></tbody>
+    </table>
+  </div>
+
+  <hr class="divider">
+  <h2>Evaluations</h2>
+  <div id="evalCards"></div>
+</div>
+
+<script>
+const DATA = {"instructor": "Seah, Yee Mey", "instructorId": "Seah%2CYee%20Mey", "rank": "Other", "evaluations": [{"evalId": 31785, "term": "Autumn", "year": 2024, "courses": ["B DATA 200-A"], "courseTitle": "Introduction To Data Studies", "dept": "First Year Pre-Major Program", "enrollment": 35, "questionnaires": 9, "responseRate": 0.2571, "globalMedian": 4.5, "adjGlobalMedian": 4.1, "cei": 4.1, "nGlobal": 36, "items": [{"position": 1, "itemId": "S1", "text": "The course as a whole was:", "median": 4.0, "adjMedian": 3.6133, "mean": 3.7778, "sd": 1.3147, "collDecile": 3, "instDecile": 4, "n": 9}, {"position": 2, "itemId": "S6", "text": "The course content was:", "median": 4.25, "adjMedian": 3.9177, "mean": 3.6667, "sd": 1.633, "collDecile": 5, "instDecile": 5, "n": 9}, {"position": 3, "itemId": "S13", "text": "The instructor's contribution to the course was:", "median": 4.75, "adjMedian": 4.4329, "mean": 4.2222, "sd": 1.1331, "collDecile": 6, "instDecile": 6, "n": 9}, {"position": 4, "itemId": "S14", "text": "The instructor's effectiveness in teaching the subject matter was:", "median": 4.25, "adjMedian": 3.8741, "mean": 4.0, "sd": 1.0541, "collDecile": 3, "instDecile": 4, "n": 9}, {"position": 5, "itemId": "S27", "text": "Course organization was:", "median": 4.7, "adjMedian": null, "mean": 4.375, "sd": 0.857, "collDecile": 7, "instDecile": 7, "n": 8}, {"position": 6, "itemId": "S28", "text": "Clarity of instructor's voice was:", "median": 4.75, "adjMedian": null, "mean": 4.5556, "sd": 0.6849, "collDecile": 6, "instDecile": 7, "n": 9}, {"position": 7, "itemId": "S31", "text": "Explanations by instructor were:", "median": 4.75, "adjMedian": null, "mean": 4.2222, "sd": 1.2273, "collDecile": 7, "instDecile": 7, "n": 9}, {"position": 8, "itemId": "S32", "text": "Instructor's ability to present alternative explanations when needed was:", "median": 4.75, "adjMedian": null, "mean": 4.1111, "sd": 1.4487, "collDecile": 7, "instDecile": 7, "n": 9}, {"position": 9, "itemId": "S34", "text": "Instructor's use of examples and illustrations was:", "median": 4.75, "adjMedian": null, "mean": 4.2222, "sd": 1.1331, "collDecile": 7, "instDecile": 7, "n": 9}, {"position": 10, "itemId": "S38", "text": "Quality of questions or problems raised by the instructor was:", "median": 4.8571, "adjMedian": null, "mean": 4.6667, "sd": 0.6667, "collDecile": 8, "instDecile": 8, "n": 9}, {"position": 11, "itemId": "S42", "text": "Student confidence in instructor's knowledge was:", "median": 4.8571, "adjMedian": null, "mean": 4.5556, "sd": 0.8315, "collDecile": 7, "instDecile": 7, "n": 9}, {"position": 12, "itemId": "S45", "text": "Instructor's enthusiasm was:", "median": 4.75, "adjMedian": null, "mean": 4.4444, "sd": 0.8315, "collDecile": 5, "instDecile": 5, "n": 9}, {"position": 13, "itemId": "S46", "text": "Encouragement given students to express themselves was:", "median": 4.8571, "adjMedian": null, "mean": 4.6667, "sd": 0.6667, "collDecile": 7, "instDecile": 7, "n": 9}, {"position": 14, "itemId": "S47", "text": "Answers to student questions were:", "median": 4.75, "adjMedian": null, "mean": 4.3333, "sd": 1.0541, "collDecile": 6, "instDecile": 7, "n": 9}, {"position": 15, "itemId": "S144", "text": "Availability of extra help when needed was:", "median": 4.9375, "adjMedian": null, "mean": 4.6667, "sd": 0.9428, "collDecile": 9, "instDecile": 9, "n": 9}, {"position": 16, "itemId": "S145", "text": "Use of class time was:", "median": 4.75, "adjMedian": null, "mean": 4.3333, "sd": 0.9428, "collDecile": 8, "instDecile": 8, "n": 9}, {"position": 17, "itemId": "S148", "text": "Instructor's interest in whether students learned was:", "median": 4.75, "adjMedian": null, "mean": 4.3333, "sd": 1.0541, "collDecile": 7, "instDecile": 7, "n": 9}, {"position": 18, "itemId": "S152", "text": "Amount you learned in the course was:", "median": 4.0, "adjMedian": null, "mean": 3.5556, "sd": 1.6405, "collDecile": 4, "instDecile": 3, "n": 9}, {"position": 19, "itemId": "S154", "text": "Relevance and usefulness of course content were:", "median": 4.6, "adjMedian": null, "mean": 3.8889, "sd": 1.5947, "collDecile": 6, "instDecile": 5, "n": 9}, {"position": 20, "itemId": "S157", "text": "Evaluative and grading techniques (tests, papers, projects, etc.) were:", "median": 4.75, "adjMedian": null, "mean": 4.4444, "sd": 0.8315, "collDecile": 7, "instDecile": 7, "n": 9}, {"position": 21, "itemId": "S159", "text": "Reasonableness of assigned work was:", "median": 4.9375, "adjMedian": null, "mean": 4.7778, "sd": 0.6285, "collDecile": 9, "instDecile": 9, "n": 9}, {"position": 22, "itemId": "S161", "text": "Clarity of student responsibilities and requirements was:", "median": 4.75, "adjMedian": null, "mean": 4.5556, "sd": 0.6849, "collDecile": 7, "instDecile": 7, "n": 9}, {"position": 23, "itemId": "S180", "text": "Do you expect your grade in this course to be:", "median": 6.0, "adjMedian": null, "mean": 5.7778, "sd": 1.1331, "collDecile": 8, "instDecile": 8, "n": 9}, {"position": 24, "itemId": "S181", "text": "The intellectual challenge presented was:", "median": 5.6667, "adjMedian": null, "mean": 4.7778, "sd": 2.0427, "collDecile": 7, "instDecile": 5, "n": 9}, {"position": 25, "itemId": "S182", "text": "The amount of effort you put into this course was:", "median": 5.625, "adjMedian": null, "mean": 5.2222, "sd": 1.1331, "collDecile": 6, "instDecile": 4, "n": 9}, {"position": 26, "itemId": "S183", "text": "The amount of effort to succeed in this course was:", "median": 4.375, "adjMedian": null, "mean": 4.8889, "sd": 1.2862, "collDecile": 1, "instDecile": 0, "n": 9}, {"position": 27, "itemId": "S184", "text": "Your involvement in course (doing assignments, attending classes, etc.) was:", "median": 5.6667, "adjMedian": null, "mean": 5.4444, "sd": 1.2571, "collDecile": 5, "instDecile": 4, "n": 9}, {"position": 28, "itemId": "S186", "text": "On average, how many hours per week have you spent on this course, including attending classes, doing readings, reviewing notes, writing papers and any other course related work?", "median": 5.0, "adjMedian": null, "mean": 5.3889, "sd": 2.6851, "collDecile": 4, "instDecile": 2, "n": 9}, {"position": 29, "itemId": "S187", "text": "From the total average hours above, how many do you consider were valuable in advancing your education?", "median": 5.0, "adjMedian": null, "mean": 5.2222, "sd": 2.8974, "collDecile": 7, "instDecile": 4, "n": 9}, {"position": 30, "itemId": "S188", "text": "What grade do you expect in this course?", "median": 3.765, "adjMedian": null, "mean": 3.7833, "sd": 0.1491, "collDecile": 4, "instDecile": 6, "n": 9}, {"position": 31, "itemId": "S189", "text": "In regard to your academic program, is this course best described as:", "median": null, "adjMedian": null, "mean": null, "sd": null, "collDecile": null, "instDecile": null, "n": 9}, {"position": null, "itemId": "combo", "text": "Overall Summative Rating", "median": 4.5, "adjMedian": 4.1498, "mean": 3.9167, "sd": 1.3202, "collDecile": 5, "instDecile": 5, "n": 36}]}]};
+
+// Item classification by IAS item ID
+var SUMMATIVE_IDS   = {S1:1, S6:1, S13:1, S14:1};
+var ENGAGEMENT_IDS  = {S180:1, S181:1, S182:1, S183:1, S184:1};
+var EXCLUDE_IDS     = {S186:1, S187:1, S188:1, S189:1, combo:1};
+// Everything else (S27-S161) is Standard Formative
+
+function sectionOf(itemId) {
+  if (SUMMATIVE_IDS[itemId])  return "summative";
+  if (ENGAGEMENT_IDS[itemId]) return "engagement";
+  if (EXCLUDE_IDS[itemId])    return "exclude";
+  return "formative";
+}
+
+// Color thresholds: 0-5 scale
+function chipClass05(v) {
+  if (v === null || v === undefined) return "";
+  return v >= 4.5 ? "chip-green" : v >= 3.5 ? "chip-amber" : "chip-red";
+}
+function barColor05(v) {
+  if (v === null || v === undefined) return "#ccc";
+  return v >= 4.5 ? "#2d7a47" : v >= 3.5 ? "#b87333" : "#b91c1c";
+}
+function barWidth05(v) {
+  if (v === null || v === undefined) return 0;
+  return Math.min(100, Math.max(0, v / 5 * 100)).toFixed(1);
+}
+
+// Color thresholds: 1-7 scale (CEI / engagement items)
+function chipClass17(v) {
+  if (v === null || v === undefined) return "";
+  return v >= 5.5 ? "chip-green" : v >= 4.0 ? "chip-amber" : "chip-red";
+}
+function barColor17(v) {
+  if (v === null || v === undefined) return "#ccc";
+  return v >= 5.5 ? "#2d7a47" : v >= 4.0 ? "#b87333" : "#b91c1c";
+}
+function barWidth17(v) {
+  if (v === null || v === undefined) return 0;
+  return Math.min(100, Math.max(0, (v - 1) / 6 * 100)).toFixed(1);
+}
+
+function fmt(v) { return (v !== null && v !== undefined) ? Number(v).toFixed(2) : "—"; }
+function fmtPct(v) { return (v !== null && v !== undefined) ? Math.round(v * 100) + "%" : "—"; }
+
+function chip05(v) {
+  if (v === null || v === undefined) return "—";
+  return '<span class="chip ' + chipClass05(v) + '">' + fmt(v) + "</span>";
+}
+function chip17(v) {
+  if (v === null || v === undefined) return "—";
+  return '<span class="chip ' + chipClass17(v) + '">' + fmt(v) + "</span>";
+}
+
+function renderSummary() {
+  document.getElementById("summaryBody").innerHTML = DATA.evaluations.map(function(e) {
+    return "<tr>" +
+      "<td>" + e.term + " " + e.year + "</td>" +
+      "<td>" + e.courses.join(" / ") + "</td>" +
+      "<td>" + e.courseTitle + "</td>" +
+      '<td class="num">' + e.enrollment + "</td>" +
+      '<td class="num">' + e.questionnaires + " (" + fmtPct(e.responseRate) + ")</td>" +
+      '<td class="num">' + chip05(e.globalMedian) + "</td>" +
+      '<td class="num">' + chip17(e.cei) + "</td>" +
+      "</tr>";
+  }).join("");
+}
+
+function renderItemRow(item, isEngagement) {
+  var median = item.median;
+  var w = isEngagement ? barWidth17(median) : barWidth05(median);
+  var color = isEngagement ? barColor17(median) : barColor05(median);
+  var cls = isEngagement ? chipClass17(median) : chipClass05(median);
+  return "<tr>" +
+    '<td class="item-text-cell">' + item.text + "</td>" +
+    '<td class="bar-cell">' +
+      '<div class="bar-wrap">' +
+        '<div class="bar-track"><div class="bar-fill" style="width:' + w + '%;background:' + color + '"></div></div>' +
+        '<span class="bar-val ' + cls + '">' + fmt(median) + "</span>" +
+      "</div>" +
+    "</td>" +
+    '<td class="n-cell">' + (item.n !== null ? item.n : "—") + "</td>" +
+    "</tr>";
+}
+
+function renderSection(items, title, scaleNote, isEngagement, sectionKey) {
+  if (!items.length) return "";
+  var rows = items.map(function(it) { return renderItemRow(it, isEngagement); }).join("");
+  return '<details class="item-section" data-section="' + sectionKey + '">' +
+    '<summary>' + title + ' <span class="scale-note">(' + scaleNote + ')</span></summary>' +
+    '<table class="items-table"><tbody>' + rows + '</tbody></table>' +
+    '</details>';
+}
+
+function renderCards() {
+  document.getElementById("evalCards").innerHTML = DATA.evaluations.map(function(e) {
+    var pct = fmtPct(e.responseRate);
+    var osr = e.globalMedian;
+    var cei = e.cei;
+    var osrClass = chipClass05(osr);
+    var ceiClass = chipClass17(cei);
+
+    var summative  = [], engagement = [], formative = [];
+    e.items.forEach(function(it) {
+      var s = sectionOf(it.itemId);
+      if (s === "summative")  summative.push(it);
+      else if (s === "engagement") engagement.push(it);
+      else if (s === "formative")  formative.push(it);
+    });
+
+    var osrHtml = osr !== null
+      ? '<div class="score-big ' + osrClass + '">' + fmt(osr) + "</div>"
+      : '<div class="score-big">—</div>';
+    var ceiHtml = cei !== null
+      ? '<div class="score-big ' + ceiClass + '">' + fmt(cei) + "</div>"
+      : '<div class="score-big">—</div>';
+
+    return '<div class="eval-card" data-eval-id="' + e.evalId + '">' +
+      '<div class="eval-card-header">' +
+        '<h3>' + e.term + ' ' + e.year + ' &nbsp;&middot;&nbsp; ' + e.courses.join(' / ') + ' &nbsp;&middot;&nbsp; ' + e.courseTitle + '</h3>' +
+        '<p class="eval-response">' + e.questionnaires + ' of ' + e.enrollment + ' students responded (' + pct + ')</p>' +
+      '</div>' +
+      '<div class="osr-cei-row">' +
+        '<div class="osr-box">' +
+          '<div class="score-desc"><strong>Overall Summative Rating</strong> represents the combined responses of students to the four global summative items and is presented to provide an overall index of the class’s quality:</div>' +
+          '<div class="score-block"><div class="score-label">OSR Median</div>' + osrHtml + '<div class="score-scale">0=lowest; 5=highest</div></div>' +
+        '</div>' +
+        '<div class="cei-box">' +
+          '<div class="score-desc"><strong>Challenge and Engagement Index (CEI)</strong> combines student responses to several IASystem items relating to how academically challenging students found the course to be and how engaged they were:</div>' +
+          '<div class="score-block"><div class="score-label">CEI</div>' + ceiHtml + '<div class="score-scale">1=lowest; 7=highest</div></div>' +
+        '</div>' +
+      '</div>' +
+      '<div class="section-controls">' +
+        '<button class="ctrl-btn" onclick="toggleAll(this,true)">Expand All</button>' +
+        '<button class="ctrl-btn" onclick="toggleAll(this,false)">Collapse All</button>' +
+      '</div>' +
+      renderSection(summative,  "Summative Items",          "0=lowest; 5=highest", false, "summative") +
+      renderSection(engagement, "Student Engagement",       "1=lowest; 7=highest", true,  "engagement") +
+      renderSection(formative,  "Standard Formative Items", "0=lowest; 5=highest", false, "formative") +
+    '</div>';
+  }).join("");
+}
+
+function toggleAll(btn, open) {
+  var card = btn.closest('.eval-card');
+  card.querySelectorAll('details.item-section').forEach(function(d) { d.open = open; });
+}
+
+renderSummary();
+renderCards();
+</script>
+</body>
+</html>

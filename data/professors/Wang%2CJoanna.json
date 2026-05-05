@@ -1,0 +1,49 @@
+{
+  "generatedAt": "2026-05-05T23:34:07Z",
+  "id": "Wang%2CJoanna",
+  "professor": "Wang,Joanna",
+  "recordCount": 4,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "WIN2026",
+      "course": "CSS 342",
+      "courseTitle": "Data Structures, Algorithms, And Discrete Mathematics I",
+      "section": "C"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "cssskl",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "SUM2025",
+      "course": "CSSSKL 143",
+      "courseTitle": "Computer Programming Skills II",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "SUM2025",
+      "course": "CSS 343",
+      "courseTitle": "Data Structures, Algorithms, And Discrete Mathematics II",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "AUT2025",
+      "course": "CSS 350",
+      "courseTitle": "Management Principles For Computing Professionals",
+      "section": "B"
+    }
+  ],
+  "source": "eval-only"
+}

@@ -10,6 +10,7 @@ scripts/__pycache__/
 # Downloaded and intermediate data (not needed to run deployed app)
 data/raw/
 data/depts/
+data/evals/uwb/
 
 # Local auth/cookie files
 cookies.json
@@ -19,3 +20,5 @@ cookies.json
 # Common local artifacts
 .DS_Store
 node_modules/
+
+

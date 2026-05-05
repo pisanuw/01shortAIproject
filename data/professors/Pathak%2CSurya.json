@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-05-05T23:34:07Z",
+  "id": "Pathak%2CSurya",
+  "professor": "Pathak,Surya",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "SPR2025",
+      "course": "B BUS 492",
+      "courseTitle": "Supply Chain Management Practicum",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "AUT2025",
+      "course": "B BUS 491",
+      "courseTitle": "Business Consulting",
+      "section": "A"
+    }
+  ],
+  "source": "eval-only"
+}

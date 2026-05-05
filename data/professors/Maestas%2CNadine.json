@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-05-05T23:34:07Z",
+  "id": "Maestas%2CNadine",
+  "professor": "Maestas,Nadine",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcwrit",
+      "deptName": "Interdisciplinary Arts and Sciences",
+      "term": "WIN2025",
+      "course": "BCWRIT 500",
+      "courseTitle": "Writing Workshop: Between Prose And Poetry",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcwrit",
+      "deptName": "Interdisciplinary Arts and Sciences",
+      "term": "AUT2025",
+      "course": "BCWRIT 501",
+      "courseTitle": "Writing Workshop: Between Fact And Imagination",
+      "section": "A"
+    }
+  ],
+  "source": "eval-only"
+}

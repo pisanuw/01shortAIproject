@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-05-05T23:34:07Z",
+  "id": "Ayhan%2CMurat",
+  "professor": "Ayhan,Murat",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "WIN2026",
+      "course": "CSS 342",
+      "courseTitle": "Data Structures, Algorithms, And Discrete Mathematics I",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "AUT2025",
+      "course": "CSS 342",
+      "courseTitle": "Data Structures, Algorithms, And Discrete Mathematics I",
+      "section": "A"
+    }
+  ],
+  "source": "eval-only"
+}

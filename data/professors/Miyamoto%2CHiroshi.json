@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-05-05T23:34:07Z",
+  "id": "Miyamoto%2CHiroshi",
+  "professor": "Miyamoto,Hiroshi",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bjapan",
+      "deptName": "First Year Pre-Major Program",
+      "term": "WIN2025",
+      "course": "BJAPAN 112",
+      "courseTitle": "First-Year Japanese",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bjapan",
+      "deptName": "First Year Pre-Major Program",
+      "term": "AUT2024",
+      "course": "BJAPAN 111",
+      "courseTitle": "First-Year Japanese",
+      "section": "A"
+    }
+  ],
+  "source": "eval-only"
+}

@@ -1,0 +1,59 @@
+{
+  "generatedAt": "2026-05-05T23:34:07Z",
+  "id": "Musselman%2CAlexandria",
+  "professor": "Musselman,Alexandria",
+  "recordCount": 5,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "stmath",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "WIN2026",
+      "course": "STMATH 301",
+      "courseTitle": "Introduction To Professional Mathematics",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "stmath",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "WIN2026",
+      "course": "STMATH 125",
+      "courseTitle": "Calculus II",
+      "section": "F"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "stmath",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "SUM2025",
+      "course": "STMATH 125",
+      "courseTitle": "Calculus II",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "stmath",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "AUT2025",
+      "course": "STMATH 420",
+      "courseTitle": "History Of Mathematics",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "stmath",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "AUT2025",
+      "course": "STMATH 301",
+      "courseTitle": "Introduction To Professional Mathematics",
+      "section": "A"
+    }
+  ],
+  "source": "eval-only"
+}

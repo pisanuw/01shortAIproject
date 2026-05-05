@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-05T23:34:07Z",
+  "id": "Toro%2CMatthew",
+  "professor": "Toro,Matthew",
+  "recordCount": 3,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Arts and Sciences",
+      "term": "WIN2026",
+      "course": "BIS 215",
+      "courseTitle": "Understanding Statistics",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Arts and Sciences",
+      "term": "WIN2025",
+      "course": "BIS 215",
+      "courseTitle": "Understanding Statistics",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Arts and Sciences",
+      "term": "SPR2025",
+      "course": "BIS 215",
+      "courseTitle": "Understanding Statistics",
+      "section": "C"
+    }
+  ],
+  "source": "eval-only"
+}

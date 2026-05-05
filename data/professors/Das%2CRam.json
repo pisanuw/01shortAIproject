@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-05-05T23:34:07Z",
+  "id": "Das%2CRam",
+  "professor": "Das,Ram",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "WIN2026",
+      "course": "B BUS 310",
+      "courseTitle": "Managerial Economics",
+      "section": "D"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "AUT2025",
+      "course": "B BUS 310",
+      "courseTitle": "Managerial Economics",
+      "section": "E"
+    }
+  ],
+  "source": "eval-only"
+}

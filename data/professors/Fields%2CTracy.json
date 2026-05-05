@@ -1,0 +1,59 @@
+{
+  "generatedAt": "2026-05-05T23:34:07Z",
+  "id": "Fields%2CTracy",
+  "professor": "Fields,Tracy",
+  "recordCount": 5,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bearth",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "WIN2026",
+      "course": "BEARTH 155",
+      "courseTitle": "Introduction To Climate Science",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bearth",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "WIN2025",
+      "course": "BEARTH 155",
+      "courseTitle": "Introduction To Climate Science",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bearth",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "SPR2025",
+      "course": "BEARTH 155",
+      "courseTitle": "Introduction To Climate Science",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bearth",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "AUT2025",
+      "course": "BEARTH 155",
+      "courseTitle": "Introduction To Climate Science",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bearth",
+      "deptName": "Science, Tech, Engr. & Math",
+      "term": "AUT2024",
+      "course": "BEARTH 155",
+      "courseTitle": "Introduction To Climate Science",
+      "section": "A"
+    }
+  ],
+  "source": "eval-only"
+}

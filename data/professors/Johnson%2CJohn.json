@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-05-05T23:34:07Z",
+  "id": "Johnson%2CJohn",
+  "professor": "Johnson,John",
+  "recordCount": 2,
+  "records": [
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Educational Studies",
+      "term": "SPR2025",
+      "course": "B EDUC 403",
+      "courseTitle": "Introduction To Special Education",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Educational Studies",
+      "term": "AUT2024",
+      "course": "B EDUC 470",
+      "courseTitle": "Disability Culture In Schools And Society",
+      "section": "A"
+    }
+  ],
+  "source": "eval-only"
+}
