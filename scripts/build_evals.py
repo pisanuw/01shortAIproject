@@ -229,7 +229,7 @@ def write_professor_file(instructor_id, name, records, generated_at):
         "source":       "eval-only",
     }
     with open(path, "w", encoding="utf-8") as f:
-        json.dump(payload, f, ensure_ascii=False, indent=2)
+        json.dump(payload, f, ensure_ascii=False)
     return True
 
 
@@ -669,7 +669,7 @@ def write_json(data, instructor_id, generated_at):
     payload = dict(data, generatedAt=generated_at)
     path = os.path.join(OUT_JSON_DIR, f"{_decoded_filename(instructor_id)}.json")
     with open(path, "w", encoding="utf-8") as f:
-        json.dump(payload, f, ensure_ascii=False, indent=2)
+        json.dump(payload, f, ensure_ascii=False)
     return path
 
 

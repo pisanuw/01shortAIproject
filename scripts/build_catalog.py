@@ -490,7 +490,7 @@ def build_campus_shards(
             "deptName": dept.get("name", dept_code),
             "records": records,
         }
-        out_path.write_text(json.dumps(payload, indent=2), encoding="utf-8")
+        out_path.write_text(json.dumps(payload), encoding="utf-8")
         print(f"  [{campus}/{dept_code}] {len(records)} records from {file_count} files → {out_path.name}")
 
         # Keep empty shards on disk for diagnostics, but do not include depts
@@ -600,7 +600,7 @@ def build_professor_artifacts() -> None:
                 "professor": professor,
                 "recordCount": len(records),
                 "records": records,
-            }, indent=2),
+            }),
             encoding="utf-8",
         )
 
@@ -684,7 +684,7 @@ def build_course_artifacts() -> None:
                 "course": course_name,
                 "recordCount": len(records),
                 "records": records,
-            }, indent=2),
+            }),
             encoding="utf-8",
         )
 

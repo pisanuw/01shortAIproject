@@ -10,6 +10,9 @@ scripts/__pycache__/
 # Downloaded and intermediate data (not needed to run deployed app)
 data/raw/
 data/depts/
+data/shards/
+data/professors/
+data/courses/
 data/evals/uwb/
 data/evals/*.json
 
