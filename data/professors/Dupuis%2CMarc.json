@@ -1,129 +1,108 @@
 {
-  "generatedAt": "2026-05-05T23:34:07Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Dupuis%2CMarc",
   "professor": "Dupuis,Marc",
-  "recordCount": 12,
+  "recordCount": 10,
   "records": [
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "css",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "WIN2026",
-      "course": "CSS 518",
-      "courseTitle": "Human Factors In Cybersecurity",
-      "section": "B"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "css",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "WIN2026",
-      "course": "CSS 518",
-      "courseTitle": "Human Factors In Cybersecurity",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "css",
-      "deptName": "Science, Tech, Engr. & Math",
+      "deptName": "Computing and Software Systems",
       "term": "WIN2026",
       "course": "CSS 490",
-      "courseTitle": "Special Topics In Computing And Software Systems",
+      "courseTitle": "SPECIAL TOPICS",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "css",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "WIN2025",
-      "course": "CSS 518",
-      "courseTitle": "Human Factors In Cybersecurity",
-      "section": "B"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "css",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "WIN2025",
-      "course": "CSS 518",
-      "courseTitle": "Human Factors In Cybersecurity",
+      "deptName": "Computing and Software Systems",
+      "term": "AUT2025",
+      "course": "CSS 310",
+      "courseTitle": "IA & CYBERSECURITY",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "css",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "WIN2025",
-      "course": "CSS 490",
-      "courseTitle": "Special Topics In Computing And Software Systems",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "css",
-      "deptName": "Science, Tech, Engr. & Math",
+      "deptName": "Computing and Software Systems",
       "term": "SUM2025",
       "course": "CSS 310",
-      "courseTitle": "Information Assurance And Cybersecurity",
+      "courseTitle": "IA & CYBERSECURITY",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "css",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "AUT2025",
-      "course": "CSS 517",
-      "courseTitle": "Information Assurance And Cybersecurity",
-      "section": "B"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "css",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "AUT2025",
-      "course": "CSS 517",
-      "courseTitle": "Information Assurance And Cybersecurity",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "css",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "AUT2025",
-      "course": "CSS 310",
-      "courseTitle": "Information Assurance And Cybersecurity",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "css",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "AUT2024",
-      "course": "CSS 517",
-      "courseTitle": "Information Assurance And Cybersecurity",
+      "deptName": "Computing and Software Systems",
+      "term": "WIN2025",
+      "course": "CSS 490",
+      "courseTitle": "SPECIAL TOPICS",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bcore",
-      "deptName": "First Year Pre-Major Program",
+      "deptName": "University Studies and Programs",
       "term": "AUT2024",
       "course": "B CORE 107",
-      "courseTitle": "Discovery Core: Social Sciences",
+      "courseTitle": "DISC CORE: SOC SCI",
+      "section": "D"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "WIN2024",
+      "course": "CSS 490",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "AUT2022",
+      "course": "CSS 310",
+      "courseTitle": "IA & CYBERSECURITY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "AUT2022",
+      "course": "B CORE 107",
+      "courseTitle": "INDVDUALS & SOC 1",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "SUM2021",
+      "course": "CSS 310",
+      "courseTitle": "IA & CYBERSECURITY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "AUT2020",
+      "course": "B CORE 107",
+      "courseTitle": "INDVDUALS & SOC 1",
       "section": "D"
     }
-  ],
-  "source": "eval-only"
+  ]
 }

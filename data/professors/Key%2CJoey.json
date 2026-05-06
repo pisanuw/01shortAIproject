@@ -1,179 +1,188 @@
 {
-  "generatedAt": "2026-05-05T23:34:07Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Key%2CJoey",
   "professor": "Key,Joey",
-  "recordCount": 17,
+  "recordCount": 18,
   "records": [
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bphys",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "WIN2026",
-      "course": "B PHYS 499",
-      "courseTitle": "Undergraduate Research In Physics",
-      "section": "A"
+      "deptName": "Physics",
+      "term": "SPR2026",
+      "course": "B PHYS 433",
+      "courseTitle": "SEN PROJ PHYS",
+      "section": "B"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bphys",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "WIN2026",
-      "course": "B PHYS 498",
-      "courseTitle": "Independent Study In Physics",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bphys",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "WIN2026",
-      "course": "B PHYS 122",
-      "courseTitle": "Electromagnetism And Oscillatory Motion",
-      "section": "AF"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bphys",
-      "deptName": "Science, Tech, Engr. & Math",
+      "deptName": "Physics",
       "term": "WIN2026",
       "course": "B PHYS 118",
-      "courseTitle": "General Physics Laboratory",
+      "courseTitle": "GENERAL PHYSICS LAB",
       "section": "D"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bphys",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "WIN2025",
-      "course": "B PHYS 499",
-      "courseTitle": "Undergraduate Research In Physics",
+      "deptName": "Physics",
+      "term": "SPR2025",
+      "course": "B PHYS 433",
+      "courseTitle": "SEN PROJ PHYS",
       "section": "B"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bphys",
-      "deptName": "Science, Tech, Engr. & Math",
+      "deptName": "Physics",
+      "term": "SPR2025",
+      "course": "B PHYS 433",
+      "courseTitle": "SEN PROJ PHYS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bphys",
+      "deptName": "Physics",
       "term": "WIN2025",
       "course": "B PHYS 450",
-      "courseTitle": "Computational And Theoretical Modeling In Physics",
+      "courseTitle": "COMP MODELING",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bphys",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "SUM2025",
-      "course": "B PHYS 499",
-      "courseTitle": "Undergraduate Research In Physics",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bphys",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "SUM2025",
-      "course": "B PHYS 498",
-      "courseTitle": "Independent Study In Physics",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bphys",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "SPR2025",
-      "course": "B PHYS 499",
-      "courseTitle": "Undergraduate Research In Physics",
-      "section": "B"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bphys",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "SPR2025",
-      "course": "B PHYS 433",
-      "courseTitle": "Experimental Physics: Senior Project",
-      "section": "B"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bphys",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "SPR2025",
-      "course": "B PHYS 433",
-      "courseTitle": "Experimental Physics: Senior Project",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bphys",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "AUT2025",
-      "course": "B PHYS 499",
-      "courseTitle": "Undergraduate Research In Physics",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bphys",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "AUT2025",
-      "course": "B PHYS 121",
-      "courseTitle": "Mechanics",
-      "section": "AI"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bphys",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "AUT2025",
-      "course": "B PHYS 121",
-      "courseTitle": "Mechanics",
-      "section": "AH"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bphys",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "AUT2024",
-      "course": "B PHYS 499",
-      "courseTitle": "Undergraduate Research In Physics",
-      "section": "B"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bphys",
-      "deptName": "Science, Tech, Engr. & Math",
+      "deptName": "Physics",
       "term": "AUT2024",
       "course": "B PHYS 484",
-      "courseTitle": "Physics, Society And Industry",
+      "courseTitle": "PHYS SOCIETY&INDUS",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bphys",
-      "deptName": "Science, Tech, Engr. & Math",
+      "deptName": "Physics",
       "term": "AUT2024",
       "course": "B PHYS 317",
-      "courseTitle": "Mathematical Physics",
+      "courseTitle": "MATH PHYS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bphys",
+      "deptName": "Physics",
+      "term": "WIN2024",
+      "course": "B PHYS 450",
+      "courseTitle": "COMP MODELING",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bphys",
+      "deptName": "Physics",
+      "term": "WIN2024",
+      "course": "B PHYS 201",
+      "courseTitle": "THE COSMOS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bst",
+      "deptName": "Science and Technology",
+      "term": "AUT2023",
+      "course": "BST 205",
+      "courseTitle": "WOMEN IN STEM",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bphys",
+      "deptName": "Physics",
+      "term": "AUT2023",
+      "course": "B PHYS 317",
+      "courseTitle": "MATH PHYS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bphys",
+      "deptName": "Physics",
+      "term": "SPR2022",
+      "course": "B PHYS 221",
+      "courseTitle": "CLASSICAL MECHANICS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bst",
+      "deptName": "Science and Technology",
+      "term": "AUT2021",
+      "course": "BST 205",
+      "courseTitle": "WOMEN IN STEM",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bphys",
+      "deptName": "Physics",
+      "term": "AUT2021",
+      "course": "B PHYS 201",
+      "courseTitle": "THE COSMOS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bphys",
+      "deptName": "Physics",
+      "term": "SPR2021",
+      "course": "B PHYS 221",
+      "courseTitle": "CLASSICAL MECHANICS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bphys",
+      "deptName": "Physics",
+      "term": "WIN2021",
+      "course": "B PHYS 311",
+      "courseTitle": "INTRO ASTROPHYS I",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bst",
+      "deptName": "Science and Technology",
+      "term": "AUT2020",
+      "course": "BST 205",
+      "courseTitle": "WOMEN IN STEM",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bphys",
+      "deptName": "Physics",
+      "term": "AUT2020",
+      "course": "B PHYS 201",
+      "courseTitle": "THE COSMOS",
       "section": "A"
     }
-  ],
-  "source": "eval-only"
+  ]
 }

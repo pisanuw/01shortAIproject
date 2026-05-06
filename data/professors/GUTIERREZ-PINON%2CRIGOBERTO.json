@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
-  "id": "Gutierrez-Pinon%2CRigoberto",
-  "professor": "Gutierrez-Pinon,Rigoberto",
-  "recordCount": 1,
+  "generatedAt": "2026-05-06T01:15:29Z",
+  "id": "GUTIERREZ-PINON%2CRIGOBERTO",
+  "professor": "GUTIERREZ-PINON,RIGOBERTO",
+  "recordCount": 3,
   "records": [
     {
       "campus": "S",
@@ -12,6 +12,26 @@
       "term": "SUM2025",
       "course": "SPAN 110",
       "courseTitle": "ACCEL ELEM SPANISH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "spanish",
+      "deptName": "Spanish",
+      "term": "SPR2025",
+      "course": "SPAN 202",
+      "courseTitle": "INTERMEDIATE SPAN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "spanish",
+      "deptName": "Spanish",
+      "term": "WIN2025",
+      "course": "SPAN 101",
+      "courseTitle": "ELEMENTARY SPANISH",
       "section": "A"
     }
   ]

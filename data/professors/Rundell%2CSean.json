@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Rundell%2CSean",
   "professor": "Rundell,Sean",
-  "recordCount": 1,
+  "recordCount": 2,
   "records": [
     {
       "campus": "S",
@@ -10,6 +10,16 @@
       "dept": "rehab",
       "deptName": "Rehabilitation Medicine",
       "term": "WIN2026",
+      "course": "REHAB 561",
+      "courseTitle": "EPI & REHAB RSCH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "rehab",
+      "deptName": "Rehabilitation Medicine",
+      "term": "WIN2022",
       "course": "REHAB 561",
       "courseTitle": "EPI & REHAB RSCH",
       "section": "A"

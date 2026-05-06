@@ -1,9 +1,19 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Furutani%2CTracy",
   "professor": "Furutani,Tracy",
-  "recordCount": 1,
+  "recordCount": 2,
   "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "SUM2023",
+      "course": "CHEM 312",
+      "courseTitle": "INORGANIC CHEMISTRY",
+      "section": "A"
+    },
     {
       "campus": "S",
       "campusName": "Seattle",

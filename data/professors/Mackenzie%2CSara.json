@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Mackenzie%2CSara",
   "professor": "Mackenzie,Sara",
-  "recordCount": 2,
+  "recordCount": 3,
   "records": [
     {
       "campus": "S",
@@ -20,6 +20,16 @@
       "dept": "hlthsvcs",
       "deptName": "Health Services",
       "term": "AUT2022",
+      "course": "HSERV 100",
+      "courseTitle": "PRSNL & PUBLIC HLTH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hlthsvcs",
+      "deptName": "Health Services",
+      "term": "AUT2020",
       "course": "HSERV 100",
       "courseTitle": "PRSNL & PUBLIC HLTH",
       "section": "A"

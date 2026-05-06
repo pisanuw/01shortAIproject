@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:18Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "B%20Ginsberg%2CArthur",
   "professor": "B Ginsberg,Arthur",
-  "recordCount": 1,
+  "recordCount": 3,
   "records": [
     {
       "campus": "S",
@@ -10,6 +10,26 @@
       "dept": "hnrs",
       "deptName": "Honors",
       "term": "SPR2026",
+      "course": "HONORS 398",
+      "courseTitle": "H-SPEC TOPICS HUM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hnrs",
+      "deptName": "Honors",
+      "term": "SPR2025",
+      "course": "HONORS 398",
+      "courseTitle": "H-SPEC TOPICS HUM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hnrs",
+      "deptName": "Honors",
+      "term": "SPR2023",
       "course": "HONORS 398",
       "courseTitle": "H-SPEC TOPICS HUM",
       "section": "A"

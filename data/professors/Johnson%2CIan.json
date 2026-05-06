@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "JOHNSON%2CIAN",
   "professor": "JOHNSON,IAN",
-  "recordCount": 3,
+  "recordCount": 5,
   "records": [
     {
       "campus": "S",
@@ -33,6 +33,26 @@
       "course": "SOC W 506",
       "courseTitle": "SOC WELF RES & EVAL",
       "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwk",
+      "deptName": "Social Work",
+      "term": "WIN2021",
+      "course": "SOC W 511",
+      "courseTitle": "SW WITH FAM/GROUPS",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwk",
+      "deptName": "Social Work",
+      "term": "AUT2020",
+      "course": "SOC W 510",
+      "courseTitle": "SW WITH INDIVIDUALS",
+      "section": "E"
     }
   ]
 }

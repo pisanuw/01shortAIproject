@@ -1,408 +1,59 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:39Z",
   "id": "Yum%2CSamuel%20M.",
   "professor": "Yum,Samuel M.",
-  "recordCount": 40,
+  "recordCount": 5,
   "records": [
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "SUM2025",
-      "course": "BISMCS 240",
-      "courseTitle": "WORKING WITH VIDEO",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "SPR2025",
-      "course": "BISMCS 240",
-      "courseTitle": "WORKING WITH VIDEO",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
+      "deptName": "Interdisciplinary Arts and Sciences",
       "term": "WIN2025",
       "course": "BISMCS 240",
-      "courseTitle": "WORKING WITH VIDEO",
+      "courseTitle": "Working With Video",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
+      "deptName": "Interdisciplinary Arts and Sciences",
+      "term": "SUM2025",
+      "course": "BISMCS 240",
+      "courseTitle": "Working With Video",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bismcs",
+      "deptName": "Interdisciplinary Arts and Sciences",
+      "term": "SPR2025",
+      "course": "BISMCS 240",
+      "courseTitle": "Working With Video",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bismcs",
+      "deptName": "Interdisciplinary Arts and Sciences",
       "term": "AUT2024",
       "course": "BISMCS 240",
-      "courseTitle": "WORKING WITH VIDEO",
+      "courseTitle": "Working With Video",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bcore",
-      "deptName": "University Studies and Programs",
+      "deptName": "First Year Pre-Major Program",
       "term": "AUT2024",
       "course": "B CORE 104",
-      "courseTitle": "DISC CORE: ART & HUM",
+      "courseTitle": "Discovery Core: Arts And Humanities",
       "section": "Q"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "SUM2024",
-      "course": "BISMCS 240",
-      "courseTitle": "WORKING WITH VIDEO",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "SPR2024",
-      "course": "BISMCS 240",
-      "courseTitle": "WORKING WITH VIDEO",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Studies",
-      "term": "SPR2024",
-      "course": "BIS 161",
-      "courseTitle": "INTRO FILM NARRATIV",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "WIN2024",
-      "course": "BISMCS 472",
-      "courseTitle": "ADV MEDIA WKSP",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "WIN2024",
-      "course": "BISMCS 240",
-      "courseTitle": "WORKING WITH VIDEO",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "AUT2023",
-      "course": "BISMCS 472",
-      "courseTitle": "ADV MEDIA WKSP",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "AUT2023",
-      "course": "BISMCS 240",
-      "courseTitle": "WORKING WITH VIDEO",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "AUT2023",
-      "course": "B CORE 104",
-      "courseTitle": "VIS LIT PRFM ART 1",
-      "section": "S"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "SUM2023",
-      "course": "BISMCS 240",
-      "courseTitle": "WORKING WITH VIDEO",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "SPR2023",
-      "course": "BISMCS 240",
-      "courseTitle": "WORKING WITH VIDEO",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "WIN2023",
-      "course": "BISMCS 472",
-      "courseTitle": "ADV MEDIA WKSP",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "WIN2023",
-      "course": "BISMCS 240",
-      "courseTitle": "WORKING WITH VIDEO",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "AUT2022",
-      "course": "BISMCS 240",
-      "courseTitle": "WORKING WITH VIDEO",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Studies",
-      "term": "AUT2022",
-      "course": "BIS 347",
-      "courseTitle": "HIST AM DOCUM FILM",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Studies",
-      "term": "AUT2022",
-      "course": "BIS 161",
-      "courseTitle": "INTRO FILM NARRATIV",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "SUM2022",
-      "course": "BISMCS 472",
-      "courseTitle": "ADV MEDIA WKSP",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "SUM2022",
-      "course": "BISMCS 240",
-      "courseTitle": "WORKING WITH VIDEO",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "SPR2022",
-      "course": "BISMCS 240",
-      "courseTitle": "WORKING WITH VIDEO",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "WIN2022",
-      "course": "BISMCS 472",
-      "courseTitle": "ADV MEDIA WKSP",
-      "section": "B"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "WIN2022",
-      "course": "BISMCS 240",
-      "courseTitle": "WORKING WITH VIDEO",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Studies",
-      "term": "WIN2022",
-      "course": "BIS 499",
-      "courseTitle": "PORTFOLIO CAPSTONE",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "AUT2021",
-      "course": "BISMCS 240",
-      "courseTitle": "WORKING WITH VIDEO",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Studies",
-      "term": "AUT2021",
-      "course": "BIS 347",
-      "courseTitle": "HIST AM DOCUM FILM",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Studies",
-      "term": "AUT2021",
-      "course": "BIS 161",
-      "courseTitle": "INTRO FILM NARRATIV",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "SUM2021",
-      "course": "BISMCS 472",
-      "courseTitle": "ADV MEDIA WKSP",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "SUM2021",
-      "course": "BISMCS 240",
-      "courseTitle": "WORKING WITH VIDEO",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "SPR2021",
-      "course": "BISMCS 240",
-      "courseTitle": "WORKING WITH VIDEO",
-      "section": "B"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "SPR2021",
-      "course": "BISMCS 240",
-      "courseTitle": "WORKING WITH VIDEO",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Studies",
-      "term": "SPR2021",
-      "course": "BIS 499",
-      "courseTitle": "PORTFOLIO CAPSTONE",
-      "section": "B"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "WIN2021",
-      "course": "BISMCS 472",
-      "courseTitle": "ADV MEDIA WKSP",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "WIN2021",
-      "course": "BISMCS 240",
-      "courseTitle": "WORKING WITH VIDEO",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Studies",
-      "term": "WIN2021",
-      "course": "BIS 161",
-      "courseTitle": "INTRO FILM NARRATIV",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bismcs",
-      "deptName": "Media and Communication Studies",
-      "term": "AUT2020",
-      "course": "BISMCS 240",
-      "courseTitle": "WORKING WITH VIDEO",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Studies",
-      "term": "AUT2020",
-      "course": "BIS 499",
-      "courseTitle": "PORTFOLIO CAPSTONE",
-      "section": "E"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Studies",
-      "term": "AUT2020",
-      "course": "BIS 161",
-      "courseTitle": "INTRO FILM NARRATIV",
-      "section": "A"
     }
-  ]
+  ],
+  "source": "eval-only"
 }

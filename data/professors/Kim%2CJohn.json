@@ -1,29 +1,158 @@
 {
-  "generatedAt": "2026-05-05T23:34:07Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Kim%2CJohn",
   "professor": "Kim,John",
-  "recordCount": 2,
+  "recordCount": 15,
   "records": [
     {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bme",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "WIN2025",
-      "course": "B ME 493",
-      "courseTitle": "Advanced Special Topics In Mechanical Engineering",
-      "section": "B"
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2023",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "J"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2023",
+      "course": "PSYCH 552",
+      "courseTitle": "SMNR IN BEHV NEURSC",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "WIN2023",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "F"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "WIN2023",
+      "course": "PSYCH 552",
+      "courseTitle": "SMNR IN BEHV NEURSC",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "WIN2023",
+      "course": "PSYCH 417",
+      "courseTitle": "STRESS/AGING & BRAIN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "korean",
+      "deptName": "Korean",
+      "term": "WIN2023",
+      "course": "KOREAN 302",
+      "courseTitle": "THIRD-YEAR KOREAN",
+      "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
-      "dept": "bme",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "AUT2025",
-      "course": "B ME 221",
-      "courseTitle": "Statics",
+      "dept": "cssskl",
+      "deptName": "Computing and Software Systems Skills",
+      "term": "SUM2022",
+      "course": "CSSSKL 142",
+      "courseTitle": "CMPT PROG SKILLS I",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "css",
+      "deptName": "Computing and Software Systems",
+      "term": "SUM2022",
+      "course": "CSS 142",
+      "courseTitle": "CMPT PROG I",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tsocw",
+      "deptName": "Social Work",
+      "term": "AUT2021",
+      "course": "T SOCW 532",
+      "courseTitle": "INTGRATV PRACTICE I",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "korean",
+      "deptName": "Korean",
+      "term": "SUM2021",
+      "course": "KOREAN 134",
+      "courseTitle": "1ST YR INTNSV KOREAN",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tsocwf",
+      "deptName": "Social Welfare",
+      "term": "SPR2021",
+      "course": "TSOCWF 404",
+      "courseTitle": "CUL DIV SOCIAL JUST",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2021",
+      "course": "PSYCH 560",
+      "courseTitle": "RESEARCH STRATEGIES",
+      "section": "L"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "psych",
+      "deptName": "Psychology",
+      "term": "SPR2021",
+      "course": "PSYCH 552",
+      "courseTitle": "SMNR IN BEHV NEURSC",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tsocw",
+      "deptName": "Social Work",
+      "term": "WIN2021",
+      "course": "T SOCW 533",
+      "courseTitle": "INTGRATV PRACTICE II",
+      "section": "A"
+    },
+    {
+      "campus": "T",
+      "campusName": "Tacoma",
+      "dept": "tsocw",
+      "deptName": "Social Work",
+      "term": "AUT2020",
+      "course": "T SOCW 532",
+      "courseTitle": "ADV INT PRACTICE I",
       "section": "A"
     }
-  ],
-  "source": "eval-only"
+  ]
 }

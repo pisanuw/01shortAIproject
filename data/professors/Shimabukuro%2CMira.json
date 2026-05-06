@@ -1,79 +1,108 @@
 {
-  "generatedAt": "2026-05-05T23:34:07Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Shimabukuro%2CMira",
   "professor": "Shimabukuro,Mira",
-  "recordCount": 7,
+  "recordCount": 10,
   "records": [
     {
       "campus": "B",
       "campusName": "Bothell",
-      "dept": "bisaes",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "WIN2026",
-      "course": "BISAES 465",
-      "courseTitle": "Advanced Seminar In American Ethnic Studies",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "AUT2024",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
+      "section": "O"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SPR2024",
+      "course": "BIS 290",
+      "courseTitle": "INTERMED WRIT SEMNR",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "WIN2026",
-      "course": "BIS 290",
-      "courseTitle": "Interdisciplinary Writing Seminar",
-      "section": "B"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "WIN2025",
-      "course": "BIS 290",
-      "courseTitle": "Interdisciplinary Writing Seminar",
-      "section": "B"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "SPR2025",
-      "course": "BIS 490",
-      "courseTitle": "Advanced Seminar",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2024",
+      "course": "BIS 300",
+      "courseTitle": "INTERDISC INQUIRY",
       "section": "C"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "SPR2025",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2023",
+      "course": "BIS 300",
+      "courseTitle": "INTERDISC INQUIRY",
+      "section": "D"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2023",
       "course": "BIS 290",
-      "courseTitle": "Interdisciplinary Writing Seminar",
+      "courseTitle": "INTERMED WRIT SEMNR",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SPR2023",
+      "course": "BIS 238",
+      "courseTitle": "LANG ID CULTR PWR",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bwrit",
-      "deptName": "First Year Pre-Major Program",
-      "term": "AUT2025",
-      "course": "B WRIT 134",
-      "courseTitle": "Composition",
-      "section": "O"
+      "deptName": "Writing",
+      "term": "AUT2022",
+      "course": "B WRIT 132",
+      "courseTitle": "COMPOSITION STRTCH 1",
+      "section": "E"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2022",
+      "course": "BIS 300",
+      "courseTitle": "INTERDISC INQUIRY",
+      "section": "D"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2022",
+      "course": "BIS 300",
+      "courseTitle": "INTERDISC INQUIRY",
+      "section": "C"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bcore",
-      "deptName": "First Year Pre-Major Program",
-      "term": "AUT2025",
-      "course": "B CORE 104",
-      "courseTitle": "Discovery Core: Arts And Humanities",
-      "section": "M"
+      "deptName": "University Studies and Programs",
+      "term": "AUT2021",
+      "course": "B CORE 107",
+      "courseTitle": "INDVDUALS & SOC 1",
+      "section": "A"
     }
-  ],
-  "source": "eval-only"
+  ]
 }

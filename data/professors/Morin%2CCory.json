@@ -1,9 +1,19 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Morin%2CCory",
   "professor": "Morin,Cory",
-  "recordCount": 1,
+  "recordCount": 2,
   "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "envh",
+      "deptName": "Environmental Health",
+      "term": "SPR2022",
+      "course": "ENV H 590",
+      "courseTitle": "SELECTED TOPICS",
+      "section": "B"
+    },
     {
       "campus": "S",
       "campusName": "Seattle",

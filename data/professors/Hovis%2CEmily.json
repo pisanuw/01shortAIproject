@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Hovis%2CEmily",
   "professor": "Hovis,Emily",
-  "recordCount": 26,
+  "recordCount": 28,
   "records": [
     {
       "campus": "S",
@@ -260,6 +260,26 @@
       "dept": "envh",
       "deptName": "Environmental Health",
       "term": "AUT2022",
+      "course": "ENV H 441",
+      "courseTitle": "FOOD PROTECTION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "envh",
+      "deptName": "Environmental Health",
+      "term": "SPR2022",
+      "course": "ENV H 442",
+      "courseTitle": "ZOONOTIC DISEASE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "envh",
+      "deptName": "Environmental Health",
+      "term": "WIN2022",
       "course": "ENV H 441",
       "courseTitle": "FOOD PROTECTION",
       "section": "A"

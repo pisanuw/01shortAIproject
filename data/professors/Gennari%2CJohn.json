@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Gennari%2CJohn",
   "professor": "Gennari,John",
-  "recordCount": 35,
+  "recordCount": 36,
   "records": [
     {
       "campus": "S",
@@ -352,6 +352,16 @@
       "term": "WIN2021",
       "course": "BIME 550",
       "courseTitle": "KNOWLEDGE REP",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bime",
+      "deptName": "Biomedical Informatics and Medical Education",
+      "term": "AUT2020",
+      "course": "BIME 300",
+      "courseTitle": "TRNSFRM TECH BIOMED",
       "section": "A"
     }
   ]

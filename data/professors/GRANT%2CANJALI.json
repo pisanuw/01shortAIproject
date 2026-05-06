@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
-  "id": "Grant%2CAnjali",
-  "professor": "Grant,Anjali",
-  "recordCount": 1,
+  "generatedAt": "2026-05-06T01:15:29Z",
+  "id": "GRANT%2CANJALI",
+  "professor": "GRANT,ANJALI",
+  "recordCount": 2,
   "records": [
     {
       "campus": "S",
@@ -12,6 +12,16 @@
       "term": "WIN2022",
       "course": "ARCH 401",
       "courseTitle": "ARCH DESIGN V",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2021",
+      "course": "ARCH 402",
+      "courseTitle": "ARCH DESIGN VI",
       "section": "B"
     }
   ]

@@ -1,20 +1,9 @@
 {
-  "generatedAt": "2026-04-16T02:57:22Z",
+  "generatedAt": "2026-05-06T01:15:32Z",
   "id": "B%20-%20B%20CORE%20104",
   "course": "B - B CORE 104",
   "recordCount": 109,
   "records": [
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "AUT2025",
-      "course": "B CORE 104",
-      "courseTitle": "DISC CORE: ART & HUM",
-      "section": "S",
-      "instructor": "lambacher,jason frederick"
-    },
     {
       "campus": "B",
       "campusName": "Bothell",
@@ -134,7 +123,18 @@
       "course": "B CORE 104",
       "courseTitle": "DISC CORE: ART & HUM",
       "section": "E",
-      "instructor": "Lee,Jonathan Rey"
+      "instructor": "Lee,Jonathan"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "AUT2025",
+      "course": "B CORE 104",
+      "courseTitle": "DISC CORE: ART & HUM",
+      "section": "S",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -145,7 +145,7 @@
       "course": "B CORE 104",
       "courseTitle": "DISC CORE: ART & HUM",
       "section": "J",
-      "instructor": "Kellejian,Kris"
+      "instructor": "KELLEJIAN,KRIS"
     },
     {
       "campus": "B",
@@ -266,7 +266,7 @@
       "course": "B CORE 104",
       "courseTitle": "DISC CORE: ART & HUM",
       "section": "Q",
-      "instructor": "Yum,Samuel M."
+      "instructor": "Yum,Samuel"
     },
     {
       "campus": "B",
@@ -508,7 +508,7 @@
       "course": "B CORE 104",
       "courseTitle": "VIS LIT PRFM ART 1",
       "section": "S",
-      "instructor": "Yum,Samuel M."
+      "instructor": "Yum,Samuel"
     },
     {
       "campus": "B",
@@ -552,7 +552,7 @@
       "course": "B CORE 104",
       "courseTitle": "VIS LIT PRFM ART 1",
       "section": "T",
-      "instructor": "Mourad,Pierre D."
+      "instructor": "Mourad,Pierre"
     },
     {
       "campus": "B",
@@ -705,17 +705,6 @@
       "term": "AUT2022",
       "course": "B CORE 104",
       "courseTitle": "VIS LIT PRFM ART 1",
-      "section": "K",
-      "instructor": "lambacher,jason frederick"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "AUT2022",
-      "course": "B CORE 104",
-      "courseTitle": "VIS LIT PRFM ART 1",
       "section": "F",
       "instructor": "carpenter,gary"
     },
@@ -762,6 +751,17 @@
       "courseTitle": "VIS LIT PRFM ART 1",
       "section": "H",
       "instructor": "Morse,Jason H"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "AUT2022",
+      "course": "B CORE 104",
+      "courseTitle": "VIS LIT PRFM ART 1",
+      "section": "K",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -881,17 +881,6 @@
       "term": "AUT2021",
       "course": "B CORE 104",
       "courseTitle": "VIS LIT PRFM ART 1",
-      "section": "J",
-      "instructor": "lambacher,jason frederick"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "AUT2021",
-      "course": "B CORE 104",
-      "courseTitle": "VIS LIT PRFM ART 1",
       "section": "L",
       "instructor": "carpenter,gary"
     },
@@ -927,6 +916,17 @@
       "courseTitle": "VIS LIT PRFM ART 1",
       "section": "N",
       "instructor": "Morse,Jason H"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "AUT2021",
+      "course": "B CORE 104",
+      "courseTitle": "VIS LIT PRFM ART 1",
+      "section": "J",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -1035,17 +1035,6 @@
       "term": "AUT2020",
       "course": "B CORE 104",
       "courseTitle": "VIS LIT PRFM ART 1",
-      "section": "D",
-      "instructor": "lambacher,jason frederick"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "AUT2020",
-      "course": "B CORE 104",
-      "courseTitle": "VIS LIT PRFM ART 1",
       "section": "J",
       "instructor": "carpenter,gary"
     },
@@ -1092,6 +1081,17 @@
       "courseTitle": "VIS LIT PRFM ART 1",
       "section": "G",
       "instructor": "Morse,Jason H"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "AUT2020",
+      "course": "B CORE 104",
+      "courseTitle": "VIS LIT PRFM ART 1",
+      "section": "D",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",

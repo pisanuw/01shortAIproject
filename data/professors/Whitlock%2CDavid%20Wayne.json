@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
-  "id": "WHITLOCK%2CDAVID%20WAYNE",
-  "professor": "WHITLOCK,DAVID WAYNE",
-  "recordCount": 2,
+  "generatedAt": "2026-05-06T01:15:30Z",
+  "id": "Whitlock%2CDavid%20Wayne",
+  "professor": "Whitlock,David Wayne",
+  "recordCount": 3,
   "records": [
     {
       "campus": "S",
@@ -22,6 +22,16 @@
       "term": "AUT2021",
       "course": "NORW 101",
       "courseTitle": "1ST YEAR NORWEGIAN 1",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "norweg",
+      "deptName": "Norwegian",
+      "term": "WIN2021",
+      "course": "NORW 102",
+      "courseTitle": "1ST YEAR NORWEGIAN 2",
       "section": "A"
     }
   ]

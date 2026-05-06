@@ -1,9 +1,19 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
-  "id": "Murray%2CChristopher",
-  "professor": "Murray,Christopher",
-  "recordCount": 1,
+  "generatedAt": "2026-05-06T01:15:30Z",
+  "id": "MURRAY%2CCHRISTOPHER",
+  "professor": "MURRAY,CHRISTOPHER",
+  "recordCount": 2,
   "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "88navsci",
+      "deptName": "Naval Science",
+      "term": "AUT2020",
+      "course": "N SCI 301",
+      "courseTitle": "NAVAL SHIP SYSTEMS",
+      "section": "A"
+    },
     {
       "campus": "S",
       "campusName": "Seattle",

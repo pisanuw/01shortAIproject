@@ -1,109 +1,208 @@
 {
-  "generatedAt": "2026-05-05T23:34:07Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Silva%2CJanelle",
   "professor": "Silva,Janelle",
-  "recordCount": 10,
+  "recordCount": 20,
   "records": [
     {
       "campus": "B",
       "campusName": "Bothell",
-      "dept": "bispsy",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "WIN2026",
-      "course": "BISPSY 350",
-      "courseTitle": "Intergroup Relations",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
       "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "WIN2026",
-      "course": "BIS 225",
-      "courseTitle": "Social Psychology",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bispsy",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "SPR2025",
-      "course": "BISPSY 350",
-      "courseTitle": "Intergroup Relations",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "SPR2025",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SPR2026",
       "course": "BIS 450",
-      "courseTitle": "Decolonizing Psychology",
+      "courseTitle": "DECOLONZING PSYCH",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bispsy",
+      "deptName": "Psychology",
+      "term": "WIN2026",
+      "course": "BISPSY 350",
+      "courseTitle": "INTERGROUP RELATIONS",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "AUT2025",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2026",
       "course": "BIS 225",
-      "courseTitle": "Social Psychology",
+      "courseTitle": "SOCIAL PSYCHOLOGY",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
-      "dept": "bcusp",
-      "deptName": "First Year Pre-Major Program",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
       "term": "AUT2025",
-      "course": "B CUSP 102",
-      "courseTitle": "Transitioning To College Learning",
+      "course": "BIS 225",
+      "courseTitle": "SOCIAL PSYCHOLOGY",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bcore",
-      "deptName": "First Year Pre-Major Program",
+      "deptName": "University Studies and Programs",
       "term": "AUT2025",
       "course": "B CORE 107",
-      "courseTitle": "Discovery Core: Social Sciences",
+      "courseTitle": "DISC CORE: SOC SCI",
       "section": "E"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "AUT2024",
-      "course": "BIS 225",
-      "courseTitle": "Social Psychology",
+      "dept": "bispsy",
+      "deptName": "Psychology",
+      "term": "SPR2025",
+      "course": "BISPSY 350",
+      "courseTitle": "INTERGROUP RELATIONS",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
-      "dept": "bcusp",
-      "deptName": "First Year Pre-Major Program",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SPR2025",
+      "course": "BIS 450",
+      "courseTitle": "DECOLONZING PSYCH",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
       "term": "AUT2024",
-      "course": "B CUSP 102",
-      "courseTitle": "Transitioning To College Learning",
+      "course": "BIS 225",
+      "courseTitle": "SOCIAL PSYCHOLOGY",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bcore",
-      "deptName": "First Year Pre-Major Program",
+      "deptName": "University Studies and Programs",
       "term": "AUT2024",
       "course": "B CORE 107",
-      "courseTitle": "Discovery Core: Social Sciences",
+      "courseTitle": "DISC CORE: SOC SCI",
       "section": "H"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bispsy",
+      "deptName": "Psychology",
+      "term": "SPR2024",
+      "course": "BISPSY 350",
+      "courseTitle": "INTERGROUP RELATIONS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SPR2024",
+      "course": "BIS 450",
+      "courseTitle": "DECOLONZING PSYCH",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2024",
+      "course": "BIS 489",
+      "courseTitle": "PROJ COMMUNTY PSYCH",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2024",
+      "course": "BIS 225",
+      "courseTitle": "SOCIAL PSYCHOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2023",
+      "course": "BIS 225",
+      "courseTitle": "SOCIAL PSYCHOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bispsy",
+      "deptName": "Psychology",
+      "term": "SPR2023",
+      "course": "BISPSY 350",
+      "courseTitle": "INTERGROUP RELATIONS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2022",
+      "course": "BIS 225",
+      "courseTitle": "SOCIAL PSYCHOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SPR2022",
+      "course": "BIS 350",
+      "courseTitle": "INTERGROUP RELATIONS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2021",
+      "course": "BIS 225",
+      "courseTitle": "SOCIAL PSYCHOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SPR2021",
+      "course": "BIS 225",
+      "courseTitle": "SOCIAL PSYCHOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2020",
+      "course": "BIS 225",
+      "courseTitle": "SOCIAL PSYCHOLOGY",
+      "section": "A"
     }
-  ],
-  "source": "eval-only"
+  ]
 }

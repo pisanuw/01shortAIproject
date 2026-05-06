@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Hevly%2CBruce",
   "professor": "Hevly,Bruce",
-  "recordCount": 8,
+  "recordCount": 15,
   "records": [
     {
       "campus": "S",
@@ -82,6 +82,76 @@
       "term": "WIN2023",
       "course": "PHIL 401",
       "courseTitle": "ADV TOPICS IN PHIL",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hstcmp",
+      "deptName": "Comparative and Transregional History",
+      "term": "AUT2022",
+      "course": "HSTCMP 311",
+      "courseTitle": "SCI CIV ANTQ-1600",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hstcmp",
+      "deptName": "Comparative and Transregional History",
+      "term": "AUT2022",
+      "course": "HSTCMP 215",
+      "courseTitle": "HIST OF ATOMIC BOMB",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hstcmp",
+      "deptName": "Comparative and Transregional History",
+      "term": "AUT2021",
+      "course": "HSTCMP 312",
+      "courseTitle": "SCI CIVL-MODRN SOC",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "histam",
+      "deptName": "History of North America",
+      "term": "AUT2021",
+      "course": "HSTAA 316",
+      "courseTitle": "HIST AMER SCIENCE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hstcmp",
+      "deptName": "Comparative and Transregional History",
+      "term": "SPR2021",
+      "course": "HSTCMP 315",
+      "courseTitle": "HS TECHNLGY TO 1940",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hstcmp",
+      "deptName": "Comparative and Transregional History",
+      "term": "AUT2020",
+      "course": "HSTCMP 311",
+      "courseTitle": "SCI CIV ANTQ-1600",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "hstcmp",
+      "deptName": "Comparative and Transregional History",
+      "term": "AUT2020",
+      "course": "HSTCMP 290",
+      "courseTitle": "TPCS COMPAR/GLBL HST",
       "section": "B"
     }
   ]

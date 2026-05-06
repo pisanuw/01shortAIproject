@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "LI%2CWEIYU",
   "professor": "LI,WEIYU",
-  "recordCount": 1,
+  "recordCount": 3,
   "records": [
     {
       "campus": "S",
@@ -12,6 +12,26 @@
       "term": "SPR2021",
       "course": "DRAMA 101",
       "courseTitle": "INTRO TO THEATRE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2021",
+      "course": "DRAMA 103",
+      "courseTitle": "THEATRE APPRECIATN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2020",
+      "course": "DRAMA 201",
+      "courseTitle": "PLAYS AND STYLES",
       "section": "A"
     }
   ]

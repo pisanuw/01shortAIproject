@@ -1,20 +1,9 @@
 {
-  "generatedAt": "2026-04-16T02:57:22Z",
+  "generatedAt": "2026-05-06T01:15:32Z",
   "id": "B%20-%20B%20CORE%20118",
   "course": "B - B CORE 118",
   "recordCount": 14,
   "records": [
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "SPR2024",
-      "course": "B CORE 118",
-      "courseTitle": "INDVDUALS & SOC 3",
-      "section": "C",
-      "instructor": "lambacher,jason frederick"
-    },
     {
       "campus": "B",
       "campusName": "Bothell",
@@ -45,19 +34,19 @@
       "term": "SPR2024",
       "course": "B CORE 118",
       "courseTitle": "INDVDUALS & SOC 3",
-      "section": "B",
-      "instructor": "Gregory,Wanda"
+      "section": "C",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bcore",
       "deptName": "University Studies and Programs",
-      "term": "SPR2023",
+      "term": "SPR2024",
       "course": "B CORE 118",
       "courseTitle": "INDVDUALS & SOC 3",
-      "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "section": "B",
+      "instructor": "Gregory,Wanda"
     },
     {
       "campus": "B",
@@ -97,11 +86,11 @@
       "campusName": "Bothell",
       "dept": "bcore",
       "deptName": "University Studies and Programs",
-      "term": "SPR2022",
+      "term": "SPR2023",
       "course": "B CORE 118",
       "courseTitle": "INDVDUALS & SOC 3",
-      "section": "B",
-      "instructor": "lambacher,jason frederick"
+      "section": "A",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -122,19 +111,19 @@
       "term": "SPR2022",
       "course": "B CORE 118",
       "courseTitle": "INDVDUALS & SOC 3",
-      "section": "A",
-      "instructor": "Harkewicz,Laura J"
+      "section": "B",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bcore",
       "deptName": "University Studies and Programs",
-      "term": "SPR2021",
+      "term": "SPR2022",
       "course": "B CORE 118",
       "courseTitle": "INDVDUALS & SOC 3",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Harkewicz,Laura J"
     },
     {
       "campus": "B",
@@ -157,6 +146,17 @@
       "courseTitle": "INDVDUALS & SOC 3",
       "section": "B",
       "instructor": "Shaw,Carol A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "SPR2021",
+      "course": "B CORE 118",
+      "courseTitle": "INDVDUALS & SOC 3",
+      "section": "A",
+      "instructor": "Lambacher,Jason"
     }
   ]
 }

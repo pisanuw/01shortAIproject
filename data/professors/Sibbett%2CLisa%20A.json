@@ -1,19 +1,58 @@
 {
-  "generatedAt": "2026-05-05T23:34:07Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Sibbett%2CLisa%20A",
   "professor": "Sibbett,Lisa A",
-  "recordCount": 1,
+  "recordCount": 5,
   "records": [
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "beduc",
-      "deptName": "Educational Studies",
-      "term": "AUT2024",
-      "course": "B EDUC 201",
-      "courseTitle": "Special Topics In Diversity And Education",
+      "deptName": "Education",
+      "term": "SPR2021",
+      "course": "B EDUC 460",
+      "courseTitle": "MORAL DIMENSIONS ED",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "SPR2021",
+      "course": "B EDUC 435",
+      "courseTitle": "STUDENT TEACHING",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "AUT2020",
+      "course": "B EDUC 502",
+      "courseTitle": "IDENTITY & REFL PRCT",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "AUT2020",
+      "course": "B EDUC 435",
+      "courseTitle": "STUDENT TEACHING",
+      "section": "C"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "AUT2020",
+      "course": "B EDUC 406",
+      "courseTitle": "INTRO FIELD PLACMNT",
       "section": "C"
     }
-  ],
-  "source": "eval-only"
+  ]
 }

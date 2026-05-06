@@ -1,39 +1,88 @@
 {
-  "generatedAt": "2026-05-05T23:34:07Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Toro%2CMatthew",
   "professor": "Toro,Matthew",
-  "recordCount": 3,
+  "recordCount": 8,
   "records": [
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
+      "deptName": "Interdisciplinary Studies",
       "term": "WIN2026",
       "course": "BIS 215",
-      "courseTitle": "Understanding Statistics",
+      "courseTitle": "UNDERSTANDING STATS",
       "section": "B"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "WIN2025",
-      "course": "BIS 215",
-      "courseTitle": "Understanding Statistics",
-      "section": "B"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
+      "deptName": "Interdisciplinary Studies",
       "term": "SPR2025",
       "course": "BIS 215",
-      "courseTitle": "Understanding Statistics",
+      "courseTitle": "UNDERSTANDING STATS",
       "section": "C"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2025",
+      "course": "BIS 215",
+      "courseTitle": "UNDERSTANDING STATS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "soc",
+      "deptName": "Sociology",
+      "term": "SUM2024",
+      "course": "SOC 366",
+      "courseTitle": "SOC OF ORGANIZ",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2023",
+      "course": "STAT 221",
+      "courseTitle": "STAT FOR SOC SCI",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "soc",
+      "deptName": "Sociology",
+      "term": "SUM2023",
+      "course": "SOC 221",
+      "courseTitle": "STAT FOR SOC SCI",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "stat",
+      "deptName": "Statistics",
+      "term": "SUM2022",
+      "course": "STAT 221",
+      "courseTitle": "STAT FOR SOC SCI",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "soc",
+      "deptName": "Sociology",
+      "term": "SUM2022",
+      "course": "SOC 221",
+      "courseTitle": "STAT FOR SOC SCI",
+      "section": "A"
     }
-  ],
-  "source": "eval-only"
+  ]
 }

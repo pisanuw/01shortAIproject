@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-05T23:34:07Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Johns%2CTymon",
   "professor": "Johns,Tymon",
-  "recordCount": 2,
+  "recordCount": 3,
   "records": [
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bbus",
       "deptName": "Business",
-      "term": "WIN2025",
+      "term": "SPR2026",
       "course": "B BUS 110",
-      "courseTitle": "Personal Finance",
+      "courseTitle": "PERSONAL FINANCE",
       "section": "A"
     },
     {
@@ -21,9 +21,18 @@
       "deptName": "Business",
       "term": "SPR2025",
       "course": "B BUS 110",
-      "courseTitle": "Personal Finance",
+      "courseTitle": "PERSONAL FINANCE",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "WIN2025",
+      "course": "B BUS 110",
+      "courseTitle": "PERSONAL FINANCE",
       "section": "A"
     }
-  ],
-  "source": "eval-only"
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T02:57:22Z",
+  "generatedAt": "2026-05-06T01:15:32Z",
   "id": "B%20-%20BIS%20490",
   "course": "B - BIS 490",
   "recordCount": 67,
@@ -177,8 +177,8 @@
       "term": "AUT2024",
       "course": "BIS 490",
       "courseTitle": "ADVANCED SEMINAR",
-      "section": "B",
-      "instructor": "lambacher,jason frederick"
+      "section": "C",
+      "instructor": "WB"
     },
     {
       "campus": "B",
@@ -188,8 +188,8 @@
       "term": "AUT2024",
       "course": "BIS 490",
       "courseTitle": "ADVANCED SEMINAR",
-      "section": "C",
-      "instructor": "WB"
+      "section": "B",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -375,8 +375,8 @@
       "term": "WIN2023",
       "course": "BIS 490",
       "courseTitle": "ADVANCED SEMINAR",
-      "section": "C",
-      "instructor": "lambacher,jason frederick"
+      "section": "A",
+      "instructor": "WJ"
     },
     {
       "campus": "B",
@@ -386,8 +386,8 @@
       "term": "WIN2023",
       "course": "BIS 490",
       "courseTitle": "ADVANCED SEMINAR",
-      "section": "A",
-      "instructor": "WJ"
+      "section": "C",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -518,17 +518,6 @@
       "term": "WIN2022",
       "course": "BIS 490",
       "courseTitle": "ADVANCED SEMINAR",
-      "section": "A",
-      "instructor": "lambacher,jason frederick"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Studies",
-      "term": "WIN2022",
-      "course": "BIS 490",
-      "courseTitle": "ADVANCED SEMINAR",
       "section": "C",
       "instructor": "WJ"
     },
@@ -542,6 +531,17 @@
       "courseTitle": "ADVANCED SEMINAR",
       "section": "B",
       "instructor": "Padilla,Yolanda"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2022",
+      "course": "BIS 490",
+      "courseTitle": "ADVANCED SEMINAR",
+      "section": "A",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",

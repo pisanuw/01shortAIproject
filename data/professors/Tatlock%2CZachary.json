@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Tatlock%2CZachary",
   "professor": "Tatlock,Zachary",
-  "recordCount": 9,
+  "recordCount": 11,
   "records": [
     {
       "campus": "S",
@@ -90,6 +90,26 @@
       "dept": "cse",
       "deptName": "-- see Computer Science and Engineering",
       "term": "AUT2022",
+      "course": "CSE 341",
+      "courseTitle": "PROGRAMMING LANGS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "SPR2021",
+      "course": "CSE 505",
+      "courseTitle": "PRIN OF PROG LANGS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "WIN2021",
       "course": "CSE 341",
       "courseTitle": "PROGRAMMING LANGS",
       "section": "A"

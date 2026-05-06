@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T02:57:08Z",
+  "generatedAt": "2026-05-06T01:15:21Z",
   "campus": "B",
   "dept": "bcore",
   "deptName": "University Studies and Programs",
@@ -111,6 +111,16 @@
       "term": "AUT2020",
       "course": "B CORE 104",
       "courseTitle": "VIS LIT PRFM ART 1",
+      "section": "D",
+      "instructor": "Lambacher,Jason"
+    },
+    {
+      "campus": "B",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "AUT2020",
+      "course": "B CORE 104",
+      "courseTitle": "VIS LIT PRFM ART 1",
       "section": "G",
       "instructor": "Morse,Jason H"
     },
@@ -159,20 +169,10 @@
       "dept": "bcore",
       "deptName": "University Studies and Programs",
       "term": "AUT2020",
-      "course": "B CORE 104",
-      "courseTitle": "VIS LIT PRFM ART 1",
-      "section": "D",
-      "instructor": "lambacher,jason frederick"
-    },
-    {
-      "campus": "B",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "AUT2020",
       "course": "B CORE 107",
       "courseTitle": "INDVDUALS & SOC 1",
       "section": "D",
-      "instructor": "Dupuis,Marc J."
+      "instructor": "Dupuis,Marc"
     },
     {
       "campus": "B",
@@ -202,7 +202,7 @@
       "course": "B CORE 107",
       "courseTitle": "INDVDUALS & SOC 1",
       "section": "A",
-      "instructor": "Lichty,Lauren F."
+      "instructor": "Lichty,Lauren"
     },
     {
       "campus": "B",
@@ -381,6 +381,16 @@
       "term": "WIN2021",
       "course": "B CORE 115",
       "courseTitle": "INDVDUALS & SOC 2",
+      "section": "A",
+      "instructor": "Lambacher,Jason"
+    },
+    {
+      "campus": "B",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "WIN2021",
+      "course": "B CORE 115",
+      "courseTitle": "INDVDUALS & SOC 2",
       "section": "E",
       "instructor": "Morse,Jason H"
     },
@@ -403,16 +413,6 @@
       "courseTitle": "INDVDUALS & SOC 2",
       "section": "G",
       "instructor": "West,Maureen P."
-    },
-    {
-      "campus": "B",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "WIN2021",
-      "course": "B CORE 115",
-      "courseTitle": "INDVDUALS & SOC 2",
-      "section": "A",
-      "instructor": "lambacher,jason frederick"
     },
     {
       "campus": "B",
@@ -521,6 +521,16 @@
       "term": "SPR2021",
       "course": "B CORE 118",
       "courseTitle": "INDVDUALS & SOC 3",
+      "section": "A",
+      "instructor": "Lambacher,Jason"
+    },
+    {
+      "campus": "B",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "SPR2021",
+      "course": "B CORE 118",
+      "courseTitle": "INDVDUALS & SOC 3",
       "section": "B",
       "instructor": "Shaw,Carol A"
     },
@@ -533,16 +543,6 @@
       "courseTitle": "INDVDUALS & SOC 3",
       "section": "C",
       "instructor": "West,Maureen P."
-    },
-    {
-      "campus": "B",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "SPR2021",
-      "course": "B CORE 118",
-      "courseTitle": "INDVDUALS & SOC 3",
-      "section": "A",
-      "instructor": "lambacher,jason frederick"
     },
     {
       "campus": "B",
@@ -761,6 +761,16 @@
       "term": "AUT2021",
       "course": "B CORE 104",
       "courseTitle": "VIS LIT PRFM ART 1",
+      "section": "J",
+      "instructor": "Lambacher,Jason"
+    },
+    {
+      "campus": "B",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "AUT2021",
+      "course": "B CORE 104",
+      "courseTitle": "VIS LIT PRFM ART 1",
       "section": "N",
       "instructor": "Morse,Jason H"
     },
@@ -799,16 +809,6 @@
       "dept": "bcore",
       "deptName": "University Studies and Programs",
       "term": "AUT2021",
-      "course": "B CORE 104",
-      "courseTitle": "VIS LIT PRFM ART 1",
-      "section": "J",
-      "instructor": "lambacher,jason frederick"
-    },
-    {
-      "campus": "B",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "AUT2021",
       "course": "B CORE 107",
       "courseTitle": "INDVDUALS & SOC 1",
       "section": "I",
@@ -822,7 +822,7 @@
       "course": "B CORE 107",
       "courseTitle": "INDVDUALS & SOC 1",
       "section": "F",
-      "instructor": "Lichty,Lauren F."
+      "instructor": "Lichty,Lauren"
     },
     {
       "campus": "B",
@@ -882,7 +882,7 @@
       "course": "B CORE 107",
       "courseTitle": "INDVDUALS & SOC 1",
       "section": "A",
-      "instructor": "Shimabukuro,Mira Chieko"
+      "instructor": "Shimabukuro,Mira"
     },
     {
       "campus": "B",
@@ -981,6 +981,16 @@
       "term": "WIN2022",
       "course": "B CORE 115",
       "courseTitle": "INDVDUALS & SOC 2",
+      "section": "A",
+      "instructor": "Lambacher,Jason"
+    },
+    {
+      "campus": "B",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "WIN2022",
+      "course": "B CORE 115",
+      "courseTitle": "INDVDUALS & SOC 2",
       "section": "C",
       "instructor": "Morse,Jason H"
     },
@@ -993,16 +1003,6 @@
       "courseTitle": "INDVDUALS & SOC 2",
       "section": "D",
       "instructor": "West,Maureen P."
-    },
-    {
-      "campus": "B",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "WIN2022",
-      "course": "B CORE 115",
-      "courseTitle": "INDVDUALS & SOC 2",
-      "section": "A",
-      "instructor": "lambacher,jason frederick"
     },
     {
       "campus": "B",
@@ -1022,7 +1022,7 @@
       "course": "B CORE 116",
       "courseTitle": "NATURAL WORLD 2",
       "section": "B",
-      "instructor": "Mourad,Pierre D."
+      "instructor": "Mourad,Pierre"
     },
     {
       "campus": "B",
@@ -1101,8 +1101,8 @@
       "term": "SPR2022",
       "course": "B CORE 118",
       "courseTitle": "INDVDUALS & SOC 3",
-      "section": "D",
-      "instructor": "West,Maureen P."
+      "section": "B",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -1111,8 +1111,8 @@
       "term": "SPR2022",
       "course": "B CORE 118",
       "courseTitle": "INDVDUALS & SOC 3",
-      "section": "B",
-      "instructor": "lambacher,jason frederick"
+      "section": "D",
+      "instructor": "West,Maureen P."
     },
     {
       "campus": "B",
@@ -1321,6 +1321,16 @@
       "term": "AUT2022",
       "course": "B CORE 104",
       "courseTitle": "VIS LIT PRFM ART 1",
+      "section": "K",
+      "instructor": "Lambacher,Jason"
+    },
+    {
+      "campus": "B",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "AUT2022",
+      "course": "B CORE 104",
+      "courseTitle": "VIS LIT PRFM ART 1",
       "section": "H",
       "instructor": "Morse,Jason H"
     },
@@ -1369,20 +1379,10 @@
       "dept": "bcore",
       "deptName": "University Studies and Programs",
       "term": "AUT2022",
-      "course": "B CORE 104",
-      "courseTitle": "VIS LIT PRFM ART 1",
-      "section": "K",
-      "instructor": "lambacher,jason frederick"
-    },
-    {
-      "campus": "B",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "AUT2022",
       "course": "B CORE 107",
       "courseTitle": "INDVDUALS & SOC 1",
       "section": "B",
-      "instructor": "Dupuis,Marc J."
+      "instructor": "Dupuis,Marc"
     },
     {
       "campus": "B",
@@ -1402,7 +1402,7 @@
       "course": "B CORE 107",
       "courseTitle": "INDVDUALS & SOC 1",
       "section": "K",
-      "instructor": "Lichty,Lauren F."
+      "instructor": "Lichty,Lauren"
     },
     {
       "campus": "B",
@@ -1532,7 +1532,7 @@
       "course": "B CORE 110",
       "courseTitle": "NATURAL WORLD 1",
       "section": "B",
-      "instructor": "Mourad,Pierre D."
+      "instructor": "Mourad,Pierre"
     },
     {
       "campus": "B",
@@ -1621,6 +1621,16 @@
       "term": "WIN2023",
       "course": "B CORE 117",
       "courseTitle": "VIS LIT PRFM ART 2",
+      "section": "A",
+      "instructor": "Lambacher,Jason"
+    },
+    {
+      "campus": "B",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "WIN2023",
+      "course": "B CORE 117",
+      "courseTitle": "VIS LIT PRFM ART 2",
       "section": "B",
       "instructor": "Lin,Hsinmei"
     },
@@ -1642,17 +1652,7 @@
       "course": "B CORE 117",
       "courseTitle": "VIS LIT PRFM ART 2",
       "section": "D",
-      "instructor": "Roberts,Georgia M."
-    },
-    {
-      "campus": "B",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "WIN2023",
-      "course": "B CORE 117",
-      "courseTitle": "VIS LIT PRFM ART 2",
-      "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -1673,6 +1673,16 @@
       "courseTitle": "DISCOVERY CORE III",
       "section": "C",
       "instructor": "Shippy,Scott"
+    },
+    {
+      "campus": "B",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "SPR2023",
+      "course": "B CORE 118",
+      "courseTitle": "INDVDUALS & SOC 3",
+      "section": "A",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -1709,16 +1719,6 @@
       "dept": "bcore",
       "deptName": "University Studies and Programs",
       "term": "SPR2023",
-      "course": "B CORE 118",
-      "courseTitle": "INDVDUALS & SOC 3",
-      "section": "A",
-      "instructor": "lambacher,jason frederick"
-    },
-    {
-      "campus": "B",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "SPR2023",
       "course": "B CORE 119",
       "courseTitle": "NATURAL WORLD 3",
       "section": "B",
@@ -1732,7 +1732,7 @@
       "course": "B CORE 119",
       "courseTitle": "NATURAL WORLD 3",
       "section": "A",
-      "instructor": "Mourad,Pierre D."
+      "instructor": "Mourad,Pierre"
     },
     {
       "campus": "B",
@@ -1922,7 +1922,7 @@
       "course": "B CORE 104",
       "courseTitle": "VIS LIT PRFM ART 1",
       "section": "T",
-      "instructor": "Mourad,Pierre D."
+      "instructor": "Mourad,Pierre"
     },
     {
       "campus": "B",
@@ -1962,7 +1962,7 @@
       "course": "B CORE 104",
       "courseTitle": "VIS LIT PRFM ART 1",
       "section": "S",
-      "instructor": "Yum,Samuel M."
+      "instructor": "Yum,Samuel"
     },
     {
       "campus": "B",
@@ -2062,7 +2062,7 @@
       "course": "B CORE 107",
       "courseTitle": "DISC CORE: SOC SCI",
       "section": "J",
-      "instructor": "Lichty,Lauren F."
+      "instructor": "Lichty,Lauren"
     },
     {
       "campus": "B",
@@ -2082,7 +2082,7 @@
       "course": "B CORE 107",
       "courseTitle": "DISC CORE: SOC SCI",
       "section": "T",
-      "instructor": "Metcalf-Lindenburger,Dotti"
+      "instructor": "Metcalf-Lindenburger,Dottie"
     },
     {
       "campus": "B",
@@ -2222,7 +2222,7 @@
       "course": "B CORE 110",
       "courseTitle": "DISC CORE: NTRL SCI",
       "section": "H",
-      "instructor": "Lewis,Alaron A"
+      "instructor": "Lewis,Alaron"
     },
     {
       "campus": "B",
@@ -2242,7 +2242,7 @@
       "course": "B CORE 110",
       "courseTitle": "DISC CORE: NTRL SCI",
       "section": "L",
-      "instructor": "Metcalf-Lindenburger,Dotti"
+      "instructor": "Metcalf-Lindenburger,Dottie"
     },
     {
       "campus": "B",
@@ -2262,7 +2262,7 @@
       "course": "B CORE 110",
       "courseTitle": "DISC CORE: NTRL SCI",
       "section": "A",
-      "instructor": "Mourad,Pierre D."
+      "instructor": "Mourad,Pierre"
     },
     {
       "campus": "B",
@@ -2311,6 +2311,16 @@
       "term": "WIN2024",
       "course": "B CORE 115",
       "courseTitle": "INDVDUALS & SOC 2",
+      "section": "B",
+      "instructor": "Lambacher,Jason"
+    },
+    {
+      "campus": "B",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "WIN2024",
+      "course": "B CORE 115",
+      "courseTitle": "INDVDUALS & SOC 2",
       "section": "D",
       "instructor": "SB"
     },
@@ -2323,16 +2333,6 @@
       "courseTitle": "INDVDUALS & SOC 2",
       "section": "A",
       "instructor": "Shayne,Julie"
-    },
-    {
-      "campus": "B",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "WIN2024",
-      "course": "B CORE 115",
-      "courseTitle": "INDVDUALS & SOC 2",
-      "section": "B",
-      "instructor": "lambacher,jason frederick"
     },
     {
       "campus": "B",
@@ -2401,6 +2401,16 @@
       "term": "WIN2024",
       "course": "B CORE 117",
       "courseTitle": "VIS LIT PRFM ART 2",
+      "section": "G",
+      "instructor": "Lambacher,Jason"
+    },
+    {
+      "campus": "B",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "WIN2024",
+      "course": "B CORE 117",
+      "courseTitle": "VIS LIT PRFM ART 2",
       "section": "F",
       "instructor": "Porter,Ian"
     },
@@ -2412,7 +2422,7 @@
       "course": "B CORE 117",
       "courseTitle": "VIS LIT PRFM ART 2",
       "section": "D",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -2423,16 +2433,6 @@
       "courseTitle": "VIS LIT PRFM ART 2",
       "section": "A",
       "instructor": "carpenter,gary"
-    },
-    {
-      "campus": "B",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "WIN2024",
-      "course": "B CORE 117",
-      "courseTitle": "VIS LIT PRFM ART 2",
-      "section": "G",
-      "instructor": "lambacher,jason frederick"
     },
     {
       "campus": "B",
@@ -2471,6 +2471,16 @@
       "term": "SPR2024",
       "course": "B CORE 118",
       "courseTitle": "INDVDUALS & SOC 3",
+      "section": "C",
+      "instructor": "Lambacher,Jason"
+    },
+    {
+      "campus": "B",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "SPR2024",
+      "course": "B CORE 118",
+      "courseTitle": "INDVDUALS & SOC 3",
       "section": "A",
       "instructor": "Porter,Ian"
     },
@@ -2483,16 +2493,6 @@
       "courseTitle": "INDVDUALS & SOC 3",
       "section": "D",
       "instructor": "Spiegler,Louise"
-    },
-    {
-      "campus": "B",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "SPR2024",
-      "course": "B CORE 118",
-      "courseTitle": "INDVDUALS & SOC 3",
-      "section": "C",
-      "instructor": "lambacher,jason frederick"
     },
     {
       "campus": "B",
@@ -2551,6 +2551,16 @@
       "term": "SPR2024",
       "course": "B CORE 120",
       "courseTitle": "VIS LIT PFRM ART 3",
+      "section": "C",
+      "instructor": "Lambacher,Jason"
+    },
+    {
+      "campus": "B",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "SPR2024",
+      "course": "B CORE 120",
+      "courseTitle": "VIS LIT PFRM ART 3",
       "section": "E",
       "instructor": "Morse,Jason H"
     },
@@ -2573,16 +2583,6 @@
       "courseTitle": "VIS LIT PFRM ART 3",
       "section": "A",
       "instructor": "carpenter,gary"
-    },
-    {
-      "campus": "B",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "SPR2024",
-      "course": "B CORE 120",
-      "courseTitle": "VIS LIT PFRM ART 3",
-      "section": "C",
-      "instructor": "lambacher,jason frederick"
     },
     {
       "campus": "B",
@@ -2812,7 +2812,7 @@
       "course": "B CORE 104",
       "courseTitle": "DISC CORE: ART & HUM",
       "section": "Q",
-      "instructor": "Yum,Samuel M."
+      "instructor": "Yum,Samuel"
     },
     {
       "campus": "B",
@@ -2852,7 +2852,7 @@
       "course": "B CORE 107",
       "courseTitle": "DISC CORE: SOC SCI",
       "section": "D",
-      "instructor": "Dupuis,Marc J."
+      "instructor": "Dupuis,Marc"
     },
     {
       "campus": "B",
@@ -2892,7 +2892,7 @@
       "course": "B CORE 107",
       "courseTitle": "DISC CORE: SOC SCI",
       "section": "F",
-      "instructor": "Lichty,Lauren F."
+      "instructor": "Lichty,Lauren"
     },
     {
       "campus": "B",
@@ -2902,7 +2902,7 @@
       "course": "B CORE 107",
       "courseTitle": "DISC CORE: SOC SCI",
       "section": "R",
-      "instructor": "Metcalf-Lindenburger,Dotti"
+      "instructor": "Metcalf-Lindenburger,Dottie"
     },
     {
       "campus": "B",
@@ -3002,7 +3002,7 @@
       "course": "B CORE 107",
       "courseTitle": "DISC CORE: SOC SCI",
       "section": "H",
-      "instructor": "Silva,Janelle M"
+      "instructor": "Silva,Janelle"
     },
     {
       "campus": "B",
@@ -3062,7 +3062,7 @@
       "course": "B CORE 110",
       "courseTitle": "DISC CORE: NTRL SCI",
       "section": "I",
-      "instructor": "Metcalf-Lindenburger,Dotti"
+      "instructor": "Metcalf-Lindenburger,Dottie"
     },
     {
       "campus": "B",
@@ -3191,6 +3191,16 @@
       "term": "WIN2025",
       "course": "B CORE 115",
       "courseTitle": "EXPLORE: SOCIAL SCI",
+      "section": "A",
+      "instructor": "Lambacher,Jason"
+    },
+    {
+      "campus": "B",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "WIN2025",
+      "course": "B CORE 115",
+      "courseTitle": "EXPLORE: SOCIAL SCI",
       "section": "B",
       "instructor": "Shayne,Julie"
     },
@@ -3203,16 +3213,6 @@
       "courseTitle": "EXPLORE: SOCIAL SCI",
       "section": "E",
       "instructor": "Stiber,Michael"
-    },
-    {
-      "campus": "B",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "WIN2025",
-      "course": "B CORE 115",
-      "courseTitle": "EXPLORE: SOCIAL SCI",
-      "section": "A",
-      "instructor": "lambacher,jason frederick"
     },
     {
       "campus": "B",
@@ -3281,6 +3281,16 @@
       "term": "WIN2025",
       "course": "B CORE 117",
       "courseTitle": "EXPLORE: ARTS & HUM",
+      "section": "E",
+      "instructor": "Lambacher,Jason"
+    },
+    {
+      "campus": "B",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "WIN2025",
+      "course": "B CORE 117",
+      "courseTitle": "EXPLORE: ARTS & HUM",
       "section": "A",
       "instructor": "Porter,Ian"
     },
@@ -3292,17 +3302,7 @@
       "course": "B CORE 117",
       "courseTitle": "EXPLORE: ARTS & HUM",
       "section": "D",
-      "instructor": "Roberts,Georgia M."
-    },
-    {
-      "campus": "B",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "WIN2025",
-      "course": "B CORE 117",
-      "courseTitle": "EXPLORE: ARTS & HUM",
-      "section": "E",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -3361,8 +3361,8 @@
       "term": "SPR2025",
       "course": "B CORE 115",
       "courseTitle": "EXPLORE: SOCIAL SCI",
-      "section": "A",
-      "instructor": "Porter,Ian"
+      "section": "C",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -3371,8 +3371,8 @@
       "term": "SPR2025",
       "course": "B CORE 115",
       "courseTitle": "EXPLORE: SOCIAL SCI",
-      "section": "C",
-      "instructor": "lambacher,jason frederick"
+      "section": "A",
+      "instructor": "Porter,Ian"
     },
     {
       "campus": "B",
@@ -3451,8 +3451,8 @@
       "term": "SPR2025",
       "course": "B CORE 117",
       "courseTitle": "EXPLORE: ARTS & HUM",
-      "section": "A",
-      "instructor": "Porter,Ian"
+      "section": "C",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -3461,8 +3461,8 @@
       "term": "SPR2025",
       "course": "B CORE 117",
       "courseTitle": "EXPLORE: ARTS & HUM",
-      "section": "C",
-      "instructor": "lambacher,jason frederick"
+      "section": "A",
+      "instructor": "Porter,Ian"
     },
     {
       "campus": "B",
@@ -3482,7 +3482,7 @@
       "course": "B CORE 117",
       "courseTitle": "EXPLORE: ARTS & HUM",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -3582,7 +3582,17 @@
       "course": "B CORE 104",
       "courseTitle": "DISC CORE: ART & HUM",
       "section": "J",
-      "instructor": "Kellejian,Kris"
+      "instructor": "KELLEJIAN,KRIS"
+    },
+    {
+      "campus": "B",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "AUT2025",
+      "course": "B CORE 104",
+      "courseTitle": "DISC CORE: ART & HUM",
+      "section": "S",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -3592,7 +3602,7 @@
       "course": "B CORE 104",
       "courseTitle": "DISC CORE: ART & HUM",
       "section": "E",
-      "instructor": "Lee,Jonathan Rey"
+      "instructor": "Lee,Jonathan"
     },
     {
       "campus": "B",
@@ -3699,16 +3709,6 @@
       "dept": "bcore",
       "deptName": "University Studies and Programs",
       "term": "AUT2025",
-      "course": "B CORE 104",
-      "courseTitle": "DISC CORE: ART & HUM",
-      "section": "S",
-      "instructor": "lambacher,jason frederick"
-    },
-    {
-      "campus": "B",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "AUT2025",
       "course": "B CORE 107",
       "courseTitle": "DISC CORE: SOC SCI",
       "section": "P",
@@ -3772,7 +3772,7 @@
       "course": "B CORE 107",
       "courseTitle": "DISC CORE: SOC SCI",
       "section": "N",
-      "instructor": "Lee,Jonathan Rey"
+      "instructor": "Lee,Jonathan"
     },
     {
       "campus": "B",
@@ -3852,7 +3852,7 @@
       "course": "B CORE 107",
       "courseTitle": "DISC CORE: SOC SCI",
       "section": "E",
-      "instructor": "Silva,Janelle M"
+      "instructor": "Silva,Janelle"
     },
     {
       "campus": "B",
@@ -4092,7 +4092,7 @@
       "course": "B CORE 117",
       "courseTitle": "EXPLORE: ARTS & HUM",
       "section": "D",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -4162,7 +4162,17 @@
       "course": "B CORE 115",
       "courseTitle": "EXPLORE: SOCIAL SCI",
       "section": "A",
-      "instructor": "Gorbman,Celia Rose"
+      "instructor": "Gorbman,Celia"
+    },
+    {
+      "campus": "B",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "SPR2026",
+      "course": "B CORE 115",
+      "courseTitle": "EXPLORE: SOCIAL SCI",
+      "section": "D",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -4173,16 +4183,6 @@
       "courseTitle": "EXPLORE: SOCIAL SCI",
       "section": "E",
       "instructor": "Thibault,Ronnie"
-    },
-    {
-      "campus": "B",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "SPR2026",
-      "course": "B CORE 115",
-      "courseTitle": "EXPLORE: SOCIAL SCI",
-      "section": "D",
-      "instructor": "lambacher,jason frederick"
     },
     {
       "campus": "B",
@@ -4213,6 +4213,16 @@
       "courseTitle": "EXPLORE: ARTS & HUM",
       "section": "B",
       "instructor": "Doyle,Gavin"
+    },
+    {
+      "campus": "B",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "SPR2026",
+      "course": "B CORE 117",
+      "courseTitle": "EXPLORE: ARTS & HUM",
+      "section": "D",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -4253,16 +4263,6 @@
       "courseTitle": "EXPLORE: ARTS & HUM",
       "section": "E",
       "instructor": "Thibault,Ronnie"
-    },
-    {
-      "campus": "B",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "SPR2026",
-      "course": "B CORE 117",
-      "courseTitle": "EXPLORE: ARTS & HUM",
-      "section": "D",
-      "instructor": "lambacher,jason frederick"
     }
   ]
 }

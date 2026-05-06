@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Olmstead%2CMarjorie",
   "professor": "Olmstead,Marjorie",
-  "recordCount": 3,
+  "recordCount": 9,
   "records": [
     {
       "campus": "S",
@@ -32,6 +32,66 @@
       "term": "AUT2023",
       "course": "PHYS 328",
       "courseTitle": "STATISTICAL PHYSICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "AUT2022",
+      "course": "PHYS 328",
+      "courseTitle": "STATISTICAL PHYSICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "WIN2022",
+      "course": "PHYS 294",
+      "courseTitle": "PHYSICS FRONTIERS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "AUT2021",
+      "course": "PHYS 121",
+      "courseTitle": "MECHANICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "SUM2021",
+      "course": "PHYS 431",
+      "courseTitle": "MODERN PHYSICS LAB",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "WIN2021",
+      "course": "PHYS 294",
+      "courseTitle": "PHYSICS FRONTIERS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "AUT2020",
+      "course": "PHYS 121",
+      "courseTitle": "MECHANICS",
       "section": "A"
     }
   ]

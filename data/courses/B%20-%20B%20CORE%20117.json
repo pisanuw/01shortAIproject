@@ -1,20 +1,9 @@
 {
-  "generatedAt": "2026-04-16T02:57:22Z",
+  "generatedAt": "2026-05-06T01:15:32Z",
   "id": "B%20-%20B%20CORE%20117",
   "course": "B - B CORE 117",
   "recordCount": 56,
   "records": [
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "SPR2026",
-      "course": "B CORE 117",
-      "courseTitle": "EXPLORE: ARTS & HUM",
-      "section": "D",
-      "instructor": "lambacher,jason frederick"
-    },
     {
       "campus": "B",
       "campusName": "Bothell",
@@ -67,6 +56,17 @@
       "term": "SPR2026",
       "course": "B CORE 117",
       "courseTitle": "EXPLORE: ARTS & HUM",
+      "section": "D",
+      "instructor": "Lambacher,Jason"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "SPR2026",
+      "course": "B CORE 117",
+      "courseTitle": "EXPLORE: ARTS & HUM",
       "section": "B",
       "instructor": "Doyle,Gavin"
     },
@@ -101,7 +101,7 @@
       "course": "B CORE 117",
       "courseTitle": "EXPLORE: ARTS & HUM",
       "section": "D",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -156,18 +156,7 @@
       "course": "B CORE 117",
       "courseTitle": "EXPLORE: ARTS & HUM",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "SPR2025",
-      "course": "B CORE 117",
-      "courseTitle": "EXPLORE: ARTS & HUM",
-      "section": "C",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -179,6 +168,17 @@
       "courseTitle": "EXPLORE: ARTS & HUM",
       "section": "A",
       "instructor": "Porter,Ian"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "SPR2025",
+      "course": "B CORE 117",
+      "courseTitle": "EXPLORE: ARTS & HUM",
+      "section": "C",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -254,19 +254,8 @@
       "term": "WIN2025",
       "course": "B CORE 117",
       "courseTitle": "EXPLORE: ARTS & HUM",
-      "section": "E",
-      "instructor": "lambacher,jason frederick"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "WIN2025",
-      "course": "B CORE 117",
-      "courseTitle": "EXPLORE: ARTS & HUM",
       "section": "D",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -278,6 +267,17 @@
       "courseTitle": "EXPLORE: ARTS & HUM",
       "section": "A",
       "instructor": "Porter,Ian"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "WIN2025",
+      "course": "B CORE 117",
+      "courseTitle": "EXPLORE: ARTS & HUM",
+      "section": "E",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -331,17 +331,6 @@
       "term": "WIN2024",
       "course": "B CORE 117",
       "courseTitle": "VIS LIT PRFM ART 2",
-      "section": "G",
-      "instructor": "lambacher,jason frederick"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "WIN2024",
-      "course": "B CORE 117",
-      "courseTitle": "VIS LIT PRFM ART 2",
       "section": "A",
       "instructor": "carpenter,gary"
     },
@@ -354,7 +343,7 @@
       "course": "B CORE 117",
       "courseTitle": "VIS LIT PRFM ART 2",
       "section": "D",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -366,6 +355,17 @@
       "courseTitle": "VIS LIT PRFM ART 2",
       "section": "F",
       "instructor": "Porter,Ian"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "WIN2024",
+      "course": "B CORE 117",
+      "courseTitle": "VIS LIT PRFM ART 2",
+      "section": "G",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -419,19 +419,8 @@
       "term": "WIN2023",
       "course": "B CORE 117",
       "courseTitle": "VIS LIT PRFM ART 2",
-      "section": "A",
-      "instructor": "lambacher,jason frederick"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "WIN2023",
-      "course": "B CORE 117",
-      "courseTitle": "VIS LIT PRFM ART 2",
       "section": "D",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -454,6 +443,17 @@
       "courseTitle": "VIS LIT PRFM ART 2",
       "section": "B",
       "instructor": "Lin,Hsinmei"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "WIN2023",
+      "course": "B CORE 117",
+      "courseTitle": "VIS LIT PRFM ART 2",
+      "section": "A",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",

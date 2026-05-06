@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:18Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "BELTRAN%20RODRIGUEZ%2CCECILIA",
   "professor": "BELTRAN RODRIGUEZ,CECILIA",
-  "recordCount": 2,
+  "recordCount": 3,
   "records": [
     {
       "campus": "S",
@@ -23,6 +23,16 @@
       "course": "SPAN 110",
       "courseTitle": "ACCEL ELEM SPANISH",
       "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "spanish",
+      "deptName": "Spanish",
+      "term": "AUT2020",
+      "course": "SPAN 103",
+      "courseTitle": "ELEMENTARY SPANISH",
+      "section": "E"
     }
   ]
 }

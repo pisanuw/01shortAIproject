@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Peters%2CMatthew%20McMahon",
   "professor": "Peters,Matthew McMahon",
-  "recordCount": 1,
+  "recordCount": 5,
   "records": [
     {
       "campus": "S",
@@ -12,6 +12,46 @@
       "term": "SUM2023",
       "course": "PHIL 102",
       "courseTitle": "CONTEMP MORAL PROBS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "SPR2023",
+      "course": "PHIL 458",
+      "courseTitle": "PHENOMENOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "SPR2023",
+      "course": "PHIL 322",
+      "courseTitle": "MODERN PHILOSOPHY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "WIN2023",
+      "course": "PHIL 322",
+      "courseTitle": "MODERN PHILOSOPHY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phil",
+      "deptName": "Philosophy",
+      "term": "WIN2023",
+      "course": "PHIL 100",
+      "courseTitle": "INTRO TO PHILOSOPHY",
       "section": "A"
     }
   ]

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Coen%2CRoss",
   "professor": "Coen,Ross",
-  "recordCount": 18,
+  "recordCount": 20,
   "records": [
     {
       "campus": "S",
@@ -183,6 +183,26 @@
       "course": "HSTAA 432",
       "courseTitle": "HIST WASH & PAC N W",
       "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "histam",
+      "deptName": "History of North America",
+      "term": "WIN2022",
+      "course": "HSTAA 221",
+      "courseTitle": "US ENVIRON HISTORY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2022",
+      "course": "ENVIR 221",
+      "courseTitle": "US ENVIRON HISTORY",
+      "section": "A"
     }
   ]
 }

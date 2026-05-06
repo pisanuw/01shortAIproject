@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Connolly%2CAndrew",
   "professor": "Connolly,Andrew",
-  "recordCount": 3,
+  "recordCount": 6,
   "records": [
     {
       "campus": "S",
@@ -30,6 +30,36 @@
       "dept": "astro",
       "deptName": "Astronomy",
       "term": "AUT2023",
+      "course": "ASTR 425",
+      "courseTitle": "COSMOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "astro",
+      "deptName": "Astronomy",
+      "term": "SPR2023",
+      "course": "ASTR 576",
+      "courseTitle": "ASTRON COLLOQUIUM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "astro",
+      "deptName": "Astronomy",
+      "term": "WIN2022",
+      "course": "ASTR 598",
+      "courseTitle": "TPCS THEOR ASTRPHYS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "astro",
+      "deptName": "Astronomy",
+      "term": "AUT2020",
       "course": "ASTR 425",
       "courseTitle": "COSMOLOGY",
       "section": "A"

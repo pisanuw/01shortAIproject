@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Maas%2CRyan",
   "professor": "Maas,Ryan",
-  "recordCount": 54,
+  "recordCount": 56,
   "records": [
     {
       "campus": "S",
@@ -543,6 +543,26 @@
       "course": "CSE 414",
       "courseTitle": "DATABASE SYSTEMS",
       "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "AUT2020",
+      "course": "CSE 414",
+      "courseTitle": "DATABASE SYSTEMS",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "AUT2020",
+      "course": "CSE 414",
+      "courseTitle": "DATABASE SYSTEMS",
+      "section": "B"
     }
   ]
 }

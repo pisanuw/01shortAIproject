@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Wise%2CDan",
   "professor": "Wise,Dan",
-  "recordCount": 3,
+  "recordCount": 7,
   "records": [
     {
       "campus": "S",
@@ -30,6 +30,46 @@
       "dept": "socwk",
       "deptName": "Social Work",
       "term": "AUT2024",
+      "course": "SOC W 519",
+      "courseTitle": "POLICY/SRVCS: H/MH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwk",
+      "deptName": "Social Work",
+      "term": "SPR2024",
+      "course": "SOC W 513",
+      "courseTitle": "ORG PRACTICE",
+      "section": "F"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwk",
+      "deptName": "Social Work",
+      "term": "AUT2023",
+      "course": "SOC W 519",
+      "courseTitle": "POLICY/SRVCS: H/MH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwk",
+      "deptName": "Social Work",
+      "term": "AUT2022",
+      "course": "SOC W 519",
+      "courseTitle": "POLICY/SRVCS: H/MH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwk",
+      "deptName": "Social Work",
+      "term": "AUT2020",
       "course": "SOC W 519",
       "courseTitle": "POLICY/SRVCS: H/MH",
       "section": "A"

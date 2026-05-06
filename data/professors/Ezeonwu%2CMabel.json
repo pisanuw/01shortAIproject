@@ -1,49 +1,138 @@
 {
-  "generatedAt": "2026-05-05T23:34:07Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Ezeonwu%2CMabel",
   "professor": "Ezeonwu,Mabel",
-  "recordCount": 4,
+  "recordCount": 13,
   "records": [
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bnurs",
-      "deptName": "Nursing & Health Studies",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "B NURS 592",
+      "courseTitle": "CAPSTONE SEMINAR",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bnurs",
+      "deptName": "Nursing",
       "term": "WIN2026",
       "course": "B NURS 591",
-      "courseTitle": "Advanced Fieldwork And Capstone II",
+      "courseTitle": "ADV FLDWK/CAPSTN II",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
-      "dept": "bhs",
-      "deptName": "Nursing & Health Studies",
-      "term": "SPR2025",
-      "course": "BHS 496",
-      "courseTitle": "Fieldwork In Health",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bhs",
-      "deptName": "Nursing & Health Studies",
-      "term": "AUT2025",
-      "course": "BHS 496",
-      "courseTitle": "Fieldwork In Health",
+      "dept": "bhlth",
+      "deptName": "Health Electives",
+      "term": "WIN2024",
+      "course": "B HLTH 301",
+      "courseTitle": "GLBL HLTH PRACTICE",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bnurs",
-      "deptName": "Nursing & Health Studies",
-      "term": "AUT2025",
-      "course": "B NURS 424",
-      "courseTitle": "Population-Based Health In Community Practice",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "B NURS 591",
+      "courseTitle": "ADV FIELDWORK",
       "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bnurs",
+      "deptName": "Nursing",
+      "term": "WIN2023",
+      "course": "B NURS 297",
+      "courseTitle": "BLDG HEALTH SKILLS",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bnurs",
+      "deptName": "Nursing",
+      "term": "AUT2022",
+      "course": "B NURS 591",
+      "courseTitle": "ADV FIELDWORK",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bnurs",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "B NURS 591",
+      "courseTitle": "ADV FIELDWORK",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bnurs",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "B NURS 590",
+      "courseTitle": "INTRO FLDWK CAPSTONE",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bhlth",
+      "deptName": "Health Electives",
+      "term": "WIN2022",
+      "course": "B HLTH 301",
+      "courseTitle": "GLBL HLTH PRACTICE",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bnurs",
+      "deptName": "Nursing",
+      "term": "AUT2021",
+      "course": "B NURS 591",
+      "courseTitle": "ADV FIELDWORK",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bnurs",
+      "deptName": "Nursing",
+      "term": "SUM2021",
+      "course": "B NURS 424",
+      "courseTitle": "POP HLTH COMM PRAC",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bhlth",
+      "deptName": "Health Electives",
+      "term": "WIN2021",
+      "course": "B HLTH 227",
+      "courseTitle": "MIGRATION AND HEALTH",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bnurs",
+      "deptName": "Nursing",
+      "term": "AUT2020",
+      "course": "B NURS 504",
+      "courseTitle": "DISPARITY & HEALTH",
+      "section": "A"
     }
-  ],
-  "source": "eval-only"
+  ]
 }

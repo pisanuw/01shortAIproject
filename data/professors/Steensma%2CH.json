@@ -1,9 +1,59 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Steensma%2CH",
   "professor": "Steensma,H",
-  "recordCount": 1,
+  "recordCount": 8,
   "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "WIN2026",
+      "course": "MGMT 530",
+      "courseTitle": "GLOBAL STRATEGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "WIN2024",
+      "course": "MGMT 530",
+      "courseTitle": "GLOBAL STRATEGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "WIN2023",
+      "course": "MGMT 530",
+      "courseTitle": "GLOBAL STRATEGY",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "WIN2023",
+      "course": "MGMT 530",
+      "courseTitle": "GLOBAL STRATEGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "barm",
+      "deptName": "Business Administration Research Methods",
+      "term": "WIN2023",
+      "course": "BA RM 591",
+      "courseTitle": "BEHAVRL RSCH-APPLIC",
+      "section": "A"
+    },
     {
       "campus": "S",
       "campusName": "Seattle",
@@ -12,6 +62,26 @@
       "term": "WIN2022",
       "course": "MGMT 530",
       "courseTitle": "GLOBAL STRATEGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "WIN2021",
+      "course": "MGMT 530",
+      "courseTitle": "GLOBAL STRATEGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "barm",
+      "deptName": "Business Administration Research Methods",
+      "term": "WIN2021",
+      "course": "BA RM 591",
+      "courseTitle": "BEHAVRL RSCH-APPLIC",
       "section": "A"
     }
   ]

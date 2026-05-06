@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Gilbert%2CErin",
   "professor": "Gilbert,Erin",
-  "recordCount": 10,
+  "recordCount": 11,
   "records": [
     {
       "campus": "S",
@@ -80,6 +80,16 @@
       "dept": "envst",
       "deptName": "Program on the Environment",
       "term": "SPR2023",
+      "course": "ENVIR 302",
+      "courseTitle": "ENVIR COMMUNICATION",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "WIN2023",
       "course": "ENVIR 302",
       "courseTitle": "ENVIR COMMUNICATION",
       "section": "B"

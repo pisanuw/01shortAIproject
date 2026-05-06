@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Shea%2CMolly",
   "professor": "Shea,Molly",
-  "recordCount": 4,
+  "recordCount": 7,
   "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "AUT2025",
+      "course": "EDUC 310",
+      "courseTitle": "CURRENT ISSUES",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "AUT2025",
+      "course": "EDUC 310",
+      "courseTitle": "CURRENT ISSUES",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "WIN2024",
+      "course": "EDUC 473",
+      "courseTitle": "COMMUNITY RESEARCH",
+      "section": "A"
+    },
     {
       "campus": "S",
       "campusName": "Seattle",

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Haakanson%2CSven",
   "professor": "Haakanson,Sven",
-  "recordCount": 4,
+  "recordCount": 8,
   "records": [
     {
       "campus": "S",
@@ -40,6 +40,46 @@
       "dept": "archeo",
       "deptName": "Archaeology",
       "term": "WIN2024",
+      "course": "ARCHY 345",
+      "courseTitle": "GLOBAL ETHNOARCH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "anthro",
+      "deptName": "Anthropology",
+      "term": "SPR2022",
+      "course": "ANTH 569",
+      "courseTitle": "SPEC TOPICS SC ANTH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "anthro",
+      "deptName": "Anthropology",
+      "term": "SPR2022",
+      "course": "ANTH 363",
+      "courseTitle": "APPLIED VISUAL ANTH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2022",
+      "course": "ARCHY 545",
+      "courseTitle": "ETHNOARCHAEOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archeo",
+      "deptName": "Archaeology",
+      "term": "WIN2022",
       "course": "ARCHY 345",
       "courseTitle": "GLOBAL ETHNOARCH",
       "section": "A"

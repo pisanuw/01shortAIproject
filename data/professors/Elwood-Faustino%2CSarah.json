@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Elwood-Faustino%2CSarah",
   "professor": "Elwood-Faustino,Sarah",
-  "recordCount": 19,
+  "recordCount": 26,
   "records": [
     {
       "campus": "S",
@@ -149,6 +149,26 @@
       "campusName": "Seattle",
       "dept": "geog",
       "deptName": "Geography",
+      "term": "SPR2022",
+      "course": "GEOG 598",
+      "courseTitle": "GEOG COLLOQUIUM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2022",
+      "course": "GEOG 578",
+      "courseTitle": "THEORIZING CITIES",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
       "term": "WIN2022",
       "course": "GEOG 598",
       "courseTitle": "GEOG COLLOQUIUM",
@@ -172,6 +192,56 @@
       "term": "AUT2021",
       "course": "GEOG 500",
       "courseTitle": "GEOGRAPHIC THOUGHT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 598",
+      "courseTitle": "GEOG COLLOQUIUM",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "SPR2021",
+      "course": "GEOG 598",
+      "courseTitle": "GEOG COLLOQUIUM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2021",
+      "course": "GEOG 598",
+      "courseTitle": "GEOG COLLOQUIUM",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2021",
+      "course": "GEOG 598",
+      "courseTitle": "GEOG COLLOQUIUM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "geog",
+      "deptName": "Geography",
+      "term": "WIN2021",
+      "course": "GEOG 522",
+      "courseTitle": "SPACE, TECH, & SOC",
       "section": "A"
     },
     {

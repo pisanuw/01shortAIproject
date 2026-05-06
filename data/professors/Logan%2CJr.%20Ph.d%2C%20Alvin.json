@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Logan%2CJr.%20Ph.D%2C%20Alvin",
   "professor": "Logan,Jr. Ph.D, Alvin",
-  "recordCount": 1,
+  "recordCount": 2,
   "records": [
     {
       "campus": "S",
@@ -13,6 +13,16 @@
       "course": "EDUC 300",
       "courseTitle": "SPECIAL TOPICS EDUC",
       "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "SPR2023",
+      "course": "EDUC 300",
+      "courseTitle": "SPECIAL TOPICS EDUC",
+      "section": "F"
     }
   ]
 }

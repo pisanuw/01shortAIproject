@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Gamble%2CLara",
   "professor": "Gamble,Lara",
-  "recordCount": 5,
+  "recordCount": 11,
   "records": [
     {
       "campus": "S",
@@ -52,6 +52,66 @@
       "term": "WIN2024",
       "course": "BIOEN 511",
       "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 558",
+      "courseTitle": "SURFACE ANALYSIS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 458",
+      "courseTitle": "SURFACE ANALYSIS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "SPR2022",
+      "course": "BIOEN 592",
+      "courseTitle": "SURFACE ANALYSIS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "SPR2022",
+      "course": "BIOEN 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "SPR2022",
+      "course": "BIOEN 492",
+      "courseTitle": "SURFACE ANALYSIS",
       "section": "A"
     }
   ]

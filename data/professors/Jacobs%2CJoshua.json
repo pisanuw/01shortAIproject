@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Jacobs%2CJoshua",
   "professor": "Jacobs,Joshua",
-  "recordCount": 10,
+  "recordCount": 14,
   "records": [
     {
       "campus": "S",
@@ -79,6 +79,26 @@
       "campusName": "Seattle",
       "dept": "econ",
       "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 422",
+      "courseTitle": "INVESTM CAPTL FNANC",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 382",
+      "courseTitle": "INTRO ECONOMETRICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
       "term": "WIN2021",
       "course": "ECON 422",
       "courseTitle": "INVESTM CAPTL FNANC",
@@ -100,6 +120,26 @@
       "dept": "econ",
       "deptName": "Economics",
       "term": "WIN2021",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2020",
+      "course": "ECON 422",
+      "courseTitle": "INVESTM CAPTL FNANC",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2020",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
       "section": "B"

@@ -1,119 +1,268 @@
 {
-  "generatedAt": "2026-05-05T23:34:07Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Neal%2CDiana",
   "professor": "Neal,Diana",
-  "recordCount": 11,
+  "recordCount": 26,
   "records": [
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bnurs",
-      "deptName": "Nursing & Health Studies",
+      "deptName": "Nursing",
+      "term": "SPR2026",
+      "course": "B NURS 592",
+      "courseTitle": "CAPSTONE SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bhlth",
+      "deptName": "Health Electives",
+      "term": "SPR2026",
+      "course": "B HLTH 514",
+      "courseTitle": "EVAL ACAD & CLN PRFM",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bnurs",
+      "deptName": "Nursing",
       "term": "WIN2026",
       "course": "B NURS 591",
-      "courseTitle": "Advanced Fieldwork And Capstone II",
+      "courseTitle": "ADV FLDWK/CAPSTN II",
       "section": "B"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bhlth",
-      "deptName": "Nursing & Health Studies",
+      "deptName": "Health Electives",
       "term": "WIN2026",
       "course": "B HLTH 513",
-      "courseTitle": "Theories And Methods Of Teaching And Learning",
+      "courseTitle": "THY/MTH OF TCH & LRN",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bnurs",
-      "deptName": "Nursing & Health Studies",
-      "term": "WIN2025",
-      "course": "B NURS 297",
-      "courseTitle": "Building Skills In Health",
-      "section": "B"
+      "deptName": "Nursing",
+      "term": "AUT2025",
+      "course": "B NURS 590",
+      "courseTitle": "ADV FLDWK/CAPSTN I",
+      "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bhlth",
-      "deptName": "Nursing & Health Studies",
-      "term": "WIN2025",
+      "deptName": "Health Electives",
+      "term": "AUT2025",
       "course": "B HLTH 511",
-      "courseTitle": "Curriculum Development In Nursing Education",
+      "courseTitle": "CURRIC DEVEL NSG ED",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bnurs",
-      "deptName": "Nursing & Health Studies",
+      "deptName": "Nursing",
       "term": "SUM2025",
       "course": "B NURS 297",
-      "courseTitle": "Building Skills In Health",
+      "courseTitle": "BLDG HEALTH SKILLS",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
-      "dept": "bnurs",
-      "deptName": "Nursing & Health Studies",
-      "term": "SPR2025",
-      "course": "B NURS 460",
-      "courseTitle": "Translating Scholarly Knowledge To Nursing Practice",
-      "section": "B"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
       "dept": "bhlth",
-      "deptName": "Nursing & Health Studies",
+      "deptName": "Health Electives",
       "term": "SPR2025",
       "course": "B HLTH 512",
-      "courseTitle": "Evaluation Of Academic And Clinical Performance In Nursing And Healthcare",
+      "courseTitle": "PERF EVAL NSG HLTH",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bnurs",
-      "deptName": "Nursing & Health Studies",
-      "term": "AUT2025",
-      "course": "B NURS 590",
-      "courseTitle": "Advanced Fieldwork And Capstone I",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bhlth",
-      "deptName": "Nursing & Health Studies",
-      "term": "AUT2025",
-      "course": "B HLTH 511",
-      "courseTitle": "Curriculum Development In Nursing Education",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bnurs",
-      "deptName": "Nursing & Health Studies",
-      "term": "AUT2024",
-      "course": "B NURS 590",
-      "courseTitle": "Advanced Fieldwork And Capstone I",
+      "deptName": "Nursing",
+      "term": "WIN2025",
+      "course": "B NURS 297",
+      "courseTitle": "BLDG HEALTH SKILLS",
       "section": "B"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bhlth",
-      "deptName": "Nursing & Health Studies",
+      "deptName": "Health Electives",
+      "term": "WIN2025",
+      "course": "B HLTH 511",
+      "courseTitle": "CURRIC DEVEL NSG ED",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bnurs",
+      "deptName": "Nursing",
+      "term": "AUT2024",
+      "course": "B NURS 590",
+      "courseTitle": "ADV FLDWK/CAPSTN I",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bhlth",
+      "deptName": "Health Electives",
       "term": "AUT2024",
       "course": "B HLTH 497",
-      "courseTitle": "Selected Topics In Health",
+      "courseTitle": "HEALTH TOPICS",
       "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bhlth",
+      "deptName": "Health Electives",
+      "term": "SPR2024",
+      "course": "B HLTH 512",
+      "courseTitle": "PERF EVAL NSG HLTH",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bhlth",
+      "deptName": "Health Electives",
+      "term": "SPR2024",
+      "course": "B HLTH 221",
+      "courseTitle": "PER HLTH & WELLNESS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bnurs",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "B NURS 591",
+      "courseTitle": "ADV FIELDWORK",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bnurs",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "B NURS 520",
+      "courseTitle": "TRNSL RSCH I",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bnurs",
+      "deptName": "Nursing",
+      "term": "WIN2024",
+      "course": "B NURS 297",
+      "courseTitle": "BLDG HEALTH SKILLS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bnurs",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "B NURS 591",
+      "courseTitle": "ADV FIELDWORK",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bnurs",
+      "deptName": "Nursing",
+      "term": "AUT2023",
+      "course": "B NURS 297",
+      "courseTitle": "BLDG HEALTH SKILLS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bhlth",
+      "deptName": "Health Electives",
+      "term": "SPR2023",
+      "course": "B HLTH 513",
+      "courseTitle": "THEO & METHDS TEACH",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bhlth",
+      "deptName": "Health Electives",
+      "term": "SPR2023",
+      "course": "B HLTH 512",
+      "courseTitle": "PERF EVAL NSG HLTH",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bhlth",
+      "deptName": "Health Electives",
+      "term": "WIN2023",
+      "course": "B HLTH 511",
+      "courseTitle": "CURRIC DEVEL NSG ED",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bhlth",
+      "deptName": "Health Electives",
+      "term": "AUT2022",
+      "course": "B HLTH 197",
+      "courseTitle": "PREP HEALTH TOPICS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bhlth",
+      "deptName": "Health Electives",
+      "term": "SPR2022",
+      "course": "B HLTH 513",
+      "courseTitle": "THEO & METHDS TEACH",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bhlth",
+      "deptName": "Health Electives",
+      "term": "SPR2022",
+      "course": "B HLTH 197",
+      "courseTitle": "PREP HEALTH TOPICS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bnurs",
+      "deptName": "Nursing",
+      "term": "WIN2022",
+      "course": "B NURS 520",
+      "courseTitle": "TRNSL RSCH I",
+      "section": "A"
     }
-  ],
-  "source": "eval-only"
+  ]
 }

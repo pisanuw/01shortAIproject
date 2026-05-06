@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
-  "id": "RHEE%2CYOUNG%20WON",
-  "professor": "RHEE,YOUNG WON",
-  "recordCount": 2,
+  "generatedAt": "2026-05-06T01:15:30Z",
+  "id": "Rhee%2CYoung%20Won",
+  "professor": "Rhee,Young Won",
+  "recordCount": 3,
   "records": [
     {
       "campus": "S",
@@ -23,6 +23,16 @@
       "course": "MGMT 300",
       "courseTitle": "LDRSHIP & ORG BEHAV",
       "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "WIN2021",
+      "course": "MGMT 300",
+      "courseTitle": "LDRSHIP & ORG BEHAV",
+      "section": "A"
     }
   ]
 }

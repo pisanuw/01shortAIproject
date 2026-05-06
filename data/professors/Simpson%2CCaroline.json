@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Simpson%2CCaroline",
   "professor": "Simpson,Caroline",
-  "recordCount": 8,
+  "recordCount": 10,
   "records": [
     {
       "campus": "S",
@@ -83,6 +83,26 @@
       "course": "CHID 250",
       "courseTitle": "SPECIAL TOPICS",
       "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chid",
+      "deptName": "Comparative History of Ideas",
+      "term": "WIN2021",
+      "course": "CHID 495",
+      "courseTitle": "CLOSE READINGS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chid",
+      "deptName": "Comparative History of Ideas",
+      "term": "WIN2021",
+      "course": "CHID 480",
+      "courseTitle": "ADV SPECIAL TOPICS",
+      "section": "C"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Lomax%2CKendra",
   "professor": "Lomax,Kendra",
-  "recordCount": 2,
+  "recordCount": 3,
   "records": [
     {
       "campus": "S",
@@ -22,6 +22,16 @@
       "term": "AUT2021",
       "course": "EDUC 170",
       "courseTitle": "MATH ELEM TEACHERS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "WIN2021",
+      "course": "ECFS 411",
+      "courseTitle": "MATH &SCI PRESCHOOL",
       "section": "A"
     }
   ]

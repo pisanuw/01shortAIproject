@@ -1,49 +1,58 @@
 {
-  "generatedAt": "2026-05-05T23:34:07Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Gorbman%2CCelia",
   "professor": "Gorbman,Celia",
-  "recordCount": 4,
+  "recordCount": 5,
   "records": [
     {
       "campus": "B",
       "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "SPR2026",
+      "course": "B CORE 115",
+      "courseTitle": "EXPLORE: SOCIAL SCI",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
       "dept": "bnurs",
-      "deptName": "Nursing & Health Studies",
+      "deptName": "Nursing",
       "term": "WIN2026",
       "course": "B NURS 360",
-      "courseTitle": "Critical Reading And Information Literacy In Nursing",
+      "courseTitle": "READ & INFO LIT NSG",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bhs",
-      "deptName": "Nursing & Health Studies",
-      "term": "SUM2025",
-      "course": "BHS 201",
-      "courseTitle": "Introduction To Public Health",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bhs",
-      "deptName": "Nursing & Health Studies",
+      "deptName": "Health Studies",
       "term": "AUT2025",
       "course": "BHS 302",
-      "courseTitle": "Social Dimensions Of Health",
+      "courseTitle": "SOC DIMEN OF HEALTH",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bhs",
+      "deptName": "Health Studies",
+      "term": "SUM2025",
+      "course": "BHS 201",
+      "courseTitle": "INTRO PUBLIC HLTH",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bnurs",
-      "deptName": "Nursing & Health Studies",
+      "deptName": "Nursing",
       "term": "AUT2024",
       "course": "B NURS 360",
-      "courseTitle": "Critical Reading And Information Literacy In Nursing",
+      "courseTitle": "READ & INFO LIT NSG",
       "section": "A"
     }
-  ],
-  "source": "eval-only"
+  ]
 }

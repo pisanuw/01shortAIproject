@@ -1,20 +1,9 @@
 {
-  "generatedAt": "2026-04-16T02:57:22Z",
+  "generatedAt": "2026-05-06T01:15:32Z",
   "id": "B%20-%20B%20CORE%20120",
   "course": "B - B CORE 120",
   "recordCount": 21,
   "records": [
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "SPR2024",
-      "course": "B CORE 120",
-      "courseTitle": "VIS LIT PFRM ART 3",
-      "section": "C",
-      "instructor": "lambacher,jason frederick"
-    },
     {
       "campus": "B",
       "campusName": "Bothell",
@@ -47,6 +36,17 @@
       "courseTitle": "VIS LIT PFRM ART 3",
       "section": "E",
       "instructor": "Morse,Jason H"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "SPR2024",
+      "course": "B CORE 120",
+      "courseTitle": "VIS LIT PFRM ART 3",
+      "section": "C",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",

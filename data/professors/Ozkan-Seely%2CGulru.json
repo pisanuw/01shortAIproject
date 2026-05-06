@@ -1,27 +1,17 @@
 {
-  "generatedAt": "2026-05-05T23:34:07Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Ozkan-Seely%2CGulru",
   "professor": "Ozkan-Seely,Gulru",
-  "recordCount": 6,
+  "recordCount": 13,
   "records": [
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bbus",
       "deptName": "Business",
-      "term": "WIN2025",
+      "term": "WIN2023",
       "course": "B BUS 340",
-      "courseTitle": "Operations And Project Management",
-      "section": "B"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bbus",
-      "deptName": "Business",
-      "term": "WIN2025",
-      "course": "B BUS 340",
-      "courseTitle": "Operations And Project Management",
+      "courseTitle": "OPERTN & PROJ MGMT",
       "section": "A"
     },
     {
@@ -29,9 +19,9 @@
       "campusName": "Bothell",
       "dept": "bbus",
       "deptName": "Business",
-      "term": "AUT2025",
+      "term": "AUT2022",
       "course": "B BUS 509",
-      "courseTitle": "Operations Management",
+      "courseTitle": "OPERATIONS MGMT",
       "section": "B"
     },
     {
@@ -39,9 +29,9 @@
       "campusName": "Bothell",
       "dept": "bbus",
       "deptName": "Business",
-      "term": "AUT2025",
+      "term": "AUT2022",
       "course": "B BUS 509",
-      "courseTitle": "Operations Management",
+      "courseTitle": "OPERATIONS MGMT",
       "section": "A"
     },
     {
@@ -49,9 +39,19 @@
       "campusName": "Bothell",
       "dept": "bbus",
       "deptName": "Business",
-      "term": "AUT2024",
-      "course": "B BUS 509",
-      "courseTitle": "Operations Management",
+      "term": "AUT2022",
+      "course": "B BUS 482",
+      "courseTitle": "INTRO SUPPLY CHN MGT",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "WIN2022",
+      "course": "B BUS 340",
+      "courseTitle": "OPERTN & PROJ MGMT",
       "section": "B"
     },
     {
@@ -59,11 +59,80 @@
       "campusName": "Bothell",
       "dept": "bbus",
       "deptName": "Business",
-      "term": "AUT2024",
+      "term": "WIN2022",
+      "course": "B BUS 340",
+      "courseTitle": "OPERTN & PROJ MGMT",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "AUT2021",
       "course": "B BUS 509",
-      "courseTitle": "Operations Management",
+      "courseTitle": "OPERATIONS MGMT",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "AUT2021",
+      "course": "B BUS 482",
+      "courseTitle": "INTRO SUPPLY CHN MGT",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "WIN2021",
+      "course": "B BUS 340",
+      "courseTitle": "OPERTN & PROJ MGMT",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "WIN2021",
+      "course": "B BUS 340",
+      "courseTitle": "OPERTN & PROJ MGMT",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "AUT2020",
+      "course": "B BUS 509",
+      "courseTitle": "OPERATIONS MGMT",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "AUT2020",
+      "course": "B BUS 509",
+      "courseTitle": "OPERATIONS MGMT",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "AUT2020",
+      "course": "B BUS 482",
+      "courseTitle": "INTRO SUPPLY CHN MGT",
       "section": "A"
     }
-  ],
-  "source": "eval-only"
+  ]
 }

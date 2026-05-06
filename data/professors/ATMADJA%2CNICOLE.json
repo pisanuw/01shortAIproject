@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:18Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Atmadja%2CNicole",
   "professor": "Atmadja,Nicole",
-  "recordCount": 1,
+  "recordCount": 3,
   "records": [
     {
       "campus": "S",
@@ -12,6 +12,26 @@
       "term": "SUM2025",
       "course": "M E 478",
       "courseTitle": "FINTE ELEMENT ANLYS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "SUM2024",
+      "course": "M E 123",
+      "courseTitle": "VISUALIZATION & CAD",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "SUM2024",
+      "course": "M E 123",
+      "courseTitle": "VISUALIZATION & CAD",
       "section": "A"
     }
   ]

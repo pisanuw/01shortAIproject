@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Lin%2CJames",
   "professor": "Lin,James",
-  "recordCount": 21,
+  "recordCount": 23,
   "records": [
     {
       "campus": "S",
@@ -167,6 +167,16 @@
     {
       "campus": "S",
       "campusName": "Seattle",
+      "dept": "phrmcy",
+      "deptName": "Pharmacy",
+      "term": "WIN2023",
+      "course": "PHRMCY 516",
+      "courseTitle": "PHARMCY LAW & ETHICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
       "dept": "jsis",
       "deptName": "International Studies Core and Gateway Courses",
       "term": "WIN2023",
@@ -192,6 +202,16 @@
       "term": "AUT2022",
       "course": "JSIS B 360",
       "courseTitle": "U.S. IN THE WORLD",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phrmcy",
+      "deptName": "Pharmacy",
+      "term": "WIN2022",
+      "course": "PHRMCY 516",
+      "courseTitle": "PHARMCY LAW & ETHICS",
       "section": "A"
     },
     {

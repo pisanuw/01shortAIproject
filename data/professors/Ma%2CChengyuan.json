@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
-  "id": "MA%2CCHENGYUAN",
-  "professor": "MA,CHENGYUAN",
-  "recordCount": 1,
+  "generatedAt": "2026-05-06T01:15:30Z",
+  "id": "Ma%2CChengyuan",
+  "professor": "Ma,Chengyuan",
+  "recordCount": 2,
   "records": [
     {
       "campus": "S",
@@ -13,6 +13,16 @@
       "course": "MATH 402",
       "courseTitle": "INTRO MDRN ALGEBRA",
       "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "SUM2021",
+      "course": "MATH 308",
+      "courseTitle": "MATRIX ALGEBRA",
+      "section": "F"
     }
   ]
 }

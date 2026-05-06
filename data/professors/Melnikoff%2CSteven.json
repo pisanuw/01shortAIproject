@@ -1,69 +1,48 @@
 {
-  "generatedAt": "2026-05-05T23:34:07Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Melnikoff%2CSteven",
   "professor": "Melnikoff,Steven",
-  "recordCount": 6,
+  "recordCount": 4,
   "records": [
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "css",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "WIN2026",
-      "course": "CSS 490",
-      "courseTitle": "Special Topics In Computing And Software Systems",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "css",
-      "deptName": "Science, Tech, Engr. & Math",
+      "deptName": "Computing and Software Systems",
       "term": "WIN2026",
       "course": "CSS 112",
-      "courseTitle": "Introduction To Programming For Scientific Applications",
+      "courseTitle": "INTRO PROG SCI APP",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "css",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "WIN2025",
-      "course": "CSS 490",
-      "courseTitle": "Special Topics In Computing And Software Systems",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "css",
-      "deptName": "Science, Tech, Engr. & Math",
+      "deptName": "Computing and Software Systems",
       "term": "SPR2025",
       "course": "CSS 342",
-      "courseTitle": "Data Structures, Algorithms, And Discrete Mathematics I",
+      "courseTitle": "DATA, ALG, MATH I",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "css",
-      "deptName": "Science, Tech, Engr. & Math",
+      "deptName": "Computing and Software Systems",
       "term": "SPR2025",
       "course": "CSS 225",
-      "courseTitle": "Physics And Chemistry Of Computer Components And Their Manufacture",
+      "courseTitle": "PHYS/CHEM OF COMP",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "css",
-      "deptName": "Science, Tech, Engr. & Math",
+      "deptName": "Computing and Software Systems",
       "term": "AUT2024",
       "course": "CSS 451",
-      "courseTitle": "3-D Computer Graphics",
+      "courseTitle": "3-D COMPUTER GRAPHIC",
       "section": "A"
     }
-  ],
-  "source": "eval-only"
+  ]
 }

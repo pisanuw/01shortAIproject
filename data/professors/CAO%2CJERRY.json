@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Cao%2CJerry",
   "professor": "Cao,Jerry",
-  "recordCount": 1,
+  "recordCount": 3,
   "records": [
     {
       "campus": "S",
@@ -10,6 +10,26 @@
       "dept": "cse",
       "deptName": "-- see Computer Science and Engineering",
       "term": "SPR2026",
+      "course": "CSE 590",
+      "courseTitle": "RESEARCH SEMINAR",
+      "section": "U"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "SPR2023",
+      "course": "CSE 590",
+      "courseTitle": "RESEARCH SEMINAR",
+      "section": "U"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "WIN2023",
       "course": "CSE 590",
       "courseTitle": "RESEARCH SEMINAR",
       "section": "U"

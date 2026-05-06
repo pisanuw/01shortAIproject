@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Lubatti%2CHenry%20J",
   "professor": "Lubatti,Henry J",
-  "recordCount": 127,
+  "recordCount": 129,
   "records": [
     {
       "campus": "S",
@@ -1272,6 +1272,26 @@
       "term": "WIN2021",
       "course": "PHYS 117",
       "courseTitle": "GENERAL PHYSICS LAB",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "AUT2020",
+      "course": "PHYS 581",
+      "courseTitle": "SMNR HGH ENRGY PHYS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "AUT2020",
+      "course": "PHYS 494",
+      "courseTitle": "SEM CURRENT PROBS",
       "section": "A"
     }
   ]

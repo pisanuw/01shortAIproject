@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "YEH%2CKUAN-TING",
   "professor": "YEH,KUAN-TING",
-  "recordCount": 1,
+  "recordCount": 3,
   "records": [
     {
       "campus": "S",
@@ -13,6 +13,26 @@
       "course": "MATH 324",
       "courseTitle": "ADV MULTIVAR CALC 1",
       "section": "G"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "WIN2021",
+      "course": "MATH 324",
+      "courseTitle": "ADV MULTIVAR CALC 1",
+      "section": "G"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "AUT2020",
+      "course": "MATH 324",
+      "courseTitle": "ADV MULTIVAR CALC 1",
+      "section": "F"
     }
   ]
 }

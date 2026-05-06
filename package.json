@@ -18,6 +18,8 @@
     "build:all": "python3 scripts/build_catalog.py --campus all",
     "build:evals": "python3 scripts/build_evals.py",
     "build:evals:one": "python3 scripts/build_evals.py --instructor",
+    "find:conflicts": "python3 scripts/find_name_conflicts.py",
+    "find:conflicts:apply": "python3 scripts/find_name_conflicts.py --apply",
     "refresh:data": "npm run download:data && npm run build:data",
     "refresh:all": "npm run download:all && npm run build:all",
     "dev": "python3 scripts/admin_server.py --port ${PORT:-4173}"

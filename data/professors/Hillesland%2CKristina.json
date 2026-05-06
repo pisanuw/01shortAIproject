@@ -1,39 +1,68 @@
 {
-  "generatedAt": "2026-05-05T23:34:07Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Hillesland%2CKristina",
   "professor": "Hillesland,Kristina",
-  "recordCount": 3,
+  "recordCount": 6,
   "records": [
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bbio",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "AUT2024",
+      "deptName": "Biology",
+      "term": "SPR2026",
       "course": "B BIO 370",
-      "courseTitle": "Microbiology",
-      "section": "AB"
+      "courseTitle": "MICROBIOLOGY",
+      "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bbio",
-      "deptName": "Science, Tech, Engr. & Math",
+      "deptName": "Biology",
       "term": "AUT2024",
       "course": "B BIO 370",
-      "courseTitle": "Microbiology",
-      "section": "AA"
+      "courseTitle": "MICROBIOLOGY",
+      "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bbio",
-      "deptName": "Science, Tech, Engr. & Math",
-      "term": "AUT2024",
+      "deptName": "Biology",
+      "term": "AUT2023",
       "course": "B BIO 370",
-      "courseTitle": "Microbiology",
+      "courseTitle": "MICROBIOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bst",
+      "deptName": "Science and Technology",
+      "term": "WIN2023",
+      "course": "BST 205",
+      "courseTitle": "WOMEN IN STEM",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbio",
+      "deptName": "Biology",
+      "term": "AUT2021",
+      "course": "B BIO 370",
+      "courseTitle": "MICROBIOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbio",
+      "deptName": "Biology",
+      "term": "SPR2021",
+      "course": "B BIO 370",
+      "courseTitle": "MICROBIOLOGY",
       "section": "A"
     }
-  ],
-  "source": "eval-only"
+  ]
 }

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "DI%2CAOCHUN",
   "professor": "DI,AOCHUN",
-  "recordCount": 3,
+  "recordCount": 5,
   "records": [
     {
       "campus": "S",
@@ -33,6 +33,26 @@
       "course": "ECON 301",
       "courseTitle": "INTERMED MACRO-ECON",
       "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2021",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2020",
+      "course": "ECON 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "B"
     }
   ]
 }

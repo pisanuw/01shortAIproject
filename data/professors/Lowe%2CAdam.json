@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Lowe%2CAdam",
   "professor": "Lowe,Adam",
-  "recordCount": 9,
+  "recordCount": 12,
   "records": [
     {
       "campus": "S",
@@ -92,6 +92,36 @@
       "term": "AUT2022",
       "course": "M SCI 201",
       "courseTitle": "MIL SCI TM LDR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "88milsci",
+      "deptName": "Military Science",
+      "term": "SPR2022",
+      "course": "M SCI 203",
+      "courseTitle": "MIL SCI TRANS LDR",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "88milsci",
+      "deptName": "Military Science",
+      "term": "SPR2022",
+      "course": "M SCI 203",
+      "courseTitle": "MIL SCI TRANS LDR",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "88milsci",
+      "deptName": "Military Science",
+      "term": "SPR2022",
+      "course": "M SCI 203",
+      "courseTitle": "MIL SCI TRANS LDR",
       "section": "A"
     }
   ]

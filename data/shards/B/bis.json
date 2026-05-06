@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T02:57:08Z",
+  "generatedAt": "2026-05-06T01:15:21Z",
   "campus": "B",
   "dept": "bis",
   "deptName": "Interdisciplinary Studies",
@@ -112,7 +112,7 @@
       "course": "BIS 161",
       "courseTitle": "INTRO FILM NARRATIV",
       "section": "A",
-      "instructor": "Yum,Samuel M."
+      "instructor": "Yum,Samuel"
     },
     {
       "campus": "B",
@@ -292,7 +292,7 @@
       "course": "BIS 225",
       "courseTitle": "SOCIAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "Silva,Janelle M"
+      "instructor": "Silva,Janelle"
     },
     {
       "campus": "B",
@@ -372,7 +372,7 @@
       "course": "BIS 265",
       "courseTitle": "INTRO ETHNIC STUDY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -451,6 +451,26 @@
       "term": "AUT2020",
       "course": "BIS 300",
       "courseTitle": "INTERDISC INQUIRY",
+      "section": "B",
+      "instructor": "Lambacher,Jason"
+    },
+    {
+      "campus": "B",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2020",
+      "course": "BIS 300",
+      "courseTitle": "INTERDISC INQUIRY",
+      "section": "C",
+      "instructor": "Lambacher,Jason"
+    },
+    {
+      "campus": "B",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2020",
+      "course": "BIS 300",
+      "courseTitle": "INTERDISC INQUIRY",
       "section": "J",
       "instructor": "Reynoso,Enrique"
     },
@@ -489,26 +509,6 @@
       "dept": "bis",
       "deptName": "Interdisciplinary Studies",
       "term": "AUT2020",
-      "course": "BIS 300",
-      "courseTitle": "INTERDISC INQUIRY",
-      "section": "B",
-      "instructor": "lambacher,jason frederick"
-    },
-    {
-      "campus": "B",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Studies",
-      "term": "AUT2020",
-      "course": "BIS 300",
-      "courseTitle": "INTERDISC INQUIRY",
-      "section": "C",
-      "instructor": "lambacher,jason frederick"
-    },
-    {
-      "campus": "B",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Studies",
-      "term": "AUT2020",
       "course": "BIS 306",
       "courseTitle": "MARINE DIV & CONSER",
       "section": "A",
@@ -532,7 +532,7 @@
       "course": "BIS 310",
       "courseTitle": "WOMEN, CULTURE, DEV",
       "section": "A",
-      "instructor": "Bissat,Johanna G."
+      "instructor": "Bissat,Johanna"
     },
     {
       "campus": "B",
@@ -552,7 +552,7 @@
       "course": "BIS 313",
       "courseTitle": "ISSUES MEDIA STDY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -702,7 +702,7 @@
       "course": "BIS 379",
       "courseTitle": "AM ETHNIC LIT",
       "section": "A",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -952,7 +952,7 @@
       "course": "BIS 499",
       "courseTitle": "PORTFOLIO CAPSTONE",
       "section": "E",
-      "instructor": "Yum,Samuel M."
+      "instructor": "Yum,Samuel"
     },
     {
       "campus": "B",
@@ -1042,7 +1042,7 @@
       "course": "BIS 161",
       "courseTitle": "INTRO FILM NARRATIV",
       "section": "A",
-      "instructor": "Yum,Samuel M."
+      "instructor": "Yum,Samuel"
     },
     {
       "campus": "B",
@@ -1062,7 +1062,7 @@
       "course": "BIS 175",
       "courseTitle": "AMERICAN GOVT",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -1152,7 +1152,7 @@
       "course": "BIS 215",
       "courseTitle": "UNDERSTANDING STATS",
       "section": "A",
-      "instructor": "Jorgenson,Andrew D"
+      "instructor": "Jorgenson,Andrew"
     },
     {
       "campus": "B",
@@ -1172,7 +1172,7 @@
       "course": "BIS 222",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "Lichty,Lauren F."
+      "instructor": "Lichty,Lauren"
     },
     {
       "campus": "B",
@@ -1192,7 +1192,7 @@
       "course": "BIS 231",
       "courseTitle": "LINEAR ALGEBRA",
       "section": "A",
-      "instructor": "Jorgenson,Andrew D"
+      "instructor": "Jorgenson,Andrew"
     },
     {
       "campus": "B",
@@ -1252,7 +1252,7 @@
       "course": "BIS 252",
       "courseTitle": "POLITICS OF SCI",
       "section": "A",
-      "instructor": "Cram,Shannon C"
+      "instructor": "Cram,Shannon"
     },
     {
       "campus": "B",
@@ -1282,7 +1282,7 @@
       "course": "BIS 265",
       "courseTitle": "INTRO ETHNIC STUDY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -1302,7 +1302,7 @@
       "course": "BIS 300",
       "courseTitle": "INTERDISC INQUIRY",
       "section": "C",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -1331,6 +1331,16 @@
       "term": "WIN2021",
       "course": "BIS 300",
       "courseTitle": "INTERDISC INQUIRY",
+      "section": "A",
+      "instructor": "Lambacher,Jason"
+    },
+    {
+      "campus": "B",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2021",
+      "course": "BIS 300",
+      "courseTitle": "INTERDISC INQUIRY",
       "section": "B",
       "instructor": "Lambert,Amy M"
     },
@@ -1343,16 +1353,6 @@
       "courseTitle": "INTERDISC INQUIRY",
       "section": "F",
       "instructor": "Pedersen,Alice"
-    },
-    {
-      "campus": "B",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Studies",
-      "term": "WIN2021",
-      "course": "BIS 300",
-      "courseTitle": "INTERDISC INQUIRY",
-      "section": "A",
-      "instructor": "lambacher,jason frederick"
     },
     {
       "campus": "B",
@@ -1412,7 +1412,7 @@
       "course": "BIS 313",
       "courseTitle": "ISSUES MEDIA STDY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -1542,7 +1542,7 @@
       "course": "BIS 347",
       "courseTitle": "HIST AM DOCUM FILM",
       "section": "A",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -1832,7 +1832,7 @@
       "course": "BIS 499",
       "courseTitle": "PORTFOLIO CAPSTONE",
       "section": "D",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -1862,7 +1862,7 @@
       "course": "BIS 115",
       "courseTitle": "DIGITAL CULTURES",
       "section": "A",
-      "instructor": "Cram,Shannon C"
+      "instructor": "Cram,Shannon"
     },
     {
       "campus": "B",
@@ -1982,7 +1982,7 @@
       "course": "BIS 175",
       "courseTitle": "AMERICAN GOVT",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -2112,7 +2112,7 @@
       "course": "BIS 225",
       "courseTitle": "SOCIAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "Silva,Janelle M"
+      "instructor": "Silva,Janelle"
     },
     {
       "campus": "B",
@@ -2202,7 +2202,7 @@
       "course": "BIS 300",
       "courseTitle": "INTERDISC INQUIRY",
       "section": "D",
-      "instructor": "Cram,Shannon C"
+      "instructor": "Cram,Shannon"
     },
     {
       "campus": "B",
@@ -2212,7 +2212,7 @@
       "course": "BIS 300",
       "courseTitle": "INTERDISC INQUIRY",
       "section": "C",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -2292,7 +2292,7 @@
       "course": "BIS 313",
       "courseTitle": "ISSUES MEDIA STDY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -2432,7 +2432,7 @@
       "course": "BIS 379",
       "courseTitle": "AM ETHNIC LIT",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -2682,7 +2682,7 @@
       "course": "BIS 499",
       "courseTitle": "PORTFOLIO CAPSTONE",
       "section": "F",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -2712,7 +2712,7 @@
       "course": "BIS 499",
       "courseTitle": "PORTFOLIO CAPSTONE",
       "section": "B",
-      "instructor": "Yum,Samuel M."
+      "instructor": "Yum,Samuel"
     },
     {
       "campus": "B",
@@ -2852,7 +2852,7 @@
       "course": "BIS 261",
       "courseTitle": "INTRO FILM STUDIES",
       "section": "A",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -2862,7 +2862,7 @@
       "course": "BIS 261",
       "courseTitle": "INTRO FILM STUDIES",
       "section": "B",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -2912,7 +2912,7 @@
       "course": "BIS 313",
       "courseTitle": "ISSUES MEDIA STDY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -2922,7 +2922,7 @@
       "course": "BIS 313",
       "courseTitle": "ISSUES MEDIA STDY",
       "section": "B",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -3202,7 +3202,7 @@
       "course": "BIS 161",
       "courseTitle": "INTRO FILM NARRATIV",
       "section": "A",
-      "instructor": "Yum,Samuel M."
+      "instructor": "Yum,Samuel"
     },
     {
       "campus": "B",
@@ -3332,7 +3332,7 @@
       "course": "BIS 215",
       "courseTitle": "UNDERSTANDING STATS",
       "section": "B",
-      "instructor": "Jorgenson,Andrew D"
+      "instructor": "Jorgenson,Andrew"
     },
     {
       "campus": "B",
@@ -3342,7 +3342,7 @@
       "course": "BIS 215",
       "courseTitle": "UNDERSTANDING STATS",
       "section": "C",
-      "instructor": "Jorgenson,Andrew D"
+      "instructor": "Jorgenson,Andrew"
     },
     {
       "campus": "B",
@@ -3382,7 +3382,7 @@
       "course": "BIS 222",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "Lichty,Lauren F."
+      "instructor": "Lichty,Lauren"
     },
     {
       "campus": "B",
@@ -3392,7 +3392,7 @@
       "course": "BIS 225",
       "courseTitle": "SOCIAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "Silva,Janelle M"
+      "instructor": "Silva,Janelle"
     },
     {
       "campus": "B",
@@ -3452,7 +3452,7 @@
       "course": "BIS 252",
       "courseTitle": "POLITICS OF SCI",
       "section": "A",
-      "instructor": "Cram,Shannon C"
+      "instructor": "Cram,Shannon"
     },
     {
       "campus": "B",
@@ -3482,7 +3482,7 @@
       "course": "BIS 261",
       "courseTitle": "INTRO FILM STUDIES",
       "section": "A",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -3502,7 +3502,7 @@
       "course": "BIS 284",
       "courseTitle": "INTL RELATIONS",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -3622,7 +3622,7 @@
       "course": "BIS 310",
       "courseTitle": "WOMEN, CULTURE, DEV",
       "section": "A",
-      "instructor": "Bissat,Johanna G."
+      "instructor": "Bissat,Johanna"
     },
     {
       "campus": "B",
@@ -3662,7 +3662,7 @@
       "course": "BIS 313",
       "courseTitle": "ISSUES MEDIA STDY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -3752,7 +3752,7 @@
       "course": "BIS 347",
       "courseTitle": "HIST AM DOCUM FILM",
       "section": "A",
-      "instructor": "Yum,Samuel M."
+      "instructor": "Yum,Samuel"
     },
     {
       "campus": "B",
@@ -3802,7 +3802,7 @@
       "course": "BIS 379",
       "courseTitle": "AM ETHNIC LIT",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -4092,7 +4092,7 @@
       "course": "BIS 175",
       "courseTitle": "AMERICAN GOVT",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -4212,7 +4212,7 @@
       "course": "BIS 215",
       "courseTitle": "UNDERSTANDING STATS",
       "section": "A",
-      "instructor": "Jorgenson,Andrew D"
+      "instructor": "Jorgenson,Andrew"
     },
     {
       "campus": "B",
@@ -4232,7 +4232,7 @@
       "course": "BIS 222",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "Lichty,Lauren F."
+      "instructor": "Lichty,Lauren"
     },
     {
       "campus": "B",
@@ -4252,7 +4252,7 @@
       "course": "BIS 231",
       "courseTitle": "LINEAR ALGEBRA",
       "section": "A",
-      "instructor": "Jorgenson,Andrew D"
+      "instructor": "Jorgenson,Andrew"
     },
     {
       "campus": "B",
@@ -4332,7 +4332,7 @@
       "course": "BIS 261",
       "courseTitle": "INTRO FILM STUDIES",
       "section": "A",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -4382,7 +4382,7 @@
       "course": "BIS 300",
       "courseTitle": "INTERDISC INQUIRY",
       "section": "C",
-      "instructor": "Shimabukuro,Mira Chieko"
+      "instructor": "Shimabukuro,Mira"
     },
     {
       "campus": "B",
@@ -4392,7 +4392,7 @@
       "course": "BIS 300",
       "courseTitle": "INTERDISC INQUIRY",
       "section": "D",
-      "instructor": "Shimabukuro,Mira Chieko"
+      "instructor": "Shimabukuro,Mira"
     },
     {
       "campus": "B",
@@ -4432,7 +4432,7 @@
       "course": "BIS 313",
       "courseTitle": "ISSUES MEDIA STDY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -4721,6 +4721,16 @@
       "term": "WIN2022",
       "course": "BIS 490",
       "courseTitle": "ADVANCED SEMINAR",
+      "section": "A",
+      "instructor": "Lambacher,Jason"
+    },
+    {
+      "campus": "B",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2022",
+      "course": "BIS 490",
+      "courseTitle": "ADVANCED SEMINAR",
       "section": "B",
       "instructor": "Padilla,Yolanda"
     },
@@ -4733,16 +4743,6 @@
       "courseTitle": "ADVANCED SEMINAR",
       "section": "C",
       "instructor": "WJ"
-    },
-    {
-      "campus": "B",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Studies",
-      "term": "WIN2022",
-      "course": "BIS 490",
-      "courseTitle": "ADVANCED SEMINAR",
-      "section": "A",
-      "instructor": "lambacher,jason frederick"
     },
     {
       "campus": "B",
@@ -4872,7 +4872,7 @@
       "course": "BIS 499",
       "courseTitle": "PORTFOLIO CAPSTONE",
       "section": "A",
-      "instructor": "Yum,Samuel M."
+      "instructor": "Yum,Samuel"
     },
     {
       "campus": "B",
@@ -4892,7 +4892,7 @@
       "course": "BIS 115",
       "courseTitle": "DIGITAL CULTURES",
       "section": "A",
-      "instructor": "Cram,Shannon C"
+      "instructor": "Cram,Shannon"
     },
     {
       "campus": "B",
@@ -4982,7 +4982,7 @@
       "course": "BIS 175",
       "courseTitle": "AMERICAN GOVT",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -5132,7 +5132,7 @@
       "course": "BIS 265",
       "courseTitle": "INTRO ETHNIC STUDY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -5172,7 +5172,7 @@
       "course": "BIS 282",
       "courseTitle": "GLOBALIZATION",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -5212,7 +5212,7 @@
       "course": "BIS 300",
       "courseTitle": "INTERDISC INQUIRY",
       "section": "C",
-      "instructor": "Cram,Shannon C"
+      "instructor": "Cram,Shannon"
     },
     {
       "campus": "B",
@@ -5272,7 +5272,7 @@
       "course": "BIS 313",
       "courseTitle": "ISSUES MEDIA STDY",
       "section": "D",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -5352,7 +5352,7 @@
       "course": "BIS 350",
       "courseTitle": "INTERGROUP RELATIONS",
       "section": "A",
-      "instructor": "Silva,Janelle M"
+      "instructor": "Silva,Janelle"
     },
     {
       "campus": "B",
@@ -5802,7 +5802,7 @@
       "course": "BIS 222",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "Lichty,Lauren F."
+      "instructor": "Lichty,Lauren"
     },
     {
       "campus": "B",
@@ -5872,7 +5872,7 @@
       "course": "BIS 313",
       "courseTitle": "ISSUES MEDIA STDY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -6132,7 +6132,7 @@
       "course": "BIS 161",
       "courseTitle": "INTRO FILM NARRATIV",
       "section": "A",
-      "instructor": "Yum,Samuel M."
+      "instructor": "Yum,Samuel"
     },
     {
       "campus": "B",
@@ -6162,7 +6162,7 @@
       "course": "BIS 175",
       "courseTitle": "AMERICAN GOVT",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -6322,7 +6322,7 @@
       "course": "BIS 222",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "Lichty,Lauren F."
+      "instructor": "Lichty,Lauren"
     },
     {
       "campus": "B",
@@ -6332,7 +6332,7 @@
       "course": "BIS 225",
       "courseTitle": "SOCIAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "Silva,Janelle M"
+      "instructor": "Silva,Janelle"
     },
     {
       "campus": "B",
@@ -6402,7 +6402,7 @@
       "course": "BIS 252",
       "courseTitle": "POLITICS OF SCI",
       "section": "A",
-      "instructor": "Cram,Shannon C"
+      "instructor": "Cram,Shannon"
     },
     {
       "campus": "B",
@@ -6432,7 +6432,7 @@
       "course": "BIS 261",
       "courseTitle": "INTRO FILM STUDIES",
       "section": "A",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -6472,7 +6472,7 @@
       "course": "BIS 300",
       "courseTitle": "INTERDISC INQUIRY",
       "section": "C",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -6483,6 +6483,16 @@
       "courseTitle": "INTERDISC INQUIRY",
       "section": "D",
       "instructor": "Kurian,Alka"
+    },
+    {
+      "campus": "B",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2022",
+      "course": "BIS 300",
+      "courseTitle": "INTERDISC INQUIRY",
+      "section": "B",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -6503,16 +6513,6 @@
       "courseTitle": "INTERDISC INQUIRY",
       "section": "E",
       "instructor": "Toft,Amoshaun"
-    },
-    {
-      "campus": "B",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Studies",
-      "term": "AUT2022",
-      "course": "BIS 300",
-      "courseTitle": "INTERDISC INQUIRY",
-      "section": "B",
-      "instructor": "lambacher,jason frederick"
     },
     {
       "campus": "B",
@@ -6552,7 +6552,7 @@
       "course": "BIS 310",
       "courseTitle": "WOMEN, CULTURE, DEV",
       "section": "A",
-      "instructor": "Bissat,Johanna G."
+      "instructor": "Bissat,Johanna"
     },
     {
       "campus": "B",
@@ -6582,7 +6582,7 @@
       "course": "BIS 313",
       "courseTitle": "ISSUES MEDIA STDY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -6682,7 +6682,7 @@
       "course": "BIS 347",
       "courseTitle": "HIST AM DOCUM FILM",
       "section": "A",
-      "instructor": "Yum,Samuel M."
+      "instructor": "Yum,Samuel"
     },
     {
       "campus": "B",
@@ -6712,7 +6712,7 @@
       "course": "BIS 379",
       "courseTitle": "AM ETHNIC LIT",
       "section": "A",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -7012,7 +7012,7 @@
       "course": "BIS 175",
       "courseTitle": "AMERICAN GOVT",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -7112,7 +7112,7 @@
       "course": "BIS 231",
       "courseTitle": "LINEAR ALGEBRA",
       "section": "A",
-      "instructor": "Jorgenson,Andrew D"
+      "instructor": "Jorgenson,Andrew"
     },
     {
       "campus": "B",
@@ -7242,7 +7242,7 @@
       "course": "BIS 300",
       "courseTitle": "INTERDISC INQUIRY",
       "section": "C",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -7262,7 +7262,7 @@
       "course": "BIS 310",
       "courseTitle": "WOMEN, CULTURE, DEV",
       "section": "A",
-      "instructor": "Bissat,Johanna G."
+      "instructor": "Bissat,Johanna"
     },
     {
       "campus": "B",
@@ -7312,7 +7312,7 @@
       "course": "BIS 313",
       "courseTitle": "ISSUES MEDIA STDY",
       "section": "C",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -7592,7 +7592,7 @@
       "course": "BIS 438",
       "courseTitle": "PREVENT & PROMOTION",
       "section": "A",
-      "instructor": "Lichty,Lauren F."
+      "instructor": "Lichty,Lauren"
     },
     {
       "campus": "B",
@@ -7611,8 +7611,8 @@
       "term": "WIN2023",
       "course": "BIS 490",
       "courseTitle": "ADVANCED SEMINAR",
-      "section": "A",
-      "instructor": "WJ"
+      "section": "C",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -7621,8 +7621,8 @@
       "term": "WIN2023",
       "course": "BIS 490",
       "courseTitle": "ADVANCED SEMINAR",
-      "section": "C",
-      "instructor": "lambacher,jason frederick"
+      "section": "A",
+      "instructor": "WJ"
     },
     {
       "campus": "B",
@@ -7762,7 +7762,7 @@
       "course": "BIS 115",
       "courseTitle": "DIGITAL CULTURES",
       "section": "A",
-      "instructor": "Cram,Shannon C"
+      "instructor": "Cram,Shannon"
     },
     {
       "campus": "B",
@@ -7842,7 +7842,7 @@
       "course": "BIS 175",
       "courseTitle": "AMERICAN GOVT",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -7942,7 +7942,7 @@
       "course": "BIS 209",
       "courseTitle": "VISUAL & MEDIA",
       "section": "A",
-      "instructor": "Ali,Anida Yoeu"
+      "instructor": "Ali,Anida"
     },
     {
       "campus": "B",
@@ -7952,7 +7952,7 @@
       "course": "BIS 215",
       "courseTitle": "UNDERSTANDING STATS",
       "section": "A",
-      "instructor": "Jorgenson,Andrew D"
+      "instructor": "Jorgenson,Andrew"
     },
     {
       "campus": "B",
@@ -7962,7 +7962,7 @@
       "course": "BIS 215",
       "courseTitle": "UNDERSTANDING STATS",
       "section": "B",
-      "instructor": "Jorgenson,Andrew D"
+      "instructor": "Jorgenson,Andrew"
     },
     {
       "campus": "B",
@@ -7982,7 +7982,7 @@
       "course": "BIS 222",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "Lichty,Lauren F."
+      "instructor": "Lichty,Lauren"
     },
     {
       "campus": "B",
@@ -8032,7 +8032,7 @@
       "course": "BIS 238",
       "courseTitle": "LANG ID CULTR PWR",
       "section": "A",
-      "instructor": "Shimabukuro,Mira Chieko"
+      "instructor": "Shimabukuro,Mira"
     },
     {
       "campus": "B",
@@ -8072,7 +8072,7 @@
       "course": "BIS 265",
       "courseTitle": "INTRO ETHNIC STUDY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -8112,7 +8112,7 @@
       "course": "BIS 300",
       "courseTitle": "INTERDISC INQUIRY",
       "section": "A",
-      "instructor": "Cram,Shannon C"
+      "instructor": "Cram,Shannon"
     },
     {
       "campus": "B",
@@ -8202,7 +8202,7 @@
       "course": "BIS 313",
       "courseTitle": "ISSUES MEDIA STDY",
       "section": "C",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -8302,7 +8302,7 @@
       "course": "BIS 347",
       "courseTitle": "HIST AM DOCUM FILM",
       "section": "A",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -8682,7 +8682,7 @@
       "course": "BIS 222",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "Lichty,Lauren F."
+      "instructor": "Lichty,Lauren"
     },
     {
       "campus": "B",
@@ -8742,7 +8742,7 @@
       "course": "BIS 313",
       "courseTitle": "ISSUES MEDIA STDY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -9162,7 +9162,7 @@
       "course": "BIS 225",
       "courseTitle": "SOCIAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "Silva,Janelle M"
+      "instructor": "Silva,Janelle"
     },
     {
       "campus": "B",
@@ -9242,7 +9242,7 @@
       "course": "BIS 261",
       "courseTitle": "INTRO FILM STUDIES",
       "section": "A",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -9262,7 +9262,7 @@
       "course": "BIS 290",
       "courseTitle": "INTERMED WRIT SEMNR",
       "section": "A",
-      "instructor": "Shimabukuro,Mira Chieko"
+      "instructor": "Shimabukuro,Mira"
     },
     {
       "campus": "B",
@@ -9292,17 +9292,7 @@
       "course": "BIS 300",
       "courseTitle": "INTERDISC INQUIRY",
       "section": "B",
-      "instructor": "Goldstein,David S."
-    },
-    {
-      "campus": "B",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Studies",
-      "term": "AUT2023",
-      "course": "BIS 300",
-      "courseTitle": "INTERDISC INQUIRY",
-      "section": "D",
-      "instructor": "Shimabukuro,Mira Chieko"
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -9312,7 +9302,17 @@
       "course": "BIS 300",
       "courseTitle": "INTERDISC INQUIRY",
       "section": "F",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
+    },
+    {
+      "campus": "B",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2023",
+      "course": "BIS 300",
+      "courseTitle": "INTERDISC INQUIRY",
+      "section": "D",
+      "instructor": "Shimabukuro,Mira"
     },
     {
       "campus": "B",
@@ -9372,7 +9372,7 @@
       "course": "BIS 313",
       "courseTitle": "ISSUES MEDIA STDY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -9502,7 +9502,7 @@
       "course": "BIS 370",
       "courseTitle": "19TH CENT AM LIT",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -9532,7 +9532,7 @@
       "course": "BIS 379",
       "courseTitle": "AM ETHNIC LIT",
       "section": "A",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -9782,7 +9782,7 @@
       "course": "BIS 151",
       "courseTitle": "INTRO MAKING MEDIA",
       "section": "A",
-      "instructor": "Martin,Minda J."
+      "instructor": "Martin,Minda"
     },
     {
       "campus": "B",
@@ -9792,7 +9792,7 @@
       "course": "BIS 162",
       "courseTitle": "RACE/GEN/SEX IN FILM",
       "section": "A",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -9832,7 +9832,7 @@
       "course": "BIS 175",
       "courseTitle": "AMERICAN GOVT",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -9932,7 +9932,7 @@
       "course": "BIS 222",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "Lichty,Lauren F."
+      "instructor": "Lichty,Lauren"
     },
     {
       "campus": "B",
@@ -9942,7 +9942,7 @@
       "course": "BIS 225",
       "courseTitle": "SOCIAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "Silva,Janelle M"
+      "instructor": "Silva,Janelle"
     },
     {
       "campus": "B",
@@ -9952,7 +9952,7 @@
       "course": "BIS 231",
       "courseTitle": "LINEAR ALGEBRA",
       "section": "A",
-      "instructor": "Jorgenson,Andrew D"
+      "instructor": "Jorgenson,Andrew"
     },
     {
       "campus": "B",
@@ -10082,7 +10082,7 @@
       "course": "BIS 300",
       "courseTitle": "INTERDISC INQUIRY",
       "section": "C",
-      "instructor": "Shimabukuro,Mira Chieko"
+      "instructor": "Shimabukuro,Mira"
     },
     {
       "campus": "B",
@@ -10122,7 +10122,7 @@
       "course": "BIS 313",
       "courseTitle": "ISSUES MEDIA STDY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -10212,7 +10212,7 @@
       "course": "BIS 347",
       "courseTitle": "HIST AM DOCUM FILM",
       "section": "A",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -10282,7 +10282,7 @@
       "course": "BIS 387",
       "courseTitle": "WOMEN & AMER LIT",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -10322,7 +10322,7 @@
       "course": "BIS 414",
       "courseTitle": "TOPS HUMAN RIGHTS",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -10352,7 +10352,7 @@
       "course": "BIS 489",
       "courseTitle": "PROJ COMMUNTY PSYCH",
       "section": "A",
-      "instructor": "Silva,Janelle M"
+      "instructor": "Silva,Janelle"
     },
     {
       "campus": "B",
@@ -10552,7 +10552,7 @@
       "course": "BIS 161",
       "courseTitle": "INTRO FILM NARRATIV",
       "section": "A",
-      "instructor": "Yum,Samuel M."
+      "instructor": "Yum,Samuel"
     },
     {
       "campus": "B",
@@ -10582,7 +10582,7 @@
       "course": "BIS 175",
       "courseTitle": "AMERICAN GOVT",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -10672,7 +10672,7 @@
       "course": "BIS 215",
       "courseTitle": "UNDERSTANDING STATS",
       "section": "A",
-      "instructor": "Jorgenson,Andrew D"
+      "instructor": "Jorgenson,Andrew"
     },
     {
       "campus": "B",
@@ -10742,7 +10742,7 @@
       "course": "BIS 255",
       "courseTitle": "CRITICAL DIVERSITY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -10772,7 +10772,7 @@
       "course": "BIS 284",
       "courseTitle": "INTL RELATIONS",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -10792,7 +10792,7 @@
       "course": "BIS 290",
       "courseTitle": "INTERMED WRIT SEMNR",
       "section": "A",
-      "instructor": "Shimabukuro,Mira Chieko"
+      "instructor": "Shimabukuro,Mira"
     },
     {
       "campus": "B",
@@ -10982,7 +10982,7 @@
       "course": "BIS 379",
       "courseTitle": "AM ETHNIC LIT",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -11102,7 +11102,7 @@
       "course": "BIS 450",
       "courseTitle": "DECOLONZING PSYCH",
       "section": "A",
-      "instructor": "Silva,Janelle M"
+      "instructor": "Silva,Janelle"
     },
     {
       "campus": "B",
@@ -11272,7 +11272,7 @@
       "course": "BIS 162",
       "courseTitle": "RACE/GEN/SEX IN FILM",
       "section": "A",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -11282,7 +11282,7 @@
       "course": "BIS 175",
       "courseTitle": "AMERICAN GOVT",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -11322,7 +11322,7 @@
       "course": "BIS 222",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "Lichty,Lauren F."
+      "instructor": "Lichty,Lauren"
     },
     {
       "campus": "B",
@@ -11402,7 +11402,7 @@
       "course": "BIS 313",
       "courseTitle": "ISSUES MEDIA STDY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -11702,7 +11702,7 @@
       "course": "BIS 175",
       "courseTitle": "AMERICAN GOVT",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -11712,7 +11712,7 @@
       "course": "BIS 177",
       "courseTitle": "INTRO MAKING MEDIA",
       "section": "A",
-      "instructor": "Martin,Minda J."
+      "instructor": "Martin,Minda"
     },
     {
       "campus": "B",
@@ -11792,7 +11792,7 @@
       "course": "BIS 206",
       "courseTitle": "ENGAGING LIT ARTS",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -11822,7 +11822,7 @@
       "course": "BIS 215",
       "courseTitle": "UNDERSTANDING STATS",
       "section": "A",
-      "instructor": "Jorgenson,Andrew D"
+      "instructor": "Jorgenson,Andrew"
     },
     {
       "campus": "B",
@@ -11832,7 +11832,7 @@
       "course": "BIS 215",
       "courseTitle": "UNDERSTANDING STATS",
       "section": "B",
-      "instructor": "Jorgenson,Andrew D"
+      "instructor": "Jorgenson,Andrew"
     },
     {
       "campus": "B",
@@ -11872,7 +11872,7 @@
       "course": "BIS 225",
       "courseTitle": "SOCIAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "Silva,Janelle M"
+      "instructor": "Silva,Janelle"
     },
     {
       "campus": "B",
@@ -11972,7 +11972,7 @@
       "course": "BIS 261",
       "courseTitle": "INTRO FILM STUDIES",
       "section": "A",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -12052,7 +12052,7 @@
       "course": "BIS 312",
       "courseTitle": "APPRS SOCIAL RESRCH",
       "section": "A",
-      "instructor": "Bissat,Johanna G."
+      "instructor": "Bissat,Johanna"
     },
     {
       "campus": "B",
@@ -12062,7 +12062,7 @@
       "course": "BIS 313",
       "courseTitle": "ISSUES MEDIA STDY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -12192,7 +12192,7 @@
       "course": "BIS 361",
       "courseTitle": "STUDIES IN AM LIT",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -12222,7 +12222,7 @@
       "course": "BIS 379",
       "courseTitle": "AM ETHNIC LIT",
       "section": "A",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -12311,8 +12311,8 @@
       "term": "AUT2024",
       "course": "BIS 490",
       "courseTitle": "ADVANCED SEMINAR",
-      "section": "C",
-      "instructor": "WB"
+      "section": "B",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -12321,8 +12321,8 @@
       "term": "AUT2024",
       "course": "BIS 490",
       "courseTitle": "ADVANCED SEMINAR",
-      "section": "B",
-      "instructor": "lambacher,jason frederick"
+      "section": "C",
+      "instructor": "WB"
     },
     {
       "campus": "B",
@@ -12492,7 +12492,7 @@
       "course": "BIS 175",
       "courseTitle": "AMERICAN GOVT",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -12572,7 +12572,7 @@
       "course": "BIS 215",
       "courseTitle": "UNDERSTANDING STATS",
       "section": "B",
-      "instructor": "Toro,Matthew Eissa"
+      "instructor": "Toro,Matthew"
     },
     {
       "campus": "B",
@@ -12592,7 +12592,7 @@
       "course": "BIS 222",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "Lichty,Lauren F."
+      "instructor": "Lichty,Lauren"
     },
     {
       "campus": "B",
@@ -12602,7 +12602,7 @@
       "course": "BIS 231",
       "courseTitle": "LINEAR ALGEBRA",
       "section": "A",
-      "instructor": "Jorgenson,Andrew D"
+      "instructor": "Jorgenson,Andrew"
     },
     {
       "campus": "B",
@@ -12872,7 +12872,7 @@
       "course": "BIS 347",
       "courseTitle": "HIST AM DOCUM FILM",
       "section": "A",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -12992,7 +12992,7 @@
       "course": "BIS 387",
       "courseTitle": "WOMEN & AMER LIT",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -13322,7 +13322,7 @@
       "course": "BIS 209",
       "courseTitle": "VISUAL & MEDIA",
       "section": "A",
-      "instructor": "Ali,Anida Yoeu"
+      "instructor": "Ali,Anida"
     },
     {
       "campus": "B",
@@ -13332,7 +13332,7 @@
       "course": "BIS 215",
       "courseTitle": "UNDERSTANDING STATS",
       "section": "A",
-      "instructor": "Jorgenson,Andrew D"
+      "instructor": "Jorgenson,Andrew"
     },
     {
       "campus": "B",
@@ -13342,7 +13342,7 @@
       "course": "BIS 215",
       "courseTitle": "UNDERSTANDING STATS",
       "section": "B",
-      "instructor": "Jorgenson,Andrew D"
+      "instructor": "Jorgenson,Andrew"
     },
     {
       "campus": "B",
@@ -13352,7 +13352,7 @@
       "course": "BIS 215",
       "courseTitle": "UNDERSTANDING STATS",
       "section": "C",
-      "instructor": "Toro,Matthew Eissa"
+      "instructor": "Toro,Matthew"
     },
     {
       "campus": "B",
@@ -13372,7 +13372,7 @@
       "course": "BIS 222",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "Lichty,Lauren F."
+      "instructor": "Lichty,Lauren"
     },
     {
       "campus": "B",
@@ -13412,7 +13412,7 @@
       "course": "BIS 231",
       "courseTitle": "LINEAR ALGEBRA",
       "section": "A",
-      "instructor": "Jorgenson,Andrew D"
+      "instructor": "Jorgenson,Andrew"
     },
     {
       "campus": "B",
@@ -13452,7 +13452,7 @@
       "course": "BIS 255",
       "courseTitle": "CRITICAL DIVERSITY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -13462,7 +13462,7 @@
       "course": "BIS 256",
       "courseTitle": "INTRO AFR AMER STDY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -13482,7 +13482,7 @@
       "course": "BIS 284",
       "courseTitle": "INTL RELATIONS",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -13542,7 +13542,7 @@
       "course": "BIS 312",
       "courseTitle": "APPRS SOCIAL RESRCH",
       "section": "B",
-      "instructor": "Bissat,Johanna G."
+      "instructor": "Bissat,Johanna"
     },
     {
       "campus": "B",
@@ -13802,7 +13802,7 @@
       "course": "BIS 450",
       "courseTitle": "DECOLONZING PSYCH",
       "section": "A",
-      "instructor": "Silva,Janelle M"
+      "instructor": "Silva,Janelle"
     },
     {
       "campus": "B",
@@ -13972,7 +13972,7 @@
       "course": "BIS 162",
       "courseTitle": "RACE/GEN/SEX IN FILM",
       "section": "A",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -14022,7 +14022,7 @@
       "course": "BIS 222",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "Lichty,Lauren F."
+      "instructor": "Lichty,Lauren"
     },
     {
       "campus": "B",
@@ -14092,7 +14092,7 @@
       "course": "BIS 313",
       "courseTitle": "ISSUES MEDIA STDY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -14102,7 +14102,7 @@
       "course": "BIS 316",
       "courseTitle": "TPCS IN PSYCHOLOGY",
       "section": "A",
-      "instructor": "Williams,Amber D."
+      "instructor": "Williams,Amber"
     },
     {
       "campus": "B",
@@ -14342,7 +14342,7 @@
       "course": "BIS 165",
       "courseTitle": "INTRO ETHNIC STUDIES",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -14372,7 +14372,7 @@
       "course": "BIS 175",
       "courseTitle": "AMERICAN GOVT",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -14462,7 +14462,7 @@
       "course": "BIS 215",
       "courseTitle": "UNDERSTANDING STATS",
       "section": "A",
-      "instructor": "Graham,Eric A"
+      "instructor": "Graham,Eric"
     },
     {
       "campus": "B",
@@ -14472,7 +14472,7 @@
       "course": "BIS 215",
       "courseTitle": "UNDERSTANDING STATS",
       "section": "B",
-      "instructor": "Graham,Eric A"
+      "instructor": "Graham,Eric"
     },
     {
       "campus": "B",
@@ -14512,7 +14512,7 @@
       "course": "BIS 225",
       "courseTitle": "SOCIAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "Silva,Janelle M"
+      "instructor": "Silva,Janelle"
     },
     {
       "campus": "B",
@@ -14662,7 +14662,7 @@
       "course": "BIS 313",
       "courseTitle": "ISSUES MEDIA STDY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -14732,7 +14732,7 @@
       "course": "BIS 338",
       "courseTitle": "POLI INSTITU & PROC",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -14832,7 +14832,7 @@
       "course": "BIS 387",
       "courseTitle": "WOMEN & AMER LIT",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -15022,7 +15022,7 @@
       "course": "BIS 137",
       "courseTitle": "WHY ART MATTERS",
       "section": "A",
-      "instructor": "Ali,Anida Yoeu"
+      "instructor": "Ali,Anida"
     },
     {
       "campus": "B",
@@ -15032,7 +15032,7 @@
       "course": "BIS 162",
       "courseTitle": "RACE/GEN/SEX IN FILM",
       "section": "A",
-      "instructor": "Kellejian,Kris"
+      "instructor": "KELLEJIAN,KRIS"
     },
     {
       "campus": "B",
@@ -15052,7 +15052,7 @@
       "course": "BIS 175",
       "courseTitle": "AMERICAN GOVT",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -15132,7 +15132,7 @@
       "course": "BIS 201",
       "courseTitle": "INTRO MACROECON",
       "section": "B",
-      "instructor": "Effendy,Alfredo Nicholas"
+      "instructor": "Effendy,Alfredo"
     },
     {
       "campus": "B",
@@ -15162,7 +15162,7 @@
       "course": "BIS 215",
       "courseTitle": "UNDERSTANDING STATS",
       "section": "A",
-      "instructor": "Graham,Eric A"
+      "instructor": "Graham,Eric"
     },
     {
       "campus": "B",
@@ -15172,7 +15172,7 @@
       "course": "BIS 215",
       "courseTitle": "UNDERSTANDING STATS",
       "section": "B",
-      "instructor": "Toro,Matthew Eissa"
+      "instructor": "Toro,Matthew"
     },
     {
       "campus": "B",
@@ -15202,7 +15202,7 @@
       "course": "BIS 222",
       "courseTitle": "HUMAN SEXUALITY",
       "section": "A",
-      "instructor": "Lichty,Lauren F."
+      "instructor": "Lichty,Lauren"
     },
     {
       "campus": "B",
@@ -15212,7 +15212,7 @@
       "course": "BIS 225",
       "courseTitle": "SOCIAL PSYCHOLOGY",
       "section": "A",
-      "instructor": "Silva,Janelle M"
+      "instructor": "Silva,Janelle"
     },
     {
       "campus": "B",
@@ -15222,7 +15222,7 @@
       "course": "BIS 231",
       "courseTitle": "LINEAR ALGEBRA",
       "section": "A",
-      "instructor": "Jorgenson,Andrew D"
+      "instructor": "Jorgenson,Andrew"
     },
     {
       "campus": "B",
@@ -15272,7 +15272,7 @@
       "course": "BIS 256",
       "courseTitle": "INTRO AFR AMER STDY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -15282,7 +15282,7 @@
       "course": "BIS 261",
       "courseTitle": "INTRO FILM STUDIES",
       "section": "A",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -15452,7 +15452,7 @@
       "course": "BIS 347",
       "courseTitle": "HIST AM DOCUM FILM",
       "section": "A",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -15552,7 +15552,7 @@
       "course": "BIS 414",
       "courseTitle": "TOPS HUMAN RIGHTS",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -15762,7 +15762,7 @@
       "course": "BIS 166",
       "courseTitle": "MEM, HST & LIT IN US",
       "section": "A",
-      "instructor": "Goldstein,David S."
+      "instructor": "Goldstein,David"
     },
     {
       "campus": "B",
@@ -15782,7 +15782,7 @@
       "course": "BIS 177",
       "courseTitle": "INTRO MAKING MEDIA",
       "section": "A",
-      "instructor": "Martin,Minda J."
+      "instructor": "Martin,Minda"
     },
     {
       "campus": "B",
@@ -15822,7 +15822,7 @@
       "course": "BIS 201",
       "courseTitle": "INTRO MACROECON",
       "section": "A",
-      "instructor": "Effendy,Alfredo Nicholas"
+      "instructor": "Effendy,Alfredo"
     },
     {
       "campus": "B",
@@ -15842,7 +15842,7 @@
       "course": "BIS 209",
       "courseTitle": "VISUAL & MEDIA",
       "section": "A",
-      "instructor": "Ali,Anida Yoeu"
+      "instructor": "Ali,Anida"
     },
     {
       "campus": "B",
@@ -15852,7 +15852,7 @@
       "course": "BIS 215",
       "courseTitle": "UNDERSTANDING STATS",
       "section": "A",
-      "instructor": "Graham,Eric A"
+      "instructor": "Graham,Eric"
     },
     {
       "campus": "B",
@@ -15902,7 +15902,7 @@
       "course": "BIS 231",
       "courseTitle": "LINEAR ALGEBRA",
       "section": "A",
-      "instructor": "Jorgenson,Andrew D"
+      "instructor": "Jorgenson,Andrew"
     },
     {
       "campus": "B",
@@ -15932,7 +15932,7 @@
       "course": "BIS 255",
       "courseTitle": "CRITICAL DIVERSITY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -15962,7 +15962,7 @@
       "course": "BIS 284",
       "courseTitle": "INTL RELATIONS",
       "section": "A",
-      "instructor": "lambacher,jason frederick"
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -16062,7 +16062,7 @@
       "course": "BIS 313",
       "courseTitle": "ISSUES MEDIA STDY",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -16122,7 +16122,7 @@
       "course": "BIS 340",
       "courseTitle": "APPRS CULTURAL RES",
       "section": "A",
-      "instructor": "Roberts,Georgia M."
+      "instructor": "Roberts,Georgia"
     },
     {
       "campus": "B",
@@ -16312,7 +16312,7 @@
       "course": "BIS 438",
       "courseTitle": "PREVENT & PROMOTION",
       "section": "A",
-      "instructor": "Lichty,Lauren F."
+      "instructor": "Lichty,Lauren"
     },
     {
       "campus": "B",
@@ -16332,7 +16332,7 @@
       "course": "BIS 450",
       "courseTitle": "DECOLONZING PSYCH",
       "section": "A",
-      "instructor": "Silva,Janelle M"
+      "instructor": "Silva,Janelle"
     },
     {
       "campus": "B",

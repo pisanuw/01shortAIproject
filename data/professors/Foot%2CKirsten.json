@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Foot%2CKirsten",
   "professor": "Foot,Kirsten",
-  "recordCount": 6,
+  "recordCount": 7,
   "records": [
     {
       "campus": "S",
@@ -63,6 +63,16 @@
       "course": "COM 594",
       "courseTitle": "PROFSNL PROSEMINAR",
       "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "WIN2021",
+      "course": "COM 596",
+      "courseTitle": "COMM PEDAGOGY",
+      "section": "A"
     }
   ]
 }

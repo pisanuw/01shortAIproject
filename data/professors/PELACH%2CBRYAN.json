@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
-  "id": "Pelach%2CBryan",
-  "professor": "Pelach,Bryan",
-  "recordCount": 1,
+  "generatedAt": "2026-05-06T01:15:30Z",
+  "id": "PELACH%2CBRYAN",
+  "professor": "PELACH,BRYAN",
+  "recordCount": 3,
   "records": [
     {
       "campus": "S",
@@ -10,6 +10,26 @@
       "dept": "envst",
       "deptName": "Program on the Environment",
       "term": "WIN2023",
+      "course": "ENVIR 239",
+      "courseTitle": "SUSTAINABLE CHOICES",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "esrm",
+      "deptName": "Environmental Science and Resource Management",
+      "term": "SUM2022",
+      "course": "ESRM 200",
+      "courseTitle": "SOC & ENVIRONMENTS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "envst",
+      "deptName": "Program on the Environment",
+      "term": "SPR2022",
       "course": "ENVIR 239",
       "courseTitle": "SUSTAINABLE CHOICES",
       "section": "A"

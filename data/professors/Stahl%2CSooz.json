@@ -1,59 +1,218 @@
 {
-  "generatedAt": "2026-05-05T23:34:07Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Stahl%2CSooz",
   "professor": "Stahl,Sooz",
-  "recordCount": 5,
+  "recordCount": 21,
   "records": [
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "beduc",
-      "deptName": "Educational Studies",
-      "term": "WIN2026",
-      "course": "B EDUC 210",
-      "courseTitle": "Teaching And Learning In A Multicultural Society",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "beduc",
-      "deptName": "Educational Studies",
-      "term": "WIN2025",
+      "deptName": "Education",
+      "term": "SPR2026",
       "course": "B EDUC 250",
-      "courseTitle": "Topics In Education And Popular Culture",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "beduc",
-      "deptName": "Educational Studies",
-      "term": "SPR2025",
-      "course": "B EDUC 210",
-      "courseTitle": "Teaching And Learning In A Multicultural Society",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "beduc",
-      "deptName": "Educational Studies",
-      "term": "AUT2025",
-      "course": "B EDUC 250",
-      "courseTitle": "Topics In Education And Popular Culture",
+      "courseTitle": "TPCS EDUC POP CULTR",
       "section": "B"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "beduc",
-      "deptName": "Educational Studies",
+      "deptName": "Education",
+      "term": "WIN2026",
+      "course": "B EDUC 210",
+      "courseTitle": "ED MULTICLTRL SOC",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "AUT2025",
+      "course": "B EDUC 250",
+      "courseTitle": "TPCS EDUC POP CULTR",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "SPR2025",
+      "course": "B EDUC 210",
+      "courseTitle": "ED MULTICLTRL SOC",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "WIN2025",
+      "course": "B EDUC 250",
+      "courseTitle": "TPCS EDUC POP CULTR",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
       "term": "AUT2024",
       "course": "B EDUC 205",
-      "courseTitle": "Education And Equity In The Us",
+      "courseTitle": "ED EQUITY US",
       "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "WIN2024",
+      "course": "B EDUC 210",
+      "courseTitle": "ED MULTICLTRL SOC",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "AUT2023",
+      "course": "B EDUC 250",
+      "courseTitle": "TPCS EDUC POP CULTR",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "AUT2023",
+      "course": "B EDUC 205",
+      "courseTitle": "ED EQUITY US",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "SUM2023",
+      "course": "B EDUC 205",
+      "courseTitle": "ED EQUITY US",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "SPR2023",
+      "course": "B EDUC 210",
+      "courseTitle": "ED MULTICLTRL SOC",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "WIN2023",
+      "course": "B EDUC 210",
+      "courseTitle": "ED MULTICLTRL SOC",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "AUT2022",
+      "course": "B EDUC 250",
+      "courseTitle": "TPCS EDUC POP CULTR",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "AUT2022",
+      "course": "B EDUC 210",
+      "courseTitle": "ED MULTICLTRL SOC",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "teached",
+      "deptName": "Education",
+      "term": "AUT2021",
+      "course": "EDTEP 566",
+      "courseTitle": "CLASSROOMS FOR ALL",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "teached",
+      "deptName": "Education",
+      "term": "AUT2021",
+      "course": "EDTEP 566",
+      "courseTitle": "CLASSROOMS FOR ALL",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "SPR2021",
+      "course": "B EDUC 425",
+      "courseTitle": "PROF PRACTICE SEM",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "SPR2021",
+      "course": "B EDUC 250",
+      "courseTitle": "TPCS EDUC POP CULTR",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "WIN2021",
+      "course": "B EDUC 210",
+      "courseTitle": "ED MULTICLTRL SOC",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "teached",
+      "deptName": "Education",
+      "term": "AUT2020",
+      "course": "EDTEP 566",
+      "courseTitle": "CLASSROOMS FOR ALL",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "beduc",
+      "deptName": "Education",
+      "term": "AUT2020",
+      "course": "B EDUC 210",
+      "courseTitle": "ED MULTICLTRL SOC",
+      "section": "B"
     }
-  ],
-  "source": "eval-only"
+  ]
 }

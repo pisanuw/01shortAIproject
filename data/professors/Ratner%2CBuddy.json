@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Ratner%2CBuddy",
   "professor": "Ratner,Buddy",
-  "recordCount": 5,
+  "recordCount": 13,
   "records": [
     {
       "campus": "S",
@@ -50,6 +50,86 @@
       "dept": "bioeng",
       "deptName": "Bioengineering",
       "term": "AUT2025",
+      "course": "BIOEN 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "SPR2025",
+      "course": "BIOEN 599",
+      "courseTitle": "SPEC TOPICS BIOENG",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "SPR2025",
+      "course": "BIOEN 505",
+      "courseTitle": "BIOMED ENTRE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "SPR2025",
+      "course": "BIOEN 498",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2024",
+      "course": "CHEM E 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "AUT2024",
+      "course": "BIOEN 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "SPR2024",
+      "course": "BIOEN 505",
+      "courseTitle": "BIOMED ENTRE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2023",
+      "course": "CHEM E 511",
+      "courseTitle": "BIOMATERIAL SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "bioeng",
+      "deptName": "Bioengineering",
+      "term": "AUT2023",
       "course": "BIOEN 511",
       "courseTitle": "BIOMATERIAL SEMINAR",
       "section": "A"

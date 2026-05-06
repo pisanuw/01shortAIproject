@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Clifasefi%2CSeema",
   "professor": "Clifasefi,Seema",
-  "recordCount": 1,
+  "recordCount": 3,
   "records": [
     {
       "campus": "S",
@@ -10,6 +10,26 @@
       "dept": "socwlbasw",
       "deptName": "Social Welfare BASW",
       "term": "SPR2026",
+      "course": "SOC WF 460",
+      "courseTitle": "CHEMICAL DEPENDENCY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwlbasw",
+      "deptName": "Social Welfare BASW",
+      "term": "SPR2025",
+      "course": "SOC WF 460",
+      "courseTitle": "CHEMICAL DEPENDENCY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwlbasw",
+      "deptName": "Social Welfare BASW",
+      "term": "SPR2024",
       "course": "SOC WF 460",
       "courseTitle": "CHEMICAL DEPENDENCY",
       "section": "A"

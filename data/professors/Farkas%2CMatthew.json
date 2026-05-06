@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "FARKAS%2CMATTHEW",
   "professor": "FARKAS,MATTHEW",
-  "recordCount": 7,
+  "recordCount": 8,
   "records": [
     {
       "campus": "S",
@@ -70,6 +70,16 @@
       "dept": "appmath",
       "deptName": "Applied Mathematics",
       "term": "AUT2021",
+      "course": "AMATH 351",
+      "courseTitle": "DIFF EQUATIONS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "SUM2021",
       "course": "AMATH 351",
       "courseTitle": "DIFF EQUATIONS",
       "section": "A"

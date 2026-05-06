@@ -1,9 +1,109 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
-  "id": "CHASE%2CCATHERINE",
-  "professor": "CHASE,CATHERINE",
-  "recordCount": 4,
+  "generatedAt": "2026-05-06T01:15:29Z",
+  "id": "Chase%2CCatherine",
+  "professor": "Chase,Catherine",
+  "recordCount": 18,
   "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "SUM2023",
+      "course": "LATIN 300",
+      "courseTitle": "INTRO LATIN ACCEL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "SPR2023",
+      "course": "LATIN 103",
+      "courseTitle": "INTRODUCTORY LATIN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "WIN2023",
+      "course": "LATIN 102",
+      "courseTitle": "INTRODUCTORY LATIN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "latin",
+      "deptName": "Latin",
+      "term": "AUT2022",
+      "course": "LATIN 101",
+      "courseTitle": "INTRODUCTORY LATIN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2022",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "SUM2022",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "WIN2022",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "WIN2022",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2021",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2021",
+      "course": "CLAS 205",
+      "courseTitle": "BIOSCIENTIFIC VOCAB",
+      "section": "A"
+    },
     {
       "campus": "S",
       "campusName": "Seattle",
@@ -40,6 +140,46 @@
       "dept": "clas",
       "deptName": "Classics",
       "term": "SPR2021",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "WIN2021",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "F"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "WIN2021",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
+      "course": "CLAS 101",
+      "courseTitle": "LAT & GRK CURR USE",
+      "section": "F"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "clas",
+      "deptName": "Classics",
+      "term": "AUT2020",
       "course": "CLAS 101",
       "courseTitle": "LAT & GRK CURR USE",
       "section": "E"

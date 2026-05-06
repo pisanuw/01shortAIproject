@@ -1,20 +1,9 @@
 {
-  "generatedAt": "2026-04-16T02:57:22Z",
+  "generatedAt": "2026-05-06T01:15:32Z",
   "id": "B%20-%20B%20CORE%20115",
   "course": "B - B CORE 115",
   "recordCount": 44,
   "records": [
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "SPR2026",
-      "course": "B CORE 115",
-      "courseTitle": "EXPLORE: SOCIAL SCI",
-      "section": "D",
-      "instructor": "lambacher,jason frederick"
-    },
     {
       "campus": "B",
       "campusName": "Bothell",
@@ -34,8 +23,19 @@
       "term": "SPR2026",
       "course": "B CORE 115",
       "courseTitle": "EXPLORE: SOCIAL SCI",
+      "section": "D",
+      "instructor": "Lambacher,Jason"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "SPR2026",
+      "course": "B CORE 115",
+      "courseTitle": "EXPLORE: SOCIAL SCI",
       "section": "A",
-      "instructor": "Gorbman,Celia Rose"
+      "instructor": "Gorbman,Celia"
     },
     {
       "campus": "B",
@@ -155,8 +155,8 @@
       "term": "SPR2025",
       "course": "B CORE 115",
       "courseTitle": "EXPLORE: SOCIAL SCI",
-      "section": "C",
-      "instructor": "lambacher,jason frederick"
+      "section": "A",
+      "instructor": "Porter,Ian"
     },
     {
       "campus": "B",
@@ -166,8 +166,8 @@
       "term": "SPR2025",
       "course": "B CORE 115",
       "courseTitle": "EXPLORE: SOCIAL SCI",
-      "section": "A",
-      "instructor": "Porter,Ian"
+      "section": "C",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -210,17 +210,6 @@
       "term": "WIN2025",
       "course": "B CORE 115",
       "courseTitle": "EXPLORE: SOCIAL SCI",
-      "section": "A",
-      "instructor": "lambacher,jason frederick"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "WIN2025",
-      "course": "B CORE 115",
-      "courseTitle": "EXPLORE: SOCIAL SCI",
       "section": "E",
       "instructor": "Stiber,Michael"
     },
@@ -234,6 +223,17 @@
       "courseTitle": "EXPLORE: SOCIAL SCI",
       "section": "B",
       "instructor": "Shayne,Julie"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "WIN2025",
+      "course": "B CORE 115",
+      "courseTitle": "EXPLORE: SOCIAL SCI",
+      "section": "A",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -298,17 +298,6 @@
       "term": "WIN2024",
       "course": "B CORE 115",
       "courseTitle": "INDVDUALS & SOC 2",
-      "section": "B",
-      "instructor": "lambacher,jason frederick"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "WIN2024",
-      "course": "B CORE 115",
-      "courseTitle": "INDVDUALS & SOC 2",
       "section": "A",
       "instructor": "Shayne,Julie"
     },
@@ -322,6 +311,17 @@
       "courseTitle": "INDVDUALS & SOC 2",
       "section": "D",
       "instructor": "SB"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "WIN2024",
+      "course": "B CORE 115",
+      "courseTitle": "INDVDUALS & SOC 2",
+      "section": "B",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",
@@ -375,17 +375,6 @@
       "term": "WIN2022",
       "course": "B CORE 115",
       "courseTitle": "INDVDUALS & SOC 2",
-      "section": "A",
-      "instructor": "lambacher,jason frederick"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "WIN2022",
-      "course": "B CORE 115",
-      "courseTitle": "INDVDUALS & SOC 2",
       "section": "D",
       "instructor": "West,Maureen P."
     },
@@ -408,6 +397,17 @@
       "term": "WIN2022",
       "course": "B CORE 115",
       "courseTitle": "INDVDUALS & SOC 2",
+      "section": "A",
+      "instructor": "Lambacher,Jason"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "WIN2022",
+      "course": "B CORE 115",
+      "courseTitle": "INDVDUALS & SOC 2",
       "section": "B",
       "instructor": "Gregory,Wanda"
     },
@@ -421,17 +421,6 @@
       "courseTitle": "INDVDUALS & SOC 2",
       "section": "E",
       "instructor": "BJ"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bcore",
-      "deptName": "University Studies and Programs",
-      "term": "WIN2021",
-      "course": "B CORE 115",
-      "courseTitle": "INDVDUALS & SOC 2",
-      "section": "A",
-      "instructor": "lambacher,jason frederick"
     },
     {
       "campus": "B",
@@ -465,6 +454,17 @@
       "courseTitle": "INDVDUALS & SOC 2",
       "section": "E",
       "instructor": "Morse,Jason H"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "WIN2021",
+      "course": "B CORE 115",
+      "courseTitle": "INDVDUALS & SOC 2",
+      "section": "A",
+      "instructor": "Lambacher,Jason"
     },
     {
       "campus": "B",

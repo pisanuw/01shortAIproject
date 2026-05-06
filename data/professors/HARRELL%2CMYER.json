@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Harrell%2CMyer",
   "professor": "Harrell,Myer",
-  "recordCount": 1,
+  "recordCount": 3,
   "records": [
     {
       "campus": "S",
@@ -10,6 +10,26 @@
       "dept": "archit",
       "deptName": "Architecture",
       "term": "WIN2024",
+      "course": "ARCH 504",
+      "courseTitle": "ARCH INTEGRATION III",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "WIN2023",
+      "course": "ARCH 504",
+      "courseTitle": "ARCH INTEGRATION III",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "WIN2022",
       "course": "ARCH 504",
       "courseTitle": "ARCH INTEGRATION III",
       "section": "D"

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:18Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Ales%2CJohn",
   "professor": "Ales,John",
-  "recordCount": 13,
+  "recordCount": 16,
   "records": [
     {
       "campus": "S",
@@ -130,6 +130,36 @@
       "dept": "re",
       "deptName": "Real Estate",
       "term": "WIN2023",
+      "course": "R E 363",
+      "courseTitle": "RE DEVELOPMENT",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "SPR2022",
+      "course": "R E 363",
+      "courseTitle": "RE DEVELOPMENT",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "WIN2022",
+      "course": "R E 363",
+      "courseTitle": "RE DEVELOPMENT",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "re",
+      "deptName": "Real Estate",
+      "term": "AUT2021",
       "course": "R E 363",
       "courseTitle": "RE DEVELOPMENT",
       "section": "B"

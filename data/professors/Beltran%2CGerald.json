@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:18Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Beltran%2CGerald",
   "professor": "Beltran,Gerald",
-  "recordCount": 5,
+  "recordCount": 6,
   "records": [
     {
       "campus": "S",
@@ -43,6 +43,16 @@
       "course": "CM 331",
       "courseTitle": "CONST ESTIMATING I",
       "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "constmgmt",
+      "deptName": "Construction Management",
+      "term": "SPR2022",
+      "course": "CM 331",
+      "courseTitle": "CONST ESTIMATING I",
+      "section": "A"
     },
     {
       "campus": "S",

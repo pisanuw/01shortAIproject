@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Scheuerell%2CMark",
   "professor": "Scheuerell,Mark",
-  "recordCount": 4,
+  "recordCount": 5,
   "records": [
     {
       "campus": "S",
@@ -42,6 +42,16 @@
       "term": "WIN2023",
       "course": "FISH 549",
       "courseTitle": "ENV DATA SCI",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "fish",
+      "deptName": "Aquatic and Fishery Sciences",
+      "term": "WIN2022",
+      "course": "FISH 521",
+      "courseTitle": "RSRCH PROP WRITING",
       "section": "A"
     }
   ]

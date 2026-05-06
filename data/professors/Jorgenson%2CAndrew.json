@@ -1,79 +1,198 @@
 {
-  "generatedAt": "2026-05-05T23:34:07Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Jorgenson%2CAndrew",
   "professor": "Jorgenson,Andrew",
-  "recordCount": 7,
+  "recordCount": 19,
   "records": [
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SPR2026",
+      "course": "BIS 231",
+      "courseTitle": "LINEAR ALGEBRA",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
       "term": "WIN2026",
       "course": "BIS 231",
-      "courseTitle": "Linear Algebra With Applications",
+      "courseTitle": "LINEAR ALGEBRA",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SPR2025",
+      "course": "BIS 231",
+      "courseTitle": "LINEAR ALGEBRA",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SPR2025",
+      "course": "BIS 215",
+      "courseTitle": "UNDERSTANDING STATS",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SPR2025",
+      "course": "BIS 215",
+      "courseTitle": "UNDERSTANDING STATS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
       "term": "WIN2025",
       "course": "BIS 231",
-      "courseTitle": "Linear Algebra With Applications",
+      "courseTitle": "LINEAR ALGEBRA",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "SPR2025",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2024",
+      "course": "BIS 215",
+      "courseTitle": "UNDERSTANDING STATS",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2024",
+      "course": "BIS 215",
+      "courseTitle": "UNDERSTANDING STATS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SPR2024",
+      "course": "BIS 215",
+      "courseTitle": "UNDERSTANDING STATS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2024",
       "course": "BIS 231",
-      "courseTitle": "Linear Algebra With Applications",
+      "courseTitle": "LINEAR ALGEBRA",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "SPR2025",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SPR2023",
       "course": "BIS 215",
-      "courseTitle": "Understanding Statistics",
+      "courseTitle": "UNDERSTANDING STATS",
       "section": "B"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "SPR2025",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SPR2023",
       "course": "BIS 215",
-      "courseTitle": "Understanding Statistics",
+      "courseTitle": "UNDERSTANDING STATS",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "AUT2024",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2023",
+      "course": "BIS 231",
+      "courseTitle": "LINEAR ALGEBRA",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2022",
+      "course": "BIS 231",
+      "courseTitle": "LINEAR ALGEBRA",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2022",
       "course": "BIS 215",
-      "courseTitle": "Understanding Statistics",
+      "courseTitle": "UNDERSTANDING STATS",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2021",
+      "course": "BIS 215",
+      "courseTitle": "UNDERSTANDING STATS",
+      "section": "C"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2021",
+      "course": "BIS 215",
+      "courseTitle": "UNDERSTANDING STATS",
       "section": "B"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "AUT2024",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2021",
+      "course": "BIS 231",
+      "courseTitle": "LINEAR ALGEBRA",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2021",
       "course": "BIS 215",
-      "courseTitle": "Understanding Statistics",
+      "courseTitle": "UNDERSTANDING STATS",
       "section": "A"
     }
-  ],
-  "source": "eval-only"
+  ]
 }

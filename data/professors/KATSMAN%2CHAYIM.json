@@ -1,9 +1,19 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
-  "id": "Katsman%2CHayim",
-  "professor": "Katsman,Hayim",
-  "recordCount": 1,
+  "generatedAt": "2026-05-06T01:15:29Z",
+  "id": "KATSMAN%2CHAYIM",
+  "professor": "KATSMAN,HAYIM",
+  "recordCount": 2,
   "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "jsis",
+      "deptName": "International Studies Core and Gateway Courses",
+      "term": "SUM2021",
+      "course": "JSIS 200",
+      "courseTitle": "STATES & CAPITALISM",
+      "section": "A"
+    },
     {
       "campus": "S",
       "campusName": "Seattle",

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Willis%2CAmy%20D",
   "professor": "Willis,Amy D",
-  "recordCount": 7,
+  "recordCount": 9,
   "records": [
     {
       "campus": "S",
@@ -72,6 +72,26 @@
       "term": "SPR2023",
       "course": "BIOST 561",
       "courseTitle": "COMPUTE TOOLS I",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "WIN2021",
+      "course": "BIOST 518",
+      "courseTitle": "APPLIED BIOSTAT II",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "WIN2021",
+      "course": "BIOST 515",
+      "courseTitle": "BIOSTATISTICS II",
       "section": "A"
     }
   ]

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "DeForest%2CCole%20A.",
   "professor": "DeForest,Cole A.",
-  "recordCount": 28,
+  "recordCount": 33,
   "records": [
     {
       "campus": "S",
@@ -283,6 +283,56 @@
       "course": "CHEM E 599",
       "courseTitle": "CURRENT TPCS CH E",
       "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2022",
+      "course": "CHEM E 523",
+      "courseTitle": "SMNR IN CHEM ENGR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SUM2021",
+      "course": "CHEM E 599",
+      "courseTitle": "CURRENT TPCS CH E",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 523",
+      "courseTitle": "SMNR IN CHEM ENGR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "SPR2021",
+      "course": "CHEM E 355",
+      "courseTitle": "BIO FOR ENGINEERS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cheng",
+      "deptName": "Chemical Engineering",
+      "term": "AUT2020",
+      "course": "CHEM E 523",
+      "courseTitle": "SMNR IN CHEM ENGR",
+      "section": "A"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "BUTLER%2CBOBBY",
   "professor": "BUTLER,BOBBY",
-  "recordCount": 4,
+  "recordCount": 6,
   "records": [
     {
       "campus": "S",
@@ -40,6 +40,26 @@
       "dept": "perio",
       "deptName": "Periodontics",
       "term": "AUT2022",
+      "course": "PERIO 561",
+      "courseTitle": "PERIODNTL CASE MNGT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "perio",
+      "deptName": "Periodontics",
+      "term": "WIN2021",
+      "course": "PERIO 561",
+      "courseTitle": "PERIODNTL CASE MNGT",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "perio",
+      "deptName": "Periodontics",
+      "term": "AUT2020",
       "course": "PERIO 561",
       "courseTitle": "PERIODNTL CASE MNGT",
       "section": "A"

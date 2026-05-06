@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Coler%2CRhea%20N",
   "professor": "Coler,Rhea N",
-  "recordCount": 1,
+  "recordCount": 2,
   "records": [
     {
       "campus": "S",
@@ -10,6 +10,16 @@
       "dept": "gh",
       "deptName": "Global Health",
       "term": "WIN2022",
+      "course": "G H 410",
+      "courseTitle": "ADV BIOL GLBL DISEAS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "gh",
+      "deptName": "Global Health",
+      "term": "WIN2021",
       "course": "G H 410",
       "courseTitle": "ADV BIOL GLBL DISEAS",
       "section": "A"

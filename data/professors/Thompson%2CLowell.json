@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Thompson%2CLowell",
   "professor": "Thompson,Lowell",
-  "recordCount": 8,
+  "recordCount": 32,
   "records": [
     {
       "campus": "S",
@@ -82,6 +82,246 @@
       "term": "AUT2025",
       "course": "AMATH 301",
       "courseTitle": "BEG SCI COMPUTING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "WIN2025",
+      "course": "CFRM 410",
+      "courseTitle": "COMP FIN PROB STATS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "WIN2025",
+      "course": "CFRM 410",
+      "courseTitle": "COMP FIN PROB STATS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "AUT2024",
+      "course": "CFRM 420",
+      "courseTitle": "INTRO CMPFIN/FINECN",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "AUT2024",
+      "course": "CFRM 420",
+      "courseTitle": "INTRO CMPFIN/FINECN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "AUT2024",
+      "course": "CFRM 405",
+      "courseTitle": "MATH METHODS FOR QF",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "AUT2024",
+      "course": "CFRM 405",
+      "courseTitle": "MATH METHODS FOR QF",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "WIN2024",
+      "course": "CFRM 410",
+      "courseTitle": "COMP FIN PROB STATS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "WIN2024",
+      "course": "CFRM 410",
+      "courseTitle": "COMP FIN PROB STATS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "AUT2023",
+      "course": "CFRM 420",
+      "courseTitle": "INTRO CMPFIN/FINECN",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "AUT2023",
+      "course": "CFRM 420",
+      "courseTitle": "INTRO CMPFIN/FINECN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "AUT2023",
+      "course": "AMATH 581",
+      "courseTitle": "SCIENTIFIC COMPUTING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "AUT2023",
+      "course": "AMATH 481",
+      "courseTitle": "SCIENTIFIC COMPTG",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "WIN2023",
+      "course": "CFRM 410",
+      "courseTitle": "COMP FIN PROB STATS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "WIN2023",
+      "course": "CFRM 410",
+      "courseTitle": "COMP FIN PROB STATS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "AUT2022",
+      "course": "AMATH 301",
+      "courseTitle": "BEG SCI COMPUTING",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "AUT2022",
+      "course": "AMATH 301",
+      "courseTitle": "BEG SCI COMPUTING",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "AUT2022",
+      "course": "AMATH 301",
+      "courseTitle": "BEG SCI COMPUTING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "SUM2022",
+      "course": "AMATH 353",
+      "courseTitle": "PRTL DIFF EQNS& WVS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "SPR2022",
+      "course": "AMATH 503",
+      "courseTitle": "METHODS PAR DIFF EQ",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "SPR2022",
+      "course": "AMATH 503",
+      "courseTitle": "METHODS PAR DIFF EQ",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "SPR2022",
+      "course": "AMATH 403",
+      "courseTitle": "METHODS PAR DIFF EQ",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "SPR2022",
+      "course": "AMATH 351",
+      "courseTitle": "DIFF EQUATIONS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cfrm",
+      "deptName": "Computational Finance and Risk Management",
+      "term": "WIN2022",
+      "course": "CFRM 410",
+      "courseTitle": "COMP FIN PROB STATS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "appmath",
+      "deptName": "Applied Mathematics",
+      "term": "WIN2022",
+      "course": "AMATH 351",
+      "courseTitle": "DIFF EQUATIONS",
       "section": "A"
     }
   ]

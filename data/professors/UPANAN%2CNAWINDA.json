@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Upanan%2CNawinda",
   "professor": "Upanan,Nawinda",
-  "recordCount": 2,
+  "recordCount": 4,
   "records": [
     {
       "campus": "S",
@@ -23,6 +23,26 @@
       "course": "EDSPE 501",
       "courseTitle": "FOUNDATIONS INCL ED",
       "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "teached",
+      "deptName": "Education",
+      "term": "AUT2022",
+      "course": "EDTEP 544",
+      "courseTitle": "DIFFERENTIATED INST",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sped",
+      "deptName": "Special Education",
+      "term": "SPR2022",
+      "course": "EDSPE 414",
+      "courseTitle": "ISSUE TREND INCL ECE",
+      "section": "A"
     }
   ]
 }

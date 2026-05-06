@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Taylor%2CHolly",
   "professor": "Taylor,Holly",
-  "recordCount": 3,
+  "recordCount": 4,
   "records": [
     {
       "campus": "S",
@@ -30,6 +30,16 @@
       "dept": "urbdes",
       "deptName": "Urban Planning",
       "term": "WIN2023",
+      "course": "URBDP 586",
+      "courseTitle": "IMPLEMENT PRES",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "WIN2022",
       "course": "URBDP 586",
       "courseTitle": "IMPLEMENT PRES",
       "section": "A"

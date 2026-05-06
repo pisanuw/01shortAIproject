@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Curtis%2CAsher",
   "professor": "Curtis,Asher",
-  "recordCount": 2,
+  "recordCount": 6,
   "records": [
     {
       "campus": "S",
@@ -20,6 +20,46 @@
       "dept": "acctg",
       "deptName": "Accounting",
       "term": "AUT2023",
+      "course": "ACCTG 320",
+      "courseTitle": "ACCTG ANALYTICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2021",
+      "course": "ACCTG 596",
+      "courseTitle": "PHD SEM FIN ACT RES",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2021",
+      "course": "ACCTG 520",
+      "courseTitle": "ACCTG REGULATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2020",
+      "course": "ACCTG 320",
+      "courseTitle": "ACCTG ANALYTICS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "acctg",
+      "deptName": "Accounting",
+      "term": "AUT2020",
       "course": "ACCTG 320",
       "courseTitle": "ACCTG ANALYTICS",
       "section": "A"

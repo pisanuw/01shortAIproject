@@ -1,19 +1,28 @@
 {
-  "generatedAt": "2026-05-05T23:34:07Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Lemery%2CSteve",
   "professor": "Lemery,Steve",
-  "recordCount": 1,
+  "recordCount": 2,
   "records": [
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bme",
-      "deptName": "Science, Tech, Engr. & Math",
+      "deptName": "Mechanical Engineering",
       "term": "SPR2025",
       "course": "B ME 493",
-      "courseTitle": "Advanced Special Topics In Mechanical Engineering",
+      "courseTitle": "ADV SPEC TOPICS ME",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bme",
+      "deptName": "Mechanical Engineering",
+      "term": "SPR2025",
+      "course": "B ME 333",
+      "courseTitle": "HEAT TRANSFER",
       "section": "A"
     }
-  ],
-  "source": "eval-only"
+  ]
 }

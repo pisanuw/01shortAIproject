@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Dalessio%2CJulie",
   "professor": "Dalessio,Julie",
-  "recordCount": 29,
+  "recordCount": 30,
   "records": [
     {
       "campus": "S",
@@ -282,6 +282,16 @@
       "term": "AUT2021",
       "course": "SPHSC 250",
       "courseTitle": "INTRO SPCH & HRG SCI",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sphsc",
+      "deptName": "Speech and Hearing Sciences",
+      "term": "SUM2021",
+      "course": "SPHSC 495",
+      "courseTitle": "GUIDED OBSERVATIONS",
       "section": "A"
     },
     {

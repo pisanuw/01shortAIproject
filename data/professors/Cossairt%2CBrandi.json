@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Cossairt%2CBrandi",
   "professor": "Cossairt,Brandi",
-  "recordCount": 13,
+  "recordCount": 19,
   "records": [
     {
       "campus": "S",
@@ -130,6 +130,66 @@
       "dept": "chem",
       "deptName": "Chemistry",
       "term": "AUT2021",
+      "course": "CHEM 416",
+      "courseTitle": "TRANSITION METALS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2021",
+      "course": "CHEM 591",
+      "courseTitle": "SMNR INORGANIC CHEM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2021",
+      "course": "CHEM 578",
+      "courseTitle": "RESRCH MATERIAL CHEM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2021",
+      "course": "CHEM 571",
+      "courseTitle": "RESEARCH",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2021",
+      "course": "CHEM 312",
+      "courseTitle": "INORGANIC CHEMISTRY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2020",
+      "course": "CHEM 516",
+      "courseTitle": "TRANSITION METALS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2020",
       "course": "CHEM 416",
       "courseTitle": "TRANSITION METALS",
       "section": "A"

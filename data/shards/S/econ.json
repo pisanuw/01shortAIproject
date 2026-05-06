@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T02:57:11Z",
+  "generatedAt": "2026-05-06T01:15:23Z",
   "campus": "S",
   "dept": "econ",
   "deptName": "Economics",
@@ -62,7 +62,7 @@
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
       "section": "B",
-      "instructor": "Jacobs,Joshua Abraham"
+      "instructor": "Jacobs,Joshua"
     },
     {
       "campus": "S",
@@ -121,8 +121,8 @@
       "term": "AUT2020",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
-      "section": "K",
-      "instructor": "Xu,Lia"
+      "section": "C",
+      "instructor": "XUE,WENDAO"
     },
     {
       "campus": "S",
@@ -131,8 +131,8 @@
       "term": "AUT2020",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
-      "section": "C",
-      "instructor": "Xue,Wendao"
+      "section": "K",
+      "instructor": "Xu,Lia"
     },
     {
       "campus": "S",
@@ -142,7 +142,7 @@
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
       "section": "B",
-      "instructor": "Di,Aochun"
+      "instructor": "DI,AOCHUN"
     },
     {
       "campus": "S",
@@ -152,7 +152,7 @@
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
       "section": "A",
-      "instructor": "O'Dea,Dennis C"
+      "instructor": "O'Dea,Dennis"
     },
     {
       "campus": "S",
@@ -332,7 +332,7 @@
       "course": "ECON 422",
       "courseTitle": "INVESTM CAPTL FNANC",
       "section": "B",
-      "instructor": "Jacobs,Joshua Abraham"
+      "instructor": "Jacobs,Joshua"
     },
     {
       "campus": "S",
@@ -362,7 +362,7 @@
       "course": "ECON 450",
       "courseTitle": "PUB FIN: EXPEND POL",
       "section": "A",
-      "instructor": "O'Dea,Dennis C"
+      "instructor": "O'Dea,Dennis"
     },
     {
       "campus": "S",
@@ -642,7 +642,7 @@
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
       "section": "F",
-      "instructor": "Xue,Wendao"
+      "instructor": "XUE,WENDAO"
     },
     {
       "campus": "S",
@@ -652,7 +652,7 @@
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
       "section": "D",
-      "instructor": "Di,Aochun"
+      "instructor": "DI,AOCHUN"
     },
     {
       "campus": "S",
@@ -932,7 +932,7 @@
       "course": "ECON 485",
       "courseTitle": "GAME THEORY",
       "section": "A",
-      "instructor": "Khalil,Fahad A"
+      "instructor": "Khalil,Fahad"
     },
     {
       "campus": "S",
@@ -1002,7 +1002,7 @@
       "course": "ECON 518",
       "courseTitle": "CONTRACT THEORY",
       "section": "A",
-      "instructor": "Khalil,Fahad A"
+      "instructor": "Khalil,Fahad"
     },
     {
       "campus": "S",
@@ -1112,7 +1112,7 @@
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
       "section": "F",
-      "instructor": "KWAK,KYONGJUN"
+      "instructor": "Kwak,Kyongjun"
     },
     {
       "campus": "S",
@@ -1122,7 +1122,7 @@
       "course": "ECON 201",
       "courseTitle": "INTRO MACROECON",
       "section": "A",
-      "instructor": "O'Dea,Dennis C"
+      "instructor": "O'Dea,Dennis"
     },
     {
       "campus": "S",
@@ -1232,7 +1232,7 @@
       "course": "ECON 345",
       "courseTitle": "GLOBAL HEALTH ECON",
       "section": "A",
-      "instructor": "Levin,Carol E."
+      "instructor": "Levin,Carol"
     },
     {
       "campus": "S",
@@ -1242,7 +1242,7 @@
       "course": "ECON 382",
       "courseTitle": "INTRO ECONOMETRICS",
       "section": "A",
-      "instructor": "Jacobs,Joshua Abraham"
+      "instructor": "Jacobs,Joshua"
     },
     {
       "campus": "S",
@@ -1332,7 +1332,7 @@
       "course": "ECON 422",
       "courseTitle": "INVESTM CAPTL FNANC",
       "section": "A",
-      "instructor": "Jacobs,Joshua Abraham"
+      "instructor": "Jacobs,Joshua"
     },
     {
       "campus": "S",
@@ -1402,7 +1402,7 @@
       "course": "ECON 451",
       "courseTitle": "PUB FIN: TAX POLICY",
       "section": "A",
-      "instructor": "O'Dea,Dennis C"
+      "instructor": "O'Dea,Dennis"
     },
     {
       "campus": "S",
@@ -1472,7 +1472,7 @@
       "course": "ECON 486",
       "courseTitle": "ECON OF INFORMATION",
       "section": "A",
-      "instructor": "Khalil,Fahad A"
+      "instructor": "Khalil,Fahad"
     },
     {
       "campus": "S",
@@ -1492,7 +1492,7 @@
       "course": "ECON 508",
       "courseTitle": "MICROECN ANLYS III",
       "section": "A",
-      "instructor": "Khalil,Fahad A"
+      "instructor": "Khalil,Fahad"
     },
     {
       "campus": "S",
@@ -1622,17 +1622,7 @@
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
       "section": "B",
-      "instructor": "CHOUNG,HAE YUN"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "SUM2021",
-      "course": "ECON 200",
-      "courseTitle": "INTRO MICROECON",
-      "section": "A",
-      "instructor": "KWAK,KYONGJUN"
+      "instructor": "Choung,Hae Yun"
     },
     {
       "campus": "S",
@@ -1643,6 +1633,16 @@
       "courseTitle": "INTRO MICROECON",
       "section": "C",
       "instructor": "Khurana,Mikita"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2021",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "A",
+      "instructor": "Kwak,Kyongjun"
     },
     {
       "campus": "S",
@@ -1722,7 +1722,7 @@
       "course": "ECON 400",
       "courseTitle": "ADVANCED MICROECON",
       "section": "A",
-      "instructor": "O'Dea,Dennis C"
+      "instructor": "O'Dea,Dennis"
     },
     {
       "campus": "S",
@@ -1831,16 +1831,6 @@
       "term": "AUT2021",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
-      "section": "F",
-      "instructor": "KWAK,KYONGJUN"
-    },
-    {
-      "campus": "S",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "AUT2021",
-      "course": "ECON 200",
-      "courseTitle": "INTRO MICROECON",
       "section": "H",
       "instructor": "Khurana,Mikita"
     },
@@ -1853,6 +1843,16 @@
       "courseTitle": "INTRO MICROECON",
       "section": "A",
       "instructor": "Knox,Melissa A"
+    },
+    {
+      "campus": "S",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2021",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
+      "section": "F",
+      "instructor": "Kwak,Kyongjun"
     },
     {
       "campus": "S",
@@ -2062,7 +2062,7 @@
       "course": "ECON 409",
       "courseTitle": "UNDERG SEM-POL ECON",
       "section": "B",
-      "instructor": "Menaldo,Victor A"
+      "instructor": "Menaldo,Victor"
     },
     {
       "campus": "S",
@@ -2532,7 +2532,7 @@
       "course": "ECON 300",
       "courseTitle": "INTERMED MICRO-ECON",
       "section": "C",
-      "instructor": "KWAK,KYONGJUN"
+      "instructor": "Kwak,Kyongjun"
     },
     {
       "campus": "S",
@@ -2782,7 +2782,7 @@
       "course": "ECON 485",
       "courseTitle": "GAME THEORY",
       "section": "A",
-      "instructor": "Khalil,Fahad A"
+      "instructor": "Khalil,Fahad"
     },
     {
       "campus": "S",
@@ -2862,7 +2862,7 @@
       "course": "ECON 518",
       "courseTitle": "CONTRACT THEORY",
       "section": "A",
-      "instructor": "Khalil,Fahad A"
+      "instructor": "Khalil,Fahad"
     },
     {
       "campus": "S",
@@ -3402,7 +3402,7 @@
       "course": "ECON 486",
       "courseTitle": "ECON OF INFORMATION",
       "section": "A",
-      "instructor": "Khalil,Fahad A"
+      "instructor": "Khalil,Fahad"
     },
     {
       "campus": "S",
@@ -3432,7 +3432,7 @@
       "course": "ECON 508",
       "courseTitle": "MICROECN ANLYS III",
       "section": "A",
-      "instructor": "Khalil,Fahad A"
+      "instructor": "Khalil,Fahad"
     },
     {
       "campus": "S",
@@ -4022,7 +4022,7 @@
       "course": "ECON 409",
       "courseTitle": "UNDERG SEM-POL ECON",
       "section": "A",
-      "instructor": "Menaldo,Victor A"
+      "instructor": "Menaldo,Victor"
     },
     {
       "campus": "S",
@@ -7122,7 +7122,7 @@
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
       "section": "B",
-      "instructor": "Effendy,Alfredo Nicholas"
+      "instructor": "Effendy,Alfredo"
     },
     {
       "campus": "S",
@@ -7472,7 +7472,7 @@
       "course": "ECON 409",
       "courseTitle": "UNDERG SEM-POL ECON",
       "section": "A",
-      "instructor": "Menaldo,Victor A"
+      "instructor": "Menaldo,Victor"
     },
     {
       "campus": "S",
@@ -7862,7 +7862,7 @@
       "course": "ECON 300",
       "courseTitle": "INTERMED MICROECON",
       "section": "E",
-      "instructor": "Das,Ram Utkarsh"
+      "instructor": "Das,Ram"
     },
     {
       "campus": "S",
@@ -7912,7 +7912,7 @@
       "course": "ECON 301",
       "courseTitle": "INTERMED MACRO-ECON",
       "section": "C",
-      "instructor": "Effendy,Alfredo Nicholas"
+      "instructor": "Effendy,Alfredo"
     },
     {
       "campus": "S",
@@ -7932,7 +7932,7 @@
       "course": "ECON 301",
       "courseTitle": "INTERMED MACRO-ECON",
       "section": "D",
-      "instructor": "Xu,Gaoqian"
+      "instructor": "XU,GAOQIAN"
     },
     {
       "campus": "S",
@@ -8402,7 +8402,7 @@
       "course": "ECON 301",
       "courseTitle": "INTERMED MACRO-ECON",
       "section": "B",
-      "instructor": "Das,Ram Utkarsh"
+      "instructor": "Das,Ram"
     },
     {
       "campus": "S",

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Bushnaq%2CDawn%20S",
   "professor": "Bushnaq,Dawn S",
-  "recordCount": 1,
+  "recordCount": 3,
   "records": [
     {
       "campus": "S",
@@ -13,6 +13,26 @@
       "course": "ARCH 503",
       "courseTitle": "ARCH INTEGRATION II",
       "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "AUT2022",
+      "course": "ARCH 503",
+      "courseTitle": "ARCH INTEGRATION II",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "AUT2021",
+      "course": "ARCH 503",
+      "courseTitle": "ARCH INTEGRATION II",
+      "section": "E"
     }
   ]
 }

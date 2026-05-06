@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "CARR%2CTHOMAS%20J",
   "professor": "CARR,THOMAS J",
-  "recordCount": 10,
+  "recordCount": 12,
   "records": [
     {
       "campus": "S",
@@ -103,6 +103,26 @@
       "course": "MATH 307",
       "courseTitle": "INTRO TO DIFF EQ",
       "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "WIN2021",
+      "course": "MATH 308",
+      "courseTitle": "MATRIX ALGEBRA",
+      "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "math",
+      "deptName": "Mathematics",
+      "term": "AUT2020",
+      "course": "MATH 307",
+      "courseTitle": "INTRO TO DIFF EQ",
+      "section": "L"
     }
   ]
 }

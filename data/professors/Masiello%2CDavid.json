@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "MASIELLO%2CDavid",
   "professor": "MASIELLO,David",
-  "recordCount": 20,
+  "recordCount": 22,
   "records": [
     {
       "campus": "S",
@@ -203,6 +203,26 @@
       "course": "CHEM 457",
       "courseTitle": "PHYSICAL CHEMISTRY",
       "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "WIN2021",
+      "course": "CHEM 575",
+      "courseTitle": "RESEARCH COMPUTATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2020",
+      "course": "CHEM 455",
+      "courseTitle": "PHYSICAL CHEMISTRY",
+      "section": "B"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Friz%2CAmanda",
   "professor": "Friz,Amanda",
-  "recordCount": 12,
+  "recordCount": 13,
   "records": [
     {
       "campus": "S",
@@ -120,6 +120,16 @@
       "dept": "com",
       "deptName": "Communication",
       "term": "SUM2021",
+      "course": "COM 231",
+      "courseTitle": "INTRO TO RHETORIC",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "WIN2021",
       "course": "COM 231",
       "courseTitle": "INTRO TO RHETORIC",
       "section": "A"

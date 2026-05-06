@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Jenner%2CLars",
   "professor": "Jenner,Lars",
-  "recordCount": 14,
+  "recordCount": 16,
   "records": [
     {
       "campus": "S",
@@ -120,6 +120,26 @@
       "dept": "scand",
       "deptName": "Scandinavian",
       "term": "SUM2024",
+      "course": "SCAND 270",
+      "courseTitle": "SAGAS OF VIKINGS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SUM2023",
+      "course": "SCAND 330",
+      "courseTitle": "SCAND MYTHOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "scand",
+      "deptName": "Scandinavian",
+      "term": "SUM2023",
       "course": "SCAND 270",
       "courseTitle": "SAGAS OF VIKINGS",
       "section": "A"

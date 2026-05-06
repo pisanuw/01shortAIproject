@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Yeboah%2CNikki",
   "professor": "Yeboah,Nikki",
-  "recordCount": 4,
+  "recordCount": 5,
   "records": [
     {
       "campus": "S",
@@ -42,6 +42,16 @@
       "term": "WIN2025",
       "course": "DRAMA 441",
       "courseTitle": "BEGIN PLAYWRITING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "WIN2022",
+      "course": "DRAMA 564",
+      "courseTitle": "HISTORY/THEORY/CRIT",
       "section": "A"
     }
   ]

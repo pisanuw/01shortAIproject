@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:18Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "BISHOP%2CAARON",
   "professor": "BISHOP,AARON",
-  "recordCount": 5,
+  "recordCount": 6,
   "records": [
     {
       "campus": "S",
@@ -52,6 +52,16 @@
       "term": "SPR2021",
       "course": "N SCI 303",
       "courseTitle": "NAVAL WEAPON SYSTMS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "88navsci",
+      "deptName": "Naval Science",
+      "term": "WIN2021",
+      "course": "N SCI 302",
+      "courseTitle": "NAVAL SHIP SYST II",
       "section": "A"
     }
   ]

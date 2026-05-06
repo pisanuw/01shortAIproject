@@ -1,9 +1,19 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Marks%2CNathan",
   "professor": "Marks,Nathan",
-  "recordCount": 3,
+  "recordCount": 4,
   "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "russian",
+      "deptName": "Russian",
+      "term": "AUT2021",
+      "course": "RUSS 101",
+      "courseTitle": "FIRST-YEAR RUSSIAN",
+      "section": "C"
+    },
     {
       "campus": "S",
       "campusName": "Seattle",

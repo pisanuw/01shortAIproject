@@ -1,17 +1,37 @@
 {
-  "generatedAt": "2026-05-05T23:34:07Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Effendy%2CAlfredo",
   "professor": "Effendy,Alfredo",
-  "recordCount": 2,
+  "recordCount": 7,
   "records": [
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SPR2026",
+      "course": "BIS 201",
+      "courseTitle": "INTRO MACROECON",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "SPR2026",
+      "course": "B BUS 221",
+      "courseTitle": "INTRO MACROECON",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
       "term": "WIN2026",
       "course": "BIS 201",
-      "courseTitle": "Introduction To Macroeconomics",
+      "courseTitle": "INTRO MACROECON",
       "section": "B"
     },
     {
@@ -21,9 +41,38 @@
       "deptName": "Business",
       "term": "WIN2026",
       "course": "B BUS 221",
-      "courseTitle": "Introduction To Macroeconomics",
+      "courseTitle": "INTRO MACROECON",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "qmeth",
+      "deptName": "Quantitative Methods",
+      "term": "SUM2025",
+      "course": "QMETH 201",
+      "courseTitle": "INTRO TO STAT MTHDS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2025",
+      "course": "ECON 301",
+      "courseTitle": "INTERMED MACRO-ECON",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2024",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
       "section": "B"
     }
-  ],
-  "source": "eval-only"
+  ]
 }

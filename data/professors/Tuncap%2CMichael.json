@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T23:34:07Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Tuncap%2CMichael",
   "professor": "Tuncap,Michael",
   "recordCount": 2,
@@ -8,22 +8,21 @@
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bhlth",
-      "deptName": "Nursing & Health Studies",
+      "deptName": "Health Electives",
       "term": "SPR2025",
       "course": "B HLTH 429",
-      "courseTitle": "Global And Local Health Inequalities And Interventions",
+      "courseTitle": "HLT INEQUAL & INTRVN",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bhlth",
-      "deptName": "Nursing & Health Studies",
+      "deptName": "Health Electives",
       "term": "SPR2025",
       "course": "B HLTH 297",
-      "courseTitle": "Selected Introductory Topics In Health",
+      "courseTitle": "INTRO HEALTH TOPICS",
       "section": "A"
     }
-  ],
-  "source": "eval-only"
+  ]
 }

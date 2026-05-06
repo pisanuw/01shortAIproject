@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-05T23:34:07Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Millard%2CDawn",
   "professor": "Millard,Dawn",
-  "recordCount": 1,
+  "recordCount": 4,
   "records": [
     {
       "campus": "B",
@@ -11,9 +11,38 @@
       "deptName": "Business",
       "term": "WIN2025",
       "course": "B BUS 534",
-      "courseTitle": "Human Resource Management",
+      "courseTitle": "HUMAN RESOURCE MGMT",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "WIN2024",
+      "course": "B BUS 534",
+      "courseTitle": "HUMAN RESOURCE MGMT",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "SUM2023",
+      "course": "B BUS 534",
+      "courseTitle": "HUMAN RESOURCE MGMT",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "AUT2022",
+      "course": "B BUS 477",
+      "courseTitle": "HUMAN RES MGMT",
       "section": "A"
     }
-  ],
-  "source": "eval-only"
+  ]
 }

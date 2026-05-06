@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Smith%2CNicholas%20L",
   "professor": "Smith,Nicholas L",
-  "recordCount": 2,
+  "recordCount": 3,
   "records": [
     {
       "campus": "S",
@@ -20,6 +20,16 @@
       "dept": "epidem",
       "deptName": "Epidemiology",
       "term": "WIN2025",
+      "course": "EPI 519",
+      "courseTitle": "CV EPI",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "epidem",
+      "deptName": "Epidemiology",
+      "term": "WIN2024",
       "course": "EPI 519",
       "courseTitle": "CV EPI",
       "section": "A"

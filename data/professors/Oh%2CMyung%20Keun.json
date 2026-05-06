@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "OH%2CMYUNG%20KEUN",
   "professor": "OH,MYUNG KEUN",
-  "recordCount": 2,
+  "recordCount": 4,
   "records": [
     {
       "campus": "S",
@@ -20,6 +20,26 @@
       "dept": "88navsci",
       "deptName": "Naval Science",
       "term": "AUT2021",
+      "course": "N SCI 401",
+      "courseTitle": "NAVAL OPERATIONS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "88navsci",
+      "deptName": "Naval Science",
+      "term": "AUT2020",
+      "course": "N SCI 401",
+      "courseTitle": "NAVAL OPERATIONS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "88navsci",
+      "deptName": "Naval Science",
+      "term": "AUT2020",
       "course": "N SCI 401",
       "courseTitle": "NAVAL OPERATIONS",
       "section": "A"

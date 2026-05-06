@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:18Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Berridge%2CClara",
   "professor": "Berridge,Clara",
-  "recordCount": 3,
+  "recordCount": 5,
   "records": [
     {
       "campus": "S",
@@ -30,6 +30,26 @@
       "dept": "socwk",
       "deptName": "Social Work",
       "term": "AUT2022",
+      "course": "SOC W 526",
+      "courseTitle": "SOCIAL POLICY AGING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwk",
+      "deptName": "Social Work",
+      "term": "AUT2021",
+      "course": "SOC W 526",
+      "courseTitle": "SOCIAL POLICY AGING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwk",
+      "deptName": "Social Work",
+      "term": "AUT2020",
       "course": "SOC W 526",
       "courseTitle": "SOCIAL POLICY AGING",
       "section": "A"

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Johnson%2CChristy",
   "professor": "Johnson,Christy",
-  "recordCount": 18,
+  "recordCount": 19,
   "records": [
     {
       "campus": "B",
@@ -182,6 +182,16 @@
       "term": "WIN2023",
       "course": "B BUS 427",
       "courseTitle": "ENTREPREN MARKETING",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "entre",
+      "deptName": "Entrepreneurship",
+      "term": "WIN2022",
+      "course": "ENTRE 440",
+      "courseTitle": "BUS PLAN PRACTICUM",
       "section": "A"
     }
   ]

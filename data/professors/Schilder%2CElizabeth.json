@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Schilder%2CElizabeth",
   "professor": "Schilder,Elizabeth",
-  "recordCount": 15,
+  "recordCount": 19,
   "records": [
     {
       "campus": "S",
@@ -150,6 +150,46 @@
       "dept": "88navsci",
       "deptName": "Naval Science",
       "term": "AUT2023",
+      "course": "N SCI 110",
+      "courseTitle": "N SCI LABORATORY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "88navsci",
+      "deptName": "Naval Science",
+      "term": "SPR2023",
+      "course": "N SCI 323",
+      "courseTitle": "USMC LEADERSHIP I",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "88navsci",
+      "deptName": "Naval Science",
+      "term": "SPR2023",
+      "course": "N SCI 110",
+      "courseTitle": "N SCI LABORATORY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "88navsci",
+      "deptName": "Naval Science",
+      "term": "AUT2022",
+      "course": "N SCI 321",
+      "courseTitle": "EVOL OF WARFARE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "88navsci",
+      "deptName": "Naval Science",
+      "term": "AUT2022",
       "course": "N SCI 110",
       "courseTitle": "N SCI LABORATORY",
       "section": "A"

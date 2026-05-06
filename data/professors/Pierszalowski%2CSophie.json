@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Pierszalowski%2CSophie",
   "professor": "Pierszalowski,Sophie",
-  "recordCount": 3,
+  "recordCount": 7,
   "records": [
     {
       "campus": "S",
@@ -33,6 +33,46 @@
       "course": "GEN ST 391",
       "courseTitle": "SUP STDY SEL FIELDS",
       "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2022",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "I"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "WIN2022",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2021",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "J"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "genst",
+      "deptName": "General Studies",
+      "term": "AUT2021",
+      "course": "GEN ST 391",
+      "courseTitle": "SUP STDY SEL FIELDS",
+      "section": "I"
     }
   ]
 }

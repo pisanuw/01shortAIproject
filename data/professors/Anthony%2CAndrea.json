@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:18Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Anthony%2CAndrea",
   "professor": "Anthony,Andrea",
-  "recordCount": 52,
+  "recordCount": 54,
   "records": [
     {
       "campus": "B",
@@ -522,6 +522,26 @@
       "term": "WIN2021",
       "course": "B BUS 350",
       "courseTitle": "BUSINESS FINANCE",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "AUT2020",
+      "course": "B BUS 454",
+      "courseTitle": "INVESTMENTS",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bbus",
+      "deptName": "Business",
+      "term": "AUT2020",
+      "course": "B BUS 454",
+      "courseTitle": "INVESTMENTS",
       "section": "A"
     }
   ]

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Khalil%2CFahad",
   "professor": "Khalil,Fahad",
-  "recordCount": 16,
+  "recordCount": 24,
   "records": [
     {
       "campus": "S",
@@ -160,6 +160,86 @@
       "dept": "econ",
       "deptName": "Economics",
       "term": "WIN2023",
+      "course": "ECON 485",
+      "courseTitle": "GAME THEORY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 508",
+      "courseTitle": "MICROECN ANLYS III",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2022",
+      "course": "ECON 486",
+      "courseTitle": "ECON OF INFORMATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2022",
+      "course": "ECON 518",
+      "courseTitle": "CONTRACT THEORY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2022",
+      "course": "ECON 485",
+      "courseTitle": "GAME THEORY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 508",
+      "courseTitle": "MICROECN ANLYS III",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SPR2021",
+      "course": "ECON 486",
+      "courseTitle": "ECON OF INFORMATION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2021",
+      "course": "ECON 518",
+      "courseTitle": "CONTRACT THEORY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "WIN2021",
       "course": "ECON 485",
       "courseTitle": "GAME THEORY",
       "section": "A"

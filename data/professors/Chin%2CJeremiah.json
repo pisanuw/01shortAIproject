@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Chin%2CJeremiah",
   "professor": "Chin,Jeremiah",
-  "recordCount": 4,
+  "recordCount": 6,
   "records": [
     {
       "campus": "S",
@@ -43,6 +43,26 @@
       "course": "LAW A 592",
       "courseTitle": "CONSTITUTION LAW II",
       "section": "E"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "AUT2024",
+      "course": "LAW E 572",
+      "courseTitle": "RACE AND THE LAW",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "lawe",
+      "deptName": "Law E",
+      "term": "AUT2024",
+      "course": "LAW E 572",
+      "courseTitle": "RACE AND THE LAW",
+      "section": "C"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:18Z",
-  "id": "Bingle%2CMorgan%20Stuart",
-  "professor": "Bingle,Morgan Stuart",
-  "recordCount": 1,
+  "generatedAt": "2026-05-06T01:15:29Z",
+  "id": "BINGLE%2CMORGAN%20STUART",
+  "professor": "BINGLE,MORGAN STUART",
+  "recordCount": 7,
   "records": [
     {
       "campus": "S",
@@ -12,6 +12,66 @@
       "term": "WIN2024",
       "course": "N SCI 110",
       "courseTitle": "N SCI LABORATORY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "88navsci",
+      "deptName": "Naval Science",
+      "term": "AUT2023",
+      "course": "N SCI 401",
+      "courseTitle": "NAVAL OPERATIONS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "88navsci",
+      "deptName": "Naval Science",
+      "term": "SPR2023",
+      "course": "N SCI 203",
+      "courseTitle": "NAVIGATION II",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "88navsci",
+      "deptName": "Naval Science",
+      "term": "WIN2023",
+      "course": "N SCI 202",
+      "courseTitle": "NAVIGATION I",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "88navsci",
+      "deptName": "Naval Science",
+      "term": "WIN2023",
+      "course": "N SCI 110",
+      "courseTitle": "N SCI LABORATORY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "88navsci",
+      "deptName": "Naval Science",
+      "term": "AUT2022",
+      "course": "N SCI 401",
+      "courseTitle": "NAVAL OPERATIONS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "88navsci",
+      "deptName": "Naval Science",
+      "term": "WIN2022",
+      "course": "N SCI 202",
+      "courseTitle": "NAVIGATION I",
       "section": "A"
     }
   ]

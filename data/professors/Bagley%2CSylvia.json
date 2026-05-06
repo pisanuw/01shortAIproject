@@ -1,9 +1,49 @@
 {
-  "generatedAt": "2026-04-16T02:57:18Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Bagley%2CSylvia",
   "professor": "Bagley,Sylvia",
-  "recordCount": 2,
+  "recordCount": 6,
   "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "SPR2026",
+      "course": "EDUC 333",
+      "courseTitle": "ED LDRSHP SOCL CHG",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "WIN2026",
+      "course": "EDUC 330",
+      "courseTitle": "COACH/MENT ED THRVNG",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "SPR2025",
+      "course": "EDUC 300",
+      "courseTitle": "SPECIAL TOPICS EDUC",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "WIN2025",
+      "course": "EDUC 300",
+      "courseTitle": "SPECIAL TOPICS EDUC",
+      "section": "B"
+    },
     {
       "campus": "S",
       "campusName": "Seattle",

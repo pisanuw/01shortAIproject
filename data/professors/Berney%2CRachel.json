@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:18Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Berney%2CRachel",
   "professor": "Berney,Rachel",
-  "recordCount": 3,
+  "recordCount": 14,
   "records": [
     {
       "campus": "S",
@@ -32,6 +32,116 @@
       "term": "AUT2025",
       "course": "URBAN 508",
       "courseTitle": "SPECIAL PLANNING LAB",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cet",
+      "deptName": "Transportation Engineering",
+      "term": "SPR2025",
+      "course": "CET 586",
+      "courseTitle": "PEDESTRIAN TRAVEL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 514",
+      "courseTitle": "RACE&SOCIAL JUSTICE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2024",
+      "course": "URBDP 508",
+      "courseTitle": "SPECIAL PLANN LAB",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2023",
+      "course": "URBDP 508",
+      "courseTitle": "SPECIAL PLANN LAB",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2022",
+      "course": "URBDP 508",
+      "courseTitle": "SPECIAL PLANN LAB",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2021",
+      "course": "URBDP 508",
+      "courseTitle": "SPECIAL PLANN LAB",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cet",
+      "deptName": "Transportation Engineering",
+      "term": "SPR2021",
+      "course": "CET 586",
+      "courseTitle": "PEDESTRIAN TRAVEL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "urbdes",
+      "deptName": "Urban Planning",
+      "term": "AUT2020",
+      "course": "URBDP 508",
+      "courseTitle": "SPECIAL PLANN LAB",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "commenv",
+      "deptName": "Community, Environment, and Planning",
+      "term": "AUT2020",
+      "course": "CEP 460",
+      "courseTitle": "PLANNING IN CONTEXT",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "commenv",
+      "deptName": "Community, Environment, and Planning",
+      "term": "AUT2020",
+      "course": "CEP 460",
+      "courseTitle": "PLANNING IN CONTEXT",
       "section": "A"
     }
   ]

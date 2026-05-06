@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Taulu%2CSamu",
   "professor": "Taulu,Samu",
-  "recordCount": 7,
+  "recordCount": 9,
   "records": [
     {
       "campus": "S",
@@ -71,6 +71,26 @@
       "deptName": "Physics",
       "term": "SPR2022",
       "course": "PHYS 122",
+      "courseTitle": "ELECTROMAGNETISM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "WIN2021",
+      "course": "PHYS 322",
+      "courseTitle": "ELECTROMAGNETISM",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "phys",
+      "deptName": "Physics",
+      "term": "AUT2020",
+      "course": "PHYS 321",
       "courseTitle": "ELECTROMAGNETISM",
       "section": "A"
     }

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Wilcock%2CWilliam",
   "professor": "Wilcock,William",
-  "recordCount": 25,
+  "recordCount": 28,
   "records": [
     {
       "campus": "S",
@@ -252,6 +252,36 @@
       "term": "SPR2022",
       "course": "OCEAN 540",
       "courseTitle": "MAR GEOL & GEOPHYS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "SPR2021",
+      "course": "OCEAN 549",
+      "courseTitle": "SMNR GEO/GPHY OCEAN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "WIN2021",
+      "course": "OCEAN 549",
+      "courseTitle": "SMNR GEO/GPHY OCEAN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ocean",
+      "deptName": "Oceanography",
+      "term": "AUT2020",
+      "course": "OCEAN 545",
+      "courseTitle": "OCEANIC LITHOSPHERE",
       "section": "A"
     }
   ]

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "ERVIN%2CJOSHUA%20LAWRENCE",
   "professor": "ERVIN,JOSHUA LAWRENCE",
-  "recordCount": 2,
+  "recordCount": 4,
   "records": [
     {
       "campus": "S",
@@ -20,6 +20,26 @@
       "dept": "cse",
       "deptName": "-- see Computer Science and Engineering",
       "term": "WIN2022",
+      "course": "CSE 391",
+      "courseTitle": "SOFTWARE TOOLS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "WIN2021",
+      "course": "CSE 391",
+      "courseTitle": "SOFTWARE TOOLS",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "cse",
+      "deptName": "-- see Computer Science and Engineering",
+      "term": "WIN2021",
       "course": "CSE 391",
       "courseTitle": "SOFTWARE TOOLS",
       "section": "A"

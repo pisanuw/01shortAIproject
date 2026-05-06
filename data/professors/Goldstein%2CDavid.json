@@ -1,119 +1,328 @@
 {
-  "generatedAt": "2026-05-05T23:34:07Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Goldstein%2CDavid",
   "professor": "Goldstein,David",
-  "recordCount": 11,
+  "recordCount": 32,
   "records": [
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "biscla",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "WIN2026",
-      "course": "BISCLA 201",
-      "courseTitle": "Exploring Culture, Literature, And The Arts",
+      "deptName": "Culture Literature and the Arts",
+      "term": "SPR2026",
+      "course": "BISCLA 384",
+      "courseTitle": "LIT & POPULAR GENRE",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "WIN2026",
-      "course": "BIS 347",
-      "courseTitle": "History Of American Documentary Films",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "WIN2026",
-      "course": "BIS 261",
-      "courseTitle": "Introduction To Film Studies",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "WIN2025",
-      "course": "BIS 499",
-      "courseTitle": "Portfolio Capstone",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "WIN2025",
-      "course": "BIS 347",
-      "courseTitle": "History Of American Documentary Films",
-      "section": "A"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "SUM2025",
-      "course": "BIS 162",
-      "courseTitle": "Race, Gender, And Sexuality Through Film And Television",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SPR2026",
+      "course": "BIS 166",
+      "courseTitle": "MEM, HST & LIT IN US",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "biscla",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "SPR2025",
-      "course": "BISCLA 384",
-      "courseTitle": "Literary And Popular Genres",
+      "deptName": "Culture Literature and the Arts",
+      "term": "WIN2026",
+      "course": "BISCLA 201",
+      "courseTitle": "EXPLRG CLTR/LIT/ARTS",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "SPR2025",
-      "course": "BIS 499",
-      "courseTitle": "Portfolio Capstone",
-      "section": "C"
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2026",
+      "course": "BIS 347",
+      "courseTitle": "HIST AM DOCUM FILM",
+      "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2026",
+      "course": "BIS 261",
+      "courseTitle": "INTRO FILM STUDIES",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SUM2025",
+      "course": "BIS 162",
+      "courseTitle": "RACE/GEN/SEX IN FILM",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "biscla",
+      "deptName": "Culture Literature and the Arts",
+      "term": "SPR2025",
+      "course": "BISCLA 384",
+      "courseTitle": "LIT & POPULAR GENRE",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2025",
+      "course": "BIS 347",
+      "courseTitle": "HIST AM DOCUM FILM",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
       "term": "AUT2024",
-      "course": "BIS 499",
-      "courseTitle": "Portfolio Capstone",
+      "course": "BIS 379",
+      "courseTitle": "AM ETHNIC LIT",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2024",
+      "course": "BIS 261",
+      "courseTitle": "INTRO FILM STUDIES",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SUM2024",
+      "course": "BIS 162",
+      "courseTitle": "RACE/GEN/SEX IN FILM",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "biscla",
+      "deptName": "Culture Literature and the Arts",
+      "term": "SPR2024",
+      "course": "BISCLA 384",
+      "courseTitle": "LIT & POPULAR GENRE",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2024",
+      "course": "BIS 347",
+      "courseTitle": "HIST AM DOCUM FILM",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2024",
+      "course": "BIS 162",
+      "courseTitle": "RACE/GEN/SEX IN FILM",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2023",
+      "course": "BIS 379",
+      "courseTitle": "AM ETHNIC LIT",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2023",
+      "course": "BIS 300",
+      "courseTitle": "INTERDISC INQUIRY",
       "section": "B"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "AUT2024",
-      "course": "BIS 379",
-      "courseTitle": "American Ethnic Literatures",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2023",
+      "course": "BIS 261",
+      "courseTitle": "INTRO FILM STUDIES",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "biscla",
+      "deptName": "Culture Literature and the Arts",
+      "term": "SPR2023",
+      "course": "BISCLA 384",
+      "courseTitle": "LIT & POPULAR GENRE",
       "section": "A"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
-      "term": "AUT2024",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SPR2023",
+      "course": "BIS 347",
+      "courseTitle": "HIST AM DOCUM FILM",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2023",
+      "course": "BIS 300",
+      "courseTitle": "INTERDISC INQUIRY",
+      "section": "C"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2022",
+      "course": "BIS 379",
+      "courseTitle": "AM ETHNIC LIT",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2022",
+      "course": "BIS 300",
+      "courseTitle": "INTERDISC INQUIRY",
+      "section": "C"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2022",
       "course": "BIS 261",
-      "courseTitle": "Introduction To Film Studies",
+      "courseTitle": "INTRO FILM STUDIES",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2022",
+      "course": "BIS 261",
+      "courseTitle": "INTRO FILM STUDIES",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2021",
+      "course": "BIS 261",
+      "courseTitle": "INTRO FILM STUDIES",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SUM2021",
+      "course": "BIS 261",
+      "courseTitle": "INTRO FILM STUDIES",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SUM2021",
+      "course": "BIS 261",
+      "courseTitle": "INTRO FILM STUDIES",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SPR2021",
+      "course": "BIS 499",
+      "courseTitle": "PORTFOLIO CAPSTONE",
+      "section": "F"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SPR2021",
+      "course": "BIS 300",
+      "courseTitle": "INTERDISC INQUIRY",
+      "section": "C"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2021",
+      "course": "BIS 347",
+      "courseTitle": "HIST AM DOCUM FILM",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2021",
+      "course": "BIS 300",
+      "courseTitle": "INTERDISC INQUIRY",
+      "section": "C"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2020",
+      "course": "BIS 379",
+      "courseTitle": "AM ETHNIC LIT",
       "section": "A"
     }
-  ],
-  "source": "eval-only"
+  ]
 }

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Zalatan%2CJesse",
   "professor": "Zalatan,Jesse",
-  "recordCount": 15,
+  "recordCount": 16,
   "records": [
     {
       "campus": "S",
@@ -152,6 +152,16 @@
       "term": "WIN2021",
       "course": "CHEM 436",
       "courseTitle": "CHEMICAL BIOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2020",
+      "course": "CHEM 239",
+      "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A"
     }
   ]

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:18Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Alvarez%2CCimmiaron",
   "professor": "Alvarez,Cimmiaron",
-  "recordCount": 1,
+  "recordCount": 2,
   "records": [
     {
       "campus": "S",
@@ -13,6 +13,16 @@
       "course": "COM 270",
       "courseTitle": "INTERPERSONAL CMU",
       "section": "D"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "com",
+      "deptName": "Communication",
+      "term": "SUM2021",
+      "course": "COM 220",
+      "courseTitle": "INTRO TO PUBLIC SPK",
+      "section": "C"
     }
   ]
 }

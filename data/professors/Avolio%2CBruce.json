@@ -1,9 +1,19 @@
 {
-  "generatedAt": "2026-04-16T02:57:18Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Avolio%2CBruce",
   "professor": "Avolio,Bruce",
-  "recordCount": 1,
+  "recordCount": 2,
   "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "mgmt",
+      "deptName": "Management",
+      "term": "WIN2025",
+      "course": "MGMT 581",
+      "courseTitle": "SOCIAL PROCS IN ORGS",
+      "section": "A"
+    },
     {
       "campus": "S",
       "campusName": "Seattle",

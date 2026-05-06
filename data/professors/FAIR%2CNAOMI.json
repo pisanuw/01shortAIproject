@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
-  "id": "Fair%2CNaomi",
-  "professor": "Fair,Naomi",
-  "recordCount": 4,
+  "generatedAt": "2026-05-06T01:15:29Z",
+  "id": "FAIR%2CNAOMI",
+  "professor": "FAIR,NAOMI",
+  "recordCount": 6,
   "records": [
     {
       "campus": "S",
@@ -43,6 +43,26 @@
       "course": "EDSPE 304",
       "courseTitle": "DISABILITY IN EDUC",
       "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "teached",
+      "deptName": "Education",
+      "term": "AUT2022",
+      "course": "EDTEP 544",
+      "courseTitle": "DIFFERENTIATED INST",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "SUM2022",
+      "course": "EDUC 300",
+      "courseTitle": "SPECIAL TOPICS EDUC",
+      "section": "B"
     }
   ]
 }

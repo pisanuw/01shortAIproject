@@ -1,19 +1,238 @@
 {
-  "generatedAt": "2026-05-05T23:34:07Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Lichty%2CLauren",
   "professor": "Lichty,Lauren",
-  "recordCount": 1,
+  "recordCount": 23,
   "records": [
     {
       "campus": "B",
       "campusName": "Bothell",
+      "dept": "bispsy",
+      "deptName": "Psychology",
+      "term": "SPR2026",
+      "course": "BISPSY 343",
+      "courseTitle": "COMMUNITY PSYCHOLOGY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
       "dept": "bis",
-      "deptName": "Interdisciplinary Arts and Sciences",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SPR2026",
+      "course": "BIS 438",
+      "courseTitle": "PREVENT & PROMOTION",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
       "term": "WIN2026",
       "course": "BIS 222",
-      "courseTitle": "Introduction To Human Sexuality",
+      "courseTitle": "HUMAN SEXUALITY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SUM2025",
+      "course": "BIS 222",
+      "courseTitle": "HUMAN SEXUALITY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SPR2025",
+      "course": "BIS 222",
+      "courseTitle": "HUMAN SEXUALITY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2025",
+      "course": "BIS 222",
+      "courseTitle": "HUMAN SEXUALITY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "AUT2024",
+      "course": "B CORE 107",
+      "courseTitle": "DISC CORE: SOC SCI",
+      "section": "F"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SUM2024",
+      "course": "BIS 222",
+      "courseTitle": "HUMAN SEXUALITY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2024",
+      "course": "BIS 222",
+      "courseTitle": "HUMAN SEXUALITY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bispsy",
+      "deptName": "Psychology",
+      "term": "AUT2023",
+      "course": "BISPSY 343",
+      "courseTitle": "COMMUNITY PSYCH",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "AUT2023",
+      "course": "B CORE 107",
+      "courseTitle": "DISC CORE: SOC SCI",
+      "section": "J"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SUM2023",
+      "course": "BIS 222",
+      "courseTitle": "HUMAN SEXUALITY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SPR2023",
+      "course": "BIS 222",
+      "courseTitle": "HUMAN SEXUALITY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bispsy",
+      "deptName": "Psychology",
+      "term": "WIN2023",
+      "course": "BISPSY 343",
+      "courseTitle": "COMMUNITY PSYCH",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2023",
+      "course": "BIS 438",
+      "courseTitle": "PREVENT & PROMOTION",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2022",
+      "course": "BIS 222",
+      "courseTitle": "HUMAN SEXUALITY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "AUT2022",
+      "course": "B CORE 107",
+      "courseTitle": "INDVDUALS & SOC 1",
+      "section": "K"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "SUM2022",
+      "course": "BIS 222",
+      "courseTitle": "HUMAN SEXUALITY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2022",
+      "course": "BIS 222",
+      "courseTitle": "HUMAN SEXUALITY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "AUT2021",
+      "course": "BIS 222",
+      "courseTitle": "HUMAN SEXUALITY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "AUT2021",
+      "course": "B CORE 107",
+      "courseTitle": "INDVDUALS & SOC 1",
+      "section": "F"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bis",
+      "deptName": "Interdisciplinary Studies",
+      "term": "WIN2021",
+      "course": "BIS 222",
+      "courseTitle": "HUMAN SEXUALITY",
+      "section": "A"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "AUT2020",
+      "course": "B CORE 107",
+      "courseTitle": "INDVDUALS & SOC 1",
       "section": "A"
     }
-  ],
-  "source": "eval-only"
+  ]
 }

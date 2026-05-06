@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:18Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Barcel%2CAmber",
   "professor": "Barcel,Amber",
-  "recordCount": 1,
+  "recordCount": 2,
   "records": [
     {
       "campus": "S",
@@ -10,6 +10,16 @@
       "dept": "socwk",
       "deptName": "Social Work",
       "term": "AUT2025",
+      "course": "SOC W 501",
+      "courseTitle": "POVERTY&INEQUALITY",
+      "section": "F"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwk",
+      "deptName": "Social Work",
+      "term": "AUT2024",
       "course": "SOC W 501",
       "courseTitle": "POVERTY&INEQUALITY",
       "section": "F"

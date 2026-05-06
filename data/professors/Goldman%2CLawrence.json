@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Goldman%2CLawrence",
   "professor": "Goldman,Lawrence",
-  "recordCount": 25,
+  "recordCount": 28,
   "records": [
     {
       "campus": "S",
@@ -253,6 +253,36 @@
       "course": "CHEM 238",
       "courseTitle": "ORGANIC CHEMISTRY",
       "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2020",
+      "course": "CHEM 242",
+      "courseTitle": "ORGANIC CHEM LAB",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2020",
+      "course": "CHEM 241",
+      "courseTitle": "ORGANIC CHEM LAB",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "chem",
+      "deptName": "Chemistry",
+      "term": "AUT2020",
+      "course": "CHEM 237",
+      "courseTitle": "ORGANIC CHEMISTRY",
+      "section": "B"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
-  "id": "Lin%2CHuiyu",
-  "professor": "Lin,Huiyu",
-  "recordCount": 4,
+  "generatedAt": "2026-05-06T01:15:30Z",
+  "id": "LIN%2CHUIYU",
+  "professor": "LIN,HUIYU",
+  "recordCount": 5,
   "records": [
     {
       "campus": "S",
@@ -43,6 +43,16 @@
       "course": "ECFS 402",
       "courseTitle": "SOCIAL POLICY",
       "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ecfs",
+      "deptName": "Early Childhood and Family Studies",
+      "term": "SPR2021",
+      "course": "ECFS 330",
+      "courseTitle": "CREATIVITY IN ECE",
+      "section": "A"
     }
   ]
 }

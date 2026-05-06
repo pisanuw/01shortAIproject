@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
-  "id": "Newman%2CJ",
-  "professor": "Newman,J",
-  "recordCount": 12,
+  "generatedAt": "2026-05-06T01:15:30Z",
+  "id": "NEWMAN%2CJ",
+  "professor": "NEWMAN,J",
+  "recordCount": 16,
   "records": [
     {
       "campus": "S",
@@ -122,6 +122,46 @@
       "term": "WIN2021",
       "course": "EDPSY 302",
       "courseTitle": "CHILD DVLPMNT &LRNG",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dentpc",
+      "deptName": "Dental Pre-Clinical",
+      "term": "WIN2021",
+      "course": "DENTPC 520",
+      "courseTitle": "DENTAL OCCLUSION",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dentpc",
+      "deptName": "Dental Pre-Clinical",
+      "term": "WIN2021",
+      "course": "DENTPC 520",
+      "courseTitle": "DENTAL OCCLUSION",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dentpc",
+      "deptName": "Dental Pre-Clinical",
+      "term": "AUT2020",
+      "course": "DENTPC 510",
+      "courseTitle": "DENTAL ANATOMY",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "dentpc",
+      "deptName": "Dental Pre-Clinical",
+      "term": "AUT2020",
+      "course": "DENTPC 510",
+      "courseTitle": "DENTAL ANATOMY",
       "section": "A"
     }
   ]

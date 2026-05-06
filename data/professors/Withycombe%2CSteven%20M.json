@@ -1,9 +1,49 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Withycombe%2CSteven%20M",
   "professor": "Withycombe,Steven M",
-  "recordCount": 6,
+  "recordCount": 10,
   "records": [
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2025",
+      "course": "ARCH 598",
+      "courseTitle": "SPECIAL TOPICS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2025",
+      "course": "ARCH 505",
+      "courseTitle": "ARCH EXPLORATION I",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "SPR2025",
+      "course": "ARCH 498",
+      "courseTitle": "SPECIAL PROJECTS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "WIN2025",
+      "course": "ARCH 401",
+      "courseTitle": "ARCH DESIGN V",
+      "section": "A"
+    },
     {
       "campus": "S",
       "campusName": "Seattle",

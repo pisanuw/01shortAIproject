@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Sauder%2CCara",
   "professor": "Sauder,Cara",
-  "recordCount": 9,
+  "recordCount": 11,
   "records": [
     {
       "campus": "S",
@@ -90,6 +90,26 @@
       "dept": "sphsc",
       "deptName": "Speech and Hearing Sciences",
       "term": "WIN2021",
+      "course": "SPHSC 552",
+      "courseTitle": "ADV PRACT SPCH MGMT",
+      "section": "G"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sphsc",
+      "deptName": "Speech and Hearing Sciences",
+      "term": "AUT2020",
+      "course": "SPHSC 553",
+      "courseTitle": "PRACTICUM SLP",
+      "section": "L"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "sphsc",
+      "deptName": "Speech and Hearing Sciences",
+      "term": "AUT2020",
       "course": "SPHSC 552",
       "courseTitle": "ADV PRACT SPCH MGMT",
       "section": "G"

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Rizzardi%2CJonathan",
   "professor": "Rizzardi,Jonathan",
-  "recordCount": 1,
+  "recordCount": 2,
   "records": [
     {
       "campus": "S",
@@ -10,6 +10,16 @@
       "dept": "drama",
       "deptName": "Drama",
       "term": "SPR2022",
+      "course": "DRAMA 103",
+      "courseTitle": "THEATRE APPRECIATN",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "drama",
+      "deptName": "Drama",
+      "term": "AUT2020",
       "course": "DRAMA 103",
       "courseTitle": "THEATRE APPRECIATN",
       "section": "A"

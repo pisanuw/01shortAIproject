@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "DURST%2CHELEN",
   "professor": "DURST,HELEN",
-  "recordCount": 2,
+  "recordCount": 3,
   "records": [
     {
       "campus": "S",
@@ -22,6 +22,16 @@
       "term": "AUT2021",
       "course": "DANISH 101",
       "courseTitle": "FIRST YEAR DANISH 1",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "danish",
+      "deptName": "Danish",
+      "term": "WIN2021",
+      "course": "DANISH 102",
+      "courseTitle": "FIRST YEAR DANISH 2",
       "section": "A"
     }
   ]

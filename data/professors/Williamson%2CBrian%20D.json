@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:21Z",
+  "generatedAt": "2026-05-06T01:15:30Z",
   "id": "Williamson%2CBrian%20D",
   "professor": "Williamson,Brian D",
-  "recordCount": 1,
+  "recordCount": 2,
   "records": [
     {
       "campus": "S",
@@ -10,6 +10,16 @@
       "dept": "biostat",
       "deptName": "Biostatistics",
       "term": "WIN2025",
+      "course": "BIOST 582",
+      "courseTitle": "STUDENT SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "biostat",
+      "deptName": "Biostatistics",
+      "term": "SPR2022",
       "course": "BIOST 582",
       "courseTitle": "STUDENT SEMINAR",
       "section": "A"

@@ -1,99 +1,138 @@
 {
-  "generatedAt": "2026-05-05T23:34:07Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Lee%2CJonathan",
   "professor": "Lee,Jonathan",
-  "recordCount": 9,
+  "recordCount": 13,
   "records": [
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bwrit",
-      "deptName": "First Year Pre-Major Program",
-      "term": "WIN2026",
+      "deptName": "Writing",
+      "term": "SPR2026",
       "course": "B WRIT 134",
-      "courseTitle": "Composition",
-      "section": "I"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bwrit",
-      "deptName": "First Year Pre-Major Program",
-      "term": "WIN2026",
-      "course": "B WRIT 134",
-      "courseTitle": "Composition",
-      "section": "D"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bwrit",
-      "deptName": "First Year Pre-Major Program",
-      "term": "WIN2026",
-      "course": "B WRIT 134",
-      "courseTitle": "Composition",
-      "section": "B"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bwrit",
-      "deptName": "First Year Pre-Major Program",
-      "term": "WIN2025",
-      "course": "B WRIT 135",
-      "courseTitle": "Research Writing",
-      "section": "M"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bwrit",
-      "deptName": "First Year Pre-Major Program",
-      "term": "WIN2025",
-      "course": "B WRIT 134",
-      "courseTitle": "Composition",
-      "section": "G"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bcore",
-      "deptName": "First Year Pre-Major Program",
-      "term": "AUT2025",
-      "course": "B CORE 107",
-      "courseTitle": "Discovery Core: Social Sciences",
-      "section": "N"
-    },
-    {
-      "campus": "B",
-      "campusName": "Bothell",
-      "dept": "bcore",
-      "deptName": "First Year Pre-Major Program",
-      "term": "AUT2025",
-      "course": "B CORE 104",
-      "courseTitle": "Discovery Core: Arts And Humanities",
+      "courseTitle": "COMPOSITION",
       "section": "E"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bwrit",
-      "deptName": "First Year Pre-Major Program",
+      "deptName": "Writing",
+      "term": "WIN2026",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
+      "section": "I"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "WIN2026",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
+      "section": "D"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "WIN2026",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
+      "section": "B"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "AUT2025",
+      "course": "B CORE 107",
+      "courseTitle": "DISC CORE: SOC SCI",
+      "section": "N"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bcore",
+      "deptName": "University Studies and Programs",
+      "term": "AUT2025",
+      "course": "B CORE 104",
+      "courseTitle": "DISC CORE: ART & HUM",
+      "section": "E"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "WIN2025",
+      "course": "B WRIT 135",
+      "courseTitle": "RESEARCH WRITING",
+      "section": "M"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "WIN2025",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
+      "section": "G"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bwrit",
+      "deptName": "Writing",
       "term": "AUT2024",
       "course": "B WRIT 134",
-      "courseTitle": "Composition",
+      "courseTitle": "COMPOSITION",
       "section": "L"
     },
     {
       "campus": "B",
       "campusName": "Bothell",
       "dept": "bwrit",
-      "deptName": "First Year Pre-Major Program",
+      "deptName": "Writing",
       "term": "AUT2024",
       "course": "B WRIT 134",
-      "courseTitle": "Composition",
+      "courseTitle": "COMPOSITION",
       "section": "H"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "AUT2023",
+      "course": "B WRIT 135",
+      "courseTitle": "RESEARCH WRITING",
+      "section": "C"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "AUT2023",
+      "course": "B WRIT 134",
+      "courseTitle": "COMPOSITION",
+      "section": "D"
+    },
+    {
+      "campus": "B",
+      "campusName": "Bothell",
+      "dept": "bwrit",
+      "deptName": "Writing",
+      "term": "SPR2023",
+      "course": "B WRIT 135",
+      "courseTitle": "RESEARCH WRITING",
+      "section": "B"
     }
-  ],
-  "source": "eval-only"
+  ]
 }

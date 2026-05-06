@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Lally%2CJaclyn",
   "professor": "Lally,Jaclyn",
-  "recordCount": 24,
+  "recordCount": 29,
   "records": [
     {
       "campus": "S",
@@ -242,6 +242,56 @@
       "term": "SPR2022",
       "course": "EDUC 216",
       "courseTitle": "PATH TO HAPPINESS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "AUT2021",
+      "course": "EDUC 216",
+      "courseTitle": "PATH TO HAPPINESS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "SPR2021",
+      "course": "EDUC 215",
+      "courseTitle": "COLLEGE RESILIENCE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "WIN2021",
+      "course": "EDUC 215",
+      "courseTitle": "COLLEGE RESILIENCE",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "AUT2020",
+      "course": "EDUC 215",
+      "courseTitle": "COLLEGE RESILIENCE",
+      "section": "B"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "indsrf",
+      "deptName": "College of Education",
+      "term": "AUT2020",
+      "course": "EDUC 215",
+      "courseTitle": "COLLEGE RESILIENCE",
       "section": "A"
     }
   ]

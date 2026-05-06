@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "J%20Harrell%2CMyer",
   "professor": "J Harrell,Myer",
-  "recordCount": 2,
+  "recordCount": 3,
   "records": [
     {
       "campus": "S",
@@ -20,6 +20,16 @@
       "dept": "archit",
       "deptName": "Architecture",
       "term": "SPR2024",
+      "course": "ARCH 530",
+      "courseTitle": "INTEGRATED SYSEMS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "archit",
+      "deptName": "Architecture",
+      "term": "AUT2022",
       "course": "ARCH 530",
       "courseTitle": "INTEGRATED SYSEMS",
       "section": "A"

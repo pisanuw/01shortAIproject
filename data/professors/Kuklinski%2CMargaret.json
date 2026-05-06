@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:20Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Kuklinski%2CMargaret",
   "professor": "Kuklinski,Margaret",
-  "recordCount": 4,
+  "recordCount": 5,
   "records": [
     {
       "campus": "S",
@@ -40,6 +40,16 @@
       "dept": "socwl",
       "deptName": "Social Welfare",
       "term": "SPR2023",
+      "course": "SOC WL 553",
+      "courseTitle": "IMPLEMENT & ORG",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "socwl",
+      "deptName": "Social Welfare",
+      "term": "SPR2022",
       "course": "SOC WL 553",
       "courseTitle": "IMPLEMENT & ORG",
       "section": "A"

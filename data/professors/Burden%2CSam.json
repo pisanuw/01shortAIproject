@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-16T02:57:19Z",
+  "generatedAt": "2026-05-06T01:15:29Z",
   "id": "Burden%2CSam",
   "professor": "Burden,Sam",
-  "recordCount": 11,
+  "recordCount": 19,
   "records": [
     {
       "campus": "S",
@@ -110,6 +110,86 @@
       "dept": "ee",
       "deptName": "Electrical and Computer Engineering",
       "term": "AUT2021",
+      "course": "E E 447",
+      "courseTitle": "CONTROL SYS ANLYS I",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "meche",
+      "deptName": "Mechanical Engineering",
+      "term": "SPR2021",
+      "course": "M E 548",
+      "courseTitle": "LIN MULTVAR CONTROL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "SPR2021",
+      "course": "E E 548",
+      "courseTitle": "LIN MULTVAR CONTROL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "SPR2021",
+      "course": "A A 548",
+      "courseTitle": "LIN MULTVAR CONTROL",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "WIN2021",
+      "course": "E E 547",
+      "courseTitle": "LINEAR SYSTEMS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "aa",
+      "deptName": "Aeronautics and Astronautics",
+      "term": "WIN2021",
+      "course": "A A 547",
+      "courseTitle": "LINEAR SYSTEMS",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "AUT2020",
+      "course": "E E 500",
+      "courseTitle": "GRADUATE SEMINAR",
+      "section": "C"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "AUT2020",
+      "course": "E E 491",
+      "courseTitle": "UNDERGRAD SEMINAR",
+      "section": "A"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "ee",
+      "deptName": "Electrical and Computer Engineering",
+      "term": "AUT2020",
       "course": "E E 447",
       "courseTitle": "CONTROL SYS ANLYS I",
       "section": "A"

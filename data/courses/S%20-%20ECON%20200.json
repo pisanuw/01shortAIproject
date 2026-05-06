@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T02:57:23Z",
+  "generatedAt": "2026-05-06T01:15:33Z",
   "id": "S%20-%20ECON%20200",
   "course": "S - ECON 200",
   "recordCount": 104,
@@ -277,7 +277,7 @@
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
       "section": "B",
-      "instructor": "Effendy,Alfredo Nicholas"
+      "instructor": "Effendy,Alfredo"
     },
     {
       "campus": "S",
@@ -826,6 +826,17 @@
       "term": "AUT2021",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
+      "section": "F",
+      "instructor": "Kwak,Kyongjun"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "AUT2021",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
       "section": "A",
       "instructor": "Knox,Melissa A"
     },
@@ -839,17 +850,6 @@
       "courseTitle": "INTRO MICROECON",
       "section": "H",
       "instructor": "Khurana,Mikita"
-    },
-    {
-      "campus": "S",
-      "campusName": "Seattle",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "AUT2021",
-      "course": "ECON 200",
-      "courseTitle": "INTRO MICROECON",
-      "section": "F",
-      "instructor": "KWAK,KYONGJUN"
     },
     {
       "campus": "S",
@@ -892,6 +892,17 @@
       "term": "SUM2021",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
+      "section": "A",
+      "instructor": "Kwak,Kyongjun"
+    },
+    {
+      "campus": "S",
+      "campusName": "Seattle",
+      "dept": "econ",
+      "deptName": "Economics",
+      "term": "SUM2021",
+      "course": "ECON 200",
+      "courseTitle": "INTRO MICROECON",
       "section": "C",
       "instructor": "Khurana,Mikita"
     },
@@ -903,19 +914,8 @@
       "term": "SUM2021",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
-      "section": "A",
-      "instructor": "KWAK,KYONGJUN"
-    },
-    {
-      "campus": "S",
-      "campusName": "Seattle",
-      "dept": "econ",
-      "deptName": "Economics",
-      "term": "SUM2021",
-      "course": "ECON 200",
-      "courseTitle": "INTRO MICROECON",
       "section": "B",
-      "instructor": "CHOUNG,HAE YUN"
+      "instructor": "Choung,Hae Yun"
     },
     {
       "campus": "S",
@@ -948,7 +948,7 @@
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
       "section": "F",
-      "instructor": "Xue,Wendao"
+      "instructor": "XUE,WENDAO"
     },
     {
       "campus": "S",
@@ -1013,8 +1013,8 @@
       "term": "AUT2020",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
-      "section": "C",
-      "instructor": "Xue,Wendao"
+      "section": "K",
+      "instructor": "Xu,Lia"
     },
     {
       "campus": "S",
@@ -1024,8 +1024,8 @@
       "term": "AUT2020",
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
-      "section": "K",
-      "instructor": "Xu,Lia"
+      "section": "C",
+      "instructor": "XUE,WENDAO"
     },
     {
       "campus": "S",
@@ -1091,7 +1091,7 @@
       "course": "ECON 200",
       "courseTitle": "INTRO MICROECON",
       "section": "B",
-      "instructor": "Jacobs,Joshua Abraham"
+      "instructor": "Jacobs,Joshua"
     },
     {
       "campus": "S",
