@@ -13,3 +13,5 @@
 2026-05-05T18:10 /close
 
 2026-05-05T18:20 Why does this project not have an AI-log.md file? The ~/.claude/CLAUDE.md instructions ask you to create it
+
+2026-05-10T00:00 User: This project is pause. When users visit https://uwcourses.netlify.app/ they should get a message and an automatic auto-direct to https://myuni.top/
