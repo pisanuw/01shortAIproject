@@ -8,6 +8,8 @@ Multi-campus mode:      reads data/raw/{CAMPUS}/{TERM}_{dept}.html
 """
 from __future__ import annotations
 
+import logging
+
 import argparse
 import json
 import re
@@ -25,6 +27,8 @@ from terms import (
     configured_term_codes,
     term_sort_key,
 )
+
+logger = logging.getLogger(__name__)
 
 ROOT = Path(__file__).resolve().parent.parent
 RAW_DIR = ROOT / "data" / "raw"
@@ -549,7 +553,8 @@ def build_professor_artifacts() -> None:
     for shard_path in sorted(SHARDS_DIR.glob("*/*.json")):
         try:
             payload = json.loads(shard_path.read_text(encoding="utf-8"))
-        except Exception:
+        except (json.JSONDecodeError, OSError) as exc:
+            logger.warning("skipping unreadable shard %s: %s", shard_path, exc)
             continue
 
         for row in payload.get("records", []):
@@ -628,7 +633,8 @@ def build_course_artifacts() -> None:
     for shard_path in sorted(SHARDS_DIR.glob("*/*.json")):
         try:
             payload = json.loads(shard_path.read_text(encoding="utf-8"))
-        except Exception:
+        except (json.JSONDecodeError, OSError) as exc:
+            logger.warning("skipping unreadable shard %s: %s", shard_path, exc)
             continue
 
         for row in payload.get("records", []):
@@ -847,8 +853,8 @@ def main() -> None:
                                 "recordCount": dept.get("recordCount", 0),
                             })
                     existing_index[camp] = existing_depts
-            except Exception:
-                pass
+            except (json.JSONDecodeError, OSError, KeyError) as exc:
+                logger.warning("could not merge existing catalog index: %s", exc)
 
         merged: dict[str, list[dict]] = {**existing_index, **all_summaries}
         build_catalog_index(merged)
