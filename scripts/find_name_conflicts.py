@@ -18,6 +18,7 @@ Usage:
   python3 scripts/find_name_conflicts.py --apply     # write AUTO entries to fixNames.txt
 """
 
+import logging
 import argparse
 import csv
 import json
@@ -27,6 +28,8 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import quote, unquote
+
+logger = logging.getLogger(__name__)
 
 try:
     import openpyxl
@@ -94,7 +97,8 @@ def load_catalog_sections():
         for shard_file in campus_dir.glob("*.json"):
             try:
                 data = json.loads(shard_file.read_text(encoding="utf-8"))
-            except Exception:
+            except (json.JSONDecodeError, OSError) as exc:
+                logger.warning("skipping unreadable shard %s: %s", shard_file, exc)
                 continue
             for rec in data.get("records", []):
                 instr = (rec.get("instructor") or "").strip()
@@ -162,7 +166,8 @@ def load_professor_courses(professor_id):
     try:
         data = json.loads(path.read_text(encoding="utf-8"))
         return {r.get("course", "") for r in data.get("records", [])}
-    except Exception:
+    except (json.JSONDecodeError, OSError) as exc:
+        logger.warning("could not read %s, treating as empty: %s", path, exc)
         return set()
 
 
